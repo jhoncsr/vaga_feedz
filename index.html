@@ -27,4 +27,261 @@
         /* Grid de Vagas */
         .jobs-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; }
         .job-card { background: var(--card-bg); border-radius: 10px; padding: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-left: 5px solid var(--primary); display: flex; flex-direction: column; transition: transform 0.2s; }
-        .job-card:hover { transform: translateY(-3px); box-shadow: 0 5px 15px rgba(
+        .job-card:hover { transform: translateY(-3px); box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
+        
+        .job-title { font-size: 1.2rem; font-weight: bold; color: var(--secondary); }
+        .job-company { font-size: 0.9rem; color: #7f8c8d; margin-bottom: 10px; text-transform: uppercase; font-weight: bold;}
+        .job-info { font-size: 0.85rem; color: #555; margin-bottom: 15px; background: #eee; padding: 5px; border-radius: 4px; display: inline-block;}
+        
+        .job-footer { margin-top: auto; padding-top: 15px; border-top: 1px solid #eee; display: flex; justify-content: space-between; align-items: center;}
+        .btn-details { background-color: var(--secondary); color: white; padding: 8px 15px; border-radius: 4px; font-size: 0.9rem; }
+        .btn-details:hover { background-color: #34495e; }
+
+        /* --- ESTILOS DO MODAL (Pop-up) --- */
+        .modal-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); z-index: 1000; justify-content: center; align-items: center; }
+        .modal-content { background: white; width: 90%; max-width: 800px; max-height: 90vh; border-radius: 10px; padding: 25px; position: relative; display: flex; flex-direction: column; box-shadow: 0 10px 25px rgba(0,0,0,0.2); }
+        
+        .modal-header { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #eee; padding-bottom: 15px; margin-bottom: 15px; }
+        .modal-header h2 { margin: 0; color: var(--secondary); font-size: 1.4rem; }
+        .close-btn { background: none; color: #999; font-size: 1.5rem; padding: 0; }
+        .close-btn:hover { color: red; transform: none; background: none;}
+
+        .modal-body { overflow-y: auto; flex-grow: 1; padding-right: 10px; font-size: 0.95rem; color: #444; line-height: 1.6; }
+        /* Scrollbar personalizada */
+        .modal-body::-webkit-scrollbar { width: 8px; }
+        .modal-body::-webkit-scrollbar-thumb { background: #ccc; border-radius: 4px; }
+
+        .modal-footer { margin-top: 20px; padding-top: 15px; border-top: 1px solid #eee; display: flex; gap: 10px; justify-content: flex-end; flex-wrap: wrap; }
+        
+        .btn-copy { background-color: #f1c40f; color: #333; } /* Amarelo */
+        .btn-copy:hover { background-color: #d4ac0d; }
+        
+        .btn-apply { background-color: #27ae60; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; font-weight: bold; display: inline-block; font-size: 0.95rem; text-align: center;}
+        .btn-apply:hover { background-color: #219150; }
+
+        .status-msg { text-align: center; padding: 20px; color: #666; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>🎯 Painel de Vagas</h1>
+        <p>Atualizado automaticamente via GitHub Actions</p>
+    </header>
+
+    <div class="control-panel">
+        <button class="btn-refresh" onclick="carregarVagas()">🔄 Recarregar Lista</button>
+        
+        <a href="https://github.com/jhoncsr/vaga_feedz/actions/workflows/atualizacao.yml" target="_blank" class="btn-admin">⚙️ Status do Robô</a>
+    </div>
+
+    <div id="statusMsg" class="status-msg">Carregando dados...</div>
+    <div id="jobsContainer" class="jobs-grid"></div>
+</div>
+
+<div id="jobModal" class="modal-overlay" onclick="fecharModal(event)">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h2 id="modalTitle">Título da Vaga</h2>
+            <button class="close-btn" onclick="fecharModal('botao')">&times;</button>
+        </div>
+        
+        <div class="modal-body" id="modalBody">
+            </div>
+
+        <div class="modal-footer">
+            <button class="btn-copy" onclick="copiarJsonVaga()">📋 Copiar JSON</button>
+            <a href="#" id="modalLink" target="_blank" class="btn-apply">Candidatar-se na TOTVS ➔</a>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Este arquivo deve ser gerado pelo seu GitHub Action (.yml)
+    const ARQUIVO_LOCAL = './vagas_totvs.xml';
+    
+    let allJobs = []; 
+    let currentJobIndex = null;
+
+    window.addEventListener('DOMContentLoaded', carregarVagas);
+
+    function carregarVagas() {
+        const container = document.getElementById('jobsContainer');
+        const statusMsg = document.getElementById('statusMsg');
+        
+        statusMsg.style.display = 'block';
+        statusMsg.innerText = "Buscando arquivo atualizado...";
+        container.innerHTML = '';
+
+        // Adiciona timestamp para ignorar cache do navegador
+        fetch(ARQUIVO_LOCAL + '?t=' + new Date().getTime())
+            .then(response => {
+                if (!response.ok) throw new Error("Arquivo XML ainda não foi gerado pelo Robô.");
+                return response.text();
+            })
+            .then(str => {
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(str, "text/xml");
+                
+                if (xmlDoc.getElementsByTagName("parsererror").length > 0) {
+                    throw new Error("XML inválido.");
+                }
+                
+                processarVagas(xmlDoc);
+                statusMsg.style.display = 'none';
+            })
+            .catch(err => {
+                console.error(err);
+                statusMsg.innerHTML = `
+                    ⚠️ <strong>Aguardando primeira sincronização...</strong><br>
+                    O robô do GitHub ainda está baixando o arquivo.<br>
+                    <small>Se você acabou de subir o site, aguarde alguns minutos ou vá em "Status do Robô" para rodar manualmente.</small>
+                `;
+            });
+    }
+
+    function processarVagas(xmlDoc) {
+        const jobs = xmlDoc.getElementsByTagName('job');
+        allJobs = [];
+
+        for (let i = 0; i < jobs.length; i++) {
+            const job = jobs[i];
+            const get = (tag) => job.getElementsByTagName(tag)[0]?.textContent?.trim() || 'N/A';
+            
+            // Tratamento de Salário
+            let salaryDisplay = 'A combinar';
+            const salaryEl = job.getElementsByTagName('salary')[0];
+            if (salaryEl) {
+                const low = salaryEl.getElementsByTagName('lowEnd')[0]?.getElementsByTagName('amount')[0]?.textContent;
+                if(low) salaryDisplay = `R$ ${parseFloat(low).toLocaleString('pt-BR', {minimumFractionDigits: 2})}`;
+            }
+
+            allJobs.push({
+                index: i,
+                id: get('partnerJobId'),
+                title: get('title'),
+                company: get('company'),
+                city: get('city'),
+                state: get('state'),
+                description: get('description'), // HTML completo da vaga
+                url: get('applyUrl'),
+                salary: salaryDisplay,
+                type: get('workplaceTypes')
+            });
+        }
+
+        renderJobs(allJobs);
+    }
+
+    function renderJobs(lista) {
+        const container = document.getElementById('jobsContainer');
+        container.innerHTML = '';
+
+        if (lista.length === 0) {
+            container.innerHTML = '<p style="text-align:center; grid-column:1/-1;">Nenhuma vaga encontrada.</p>';
+            return;
+        }
+
+        lista.forEach((job) => {
+            // Cria um resumo sem HTML para o card
+            const tempDiv = document.createElement("div");
+            tempDiv.innerHTML = job.description;
+            const descResumo = tempDiv.innerText.substring(0, 100) + "...";
+
+            const card = document.createElement('div');
+            card.className = 'job-card';
+            
+            card.innerHTML = `
+                <div class="job-title">${job.title}</div>
+                <div class="job-company">${job.company}</div>
+                <div class="job-info">📍 ${job.city}/${job.state} | 💰 ${job.salary}</div>
+                <div style="flex-grow:1; color:#666; font-size:0.9rem; margin-bottom:15px;">
+                    ${descResumo}
+                </div>
+                <div class="job-footer">
+                    <button class="btn-details" onclick="abrirModal(${job.index})">Ver Detalhes</button>
+                </div>
+            `;
+            container.appendChild(card);
+        });
+    }
+
+    // --- FUNÇÕES DO MODAL ---
+    function abrirModal(index) {
+        const job = allJobs[index];
+        currentJobIndex = index;
+
+        document.getElementById('modalTitle').innerText = job.title;
+        document.getElementById('modalLink').href = job.url;
+        
+        // Exibe todos os detalhes
+        const corpo = document.getElementById('modalBody');
+        corpo.innerHTML = `
+            <div style="background:#f8f9fa; padding:15px; border-radius:5px; margin-bottom:15px; border:1px solid #e9ecef;">
+                <p><strong>🏢 Empresa:</strong> ${job.company}</p>
+                <p><strong>📍 Local:</strong> ${job.city} - ${job.state}</p>
+                <p><strong>💼 Modelo:</strong> ${job.type}</p>
+                <p><strong>💰 Salário:</strong> ${job.salary}</p>
+                <p><strong>🆔 ID Vaga:</strong> ${job.id}</p>
+            </div>
+            <hr style="border:0; border-top:1px solid #eee; margin:15px 0;">
+            <div style="font-size:1rem;">
+                ${job.description}
+            </div>
+        `;
+
+        document.getElementById('jobModal').style.display = 'flex';
+    }
+
+    function fecharModal(event) {
+        if (event === 'botao' || event.target.id === 'jobModal') {
+            document.getElementById('jobModal').style.display = 'none';
+        }
+    }
+
+    function copiarJsonVaga() {
+        if (currentJobIndex === null) return;
+
+        const job = allJobs[currentJobIndex];
+        
+        // Objeto JSON limpo para cópia
+        const jsonExport = {
+            titulo: job.title,
+            empresa: job.company,
+            localizacao: `${job.city}-${job.state}`,
+            modelo: job.type,
+            salario: job.salary,
+            link_candidatura: job.url,
+            descricao_completa_html: job.description
+        };
+
+        const jsonString = JSON.stringify(jsonExport, null, 2);
+
+        navigator.clipboard.writeText(jsonString).then(() => {
+            const btn = document.querySelector('.btn-copy');
+            const textoOriginal = btn.innerText;
+            
+            btn.innerText = "✅ Copiado!";
+            btn.style.backgroundColor = "#2ecc71"; // Verde sucesso
+            
+            setTimeout(() => {
+                btn.innerText = textoOriginal;
+                btn.style.backgroundColor = "#f1c40f"; // Volta pro amarelo
+            }, 2000);
+        }).catch(err => {
+            alert("Erro ao copiar JSON: " + err);
+        });
+    }
+
+    // Fecha com ESC
+    document.addEventListener('keydown', function(event) {
+        if (event.key === "Escape") {
+            document.getElementById('jobModal').style.display = 'none';
+        }
+    });
+
+</script>
+
+</body>
+</html>
