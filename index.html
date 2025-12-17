@@ -5,35 +5,52 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Painel de Vagas - TOTVS</title>
     <style>
-        /* (MANTENHA SEU CSS AQUI - Copiei o mesmo estilo para facilitar) */
+        /* CSS MANTIDO IGUAL AO SEU */
         :root { --primary: #FF5A00; --secondary: #2c3e50; --bg: #f3f4f6; --card-bg: #ffffff; --text: #333; }
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: var(--bg); color: var(--text); margin: 0; padding: 20px; }
         .container { max-width: 1200px; margin: 0 auto; }
         header { text-align: center; margin-bottom: 30px; }
         h1 { color: var(--secondary); margin-bottom: 10px; }
-        .control-panel { background: var(--card-bg); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); display: flex; gap: 15px; justify-content: center; margin-bottom: 20px; }
-        button { background-color: var(--primary); color: white; border: none; padding: 12px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; }
+        .control-panel { background: var(--card-bg); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); display: flex; gap: 15px; justify-content: center; margin-bottom: 20px; flex-wrap: wrap;}
+        button { background-color: var(--primary); color: white; border: none; padding: 12px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; font-size: 1rem;}
         button:hover { background-color: #e04f00; }
+        .filters { display: flex; gap: 15px; margin-bottom: 20px; flex-wrap: wrap; }
+        .search-box, .filter-select { padding: 12px; border: 1px solid #ddd; border-radius: 5px; flex: 1; }
         .jobs-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; }
-        .job-card { background: var(--card-bg); border-radius: 10px; padding: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-left: 5px solid var(--primary); display: flex; flex-direction: column; }
+        .job-card { background: var(--card-bg); border-radius: 10px; padding: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-left: 5px solid var(--primary); display: flex; flex-direction: column; transition: transform 0.2s;}
+        .job-card:hover { transform: translateY(-3px); box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
         .job-title { font-size: 1.2rem; font-weight: bold; color: var(--secondary); }
-        .job-company { font-size: 0.9rem; color: #7f8c8d; margin-bottom: 10px; text-transform: uppercase; }
+        .job-company { font-size: 0.9rem; color: #7f8c8d; margin-bottom: 10px; text-transform: uppercase; font-weight: bold;}
+        .job-details { display: flex; gap: 10px; margin-bottom: 10px; font-size: 0.85rem; color: #555; }
+        .tag { background: #eee; padding: 4px 8px; border-radius: 4px; }
         .job-description { font-size: 0.9rem; color: #666; margin-bottom: 20px; flex-grow: 1; max-height: 100px; overflow: hidden; }
-        .btn-apply { margin-top: auto; text-decoration: none; background-color: var(--secondary); color: white; padding: 8px 15px; border-radius: 4px; text-align: center; display: block; }
+        .job-footer { margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #eee; padding-top: 15px; }
+        .salary { font-weight: bold; color: #27ae60; }
+        .btn-apply { text-decoration: none; background-color: var(--secondary); color: white; padding: 8px 15px; border-radius: 4px; }
         .btn-apply:hover { background-color: var(--primary); }
-        .loading { text-align: center; padding: 20px; font-weight: bold; color: #666; }
+        .loading { text-align: center; padding: 20px; font-weight: bold; color: #666; font-size: 1.2rem;}
+        .error-msg { background: #ffeeba; color: #856404; padding: 15px; border-radius: 5px; text-align: center; display: none; }
     </style>
 </head>
 <body>
 
 <div class="container">
     <header>
-        <h1>🎯 Painel de Vagas</h1>
-        <p>Dados atualizados automaticamente via GitHub Actions</p>
+        <h1>🎯 Painel de Vagas TOTVS</h1>
+        <p>Dados oficiais atualizados automaticamente</p>
     </header>
 
+    <div id="errorMsg" class="error-msg"></div>
+
     <div class="control-panel">
-        <button onclick="carregarVagas()">🔄 Recarregar Lista</button>
+        <button onclick="carregarVagas()">🔄 Atualizar Lista</button>
+        <a href="https://api-centraldocandidato.totvs.app/applicant/static-files/get-xml" target="_blank" style="text-decoration: none;">
+            <button style="background-color: #2c3e50;">🔗 Link Original TOTVS</button>
+        </a>
+    </div>
+
+    <div class="filters">
+        <input type="text" id="searchInput" class="search-box" placeholder="🔎 Buscar cargo ou cidade...">
     </div>
 
     <div id="loading" class="loading">Carregando vagas...</div>
@@ -41,75 +58,131 @@
 </div>
 
 <script>
-    // AGORA APONTAMOS PARA O ARQUIVO LOCAL
-    // O GitHub Action vai baixar o XML da TOTVS e salvar com este nome:
-    const XML_LOCAL = './dados_vagas.xml';
+    // URL DO ARQUIVO LOCAL (Gerado pelo GitHub Action)
+    // Se você estiver testando no PC sem servidor, o Chrome pode bloquear. 
+    // No GitHub Pages vai funcionar perfeitamente.
+    const ARQUIVO_LOCAL = './vagas_totvs.xml';
+
+    let allJobs = [];
 
     window.addEventListener('DOMContentLoaded', carregarVagas);
 
     function carregarVagas() {
-        const container = document.getElementById('jobsContainer');
         const loading = document.getElementById('loading');
+        const container = document.getElementById('jobsContainer');
+        const errorDiv = document.getElementById('errorMsg');
         
         loading.style.display = 'block';
         container.innerHTML = '';
+        errorDiv.style.display = 'none';
 
-        // Adiciona timestamp para o navegador não usar cache velho do arquivo local
-        fetch(XML_LOCAL + '?t=' + new Date().getTime())
+        // Adicionamos ?t=tempo para evitar que o navegador use cache velho
+        fetch(ARQUIVO_LOCAL + '?t=' + new Date().getTime())
             .then(response => {
-                if (!response.ok) throw new Error("Arquivo de vagas ainda não foi gerado pelo Robô.");
+                if (!response.ok) {
+                    throw new Error("O arquivo de vagas ainda não foi gerado pelo Robô do GitHub.");
+                }
                 return response.text();
             })
             .then(str => {
                 const parser = new DOMParser();
                 const xmlDoc = parser.parseFromString(str, "text/xml");
-                renderizarVagas(xmlDoc);
-                loading.style.display = 'none';
+                
+                if (xmlDoc.getElementsByTagName("parsererror").length > 0) {
+                    throw new Error("Arquivo XML inválido ou corrompido.");
+                }
+                
+                processarVagas(xmlDoc);
             })
             .catch(err => {
                 console.error(err);
-                loading.innerHTML = `
-                    ⚠️ <strong>Ainda não há vagas carregadas.</strong><br><br>
-                    Como acabamos de configurar, vá na aba <em>Actions</em> do seu GitHub e verifique se o fluxo "Atualizar XML" rodou com sucesso.<br>
-                    Erro técnico: ${err.message}
+                loading.style.display = 'none';
+                errorDiv.innerHTML = `
+                    <strong>Aguardando primeira sincronização...</strong><br>
+                    O sistema automático do GitHub ainda está baixando o arquivo.<br>
+                    <small>Erro técnico: ${err.message}</small><br><br>
+                    Verifique na aba 'Actions' do GitHub se o processo 'Baixar Vagas TOTVS' funcionou.
                 `;
+                errorDiv.style.display = 'block';
             });
     }
 
-    function renderizarVagas(xmlDoc) {
+    function processarVagas(xmlDoc) {
         const jobs = xmlDoc.getElementsByTagName('job');
-        const container = document.getElementById('jobsContainer');
-
-        if (jobs.length === 0) {
-            container.innerHTML = '<p>Nenhuma vaga encontrada no arquivo.</p>';
-            return;
-        }
+        allJobs = [];
 
         for (let i = 0; i < jobs.length; i++) {
             const job = jobs[i];
+            const get = (tag) => job.getElementsByTagName(tag)[0]?.textContent?.trim() || 'N/A';
             
-            // Pega dados com segurança
-            const get = (tag) => job.getElementsByTagName(tag)[0]?.textContent || '';
-            
-            // Limpa descrição HTML
+            // Tratamento de salário
+            let salaryDisplay = 'A combinar';
+            const salaryEl = job.getElementsByTagName('salary')[0];
+            if (salaryEl) {
+                const low = salaryEl.getElementsByTagName('lowEnd')[0]?.getElementsByTagName('amount')[0]?.textContent;
+                if(low) salaryDisplay = `R$ ${parseFloat(low).toLocaleString('pt-BR', {minimumFractionDigits: 2})}`;
+            }
+
+            allJobs.push({
+                title: get('title'),
+                company: get('company'),
+                city: get('city'),
+                state: get('state'),
+                desc: get('description'),
+                url: get('applyUrl'),
+                salary: salaryDisplay,
+                type: get('workplaceTypes')
+            });
+        }
+
+        renderJobs(allJobs);
+        document.getElementById('loading').style.display = 'none';
+    }
+
+    function renderJobs(lista) {
+        const container = document.getElementById('jobsContainer');
+        container.innerHTML = '';
+
+        if (lista.length === 0) {
+            container.innerHTML = '<p>Nenhuma vaga encontrada.</p>';
+            return;
+        }
+
+        lista.forEach(job => {
+            // Limpeza da descrição
             const div = document.createElement("div");
-            div.innerHTML = get('description');
-            const descLimpa = div.innerText.substring(0, 150) + "...";
+            div.innerHTML = job.desc;
+            const descCurta = div.innerText.substring(0, 140) + "...";
 
             const card = document.createElement('div');
             card.className = 'job-card';
             card.innerHTML = `
-                <div class="job-title">${get('title')}</div>
-                <div class="job-company">${get('company')}</div>
-                <div class="job-description">${descLimpa}</div>
-                <div style="font-size:0.85rem; color:#555; margin-bottom:10px;">
-                    📍 ${get('city')} - ${get('state')}
+                <div class="job-title">${job.title}</div>
+                <div class="job-company">${job.company}</div>
+                <div class="job-details">
+                    <span class="tag">📍 ${job.city}/${job.state}</span>
+                    <span class="tag">🏢 ${job.type}</span>
                 </div>
-                <a href="${get('applyUrl')}" target="_blank" class="btn-apply">Ver Vaga</a>
+                <div class="job-description">${descCurta}</div>
+                <div class="job-footer">
+                    <div class="salary">${job.salary}</div>
+                    <a href="${job.url}" target="_blank" class="btn-apply">Ver Vaga</a>
+                </div>
             `;
             container.appendChild(card);
-        }
+        });
     }
+
+    // Filtro simples de busca
+    document.getElementById('searchInput').addEventListener('input', (e) => {
+        const term = e.target.value.toLowerCase();
+        const filtrados = allJobs.filter(j => 
+            j.title.toLowerCase().includes(term) || 
+            j.city.toLowerCase().includes(term)
+        );
+        renderJobs(filtrados);
+    });
+
 </script>
 
 </body>
