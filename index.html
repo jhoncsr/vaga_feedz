@@ -10,17 +10,22 @@
         .container { max-width: 1200px; margin: 0 auto; }
         
         /* Header */
-        header { text-align: center; margin-bottom: 30px; }
+        header { text-align: center; margin-bottom: 20px; }
         h1 { color: var(--secondary); margin-bottom: 5px; }
-        p { color: #666; font-size: 0.9rem; }
 
-        /* Painel de Controle */
-        .control-panel { background: var(--card-bg); padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center; margin-bottom: 20px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; }
+        /* Painel de Controle e Busca */
+        .control-panel { background: var(--card-bg); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); margin-bottom: 20px; }
         
+        .actions-row { display: flex; gap: 10px; justify-content: center; margin-bottom: 15px; flex-wrap: wrap; }
+        
+        .search-row { display: flex; gap: 10px; }
+        .search-input { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 5px; font-size: 1rem; outline: none; transition: 0.3s; }
+        .search-input:focus { border-color: var(--primary); box-shadow: 0 0 5px rgba(255, 90, 0, 0.2); }
+
+        /* Botões */
         button { border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-weight: bold; font-size: 0.95rem; transition: 0.2s; }
         .btn-refresh { background-color: var(--primary); color: white; }
         .btn-refresh:hover { background-color: #e04f00; transform: translateY(-2px); }
-
         .btn-admin { background-color: #333; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; font-weight: bold; display: inline-block; font-size: 0.95rem; }
         .btn-admin:hover { background-color: #000; }
 
@@ -37,7 +42,7 @@
         .btn-details { background-color: var(--secondary); color: white; padding: 8px 15px; border-radius: 4px; font-size: 0.9rem; }
         .btn-details:hover { background-color: #34495e; }
 
-        /* --- ESTILOS DO MODAL (Pop-up) --- */
+        /* --- ESTILOS DO MODAL --- */
         .modal-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); z-index: 1000; justify-content: center; align-items: center; }
         .modal-content { background: white; width: 90%; max-width: 800px; max-height: 90vh; border-radius: 10px; padding: 25px; position: relative; display: flex; flex-direction: column; box-shadow: 0 10px 25px rgba(0,0,0,0.2); }
         
@@ -47,19 +52,18 @@
         .close-btn:hover { color: red; transform: none; background: none;}
 
         .modal-body { overflow-y: auto; flex-grow: 1; padding-right: 10px; font-size: 0.95rem; color: #444; line-height: 1.6; }
-        /* Scrollbar personalizada */
         .modal-body::-webkit-scrollbar { width: 8px; }
         .modal-body::-webkit-scrollbar-thumb { background: #ccc; border-radius: 4px; }
 
         .modal-footer { margin-top: 20px; padding-top: 15px; border-top: 1px solid #eee; display: flex; gap: 10px; justify-content: flex-end; flex-wrap: wrap; }
         
-        .btn-copy { background-color: #f1c40f; color: #333; } /* Amarelo */
+        .btn-copy { background-color: #f1c40f; color: #333; } 
         .btn-copy:hover { background-color: #d4ac0d; }
         
         .btn-apply { background-color: #27ae60; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; font-weight: bold; display: inline-block; font-size: 0.95rem; text-align: center;}
         .btn-apply:hover { background-color: #219150; }
 
-        .status-msg { text-align: center; padding: 20px; color: #666; font-weight: bold; }
+        .status-msg { text-align: center; padding: 10px; color: #666; font-weight: bold; margin-bottom: 10px;}
     </style>
 </head>
 <body>
@@ -71,12 +75,17 @@
     </header>
 
     <div class="control-panel">
-        <button class="btn-refresh" onclick="carregarVagas()">🔄 Recarregar Lista</button>
+        <div class="actions-row">
+            <button class="btn-refresh" onclick="carregarVagas()">🔄 Recarregar Lista</button>
+            <a href="https://github.com/jhoncsr/vaga_feedz/actions/workflows/atualizacao.yml" target="_blank" class="btn-admin">⚙️ Status do Robô</a>
+        </div>
         
-        <a href="https://github.com/jhoncsr/vaga_feedz/actions/workflows/atualizacao.yml" target="_blank" class="btn-admin">⚙️ Status do Robô</a>
+        <div class="search-row">
+            <input type="text" id="searchInput" class="search-input" placeholder="🔎 Digite o nome da Empresa (ou cargo/cidade)..." oninput="filtrarVagas()">
+        </div>
     </div>
 
-    <div id="statusMsg" class="status-msg">Carregando dados...</div>
+    <div id="statusMsg" class="status-msg">Carregando...</div>
     <div id="jobsContainer" class="jobs-grid"></div>
 </div>
 
@@ -91,14 +100,14 @@
             </div>
 
         <div class="modal-footer">
-            <button class="btn-copy" onclick="copiarJsonVaga()">📋 Copiar JSON</button>
-            <a href="#" id="modalLink" target="_blank" class="btn-apply">Candidatar-se na TOTVS ➔</a>
+            <button class="btn-copy" onclick="copiarCompleto()">📋 Copiar XML &lt;job&gt;</button>
+            <a href="#" id="modalLink" target="_blank" class="btn-apply">Candidatar-se ➔</a>
         </div>
     </div>
 </div>
 
 <script>
-    // Este arquivo deve ser gerado pelo seu GitHub Action (.yml)
+    // URL do arquivo gerado pelo Robô
     const ARQUIVO_LOCAL = './vagas_totvs.xml';
     
     let allJobs = []; 
@@ -114,42 +123,38 @@
         statusMsg.innerText = "Buscando arquivo atualizado...";
         container.innerHTML = '';
 
-        // Adiciona timestamp para ignorar cache do navegador
         fetch(ARQUIVO_LOCAL + '?t=' + new Date().getTime())
             .then(response => {
-                if (!response.ok) throw new Error("Arquivo XML ainda não foi gerado pelo Robô.");
+                if (!response.ok) throw new Error("Arquivo XML ainda não foi gerado.");
                 return response.text();
             })
             .then(str => {
                 const parser = new DOMParser();
                 const xmlDoc = parser.parseFromString(str, "text/xml");
-                
-                if (xmlDoc.getElementsByTagName("parsererror").length > 0) {
-                    throw new Error("XML inválido.");
-                }
+                if (xmlDoc.getElementsByTagName("parsererror").length > 0) throw new Error("XML inválido.");
                 
                 processarVagas(xmlDoc);
                 statusMsg.style.display = 'none';
             })
             .catch(err => {
                 console.error(err);
-                statusMsg.innerHTML = `
-                    ⚠️ <strong>Aguardando primeira sincronização...</strong><br>
-                    O robô do GitHub ainda está baixando o arquivo.<br>
-                    <small>Se você acabou de subir o site, aguarde alguns minutos ou vá em "Status do Robô" para rodar manualmente.</small>
-                `;
+                statusMsg.innerHTML = `⚠️ Aguardando sincronização... (Erro: ${err.message})`;
             });
     }
 
     function processarVagas(xmlDoc) {
         const jobs = xmlDoc.getElementsByTagName('job');
         allJobs = [];
+        
+        const serializer = new XMLSerializer();
 
         for (let i = 0; i < jobs.length; i++) {
             const job = jobs[i];
             const get = (tag) => job.getElementsByTagName(tag)[0]?.textContent?.trim() || 'N/A';
             
-            // Tratamento de Salário
+            // XML Bruto para cópia
+            const fullXmlString = serializer.serializeToString(job);
+
             let salaryDisplay = 'A combinar';
             const salaryEl = job.getElementsByTagName('salary')[0];
             if (salaryEl) {
@@ -164,10 +169,11 @@
                 company: get('company'),
                 city: get('city'),
                 state: get('state'),
-                description: get('description'), // HTML completo da vaga
+                description: get('description'), 
                 url: get('applyUrl'),
                 salary: salaryDisplay,
-                type: get('workplaceTypes')
+                type: get('workplaceTypes'),
+                rawXml: fullXmlString 
             });
         }
 
@@ -178,27 +184,31 @@
         const container = document.getElementById('jobsContainer');
         container.innerHTML = '';
 
+        const statusMsg = document.getElementById('statusMsg');
+        if(lista.length < allJobs.length) {
+            statusMsg.style.display = 'block';
+            statusMsg.innerHTML = `Encontradas: <strong>${lista.length}</strong> vagas`;
+        } else {
+            statusMsg.style.display = 'none';
+        }
+
         if (lista.length === 0) {
-            container.innerHTML = '<p style="text-align:center; grid-column:1/-1;">Nenhuma vaga encontrada.</p>';
+            container.innerHTML = '<p style="text-align:center; grid-column:1/-1; color:#777;">Nenhuma empresa ou vaga encontrada com esse nome.</p>';
             return;
         }
 
         lista.forEach((job) => {
-            // Cria um resumo sem HTML para o card
             const tempDiv = document.createElement("div");
             tempDiv.innerHTML = job.description;
             const descResumo = tempDiv.innerText.substring(0, 100) + "...";
 
             const card = document.createElement('div');
             card.className = 'job-card';
-            
             card.innerHTML = `
                 <div class="job-title">${job.title}</div>
                 <div class="job-company">${job.company}</div>
                 <div class="job-info">📍 ${job.city}/${job.state} | 💰 ${job.salary}</div>
-                <div style="flex-grow:1; color:#666; font-size:0.9rem; margin-bottom:15px;">
-                    ${descResumo}
-                </div>
+                <div style="flex-grow:1; color:#666; font-size:0.9rem; margin-bottom:15px;">${descResumo}</div>
                 <div class="job-footer">
                     <button class="btn-details" onclick="abrirModal(${job.index})">Ver Detalhes</button>
                 </div>
@@ -207,15 +217,29 @@
         });
     }
 
-    // --- FUNÇÕES DO MODAL ---
+    // --- SISTEMA DE BUSCA FOCADO ---
+    function filtrarVagas() {
+        const termo = document.getElementById('searchInput').value.toLowerCase();
+        
+        const filtrados = allJobs.filter(job => {
+            // Removi a busca na 'descrição' para limpar os resultados.
+            // Agora ele prioriza EMPRESA, depois TÍTULO e CIDADE.
+            return job.company.toLowerCase().includes(termo) ||
+                   job.title.toLowerCase().includes(termo) ||
+                   job.city.toLowerCase().includes(termo);
+        });
+
+        renderJobs(filtrados);
+    }
+
+    // --- MODAL ---
     function abrirModal(index) {
-        const job = allJobs[index];
+        const job = allJobs.find(j => j.index === index);
         currentJobIndex = index;
 
         document.getElementById('modalTitle').innerText = job.title;
         document.getElementById('modalLink').href = job.url;
         
-        // Exibe todos os detalhes
         const corpo = document.getElementById('modalBody');
         corpo.innerHTML = `
             <div style="background:#f8f9fa; padding:15px; border-radius:5px; margin-bottom:15px; border:1px solid #e9ecef;">
@@ -223,12 +247,9 @@
                 <p><strong>📍 Local:</strong> ${job.city} - ${job.state}</p>
                 <p><strong>💼 Modelo:</strong> ${job.type}</p>
                 <p><strong>💰 Salário:</strong> ${job.salary}</p>
-                <p><strong>🆔 ID Vaga:</strong> ${job.id}</p>
+                <p><strong>🆔 ID:</strong> ${job.id}</p>
             </div>
-            <hr style="border:0; border-top:1px solid #eee; margin:15px 0;">
-            <div style="font-size:1rem;">
-                ${job.description}
-            </div>
+            <div style="font-size:1rem;">${job.description}</div>
         `;
 
         document.getElementById('jobModal').style.display = 'flex';
@@ -240,47 +261,29 @@
         }
     }
 
-    function copiarJsonVaga() {
+    // --- COPIAR XML COMPLETO ---
+    function copiarCompleto() {
         if (currentJobIndex === null) return;
-
-        const job = allJobs[currentJobIndex];
+        const job = allJobs.find(j => j.index === currentJobIndex);
         
-        // Objeto JSON limpo para cópia
-        const jsonExport = {
-            titulo: job.title,
-            empresa: job.company,
-            localizacao: `${job.city}-${job.state}`,
-            modelo: job.type,
-            salario: job.salary,
-            link_candidatura: job.url,
-            descricao_completa_html: job.description
-        };
-
-        const jsonString = JSON.stringify(jsonExport, null, 2);
-
-        navigator.clipboard.writeText(jsonString).then(() => {
+        // Copia a string XML bruta
+        navigator.clipboard.writeText(job.rawXml).then(() => {
             const btn = document.querySelector('.btn-copy');
-            const textoOriginal = btn.innerText;
-            
+            const originalText = btn.innerText;
             btn.innerText = "✅ Copiado!";
-            btn.style.backgroundColor = "#2ecc71"; // Verde sucesso
-            
+            btn.style.backgroundColor = "#2ecc71";
             setTimeout(() => {
-                btn.innerText = textoOriginal;
-                btn.style.backgroundColor = "#f1c40f"; // Volta pro amarelo
+                btn.innerText = originalText;
+                btn.style.backgroundColor = "#f1c40f";
             }, 2000);
         }).catch(err => {
-            alert("Erro ao copiar JSON: " + err);
+            alert("Erro ao copiar: " + err);
         });
     }
 
-    // Fecha com ESC
     document.addEventListener('keydown', function(event) {
-        if (event.key === "Escape") {
-            document.getElementById('jobModal').style.display = 'none';
-        }
+        if (event.key === "Escape") document.getElementById('jobModal').style.display = 'none';
     });
-
 </script>
 
 </body>
