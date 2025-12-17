@@ -19,6 +19,7 @@
 
         header { text-align: center; margin-bottom: 30px; }
         h1 { color: var(--secondary); margin-bottom: 10px; }
+        p { color: #666; }
         
         .control-panel { background: var(--card-bg); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center; margin-bottom: 20px; }
         
@@ -26,14 +27,14 @@
         button:hover { background-color: #e04f00; transform: translateY(-2px); }
         
         input[type="file"] { display: none; }
-        .file-label { background-color: var(--secondary); color: white; padding: 12px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; }
+        .file-label { background-color: var(--secondary); color: white; padding: 12px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; display: inline-block; }
         .file-label:hover { background-color: #34495e; }
 
         .filters { display: flex; gap: 15px; margin-bottom: 20px; flex-wrap: wrap; }
         .search-box { flex: 1; padding: 12px; border: 1px solid #ddd; border-radius: 5px; font-size: 16px; }
         .filter-select { padding: 12px; border: 1px solid #ddd; border-radius: 5px; min-width: 150px; }
 
-        .summary-bar { display: flex; justify-content: space-between; background: #e0e0e0; padding: 10px 20px; border-radius: 5px; margin-bottom: 20px; font-weight: bold; color: var(--secondary); }
+        .summary-bar { display: flex; justify-content: space-between; background: #e0e0e0; padding: 10px 20px; border-radius: 5px; margin-bottom: 20px; font-weight: bold; color: var(--secondary); flex-wrap: wrap; gap: 10px; }
 
         .jobs-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; }
         
@@ -43,7 +44,7 @@
         .job-title { font-size: 1.2rem; font-weight: bold; color: var(--secondary); margin-bottom: 5px; }
         .job-company { font-size: 0.9rem; color: #7f8c8d; margin-bottom: 15px; font-weight: 600; text-transform: uppercase; }
         
-        .job-details { display: flex; gap: 10px; margin-bottom: 15px; font-size: 0.85rem; color: #555; }
+        .job-details { display: flex; gap: 10px; margin-bottom: 15px; font-size: 0.85rem; color: #555; flex-wrap: wrap; }
         .tag { background: #eee; padding: 4px 8px; border-radius: 4px; display: flex; align-items: center; gap: 5px; }
         
         .job-description { font-size: 0.9rem; color: #666; margin-bottom: 20px; flex-grow: 1; max-height: 100px; overflow: hidden; position: relative; }
@@ -52,31 +53,32 @@
         .job-footer { margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #eee; padding-top: 15px; }
         .salary { font-weight: bold; color: #27ae60; font-size: 1.1rem; }
         
-        .btn-apply { text-decoration: none; background-color: var(--secondary); color: white; padding: 8px 15px; border-radius: 4px; font-size: 0.9rem; transition: 0.2s; }
+        .btn-apply { text-decoration: none; background-color: var(--secondary); color: white; padding: 8px 15px; border-radius: 4px; font-size: 0.9rem; transition: 0.2s; text-align: center; }
         .btn-apply:hover { background-color: var(--primary); }
 
-        .hidden { display: none; }
+        .hidden { display: none !important; }
         .loading { text-align: center; font-size: 1.2rem; color: #666; margin: 40px; font-weight: bold; }
         
         .cors-warning { background: #fff3cd; border: 1px solid #ffeeba; color: #856404; padding: 15px; border-radius: 5px; margin-bottom: 20px; display: none; text-align: center;}
+        .cors-warning a { color: #856404; font-weight: bold; text-decoration: underline; }
     </style>
 </head>
 <body>
 
 <div class="container">
     <header>
-        <h1>🎯 Painel de Vagas TOTVS</h1>
-        <p>Dados obtidos via API (Bypass CORS)</p>
+        <h1>🎯 Painel de Vagas</h1>
+        <p>TOTVS / Credi Shop</p>
     </header>
 
     <div id="corsMsg" class="cors-warning"></div>
 
     <div class="control-panel">
-        <button onclick="fetchWithProxy()">🔄 Carregar Vagas (Automático)</button>
+        <button onclick="fetchWithProxy()">🔄 Atualizar Vagas</button>
         
-        <span style="color: #999;">|</span>
+        <span style="color: #ccc;">|</span>
         
-        <label for="fileInput" class="file-label">📂 Carregar Arquivo Manualmente</label>
+        <label for="fileInput" class="file-label">📂 Abrir XML (Backup)</label>
         <input type="file" id="fileInput" accept=".xml">
     </div>
 
@@ -92,110 +94,143 @@
 
     <div class="summary-bar">
         <span id="totalCount">Vagas encontradas: 0</span>
-        <span id="lastUpdate">Aguardando carregamento...</span>
+        <span id="lastUpdate">Aguardando dados...</span>
     </div>
 
-    <div id="loading" class="loading hidden">🚀 Conectando ao servidor via Proxy...</div>
+    <div id="loading" class="loading hidden">🚀 Conectando ao servidor...</div>
     <div id="jobsContainer" class="jobs-grid"></div>
 </div>
 
 <script>
-    // URL original da TOTVS
+    // URL da TOTVS fornecida
     const TARGET_URL = 'https://api-centraldocandidato.totvs.app/applicant/static-files/get-xml';
     
-    // Usamos um Proxy público (AllOrigins) para evitar o bloqueio do navegador
-    // Isso faz o navegador pensar que estamos acessando um site seguro que permite o acesso
-    const PROXY_URL = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(TARGET_URL);
+    // CONFIGURAÇÃO DO PROXY
+    // Trocamos para o corsproxy.io que costuma ser mais permissivo com headers
+    // Formato: https://corsproxy.io/?URL_ENCODED
+    const PROXY_BASE = 'https://corsproxy.io/?';
 
     let allJobs = [];
 
-    // Função Principal: Busca usando o Proxy
+    // Tenta carregar automaticamente ao abrir
+    window.addEventListener('DOMContentLoaded', () => {
+        fetchWithProxy();
+    });
+
     function fetchWithProxy() {
-        showLoading(true, "🚀 Buscando dados...");
+        showLoading(true, "🚀 Buscando vagas (Via Proxy)...");
         document.getElementById('corsMsg').style.display = 'none';
         
-        // Adiciona um timestamp para evitar cache do navegador
-        const finalUrl = PROXY_URL + '&timestamp=' + new Date().getTime();
+        // Adiciona timestamp para evitar cache do proxy e do navegador
+        const noCacheParam = '&timestamp=' + new Date().getTime();
+        
+        // Monta a URL final passando pelo proxy
+        const finalUrl = PROXY_BASE + encodeURIComponent(TARGET_URL + '?v=' + new Date().getTime());
 
-        fetch(finalUrl)
+        console.log("Tentando acessar:", finalUrl);
+
+        fetch(finalUrl, {
+            method: 'GET',
+            cache: 'no-store' // Força o navegador a não usar cache local
+        })
             .then(response => {
-                if (!response.ok) throw new Error("Falha ao acessar o proxy.");
+                if (!response.ok) throw new Error(`Servidor respondeu com erro: ${response.status}`);
                 return response.text();
             })
             .then(xmlString => {
-                if (!xmlString || xmlString.length < 50) throw new Error("XML vazio ou inválido.");
+                // Validação básica se veio algo que parece XML
+                if (!xmlString || !xmlString.trim().startsWith('<')) {
+                    throw new Error("A resposta não parece ser um XML válido.");
+                }
                 parseXML(xmlString);
             })
             .catch(err => {
-                console.error(err);
+                console.error("Erro no fetch:", err);
                 showLoading(false);
                 const msg = document.getElementById('corsMsg');
-                msg.innerHTML = `<strong>Erro de Conexão:</strong> Não foi possível carregar automaticamente.<br>Tente novamente ou baixe o arquivo XML manualmente.`;
+                msg.innerHTML = `
+                    <strong>⚠️ Não foi possível carregar as vagas automaticamente.</strong><br>
+                    Motivo: ${err.message}<br><br>
+                    Isso geralmente ocorre por bloqueio de segurança da rede da empresa.<br>
+                    <a href="${TARGET_URL}" target="_blank">Clique aqui para baixar o XML manualmente</a> e depois use o botão "Abrir XML" acima.
+                `;
                 msg.style.display = 'block';
             });
     }
 
-    // Carregamento Manual (Backup)
+    // Leitura Manual de Arquivo (Plano B)
     document.getElementById('fileInput').addEventListener('change', function(e) {
         const file = e.target.files[0];
         if (!file) return;
         
-        showLoading(true, "Lendo arquivo...");
+        showLoading(true, "Lendo arquivo local...");
         const reader = new FileReader();
         reader.onload = function(e) {
             parseXML(e.target.result);
         };
+        reader.onerror = function() {
+            alert("Erro ao ler o arquivo.");
+            showLoading(false);
+        };
         reader.readAsText(file);
     });
 
-    // Processar o XML
     function parseXML(xmlString) {
         try {
             const parser = new DOMParser();
             const xmlDoc = parser.parseFromString(xmlString, "text/xml");
             
-            // Verifica erro de parse
-            if (xmlDoc.getElementsByTagName("parsererror").length > 0) {
-                throw new Error("Erro ao interpretar o XML.");
+            // Verifica se o parser do navegador falhou
+            const parserError = xmlDoc.getElementsByTagName("parsererror");
+            if (parserError.length > 0) {
+                throw new Error("XML mal formatado ou corrompido.");
             }
 
-            // Metadados
-            const lastBuild = xmlDoc.querySelector('lastBuildDate')?.textContent || '-';
+            // Tenta pegar a data de atualização
+            const lastBuild = xmlDoc.querySelector('lastBuildDate')?.textContent 
+                           || xmlDoc.querySelector('pubDate')?.textContent 
+                           || new Date().toISOString();
+            
             try {
-                document.getElementById('lastUpdate').innerText = `Atualização: ${new Date(lastBuild).toLocaleString('pt-BR')}`;
+                const dateObj = new Date(lastBuild);
+                document.getElementById('lastUpdate').innerText = `Atualizado em: ${dateObj.toLocaleDateString('pt-BR')} às ${dateObj.toLocaleTimeString('pt-BR')}`;
             } catch(e) { 
-                document.getElementById('lastUpdate').innerText = `Atualização: ${lastBuild}`; 
+                document.getElementById('lastUpdate').innerText = `Atualização: Recente`; 
             }
 
             // Ler Vagas
             const jobs = xmlDoc.getElementsByTagName('job');
             allJobs = [];
 
+            if (jobs.length === 0) {
+                // Tenta procurar 'item' caso o RSS seja padrão
+                const items = xmlDoc.getElementsByTagName('item');
+                if(items.length > 0) alert("Formato de XML diferente detectado (RSS padrão). O código precisa de ajuste para tags <item>.");
+            }
+
             for (let i = 0; i < jobs.length; i++) {
                 const job = jobs[i];
                 
+                // Função auxiliar segura para pegar texto de tags
                 const getVal = (tag) => {
                     const el = job.getElementsByTagName(tag)[0];
-                    return el ? el.textContent.trim() : '';
+                    return el ? el.textContent.trim() : 'N/A';
                 };
 
-                // Formatação de Salário
+                // Tratamento especial para salário
                 let salaryDisplay = 'A combinar';
                 const salaryEl = job.getElementsByTagName('salary')[0];
                 if (salaryEl) {
                     const lowEl = salaryEl.getElementsByTagName('lowEnd')[0]?.getElementsByTagName('amount')[0];
                     const highEl = salaryEl.getElementsByTagName('highEnd')[0]?.getElementsByTagName('amount')[0];
                     
-                    if (lowEl && highEl) {
+                    if (lowEl) {
                         const valLow = parseFloat(lowEl.textContent);
-                        const valHigh = parseFloat(highEl.textContent);
+                        const valHigh = highEl ? parseFloat(highEl.textContent) : valLow;
 
-                        if (!isNaN(valLow) && !isNaN(valHigh)) {
-                            if (valLow === valHigh) {
-                                salaryDisplay = valLow.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'});
-                            } else {
-                                salaryDisplay = `${valLow.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})} - ${valHigh.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})}`;
-                            }
+                        if (!isNaN(valLow)) {
+                            const fmt = (v) => v.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'});
+                            salaryDisplay = (valLow === valHigh) ? fmt(valLow) : `${fmt(valLow)} - ${fmt(valHigh)}`;
                         }
                     }
                 }
@@ -209,23 +244,23 @@
                     state: getVal('state'),
                     applyUrl: getVal('applyUrl'),
                     salary: salaryDisplay,
-                    type: getVal('workplaceTypes')
+                    type: getVal('workplaceTypes') !== 'N/A' ? getVal('workplaceTypes') : 'Presencial/Remoto'
                 });
             }
 
             populateFilters();
             renderJobs(allJobs);
             showLoading(false);
-            document.getElementById('corsMsg').style.display = 'none';
 
         } catch (e) {
-            alert("Erro ao processar os dados: " + e.message);
             console.error(e);
             showLoading(false);
+            const msg = document.getElementById('corsMsg');
+            msg.innerHTML = `<strong>Erro ao processar dados:</strong> O arquivo foi baixado, mas há um erro de leitura.<br>Detalhe: ${e.message}`;
+            msg.style.display = 'block';
         }
     }
 
-    // Renderizar na Tela
     function renderJobs(jobsList) {
         const container = document.getElementById('jobsContainer');
         const countSpan = document.getElementById('totalCount');
@@ -233,7 +268,7 @@
         countSpan.innerText = `Vagas listadas: ${jobsList.length}`;
 
         if(jobsList.length === 0) {
-            container.innerHTML = '<p style="grid-column: 1/-1; text-align: center; font-size: 1.2rem; color: #777;">Nenhuma vaga encontrada com os filtros atuais.</p>';
+            container.innerHTML = '<p style="grid-column: 1/-1; text-align: center; font-size: 1.2rem; color: #777; margin-top: 20px;">Nenhuma vaga encontrada.</p>';
             return;
         }
 
@@ -241,11 +276,15 @@
             const card = document.createElement('div');
             card.className = 'job-card';
             
-            // Remove tags HTML da descrição para o preview
+            // Limpa HTML da descrição para o resumo
             const tempDiv = document.createElement("div");
             tempDiv.innerHTML = job.description;
-            const plainText = tempDiv.textContent || tempDiv.innerText || "";
+            let plainText = tempDiv.textContent || tempDiv.innerText || "";
+            plainText = plainText.replace(/N\/A/g, ''); // Remove N/A se aparecer
             const shortDesc = plainText.length > 140 ? plainText.substring(0, 140) + "..." : plainText;
+
+            // Link do botão
+            const linkApply = job.applyUrl !== 'N/A' ? job.applyUrl : '#';
 
             card.innerHTML = `
                 <div class="job-title">${job.title}</div>
@@ -256,28 +295,26 @@
                     <span class="tag">🏢 ${job.type}</span>
                 </div>
 
-                <div class="job-description" title="${shortDesc}">
+                <div class="job-description" title="Descrição completa no site da vaga">
                     ${shortDesc}
                 </div>
 
                 <div class="job-footer">
                     <div class="salary">${job.salary}</div>
-                    <a href="${job.applyUrl}" target="_blank" class="btn-apply">Candidatar-se ➔</a>
+                    <a href="${linkApply}" target="_blank" class="btn-apply">Ver Vaga ➔</a>
                 </div>
             `;
             container.appendChild(card);
         });
     }
 
-    // Filtros
     function populateFilters() {
-        const states = [...new Set(allJobs.map(j => j.state).filter(Boolean))].sort();
-        const cities = [...new Set(allJobs.map(j => j.city).filter(Boolean))].sort();
+        const states = [...new Set(allJobs.map(j => j.state).filter(s => s !== 'N/A'))].sort();
+        const cities = [...new Set(allJobs.map(j => j.city).filter(c => c !== 'N/A'))].sort();
 
         const stateSelect = document.getElementById('stateFilter');
         const citySelect = document.getElementById('cityFilter');
 
-        // Resetar mantendo a primeira opção
         stateSelect.innerHTML = '<option value="">Todos os Estados</option>';
         citySelect.innerHTML = '<option value="">Todas as Cidades</option>';
 
