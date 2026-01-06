@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 06 Jan 2026 21:15:12 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Jan 2026 22:13:36 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[2474]]></expectedJobCount>
+  <expectedJobCount><![CDATA[2475]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -512,6 +512,40 @@
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[8ea868ca-bf82-43e4-9e38-851e5697ee16]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[Analista De Desenvolvimento Cloud Pleno]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa apaixonada por tecnologia, automação e soluções escaláveis? Gosta de trabalhar com cloud e linguagens como Python? Então essa vaga pode ser para você!
+Estamos em busca de <strong>Analistas Pleno</strong> para fortalecer nosso time de sustentação, com atuação no atendimento a incidentes, solicitações de times internos e gerenciamento de crises.<b> A posição tem como objetivo garantir a cobertura da escala noturna, com horário de atendimento das 22h00 às 06h00.</b>
+Buscamos, como diferencial, profissionais com atitude e senso de protagonismo, que tenham iniciativa para propor melhorias contínuas e identificar gaps nos processos diários do time.<br />
+Se você gosta de resolver problemas complexos e entregar valor com qualidade, vem com a gente!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Atendimento de incidentes e requisições internas<br />
+• Habilidades de comunicação, com facilidade no gerenciamento de crises e na interação com times em situações críticas<br />
+• Proposição de melhorias em scripts e workflows que geram incidentes, com sugestões de arquiteturas escaláveis e altamente disponíveis em cloud pública, com foco em AWS<br />
+• Atuação em investigações de incidentes recorrentes, identificando e tratando causas raiz<br />
+• Trabalho com a stack serverless da AWS: Lambda, Step Functions e API Gateway<br />
+• Domínio da linguagem Python e de bancos de dados não relacionais (DynamoDB) como diferencial<br />
+• Contribuição na criação e manutenção de documentações na Base de Conhecimento<br /><br /><b>Requisitos e qualificações</b><br /><br />• Ensino superior completo na área de TI (Análise de Sistemas, Ciência da Computação ou Engenharia da Computação)<br />
+• Pós-graduação em andamento como diferencial<br />
+• Conhecimento em Framework Serverless<br />
+• Experiência com ferramentas de automação, como Ansible<br />
+• Vivência com produtos TOTVS (RM, Protheus ou Fluig)<br />
+• Experiência em processos de CI/CD<br />
+• Certificações AWS (Cloud Practitioner ou superiores)]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8087/analista-de-desenvolvimento-cloud-pleno]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
