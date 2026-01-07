@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 07 Jan 2026 15:15:32 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 16:13:48 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[2513]]></expectedJobCount>
+  <expectedJobCount><![CDATA[2519]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -7288,7 +7288,7 @@ outras atividades correlatas do setor e de acordo com orientação da gestão.<b
     <company><![CDATA[Estuda.com]]></company>
     <title><![CDATA[Desenvolvedor (a) Pleno - PHP]]></title>
     <posterEmail><![CDATA[izia.silva@estuda.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Desenvolver e manter funcionalidades de média e alta complexidade na plataforma, aplicando boas práticas de código, assegurando qualidade, aderência às regras de negócio e cumprimento dos prazos. Atuar de forma colaborativa na resolução de problemas, revisão de código e apoio à equipe, contribuindo para a evolução técnica da plataforma e do time.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Escrita de códigos bem estruturados, visando as boas práticas;</li><li>Contribuir para o desenvolvimento de documentos técnicos e manuais para representar com precisão o design e o código da plataforma, sempre que necessário;</li><li>Escrever código de alta qualidade utilizando TDD, dentro dos prazos estabelecidos pelo negócio, cenário apresentado ou desafio;</li><li>Apoiar na refatoração de códigos pré-existentes com intuito de padronizar e reescrever códigos obsoletos;</li><li>Desenvolver soluções de média e alta complexidade;</li><li>Identificar e tratar falhas ocorridas nas aplicações através de testes e feedbacks dos usuários, com a finalidade de garantir a qualidade dos produtos/serviços;</li><li>Apoiar na revisão de código, buscando orientar sobre as boas práticas, problemas de performance e de regra.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo em Ciência da Computação, Engenharia de Software, Engenharia da Computação, Desenvolvimento de Sistemas ou área correlatas;</li><li>Conhecimento em HTML, CSS3, Jacascript, ES6, jQuery;</li><li>Experiência em bibliotecas como React, Vue.js, Angular.js;</li><li>Conhecimento em HTTP e DNS;</li><li>Conhecimento em HTTPS / SSL, JWT, Basic Auth, Token Auth, OWASP, SQL Injection, XSS, CORs, Filesystem Security, Session Security;</li><li>Conhecimento em Git, Code Review, Pull Requests / Merge Requests, Squash Commits e Issues;</li><li>Experiência com algumas das plataformas: Github, Gitlab e Bitbucket;</li><li>Experiência com PHP 7 e 8;</li><li>Pear;</li><li>Entendimento sobre testes unitários, integração e funcionais (PHPUnit, Mocks);</li><li>Conhecimento no uso dos softwares SQL, SGDB e MySQL/MariaDb, Redis;</li><li>Search Engines, Full text search (My SQL), Elasticsearch;</li><li>Caching, CDN, Client side, Gzip, Server Side, Memcached e Redis;</li><li>Design e Conceitos: DRY, SOLID;</li><li>Experiência com uso de algum framework PHP (Symfony, Slim, Laravel);</li><li>Comunicação entre micro serviços / Filas (RabbitMQ, Kafka, Amazon SQS, Redis PUB/SUB);</li><li>API, Rest Webhooks, GraphQL;</li><li>PHPDocumentor ou Swagger;</li><li>Habilidade em metodologias ágeis;</li><li>Server and deployment;</li><li>CI e CD;</li><li>Experiência no uso de algum dos softwares: Jenkins, Github Actions, Gitlab CI/CD, Semaphore, CircleCI.</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Desenvolver e manter funcionalidades de média e alta complexidade na plataforma, aplicando boas práticas de código, assegurando qualidade, aderência às regras de negócio e cumprimento dos prazos. Atuar de forma colaborativa na resolução de problemas, revisão de código e apoio à equipe, contribuindo para a evolução técnica da plataforma e do time.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Escrita de códigos bem estruturados, visando as boas práticas;</li><li>Contribuir para o desenvolvimento de documentos técnicos e manuais para representar com precisão o design e o código da plataforma, sempre que necessário;</li><li>Escrever código de alta qualidade utilizando TDD, dentro dos prazos estabelecidos pelo negócio, cenário apresentado ou desafio;</li><li>Apoiar na refatoração de códigos pré-existentes com intuito de padronizar e reescrever códigos obsoletos;</li><li>Desenvolver soluções de média e alta complexidade;</li><li>Identificar e tratar falhas ocorridas nas aplicações através de testes e feedbacks dos usuários, com a finalidade de garantir a qualidade dos produtos/serviços;</li><li>Apoiar na revisão de código, buscando orientar sobre as boas práticas, problemas de performance e de regra.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação: Ensino Superior Completo em Ciência da Computação, Engenharia de Software, Engenharia da Computação, Análise e Desenvolvimento de Sistemas ou área correlatas;</li><li>Linguagens e Frameworks: PHP 7/8 (Laravel e Symfony), JavaScript/ES6 (jQuery, React, Vue.js).</li><li>Arquitetura e Design: Aplicação de princípios SOLID, Design Patterns (GoF) e práticas DRY.</li><li>Banco de Dados: MySQL 8 e 9 e Elasticsearch, ORMs, transações, normalização, indexes, caching.</li><li>Segurança: OWASP TOP Ten Web Application Security Risks.</li><li>Versionamento: Git, Code Review, Pull Request, Squash Commits (GitHub).</li><li>APIs e Integrações: REST, GraphQL, SOAP, OAuth, Webhooks, PHPDocumentor, Swagger.</li><li>Filas: Amazon SQS.</li><li>Cache: Redis.</li><li>Sessão: Memcached.</li><li>Testes: PHPUnit e PEST.</li><li>Qualidade: SAST (SonarQube).</li><li>Gerenciamento de Dependências: Composer, Packagist e PEAR.</li><li>Metodologias Ágeis: Scrum e Kanban (Monday e ClickUp).</li><li>Containerização: Dockerfile e Docker Compose.</li><li>Servidores Web: Apache e Nginx.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/estuda/102/desenvolvedor-a-pleno-php]]></applyUrl>
     <companyId><![CDATA[3]]></companyId>
     <city><![CDATA[Cuiabá]]></city>
@@ -19322,6 +19322,250 @@ colaborativa e voltada para resultados<br /><br /><br /><b>Responsabilidades e a
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[51d44f20-d545-4af8-b8b7-1b18eb1fc5a0]]></partnerJobId>
+    <company><![CDATA[V8.Tech]]></company>
+    <title><![CDATA[Desenvolvedor(a) Full Stack SR (.Net Core / React)]]></title>
+    <posterEmail><![CDATA[marcelo.chacon@v8.tech]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa dedicada e com vontade de fazer a diferença para atuar na área de Desenvolvimento. Se você ama tecnologia, gosta de desafios e acredita no poder da colaboração para alcançar grandes resultados, essa oportunidade é para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Projetar, desenvolver e manter microsserviços e APIs REST em arquitetura hexagonal.
+</li><li>
+Liderar tecnicamente a modernização de sistemas legados em VB6, VB.NET e ASP.NET.
+</li><li>
+Definir e implementar adapters, barramentos e camadas anticorruption (ACL).
+</li><li>
+Implementar arquiteturas orientadas a eventos e comunicação assíncrona com RabbitMQ.
+</li><li>
+Otimizar queries SQL e NoSQL para workloads transacionais e analíticos de alto volume.
+</li><li>
+Atuar fortemente em automação de testes, CI/CD e qualidade contínua.
+</li><li>
+Monitorar performance, escalabilidade e resiliência das aplicações.
+</li><li>
+Apoiar a squad na resolução de problemas técnicos complexos.
+</li><li>
+Trabalhar com pipelines de dados e integração com Data Lake para uso analítico.
+</li><li>
+Colaborar com DevSecOps garantindo segurança, governança e conformidade.
+</li><li>
+Definir estratégias avançadas de caching e otimização de latência.
+</li><li>
+Contribuir para padrões de arquitetura, engenharia e boas práticas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ampla experiência com .NET Core, .NET Framework (C#) e React.</li><li>Forte experiência com arquitetura de microsserviços e APIs escaláveis.</li><li>Domínio de arquitetura hexagonal, DDD e Clean Architecture.</li><li>Experiência com mensageria avançada e event sourcing.</li><li>Conhecimento sólido em Oracle, PL/SQL e modelagem de dados.</li><li>Vivência em ambientes de alto volume de dados e transações.</li><li>Experiência com CI/CD, Azure DevOps e automação de infraestrutura.</li><li>Conhecimento em observabilidade, tracing e logging distribuído.</li><li>Experiência com DataOps, pipelines de dados e Data Lakes.</li><li>Familiaridade com Kubernetes, cloud AWS e Azure.</li><li>Atuação consistente em metodologias ágeis e squads multidisciplinares.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/470/desenvolvedor-a-full-stack-sr-net-core-react]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d4618d2d-4501-4678-af98-7bcee7b14843]]></partnerJobId>
+    <company><![CDATA[V8.Tech]]></company>
+    <title><![CDATA[Especialista QA]]></title>
+    <posterEmail><![CDATA[maiara.fagundes@v8.tech]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa dedicada e com vontade de fazer a diferença para atuar na área de Negócios. Se você ama tecnologia, gosta de desafios e acredita no poder da colaboração para alcançar grandes resultados, essa oportunidade é para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Definir <strong>estratégia de qualidade e automação em escala</strong>
+</li>
+<li>
+Estruturar e padronizar o uso de <strong>JIRA e X-RAY</strong> (processos, fluxos e métricas)
+</li>
+<li>
+Criar e evoluir <strong>frameworks de testes</strong>
+</li>
+<li>
+Integrar testes automatizados e qualidade contínua à CI/CD no <strong>Azure DevOps</strong>
+</li>
+<li>
+Definir padrões, governança e boas práticas de QA
+</li>
+<li>
+Atuar em ambientes críticos e regulados
+</li>
+<li>
+Conectar qualidade com indicadores e métricas (defeitos, cobertura, falhas, lead time)
+</li>
+<li>
+Apoiar iniciativas de <strong>Shift-Left, DevSecOps e SRE</strong>
+</li>
+<li>
+Ser referência técnica para QA, Devs, DevOps e liderança</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência sólida como QA Sênior ou Especialista
+</li>
+<li>
+Domínio avançado de <strong>JIRA e X-RAY (governança, métricas e rastreabilidade)</strong>
+</li>
+<li>
+Forte experiência com <strong>Azure DevOps (CI/CD, automação, integrações)</strong>
+</li>
+<li>
+Arquitetura de testes (UI, API, integração, contrato e performance)
+</li>
+<li>
+Qualidade contínua e shift-left
+</li>
+<li>
+Vivência com pipelines complexas e ambientes enterprise</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/462/especialista-qa]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[6c1fe6e7-cfcc-4e27-b918-71c44c5ff834]]></partnerJobId>
+    <company><![CDATA[V8.Tech]]></company>
+    <title><![CDATA[Analista de QA SR]]></title>
+    <posterEmail><![CDATA[maiara.fagundes@v8.tech]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa dedicada e com vontade de fazer a diferença para atuar na área de Negócios. Se você ama tecnologia, gosta de desafios e acredita no poder da colaboração para alcançar grandes resultados, essa oportunidade é para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Definir e executar <strong>estratégia de testes end-to-end</strong> em ambiente Azure
+</li>
+<li>
+Validar fluxos entre:
+<ul>
+<li>
+<strong>Azure Front Door</strong>
+</li>
+<li>
+<strong>API Gateway / APIM</strong>
+</li>
+<li>
+<strong>Load Balancer</strong>
+</li>
+<li>
+<strong>AKS (Kubernetes)</strong>
+</li>
+<li>
+<strong>Azure Functions</strong>
+</li>
+<li>
+<strong>Event Namespace / Azure Event Bus</strong>
+</li>
+<li>
+<strong>Azure Data Factory</strong>
+</li>
+<li>
+<strong>Azure MySQL e Azure PostgreSQL</strong>
+</li>
+</ul>
+</li>
+<li>
+Estruturar e evoluir <strong>automação de testes (API, integração e regressão)</strong>
+</li>
+<li>
+Integrar automação às <strong>pipelines do Azure DevOps</strong>
+</li>
+<li>
+Atuar em <strong>shift-left</strong>, apoiando refinamentos técnicos
+</li>
+<li>
+Validar cenários de:
+<ul>
+<li>
+Integração entre microserviços
+</li>
+<li>
+Comunicação assíncrona e orientada a eventos
+</li>
+<li>
+Consistência e integridade de dados
+</li>
+<li>
+Segurança (uso de Azure Key Vault)
+</li>
+</ul>
+</li>
+<li>
+<strong>Introduzir e evangelizar práticas de Contract Tests</strong><br />
+(ex: Pact / Pactflow ou conceitos similares), de forma incremental
+</li>
+<li>
+Utilizar <strong>observabilidade</strong> para apoiar análises de qualidade<br />
+(Application Insights, Datadog)
+</li>
+<li>
+Atuar de forma colaborativa com Dev e DevOps, propondo melhorias contínuas
+</li>
+<li>
+Apoiar a evolução da qualidade considerando futura <strong>migração para GCP</strong></li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência sólida como <strong>QA Sênior</strong>
+</li>
+<li>
+Forte entendimento de <strong>arquitetura cloud em Azure</strong>
+</li>
+<li>
+Experiência prática ou conceitual com:
+<ul>
+<li>
+<strong>AKS (Kubernetes)</strong>
+</li>
+<li>
+<strong>API Gateway / APIM</strong>
+</li>
+<li>
+<strong>Event Namespace / Azure Event Bus</strong>
+</li>
+<li>
+<strong>Azure MySQL e Azure PostgreSQL</strong>
+</li>
+<li>
+<strong>Azure Data Factory</strong>
+</li>
+<li>
+<strong>Azure Front Door e Load Balancer</strong>
+</li>
+<li>
+<strong>Azure Key Vault</strong>
+</li>
+</ul>
+</li>
+<li>
+Automação de testes:
+<ul>
+<li>
+<strong>API</strong> (Postman, REST Assured ou similares)
+</li>
+<li>
+<strong>Integração / regressão</strong>
+</li>
+</ul>
+</li>
+<li>
+Experiência com <strong>Azure DevOps Pipelines</strong>
+</li>
+<li>
+Conhecimento em aplicações:
+<ul>
+<li>
+<strong>Backend:</strong> Java, Spring Boot, Node.js
+</li>
+<li>
+<strong>Frontend:</strong> React
+</li>
+</ul>
+</li>
+<li>
+Vivência em CI/CD</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/464/analista-de-qa-sr]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[b0a1195b-45dc-44fb-bcb8-0aefe79e18f0]]></partnerJobId>
     <company><![CDATA[V8.Tech]]></company>
     <title><![CDATA[Analista de QA SR]]></title>
@@ -28359,6 +28603,61 @@ conta corrente e aplicação financeira).<br /><br /><b>Requisitos e qualificaç
     <companyId><![CDATA[2073549]]></companyId>
     <city><![CDATA[Marabá]]></city>
     <state><![CDATA[PA]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0de48913-86a2-4a43-8370-b95633e74b2a]]></partnerJobId>
+    <company><![CDATA[Grupo Canopus]]></company>
+    <title><![CDATA[GERENTE DE POS VENDAS]]></title>
+    <posterEmail><![CDATA[joselaine.paiva@grupocanopus.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Gerenciar a equipe de
+pós-venda buscando o resultado financeiro da operação, e entregando os
+indicadores de qualidade e de satisfação dos clientes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Elaborar semestralmente o
+objetivo das metas de peças e serviço através dos indicadores da montadora e do
+Grupo Canopus;
+
+-
+Acompanhar diariamente a meta verso realizado dos indicadores da montadora e do
+Grupo Canopus, propondo ações para entrega dos resultados;
+
+-
+Realizar a distribuir mensalmente do objetivo individual de cada
+produtivo/setor e acompanhar o resultado;
+
+-
+Responder pelos resultados financeiros do departamento de Pós-Venda, através do
+gerenciamento do departamento;
+
+-
+Acompanhar diariamente as ordens de serviço, abertas e fechadas, não permitindo
+saída de veículos sem o fechamento das respectivas ordens de serviço;-
+Analisar, semanalmente, o desempenho de produtividade e eficiência da equipe do
+Pós-Venda (tanto os comissionados e não comissionados);-
+Dar sequência e oferecer suporte às campanhas promocionais de iniciativa da
+montadora e do Grupo Canopus;-
+Realizar levantamento e encaminhar as informações para a montadora e diretoria,
+quanto ao cumprimento dos indicadores;
+
+
+
+
+
+-
+Gerenciar o relacionamento com clientes internos e externo, solucionando as
+reclamações diárias detectadas pelo: SAC (Serviço de Atendimento ao Cliente) da
+montadora e do Grupo Canopus, e implantando contramedidas/ações para cada
+reclamação;<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Superior Completo;<br />Informática básica (Windows, Word e Excel);<br />Experiência na área comercial.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/483/gerente-de-pos-vendas]]></applyUrl>
+    <companyId><![CDATA[2073549]]></companyId>
+    <city><![CDATA[Curitiba]]></city>
+    <state><![CDATA[PR]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -51851,6 +52150,28 @@ e busca crescimento profissional,</b> essa oportunidade é para você.<br /><br
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[f8546f03-1e73-4f5e-9d3c-a89a1188cb3b]]></partnerJobId>
+    <company><![CDATA[Xmobots]]></company>
+    <title><![CDATA[Programador de Usinagem Pl]]></title>
+    <posterEmail><![CDATA[laiene.delfino@xmobots.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Programar e preparar máquinas CNC, definindo os parâmetros de Usinagem para a execução das peças</li><li>Conferir medidas e qualidade das peças utilizando instrumentos de medição. </li><li>Fazer pequenos ajustes e correções durante o processo de fabricação.</li><li>Cuidar da organização e manutenção básica da máquina e do ambiente de trabalho.</li><li>Propor melhorias nos processos para ganhar produtividade e reduzir erros.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso
+     Técnico ou Profissionalizante nas áreas de: Usinagem, Metalúrgica, Mecânica ou Mecatrônica</li><li>Vivência com máquinas CNC. </li><li>Capacidade
+     de interpretar desenhos técnicos. </li><li>Conhecimento básico de instrumentos de
+     medição. </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/xmobotscarreiras/47/programador-de-usinagem-pl]]></applyUrl>
+    <companyId><![CDATA[5048086]]></companyId>
+    <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[80dc3be6-c4dc-4176-977a-691295d4ea4e]]></partnerJobId>
     <company><![CDATA[Xmobots]]></company>
     <title><![CDATA[Analista de Tesouraria Jr]]></title>
@@ -63189,6 +63510,25 @@ Office;</li></ul>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[9d2164d6-675d-49df-9e1b-7a3ee31c18ae]]></partnerJobId>
+    <company><![CDATA[Universo E-commerce]]></company>
+    <title><![CDATA[Estagiário de Mídia]]></title>
+    <posterEmail><![CDATA[greyce.pinheiro@universoecommerce.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas criativas e apaixonadas por mídia, que desejam impulsionar suas carreiras em um ambiente dinâmico e inovador. Aqui, você terá a chance de aprender com uma equipe experiente, desenvolver habilidades práticas e explorar novas ideias que podem impactar de forma significativa o mundo digital. Oferecemos um espaço estimulante, onde a colaboração e a troca de conhecimento são valorizadas, permitindo que sua voz seja ouvida e suas ideias, bem-sucedidas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Configurar campanhas em plataformas de anúncios (Google Ads, Meta Ads, etc.);</li><li>Subir criativos nas plataformas;</li><li>Preencher planilhas de acompanhamento diário (ex.: Google Sheets, Excel);</li><li>Acompanhar e documentar tarefas,  evolução de metas e budget no Monday;</li><li>Apoiar na criação de apresentações para clientes;</li><li>Coletar dados e realizar conferências básicas de campanhas;</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Noção básica do pacote office e Google Suite (Docs, Sheets/excel, Slides/ppt);</li><li>Familiaridade inicial com plataformas de mídia (Meta Ads, Google Ads, LinkedIn Ads);</li><li>Conhecimento básico de análise com Google Analytics;</li><li>Interesse em obter certificações (Meta, GAds, GA4);</li></ul><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/universoecommerce/2/estagiario-de-midia]]></applyUrl>
+    <companyId><![CDATA[26195840]]></companyId>
+    <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[71b8b5d6-b243-4bf7-9e90-1d35d5236ad3]]></partnerJobId>
