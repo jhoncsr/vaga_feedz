@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Mon, 12 Jan 2026 16:15:24 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 17:15:38 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[2648]]></expectedJobCount>
+  <expectedJobCount><![CDATA[2649]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -496,6 +496,29 @@
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[643bedc7-515c-4b9a-9e8c-344123e6f46b]]></partnerJobId>
+    <company><![CDATA[Credi Shop]]></company>
+    <title><![CDATA[ESTÁGIO CONTABILIDADE - TERESINA]]></title>
+    <posterEmail><![CDATA[ithamarasoares@credishop.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de candidatos interessados em iniciar sua carreira na área de contabilidade! Se você é uma pessoa motivada, proativa e em busca de aprendizado constante, essa pode ser a oportunidade perfeita para você! Neste estágio, você terá a chance de vivenciar o dia a dia de um escritório contábil, trabalhando em um ambiente dinâmico e colaborativo. Se você deseja adquirir experiência prática, desenvolver suas habilidades e crescer profissionalmente, venha fazer parte do nosso time de estagiários em contabilidade. Não perca essa oportunidade e candidate-se agora mesmo!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Efetuar Lançamentos;</li><li>Conferir lançamentos;</li><li>Conciliações contábeis.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando 3° ao 5° período de Ciências Contábeis;</li><li>Residir em Teresina - PI.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/credishop/73/estagio-contabilidade-teresina]]></applyUrl>
+    <companyId><![CDATA[1089858]]></companyId>
+    <city><![CDATA[Teresina]]></city>
+    <state><![CDATA[PI]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1300.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -2032,10 +2055,10 @@ e/ou formação em Exatas. Pós-Graduação, Especialização ou MBA completos,�
   <job>
     <partnerJobId><![CDATA[ca4d64c8-04c5-4430-9bb5-88d1d1cf32cf]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[Analista de Serviços Pleno - (Consinco módulos Comercial ou Backoffice)]]></title>
+    <title><![CDATA[Pessoa Técnica de Suporte]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Missão do cargo - Participar ativamente da implantação de novos projetos de sistemas para o segmento de Supermercados.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br /><ul><li>Atuar desde o apoio à equipe comercial até o Go Live do projeto;</li><li>Realizar levantamento de informações com o cliente para garantir uma implantação precisa;</li><li>Entender e mapear os processos de negócio do cliente, elaborando a documentação técnica e operacional necessária;</li><li>Implantar e dar suporte técnico aos clientes, tanto presencialmente quanto de forma remota (Skype, Meet, WhatsApp, telefone);</li><li>Apoiar clientes Prime com dúvidas, treinamentos e orientações sobre uso do sistema.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li> Experiência em projetos de implantação de sistemas e rotinas de Supermercados;</li><li> Conhecimento em PL/SQL (desejável);</li><li>Familiaridade com integração de sistemas (Webservice, API – desejável);</li><li>Conhecimento na área de Supermercados, especialmente em: cadastros de produtos,  emissão de notas fiscais,  pedidos de compra e recebimento de NF, cálculo de impostos e obrigações (PIS/COFINS, ICMS, ICMS ST etc.);</li><li>Disponibilidade para viagens.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/7389/analista-de-servicos-pleno-consinco-modulos-comercial-ou-backoffice]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Missão do cargo - Realizar o atendimento aos clientes, por meio dos canais TOTVS, esclarecendo suas dúvidas sobre assuntos de baixa complexidade referente ao sistema, registrando sugestões e incidentes.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br /><ul><li>Prestar o atendimento, por meio de canais de abertura de tickets, de acordo com o processo definido e visando ao atendimento e às metas estabelecidas;<br /></li><li>Registrar, em sistema, a solicitação do cliente com todas as evidências (tickets abertos) de detalhamento necessárias para todos os impactados;<br /></li><li>Triar os tickets abertos pelo cliente e reclassificá-los ou categorizá-los, quando necessário, pelo tipo de ticket ou status do atendimento;<br /></li><li>Fornecer status das demandas em evolução, quando solicitado pelo cliente, por meio de canais de atendimento (telefônico, por e-mail, sistema);<br /></li><li>Escalonar, para o próximo nível, as solicitações ou incidentes que não forem evoluídos, após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área;<br /></li><li>Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e outros) quanto para o resultado/metas da área;<br /></li><li>Alertar a coordenação e atuar em potenciais riscos ou crises em clientes;<br /></li><li>Manter atualizados FAQs/banco de conhecimento com as soluções definidas e repassadas aos clientes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><ul><li>Conhecimento em Preços e Promoções;<br /></li><li>Conhecimento Estrutural (cadastros de produto, família e afins);<br /></li><li>E-commerce;<br /></li><li>Vendas;<br /></li><li>E-Docs.<br /></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/7389/pessoa-tecnica-de-suporte]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
     <state><![CDATA[SP]]></state>
@@ -4354,6 +4377,25 @@ e Análise Orçamental dos Indicadores</li><li>Auditoria Interna (Gestão e Exec
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[daf2afb8-5e60-470f-821b-afee36f47b79]]></partnerJobId>
+    <company><![CDATA[Metalúrgica Mor]]></company>
+    <title><![CDATA[ALMOXARIFE]]></title>
+    <posterEmail><![CDATA[nathalia.santos@mor.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><li>Reportar produção de produtos intermediários e prontos;</li><li>Conferir pallets, gaiolas e etiquetas conforme cadastro;</li><li>Registrar faltas de saldo;</li><li>Acompanhar agenda de descargas e organizar espaço de recebimento;</li><li>Receber matérias-primas e produtos industrializados;</li><li>Conferir boletins e códigos de itens;</li><li>Apoiar tarefas diversas e solicitações de outras áreas.</li><br /><br /><b>Responsabilidades e atribuições</b><br /><br />.<br /><br /><b>Requisitos e qualificações</b><br /><br />• Residir em Barra do Piraí e região;<br />• Disponibilidade de horário;<br /><br />• Conhecimento em informática: Word e Excel<br /><br />• Ensino médio completo<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmor/358/almoxarife]]></applyUrl>
+    <companyId><![CDATA[205062]]></companyId>
+    <city><![CDATA[Barra do Piraí]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[b726b2a3-87b7-4873-b101-d539e93cd536]]></partnerJobId>
     <company><![CDATA[Metalúrgica Mor]]></company>
     <title><![CDATA[Auxiliar de Mecânico de Moldes]]></title>
@@ -4819,33 +4861,6 @@ Cumprir e aplicar rigorosamente as normas de segurança, organização do local 
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[7408d3fa-b923-4a9f-94f9-f22b07abcd12]]></partnerJobId>
-    <company><![CDATA[Bras Leme Centro Medico (DEMONSTRAÇÃO)]]></company>
-    <title><![CDATA[Analista 2 RH (Demonstração, vaga fake)]]></title>
-    <posterEmail><![CDATA[alined.souza@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade que permita desenvolver suas habilidades em um ambiente colaborativo e dinâmico? Estamos à procura de pessoas apaixonadas por tecnologia e dispostas a fazer a diferença. Aqui, você terá a chance de contribuir para a qualidade e a excelência dos nossos produtos, trabalhando ao lado de profissionais experientes e dedicados. Oferecemos um ambiente que valoriza a inovação, o aprendizado constante e o crescimento profissional. Se você é uma pessoa curiosa, analítica e com vontade de enfrentar desafios, essa é a sua chance de brilhar! Venha se juntar a nós e faça parte de uma equipe que celebra a diversidade e a criatividade, contribuindo para a construção de soluções impactantes. Estamos ansiosos para conhecer seu talento e tudo que você pode trazer para a nossa jornada!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Executar testes manuais e automatizados em diferentes níveis de complexidade.<br /> - Documentar resultados dos testes e elaborar relatórios para análise.<br /> - Identificar, registrar e acompanhar a resolução de bugs e inconsistências.<br /> - Colaborar com as equipes de desenvolvimento e QA para garantir a qualidade dos produtos.<br /> - Contribuir para a definição e manutenção de processos de testes.<br /> - Participar de reuniões de feedback e discussões sobre melhorias nos testes.<br /> - Realizar testes de regressão e verificação de funcionalidades.<br /> - Auxiliar na criação de planos de testes e scripts de automação.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação técnica ou superior em áreas relacionadas à Tecnologia da Informação ou afins.<br /> - Conhecimento em testes de software e metodologias de teste.<br /> - Familiaridade com ferramentas de automação de testes.<br /> - Habilidade em elaboração e execução de casos de teste.<br /> - Conhecimento básico de linguagens de programação.<br /> - Boa capacidade de comunicação e trabalho em equipe.<br /> - Organização e atenção aos detalhes.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/braslemecentromedicodemonstracao/713/analista-2-rh-demonstracao-vaga-fake]]></applyUrl>
-    <companyId><![CDATA[1515145]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[25000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[10000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[190dab12-c5b9-4814-8170-ddba8f3e7889]]></partnerJobId>
@@ -12449,6 +12464,25 @@ Sólida compreensão da legislação trabalhista.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[478a42f3-7ca5-45dc-84df-3e501b10c17a]]></partnerJobId>
+    <company><![CDATA[CFL Inc.]]></company>
+    <title><![CDATA[Estagiário de Engenharia - Florianópolis/SC]]></title>
+    <posterEmail><![CDATA[giovanna.guimaraes@cfl.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto(a) para dar o próximo passo na sua carreira e desenvolver suas habilidades em um ambiente dinâmico e inovador? Nossa equipe está em busca de um estagiário(a) de engenharia. Aqui, oferecemos a oportunidade de aprender com profissionais experientes, colaborar em projetos desafiadores e contribuir com soluções que impactam diretamente o nosso negócio. Se você deseja aprimorar seus conhecimentos, trabalhar em equipe e vivenciar a prática na sua área de estudo, essa é a chance que você esperava. A sua jornada começa aqui!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhamento e  conferencia de serviços com auxilio de PVS;</li><li>Aolicitação, controle e distribuição de projetos;</li><li>Levantamentos de quantitativos;</li><li>Preenchimento de diário de obras.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando Ensino Superior em Eng. Civil a partir do 4º semestre;</li><li>Conhecimentos em pacote Office.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/clfinc/136/estagiario-de-engenharia-florianopolis-sc]]></applyUrl>
+    <companyId><![CDATA[2898773]]></companyId>
+    <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[a3e1c8dc-f945-4876-bff6-54e2eaa020d9]]></partnerJobId>
     <company><![CDATA[CFL Inc.]]></company>
     <title><![CDATA[Eletrotécnico - Florianópolis/SC]]></title>
@@ -12550,25 +12584,6 @@ Sólida compreensão da legislação trabalhista.</li>]]></description>
     <posterEmail><![CDATA[giovanna.guimaraes@cfl.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional organizado sempre atento aos detalhes, com boa capacidade de lidar com gestão de estoque, boa comunicação para interagir com outros setores da empresa, facilidade para trabalhar em equipe, conhecimento em segurança e armazenamento de materiais e capacidade de tomar decisões rápidas e eficientes.<br />Se você tem experiência prática, é comprometido com a excelência e busca crescer profissionalmente em um ambiente colaborativo, inovador e desafiador, essa oportunidade é para você! Aqui, cada ideia conta, e seu trabalho terá impacto real na transformação de vidas e realidades.<br />Venha fazer parte de uma equipe que valoriza a criatividade, o foco em resultados e a vontade de evoluir. Esperamos sua inscrição!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Recebimento e conferência de materiais;</li><li>Solicitação de compra;</li><li>Controle de estoque;</li><li>Organização dos materiais;</li><li>Controle de validade;</li><li>Agendamento de entregas de materiais;</li><li>Preenchimento de formulários padrões;</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência consolidada em obras civis, com vivência em empreendimentos residenciais de alto padrão.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/clfinc/109/almoxarife-florianopolis-sc]]></applyUrl>
-    <companyId><![CDATA[2898773]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[95781859-b99f-4cb8-b667-a0d4049f42f9]]></partnerJobId>
-    <company><![CDATA[CFL Inc.]]></company>
-    <title><![CDATA[Comprador - Florianópolis/SC]]></title>
-    <posterEmail><![CDATA[giovanna.guimaraes@cfl.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) prestador(a) de serviço com perfil proativo e estratégico para atuar na área de compras. Se você tem experiência em negociação, busca de fornecedores e otimização de recursos, essa é a oportunidade ideal!<br />Oferecemos a chance de participar de projetos desafiadores, com autonomia e interação com diversas áreas. Junte-se a nós e contribua diretamente para os resultados da empresa!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Compra de materiais;</li><li>Realizar cotações e negociações com fornecedores;</li><li>Elaborar mapas de cotações;</li><li>Pesquisa de novos fornecedores;</li><li>Organizar as solicitações de compras internas;</li><li>Negociação de contratos;</li><li>Contratações de serviços;</li><li>Controle de laudos de qualidade;</li><li>Lançamento de minutas contratuais.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Administração, Engenharia ou áreas correlatas;</li><li>Experiência em compras e negociação de materiais de construção;</li><li>Conhecimento em Sienge.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/clfinc/102/comprador-florianopolis-sc]]></applyUrl>
     <companyId><![CDATA[2898773]]></companyId>
     <city><![CDATA[Florianópolis]]></city>
     <state><![CDATA[SC]]></state>
@@ -15644,34 +15659,6 @@ tarefas<br />]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[790c312e-c81d-494a-b2db-dfc4b89949c1]]></partnerJobId>
-    <company><![CDATA[Engetel Automação e Segurança]]></company>
-    <title><![CDATA[Técnico em Manutenção Eletrônica]]></title>
-    <posterEmail><![CDATA[rh@grupoengetel.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais com conhecimento técnico em manutenção eletrônica para fazer parte da nossa equipe. Se você é uma pessoa proativa, dinâmica e apaixonada por desafios na área de tecnologia, esta pode ser a oportunidade que você estava procurando para impulsionar a sua carreira. Venha fazer parte de um time inovador, onde você terá a chance de desenvolver suas habilidades, aprender todos os dias e contribuir para projetos incríveis. Se você se identifica com essa proposta e busca crescimento profissional, venha se juntar a nós e fazer a diferença!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento técnico para manutenção
-preventiva e corretiva em sistemas de incêndio, segurança eletrônica e
-automação.-
-Executar testes ou diagnósticos de falhas nos
-equipamentos, localizar e solucionar problemas, solicitar peças via sistema
-caso necessário. <br />- Interpretar esquemas elétricos e eletrônicos.<br />- Elaborar relatórios técnicos das intervenções
-realizadas.
-
-<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino Técnico em eletrônica, Mecatrônica ou
-Eletrotécnica completo ou superior em andamento na área.- Carteira de Habilitação A/B.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/paginadecarreirasengetel/25/tecnico-em-manutencao-eletronica]]></applyUrl>
-    <companyId><![CDATA[1068014]]></companyId>
-    <city><![CDATA[Balneário Camboriú]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[7a5d071d-680e-4c37-b65e-c5b820c97fd6]]></partnerJobId>
@@ -36914,25 +36901,6 @@ Capacidade de autogestão e resolução de problemas de forma prática.</li></ul
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[14af406b-5636-4876-b648-62bf79524a70]]></partnerJobId>
-    <company><![CDATA[Emefarma]]></company>
-    <title><![CDATA[Analista de Planejamento de Vendas (júnior)]]></title>
-    <posterEmail><![CDATA[thamires.brandao@emefarmario.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Tem vaga rolando no time <b>Planejamento de Vendas</b>.<br /><br /><br />Esse desafio é para quem possui Ensino Superior Completo, possui perfil proativo, analítico, comuicativo e resolutivo.<br /><br /><br />Vem conosco!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Relatórios, Análises e Acompanhamentos</b><br /><br /><br /><ul><li>Dar suporte ao desenvolvimento de relatório de clientes, indústrias e produtos.</li><li>Analisar e sugerir planos de ação para correção de desvios.</li><li>Preparar relatórios de demanda de vendas para indústrias, assim como bases de dados específicas, desenvolvendo um relacionamento com as indústrias.</li><li>Suportar a criação e atualização do relatório diário de vendas, monitorando e sinalizando os principais desvios para os gestores.</li></ul><br /><br /><br /><b>Suporte à Equipe de Vendas e OL</b><br /><br /><br /><ul><li>Desenvolver análises e acompanhamentos junto aos vendedores da Célula Avance, com objetivo de recuperar os desvios nos indicadores comerciais.</li><li>Monitorar e analisar vendas e demandas referentes às equipes de sell out das OLs. </li><li>Promover ajustes e alinhamentos com os stakeholders quando necessário.</li><li>Planejar, desenvolver e analisar relatórios e informações pertinentes às reuniões comerciais, assim como solicitações eventuais dos gestores comerciais.</li><li>Desenvolver melhorias no fluxo de atividades, ser o apoio nessas melhorias sendo o ponto focal do projeto.</li></ul><br /><br /><br /><b>Remuneração, Comissões e Campanhas</b><br /><br /><br /><ul><li>Suportar a criação e atualização dos relatórios de remuneração.</li><li>Planejar e desenvolver relatórios de acompanhamento de campanhas de vendas. </li><li>Desenvolver racional e sugerir metas quando apropriado.</li><li>Acompanhamento de Ações Promocionais e elaboração dos objetivos (Dia D, Feirão e Eventos em geral).</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Administração, Marketing ou áreas relacionadas.</li><li>Experiência anterior na área de gestão comercial.</li><li>Conhecimento em ferramentas do Pacote Office (especialmente Excel).</li><li>Habilidade de comunicação e negociação.</li><li>Capacidade de análise de KPI de vendas.</li><li>Interpretação de relatórios comerciais.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/emefarma/44/analista-de-planejamento-de-vendas-junior]]></applyUrl>
-    <companyId><![CDATA[10852162]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[6eb769bb-076e-4725-8707-5560b268395b]]></partnerJobId>
     <company><![CDATA[Emefarma]]></company>
     <title><![CDATA[Analista Contábil Sênior]]></title>
@@ -40123,6 +40091,51 @@ Comprometimento, responsabilidade e atenção às normas de segurança.</li>]]><
       <salary>
         <highEnd>
           <amount><![CDATA[2600.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d8ecae13-e263-4ae4-b0b4-5c029ef558c5]]></partnerJobId>
+    <company><![CDATA[Bianchini]]></company>
+    <title><![CDATA[Auxiliar Administrativo – Comércio Exterior]]></title>
+    <posterEmail><![CDATA[recrutamento@bianchinisa.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O profissional atuará na <strong>área administrativa de exportação</strong>, dando suporte às rotinas operacionais e documentais do setor. Embora o cargo seja de <strong>nível auxiliar administrativo</strong>, esta é uma excelente oportunidade para quem deseja <strong>desenvolver carreira na área de Comércio Exterior</strong>, adquirindo vivência prática em processos reais de exportação em uma empresa de grande porte.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Apoio às <strong>rotinas administrativas</strong> da área de exportação.
+</li>
+<li>
+Emissão de <strong>faturas comerciais</strong>, <strong>notas fiscais</strong> e <strong>contratos de câmbio</strong>.
+</li>
+<li>
+Organização e conferência de documentos relacionados às operações de exportação.
+</li>
+<li>
+Suporte aos controles internos e interface com áreas correlatas.
+</li>
+<li>
+Apoio geral às atividades administrativas do setor.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li><strong>Cursando Administração, Comércio Exterior, Relações Internacionais ou Economia</strong>.
+</li>
+<li>
+Domínio do <strong>Pacote Office</strong> (principalmente Excel).
+</li>
+<li>
+Organização, atenção a detalhes e boa comunicação.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bianchinivagas/130/auxiliar-administrativo-comercio-exterior]]></applyUrl>
+    <companyId><![CDATA[1352906]]></companyId>
+    <city><![CDATA[Porto Alegre]]></city>
+    <state><![CDATA[RS]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2100.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </highEnd>
         <lowEnd>
@@ -49311,42 +49324,6 @@ Interesse em atuar com Treinamento e Desenvolvimento.</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[515da1d5-534f-41f2-9c5d-ae444e048401]]></partnerJobId>
-    <company><![CDATA[Grupo GEOPAR]]></company>
-    <title><![CDATA[ESTAGIÁRIO(A) DE DIREITO]]></title>
-    <posterEmail><![CDATA[carlaoliveira@cscgeopar.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você é estudante de Direito, tem interesse em desenvolver sua carreira na prática e busca aprendizado contínuo em um ambiente profissional, essa oportunidade é para você!<br />
-Aqui você terá contato direto com rotinas jurídicas, apoio de profissionais experientes e a chance de ampliar seus conhecimentos técnicos e práticos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar na análise de processos administrativos e judiciais;
-</li><li>
-Realizar pesquisas jurídicas para embasamento de decisões e pareceres;
-</li><li>
-Acompanhar prazos e movimentações processuais;
-</li><li>
-Auxiliar no atendimento às demandas internas relacionadas ao setor jurídico.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando Direito a partir do 2º período;
-</li><li>
-Desejável conhecimento básico em Direito Civil, Trabalhista e Empresarial;
-</li><li>
-Habilidade em pesquisa jurídica e interpretação de normas;
-</li><li>
-Boa redação e comunicação verbal;
-</li><li>
-Organização, proatividade e senso de responsabilidade;
-</li><li>
-Conhecimento intermediário no Pacote Office.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupogeopar/59/estagiario-a-de-direito]]></applyUrl>
-    <companyId><![CDATA[927307]]></companyId>
-    <city><![CDATA[Belo Horizonte]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[9162f302-3d1f-4d13-800e-13ae69068d4d]]></partnerJobId>
     <company><![CDATA[Grupo GEOPAR]]></company>
     <title><![CDATA[ANALISTA CONTÁBIL SÊNIOR]]></title>
@@ -53255,6 +53232,25 @@ Adaptabilidade para lidar com mudanças e novos desafios;</li></ul>]]></descript
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[956a4095-b65e-49a7-aea5-17cabf9b8050]]></partnerJobId>
+    <company><![CDATA[Vittude]]></company>
+    <title><![CDATA[GERENTE DE CONTAS SÊNIOR]]></title>
+    <posterEmail><![CDATA[camila.santana@vittude.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos procurando um Enterprise Account Executive apaixonado por vendas e que esteja confortável com uma venda consultiva, de médio a longo ciclo, para grandes empresas e com alto ticket-médio. Se for um apaixonado por pessoas e quiser fazer a diferença no mercado oferecendo soluções de saúde mental e bem-estar corporativos, melhor ainda!<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir todo o ciclo de vendas enterprise das soluções da Vittude, desde o envolvimento inicial do lead até o fechamento da venda;</li><li>Preparar projeções semanais, mensais e trimestrais, com informações competitivas e relatórios relevantes de vendas, mantendo o pipe atualizado e o forecast em ordem;</li><li>Envolver-se com todos os níveis da organização e dentro de equipes multifuncionais;</li><li>Negociar contratos de venda com grandes empresas;</li><li>Qualificar e quantificar empiricamente novas oportunidades de negócio;</li><li>Compreender profundamente as soluções da Vittude a apresentá-las com maestria aos clientes em potencial;</li><li>Identificar as necessidades do cliente para a sugestão de soluções apropriadas da Vittude utilizando a metodologia SPICED;</li><li>Fornecer feedback a outros departamentos sobre as necessidades, problemas, interesses, atividades competitivas e potencial dos clientes para novos produtos e serviços;</li><li>Participar de eventos/feiras para construção de relacionamento com stakeholders do mercado;</li><li>Identificar públicos-alvo e compreender os seus comportamentos e hábitos;</li><li>Acompanhar e publicar relatórios semanais usando resultados quantitativos;</li><li>Identificar com eficiência e  negociar eficientemente novos leads;</li><li>Construir e promover relacionamentos high touch em empresas nível enterprise;</li><li>Realizar reuniões presenciais e virtuais, follow-up, apresentações e propostas;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prévia em vendas B2B, preferencialmente no segmento enterprise</li><li>Experiência com G-suite, CRMs Hubspot</li><li>Experiência com vendas high-touch em empresas de nível enterprise;</li><li>Habilidades comprovadas em soluções de vendas consultivas, incluindo a capacidade de articular um retorno claro e conciso sobre a declaração do valor do investimento do cliente;</li><li>Ótima capacidade de comunicação verbal e escrita;</li><li>Capacidade de ter sucesso em um ambiente de ritmo acelerado e em constante mudança;</li><li>Interesse preferencial por produtos e soluções de saúde e bem-estar corporativos. Interesse pelo tema de saúde e bem-estar;</li><li>Conhecimento do funcionamento interno de áreas de RH, Benefícios e Saúde Corporativa é um diferencial</li><li>Capacidade demonstrada para desenvolver, gerenciar e fechar oportunidades de vendas de forma consistente, seguindo uma metodologia prescrita (SPICED);</li><li>Capacidade de gerenciar vários projetos e prazos ao mesmo tempo;</li><li>Capacidade de gerar apresentações persuasivas e habilidade de facilitação de reuniões;</li><li>Habilidade em negociação e fechamento de contratos de grande valor<br /></li><li>Conhecimento de técnicas de vendas e estratégias de mercado<br /></li><li>Capacidade de construir e manter relacionamentos sólidos com clientes<br /></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvittude/7/gerente-de-contas-senior]]></applyUrl>
+    <companyId><![CDATA[10636073]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[8e05efbe-ca59-4d16-aae9-c5d73ecf288f]]></partnerJobId>
@@ -59759,6 +59755,26 @@ Noções de marketing digital e tráfego pago (diferencial).</li></ul></li>]]></
     <posterEmail><![CDATA[estervazzi@contabilitasig.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Venha fazer parte de um time que ama inovar e desenvolver pessoas!<br />Aqui, inovação e aprendizado caminham juntos! Somos apaixonados por desenvolver talentos, incentivar o crescimento profissional e criar um ambiente onde o conhecimento é compartilhado e valorizado. Se você busca desafios, quer trabalhar em um lugar onde suas ideias são ouvidas, onde há possibilidades reais de crescimento, e onde o foco são as pessoas, esse é o seu lugar!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar nas rotinas administrativas de RH e DP;</li><li>Auxiliar nos processos de admissão, demissão e organização de documentos;</li><li>Gestão de ponto eletronico, férias e benefícios;</li><li>Dar suporte em controles internos, planilhas e relatórios;</li><li>Apoiar ações de RH, comunicação interna e organização de eventos;</li><li>Atualizar e organizar informações em sistemas e arquivos;</li><li>Apoiar demandas do dia a dia do setor, sempre com acompanhamento e orientação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação concluída ou em andamento em Recursos Humanos, Administração ou áreas correlatas;</li><li>Conhecimento básico de Excel (nível inicial é suficiente);Diferenciais:</li><li>Noções de processos administrativos (RH/DP);</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscocontabilita/23/auxiliar-de-recursos-humanos]]></applyUrl>
+    <companyId><![CDATA[17915213]]></companyId>
+    <city><![CDATA[Varginha]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[904f1c91-e86b-4d85-a537-82d64f3ae6fe]]></partnerJobId>
+    <company><![CDATA[Contabilità.sig]]></company>
+    <title><![CDATA[Auxiliar Financeiro - BPO.sig]]></title>
+    <posterEmail><![CDATA[estervazzi@contabilitasig.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Venha fazer parte de um time que ama inovar e desenvolver pessoas!<br />Aqui, inovação e aprendizado caminham juntos! Somos apaixonados por desenvolver talentos, incentivar o crescimento profissional e criar um ambiente onde o conhecimento é compartilhado e valorizado. Se você busca desafios, quer trabalhar em um lugar onde suas ideias são ouvidas, onde há possibilidades reais de crescimento, e onde o foco são as pessoas, esse é o seu lugar!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Responsabilidades e Atribuições:</strong><br /><ul><li>
+Realizar conciliações bancárias, garantindo a correta conferência e organização das movimentações financeiras;</li><li>Executar rotinas de faturamento, emissão e conferência de documentos financeiros;</li><li>Apoiar os processos de contas a pagar, acompanhando prazos, lançamentos e controles internos;</li><li>Utilizar planilhas em Excel para controle, análise e organização de informações financeiras;</li><li>Efetuar lançamentos, acompanhamentos e atualizações em sistemas de gestão financeira, como o Omie;</li><li>Dar suporte às rotinas administrativas e financeiras do setor, contribuindo para a organização e eficiência dos processos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Organização;</li><li>Proatividade;</li><li>Vontade de aprender.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscocontabilita/20/auxiliar-financeiro-bpo-sig]]></applyUrl>
     <companyId><![CDATA[17915213]]></companyId>
     <city><![CDATA[Varginha]]></city>
     <state><![CDATA[MG]]></state>
