@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 13 Jan 2026 12:18:16 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Jan 2026 13:16:59 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[2673]]></expectedJobCount>
+  <expectedJobCount><![CDATA[2662]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -144,6 +144,25 @@
           <amount><![CDATA[1708.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[79585e4c-183a-4fc7-9c45-db618e26f4ca]]></partnerJobId>
+    <company><![CDATA[Credi Shop]]></company>
+    <title><![CDATA[PROMOTOR DE VENDAS - AÇAILÂNDIA]]></title>
+    <posterEmail><![CDATA[marianaandrade@credishop.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Atendimento ao publico;</li><li>Vendas externas, ofertas de produtos e serviços da Credi-Shop;</li><li>Cadastramento de propostas;</li><li>Organização do ponto de atendimento;</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a abordagem e atendimento ao cliente em pontos de venda.</li><li>Promover os produtos, destacando suas qualidades e vantagens.</li><li>Informar sobre promoções e campanhas em curso.</li><li>Registrar vendas e reportar resultados.</li><li>Participar de ações externas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li> Experiência anterior em vendas;</li><li> Boa comunicação;</li><li> Habilidade de negociação;</li><li> Capacidade de trabalho em equipe.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/credishop/151/promotor-de-vendas-acailandia]]></applyUrl>
+    <companyId><![CDATA[1089858]]></companyId>
+    <city><![CDATA[Imperatriz]]></city>
+    <state><![CDATA[MA]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -8083,6 +8102,98 @@ Analisar os resultados e impactos dos materiais e ações realizadas, visando a 
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[5bfb5dd9-c52c-48d9-bc98-983b4d16bed8]]></partnerJobId>
+    <company><![CDATA[Bridger]]></company>
+    <title><![CDATA[Administrador(a) de Cloud e PACS]]></title>
+    <posterEmail><![CDATA[paula.simoes@grupobridger.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Administrador(a) de Cloud e PACS para atuar na sustentação, administração e evolução de ambientes críticos de saúde, garantindo alta disponibilidade, segurança da informação e performance dos sistemas de imagem médica (PACS) e infraestrutura em nuvem. Este(a) profissional terá papel essencial na gestão de incidentes, integração de sistemas e suporte a ambientes hospitalares e clínicos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Administrar e monitorar ambientes PACS (Philips), assegurando disponibilidade e performance
+</li>
+<li>
+Gerenciar infraestrutura em Cloud (AWS, Azure ou GCP) e ambientes híbridos (on-premises + cloud)
+</li>
+<li>
+Atuar em incidentes críticos, troubleshooting e gestão de crises em ambientes 24x7
+</li>
+<li>
+Apoiar integrações utilizando padrões DICOM e HL7
+</li>
+<li>
+Gerenciar rotinas de backup, disaster recovery e alta disponibilidade
+</li>
+<li>
+Monitorar performance, capacidade e segurança dos ambientes
+</li>
+<li>
+Administrar servidores Windows Server e serviços associados
+</li>
+<li>
+Atuar em conjunto com times internos, fornecedores e clientes (médicos, hospitais e clínicas)
+</li>
+<li>
+Garantir conformidade com boas práticas de segurança da informação e normas do setor de saúde
+</li>
+<li>
+Documentar processos, ambientes e procedimentos operacionais</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Graduação em TI, Sistemas de Informação, Ciência da Computação, Engenharia ou áreas correlatas
+</li>
+<li>
+Experiência prática com sistemas PACS, preferencialmente <strong>Philips</strong>
+</li>
+<li>
+Conhecimento sólido em:
+<ul>
+<li>
+DICOM (Storage, Query/Retrieve, MWL)
+</li>
+<li>
+HL7 (integrações básicas)
+</li>
+<li>
+Workflows de Radiologia e Imagem Médica
+</li>
+</ul>
+</li>
+<li>
+Experiência em Cloud Computing (AWS, Azure ou Google Cloud)
+</li>
+<li>
+Conhecimento em:
+<ul>
+<li>
+Máquinas virtuais, storage, redes, VPN e segurança
+</li>
+<li>
+Backup, alta disponibilidade, escalabilidade e DR
+</li>
+<li>
+Monitoramento e análise de performance
+</li>
+</ul>
+</li>
+<li>
+Administração de Windows Server
+</li>
+<li>
+Conhecimentos sólidos em redes (TCP/IP, DNS, firewall, VLAN), storage (SAN, NAS, iSCSI) e virtualização
+</li>
+<li>
+Experiência em ambientes críticos, com gestão de incidentes e SLA
+</li>
+<li>
+Inglês avançado</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupobridger/106/administrador-a-de-cloud-e-pacs]]></applyUrl>
+    <companyId><![CDATA[101050810]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[5eea2e8f-4844-4fc6-9680-ca7a14ef239c]]></partnerJobId>
     <company><![CDATA[Animati netPACS]]></company>
     <title><![CDATA[Analista de Banco de Dados]]></title>
@@ -13550,7 +13661,7 @@ de vendas ou marketing; <br />- Boa comunicação e habilidades interpessoais.�
   recebidos e o encaminhamento adequado ao almoxarifado.</li><li>Monitorar o fluxo de documentos e notas fiscais relacionados
   às operações logísticas.</li><li>Preparar a equipe para suporte no caso de sua ausência da área
   quando necessário, apoiando diretamente e equipe em situações de acúmulo de
-  trabalho, remanejamento, faltas ou atrasos.</li><li>Elaborar procedimentos e instruções técnicas para a Produção</li><li>Treinamento da equipe nos padrões de trabalho da área.</li><li>Participar de reuniões da Produção e áreas correlatas.</li><li>Emitir requisições de materiais e acompanhar o abastecimento da área.</li>     <li>Zelar pela qualidade dos processos, produtos, organização e conservação dos equipamentos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><br /><ul><li>Ensino técnico ou Superior completo </li></ul><ul><li>Word, Power Point, Excel</li></ul><ul><li>Conhecimento SAP - Modulo MM</li></ul><ul><li>Conhecimento ferramentas de melhoria Continua  (CAPDO / SMED / 5S / 5PQ)</li></ul><br /><br /><b>Benefícios   </b><ul><li>Refeitório no local</li><li>Vale alimentação</li><li>Vale transporte / fretado</li><li>Convênio médico Porto Seguro</li><li>Seguro de Vida Porto Seguro</li><li>PLR anual (conforme convenção coletiva)</li><li>Auxilio creche</li><li>Gympass</li></ul><b>   </b><br /> <br />]]></description>
+  trabalho, remanejamento, faltas ou atrasos.</li><li>Elaborar procedimentos e instruções técnicas para a Produção</li><li>Treinamento da equipe nos padrões de trabalho da área.</li><li>Participar de reuniões da Produção e áreas correlatas.</li><li>Emitir requisições de materiais e acompanhar o abastecimento da área.</li><li>Zelar pela qualidade dos processos, produtos, organização e conservação dos equipamentos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino técnico ou Superior completo </li></ul><ul><li>Word, Power Point, Excel</li></ul><ul><li>Conhecimento SAP - Modulo MM</li></ul><ul><li>Conhecimento ferramentas de melhoria Continua  (CAPDO / SMED / 5S / 5PQ)</li></ul><br /><br /><b>Benefícios   </b><ul><li>Refeitório no local</li><li>Vale alimentação</li><li>Vale transporte / fretado</li><li>Convênio médico Porto Seguro</li><li>Seguro de Vida Porto Seguro</li><li>PLR anual (conforme convenção coletiva)</li><li>Auxilio creche</li><li>Gympass</li></ul><b>   </b><br /> <br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsertimedana/79/lider-de-logistica]]></applyUrl>
     <companyId><![CDATA[1097927]]></companyId>
     <city><![CDATA[Itatiba]]></city>
@@ -20244,6 +20355,44 @@ Capacidade para realizar atividades com esforço físico moderado.</li></ul>]]><
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[601a0a49-ceaa-419f-96b2-7d6c00d84052]]></partnerJobId>
+    <company><![CDATA[Wyda]]></company>
+    <title><![CDATA[Supervisor de Trade Marketing - Execução (Grande Recife)]]></title>
+    <posterEmail><![CDATA[priscila.vecchio@wyda.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por auxiliar a equipe de vendas, marketing e trade da empresa junto a seus clientes, acompanhar resultados, motivando e capacitando tecnicamente a equipe, desdobrando objetivos, realizando análise e planejamento de mercado. <br />Desenvolver, executar e acompanhar ações promocionais nos diversos canais da Cia. <br />Participar de feiras, eventos, visitações promocionais e pontos de vendas, bem como realizar demais atividades correlatas e inerentes ao cargo.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Supervisionar e controlar a execução das atividades, dos planos de ações e dos processos estabelecidos.</li><li>Assegurar a supervisão, acompanhamento e controle de equipes e atividades ligadas à promoção de vendas, incluindo avaliação, treinamento e controle do desempenho dos Promotores Vendas e equipe de vendas de clientes.</li><li>Supervisionar feiras, eventos, ações promocionais e pontos de vendas da empresa. </li><li>Atuar de forma multicanal e multirregional. </li><li>Executar viagens constantes em diversos estados em suporte a gerencia comercial.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação: Ensino Superior Completo em Marketing, Gestão Comercial, Administração ou áreas correlatas.</li><li>Experiência na função e com gestão de equipes.</li><li>CNH B e veículo próprio.</li><li>Disponibilidade para viagens.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaswyda/153/supervisor-de-trade-marketing-execucao-grande-recife]]></applyUrl>
+    <companyId><![CDATA[1124515]]></companyId>
+    <city><![CDATA[Recife]]></city>
+    <state><![CDATA[PE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[eeabc09f-3b19-44e0-a06d-a42c1beb7099]]></partnerJobId>
+    <company><![CDATA[Wyda]]></company>
+    <title><![CDATA[Auxiliar de Produção]]></title>
+    <posterEmail><![CDATA[priscila.vecchio@wyda.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por auxiliar nos processos de produção de montagem, embalagem, movimentação, organização e limpeza dos produtos e materiais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Abastecer a área da máquina com os recursos necessários à operação, tais como caixas de papelão, fita adesiva, paletes vazios, insumos de alumínio, tubetes vazios, cartuchos, etiquetas, tampas, sacos, entre outros.</li><li>Recolher e direcionar os resíduos do processo de produção até o local de descarte apropriado.</li><li>Garantir a eficiência operacional e o cumprimento das normas ambientais e de segurança e dos padrões de qualidade estabelecidos.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio cursando ou completo.</li><li>Experiência na função.</li><li>Disponibilidade de horário para turnos.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaswyda/154/auxiliar-de-producao]]></applyUrl>
+    <companyId><![CDATA[1124515]]></companyId>
+    <city><![CDATA[Sorocaba]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[88ba3148-b9be-4e29-98a4-5702e7b5522b]]></partnerJobId>
     <company><![CDATA[Wyda]]></company>
     <title><![CDATA[Analista Contábil]]></title>
@@ -22516,6 +22665,65 @@ Mecânica, Automação Industrial ou Eletrotécnica Completo ou em Andamento.<br
     <companyId><![CDATA[41016902]]></companyId>
     <city><![CDATA[João Neiva]]></city>
     <state><![CDATA[ES]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[2c020968-7286-4040-a2ef-1fff3d801fc0]]></partnerJobId>
+    <company><![CDATA[Veredas Agroindustrial]]></company>
+    <title><![CDATA[MECANICO INDUSTRIAL]]></title>
+    <posterEmail><![CDATA[bruna.nascimento@ferroeste.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Executar atividades de manutenção
+mecânica preventiva, corretiva e preditiva em máquinas, equipamentos e
+instalações industriais, garantindo a disponibilidade, confiabilidade,
+segurança e eficiência dos processos produtivos. Assegurar o funcionamento
+contínuo e seguro dos equipamentos industriais, contribuindo para a
+produtividade, redução de paradas, controle de custos e cumprimento das normas
+técnicas e de segurança.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />· Realizar manutenção preventiva,
+corretiva e preditiva em máquinas e equipamentos industriais;
+
+· Executar desmontagem, montagem,
+ajustes e substituição de componentes mecânicos;
+
+· Diagnosticar falhas mecânicas em
+sistemas rotativos e estáticos;
+
+· Atuar em sistemas de transmissão
+(redutores, engrenagens, correias, correntes e mancais);
+
+· Executar serviços em bombas,
+válvulas, compressores, ventiladores e motores;
+
+· Realizar alinhamento de eixos,
+balanceamento básico e ajustes de folgas;
+
+· Executar lubrificação conforme
+planos de manutenção;
+
+· Interpretar desenhos técnicos,
+catálogos e manuais;
+
+· Registrar atividades realizadas
+em ordens de serviço e sistemas de manutenção;
+
+· Cumprir normas de segurança, meio
+ambiente e qualidade (SSMA);
+
+· Apoiar paradas programadas,
+montagens industriais e melhorias de processo;
+
+· Zelar pela organização,
+conservação de ferramentas, equipamentos e local de trabalho;<br /><br /><b>Requisitos e qualificações</b><br /><br />-Ensino médio completo;-Experiência comprovada.<br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/destilariaveredas/556/mecanico-industrial]]></applyUrl>
+    <companyId><![CDATA[105088396]]></companyId>
+    <city><![CDATA[João Pinheiro]]></city>
+    <state><![CDATA[MG]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -30735,17 +30943,9 @@ históricos documentais.
 procedimentos e registros do Sistema de Gestão da Qualidade (SGQ).
 
 ·    Auxiliar no acompanhamento de indicadores de qualidade (KPIs),
-não conformidades, auditorias e pesquisas de satisfação de clientes.<br /><br /><b>Requisitos e qualificações</b><br /><br />·    Estar cursando Engenharia de Produção, Engenharia Civil ou áreas
-correlatas.
-
-·    Conhecimento intermediário em Excel.
-
-·    Boa organização, atenção a detalhes e comunicação.
-
-·    Interesse em processos, qualidade, planejamento e gestão
-documental.
-
-·    Facilidade para trabalhar com sistemas, controles e informações
+não conformidades, auditorias e pesquisas de satisfação de clientes.<br /><br /><b>Requisitos e qualificações</b><br /><br />·    Estar cursando Engenharia de Produção e Administração.
+<br />·    Conhecimento intermediário em Excel.<br />·    Boa organização, atenção a detalhes e comunicação.<br />·    Interesse em processos, qualidade, planejamento e gestão
+documental.<br />·    Facilidade para trabalhar com sistemas, controles e informações
 estruturadas.]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/statumvagas/18/estagio-em-planejamento-qualidade]]></applyUrl>
     <companyId><![CDATA[27206196]]></companyId>
@@ -32565,82 +32765,6 @@ Junte-se a nós e contribua para a construção de projetos sólidos e bem execu
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[4ed7f414-f8fa-497c-bfbd-1786ce57ef32]]></partnerJobId>
-    <company><![CDATA[New Way]]></company>
-    <title><![CDATA[Analista de Segurança da Informação JR]]></title>
-    <posterEmail><![CDATA[joao.vendrame@gruponewway.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de talentos apaixonados por tecnologia e inovação para integrar nossa equipe como Analista de Segurança da Informação JR. Se você é uma pessoa motivada, criativa e que busca constantemente se desafiar, venha fazer parte do nosso time! <br /><br /><br />Aqui, você terá a oportunidade de manter e aprimorar políticas e controles de segurança, orientando squads e monitorando vulnerabilidades, serviços em cloud e resultados de ferramentas de segurança. Também apoia análises de Pentest, demandas de clientes e atua em conjunto com o DPO em temas de proteção de dados. Se você é uma pessoa que se identifica com nosso propósito e busca um ambiente desafiador, essa é a sua chance de fazer parte de um ambiente dinâmico e colaborativo.  <br /><br /><br />Venha construir uma carreira de sucesso conosco, envie sua candidatura e venha fazer a diferença conosco!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar na manutenção e evolução das políticas, normas e procedimentos de Segurança da Informação da New Way.</li><li>Orientar os Squads de produtos e serviços na aplicação de boas práticas de segurança, prevenção de vulnerabilidades e controles.</li><li>Monitorar serviços em cloud (AWS) no que tange segurança, analisando alertas e reports do pipeline (ex.: SonarQube).</li><li>Acompanhar, registrar e priorizar vulnerabilidades detectadas em produtos e serviços da New Way, garantindo rastreabilidade.</li><li>Analisar resultados de PenTests, scans de vulnerabilidade e gerar recomendações para os times.</li><li>Apoiar investigações iniciais de incidentes de segurança e registrar evidências.</li><li>Trabalhar em solicitações de clientes sobre segurança da informação, atuando como ponte com áreas técnicas.</li><li>Atuar em conjunto com o DPO para apoiar temas de privacidade, proteção de dados e adequação à LGPD.</li><li>Contribuir para criação de guidelines de secure coding, checklists e boas práticas para desenvolvimento seguro.</li><li>Auxiliar na manutenção do inventário de ativos críticos e na gestão de acessos (IAM).</li><li>Ajudar na construção de indicadores de segurança (SLA de vulnerabilidades, status de conformidade, auditorias).</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimento básico em técnicas de pentest, scan de vulnerabilidades e práticas de segurança aplicadas a produtos SaaS.</li><li>Noções de segurança em cloud (preferencialmente AWS).</li><li>Conhecimento da LGPD e princípios de privacidade e proteção de dados.</li><li>Capacidade de trabalhar de forma autônoma e colaborativa.</li><li>Comunicação clara e objetiva para interação com squads, áreas técnicas e clientes.</li><li>Proatividade e senso de ownership.</li><li>Organização para lidar com múltiplas demandas simultâneas.</li></ul><br /><br /><br />						<br />							<br />							<br />							<br />							<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/newwayjobs/46/analista-de-seguranca-da-informacao-jr]]></applyUrl>
-    <companyId><![CDATA[10037637]]></companyId>
-    <city><![CDATA[Bauru]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[dded7894-699b-4439-aaae-f56d7a301362]]></partnerJobId>
-    <company><![CDATA[New Way]]></company>
-    <title><![CDATA[Estagiário(a) de Marketing]]></title>
-    <posterEmail><![CDATA[joao.vendrame@gruponewway.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de talentos apaixonados por tecnologia e inovação para integrar nossa equipe como Estagiário(a) de Marketing. Se você é uma pessoa motivada, criativa e que busca constantemente se desafiar, venha fazer parte do nosso time!<br /><br /><br />Aqui, você terá a oportunidade de atuar apoiando nas estratégias de marketing, com foco em pesquisas de mercado, criação de conteúdo e gestão de mídias sociais, contribuindo para o planejamento, execução e análise de campanhas digitais. Se você é uma pessoa que se identifica com nosso propósito e busca um ambiente desafiador, essa é a sua chance de fazer parte de um ambiente dinâmico e colaborativo.<br /><br /><br />Venha construir uma carreira de sucesso conosco, envie sua candidatura e venha fazer a diferença conosco!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar a equipe na execução de diversas tarefas para adquirir experiência prática, aplicando a teoria aprendida na faculdade</li><li>Pesquisa de Mercado: Realização de pesquisas de público-alvo e análise de concorrentes para subsidiar estratégias.</li><li>Persona: Ajudar na elaboração e atualização das personas</li><li>Criação de Materiais: Apoio na confecção de materiais de marketing e design</li><li>Elaboração de Campanhas: Auxílio no planejamento e execução de campanhas.</li><li>Análise de Dados e Métricas: Acompanhamento e análise dos resultados de campanhas digitais e desempenho de vendas para gerar insights.</li><li>Gestão de Mídias Sociais: Auxilio no planejamento, criação e agendamento de posts para redes sociais, além de responder a comentários e interagir com o público.</li><li>Criação de Conteúdo: Redação de textos para blogs (blog posts), e-mail marketing e materiais para o site</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação: </b>Estar cursando ensino superior em áreas relacionadas, como Marketing, Comunicação, Publicidade e Propaganda, Jornalismo, Relações Públicas ou Administração a partir do <b>4º período.</b><br /><b>Matrícula regular:</b> Estar regularmente matriculado e frequentando as aulas.<br /><b><br /></b><br /><b><br /></b><br /><ul><li>Boa comunicação verbal e escrita, facilidade de interação e apresentação de ideias.</li><li>Curiosidade, vontade de aprender sobre estratégias de marketing e a produto Saas.</li><li>Conhecimento em Copywriting, SEO, e-mail marketing ou conteúdo visual.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/newwayjobs/43/estagiario-a-de-marketing]]></applyUrl>
-    <companyId><![CDATA[10037637]]></companyId>
-    <city><![CDATA[Bauru]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a4881b87-6f27-4d2d-93ea-882b3bf78d4b]]></partnerJobId>
-    <company><![CDATA[New Way]]></company>
-    <title><![CDATA[Coordenador(a) de Service Desk]]></title>
-    <posterEmail><![CDATA[joao.vendrame@gruponewway.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de talentos apaixonados por tecnologia e inovação para integrar nossa equipe como Coordenador(a) de Service Desk. Se você é uma pessoa motivada, criativa e que busca constantemente se desafiar, venha fazer parte do nosso time! <br /><br /><br />Aqui, você terá a oportunidade como Coordenador de Service Desk de atuar com o time de liberações e infraestrutura local, acompanhando métricas, priorizações, capacidade e desenvolvimento das pessoas, além de atuar como referência técnica. Também garante a governança da infraestrutura física, do inventário de equipamentos e das liberações de canais, definindo padrões operacionais e assegurando alinhamento com a estratégia da empresa.<br /><br /> Se você é uma pessoa que se identifica com nosso propósito e busca um ambiente desafiador, essa é a sua chance de fazer parte de um ambiente dinâmico e colaborativo.  <br /><br /><br />Venha construir uma carreira de sucesso conosco, envie sua candidatura e venha fazer a diferença conosco!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Coordenar a atuação técnica do time de Service Desk (Liberações e Infraestrutura física de TI)</li><li>Supervisionar métricas de produtividade, qualidade e eficiência das entregas.</li><li>Apoiar e direcionar o desenvolvimento técnico e comportamental das pessoas do time.</li><li>Garantir alinhamento entre decisões técnicas e estratégia da empresa.</li><li>Participar ativamente da priorização técnica e gestão de débitos técnicos.</li><li>Realizar avaliações de desempenho, feedbacks (1:1, onboarding, PDI).</li><li>Apoiar a gestão da capacidade técnica e da alocação do time.</li><li>Atuar como referência para resolução de conflitos técnicos ou de times.</li><li>Liderar a operação e governança da infraestrutura física do prédio da New Way</li><li>Liderar a operação e governança da liberação de canais.</li><li>Controlar e gerenciar o inventário de maquinas, celulares, softwares e licenças.</li><li>Definir padrões operacionais, documentações e fluxo da equipe de liberações e infraestrutura. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Comunicação clara e efetiva com públicos técnicos e não técnicos.</li><li>Capacidade de influência e negociação.</li><li>Senso de dono e responsabilidade pelos resultados.</li><li>Organização e disciplina na execução.</li><li>Resiliência frente a mudanças e pressão.</li><li>Curiosidade e busca contínua por inovação.</li><li>Pensamento crítico, analítico e sistêmico.</li><li>Capacidade de formar, engajar e desenvolver pessoas.</li><li>Visão de cliente e de produto.</li><li>Abertura a feedbacks e aprendizado contínuo.</li><li>Espírito inconformado e orientado à melhoria contínua.</li><li>Experiência em coordenação ou liderança técnica.</li><li> Conhecimento em arquitetura de redes, escalabilidade, segurança e performance. </li><li> Prática com metodologias ágeis (Scrum, Kanban, Lean).</li><li> Capacidade de guiar decisões técnicas com base em dados. </li><li> Conhecimento abrangente em infraestrutura, e segurança da informação. </li><li> Capacidade de identificar e priorizar débitos técnicos. </li><li> Vivência na criação e manutenção de backlogs técnicos.</li><li> Experiência com gestão de pessoas técnicas (feedbacks, PDIs, onboarding, avaliação de desempenho). </li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/newwayjobs/41/coordenador-a-de-service-desk]]></applyUrl>
-    <companyId><![CDATA[10037637]]></companyId>
-    <city><![CDATA[Bauru]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6e28e99a-51ad-4052-a954-973b94eb66c7]]></partnerJobId>
-    <company><![CDATA[New Way]]></company>
-    <title><![CDATA[Analista de Service Desk]]></title>
-    <posterEmail><![CDATA[matheus.silva@gruponewway.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de talentos apaixonados por tecnologia e inovação para integrar nossa equipe como Analista de Service Desk. Se você é uma pessoa motivada, criativa e que busca constantemente se desafiar, venha fazer parte do nosso time! <br /><br /><br />Aqui, você terá a oportunidade de atuar como responsável no atendimento e execução de solicitações de canais digitais, cuidando da liberação, reposição e troca de números, mantendo o acompanhamento contínuo da estabilidade e integridade dos canais e realizando a gestão de estoques de ativos de TI. Se você é uma pessoa que se identifica com nosso propósito e busca um ambiente desafiador, essa é a sua chance de fazer parte de um ambiente dinâmico e colaborativo.  <br /><br /><br />Venha construir uma carreira de sucesso conosco, envie sua candidatura e venha fazer a diferença conosco!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atender e priorizar requisições de liberação, reposição e troca de números em canais digitais, assegurando cumprimento de SLAs.</li><li>Verificar periodicamente a estabilidade de canais, diagnosticando falhas e possíveis correções.</li><li>Documentar processos, manter documentação e checklists atualizados.</li><li>Gerenciar informações de estoque de ativos de TI de forma integrada ao sistema corporativo.</li><li>Configurar e atualizar sistemas operacionais Android nos equipamentos antes da distribuição.</li><li>Interagir com clientes e áreas internas para alinhamento de processos e de solicitações.	</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Organização e atenção a detalhes</li><li>Proatividade e autonomia</li><li>Comunicação clara</li><li>Orientação a processos</li><li>Resolução de problemas</li><li>Trabalho em equipe</li><li>Flexibilidade</li><li>Manipulação de Android (configuração, ADB, recovery, testes)</li><li>Desejável conhecimento em plataformas de CRM (como PipeRun ou Hubspot) e sistemas de controle de estoque.</li><li>Desejável conhecimento em Scripting básico (Shell, Python, Bash)	</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/newwayjobs/39/analista-de-service-desk]]></applyUrl>
-    <companyId><![CDATA[10037637]]></companyId>
-    <city><![CDATA[Bauru]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[fa8b54f1-0735-4f04-8939-60effbfef626]]></partnerJobId>
     <company><![CDATA[MF Soluções em RH]]></company>
     <title><![CDATA[Diretor Comercial]]></title>
@@ -34072,63 +34196,6 @@ fornecedores.</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[621b399d-ee66-496c-a82c-1f6328857ae2]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Motorista Pipa - CTT - Campo Florido]]></title>
-    <posterEmail><![CDATA[marilia.masson@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />-<br /><br /><b>Requisitos e qualificações</b><br /><br />-]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1174/motorista-pipa-ctt-campo-florido]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[68430272-878a-4f97-a1a1-0974c963641c]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Líder de Processo Agrícola - CTT - Campo Florido]]></title>
-    <posterEmail><![CDATA[marilia.masson@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar, organizar e coordenar as operações de colheita mecanizada, assegurando o cumprimento das metas de produção. </li><li>Liderar e supervisionar equipes de operadores e técnicos, distribuindo tarefas e monitorando o desempenho individual e coletivo. </li><li>Garantir que os equipamentos estejam em condições ideais de uso, promovendo a manutenção preventiva e corretiva quando necessário. </li><li>Acompanhar indicadores de desempenho e qualidade, implementando ações corretivas e de melhoria contínua. </li><li>Promover treinamentos e capacitações, orientando a equipe sobre as melhores práticas de operação e segurança no trabalho.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>CNH B. </li><li>Disponibilidades para trabalhar em regime de turnos. </li><li>Residir em Campo Florido/MG. </li><li> Formação Técnica ou Superior em Agronomia, Engenharia Agrícola ou áreas correlatas</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1173/lider-de-processo-agricola-ctt-campo-florido]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a2e1d8fa-c530-4f20-aa0e-955223c14ead]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Motorista Cavalo Mecânico - CTT]]></title>
-    <posterEmail><![CDATA[kauane.silva@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir o caminhão cavalo mecânico de forma segura e eficiente, respeitando as normas de trânsito.</li><li>Realizar a entrega e coleta de cargas, seguindo as rotas estabelecidas.</li><li>Garantir a carga está devidamente fixada e em conformidade com as especificações de transporte.</li><li>Fazer a manutenção preventiva e corretiva do veículo, reportando quaisquer irregularidades.</li><li>Colaborar com a equipe de logística para otimizar rotas e processos de entrega.</li></ul><br />     <br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>CNH E.</li><li>Ensino fundamental completo.</li><li>Experiência anterior em condução de caminhões</li><li>Residir em Conceição das Alagoas- MG. </li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1158/motorista-cavalo-mecanico-ctt]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[414652af-bccc-4e06-a806-390006f0cc6a]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
     <title><![CDATA[Auxiliar de Serviços Gerais]]></title>
@@ -34167,121 +34234,12 @@ fornecedores.</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6bc5e248-0938-4fa2-8ab8-d3a23a596ae5]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Líder de Processo Agrícola - CTT - Uberaba]]></title>
-    <posterEmail><![CDATA[marilia.masson@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar, organizar e coordenar as operações de colheita mecanizada, assegurando o cumprimento das metas de produção. </li><li>Liderar e supervisionar equipes de operadores e técnicos, distribuindo tarefas e monitorando o desempenho individual e coletivo. </li><li>Garantir que os equipamentos estejam em condições ideais de uso, promovendo a manutenção preventiva e corretiva quando necessário. </li><li>Acompanhar indicadores de desempenho e qualidade, implementando ações corretivas e de melhoria contínua. </li><li>Promover treinamentos e capacitações, orientando a equipe sobre as melhores práticas de operação e segurança no trabalho.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>CNH B. </li><li>Disponibilidades para trabalhar em regime de turnos. </li><li>Residir em Uberaba/MG. </li><li> Formação Técnica ou Superior em Agronomia, Engenharia Agrícola ou áreas correlatas</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1131/lider-de-processo-agricola-ctt-uberaba]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[fbdc5e1a-2708-4e81-92ef-3db395f1e8d8]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Motorista Pipa - CTT - Uberaba]]></title>
-    <posterEmail><![CDATA[marilia.masson@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />-<br /><br /><b>Requisitos e qualificações</b><br /><br />-]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1130/motorista-pipa-ctt-uberaba]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[36dcc285-f429-4959-a534-7c87b64b62d1]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Operador de Colhedora - CTT - Uberaba]]></title>
-    <posterEmail><![CDATA[marilia.masson@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Operador colhedora agrícola ( cana de açúcar).</li><li>Realizar inspeções diárias no equipamento, verificando níveis de óleo, água, calibragem de pneus, entre outros.</li><li>Preencher relatórios operacionais e zelar pela conservação da máquina. </li><li>Atuar em conformidade com as normas de segurança do trabalho. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo.</li><li>CNH B ( definitiva).</li><li>Disponibilidade para trabalhar em regime de turno.</li><li>Residir em Uberaba- MG.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1129/operador-de-colhedora-ctt-uberaba]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[99e86f2f-4663-4741-804d-1b622b7d1068]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Operador de Transbordo - CTT - Uberaba]]></title>
-    <posterEmail><![CDATA[marilia.masson@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Operar máquinas pesadas ( trator Transbordo).</li><li>Monitorar o funcionamento das máquinas.</li><li>Identificar falhas e realizar manutenções preventivas</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Fundamental completo.</li><li>CNH B ( Definitiva)</li><li>Residir em Uberaba/MG</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1128/operador-de-transbordo-ctt-uberaba]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[edad10a2-7f82-4801-90c9-7be56c7d58c8]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
     <title><![CDATA[Médico do Trabalho - Saúde Ocupacional]]></title>
     <posterEmail><![CDATA[marilia.masson@deltasucroenergia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Coordenar, planejar e executar o Programa de Controle Médico de Saúde Ocupacional (PCMSO), de acordo com a NR-7.<br />• Realizar e/ou supervisionar os Exames Médicos Ocupacionais (admissionais, periódicos, de retorno ao trabalho, de mudança de riscos/função e demissionais), emitindo o Atestado de Saúde Ocupacional (ASO).<br />• Realizar e/ou acompanhar exames complementares necessários para o monitoramento da saúde dos trabalhadores, conforme o PCMSO.<br />• Prestar atendimento médico ambulatorial e de emergência de baixa complexidade no local de trabalho.<br />• Diagnosticar e tratar, ou encaminhar, doenças ocupacionais e agravos à saúde relacionados ao trabalho.<br />• Avaliar a capacidade laboral do colaborador para o exercício de suas funções, propondo adequações quando necessário.<br />• Elaborar e manter atualizados os prontuários médicos dos trabalhadores, garantindo o sigilo ético e legal.<br />• Emitir pareceres, relatórios e laudos médicos relacionados à saúde ocupacional.<br />• Realizar a gestão de atestados médicos e analisar nexo causal de acidentes de trabalho ou doenças (NTEP).<br />• Interagir com o RH e demais áreas da empresa em casos de afastamentos, retorno ao trabalho e reabilitação profissional.<br />• Participar ativamente da elaboração e implementação de programas de prevenção de riscos ambientais (em conjunto com a área de Segurança do Trabalho/SESMT) e campanhas de saúde.<br />• Promover ações de educação e conscientização sobre saúde, prevenção de acidentes, ergonomia e bem-estar no ambiente de trabalho.<br />• Colaborar com a CIPA (Comissão Interna de Prevenção de Acidentes) e o SESMT (Serviço Especializado em Engenharia de Segurança e em Medicina do Trabalho).<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />• Formação superior completa em Medicina.<br />• Especialização em Medicina do Trabalho (pós-graduação, residência médica ou título de especialista).<br />• Registro de Qualificação de Especialista (RQE) em Medicina do Trabalho no Conselho Regional de Medicina (CRM).<br />• Registro ativo e adimplente no CRM.<br />• Experiência prévia na função de Médico do Trabalho em empresas de médio ou grande porte.<br /><ul><li>12 horas semanais</li><li>Residir em Uberaba-MG</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1124/medico-do-trabalho-saude-ocupacional]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[da6913bd-f0d7-4623-8520-328745f2b37e]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Operador de Máquinas II  - CTT]]></title>
-    <posterEmail><![CDATA[raiane.pereira@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />
-
-
- 
-  
-  A
-  Delta Sucroenergia está em busca de um(a) profissional engajado(a) para
-  se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem
-  experiência na função e busca um ambiente de trabalho dinâmico e
-  desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!
-  
- 
-
-
-<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Operador trator agrícola ( cana de açúcar).</li><li>Realizar inspeções diárias no equipamento, verificando níveis de óleo, água, calibragem de pneus, entre outros.</li><li>Preencher relatórios operacionais e zelar pela conservação da máquina. </li><li>Atuar em conformidade com as normas de segurança do trabalho. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo.</li><li>CNH B ( definitiva).</li><li>Disponibilidade para trabalhar em regime de turno.</li><li>Residir em Conceição das Alagoas- MG.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/831/operador-de-maquinas-ii-ctt]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Conceição das Alagoas]]></city>
     <state><![CDATA[MG]]></state>
@@ -34675,63 +34633,6 @@ climatização.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><l
     <posterEmail><![CDATA[isabelam@deltasucroenergia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar serviços de fabricação e/ou recuperação, pré-montagem, montagem e desmontagem de peças de equipamentos, estruturas metálicas, tubulações e acessórios.</li><li>Desempenhar serviços de conformação a frio ou a quente de materiais metálicos.</li><li>Realizar movimentação e/ou elevação de materiais, peças e equipamentos. </li><li>Furar, cortar e desbastar utilizando ferramentas manuais de caldeiraria.  </li></ul><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Disponibilidade para trabalhar em regime de turnos. </li><li>Residir em Delta, Uberaba, Igarapava ou Aramina</li><li>Conhecimento de leitura e interpretação de desenhos técnicos (planta, elevação, corte e isométrico).</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1133/caldeireiro-industrial]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Delta]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[26b1800b-e222-4399-bccb-41c86d574c17]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Operador de Transbordo - CTT]]></title>
-    <posterEmail><![CDATA[maria.batista@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Operar máquinas pesadas ( trator Transbordo).</li><li>Monitorar o funcionamento das máquinas.</li><li>Identificar falhas e realizar manutenções preventivas. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Fundamental completo.</li><li>CNH B ( Definitiva)</li><li>Residir em Conquista-MG.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1007/operador-de-transbordo-ctt]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Delta]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[57d37ad8-a4ec-432a-a39b-1d142928cb32]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Coordenador de Auditoria Interna Agrícola]]></title>
-    <posterEmail><![CDATA[jessica.franco@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia
-está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe!
-Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um
-ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal
-para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar, executar e
-supervisionar auditorias periódicas nos processos agrícolas, como plantio,
-tratos culturais, colheita, transporte e aplicação de insumos.</li><li>Garantir a
-conformidade dos procedimentos operacionais com os padrões internos e normas de
-certificação.</li><li>Avaliar a aderência
-aos planos de produção, uso de recursos e indicadores de eficiência.</li><li>Elaborar relatórios
-técnicos com apontamentos, recomendações e planos de ação corretiva e
-preventiva.</li><li>Apoiar as áreas
-operacionais no desdobramento das ações corretivas e no monitoramento das
-melhorias implementadas.</li><li>Desenvolver e manter
-atualizados os checklists e protocolos de auditoria agrícola.</li><li>Promover
-conscientização das equipes sobre boas práticas operacionais e compliance
-agrícola.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em
-Engenharia Agronômica, Engenharia Agrícola, Agronomia ou áreas correlatas.</li><li>Experiência com
-auditoria interna ou controle de processos agrícolas.</li><li>Disponibilidade para
-residir em Uberaba - MG</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/527/coordenador-de-auditoria-interna-agricola]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Delta]]></city>
     <state><![CDATA[MG]]></state>
@@ -43879,33 +43780,6 @@ constante evolução.<br /></li></ul></b><br /><br /><br /><b>Requisitos e quali
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[a29293e0-f3f1-4a4d-bc4e-3d34d2344981]]></partnerJobId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[Auxiliar administrativo - Gestão Fiscal]]></title>
-    <posterEmail><![CDATA[mc@imersaon.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Prestar suporte às atividades administrativas da empresa, auxiliando na execução das rotinas do setor e no controle de processos e procedimentos internos. Realizar lançamentos, conferência de documentos e colaborar na elaboração de relatórios e planilhas de controle, contribuindo para a organização e eficiência das operações.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Classificar, contabilizar e dar baixa em permutas e demais despesas financeiras;<br />• Auxiliar na elaboração de relatórios de controle de gastos e no processo de fechamento contábil;<br />• Desenvolver e elaborar relatórios gerenciais, realizando o controle de custos por projeto ou atividade;<br />• Apoiar o acompanhamento dos controles internos da empresa, assessorando e monitorando os planos de ação;<br />• Receber, conferir e lançar notas fiscais nos sistemas;<br />• Preencher e atualizar planilhas diversas para controle financeiro;<br />• Controlar e acompanhar o fluxo de caixa da empresa;<br />• Atuar na gestão tributária, realizando a verificação e correta tributação dos documentos;<br />• Gerenciar o controle dos empréstimos da empresa;<br /><ul><li>Fornecer semanalmente relatórios de fluxo financeiro para a diretoria.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Jornada: escala 12x36 (diurno ou noturno)</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/128/auxiliar-administrativo-gestao-fiscal]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1758.99]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1758.99]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[fd8b241c-c357-4614-aa2d-0d0f1e374fda]]></partnerJobId>
     <company><![CDATA[TRIUNFO LOGISTICA]]></company>
     <title><![CDATA[Assistente Administrativo - Vaga Afirmativa (PCD)]]></title>
@@ -47667,7 +47541,7 @@ IA aplicadas à pré-venda.<br /><br /><br /><br /><br />]]></description>
   <job>
     <partnerJobId><![CDATA[f8563982-025f-4247-9556-28a778a98a91]]></partnerJobId>
     <company><![CDATA[A Amapá]]></company>
-    <title><![CDATA[PROJETISTA ORÇAMENTISTA III]]></title>
+    <title><![CDATA[PROJETISTA ORÇAMENTISTA]]></title>
     <posterEmail><![CDATA[daniela.vaz@amapa.ind.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Atuar como referência em
 inteligência comercial, transformando dados em informações estratégicas que
@@ -47720,7 +47594,7 @@ de BI (Power BI, Tableau ou similares);
 
 - Familiaridade com sistemas
 CRM e ERP;- Comunicação clara, objetiva e colaborativa;- Capacidade analítica e raciocínio lógico;- Organização, disciplina e atenção a detalhes;- Proatividade, senso de urgência e adaptabilidade;- Postura profissional e confidencialidade.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasamapa/60/projetista-orcamentista-iii]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasamapa/60/projetista-orcamentista]]></applyUrl>
     <companyId><![CDATA[11557693]]></companyId>
     <city><![CDATA[Cláudio]]></city>
     <state><![CDATA[MG]]></state>
@@ -51823,6 +51697,25 @@ Assegurar a correta recepção, armazenagem e expedição de peças e acessório
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/21/mt04-operador-de-caixa-sinop]]></applyUrl>
     <companyId><![CDATA[1]]></companyId>
     <city><![CDATA[Sinop]]></city>
+    <state><![CDATA[MT]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1bc3d856-c70c-406a-8c5a-08095fc95786]]></partnerJobId>
+    <company><![CDATA[Grupo PMZ]]></company>
+    <title><![CDATA[MT05 | MOTORISTA CAT B]]></title>
+    <posterEmail><![CDATA[arine.escurra@grupopmz.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável conduzir veículos leves fazendo o transporte de cargas entre as diversas unidades de trabalho: recebe a programação do período, acondicionar a carga a ser transportada e circula pelo roteiro estabelecido zelando pela segurança e integridade das pessoas e volumes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar atividade de entrega de produtos e documentos e/ou transporte de pessoas através da condução de veículos leves a fim de realizar a entrega das mercadorias dentro do prazo e qualidade esperados.</li><li>Executar recebimento de carga através da conferência dos itens da Nota Fiscal a fim de garantir entrega dos itens planejados, evitando falhas no processo.</li><li>Executar entrega de mercadoria através da entrega da Nota Fiscal e conferência dos itens a fim de garantir qualidade do serviço.</li><li>Executar check-list do veículo através da conferência e apontamento de desvio, falhas ou necessidade de manutenção no veículo a fim de garantir seu funcionamento e evitar transtornos nas entregas.</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior.</li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade.</li><li>Zelar por máquinas, equipamentos e materiais através do uso correto e controle de despesas a fim de contribuir com a redução de despesas com manutenções adicionais, evitando danos e prolongando sua vida útil.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Possuir carteira de habilitação categoria B válida.<br />- Experiência anterior como motorista.<br />- Conhecimento em legislação de trânsito.<br />- Habilidade em direção defensiva.<br />- Boa comunicação e relacionamento interpessoal.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/209/mt05-motorista-cat-b]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[Sorriso]]></city>
     <state><![CDATA[MT]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -57105,7 +56998,7 @@ do SAP (FI, MM, SD etc.) para parametrização e extração de relatórios. - E
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Estagiário(a) de Finanças, </strong>sendo duas vagas, uma para  atuação em <strong>Contas a pagar </strong>e outra para <strong>Contas a receber, </strong>para apoiar as rotinas da empresa e contribuir para a organização, controle e eficiência dos nossos processos de pagamentos.<br />
 Essa é uma excelente oportunidade para quem deseja iniciar carreira nas áreas de <strong>Finanças, Administração ou Contabilidade</strong>, aprendendo na prática como funciona a gestão financeira de uma empresa em expansão, com acompanhamento próximo do time e exposição a processos reais do negócio.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />No dia a dia, você poderá atuar apoiando as rotinas do setor de <strong>Contas a Pagar</strong>, participando do controle, organização e acompanhamento dos pagamentos da empresa. Será responsável por auxiliar na conferência de documentos como notas fiscais, boletos e contratos, garantindo que todas as informações estejam corretas antes do processamento. Também dará suporte na programação de pagamentos conforme prazos e aprovações, no envio de remessas bancárias e no acompanhamento da efetivação dos pagamentos, contribuindo para que as obrigações financeiras da empresa sejam cumpridas com precisão e organização. Fará parte da rotina o cadastro de contas a pagar e de fornecedores no sistema, além da atualização e manutenção dessas informações, bem como o apoio na conciliação bancária, nos controles internos e na elaboração de relatórios.<br /><br /><br />
 Já na posição de <strong>Contas a Receber</strong>, você atuará apoiando as rotinas de controle, organização e acompanhamento dos recebimentos da empresa. Dará suporte ao faturamento, à emissão de notas fiscais e invoices e à baixa de títulos no sistema, garantindo a correta atualização dos registros financeiros. Também apoiará a conciliação bancária, o acompanhamento dos pagamentos realizados pelos clientes e as ações de cobrança, quando necessário. Fará parte da rotina o cadastro e a atualização de clientes, contratos e ordens de serviço no sistema, além do apoio na elaboração de relatórios e nos controles internos de recebimentos.<br />
-Em ambas as posições, espera-se colaboração em outras atividades inerentes ao setor, com atenção aos detalhes, organização, facilidade com números e vontade de aprender<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando, a partir do <strong>4º período</strong>, <strong>Administração, Finanças, Economia ou Contabilidade</strong>.</li><li>Conhecimento em <strong>Excel</strong> (nível intermediário).</li></ul>]]></description>
+Em ambas as posições, espera-se colaboração em outras atividades inerentes ao setor, com atenção aos detalhes, organização, facilidade com números e vontade de aprender<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando, a partir do <strong>4º período</strong>, <strong>Administração, Finanças, Economia ou Contabilidade</strong>.</li><li>Conhecimento em <strong>Excel</strong> (nível intermediário).</li></ul><br /><br />Oportunidades para residentes no Rio de Janeiro <br />Um dia na semana presencial<br /><br /><br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/opliumcybercarreiras/31/estagiario-a-financeiro]]></applyUrl>
     <companyId><![CDATA[65405460]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
@@ -62803,105 +62696,6 @@ Relacionamento profissional capaz de negociar, organizar e contribuir com result
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[9ef1489f-b360-4c5d-96cf-c3c622d59b34]]></partnerJobId>
-    <company><![CDATA[Itaminas]]></company>
-    <title><![CDATA[TÉCNICO DE LUBRIFICAÇÃO]]></title>
-    <posterEmail><![CDATA[rafaela.miranda@itaminas.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Técnico(a) de Lubrificação</strong> para atuar na execução, controle e otimização das rotinas de lubrificação industrial dos nossos equipamentos. É um(a) profissional essencial para garantir a confiabilidade, o desempenho e a vida útil dos ativos, atuando de forma preventiva e analítica. Se você tem experiência com manutenção de equipamentos rotativos, práticas de lubrificação e gosta de trabalhar com precisão técnica, essa oportunidade pode ser sua.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Executar rotinas de lubrificação manual e automática conforme planos estabelecidos.
-</li>
-<li>
-Revisar e atualizar planos de lubrificação conforme condições operacionais e histórico dos equipamentos.
-</li>
-<li>
-Controlar e organizar estoques de lubrificantes, assegurando armazenamento adequado.
-</li>
-<li>
-Realizar inspeções, identificar anomalias e registrar ocorrências no sistema de manutenção.
-</li>
-<li>
-Acompanhar programas de análise de óleo, interpretar laudos e indicar ações corretivas.
-</li>
-<li>
-Manter o ambiente de trabalho limpo, organizado e em conformidade com práticas de segurança.
-</li>
-<li>
-Apoiar atividades de manutenção mecânica e interagir com PCM, Operação e Engenharia.
-</li>
-<li>
-Contribuir com sugestões de melhoria e boas práticas para aumento da confiabilidade dos ativos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação Técnica e/ou Superior em Mecânica Industrial.
-</li>
-<li>
-Experiência anterior em lubrificação industrial.
-</li>
-<li>
-Experiência comprovada com manutenção de equipamentos rotativos.
-</li>
-<li>
-Capacidade de análise, observação e interpretação de condições operacionais.
-</li>
-<li>
-Conhecimento em boas práticas de lubrificação e controle de contaminação.
-</li>
-<li>
-Habilidade de interação com áreas multidisciplinares.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasitaminas/34/tecnico-de-lubrificacao]]></applyUrl>
-    <companyId><![CDATA[72685309]]></companyId>
-    <city><![CDATA[Sarzedo]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[bf274d75-3796-4fa8-9afd-f85eb571d8fd]]></partnerJobId>
-    <company><![CDATA[Itaminas]]></company>
-    <title><![CDATA[ANALISTA DE MANUTENÇÃO PREDITIVA]]></title>
-    <posterEmail><![CDATA[rafaela.miranda@itaminas.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por planejar, coordenar e executar atividades de monitoramento da condição dos ativos, garantindo confiabilidade, antecipação de falhas e alta disponibilidade operacional. Atua na gestão completa do programa de preditiva, abrangendo análise de vibrações, inspeções, sensores online, termografia, ultrassom, análise de lubrificantes e demais técnicas aplicáveis. É responsável pela interpretação técnica de tendências, correlação entre modos de falha e priorização de intervenções, além de apoiar processos de RCM, FMEA, criticidade e análises de falhas. Também contribui para a otimização dos planos de manutenção, elaboração de estudos técnicos e suporte direto às equipes de campo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Monitorar equipamentos e sistemas por meio de técnicas preditivas (vibração, termografia, ultrassom, análise de óleo, entre outras).
-</li>
-<li>
-Identificar anomalias, diagnosticar causas e propor ações que aumentem a confiabilidade dos ativos.
-</li>
-<li>
-Acompanhar tendências, gerar relatórios técnicos e apoiar decisões de manutenção.
-</li>
-<li>
-Contribuir com planos de manutenção e análises de falha.
-</li>
-<li>
-Apoiar a área na implementação de boas práticas, padrões e melhorias.
-</li>
-<li>
-Trabalhar em parceria com Manutenção, PCM, Operação e Engenharia.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação técnica ou superior relacionada à área (Mecânica, Manutenção, Elétrica, Automação ou afins).
-</li>
-<li>
-Experiência com técnicas de manutenção preditiva ou inspeção de equipamentos.
-</li>
-<li>
-Conhecimento em ferramentas e métodos de diagnóstico.
-</li>
-<li>
-Leitura e interpretação de desenhos, relatórios e dados operacionais.</li>
-</ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasitaminas/33/analista-de-manutencao-preditiva]]></applyUrl>
-    <companyId><![CDATA[72685309]]></companyId>
-    <city><![CDATA[Sarzedo]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[e9ff4e99-0755-4a48-99b5-c26eaf2f7783]]></partnerJobId>
     <company><![CDATA[Itaminas]]></company>
     <title><![CDATA[MECÂNICO DE MANUTENÇÃO]]></title>
@@ -63113,25 +62907,6 @@ Habilidade em elaboração de relatórios técnicos, planilhas e análises bási
 <li>
 Conhecimento em normas de segurança do trabalho e meio ambiente.</li>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasitaminas/28/tecnico-de-operacoes]]></applyUrl>
-    <companyId><![CDATA[72685309]]></companyId>
-    <city><![CDATA[Sarzedo]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[079b11cf-ce21-432c-9b42-10278f88a77a]]></partnerJobId>
-    <company><![CDATA[Itaminas]]></company>
-    <title><![CDATA[AJUDANTE DE ELETRICISTA]]></title>
-    <posterEmail><![CDATA[rafaela.miranda@itaminas.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por apoiar as atividades de montagem eletromecânica, manutenção e melhorias nas instalações elétricas das plantas industriais e áreas comuns. Atuar no auxílio às montagens, ligações desenergizadas, lançamento de cabos e uso de ferramentas elétricas, garantindo o suporte às equipes de eletricistas.Zelar pela organização do canteiro de obras, limpeza das subestações e conservação das ferramentas, cumprindo rigorosamente as normas de segurança e o uso de EPIs.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na execução de montagens eletromecânicas e estruturas metálicas, realizando cortes, furos, ajustes e fixações de materiais;</li><li>Apoiar o eletricista nas ligações de motores, painéis e tomadas desenergizadas;</li><li>Lançar cabos de força, controle, instrumentação e rede de automação;</li><li>Realizar limpeza e organização de subestações de energia e áreas de trabalho;</li><li>Apoiar nas manutenções preventivas e corretivas, seguindo orientações do Líder, Supervisor ou Coordenador;</li><li>Manter o canteiro de obras e local de trabalho limpo, organizado e com ferramentas em bom estado de conservação;</li><li>Realizar atividades em altura quando necessário, com atenção e responsabilidade.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino médio completo;</li><li>Desejável conhecimento básico em eletricidade e equipamentos elétricos (transformadores, painéis, etc.);</li><li>Organização e atenção aos detalhes;</li><li>Disposição para aprender e se adaptar a diferentes atividades;</li><li>Boa comunicação e postura proativa no dia a dia.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasitaminas/27/ajudante-de-eletricista]]></applyUrl>
     <companyId><![CDATA[72685309]]></companyId>
     <city><![CDATA[Sarzedo]]></city>
     <state><![CDATA[MG]]></state>
@@ -68568,6 +68343,25 @@ O profissional será responsável por:
           <amount><![CDATA[3000.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ca65ffee-144b-41b6-9b23-50836d3d7184]]></partnerJobId>
+    <company><![CDATA[ESTALEIRO MAUÁ]]></company>
+    <title><![CDATA[Montador de Andaime Of.]]></title>
+    <posterEmail><![CDATA[liliane.murta@estaleiromaua.ind.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Executar a montagem e desmontagem de andaimes na área industrial, manejando peças de conexões e  elementos de fixação, para aparelhar a área  em atividades com altitudes que a exigem. Separar e  efetuar a carga e/ou descarga das peças e serem utilizadas na montagem dos andaimes, organizando-as sobre equipamento transportador, para posicioná-los em local apropriado de modo a facilitar as operações;Montar andaimes de todas as obras de construção e reparo, conectando os tubos, fixando pé direito prendendo treliças e travessões horizontais para formar suporte das plataformas, fixando as partes com braçadeiras para possibilitar a realização de trabalhos em alturas que a exigem;<br />Instalar escadas, barras de proteção, corrimãos e outros acessórios para permitir acesso e trânsito seguro sobre andaime;<br />Modificar andaimes, alterando e/ou ampliando armações, plataformas e outros elementos para adapta-las à progressão das obras; <br />Desmontar andaimes após a conclusão dos trabalhos, retirando pisos, braçadeiras, desconectando tubos e organizando as peças visando transportá-la para outro local; <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Montar e desmontar andaimes de acordo com os projetos e especificações técnicas.<br /> - Garantir a segurança na montagem e manutenção dos andaimes, seguindo as normas locais e regulamentações de segurança.<br /> - Inspecionar os andaimes antes e durante o uso, assegurando sua estabilidade e resistência.<br /> - Colaborar com a equipe de obra na organização e limpeza da área de trabalho.<br /> - Comunicar-se efetivamente com outros profissionais envolvidos, reportando quaisquer problemas ou necessidades.<br /> - Treinar outros membros da equipe sobre práticas seguras e procedimentos adequados de montagem.<br /> - Manter ferramentas e equipamentos em bom estado de conservação e funcionamento.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Experiência prévia em montagem e desmontagem de andaimes.<br /> - Conhecimento em normas de segurança e higiene do trabalho.<br /> - Habilidade para trabalho em altura.<br /> - Capacidade de trabalhar em equipe.<br /> - Flexibilidade de horários.<br /> - Boa comunicação.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasestaleiromaua/13/montador-de-andaime-of]]></applyUrl>
+    <companyId><![CDATA[725337]]></companyId>
+    <city><![CDATA[Niterói]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
