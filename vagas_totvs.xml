@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 14 Jan 2026 16:18:58 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Jan 2026 17:19:23 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[2703]]></expectedJobCount>
+  <expectedJobCount><![CDATA[2700]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -14055,35 +14055,6 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para voc�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[4db5155a-d173-40a4-b31e-c96be181ed81]]></partnerJobId>
-    <company><![CDATA[Unimarka Distribuidora]]></company>
-    <title><![CDATA[Consultor de Vendas]]></title>
-    <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é apaixonado por vendas,
-gosta de desenvolver novos negócios, habilidoso com a execução e sonha em
-trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para você!</b><b><br /></b><br />Vaga destinada também a PCD.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Cumpre o planejamento de visitas diário, atendendo os clientes de sua base;</li><li>Faz a verificação da loja quanto a necessidade de produtos, de acordo com o sortimento recomendado para cada ambiente de varejo;</li><li>Apresenta proposta de venda para o cliente com base na verificação, fazendo o fechamento do pedido e acompanhando sua entrega conforme combinado.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Desejável ensino médio completo.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/714/consultor-de-vendas]]></applyUrl>
-    <companyId><![CDATA[65466539]]></companyId>
-    <city><![CDATA[Barra]]></city>
-    <state><![CDATA[BA]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[5000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[c9d4a472-e883-4513-b048-88bf2f208bbb]]></partnerJobId>
     <company><![CDATA[Unimarka Distribuidora]]></company>
     <title><![CDATA[Operador de Logística]]></title>
@@ -20963,151 +20934,6 @@ Vivência com pipelines complexas e ambientes enterprise</li>]]></description>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6c1fe6e7-cfcc-4e27-b918-71c44c5ff834]]></partnerJobId>
-    <company><![CDATA[V8.Tech]]></company>
-    <title><![CDATA[Analista de QA SR]]></title>
-    <posterEmail><![CDATA[maiara.fagundes@v8.tech]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa dedicada e com vontade de fazer a diferença para atuar na área de Negócios. Se você ama tecnologia, gosta de desafios e acredita no poder da colaboração para alcançar grandes resultados, essa oportunidade é para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Definir e executar <strong>estratégia de testes end-to-end</strong> em ambiente Azure
-</li>
-<li>
-Validar fluxos entre:
-<ul>
-<li>
-<strong>Azure Front Door</strong>
-</li>
-<li>
-<strong>API Gateway / APIM</strong>
-</li>
-<li>
-<strong>Load Balancer</strong>
-</li>
-<li>
-<strong>AKS (Kubernetes)</strong>
-</li>
-<li>
-<strong>Azure Functions</strong>
-</li>
-<li>
-<strong>Event Namespace / Azure Event Bus</strong>
-</li>
-<li>
-<strong>Azure Data Factory</strong>
-</li>
-<li>
-<strong>Azure MySQL e Azure PostgreSQL</strong>
-</li>
-</ul>
-</li>
-<li>
-Estruturar e evoluir <strong>automação de testes (API, integração e regressão)</strong>
-</li>
-<li>
-Integrar automação às <strong>pipelines do Azure DevOps</strong>
-</li>
-<li>
-Atuar em <strong>shift-left</strong>, apoiando refinamentos técnicos
-</li>
-<li>
-Validar cenários de:
-<ul>
-<li>
-Integração entre microserviços
-</li>
-<li>
-Comunicação assíncrona e orientada a eventos
-</li>
-<li>
-Consistência e integridade de dados
-</li>
-<li>
-Segurança (uso de Azure Key Vault)
-</li>
-</ul>
-</li>
-<li>
-<strong>Introduzir e evangelizar práticas de Contract Tests</strong><br />
-(ex: Pact / Pactflow ou conceitos similares), de forma incremental
-</li>
-<li>
-Utilizar <strong>observabilidade</strong> para apoiar análises de qualidade<br />
-(Application Insights, Datadog)
-</li>
-<li>
-Atuar de forma colaborativa com Dev e DevOps, propondo melhorias contínuas
-</li>
-<li>
-Apoiar a evolução da qualidade considerando futura <strong>migração para GCP</strong></li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência sólida como <strong>QA Sênior</strong>
-</li>
-<li>
-Forte entendimento de <strong>arquitetura cloud em Azure</strong>
-</li>
-<li>
-Experiência prática ou conceitual com:
-<ul>
-<li>
-<strong>AKS (Kubernetes)</strong>
-</li>
-<li>
-<strong>API Gateway / APIM</strong>
-</li>
-<li>
-<strong>Event Namespace / Azure Event Bus</strong>
-</li>
-<li>
-<strong>Azure MySQL e Azure PostgreSQL</strong>
-</li>
-<li>
-<strong>Azure Data Factory</strong>
-</li>
-<li>
-<strong>Azure Front Door e Load Balancer</strong>
-</li>
-<li>
-<strong>Azure Key Vault</strong>
-</li>
-</ul>
-</li>
-<li>
-Automação de testes:
-<ul>
-<li>
-<strong>API</strong> (Postman, REST Assured ou similares)
-</li>
-<li>
-<strong>Integração / regressão</strong>
-</li>
-</ul>
-</li>
-<li>
-Experiência com <strong>Azure DevOps Pipelines</strong>
-</li>
-<li>
-Conhecimento em aplicações:
-<ul>
-<li>
-<strong>Backend:</strong> Java, Spring Boot, Node.js
-</li>
-<li>
-<strong>Frontend:</strong> React
-</li>
-</ul>
-</li>
-<li>
-Vivência em CI/CD</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/464/analista-de-qa-sr]]></applyUrl>
-    <companyId><![CDATA[1]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[b0a1195b-45dc-44fb-bcb8-0aefe79e18f0]]></partnerJobId>
     <company><![CDATA[V8.Tech]]></company>
     <title><![CDATA[Analista de QA SR]]></title>
@@ -22009,6 +21835,33 @@ em Administração, Ciências Contábeis, Economia, Finanças ou áreas correlat
         </highEnd>
         <lowEnd>
           <amount><![CDATA[2500.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3eda0771-20d9-48b9-a9fa-e742bc7a76fe]]></partnerJobId>
+    <company><![CDATA[Lemit Brasil]]></company>
+    <title><![CDATA[Analista Inside Sales]]></title>
+    <posterEmail><![CDATA[gabrielli@lemitti.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é uma pessoa comunicativa, gosta de desafios, é apaixonada por vendas e por se conectar com pessoas, essa oportunidade pode ser sua!  Buscamos um <b>Analista Inside Sales </b>para atuar diretamente na geração de novos negócios, no relacionamento com clientes e no suporte às estratégias comerciais. Você fará parte de um time dinâmico, colaborativo e com muita oportunidade de crescimento!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Prospecção de clientes (leads): identificar e abordar potenciais compradores;<br />Qualificação de leads: entender se o lead tem potencial real de compra (fit, necessidade, orçamento);<br />Apresentação de produtos e serviços: conduzir reuniões e demonstrações remotas;<br />Negociação e fechamento de vendas: tratar objeções e concluir o negócio;<br />Gestão do pipeline de vendas: organizar oportunidades no CRM e acompanhar as etapas do funil;<br />Relacionamento com clientes: manter contato frequente para garantir satisfação e possíveis upsells;<br />Colaboração com marketing e pré-vendas (SDR): alinhar estratégias e contribuir para melhoria da conversão.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Excel intermediário;</li><li>Boa comunicação verbal e escrita;</li><li>Capacidade de negociação e escuta ativa;</li><li>Organização, disciplina e foco em metas.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/lemitcarreiras/30/analista-inside-sales]]></applyUrl>
+    <companyId><![CDATA[11396839]]></companyId>
+    <city><![CDATA[Vinhedo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2096.27]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2096.27]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
@@ -27212,48 +27065,6 @@ Buscamos profissionais comprometidos, atentos aos detalhes e que gostem de traba
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/189/auxiliar-de-almoxarifado-marica]]></applyUrl>
     <companyId><![CDATA[9250455]]></companyId>
     <city><![CDATA[Maricá]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[de2deffc-dd4c-4a27-90c8-3a1a42db7af4]]></partnerJobId>
-    <company><![CDATA[Ceneged]]></company>
-    <title><![CDATA[ELETRICISTA LM]]></title>
-    <posterEmail><![CDATA[saraoliveira@ceneged.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Executa obras e manutenções em redes de distribuição desenergizadas, realizando ampliações, substituições e extensões de rede conforme projetos técnicos, garantindo expansão e regularidade do sistema elétrico.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Receber, interpretar e executar ordens de serviço para obras e manutenções em redes de distribuição desenergizadas;</li><li>Construir, ampliar e substituir trechos de rede com base em croquis e projetos técnicos de engenharia;</li><li>Instalar postes, cruzetas, cabos, isoladores e equipamentos de linha;</li><li>Operar ferramentas manuais e motomecanizadas conforme a atividade;</li><li>Elaborar e preencher Análise Preliminar de Risco (APR) e outros registros técnicos exigidos;</li><li>Realizar checklists operacionais e de segurança antes, durante e após a execução dos serviços;</li><li>Cumprir rigorosamente as normas de segurança do trabalho, incluindo o uso obrigatório de EPIs e EPCs;</li><li>Colaborar com a equipe técnica na execução segura e eficiente das atividades de campo;</li><li>Zelar pela organização dos materiais, ferramentas e ambiente de trabalho.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Fundamental Completo;</li><li>Curso de Eletricista de Rede de Distribuição Desenergizada, para atuação em rede de baixa e média tensão; </li><li>Experiência comprovada na função; </li><li>Cursos NR 10 e NR 35; </li><li>Habilitação Cat. D . </li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/258/eletricista-lm]]></applyUrl>
-    <companyId><![CDATA[9250455]]></companyId>
-    <city><![CDATA[Três Rios]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[ebbe1845-c241-4758-9050-54cf45872500]]></partnerJobId>
-    <company><![CDATA[Ceneged]]></company>
-    <title><![CDATA[Estagiário(a) de Segurança do Trabalho]]></title>
-    <posterEmail><![CDATA[saraoliveira@ceneged.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto(a) para dar o primeiro passo na sua carreira profissional? Temos uma oportunidade empolgante que pode ser o início de uma jornada incrível para você. A Ceneged busca pessoas talentosas e motivadas que desejam se desenvolver em um ambiente dinâmico e colaborativo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar inspeções e checklists em equipamentos, ferramentas e ambiente de trabalho.</li><li>
-Auxiliar na orientação dos colaboradores sobre normas de segurança e no acompanhamento de treinamentos e campanhas.
-</li><li>
-Dar suporte no controle e organização de documentos, registros e indicadores do setor de Segurança do Trabalho.</li><li>
-Colaborar em reuniões e rotinas do SESMT, seguindo diretrizes e normas regulatórias.</li><li>Dar suporte nas demais rotinas do setor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando Técnico em Segurança do Trabalho;</li><li>Habilidade analítica e capacidade de resolução de problemas;</li><li>Boa comunicação, proatividade e facilidade para trabalhar em equipe;</li><li>Disponibilidade para estagiar no período da tarde de segunda a sexta-feira;</li><li>Conhecimento básico no Pacote Office.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/100/estagiario-a-de-seguranca-do-trabalho]]></applyUrl>
-    <companyId><![CDATA[9250455]]></companyId>
-    <city><![CDATA[Três Rios]]></city>
     <state><![CDATA[RJ]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -60155,25 +59966,6 @@ Na Mondiana, valorizamos quem joga junto, quem tem pensamento crítico, agilidad
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[c638079d-4275-4db5-bf59-90a8e219bfcc]]></partnerJobId>
-    <company><![CDATA[Mondiana]]></company>
-    <title><![CDATA[TÉCNICO PPCM]]></title>
-    <posterEmail><![CDATA[sheila.ribeiro@mondiana.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Técnico de PPCM</strong> para atuar no planejamento, programação e controle das atividades de manutenção, assegurando a eficiência dos equipamentos, o cumprimento do calendário de preventivas e a redução de paradas na produção. Este(a) profissional será responsável por integrar as áreas de manutenção, produção e fornecedores, garantindo qualidade, produtividade e segurança no ambiente industrial.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar, orientar e distribuir as atividades da Manutenção, de acordo com as orientações, metas e programas definidos;</li><li>Efetuar o planejamento do calendário e os planos para a manutenção preventiva e preditiva das máquinas e equipamentos mecânicos, hidráulicos, elétricos e de refrigeração da empresa, verificando as últimas revisões, a disponibilidade de execução dos serviços pela manutenção e a possibilidade de liberação da máquina, pela produção, efetuando os registros no sistema, seguindo roteiros, para que a manutenção interfira o mínimo possível no processo produtivo, porém dentro dos limites de preventiva;</li><li>Responder pela operacionalização, cumprimento e acompanhamento dos programas de manutenção preventiva, corretiva e preditiva, bem como pelo suporte e orientação de serviços de terceiros;</li><li>Responder pela gestão dos recursos humanos da área, treinamento desempenho e disciplina dos integrantes da equipe, administrando faltas, férias e outros procedimentos inerentes à estruturação, manutenção e motivação da sua equipe de trabalho, analisando as decisões com o superior imediato;</li><li>Manter contato com os setores envolvidos, negociando as datas das preventivas;</li><li>Controlar os formulários de check list das manutenções de rotina realizadas ou solicitadas pela produção, arquivando os documentos conforme determinação.</li><li>Cadastrar os dados da máquina e equipamentos novos no sistema, inserindo, alterando e padronizando procedimentos para as preventivas de peças e dispositivos idênticos;</li><li>Criar e imprimir as etiquetas de identificações de máquinas, equipamentos, solicitando a fixação das mesmas;</li><li>Transcrever informações do sistema informatizado para planilhas ou editor de texto, gerando e emitindo relatórios e controles conforme necessidades ou solicitações;</li><li>Manter contatos com fornecedores, visando buscar soluções para defeitos e novas tecnologias em máquinas para melhoria da qualidade e produtividade da área fabril, através de reuniões internas ou visitas específicas e técnicas.</li><li>Fazer contatos com os fornecedores de serviços terceirizados, quando necessário para auxiliar em serviços de manutenção elétrica, mecânica ou similares, minimizando paradas de máquina para reestabelecer a produção.</li><li>Responder pela elaboração, cumprimento e acompanhamento dos programas de manutenção preventiva e preditiva, bem como pelo suporte e orientação de serviços de terceiros.</li><li>Responder pelos resultados e estatísticas de serviços, analisando relatórios de horas improdutivas, horas extras, visando quantificar e validar o custo benefício;</li><li>Responder pela a atualização e manutenção dos registros das informações inerentes à manutenção industrial, criação e análise de indicadores de acompanhamento dos resultados;</li><li>Cumprir as normas e procedimentos definidos pelos padrões da segurança do trabalho, utilizando os EPI e executando as operações de treinamento e instruções, zelando pela segurança própria e de terceiros;</li><li>Executar outras atividades de acordo com as necessidades e a critério do superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino técnico completo em mecânica industrial, eletromecânica ou áreas afins.</li><li>Vivência anterior como PPCM em indústria;</li><li><br /></li></ul><br /><br /><b>Horário de Trabalho</b>: 07h30 às 16h18 de segunda a sexta e sábado das 07h30 ás 12h30<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmondiana/25/tecnico-ppcm]]></applyUrl>
-    <companyId><![CDATA[35514539]]></companyId>
-    <city><![CDATA[Biguaçu]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[73112f39-6955-4fcd-8826-3c1206525422]]></partnerJobId>
     <company><![CDATA[Mondiana]]></company>
     <title><![CDATA[OPERADOR DE EXTRUSORA (MASTERBATCH)]]></title>
@@ -60644,25 +60436,6 @@ Noções de marketing digital e tráfego pago (diferencial).</li></ul></li>]]></
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsernewglass/21/auxiliar-de-expedicao]]></applyUrl>
     <companyId><![CDATA[106130391]]></companyId>
     <city><![CDATA[Araucária]]></city>
-    <state><![CDATA[PR]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[0f00881f-1926-44e0-8d67-989d8bb7dc86]]></partnerJobId>
-    <company><![CDATA[New Glass Importadora]]></company>
-    <title><![CDATA[Coordenador de Logística]]></title>
-    <posterEmail><![CDATA[coordenador.rh@newglassind.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Prestar assessoria técnica e operacional na coordenação das atividades logísticas da New Glass, assegurando eficiência na movimentação de materiais, controle de estoque, expedição e transporte, com foco em produtividade, cumprimento de prazos e excelência no atendimento ao cliente interno e externo.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Coordenar e acompanhar as operações de expedição, recebimento e armazenagem de materiais e produtos. </li><li>Validar a conferência e integridade dos materiais recebidos e expedidos, garantindo conformidade com os pedidos e notas fiscais. </li><li>Supervisionar a organização, limpeza e layout dos estoques e pátios, assegurando o uso racional dos espaços. </li><li>Gerir o agendamento de coletas e entregas junto às transportadoras, controlando prazos e prioridades. </li><li>Monitorar o cumprimento de prazos de entrega e coleta, propondo ações corretivas quando necessário. </li><li>Analisar e aprovar custos logísticos e fretes, incluindo logística reversa e ocorrências de transporte. </li><li>Acompanhar indicadores de produtividade e eficiência operacional, propondo melhorias contínuas. </li><li>Garantir a integração das informações logísticas com os sistemas ERP e controles internos. </li><li>Participar de reuniões de alinhamento interdepartamentais (Comercial, PCP, Produção, Financeiro). </li><li>Apoiar e supervisionar o controle de inventário e auditorias periódicas de estoque. </li><li>Elaborar relatórios semanais de fluxo de cargas, desempenho logístico e custos operacionais. </li><li>Implementar melhorias nos processos de armazenagem, expedição e transporte, buscando otimização de tempo e custo. </li><li>Desenvolver e acompanhar planos de capacitação e treinamentos para a equipe operacional. </li><li>Garantir o cumprimento das normas de segurança, qualidade e procedimentos internos. </li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Gestão de operações logísticas e equipes operacionais. </li><li>Planejamento e controle de transporte, expedição e armazenagem. </li><li>Controle de indicadores de desempenho e produtividade logística. </li><li>Domínio de sistemas ERP (lançamentos, consultas e relatórios). </li><li>Gestão de custos logísticos, fretes e roteirização. </li><li>Conhecimento em logística reversa e gestão de pátio.  </li><li>Liderança e orientação para resultado. </li><li>Organização e disciplina operacional. </li><li>Capacidade de resolução de problemas e tomada de decisão ágil. </li><li>Relacionamento interpessoal e trabalho em equipe. </li><li>Comunicação clara e assertiva. </li><li>Proatividade e senso de prioridade. </li><li>Comprometimento e profissionalismo. </li><li>Foco em melhoria contínua e aprendizado constante. </li></ul><br /><br /><ul><li></li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsernewglass/19/coordenador-de-logistica]]></applyUrl>
-    <companyId><![CDATA[106130391]]></companyId>
-    <city><![CDATA[Curitiba]]></city>
     <state><![CDATA[PR]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -64080,6 +63853,30 @@ Residir em Indaiatuba, Salto ou Elias Fausto.</li>]]></description>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[3fe86ea6-8c0b-4726-bef2-feee38eb6e2a]]></partnerJobId>
+    <company><![CDATA[Grupo Onix]]></company>
+    <title><![CDATA[Torneiro CNC]]></title>
+    <posterEmail><![CDATA[naiara.mendes@onixminerals.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Grupo Onix está com oportunidade aberta para Torneiro CNC. Buscamos um profissional comprometido, atento aos detalhes e com forte conhecimento técnico em usinagem.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Programar, preparar e operar tornos CNC, garantindo a precisão e qualidade das peças produzidas;<br />Interpretar desenhos técnicos e especificações de produção;<br />Realizar ajustes e correções de programação quando necessário;<br />Selecionar ferramentas adequadas e acompanhar o processo de usinagem;<br />Monitorar a qualidade dimensional e o acabamento superficial das peças;<br />Identificar, diagnosticar e solucionar possíveis falhas no processo produtivo.<br /><br /><b>Requisitos e qualificações</b><br /><br />Conhecimento em programação CNC, com domínio de G-code e M-code;<br />Leitura e interpretação de desenho técnico;<br />Experiência na operação de tornos CNC;<br />Familiaridade com comandos Fanuc, Fagor ou similares;<br />Conhecimento em metrologia e uso de instrumentos de medição;<br /><br />
+
+
+
+
+<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupoonixvagas/30/torneiro-cnc]]></applyUrl>
+    <companyId><![CDATA[66782858]]></companyId>
+    <city><![CDATA[Igarapé]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[50a16aad-447b-426d-aabb-72a9a290f063]]></partnerJobId>
     <company><![CDATA[Grupo Onix]]></company>
     <title><![CDATA[Consultor de Vendas]]></title>
@@ -66196,10 +65993,10 @@ vendas.<br />]]></description>
   <job>
     <partnerJobId><![CDATA[bc90e21c-c52d-4674-8a19-a65e01c63b17]]></partnerJobId>
     <company><![CDATA[Bullla]]></company>
-    <title><![CDATA[Analista de Tesouraria Sênior | Projeto Pix]]></title>
+    <title><![CDATA[Analista de Tesouraria Pleno | Projeto Pix]]></title>
     <posterEmail><![CDATA[gabrielle.cardim@bullla.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional que queira elevar o nível da nossa operação financeira. Mais do que realizar tarefas rotineiras, você será responsável por otimizar fluxos de caixa e pagamentos, utilizando tecnologia para garantir que nossa conciliação seja rápida, precisa e escalável. Se você domina as regras do Banco Central e adora "automatizar o operacional", esta vaga é para você.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><b>Gestão de Fluxo Pix:</b> Monitorar e conciliar transações Pix em tempo real, garantindo a conformidade com as regulações vigentes do Banco Central (BACEN).<br /></li><li><b>Conciliação Bancária Avançada:</b> Realizar o fechamento diário e mensal, identificando e resolvendo divergências de forma proativa.<br /></li><li><b>Inteligência de Dados:</b> Criar e manter consultas em <b>SQL</b> e modelos no <b>Power Query</b> para extrair, transformar e analisar grandes volumes de dados financeiros.<br /></li><li><b>Automação de Processos:</b> Identificar gargalos operacionais na Tesouraria e implementar soluções automatizadas para reduzir o trabalho manual e erros humanos.<br /></li><li><b>Interface com ERP:</b> Operar e extrair o máximo de eficiência do sistema de gestão, garantindo a integridade dos dados financeiros.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Experiência com Pix:</b> Domínio de fluxos de liquidação, chaves, devoluções (MED) e entendimento das normas do Banco Central.<br /></li><li><b>Manipulação de Dados:</b> Conhecimento intermediário/avançado em <b>SQL</b> (queries, joins, filtros) e <b>Power Query</b> (M Language ou interface visual).<br /></li><li><b>Conciliação Bancária:</b> Sólida experiência com rotinas de Tesouraria e conciliação de contas de alta transacionalidade.<br /></li><li><b>Perfil Tech:</b> Experiência comprovada em projetos de <b>automação de processos</b> (seja via macros, scripts ou ferramentas de BI).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadesbullla/26/analista-de-tesouraria-senior-projeto-pix]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadesbullla/26/analista-de-tesouraria-pleno-projeto-pix]]></applyUrl>
     <companyId><![CDATA[16198904]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -66419,25 +66216,6 @@ Noções de atendimento, exposição de produtos e mercado varejista.</li></ul>]
     <posterEmail><![CDATA[marcela.ribeiro@jeitocaseiro.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><li>Executar atividades operacionais nas linhas de produção, seguindo instruções de trabalho, padrões de qualidade e normas de segurança.</li><li>Auxiliar na organização do setor, abastecimento de materiais, limpeza e demais rotinas conforme orientação do Líder de Linha.</li><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Preparar a linha de produção, garantindo recursos disponíveis e informando o líder em caso de desvios.</li><li>Seguir normas de produção, cuidando da manutenção de máquinas e utensílios.</li><li>Armazenar produtos nos carrinhos para preservação e envio ao congelamento.</li><li>Manter o ambiente limpo e organizado conforme orientações da qualidade.</li><li>Cumprir normas de BPF, assegurando a segurança alimentar.</li><li>Executar o planejamento de produção conforme orientações do líder e instruções de trabalho.</li><li>Realizar outras atividades correlatas quando solicitado pelo superior imediato.</li></ul><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.<br /></li><li>Maior de 18 anos.</li><li>Desejável de 0 a 1 ano em atividades relacionadas à produção de alimentos.</li><li>Manuseio de alimentos.</li><li>Operação de equipamentos de produção de alimentos.</li><li>Conceitos de higienização e organização em ambiente de produção de alimentos.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/jeitocaseiro/53/auxiliar-de-producao]]></applyUrl>
-    <companyId><![CDATA[11249464]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[8e758b64-1932-4301-bf88-8249d394deef]]></partnerJobId>
-    <company><![CDATA[Jeito Caseiro]]></company>
-    <title><![CDATA[Auxiliar de Produção (PCD)]]></title>
-    <posterEmail><![CDATA[marcela.ribeiro@jeitocaseiro.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><li>Executar atividades operacionais nas linhas de produção, seguindo instruções de trabalho, padrões de qualidade e normas de segurança.</li><li>Auxiliar na organização do setor, abastecimento de materiais, limpeza e demais rotinas conforme orientação do Líder de Linha.</li><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>A vaga é para atuação no <strong>primeiro turno</strong>, das <strong>06h00 às 15h48.</strong></li><li>Preparar a linha de produção, garantindo recursos disponíveis e informando o líder em caso de desvios.</li><li>Seguir normas de produção, cuidando da manutenção de máquinas e utensílios.</li><li>Armazenar produtos nos carrinhos para preservação e envio ao congelamento.</li><li>Manter o ambiente limpo e organizado conforme orientações da qualidade.</li><li>Cumprir normas de BPF, assegurando a segurança alimentar.</li><li>Executar o planejamento de produção conforme orientações do líder e instruções de trabalho.</li><li>Realizar outras atividades correlatas quando solicitado pelo superior imediato.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.<br /></li><li>Maior de 18 anos.</li><li>Desejável de 0 a 1 ano em atividades relacionadas à produção de alimentos.</li><li>Manuseio de alimentos.</li><li>Operação de equipamentos de produção de alimentos.</li><li>Conceitos de higienização e organização em ambiente de produção de alimentos.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/jeitocaseiro/46/auxiliar-de-producao-pcd]]></applyUrl>
     <companyId><![CDATA[11249464]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[RJ]]></state>
@@ -67405,69 +67183,6 @@ de pacote office; </li><li>Pró-atividade;</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[f53820a5-e240-43b8-aca8-6c2a9119ff35]]></partnerJobId>
-    <company><![CDATA[VS Operador Logístico]]></company>
-    <title><![CDATA[Assistente de Gerenciamento de Risco]]></title>
-    <posterEmail><![CDATA[maria.heemann@vstransportes.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Assistente</strong> para integrar nosso time e contribuir com as rotinas que garantem o bom funcionamento das nossas operações logísticas. Procuramos alguém organizado(a), com boa comunicação, senso de responsabilidade e vontade de aprender em um ambiente dinâmico e colaborativo.<br /><br />Se você é movido por desafios, gosta de trabalhar com pessoas e quer crescer em uma empresa sólida e em expansão, <strong>essa vaga é pra você!</strong><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar
-cadastro e consulta de motoristas / Veículos multicadastro;</li><li>Gerar
-Solicitação de Monitoramento Preventivo – SMP no sistema APSUL;</li><li>Expedir
-Contratos de Transporte;</li><li>Organização
-documental dos provedores;</li><li>Atuar na
-comunicação entre Motorista e Gerenciamento de Risco - GR;</li><li>Controle
-de Iscas;</li><li>Atuar no
-informativo a clientes (Follow-up)</li><li>Rotinas
-administrativas;
-
- </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência
-01 ano em transporte / monitoramento;</li><li>Noções
-em gerenciamento de risco;</li><li>Conhecimento
-de pacote office;</li><li>Pró-atividade;</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vsoperadorlogistico/8/assistente-de-gerenciamento-de-risco]]></applyUrl>
-    <companyId><![CDATA[14070563]]></companyId>
-    <city><![CDATA[Itajaí]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[01d1da7a-bcbf-4900-b371-5e82e5d58a9c]]></partnerJobId>
-    <company><![CDATA[VS Operador Logístico]]></company>
-    <title><![CDATA[Conferente de Mercadoria]]></title>
-    <posterEmail><![CDATA[beatriz.ribeiro@vstransportes.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Conferente de Mercadorias</strong> para integrar o time do Armazém AZ!<br /><br />
-Procuramos alguém atento(a), comprometido(a) e que goste de atuar em um ambiente dinâmico, com foco em qualidade e segurança nas operações logísticas.<br /><br />
-Se você é uma pessoa organizada, gosta de trabalhar em equipe e quer crescer em uma empresa sólida e em constante expansão, essa vaga é pra você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Realizar check list de entrada de mercadorias;<br />
-• Conferir peso, lote, quantidade e SKUs conforme documentação;<br />
-• Instruir a equipe de mão de obra na execução das atividades;<br />
-• Conduzir as mercadorias no endereçador (sistema interno) dentro do AZ;<br />
-• Receber ordens de coleta e realizar a separação das mercadorias;<br />
-• Acompanhar o carregamento dos veículos;<br />
-• Executar registros fotográficos;<br />
-• Apoiar inventários e demais rotinas operacionais do setor.<br /><br /><b>Requisitos e qualificações</b><br /><br />• Ensino médio completo;<br />
-• Boa atenção aos detalhes e senso de responsabilidade;<br />
-• Capacidade de trabalho em equipe e organização nas tarefas;<br />
-• Disponibilidade para atuar no horário indicado.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vsoperadorlogistico/4/conferente-de-mercadoria]]></applyUrl>
-    <companyId><![CDATA[14070563]]></companyId>
-    <city><![CDATA[Itajaí]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[e89575c2-81a3-46f6-88ba-e3c0df477e12]]></partnerJobId>
     <company><![CDATA[Colégio GGE]]></company>
     <title><![CDATA[CORRETOR (A) DE REDAÇÃO]]></title>
@@ -68207,6 +67922,28 @@ para o aprendizado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[1d48942f-1654-4adb-898b-bfac23b29f2f]]></partnerJobId>
+    <company><![CDATA[Colégio GGE]]></company>
+    <title><![CDATA[CUIDADOR (a) INFANTIL]]></title>
+    <posterEmail><![CDATA[selecaorh2@ggeweb.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar nos cuidados de higiene e bem-estar dos alunos, promovendo uma educação integrada onde o cuidar e o educar andam juntos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar a professora em todos os cuidados necessários em sala; Acompanhar as crianças nos parques e intervalos; Fazer a higiene oral da criança após as
+refeições; Acompanhar os lanches e almoço das crianças, auxiliando-as sempre que necessário; Fazer trocas de fraldas e limpeza após as necessidades; Dar
+banho em caso de necessidade; Fazer as trocas de roupa para o programa esportivo;  Receber os alunos na hora da chegada e entregar os alunos na hora da saída; Organizar as mochilas das crianças com atenção para as roupas sujas e limpas; Está atenta a limpeza da sala e sempre que necessário chamar o setor responsável
+para fazer manuntenção. Realiza a monitoria de corredores e banheiros da escola.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio . <br />Vivência com crianças ou vivência com sala de aula ou experiência como babá ou cuidadora de crianças.<br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgge/67/cuidador-a-infantil]]></applyUrl>
+    <companyId><![CDATA[84804947]]></companyId>
+    <city><![CDATA[Recife]]></city>
+    <state><![CDATA[PE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4b9d993d-886b-4632-b238-6f7cf4c040ec]]></partnerJobId>
     <company><![CDATA[Colégio GGE]]></company>
     <title><![CDATA[PROFESSOR (a) REDAÇÃO]]></title>
@@ -68562,6 +68299,25 @@ e cumprimento de sigilo profissional</li></ul>]]></description>
 </li><li>Escrever e manter testes automatizados (unitários e, quando possível, de integração).</li><li>Colaborar com o time de frontend e outras áreas para definição de requisitos e integração das soluções.
 </li><li>Participar de code reviews, propondo melhorias e aprendendo com feedbacks.</li><li>Ajudar na correção de bugs, melhorias de performance e refatoração de código.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimento prévio em backend Java Spring Boot. </li><li>Noções de bancos de dados relacionais e não relacionais.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/300franchising/11/desenvolvedor-backend]]></applyUrl>
+    <companyId><![CDATA[64698944]]></companyId>
+    <city><![CDATA[Joinville]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e594da11-ee0a-4b0e-8f05-f9e0c215ba7e]]></partnerJobId>
+    <company><![CDATA[300 Franchising]]></company>
+    <title><![CDATA[Analista de Tráfego e Performance]]></title>
+    <posterEmail><![CDATA[vitor.santos@300f.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O <strong>Analista de Tráfego e Performance</strong> necessita possuir conhecimento multidisciplinar em Marketing Digital, deve ser um profissional direcionado por dados (data driven) e capacidade analítica para compreender qual o melhor canal e todas as possibilidades de otimização e relação entre as métricas que cada canal apresenta.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Colaborar com nosso time de canais de mídia paga online (prioritariamente Instagram/Facebook Ads / LinkedIn Ads e Google Ads), desde apoiar o planejamento até a operação;</li><li>Gerar estudos de palavra-chave e de segmentação de públicos, tópicos, canais etc., para planejamento e implementação de campanhas;</li><li>Acompanhar métricas diárias propondo novas otimizações com base em metas, propor melhorias de otimização da conversão com base em dados;</li><li>Interagir muito com a equipe de criação, garantindo assets criativos que sejam performáticos e construam marca e resultados;</li><li>Gerenciar e controlar orçamentos e pagamentos garantindo que o previsto x realizado seja atendido em todas as campanhas;</li><li>Criar relatórios ou Dashboards para mensuração de resultados das contas, fornecer diagnóstico de performance das campanhas, e ações de melhoria para manutenção ou otimização da conta;</li><li>Gerir de múltiplas contas e orçamentos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em Marketing Digital;</li><li>Conhecimentos avançados de Google Ads, Facebook Ads, LinkedIn Ads, Google Tag Manager e Google Analytics;</li><li>Conhecimentos no uso de plataformas de gestão e CRM, (Hubspot) será um diferencial;</li><li>Experiência em ferramentas de data analytics (Power BI, Data Studio etc.) será um diferencial;</li><li>Capacidade de entender e colaborar nos fluxos de automação e inbound marketing;</li><li>Experiência em marketing de performance ou digital, growth B2C, testes A/B;</li><li>Boa capacidade analítica e facilidade de lidar com números e controle de saldos;</li><li>Ser organizado (a), orientado a resultados e atento a detalhes;</li><li>Ser extremamente comunicativo (a) e compartilhar reports e ações realizadas diariamente.</li><li>Certificação - Google Ads (Search, Display, Youtube e Analytics), caso não tenha precisa estar disposto a realizar.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/300franchising/4/analista-de-trafego-e-performance]]></applyUrl>
     <companyId><![CDATA[64698944]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[SC]]></state>
@@ -69001,6 +68757,25 @@ Responsabilidade, pontualidade e atenção.</li>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[63b4a498-d1f7-461e-99ae-30383b799cc4]]></partnerJobId>
+    <company><![CDATA[MACHETO]]></company>
+    <title><![CDATA[Head de Growth & Marketing]]></title>
+    <posterEmail><![CDATA[dho@macheto.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Head de Growth &amp; Marketing será responsável por desdobrar o planejamento de crescimento de receita da Macheto em projetos e iniciativas de marketing a serem aplicadas em cada canal de vendas implantado com acompanhamento sistêmico dos resultados e marcos de sucesso.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />● Desdobrar metas comerciais em estratégias e planos de marketing por canal.<br />● Definir e acompanhar campanhas, cronogramas e prioridades do time de marketing.<br />● Analisar performance dos canais e identificar oportunidades de otimização<br />● Garantir consistência de mensagem, posicionamento e branding da Macheto.<br />● Realizar análises do funil e resultados de vendas junto ao comercial e em casos de GAP, definir ações de<br />melhoria/recuperação.<br />● Coordenar demandas entre tráfego pago, CRM, conteúdo, design, vídeo e fornecedores.<br />● Apurar motivos de oportunidades perdidas nas fases iniciais da prospecção, dando sugestões de<br />melhorias ao processo de vendas e as atividades de marketing, a fim de facilitar a abordagem a novos<br />clientes.<br />● Criar e executar iniciativas para ativar, engajar e expandir clientes da base, promovendo ações de<br />reengajamento e venda de novos serviços/produtos de forma contínua.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />● Graduação completa em áreas como: Administração, Marketing, Engenharia de Produção, Gestão de<br />Negócios ou áreas correlatas.<br />● Experiência em processo de estruturação e formação de times de marketing, e pelo menos menos 2<br />anos de experiência em gestão de marketing.<br /><br /><br /><u>Desejável</u>:<br />● Pós-Graduação em Growth, Marketing,<br />branding ou áreas afins.<br />● Vivência com times enxutos e gestão de<br />fornecedores.<br />● Experiência com automações e<br />otimização de processos com uso de IA<br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/macheto/4/head-de-growth-marketing]]></applyUrl>
+    <companyId><![CDATA[98223252]]></companyId>
+    <city><![CDATA[Joinville]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[057180ee-2135-4c06-91dd-008d177e1e27]]></partnerJobId>
@@ -71719,6 +71494,25 @@ Elaborar relatórios técnicos de conformidade, indicando itens a serem substitu
     <companyId><![CDATA[9424481]]></companyId>
     <city><![CDATA[Ouro Branco]]></city>
     <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[67106837-40ff-4a4c-9b5d-7fe1927da0ce]]></partnerJobId>
+    <company><![CDATA[ISQ Brasil]]></company>
+    <title><![CDATA[Inspetor de Equipamentos]]></title>
+    <posterEmail><![CDATA[evsilva@isqbrasil.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está buscando uma oportunidade que permita crescer e se desenvolver em um ambiente dinâmico e colaborativo? Temos uma posição aberta, ideal para quem deseja fazer parte de uma equipe comprometida com a excelência. Aqui, você encontrará um espaço para aplicar suas habilidades, contribuir com soluções e participar ativamente de um processo que impacta diretamente na qualidade dos produtos e serviços oferecidos. Valorizamos o potencial de cada colaborador e incentivamos o aprendizado contínuo, proporcionando a chance de se destacar e conquistar novos desafios. Se você tem interesse em atuar em um time que preza pela qualidade e pela inovação, não deixe essa oportunidade passar. Venha fazer parte de um ambiente estimulante, onde suas contribuições serão reconhecidas e valorizadas. Junte-se a nós e inicie uma nova etapa na sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Inspeção de equipamentos e ENDs (LP, ME, PM).</li><li>Inspeção de integridade, NR13 em equipamentos, estruturas e tubulações.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino técnico completo;</li><li>Será um diferencial se possuir NR-13;</li><li>Disponibilidade de viajar;</li><li>CNH B.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/isqbrasilcarreiras/25/inspetor-de-equipamentos]]></applyUrl>
+    <companyId><![CDATA[9424481]]></companyId>
+    <city><![CDATA[Barcarena]]></city>
+    <state><![CDATA[PA]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
