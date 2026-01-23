@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 23 Jan 2026 18:18:15 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Jan 2026 19:13:53 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[2760]]></expectedJobCount>
+  <expectedJobCount><![CDATA[2761]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -174,33 +174,6 @@
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[305c7271-9b72-48df-8905-be62f729c1ad]]></partnerJobId>
-    <company><![CDATA[Credi Shop]]></company>
-    <title><![CDATA[ATENDENTE - CODÓ]]></title>
-    <posterEmail><![CDATA[iriane@credishop.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade que valorize suas habilidades de comunicação e atendimento ao público? Temos uma vaga empolgante que pode ser perfeita para você! Aqui, buscamos pessoas dinâmicas e proativas, prontas para trabalhar em um ambiente colaborativo e estimulante. Oferecemos a chance de fazer parte de uma equipe que valoriza o comprometimento e a excelência no atendimento, proporcionando um suporte fundamental para nossos clientes. Além de um ambiente de trabalho amigável, oferecemos oportunidades de crescimento e desenvolvimento profissional. Se você deseja contribuir para a satisfação dos clientes e crescer em sua carreira, não perca essa chance. Venha fazer a diferença conosco e seja parte de uma equipe que valoriza cada indivíduo. Estamos ansiosos para conhecer você e explorar o que podemos construir juntos!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atender e orientar clientes, oferecendo informações sobre produtos e serviços.</li><li>Realizar o registro de vendas.</li><li>Auxiliar na organização e manutenção da área de atendimento e vendas.</li><li>Resolver reclamações e dúvidas, buscando a satisfação do cliente.</li><li>Contribuir para a execução de ações promocionais e de merchandising.</li><li>Trabalhar em equipe, colaborando com outras áreas para um bom fluxo de atendimento.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><br /><br /> <ul><li> Habilidade de comunicação verbal e escrita.</li><li> Experiência prévia em atendimento ao público.</li><li> Capacidade de trabalhar em equipe.</li><li> Habilidade em resolver problemas e lidar com situações difíceis.</li><li> Conhecimento em informática básica.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/credishop/120/atendente-codo]]></applyUrl>
-    <companyId><![CDATA[1089858]]></companyId>
-    <city><![CDATA[Codó]]></city>
-    <state><![CDATA[MA]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1708.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1708.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -1299,25 +1272,6 @@ ou MBA completos.</li><li>Vivência com vendas complexas e consultivas B2B de so
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[e622970e-1180-4bbe-a174-0f610c852434]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[Analista de Qualidade Pleno (QA)]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Venha fazer parte do time TOTVS!<br />Nessa vaga, você irá contribuir diretamente para a qualidade das entregas do time a fim de que os requisitos de software solicitados sejam atendidos.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar garantindo a qualidade do processo de desenvolvimento utilizado na construção do nosso produto.</li><li>Mapear a necessidade de negócios do cliente, por meio da análise do sistema ou atendendo às solicitações feitas diretamente pelo cliente ao PO, sugerindo a implementação no produto padrão.</li><li>Realizar os testes integrados das manutenções/inovações/legislações do produto de software garantindo que a implementação foi eficaz e não afetou outras funcionalidades do produto.</li><li>Apoiar ou realizar os testes sistêmicos da liberação da release do produto de software (produto final), a fim de garantir que as rotinas/operações do sistema estejam funcionais.</li><li>Elaborar os casos de testes para as novas funcionalidades ou para funcionalidades já existentes que não possuem casos de testes descritos.</li><li>Cadastrar os cenários de testes na ferramenta de Casos de Testes.</li><li>Elaborar o documento técnico ou revisar o que foi escrito pelos desenvolvedores,  assegurando que o cliente compreenda o que foi implementado no produto de software.</li><li>Publicar o documento técnico na plataforma de documentação disponível aos clientes.</li><li>Automatizar os casos de testes criando scripts de testes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Automação de testes: Backend com C#/.NET 6.0 (XUnit), Testes de API (Postman/Swagger/Gatling/K6) e automações Web com Cypress;</li><li>DevOps  CI/CD: Azure DevOps Pipelines, Git e Gitflow, SonarQube / SonarCloud;</li><li>Frontend (Angular): Testes unitários com Jasmine ou Jest;</li><li>Conhecimentos gerais: Métricas de qualidade (coverage, tempo de build, defeitos), testes em produção (Canary releases/Feature flags) e processos Ágeis (Kanbam);</li><li>Superior completo em tecnologia e afins;</li><li>Residir em Belo Horizonte (Vaga 2x na semana presencial).<br /></li><li>Perfil detalhista; Curiosidade; Coragem; Inovação; Trabalho em equipe; Transparência; Comprometimento; Foco; Proatividade.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/7886/analista-de-qualidade-pleno-qa]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[Belo Horizonte]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[54b09655-96c4-4a7e-9cbb-e73d1769c296]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[Full Stack Pleno]]></title>
@@ -1696,6 +1650,25 @@ Especialização ou MBA completos. <br />Perfil Hunter, Ativo na prospecção d
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/6174/lead-development-representative-junior-pessoa-com-deficiencia]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1a56b395-d0a9-4782-b970-f5784aab336d]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[Pessoa Especialista de Serviços]]></title>
+    <posterEmail><![CDATA[carla.janaina@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais apaixonados por proporcionar experiências excepcionais e que desejam fazer a diferença em um ambiente dinâmico e colaborativo. Se você se identifica com a ideia de transformar desafios em oportunidades, esta é a oportunidade ideal para dar um novo passo na sua carreira.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<ul><li>Atuação em conjunto com os especialistas das células do PMI – Programa de Manufatura Inteligente;</li><li>Agendas recorrentes com os clientes;</li><li>Condução em conjunto com a coordenação de projetos para a evolução da maturidade industrial do cliente, dando visibilidade ao cliente sobre essas evoluções;</li><li>Profissional com flexibilidade para aprender novas soluções de softwares;</li><li>Habilidade para ministrar treinamentos de conceitos e de software;</li><li>Bom relacionamento com todos os níveis de uma organização; </li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><ul><li>Buscamos alguém proativo, que goste da dinâmica de trabalho em pares e em grupos (célula de trabalho), perfil ágil e colaborativo, que tenha empatia com os nossos clientes e que esteja disposto a aprender;</li><li>Conhecimento em Gestão da Produção e conceitos de Manufatura;</li><li>Conhecimento em Análise de Negócios e Mapeamento de Processos;</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8405/pessoa-especialista-de-servicos]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Joinville]]></city>
     <state><![CDATA[SC]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -9152,25 +9125,6 @@ Conocimientos avanzados de <strong>SQL</strong> y <strong>Excel</strong>.</li><l
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[da532f57-9d25-41a1-b1ad-8574ac454907]]></partnerJobId>
-    <company><![CDATA[Implanta It Solutions]]></company>
-    <title><![CDATA[Desenvolvedor Front End]]></title>
-    <posterEmail><![CDATA[caroliny.guimaraes@implantait.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa Analista de Desenvolvimento para atuar como Implanter e se juntar à nossa equipe incrível! Se você tem experiência com Next.js, Vue.js e Tailwind CSS, essa vaga é para você! Venha fazer parte de uma startup inovadora que atende empresas globais no Brasil e na América Latina. Ah, e o melhor de tudo: a posição é 100% remota, permitindo que você trabalhe de qualquer lugar do Brasil!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Como Pessoa Desenvolvedora Front-End, você terá um papel fundamental no desenvolvimento de interfaces de usuário com foco em Next.js e Vue.js, colaborando com equipes multidisciplinares para entregar soluções de alta qualidade, garantindo a performance, escalabilidade e manutenibilidade das aplicações. Junte-se a nós nessa jornada!<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Ciência da Computação, Sistemas de Informação, Engenharia de Software ou áreas correlatas.</li><li>Experiência sólida com Next.js, Vue.js e Tailwind CSS;</li><li>Domínio em HTML5 e CSS3.</li><li>Vivência com backend</li><li>Experiência com controle de versão Git.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/implantait/37/desenvolvedor-front-end]]></applyUrl>
-    <companyId><![CDATA[2667486]]></companyId>
-    <city><![CDATA[Goiânia]]></city>
-    <state><![CDATA[GO]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[c3012d83-5da8-4a4e-b506-6cb6d7465799]]></partnerJobId>
     <company><![CDATA[Cibus]]></company>
     <title><![CDATA[Cibus - Executivo(a) Comercial Pleno]]></title>
@@ -9285,25 +9239,6 @@ Conocimientos avanzados de <strong>SQL</strong> y <strong>Excel</strong>.</li><l
     <posterEmail><![CDATA[beatriz.santos@strati.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Fazer acontecer dentro de um time altamente engajado e que busca aprender todos os dias, promovendo aos nossos clientes infraestrutura, segurança e monitoramento de TI de qualidade e excelência. Assim, esperamos que se engaje com a gente, seja uma pessoa que busca entregar o melhor para si mesmo, para os nossos clientes e para nosso time Strati. Buscando sempre, em suas diversas formas, ser especialista no que faz.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Manter as integrações e ferramentas utilizadas nas esteiras DevSecOps e SRE, assegurando seu funcionamento contínuo e atualizado; • Contribuir para o fortalecimento da cultura DevSecOps e SRE, promovendo comunicação clara e colaboração efetiva entre as áreas de Segurança da Informação, Infraestrutura, NOC e Plataformas; <br />• Atuar de forma analítica e organizada, com senso de urgência, priorização adequada das demandas e postura de responsabilidade e protagonismo (accountability); <br />• Apoiar a interface entre Desenvolvimento (evolução da plataforma interna) e Operações (tratamento de incidentes e problemas), garantindo alinhamento entre ambos os domínios; <br />• Sustentar os processos de monitoramento e automação, garantindo que as iniciativas estejam alinhadas às necessidades e expectativas dos clientes internos e externos; <br />• Gerenciar o código-fonte e as ferramentas de compilação automatizadas, assegurando a integridade, rastreabilidade e eficiência dos sistemas; <br />• Contribuir para o desenvolvimento e aplicação de programas de capacitação em SRE e DevOps, estimulando o aprendizado contínuo e o aprimoramento técnico da equipe; <br />• Desenvolver soluções de software e arquitetura voltadas à otimização da disponibilidade dos serviços e à melhoria contínua da experiência do cliente; <br />• Disseminar diretrizes, processos e boas práticas de SRE, DevOps e prontidão operacional, assegurando consistência e eficácia nas operações da empresa; <br />• Diagnosticar e resolver problemas relacionados a middleware, realizando análise detalhada de causa raiz quando necessário; <br />• Participar ativamente de processos de troubleshooting em servidores de aplicação; <br />• Apoiar iniciativas de redução de falhas e aumento da resiliência das plataformas; <br />• Elaborar relatórios técnicos e executivos, utilizando ferramentas do pacote Office, com clareza e objetividade.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Tecnologia da Informação, Ciências da Computação, Engenharia de Software, Redes ou áreas correlatas;</li><li>Inglês intermediário;</li></ul><ul><li>Atuação em desenvolvimento, infraestrutura, operações ou segurança, preferencialmente em equipes SRE;</li><li>Gerenciamento de código-fonte e ferramentas de compilação automatizada;</li><li>Administração de bancos de dados (MongoDB, RDS na AWS);</li><li>Experiência com sistemas operacionais Linux e Windows;</li><li>Experiência em cloud computing (Azure, AWS ou Google Cloud);</li><li>Tecnologias de conteinerização e orquestração (Docker, Kubernetes, OpenShift);</li><li>Experiência com serviços de missão crítica e alta disponibilidade;</li><li>Uso de templates, processos e políticas de engenharia de software, incluindo desenvolvimento, deploy, testes e rollout.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/strati/62/sre-pleno]]></applyUrl>
-    <companyId><![CDATA[11547423]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6e1a9fe4-57ab-437b-bc0f-2af065985be2]]></partnerJobId>
-    <company><![CDATA[Strati - Full Service Provider]]></company>
-    <title><![CDATA[BDR (Business Development Representative) SR]]></title>
-    <posterEmail><![CDATA[fernanda.tobio@adn.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>Sobre a vaga</b><br />Procuramos pessoas que gostam de trabalhar com autonomia e agilidade. Temos o propósito de ajudar nossos clientes a reduzir o risco para o negócio e aumentar a produtividade usando a tecnologia.<br /><br /><br /><b>Sua Missão</b><br />Fazer acontecer dentro de um time altamente engajado e que busca aprender todos os dias, promovendo aos nossos clientes infraestrutura, segurança e monitoramento de TI de qualidade e excelência (que nunca pare), e, caso pare, com alta taxa de resolução e resposta (sabe como é TI, né?). Assim, esperamos que se engaje com a gente, seja uma pessoa que busca entregar o melhor para si mesmo, para os nossos clientes e para nosso time Strati. Que busque sempre, em suas diversas formas, ser especialistas no que faz.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prospectar novos clientes através de diferentes canais (telefone, e-mail, whatsapp, LinkedIn, eventos, etc.);</li><li>Qualificar leads (inbound e outbound) de acordo com o perfil de cliente ideal (ICP) da Strati, utilizando critérios como porte, faturamento, nicho de atuação, adoção tecnológica, budget, necessidade, autoridade para decisão, timeline;</li><li>Coletar informações relevantes sobre os leads e suas necessidades em relação aos serviços da Strati;</li><li>Gerenciar o pipeline de leads, garantindo que sejam nutridos com informações relevantes e encaminhados para a equipe de vendas;</li><li>Registrar as interações com os leads no sistema de CRM da empresa;</li><li>Acompanhar as principais métricas de desempenho (KPIs) da área, como número de leads gerados, taxa de conversão de leads em oportunidades, motivos de perda, conversão entre etapas, conversão por cluster/segmento;</li><li>Colaborar com as equipes de Marketing e Vendas para garantir o alinhamento das estratégias e o atingimento das metas;</li><li>Participar de eventos e treinamentos para aprimorar suas habilidades e conhecimentos sobre os serviços da Strati e o mercado de TI.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo;</li><li>Experiência mínima de 5 anos em prospecção de clientes e qualificação de leads, preferencialmente no mercado de TI;</li><li>Conhecimento do mercado de serviços gerenciados e soluções de segurança cibernética;</li><li>Familiaridade com o modelo de MSP - Managed Service Provider e MSSP - Managed Security Service Provider  e as vantagens que ele oferece aos clientes;</li><li>Habilidade em comunicação verbal e escrita, com capacidade de se comunicar de forma clara e objetiva;</li><li>Perfil proativo, organizado e com foco em resultados;</li><li>Capacidade de trabalhar em equipe e colaborar com diferentes áreas da empresa;</li><li>Conhecimento de ferramentas de CRM e automação de marketing;</li><li>Conhecimento em copy de e-mails, whatsapp e social selling;</li><li>Domínio de plataformas de prospecção.</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/strati/35/bdr-business-development-representative-sr]]></applyUrl>
     <companyId><![CDATA[11547423]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -12343,6 +12278,25 @@ Vivência com <strong>serviços profissionais</strong>: Consultoria, Outsourcing
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[4dc8211a-b143-4742-8b07-1bf242332f54]]></partnerJobId>
+    <company><![CDATA[Opy Health]]></company>
+    <title><![CDATA[Auxiliar de Almoxarifado]]></title>
+    <posterEmail><![CDATA[dayana.guimaraes@opyhealth.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma oportunidade de ingressar em um ambiente dinâmico e colaborativo, temos uma excelente proposta para você! Estamos em busca de pessoas motivadas e que desejam fazer parte de uma equipe comprometida com a excelência. Aqui, valorizamos a dedicação e o trabalho em equipe, proporcionando um espaço onde você poderá desenvolver suas habilidades e crescer profissionalmente. Oferecemos um ambiente de trabalho que preza pelo respeito, aprendizado contínuo e oportunidades de evolução na carreira. Se você se identifica com essa cultura e deseja contribuir para o nosso sucesso, não perca essa chance! Venha conhecer mais sobre o nosso time e como você pode fazer a diferença em nossa organização. Estamos ansiosos para receber sua candidatura e explorar juntos as possibilidades que esta jornada pode oferecer!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar o recebimento, conferência e armazenamento de produtos.<br /> - Organizar e manter o estoque limpo e atualizado.<br /> - Controlar a saída de materiais e produtos, registrando as movimentações no sistema.<br /> - Auxiliar na separação e entrega de materiais solicitados pelos setores.<br /> - Colaborar no inventário e na contagem de produtos em estoque.<br /> - Manter a organização e a segurança do local de trabalho.<br /> - Atender demandas de pedidos de forma ágil e eficiente.<br /> - Auxiliar na manutenção do controle de validade dos produtos armazenados.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo<br /> - Experiência anterior em almoxarifado ou áreas relacionadas<br /> - Conhecimentos em controle de estoque<br /> - Noções básicas de informática<br /> - Habilidade para trabalhar em equipe<br /> - Boa comunicação<br /> - Organização e atenção aos detalhes<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaopyhealth/84/auxiliar-de-almoxarifado]]></applyUrl>
+    <companyId><![CDATA[64770780]]></companyId>
+    <city><![CDATA[Manaus]]></city>
+    <state><![CDATA[AM]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[d0fa8270-5cb4-4ca0-b974-1bebc2f800e1]]></partnerJobId>
     <company><![CDATA[Opy Health]]></company>
     <title><![CDATA[AUXILIAR DE LAVANDERIA]]></title>
@@ -13738,6 +13692,33 @@ Atenção aos detalhes, organização e interesse em aprender sobre rotinas de s
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[e0765e69-1c2a-4e8b-807a-b459d227c955]]></partnerJobId>
+    <company><![CDATA[Universidade Tiradentes]]></company>
+    <title><![CDATA[ASSISTENTE ADMINISTRATIVO APRENDIZ]]></title>
+    <posterEmail><![CDATA[tania_cristina@unit.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Assistente Administrativo Aprendiz para atuar na Universidade Tiradentes em Estância/SE. A oportunidade é voltada para jovens que desejam adquirir experiência profissional e desenvolver habilidades administrativas em um ambiente educacional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar nas rotinas administrativas do polo;</li><li>Atendimento ao público (alunos e visitantes), presencial e telefônico;</li><li>Organização e arquivamento de documentos;</li><li>Apoio no controle de planilhas e sistemas internos;</li><li>Auxílio em processos acadêmicos e administrativos;</li><li>Suporte às demandas dos setores internos do polo.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ter idade de 17 a 19 anos;</li><li>Estar cursando ou já ter concluído o Ensino Médio;</li><li>Conhecimentos básicos em informática (Word, Excel e e-mail);</li><li>Boa comunicação, organização e responsabilidade;</li><li>Vontade de aprender e se desenvolver profissionalmente.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasunit/75/assistente-administrativo-aprendiz]]></applyUrl>
+    <companyId><![CDATA[963717]]></companyId>
+    <city><![CDATA[Estância]]></city>
+    <state><![CDATA[SE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[737.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[737.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[10b1f3b9-b92a-4e55-bf3b-56cd57504022]]></partnerJobId>
     <company><![CDATA[Universidade Tiradentes]]></company>
     <title><![CDATA[ASSISTENTE ADMINISTRATIVO JR]]></title>
@@ -13822,25 +13803,6 @@ Atenção aos detalhes, organização e interesse em aprender sobre rotinas de s
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cordierinvestimentos/58/assessor-de-investimentos-guarulhos]]></applyUrl>
     <companyId><![CDATA[3784752]]></companyId>
     <city><![CDATA[Guarulhos]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[965e9abb-09ea-48ba-a13e-1e92378d06c1]]></partnerJobId>
-    <company><![CDATA[Cordier Investimentos]]></company>
-    <title><![CDATA[Assessor de investimentos - Sorocaba]]></title>
-    <posterEmail><![CDATA[anacarolina.maranzano@cordierinvestimentos.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>Faça parte da Cordier Investimentos – uma das assessorias mais premiadas do BTG Pactual! </b><br /><br /><br />Se você tem experiência no mercado financeiro ou um perfil comercial forte e quer dar o próximo passo rumo ao protagonismo da sua carreira, essa é a sua oportunidade de atuar em uma das assessorias mais reconhecidas da América Latina.<br /><br /><br />Com R$ 6 bilhões sob assessoria e mais de 13 mil clientes atendidos, oferecemos um portfólio completo de soluções — de Investimentos e Banking a Planejamento Patrimonial e Sucessório — sempre com foco na assessoria ativa e no atendimento de excelência.<br /><br /><br /><b>O que você vai encontrar por aqui:</b><br /><ul><li>Cultura voltada para capacitação e desenvolvimento contínuo</li><li>Plano de carreira estruturado, com trilhas claras e meritocracia</li><li>Estrutura robusta de apoio: analistas, especialistas de produtos, marketing, backoffice e lideranças regionais</li><li>Ambiente colaborativo, desafiador e com visão de longo prazo</li><li>WellHub (saúde e bem-estar)</li><li>Cultura de alto desempenho e reconhecimento</li></ul><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prospectar e desenvolver relacionamento com investidores;</li><li>Agendar e conduzir reuniões de assessoria consultiva;</li><li>Construir carteiras alinhadas ao perfil e objetivos dos clientes;</li><li>Manter o funil de vendas ativo e organizado (CRM);</li><li>Trabalhar em parceria com analistas e especialistas para definir estratégias personalizadas.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prévia no mercado financeiro e/ou perfil comercial forte</li><li>Excelente comunicação e habilidade para criar relações de confiança</li><li><b>Certificação ANCORD ativa (ou disposição para obter)</b></li><li>Proatividade, visão empreendedora e motivação por crescimento</li><li>Perfil orientado a resultados e alta capacidade de aprendizado</li><li>Disponibilidade para atuação presencial em Sorocaba</li></ul><br /><br /><br />Se você ainda não atuou como assessor(a), mas tem fit com o modelo de negócio, estudou sobre a área e quer construir carreira no mercado financeiro, também queremos te ouvir.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cordierinvestimentos/60/assessor-de-investimentos-sorocaba]]></applyUrl>
-    <companyId><![CDATA[3784752]]></companyId>
-    <city><![CDATA[Sorocaba]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -20734,7 +20696,7 @@ então que formalizou, mas que não saiu todas as parcelas no dia de fechamento 
   <job>
     <partnerJobId><![CDATA[3c9a72b5-775d-4907-b17b-7cadc048bd38]]></partnerJobId>
     <company><![CDATA[CHINA GATE]]></company>
-    <title><![CDATA[ASSISSTENTE DE  GENTE & GESTÃO]]></title>
+    <title><![CDATA[ASSISTENTE DE GENTE & GESTÃO]]></title>
     <posterEmail><![CDATA[rh1@chinagate.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Buscamos uma pessoa que goste de trabalhar com pessoas, tenha organização e interesse em atuar nas rotinas de RH de forma generalista.<br />
 A posição envolve atividades em Recrutamento &amp; Seleção, Departamento Pessoal, cultura e apoio ao clima organizacional.<br />
@@ -20766,7 +20728,7 @@ Facilidade com planilhas e sistemas (Excel é amigo, não inimigo).
 </li>
 </ul>
 <br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/chinagate/66/assisstente-de-gente-gestao]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/chinagate/66/assistente-de-gente-gestao]]></applyUrl>
     <companyId><![CDATA[3624146]]></companyId>
     <city><![CDATA[Maringá]]></city>
     <state><![CDATA[PR]]></state>
@@ -30465,6 +30427,25 @@ Monitorar o estoque, realizando inventários e controle de movimentação de pe�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[8b3fd7b6-8cf6-4c70-9e9e-7fb062c8a701]]></partnerJobId>
+    <company><![CDATA[Grupo Canopus]]></company>
+    <title><![CDATA[AUXILIAR ADMINISTRATIVO]]></title>
+    <posterEmail><![CDATA[yohana.jesus@grupocanopus.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma nova oportunidade em um ambiente dinâmico e colaborativo, temos o espaço ideal para você! Estamos em busca de profissionais que desejam desenvolver suas habilidades e crescer em uma equipe empenhada em alcançar resultados extraordinários. Ao fazer parte desse time, você terá a chance de aprender com especialistas do setor, contribuir com ideias inovadoras e fazer a diferença em nossas operações diárias. Nossas iniciativas valorizam a diversidade e promovem um ambiente onde cada ideia é ouvida. Se você está pronto(a) para um desafio enriquecedor e deseja construir uma carreira sólida, convidamos a conhecer mais sobre essa oportunidade. Junte-se a nós e venha fazer parte de uma história de sucesso!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao público, tanto presencial quanto telefônico, tirando dúvidas e fornecendo informações sobre os serviços oferecidos.<br /> - Organizar e manter a documentação e os arquivos físicos e digitais em ordem.<br /> - Auxiliar na elaboração de relatórios, planilhas e apresentações.<br /> - Realizar controle de agenda e marcar reuniões, quando necessário.<br /> - Efetuar a gestão de correspondências, incluindo recebimento, envio e distribuição.<br /> - Auxiliar no processo de compras, cotação e controle de estoque de materiais.<br /> - Apoiar a equipe em atividades administrativas diversas, conforme demanda.<br /> - Garantir a organização e manutenção da área de trabalho.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação mínima em nível médio completo<br /> - Conhecimentos em informática, especialmente em Pacote Office<br /> - Habilidade em organização de documentos e controle de arquivos<br /> - Boa comunicação verbal e escrita<br /> - Capacidade de trabalho em equipe<br /> - Proatividade e organização<br /> - Atenção aos detalhes e precisão<br /> - Experiência anterior na área administrativa será considerada um diferencial<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/526/auxiliar-administrativo]]></applyUrl>
+    <companyId><![CDATA[2073549]]></companyId>
+    <city><![CDATA[Cuiabá]]></city>
+    <state><![CDATA[MT]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[f6b8599c-0f0f-45da-8467-a17e3c437fe7]]></partnerJobId>
     <company><![CDATA[Grupo Canopus]]></company>
     <title><![CDATA[OPERADOR DE TELEATENDIMENTO]]></title>
@@ -35772,7 +35753,7 @@ Disponibilidade para realizar estágio no período da manhã em Camanducaia MG.<
     <company><![CDATA[Melhoramentos]]></company>
     <title><![CDATA[Eletricista de Manutenção Jr.]]></title>
     <posterEmail><![CDATA[fmramos@melhoramentos.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Venha fazer parte de uma equipe comprometida com a excelência e a inovação. Aqui, valorizamos o talento e a dedicação, oferecendo um espaço onde você poderá desenvolver suas habilidades e contribuir efetivamente para projetos impactantes. Sua trajetória profissional pode ganhar um novo rumo e juntos construiremos soluções que fazem a diferença. <strong>Valorizamos a diversidade e incentivamos a candidatura de Pessoas com Deficiência (PCD).</strong> Se você está pronto(a) para abraçar novos desafios e crescer profissionalmente em um ambiente colaborativo, não perca a chance de se juntar a nós. <br />Venha construir um futuro promissor ao nosso lado!<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver, alterar e criar lógicas em <strong>Ladder</strong> para PLCs (Siemens, Rockwell e outras marcas);
+    <description><![CDATA[<b>Descrição</b><br /><br />Venha fazer parte de uma equipe comprometida com a excelência e a inovação. Aqui, valorizamos o talento e a dedicação, oferecendo um espaço onde você poderá desenvolver suas habilidades e contribuir efetivamente para projetos impactantes. Sua trajetória profissional pode ganhar um novo rumo e juntos construiremos soluções que fazem a diferença.<strong>Valorizamos a diversidade e incentivamos a candidatura de Pessoas com Deficiência (PCD).</strong> Se você está pronto(a) para abraçar novos desafios e crescer profissionalmente em um ambiente colaborativo, não perca a chance de se juntar a nós. <br />Venha construir um futuro promissor ao nosso lado!<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver, alterar e criar lógicas em <strong>Ladder</strong> para PLCs (Siemens, Rockwell e outras marcas);
 </li>
 <li>
 Realizar troca e parametrização de <strong>instrumentos de medição</strong>;
@@ -37679,6 +37660,25 @@ Desejável: experiência com relatórios de métricas e indicadores de marketing
     <companyId><![CDATA[22297290]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[5d61a495-ca7f-432f-a3c5-9b3fdcb442b9]]></partnerJobId>
+    <company><![CDATA[Emefarma]]></company>
+    <title><![CDATA[Assistente Financeiro]]></title>
+    <posterEmail><![CDATA[analicia.santos@emefarmario.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Tem vaga rolando no time de <b>Precificação e Acordos</b>.<br /><br /><br />Esse desafio é para quem está Cursando Ensino Superior, possui perfil analítico e proativo e focado.<br /><br /><br />Vem conosco!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Acordos</b><br /><ul><li>Receber via e-mail e documentar os acordos entre a equipe comercial e clientes, elaborando contratos para garantir o cumprimento das negociações e aumento das vendas.</li><li>Apurar os valores efetivos e orçados nos relatórios consolidados, garantindo a conformidade com as métricas contratuais para uma gestão financeira precisa dos acordos com clientes.</li><li>Utilizar sistema informatizado para auditar relatórios comerciais, verificando a conformidade com os resultados esperados e garantindo pagamentos adequados aos clientes.</li></ul><br /><br /><br /><b>Conta Corrente Indústria</b><br /><ul><li>Atualizar e controlar planilhas com informações sobre operações logísticas, pagamentos e outras atividades relacionadas, além de enviar relatórios periódicos aos fornecedores com atualizações sobre o status das negociações e dados financeiros;</li><li>Monitorar movimentações financeiras nas contas correntes das indústrias, apurando saldos e mantendo registros precisos, além de comunicar aos fornecedores os saldos e movimentações financeiras para promover uma relação transparente.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Administração, Ciências Contábeis ou áreas relacionadas;</li><li>Necessário vivência com Matemática financeira básica;</li><li>Necessário MS Excel Intermediário;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/emefarma/52/assistente-financeiro]]></applyUrl>
+    <companyId><![CDATA[10852162]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[RJ]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -46794,25 +46794,6 @@ Organização e autonomia para gerir sua rotina de visitas e resultados.<br /></
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[451bed37-179e-4e50-96ab-d5e244d2d59c]]></partnerJobId>
-    <company><![CDATA[GS Inima Brasil]]></company>
-    <title><![CDATA[Mecânico de Manutenção]]></title>
-    <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por analisar ordens de serviço (OS) e definir prioridades de execução na manutenção mecânica. Auxilia na solicitação de suprimentos, participa da avaliação de melhorias operacionais e atua na montagem, lubrificação e alinhamento de equipamentos. Realiza testes, coleta dados de funcionamento, conserva estruturas e registra informações técnicas nas OS. Cumpre rigorosamente os procedimentos de segurança e qualidade, utilizando EPIs e participando de treinamentos. Executa atividades correlatas conforme demanda da liderança.<br /><br /><br /><b>Horário:</b> 07:30 às 17:00 com 1:30 refeição / Sáb. 07:30 às 11:30<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Analisar as ocorrências das OS (Ordens de Serviços) referentes à necessidade de execução de serviços em manutenção mecânica, estabelecendo prioridades.<br />• Auxiliar na elaboração do pedido de suprimentos para a área de manutenção mecânica.<br />• Auxiliar na identificação de defeitos e/ou anormalidades mecânicas, por meio do registro dos resultados de inspeções e testes.<br />• Avaliar junto à coordenação melhorias de funcionamento, manutenção e instalação dos equipamentos, visando reduzir o custo de manutenção e aumentar a produtividade operacional.<br />• Executar atividades relativas à área de manutenção mecânica, realizando serviços em motores, bombas, redutores, válvulas e equipamentos em geral da estação.<br />• Executar montagens e regulagens mecânicas em máquinas, equipamentos e estruturas de baixa complexidade, de acordo com o planejamento prévio e supervisão direta.<br />• Identificar os materiais necessários para a execução dos serviços e solicitar ao Coordenador/Encarregado da área.<br />• Realizar a correta montagem de bombas, verificando se a vazao nao foi alterada, possiveis anormalidades nos componentes das bombas (rotor, eixo, estator), verificar possiveis vibracoes anormais e ruidos;<br />• Realizar lubrificação em equipamentos, conforme plano de manutenção.<br />• Realizar o alinhamento de motores e a verificação preventiva dos mesmos, observando se apresentam anormalidades, como vibrações ou ruídos estranhos ao funcionamento, além de verificar a lubrificação.<br />• Realizar serviços de conservação de estruturas, considerando pinturas em estruturas metálicas e civis, limpeza de equipamentos, desobstruções e organização de áreas.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação Obrigatória:</b> Ensino Técnico Completo<br /><br /><br /><b>Áreas de formação:</b> Técnico em Mecânica, Eletromecânica, Manutenção Industrial, Automação Industrial, Eletrotécnica.<br /><br /><br /><b>Outros requisitos:</b> Carteira de Habilitação, categoria "B", vigente.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/213/mecanico-de-manutencao]]></applyUrl>
-    <companyId><![CDATA[36870042]]></companyId>
-    <city><![CDATA[Mogi Mirim]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[9b4da93a-b532-4b7c-8a6e-829c98bb9872]]></partnerJobId>
     <company><![CDATA[GS Inima Brasil]]></company>
     <title><![CDATA[Analista de Planejamento e Controle]]></title>
@@ -46935,6 +46916,25 @@ Organização e autonomia para gerir sua rotina de visitas e resultados.<br /></
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/239/auxiliar-de-mecanico]]></applyUrl>
     <companyId><![CDATA[36870042]]></companyId>
     <city><![CDATA[Ourinhos]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[2d2aa275-d76f-4d1a-93d5-414478bc68e9]]></partnerJobId>
+    <company><![CDATA[GS Inima Brasil]]></company>
+    <title><![CDATA[Analista de Consolidação e Reporting]]></title>
+    <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por garantir a integridade das informações contábeis do grupo, centraliza e harmoniza os dados financeiros de múltiplas empresas de um grupo, preparando as Demonstrações Financeiras (DFs) individuais consolidadas e Notas Explicativas, garantindo conformidade com IFRS/CPC, realizando conciliações e apoiando a gestão com relatórios estratégicos para tomada de decisão e auditorias.<br /><br /><br /><b>Horário de Trabalho:</b> Segunda a sexta-feira, das 08:00 às 18:00 com 1:30 de intervalo para refeição;<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atender auditorias internas e externas, fornecendo justificativas técnicas e documentos de suporte.</li><li>Apoiar na elaboração das demonstrações financeiras individuais e consolidadas, notas explicativas e relatórios de acompanhamento de resultados para a alta gestão, acionistas e investidores</li><li>Analisar variações mensais nas demonstrações financeiras (Balanço e DRE), explicando oscilações</li><li>Consolidar dados e gerar relatórios de desempenho, utilizando ferramentas como Excel e Power BI.</li><li>Identificar oportunidades para aprimorar processos, controles internos e a qualidade das informações contábeis e financeiras.</li><li>Garantir a conformidade com normas contábeis internacionais (IFRS) e brasileiras (CPCs).</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação:</b> Ensino Superior.<b>Áreas:</b> Ciências contábeis, Administração de empresas, economia, direito ou áreas correlatas;<br /><br /><b>Conhecimentos específicos em:</b><br />• Pacote Office Intermediário (Ênfase em ferramentas de análise de dados);<br />• Conhecimentos / vivência com sistema SAP.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/296/analista-de-consolidacao-e-reporting]]></applyUrl>
+    <companyId><![CDATA[36870042]]></companyId>
+    <city><![CDATA[Ribeirão Preto]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -51051,6 +51051,29 @@ Elétrica ou Automação ou áreas correlatas;</li><li>Inglês intermediário;</
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/196/oficial-de-quarto-de-nautica]]></applyUrl>
     <companyId><![CDATA[5672510]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[99887203-a5d9-40f6-adc4-5f1ccb0ce9f8]]></partnerJobId>
+    <company><![CDATA[BRAM OFFSHORE]]></company>
+    <title><![CDATA[Assistente Administrativo]]></title>
+    <posterEmail><![CDATA[beatriz.santana@chouest.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Assistente Administrativo (a) para integrar nosso time de Supply Chain. Procuramos profissional organizado(a), comunicativo(a), com perfil colaborativo, que possua conhecimento em rotinas administrativas, com interface em processos de notas fiscais e apoio às demandas do setor. Se você busca oportunidade de crescimento em um ambiente dinâmico e desafiador, essa oportunidade pode ser ideal para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar, organizar, dirigir e controlar as atividades rotineiras do setor, realizando serviços de apoio as áreas;
+</li><li>Registrar a entrada e saída de documentos da área, identificando possíveis irregularidades;
+</li><li>Atender fornecedores e clientes, fornecendo e recebendo informações sobre produtos e serviços;
+</li><li>Preparar relatórios, formulários e planilhas, para acompanhar o andamento das atividades administrativas do setor;
+</li><li>Receber, organizar e arquivar os documentos da área.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Imprescindível Ensino Superior cursando em Administração ou áreas correlatas;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/191/assistente-administrativo]]></applyUrl>
+    <companyId><![CDATA[5672510]]></companyId>
+    <city><![CDATA[São Gonçalo]]></city>
     <state><![CDATA[RJ]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -57898,26 +57921,6 @@ Inglês avançado.</li></ul>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[58a143ba-1c2b-47ea-bb10-e80eea5e161c]]></partnerJobId>
-    <company><![CDATA[Sesatech]]></company>
-    <title><![CDATA[DESENVOLVEDOR FRONT-END JUNIOR - VUE]]></title>
-    <posterEmail><![CDATA[julio.santo@oplium.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos front-end júnior com foco em Vue.js para desenvolvimento de interfaces modernas, performáticas e acessíveis. Atuará na implementação de páginas e componentes, consumo de APIs, correções de bugs, sempre com acompanhamento de profissionais plenos/sêniores.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Implementar páginas e componentes Vue 3.</li><li>Consumir APIs.</li><li>Desenvolver novas funcionalidades em sistemas web.</li><li>Escrever testes básicos (unitários com Vitest/Jest; E2E com Cypress – noções).</li><li>Versionar código, abrir PRs bem descritos e responder code reviews.</li><li>Apoiar correções de bugs, pequenos ajustes de estilo e refino de UI/UX.</li><li>Participar de cerimônias ágeis (daily, planning, review/retro).</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso técnico ou superior (em andamento ou concluído) em computação/sistemas ou áreas correlatas.</li><li> Vue 3 (Composition API), Vue Router e Pinia (noções).</li><li> JavaScript/TypeScript (básico a intermediário) e Vite.</li><li> HTML5/CSS3 (Flexbox/Grid) e framework de estilos (ex.: Tailwind CSS,</li><li>
-Bootstrap).</li><li> Consumo de APIs REST.</li><li> Git.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sesatechcarreiras/33/desenvolvedor-front-end-junior-vue]]></applyUrl>
-    <companyId><![CDATA[79470134]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[7b8cf977-60e1-496c-bde2-983d7ebc75d3]]></partnerJobId>
@@ -65025,25 +65028,6 @@ Residir em Indaiatuba, Salto ou Elias Fausto.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[828c852a-553d-4909-98cc-98991974d99c]]></partnerJobId>
-    <company><![CDATA[Starta]]></company>
-    <title><![CDATA[Analista de Qualidade Pleno*]]></title>
-    <posterEmail><![CDATA[tayna.lohse@startaideia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Essa pessoa irá atuar na nossa <b>Fábrica de Software da Starta</b>, colaborando no desenvolvimento de soluções tecnológicas, participando de diferentes projetos e contribuindo para a evolução contínua dos nossos produtos e serviços.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />O Analista de Qualidade é o responsável por garantir validação de requisitos de desenvolvimento, considerando os aspectos técnicos e de negócio. Ele deve avaliar a qualidade das aplicações e a experiência do usuário, bem como construir e automatizar testes de software, incluindo testes funcionais, performance e integração, com foco na entrega contínua. <br />Trabalha em par com os desenvolvedores para construção de aplicações sem gaps técnicos, ajudando os mesmos com as melhores práticas de codificação, garantindo aplicações de alta qualidade, além de auxiliar os demais membros do time em tarefas que estejam impactando a conclusão do Sprint.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência em planejamento e execução de testes manuais (experiência obrigatória);<br />Capacidade de interpretação e validação de requisitos (experiência obrigatória);<br />Conhecimento em ferramentas/frameworks de teste (Selenium IDE, Selenium WebDriver, JMeter, SoapUI, TestLink, RedMine, etc.);<br />Experiência/Conhecimento com automação de testes e ferramentas de testes automatizados;<br />Testes de Performance e Carga;<br />Noções em TDD (Test Driven Development);<br />Conhecimento em integração contínua e análise estática de código fonte;<br />Experiência com ferramentas Jenkins, Sonar, Sonarlint etc.;<br />Conhecimento em sistemas operacionais, banco de dados, desenvolvimento de software;<br />Experiência com Métodos Ágeis, Lean e entrega contínua.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/starta/33/analista-de-qualidade-pleno]]></applyUrl>
-    <companyId><![CDATA[22298776]]></companyId>
-    <city><![CDATA[Porto Alegre]]></city>
-    <state><![CDATA[RS]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[f591c4b4-91a9-45fa-a283-4fea4b3c54fe]]></partnerJobId>
     <company><![CDATA[Starta]]></company>
     <title><![CDATA[Desenvolvedor Back-End Java Sênior]]></title>
@@ -66487,25 +66471,6 @@ Conhecimentos básicos pacote Office;</li></ul>]]></description>
 <li>Capacidade analítica e visão estratégica para transformar dados em insights acionáveis.</li>
 <li>Experiência com processos de ETL e governança de dados.</li>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsersparker/61/business-intelligence-data-strategy-analyst]]></applyUrl>
-    <companyId><![CDATA[22297150]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[fcbf906e-793f-47c3-9b58-c908cf792790]]></partnerJobId>
-    <company><![CDATA[Spark]]></company>
-    <title><![CDATA[Analista de Departamento Pessoal Jr.]]></title>
-    <posterEmail><![CDATA[sara.ramos@spark.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas que desejam se desafiar e que sejam incansáveis em busca do aprendizado. Aqui você terá a oportunidade de <strong>atuar de forma generalista</strong>, ampliando seu conhecimento em todas as frentes do Departamento Pessoal e contribuindo diretamente para a experiência dos nossos colaboradores.<br /><br /><br />Quer fazer parte da Spark e desbravar todo o potencial do Marketing de Influência? <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Buscamos uma pessoa de<strong> Departamento Pessoal (Generalista)</strong> para apoiar em todas as rotinas de administração de pessoal, garantindo a conformidade com a legislação trabalhista e o correto fluxo de processos relacionados à jornada do colaborador.<br /><ul><li>Apoiar nos processos de <strong>admissão e desligamento</strong> de colaboradores;</li><li>Realizar <strong>lançamento e conferência da folha de pagamento</strong>, encargos trabalhistas (INSS, FGTS, IRRF) e obrigações acessórias (eSocial, etc);</li><li>Gerir processos de <strong>férias, afastamentos e benefícios</strong> (vale transporte, vale refeição, plano de saúde, etc.);</li><li>Auxiliar no atendimento a colaboradores sobre dúvidas de folha, benefícios e políticas internas;</li><li>Apoiar em <strong>auditorias internas e externas</strong> relacionadas a DP;</li><li>Manter atualizado o arquivo de documentos trabalhistas e registros legais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Técnico ou Superior completo em Administração, RH, Contabilidade ou áreas correlatas;</li><li>Experiência prévia em rotinas de Departamento Pessoal, principalmente com alto volume;</li><li>Ter atuado em Centro de Serviços, Prestação de Serviços, Agências de Marketing, Publicidade e afins;</li><li>Conhecimento em <strong>legislação trabalhista e previdenciária</strong>;</li><li>Desejável vivência com <strong>sistemas de folha de pagamento e eSocial</strong>;</li><li>Ter atuado com sistemas de DP, como: Convenia, Feedz, RH Mais, entre outros;</li><li>Pacote Office (Excel avançado).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsersparker/72/analista-de-departamento-pessoal-jr]]></applyUrl>
     <companyId><![CDATA[22297150]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -69980,6 +69945,92 @@ clara de soluções e fechamento com segurança
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[60ab2b22-47dc-41cc-8154-77741cffeb3b]]></partnerJobId>
+    <company><![CDATA[ESTALEIRO MAUÁ]]></company>
+    <title><![CDATA[MECÂNICO OF.]]></title>
+    <posterEmail><![CDATA[liliane.murta@estaleiromaua.ind.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O <b>Mecânico Industrial</b> é o profissional responsável por garantir a <b>eficiência e a longevidade</b> do parque de máquinas e equipamentos, atuando tanto na manutenção preventiva quanto na corretiva. Sua função envolve a análise técnica de falhas, a recuperação de componentes e a execução de montagens/desmontagens, com o objetivo de manter a operação industrial fluida e segura.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Manutenção e Recuperação</b><ul><li><b>Executar</b> serviços de recuperação, ajustes e conservação em máquinas, equipamentos e sistemas mecânicos industriais em geral (bombas, redutores, compressores, transportadores, sistemas hidráulicos/pneumáticos, etc.).</li><li><b>Realizar</b> manutenções corretivas em caráter de urgência para restaurar o funcionamento de equipamentos parados.</li><li><b>Contribuir</b> ativamente para o sistema de manutenção <b>preventiva</b>, realizando inspeções e lubrificações programadas conforme o plano estabelecido.</li><li><b>Aplicar</b> técnicas de ajuste mecânico para garantir o encaixe e o funcionamento adequados das peças e conjuntos.</li></ul><b>2. Análise e Diagnóstico</b><ul><li><b>Pesquisar</b> e <b>analisar</b> as condições de funcionamento e/ou defeitos dos equipamentos através de testes e inspeções visuais/instrumentais.</li><li><b>Diagnosticar</b> falhas utilizando a leitura e interpretação de <b>desenhos, esquemas, catálogos técnicos</b> e manuais do fabricante.</li><li><b>Operar</b> instrumentos de medição mecânica de precisão (paquímetro, micrômetro, relógio comparador, etc.) para verificação dimensional e tolerâncias.</li></ul><b>3. Montagem e Instalação</b><ul><li><b>Montar</b> e <b>desmontar</b> máquinas, equipamentos e componentes industriais para reparo, substituição de peças ou instalação.</li><li><b>Instalar</b> máquinas e equipamentos novos ou realocados, garantindo o correto nivelamento, alinhamento e conexão mecânica.</li><li><b>Prestar assistência técnica</b>-mecânica durante a fase de <b>expedição</b> ou início de operação (start-up) de novas máquinas industriais.</li></ul><b>4. Controle e Documentação</b><ul><li><b>Registrar</b> e documentar todas as atividades de manutenção realizadas (preventiva e corretiva) em relatórios ou sistemas informatizados (ex: software de gestão de manutenção).</li><li><b>Zelar</b> pela organização e limpeza da oficina e da área de trabalho, bem como pela guarda e conservação das ferramentas e instrumentos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li><b>Formação:</b> Curso Técnico em Mecânica, Eletromecânica, ou áreas correlatas.</li><li><b>Experiência:</b> Sólida experiência em manutenção mecânica industrial (corretiva e preventiva).</li><li><b>Conhecimentos Técnicos:</b><ul><li>Domínio em leitura e interpretação de desenhos técnicos e diagramas mecânicos.</li><li>Proficiência na utilização de instrumentos de medição e ajuste mecânico.</li><li>Conhecimento em sistemas hidráulicos, pneumáticos e lubrificação industrial.</li></ul></li><li><b>Habilidades:</b> Raciocínio lógico para diagnóstico de falhas, destreza manual, atenção aos detalhes e forte aderência às normas de segurança do trabalho.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasestaleiromaua/5/mecanico-of]]></applyUrl>
+    <companyId><![CDATA[725337]]></companyId>
+    <city><![CDATA[Niterói]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[c02fae19-ec13-45d3-b820-d043e7a5aa80]]></partnerJobId>
+    <company><![CDATA[ESTALEIRO MAUÁ]]></company>
+    <title><![CDATA[Assistente de Planejamento]]></title>
+    <posterEmail><![CDATA[liliane.murta@estaleiromaua.ind.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Assistente de Planejamento</b> é responsável por dar suporte administrativo e técnico à equipe de Planejamento e Controle (PCP, PCM, ou Planejamento Estratégico). Sua missão é auxiliar na organização, acompanhamento e comunicação dos cronogramas, garantindo que os recursos necessários estejam disponíveis para atingir os objetivos operacionais e de prazo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>1. Suporte ao Planejamento e Programação</b>
+
+<ul>
+ <li><b>Auxiliar</b>
+     na elaboração e atualização de cronogramas de produção, manutenção ou
+     projetos, utilizando ferramentas como planilhas e softwares de gestão
+     (ERP, MS Project, etc.).</li>
+ <li><b>Apoiar</b>
+     a programação de ordens de serviço (OS) e ordens de produção (OP),
+     distribuindo as tarefas conforme a capacidade e prioridade definidas.</li>
+ <li><b>Coletar</b>
+     dados operacionais (tempos de ciclo, capacidade de máquina,
+     disponibilidade de mão de obra) para alimentar os modelos de planejamento.</li>
+</ul>
+
+<b>2. Controle e Monitoramento</b>
+
+<ul>
+ <li><b>Monitorar</b>
+     o andamento das atividades planejadas, identificando desvios de prazo ou
+     recursos e reportando-os ao gestor de planejamento.</li>
+ <li><b>Realizar</b>
+     o acompanhamento e a conferência do estoque de materiais e insumos
+     críticos, sinalizando a necessidade de compras ou reposição.</li>
+ <li><b>Garantir</b>
+     que toda a documentação de planejamento (procedimentos, desenhos, listas
+     de materiais) esteja organizada e acessível à equipe de execução.</li>
+</ul>
+
+<b>3. Comunicação e Análise</b>
+
+<ul>
+ <li><b>Elaborar</b>
+     relatórios diários, semanais e mensais de desempenho, utilizando
+     indicadores-chave (KPIs) como <i>lead time</i>, <i>OTIF</i> (On Time, In
+     Full) e cumprimento de programação.</li>
+ <li><b>Comunicar</b>
+     e coordenar as informações de planejamento entre diferentes setores
+     (Produção, Compras, Manutenção e Logística).</li>
+ <li><b>Participar</b>
+     de reuniões de <i>follow-up</i> (acompanhamento), contribuindo com dados e
+     análises sobre o status das atividades.</li>
+</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
+ <li><b>Formação:</b>
+     Ensino Superior Cursando ou Completo em Engenharia de Produção,       Administração de Empresas, Logística ou áreas correlatas.</li>
+ <li><b>Experiência:</b>
+     Desejável experiência anterior em áreas de planejamento (PCP, PCM,
+     Logística ou Suprimentos).</li>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasestaleiromaua/7/assistente-de-planejamento]]></applyUrl>
+    <companyId><![CDATA[725337]]></companyId>
+    <city><![CDATA[Niterói]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[5f6b836a-0b3b-43b5-becb-8dc0e074c606]]></partnerJobId>
     <company><![CDATA[ESTALEIRO MAUÁ]]></company>
     <title><![CDATA[Hidrojatista Of.]]></title>
@@ -70473,25 +70524,6 @@ de caixa e controle de vencimentos de poderes.<br /><br /><b>Requisitos e qualif
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[8aeef5f9-461b-43c6-869f-208400f54be2]]></partnerJobId>
-    <company><![CDATA[RFM]]></company>
-    <title><![CDATA[Estagiário(a) de Engenharia - São Paulo]]></title>
-    <posterEmail><![CDATA[vagas@rfm.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de entusiastas da engenharia civil que desejam dar os primeiros passos em suas carreiras profissionais! Se você é apaixonado por desafios e tem vontade de aprender em um ambiente dinâmico e colaborativo, essa é a sua chance. No nosso time, você terá a oportunidade de vivenciar na prática os conhecimentos adquiridos ao longo da sua formação, trabalhando ao lado de profissionais experientes que estarão prontos para orientar e compartilhar suas vivências. Queremos pessoas criativas e proativas, dispostas a contribuir com novas ideias e soluções inovadoras. Se você está pronto para se desenvolver e fazer parte de projetos impactantes, não perca essa oportunidade. Junte-se a nós e venha construir um futuro brilhante na engenharia civil! Estamos ansiosos para conhecer o seu potencial!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Responsabilidade<br /><br /><b>Requisitos e qualificações</b><br /><br />Estar cursando engenharia Civil]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasrfm/1/estagiario-a-de-engenharia-sao-paulo]]></applyUrl>
-    <companyId><![CDATA[9293699]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[59d4e2d9-9bfa-477c-854b-764679478af6]]></partnerJobId>
     <company><![CDATA[RFM]]></company>
     <title><![CDATA[Encarregado de Obra]]></title>
@@ -70511,26 +70543,37 @@ de caixa e controle de vencimentos de poderes.<br /><br /><b>Requisitos e qualif
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[24afd194-c2c5-4fda-969b-19ffa8b070b7]]></partnerJobId>
+    <partnerJobId><![CDATA[8aeef5f9-461b-43c6-869f-208400f54be2]]></partnerJobId>
+    <company><![CDATA[RFM]]></company>
+    <title><![CDATA[Estagiário(a) de Engenharia - São Paulo]]></title>
+    <posterEmail><![CDATA[vagas@rfm.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de entusiastas da engenharia civil que desejam dar os primeiros passos em suas carreiras profissionais! Se você é apaixonado por desafios e tem vontade de aprender em um ambiente dinâmico e colaborativo, essa é a sua chance. No nosso time, você terá a oportunidade de vivenciar na prática os conhecimentos adquiridos ao longo da sua formação, trabalhando ao lado de profissionais experientes que estarão prontos para orientar e compartilhar suas vivências. Queremos pessoas criativas e proativas, dispostas a contribuir com novas ideias e soluções inovadoras. Se você está pronto para se desenvolver e fazer parte de projetos impactantes, não perca essa oportunidade. Junte-se a nós e venha construir um futuro brilhante na engenharia civil! Estamos ansiosos para conhecer o seu potencial!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Responsabilidade<br /><br /><b>Requisitos e qualificações</b><br /><br />Estar cursando engenharia Civil]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasrfm/1/estagiario-a-de-engenharia-sao-paulo]]></applyUrl>
+    <companyId><![CDATA[9293699]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b3e7c369-863b-4062-82a9-b9a9e6417e30]]></partnerJobId>
     <company><![CDATA[Grupo USBR]]></company>
-    <title><![CDATA[Vendedor]]></title>
-    <posterEmail><![CDATA[joaquin@rib5g.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O vendedor interno irá realizar seu trabalho de vendas de serviços dentro do departamento Brazil-Help. O público alvo são imigrantes brasileiros que residem nos Estados Unidos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Recepcionar o cliente através do lead;<br />Identificar problemas; <br />Resolução de pendências através de colitações;<br />Envio de propostas; <br />Cobrança de pagamento;<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo; <br />Boa digitação; <br />Experiência em atendimento ao público; <br />Flexibilidade de horário. <br />Conhecimento em pacote office.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaribeiro/9/vendedor]]></applyUrl>
+    <title><![CDATA[Vendedor Interno]]></title>
+    <posterEmail><![CDATA[gleicy@rib5g.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais apaixonados por vendas e pela superação de desafios para compor nossa equipe! Aqui, você encontrará um ambiente dinâmico e colaborativo, onde suas ideias e contribuições serão valorizadas. Se você é motivado(a) por metas e busca um lugar onde possa se desenvolver continuamente, essa é a sua oportunidade. Temos um compromisso com o crescimento dos nossos colaboradores, oferecendo treinamentos e um plano de carreira estruturado. Junte-se a nós e faça parte de uma organização que valoriza o talento e a dedicação. Venha somar forças e construir relacionamentos duradouros com nossos clientes, contribuindo para colher os frutos dos seus esforços. Transforme sua carreira e venha brilhar em uma equipe que celebra conquistas juntos! Se você está pronto(a) para dar o próximo passo em sua trajetória profissional, queremos conhecer você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atender leads receptivos com agilidade e atendimento consultivo.<br /><br /><br />- Realizar follow-up constante para manter o fluxo de vendas ativo.<br /><br /><br />- Organizar e atualizar o CRM diariamente, mantendo o funil claro e preciso.<br /><br /><br />- Conduzir vendas por ligação e atendimento online (WhatsApp e outros canais).<br /><br /><br />- Trabalhar com foco no atingimento das metas semanais e mensais<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo;<br /> - Experiência anterior em vendas, preferencialmente em telefonia;<br /> - Habilidade em negociação e persuasão;<br /> - Conhecimento básico em técnicas de vendas e atendimento ao cliente;<br /> - Facilidade em trabalhar com metas e objetivos;<br /> - Capacidade de comunicação clara e eficaz;<br /> - Familiaridade com ferramentas de CRM e pacote Office;<br /> - Proatividade e boa gestão do tempo.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaribeiro/3/vendedor-interno]]></applyUrl>
     <companyId><![CDATA[110370204]]></companyId>
     <city><![CDATA[Goiânia]]></city>
     <state><![CDATA[GO]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
-        <highEnd>
-          <amount><![CDATA[2500.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2500.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -70565,25 +70608,6 @@ de caixa e controle de vencimentos de poderes.<br /><br /><b>Requisitos e qualif
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[b3e7c369-863b-4062-82a9-b9a9e6417e30]]></partnerJobId>
-    <company><![CDATA[Grupo USBR]]></company>
-    <title><![CDATA[Vendedor Interno]]></title>
-    <posterEmail><![CDATA[gleicy@rib5g.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais apaixonados por vendas e pela superação de desafios para compor nossa equipe! Aqui, você encontrará um ambiente dinâmico e colaborativo, onde suas ideias e contribuições serão valorizadas. Se você é motivado(a) por metas e busca um lugar onde possa se desenvolver continuamente, essa é a sua oportunidade. Temos um compromisso com o crescimento dos nossos colaboradores, oferecendo treinamentos e um plano de carreira estruturado. Junte-se a nós e faça parte de uma organização que valoriza o talento e a dedicação. Venha somar forças e construir relacionamentos duradouros com nossos clientes, contribuindo para colher os frutos dos seus esforços. Transforme sua carreira e venha brilhar em uma equipe que celebra conquistas juntos! Se você está pronto(a) para dar o próximo passo em sua trajetória profissional, queremos conhecer você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atender leads receptivos com agilidade e atendimento consultivo.<br /><br /><br />- Realizar follow-up constante para manter o fluxo de vendas ativo.<br /><br /><br />- Organizar e atualizar o CRM diariamente, mantendo o funil claro e preciso.<br /><br /><br />- Conduzir vendas por ligação e atendimento online (WhatsApp e outros canais).<br /><br /><br />- Trabalhar com foco no atingimento das metas semanais e mensais<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo;<br /> - Experiência anterior em vendas, preferencialmente em telefonia;<br /> - Habilidade em negociação e persuasão;<br /> - Conhecimento básico em técnicas de vendas e atendimento ao cliente;<br /> - Facilidade em trabalhar com metas e objetivos;<br /> - Capacidade de comunicação clara e eficaz;<br /> - Familiaridade com ferramentas de CRM e pacote Office;<br /> - Proatividade e boa gestão do tempo.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaribeiro/3/vendedor-interno]]></applyUrl>
-    <companyId><![CDATA[110370204]]></companyId>
-    <city><![CDATA[Goiânia]]></city>
-    <state><![CDATA[GO]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[f4215522-a1e7-4c3a-8887-5d2604fa1860]]></partnerJobId>
     <company><![CDATA[Grupo USBR]]></company>
     <title><![CDATA[Assistente De Customer Sucess]]></title>
@@ -70611,12 +70635,59 @@ de caixa e controle de vencimentos de poderes.<br /><br /><b>Requisitos e qualif
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[8be3dacb-7b4b-452e-965e-50451f465e46]]></partnerJobId>
+    <partnerJobId><![CDATA[24afd194-c2c5-4fda-969b-19ffa8b070b7]]></partnerJobId>
+    <company><![CDATA[Grupo USBR]]></company>
+    <title><![CDATA[Vendedor]]></title>
+    <posterEmail><![CDATA[joaquin@rib5g.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O vendedor interno irá realizar seu trabalho de vendas de serviços dentro do departamento Brazil-Help. O público alvo são imigrantes brasileiros que residem nos Estados Unidos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Recepcionar o cliente através do lead;<br />Identificar problemas; <br />Resolução de pendências através de colitações;<br />Envio de propostas; <br />Cobrança de pagamento;<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo; <br />Boa digitação; <br />Experiência em atendimento ao público; <br />Flexibilidade de horário. <br />Conhecimento em pacote office.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaribeiro/9/vendedor]]></applyUrl>
+    <companyId><![CDATA[110370204]]></companyId>
+    <city><![CDATA[Goiânia]]></city>
+    <state><![CDATA[GO]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2500.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2500.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e2bde5a0-5ca5-4694-91b7-30e48780a763]]></partnerJobId>
     <company><![CDATA[Larca Capital]]></company>
-    <title><![CDATA[Assistente de Departamento Pessoal]]></title>
+    <title><![CDATA[Banco de Talentos - Larca]]></title>
     <posterEmail><![CDATA[alessandra.spinelli@larcacapital.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos profissional proativo, organizado e com boa comunicação para atuar nas rotinas de Departamento Pessoal, dando suporte aos processos administrativos relacionados aos colaboradores da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />•	Cálculo e conferência de folha de pagamento.<br />•	Administração de benefícios (vale-transporte, vale-refeição, plano de saúde).<br />•	Admissões e desligamentos.<br />•	Gestão de férias.<br />•	Controle de ponto eletrônico, atestados, horas extras.<br />•	Conhecimento e aplicação da legislação trabalhista<br />•	Controle de vencimento de contratos<br />•	Atividades relacionadas a infraestrutura <br />•	Atendimento interno aos colaboradores para esclarecimento de dúvidas relacionadas ao DP;<br />•	Suporte na administração de benefícios (VT, VR, convênio médico e demais solicitações);<br />•	Apoio nos processos de rescisões e homologações.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação técnica ou graduação em Recursos Humanos, ou áreas correlatas (cursando ou concluído);<br /> - Conhecimento em legislação trabalhista (diferencial);<br /> - Domínio de ferramentas de informática, especialmente pacote Office (Excel, Word).<br /> - Experiência anterior em rotinas de departamento pessoal.<br /> - Boa comunicação e habilidades interpessoais.<br /> - Organização e habilidade para trabalhar com prazos.<br /> - Capacidade de lidar com informações confidenciais.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/atracaodetalentoslarcacapital/5/assistente-de-departamento-pessoal]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Esta vaga é destinada ao nosso <strong>Banco de Talentos</strong>, onde reunimos profissionais interessados em fazer parte da Larca. Ao se cadastrar, seu perfil ficará disponível para futuras oportunidades alinhadas à sua área de atuação e experiência.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Como esta é uma vaga de Banco de Talentos, as responsabilidades podem variar conforme a área, mas de forma geral, buscamos profissionais que:<br />
+<ul>
+<li>
+Atuem com foco em resultados e atenção à qualidade das entregas.
+</li>
+<li>
+Trabalhem de forma colaborativa, contribuindo para um ambiente positivo.
+</li>
+<li>
+Participem de processos e rotinas da área de atuação.
+</li>
+<li>
+Possam apoiar melhorias, propor soluções e compartilhar boas práticas.
+</li>
+<li>
+Demonstrem postura profissional, ética e alinhamento aos valores da empresa.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Superior completo e/ou em andamento.</li><li>Boa comunicação e capacidade de trabalho em equipe.</li>
+<li>
+Organização, proatividade e responsabilidade.
+</li>
+<li>
+Disponibilidade para atuar presencialmente.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/atracaodetalentoslarcacapital/3/banco-de-talentos-larca]]></applyUrl>
     <companyId><![CDATA[70104718]]></companyId>
     <city><![CDATA[Porto Alegre]]></city>
     <state><![CDATA[RS]]></state>
@@ -70697,32 +70768,12 @@ de caixa e controle de vencimentos de poderes.<br /><br /><b>Requisitos e qualif
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[e2bde5a0-5ca5-4694-91b7-30e48780a763]]></partnerJobId>
+    <partnerJobId><![CDATA[8be3dacb-7b4b-452e-965e-50451f465e46]]></partnerJobId>
     <company><![CDATA[Larca Capital]]></company>
-    <title><![CDATA[Banco de Talentos - Larca]]></title>
+    <title><![CDATA[Assistente de Departamento Pessoal]]></title>
     <posterEmail><![CDATA[alessandra.spinelli@larcacapital.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Esta vaga é destinada ao nosso <strong>Banco de Talentos</strong>, onde reunimos profissionais interessados em fazer parte da Larca. Ao se cadastrar, seu perfil ficará disponível para futuras oportunidades alinhadas à sua área de atuação e experiência.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Como esta é uma vaga de Banco de Talentos, as responsabilidades podem variar conforme a área, mas de forma geral, buscamos profissionais que:<br />
-<ul>
-<li>
-Atuem com foco em resultados e atenção à qualidade das entregas.
-</li>
-<li>
-Trabalhem de forma colaborativa, contribuindo para um ambiente positivo.
-</li>
-<li>
-Participem de processos e rotinas da área de atuação.
-</li>
-<li>
-Possam apoiar melhorias, propor soluções e compartilhar boas práticas.
-</li>
-<li>
-Demonstrem postura profissional, ética e alinhamento aos valores da empresa.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Superior completo e/ou em andamento.</li><li>Boa comunicação e capacidade de trabalho em equipe.</li>
-<li>
-Organização, proatividade e responsabilidade.
-</li>
-<li>
-Disponibilidade para atuar presencialmente.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/atracaodetalentoslarcacapital/3/banco-de-talentos-larca]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos profissional proativo, organizado e com boa comunicação para atuar nas rotinas de Departamento Pessoal, dando suporte aos processos administrativos relacionados aos colaboradores da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />•	Cálculo e conferência de folha de pagamento.<br />•	Administração de benefícios (vale-transporte, vale-refeição, plano de saúde).<br />•	Admissões e desligamentos.<br />•	Gestão de férias.<br />•	Controle de ponto eletrônico, atestados, horas extras.<br />•	Conhecimento e aplicação da legislação trabalhista<br />•	Controle de vencimento de contratos<br />•	Atividades relacionadas a infraestrutura <br />•	Atendimento interno aos colaboradores para esclarecimento de dúvidas relacionadas ao DP;<br />•	Suporte na administração de benefícios (VT, VR, convênio médico e demais solicitações);<br />•	Apoio nos processos de rescisões e homologações.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação técnica ou graduação em Recursos Humanos, ou áreas correlatas (cursando ou concluído);<br /> - Conhecimento em legislação trabalhista (diferencial);<br /> - Domínio de ferramentas de informática, especialmente pacote Office (Excel, Word).<br /> - Experiência anterior em rotinas de departamento pessoal.<br /> - Boa comunicação e habilidades interpessoais.<br /> - Organização e habilidade para trabalhar com prazos.<br /> - Capacidade de lidar com informações confidenciais.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/atracaodetalentoslarcacapital/5/assistente-de-departamento-pessoal]]></applyUrl>
     <companyId><![CDATA[70104718]]></companyId>
     <city><![CDATA[Porto Alegre]]></city>
     <state><![CDATA[RS]]></state>
@@ -70736,22 +70787,18 @@ Disponibilidade para atuar presencialmente.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[336ee586-f9db-4810-b249-698f735a4da1]]></partnerJobId>
+    <partnerJobId><![CDATA[25d843e9-4c96-4067-8a98-df5ff164226c]]></partnerJobId>
     <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[AUXILIAR DE SERVIÇOS GERAIS]]></title>
+    <title><![CDATA[#Banco de Talentos]]></title>
     <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável pela limpeza, conservação e organização dos ambientes, reposição de materiais de higiene, coleta de resíduos e apoio às rotinas de manutenção, garantindo espaços limpos, seguros e adequados para uso.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Limpeza geral;Limpeza da área externa;<br />Apoio nas demandas da área.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência na função;Facilidade com o trabalho em equipe.<br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/12/auxiliar-de-servicos-gerais]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de oportunidades que possam abrir novas portas em sua carreira? Estamos em busca de pessoas apaixonadas por desafios e que queiram fazer a diferença em um ambiente acolhedor e transformador! Ao integrar nosso Banco de Talentos, você terá a chance de ser reconhecido por seu potencial e suas habilidades, além de explorar diversos caminhos dentro de uma organização que valoriza o desenvolvimento e o crescimento. Este é um convite para você se conectar a uma rede de oportunidades que pode transformar seu futuro profissional. Não perca a chance de fazer parte da nossa escola, onde seu talento pode brilhar e contribuir para um novo capítulo na sua trajetória. <br />Venha conosco e descubra como suas aspirações podem se alinhar com nossos objetivos!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Banco de talentos para vagas pedagógicas, administrativas e operacionais.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Banco de talentos para vagas pedagógicas, administrativas e operacionais.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/2/banco-de-talentos]]></applyUrl>
     <companyId><![CDATA[1336374]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
-        <highEnd>
-          <amount><![CDATA[2670.58]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -70759,12 +70806,13 @@ Disponibilidade para atuar presencialmente.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[3f008fe5-8ba5-4205-926d-d6bd8c8cb2a1]]></partnerJobId>
+    <partnerJobId><![CDATA[67fc83ba-263e-4599-9f64-9eaafdd91c03]]></partnerJobId>
     <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[ENFERMEIRA]]></title>
-    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por prestar assistência de enfermagem aos alunos, realizando procedimentos técnicos, administração de medicamentos, monitoramento do estado de saúde, orientação aos pacientes e familiares, além de cumprir protocolos e colaborar com a equipe multiprofissional para garantir um atendimento seguro e de qualidade.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar medicações de rotina conforme prescrição médica;Realizar atendimento de primeiros socorros;<br />Realizar contato com os pais dos alunos;<br />Realizar controles de check-list (DEA, geladeira, medicações, mochila de primeiros socorros e oxigênio);<br />Realizar plantões em eventos da escola;<br />Realizar solicitação de materiais/medicamentos.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Conhecimento nas tecnologias Google;Desejável pós-graduação.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/14/enfermeira]]></applyUrl>
+    <title><![CDATA[TEACHER ASSISTANT - EARLY CHILDHOOD]]></title>
+    <posterEmail><![CDATA[diana.sarue@beityaacov.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />If you are looking for an opportunity where you can make a difference in children’s lives, come join our team as a <strong>Bilingual Classroom Assistant</strong>! Here, we value quality education, creativity, and enthusiasm for learning. We offer a welcoming and inspiring environment where you will work alongside dedicated and caring professionals, contributing to the development of linguistic and social skills in a space where children feel safe and motivated.
+This is a chance to grow both personally and professionally, helping to shape conscious citizens who are prepared for the future. If you have a passion for teaching and want to create unforgettable memories with children, we would love to hear your story! Come discover a place where your talent is valued and your work truly transforms lives.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Assist the teacher in executing the planned activities;<br />Ensure children's safety and well being;<br />Make interventions in the children's play;<br />Help to organize the room and students' belongings;<br />Document evidence of learning;<br />Lead small groups with teacher guidance;<br />Help the children with their hygiene.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Fluent English and experience in early childhood, preferably in an immersion setting.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/3/teacher-assistant-early-childhood]]></applyUrl>
     <companyId><![CDATA[1336374]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -70772,9 +70820,13 @@ Disponibilidade para atuar presencialmente.</li>]]></description>
     <salaries>
       <salary>
         <highEnd>
-          <amount><![CDATA[5035.00]]></amount>
+          <amount><![CDATA[7494.20]]></amount>
           <currencyCode>BRL</currencyCode>
         </highEnd>
+        <lowEnd>
+          <amount><![CDATA[4142.48]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -70782,173 +70834,12 @@ Disponibilidade para atuar presencialmente.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[40e9a07b-b584-4ce0-9292-37de62423e72]]></partnerJobId>
+    <partnerJobId><![CDATA[50b1ded4-7d23-44e0-925e-f6880c82f2ce]]></partnerJobId>
     <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[CONTROLADOR DE ACESSO (25 horas semanais)]]></title>
+    <title><![CDATA[ESTAGIÁRIO(A) - NUTRIÇÃO]]></title>
     <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por controlar a entrada e saída de pessoas, veículos e visitantes, realizando identificação, cadastro e orientação, zelando pela segurança do local, cumprimento das normas internas e apoio às rotinas de vigilância e organização do ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Controlar o acesso de visitantes, pais, alunos e terceirizados na instituição;Controlar a organização e o fluxo do estacionamento da escola;<br />Verificar internamente se todos os funcionários estão usando o crachá e informar a Central de Segurança;<br />Acompanhar passeios sob demanda dos encarregados e coordenadores;<br />Fazer rondas perimetrais e internas.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência prévia na função;Conhecimento das tecnologias e ferramentas Google.<br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/15/controlador-de-acesso-25-horas-semanais]]></applyUrl>
-    <companyId><![CDATA[1336374]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[2092.50]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[373d0b45-467a-4d4c-ae58-c51c59ba3caf]]></partnerJobId>
-    <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[TÉCNICO MAKER/FAB LAB]]></title>
-    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por apoiar o funcionamento do espaço Maker/FabLab, operando e mantendo equipamentos como impressoras 3D, cortadora a laser e ferramentas manuais, auxiliando usuários em projetos práticos, garantindo o uso seguro do espaço, a organização dos materiais e o cumprimento das normas de segurança, além de colaborar no desenvolvimento de atividades criativas e tecnológicas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Apoiar alunos e professores no uso de ferramentas e máquinas do espaço Maker;Zelar pela segurança na operação dos equipamentos do espaço Maker;<br />Organizar o ambiente e manter máquinas e equipamentos funcionando adequadamente.;<br />Gerenciar materiais e insumos;<br />Preparar o espaço para atividades e auxiliar na prototipagem e montagem de projetos;<br />Orientar boas práticas, segurança e resolver problemas técnicos durante as atividades.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência prévia em ambientes maker, laboratórios de fabricação digital ou áreas técnicas similares;Inglês avançado;<br />Conhecimento das tecnologias e ferramentas Google.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/16/tecnico-maker-fab-lab]]></applyUrl>
-    <companyId><![CDATA[1336374]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[5316.24]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[56eb4d40-23d6-4234-a25c-9b46301cc6a6]]></partnerJobId>
-    <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[TÉCNICO EM TE]]></title>
-    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por apoiar o uso pedagógico das tecnologias educacionais, prestando suporte técnico a professores e alunos, auxiliando na utilização de plataformas digitais, equipamentos audiovisuais e recursos tecnológicos, garantindo o bom funcionamento dos sistemas, a organização dos equipamentos e o cumprimento das boas práticas de uso.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Apoiar alunos e professores na realização de projetos que envolvam tecnologia e inovação;Planejar e conduzir formações e mentorias sobre ferramentas digitais e metodologias ativas;<br />Colaborar em aulas e atividades no espaço Maker, estimulando a experimentação e a criatividade;<br />Testar, implementar e acompanhar o uso de novas soluções educacionais;<br />Apoiar a integração de tecnologias ao currículo, em parceria com as coordenações pedagógicas;<br />Garantir o bom funcionamento de equipamentos e dispositivos utilizados em sala e no espaço Maker.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência prévia na função;Inglês avançado;Conhecimento das tecnologias e ferramentas Google.<br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/17/tecnico-em-te]]></applyUrl>
-    <companyId><![CDATA[1336374]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[5316.24]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[c499c25b-f0ec-4c12-9238-875cf7c1f99c]]></partnerJobId>
-    <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[ESTAGIÁRIO(A) DE MATEMÁTICA - ENSINO FUNDAMENTAL II]]></title>
-    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Estagiário(a) de Matemática</strong> para atuar no <strong>Ensino Fundamental II</strong>, apoiando o trabalho pedagógico e contribuindo para o desenvolvimento acadêmico dos alunos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Acompanhar os alunos diariamente, atendendo às necessidades específicas;Compartilhar o trabalho realizado com a coordenação;<br />Auxiliar os professores na rotina de sala de aula e na elaboração de atividades;<br />Apoiar na aplicação de trabalhos e produção de materiais;<br />Auxiliar nas demandas do segmento.<br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Domínio das tecnologias e ferramentas Google;Inglês desejável.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/4/estagiario-a-de-matematica-ensino-fundamental-ii]]></applyUrl>
-    <companyId><![CDATA[1336374]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1840.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1cefa779-17de-44c8-bb7b-1811ef559782]]></partnerJobId>
-    <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[ESTAGIÁRIO(A) DE MATEMÁTICA - ENSINO MÉDIO]]></title>
-    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Estagiário(a) de Matemática</strong> para atuar no <strong>Ensino Médio</strong>, apoiando o trabalho pedagógico e contribuindo para o desenvolvimento acadêmico dos alunos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Acompanhar os alunos diariamente, atendendo às necessidades específicas;Compartilhar o trabalho realizado com a coordenação;<br />Auxiliar os professores na rotina de sala de aula e na elaboração de atividades;<br />Apoiar na aplicação de trabalhos e produção de materiais;<br />Auxiliar nas demandas do segmento.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Domínio das tecnologias e ferramentas Google;Inglês desejável.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/5/estagiario-a-de-matematica-ensino-medio]]></applyUrl>
-    <companyId><![CDATA[1336374]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1840.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e077cb0b-dd54-4cbe-8a82-4c0876926a96]]></partnerJobId>
-    <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[ESTAGIÁRIO(A) DE LETRAS - ENSINO FUNDAMENTAL II]]></title>
-    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Estagiário(a) de Letras</strong> para atuar no <strong>Ensino Fundamental II</strong>, apoiando o trabalho pedagógico e contribuindo para o desenvolvimento acadêmico dos alunos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Acompanhar os alunos diariamente, atendendo às necessidades específicas;Compartilhar o trabalho realizado com a coordenação;<br />Auxiliar os professores na rotina de sala de aula e na elaboração de atividades;<br />Apoiar na aplicação de trabalhos e produção de materiais;<br />Auxiliar nas demandas do segmento.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Domínio das tecnologias e ferramentas Google;Inglês fluênte.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/6/estagiario-a-de-letras-ensino-fundamental-ii]]></applyUrl>
-    <companyId><![CDATA[1336374]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1840.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e1ecbf0e-d922-49e6-ae0f-16e1e18da84d]]></partnerJobId>
-    <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[ESTAGIÁRIO(A) DE PRÁTICAS INCLUSIVAS - ENSINO MÉDIO]]></title>
-    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Estagiário(a) de Práticas Inclusivas para atuar no Ensino Médio, apoiando ações pedagógicas voltadas à inclusão, ao desenvolvimento integral dos estudantes e à promoção de um ambiente escolar diverso, acolhedor e respeitoso.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar na elaboração e adaptação de materiais didáticos e recursos pedagógicos;Acompanhar os alunos diariamente, atendendo às suas necessidades específicas;<br />Auxiliar os professores no dia a dia da sala de aula com os alunos acompanhados pelo NPI (Núcleo de Práticas Inclusivas);<br />Auxiliar na elaboração da documentação dos alunos acompanhados pelo NPI (Núcleo de Práticas Inclusivas);<br />Auxiliar nas demandas do segmento.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Domínio das ferramentas Google e uso de ferramentas de comunicação online (e-mail, plataformas de reunião);Inglês avançado.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/8/estagiario-a-de-praticas-inclusivas-ensino-medio]]></applyUrl>
-    <companyId><![CDATA[1336374]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1840.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[f1c73f33-0972-4060-ae9a-64d3b328f0e5]]></partnerJobId>
-    <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[INTERNSHIP - EARLY CHILDHOOD]]></title>
-    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />We are looking for a <strong>Pedagogy Intern</strong> to work in <strong>Early Childhood Education</strong>, supporting teaching practices and contributing to children’s cognitive, social, and emotional development in a welcoming and stimulating learning environment.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Assist the teacher in carrying out planned learning experiences;Assist the teacher throughout the student's routine;Ensure the safety and well-being of the children;Intervene, with the teacher's guidance, in the children's play;Help organize the classroom, materials, and students' belongings;Help the children with hygiene;Intervene, when necessary, in social interactions among students (with the guidance of the teacher and coordinator);Prepare materials and spaces;Accompany students during arrival/departure times, lunches, snacks, park visits, and specialist classes.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Fluent English]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/9/internship-early-childhood]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Estagiário(a) de Nutrição para atuar no apoio às atividades da área, contribuindo para a promoção da alimentação saudável, controle de qualidade e cumprimento das normas de segurança alimentar.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar nas atividades envolvendo alimentação e nutrição dos alunos;Apoiar no atendimento dos alunos na lanchonete;<br />Auxiliar nas atividades do horário do almoço.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Domínio das tecnologias e ferramentas Google;Habilidades de comunicação, relacionamento interpessoal e trabalho em equipe.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/11/estagiario-a-nutricao]]></applyUrl>
     <companyId><![CDATA[1336374]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -70989,12 +70880,12 @@ Disponibilidade para atuar presencialmente.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[50b1ded4-7d23-44e0-925e-f6880c82f2ce]]></partnerJobId>
+    <partnerJobId><![CDATA[f1c73f33-0972-4060-ae9a-64d3b328f0e5]]></partnerJobId>
     <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[ESTAGIÁRIO(A) - NUTRIÇÃO]]></title>
+    <title><![CDATA[INTERNSHIP - EARLY CHILDHOOD]]></title>
     <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Estagiário(a) de Nutrição para atuar no apoio às atividades da área, contribuindo para a promoção da alimentação saudável, controle de qualidade e cumprimento das normas de segurança alimentar.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar nas atividades envolvendo alimentação e nutrição dos alunos;Apoiar no atendimento dos alunos na lanchonete;<br />Auxiliar nas atividades do horário do almoço.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Domínio das tecnologias e ferramentas Google;Habilidades de comunicação, relacionamento interpessoal e trabalho em equipe.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/11/estagiario-a-nutricao]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />We are looking for a <strong>Pedagogy Intern</strong> to work in <strong>Early Childhood Education</strong>, supporting teaching practices and contributing to children’s cognitive, social, and emotional development in a welcoming and stimulating learning environment.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Assist the teacher in carrying out planned learning experiences;Assist the teacher throughout the student's routine;Ensure the safety and well-being of the children;Intervene, with the teacher's guidance, in the children's play;Help organize the classroom, materials, and students' belongings;Help the children with hygiene;Intervene, when necessary, in social interactions among students (with the guidance of the teacher and coordinator);Prepare materials and spaces;Accompany students during arrival/departure times, lunches, snacks, park visits, and specialist classes.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Fluent English]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/9/internship-early-childhood]]></applyUrl>
     <companyId><![CDATA[1336374]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -71012,13 +70903,12 @@ Disponibilidade para atuar presencialmente.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[67fc83ba-263e-4599-9f64-9eaafdd91c03]]></partnerJobId>
+    <partnerJobId><![CDATA[e1ecbf0e-d922-49e6-ae0f-16e1e18da84d]]></partnerJobId>
     <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[TEACHER ASSISTANT - EARLY CHILDHOOD]]></title>
-    <posterEmail><![CDATA[diana.sarue@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />If you are looking for an opportunity where you can make a difference in children’s lives, come join our team as a <strong>Bilingual Classroom Assistant</strong>! Here, we value quality education, creativity, and enthusiasm for learning. We offer a welcoming and inspiring environment where you will work alongside dedicated and caring professionals, contributing to the development of linguistic and social skills in a space where children feel safe and motivated.
-This is a chance to grow both personally and professionally, helping to shape conscious citizens who are prepared for the future. If you have a passion for teaching and want to create unforgettable memories with children, we would love to hear your story! Come discover a place where your talent is valued and your work truly transforms lives.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Assist the teacher in executing the planned activities;<br />Ensure children's safety and well being;<br />Make interventions in the children's play;<br />Help to organize the room and students' belongings;<br />Document evidence of learning;<br />Lead small groups with teacher guidance;<br />Help the children with their hygiene.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Fluent English and experience in early childhood, preferably in an immersion setting.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/3/teacher-assistant-early-childhood]]></applyUrl>
+    <title><![CDATA[ESTAGIÁRIO(A) DE PRÁTICAS INCLUSIVAS - ENSINO MÉDIO]]></title>
+    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Estagiário(a) de Práticas Inclusivas para atuar no Ensino Médio, apoiando ações pedagógicas voltadas à inclusão, ao desenvolvimento integral dos estudantes e à promoção de um ambiente escolar diverso, acolhedor e respeitoso.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar na elaboração e adaptação de materiais didáticos e recursos pedagógicos;Acompanhar os alunos diariamente, atendendo às suas necessidades específicas;<br />Auxiliar os professores no dia a dia da sala de aula com os alunos acompanhados pelo NPI (Núcleo de Práticas Inclusivas);<br />Auxiliar na elaboração da documentação dos alunos acompanhados pelo NPI (Núcleo de Práticas Inclusivas);<br />Auxiliar nas demandas do segmento.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Domínio das ferramentas Google e uso de ferramentas de comunicação online (e-mail, plataformas de reunião);Inglês avançado.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/8/estagiario-a-de-praticas-inclusivas-ensino-medio]]></applyUrl>
     <companyId><![CDATA[1336374]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -71026,11 +70916,218 @@ This is a chance to grow both personally and professionally, helping to shape co
     <salaries>
       <salary>
         <highEnd>
-          <amount><![CDATA[7494.20]]></amount>
+          <amount><![CDATA[1840.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e077cb0b-dd54-4cbe-8a82-4c0876926a96]]></partnerJobId>
+    <company><![CDATA[Escola Beit Yaacov]]></company>
+    <title><![CDATA[ESTAGIÁRIO(A) DE LETRAS - ENSINO FUNDAMENTAL II]]></title>
+    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Estagiário(a) de Letras</strong> para atuar no <strong>Ensino Fundamental II</strong>, apoiando o trabalho pedagógico e contribuindo para o desenvolvimento acadêmico dos alunos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Acompanhar os alunos diariamente, atendendo às necessidades específicas;Compartilhar o trabalho realizado com a coordenação;<br />Auxiliar os professores na rotina de sala de aula e na elaboração de atividades;<br />Apoiar na aplicação de trabalhos e produção de materiais;<br />Auxiliar nas demandas do segmento.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Domínio das tecnologias e ferramentas Google;Inglês fluênte.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/6/estagiario-a-de-letras-ensino-fundamental-ii]]></applyUrl>
+    <companyId><![CDATA[1336374]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1840.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1cefa779-17de-44c8-bb7b-1811ef559782]]></partnerJobId>
+    <company><![CDATA[Escola Beit Yaacov]]></company>
+    <title><![CDATA[ESTAGIÁRIO(A) DE MATEMÁTICA - ENSINO MÉDIO]]></title>
+    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Estagiário(a) de Matemática</strong> para atuar no <strong>Ensino Médio</strong>, apoiando o trabalho pedagógico e contribuindo para o desenvolvimento acadêmico dos alunos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Acompanhar os alunos diariamente, atendendo às necessidades específicas;Compartilhar o trabalho realizado com a coordenação;<br />Auxiliar os professores na rotina de sala de aula e na elaboração de atividades;<br />Apoiar na aplicação de trabalhos e produção de materiais;<br />Auxiliar nas demandas do segmento.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Domínio das tecnologias e ferramentas Google;Inglês desejável.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/5/estagiario-a-de-matematica-ensino-medio]]></applyUrl>
+    <companyId><![CDATA[1336374]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1840.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[c499c25b-f0ec-4c12-9238-875cf7c1f99c]]></partnerJobId>
+    <company><![CDATA[Escola Beit Yaacov]]></company>
+    <title><![CDATA[ESTAGIÁRIO(A) DE MATEMÁTICA - ENSINO FUNDAMENTAL II]]></title>
+    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Estagiário(a) de Matemática</strong> para atuar no <strong>Ensino Fundamental II</strong>, apoiando o trabalho pedagógico e contribuindo para o desenvolvimento acadêmico dos alunos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Acompanhar os alunos diariamente, atendendo às necessidades específicas;Compartilhar o trabalho realizado com a coordenação;<br />Auxiliar os professores na rotina de sala de aula e na elaboração de atividades;<br />Apoiar na aplicação de trabalhos e produção de materiais;<br />Auxiliar nas demandas do segmento.<br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Domínio das tecnologias e ferramentas Google;Inglês desejável.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/4/estagiario-a-de-matematica-ensino-fundamental-ii]]></applyUrl>
+    <companyId><![CDATA[1336374]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1840.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[56eb4d40-23d6-4234-a25c-9b46301cc6a6]]></partnerJobId>
+    <company><![CDATA[Escola Beit Yaacov]]></company>
+    <title><![CDATA[TÉCNICO EM TE]]></title>
+    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por apoiar o uso pedagógico das tecnologias educacionais, prestando suporte técnico a professores e alunos, auxiliando na utilização de plataformas digitais, equipamentos audiovisuais e recursos tecnológicos, garantindo o bom funcionamento dos sistemas, a organização dos equipamentos e o cumprimento das boas práticas de uso.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Apoiar alunos e professores na realização de projetos que envolvam tecnologia e inovação;Planejar e conduzir formações e mentorias sobre ferramentas digitais e metodologias ativas;<br />Colaborar em aulas e atividades no espaço Maker, estimulando a experimentação e a criatividade;<br />Testar, implementar e acompanhar o uso de novas soluções educacionais;<br />Apoiar a integração de tecnologias ao currículo, em parceria com as coordenações pedagógicas;<br />Garantir o bom funcionamento de equipamentos e dispositivos utilizados em sala e no espaço Maker.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência prévia na função;Inglês avançado;Conhecimento das tecnologias e ferramentas Google.<br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/17/tecnico-em-te]]></applyUrl>
+    <companyId><![CDATA[1336374]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[5316.24]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[373d0b45-467a-4d4c-ae58-c51c59ba3caf]]></partnerJobId>
+    <company><![CDATA[Escola Beit Yaacov]]></company>
+    <title><![CDATA[TÉCNICO MAKER/FAB LAB]]></title>
+    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por apoiar o funcionamento do espaço Maker/FabLab, operando e mantendo equipamentos como impressoras 3D, cortadora a laser e ferramentas manuais, auxiliando usuários em projetos práticos, garantindo o uso seguro do espaço, a organização dos materiais e o cumprimento das normas de segurança, além de colaborar no desenvolvimento de atividades criativas e tecnológicas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Apoiar alunos e professores no uso de ferramentas e máquinas do espaço Maker;Zelar pela segurança na operação dos equipamentos do espaço Maker;<br />Organizar o ambiente e manter máquinas e equipamentos funcionando adequadamente.;<br />Gerenciar materiais e insumos;<br />Preparar o espaço para atividades e auxiliar na prototipagem e montagem de projetos;<br />Orientar boas práticas, segurança e resolver problemas técnicos durante as atividades.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência prévia em ambientes maker, laboratórios de fabricação digital ou áreas técnicas similares;Inglês avançado;<br />Conhecimento das tecnologias e ferramentas Google.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/16/tecnico-maker-fab-lab]]></applyUrl>
+    <companyId><![CDATA[1336374]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[5316.24]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[40e9a07b-b584-4ce0-9292-37de62423e72]]></partnerJobId>
+    <company><![CDATA[Escola Beit Yaacov]]></company>
+    <title><![CDATA[CONTROLADOR DE ACESSO (25 horas semanais)]]></title>
+    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por controlar a entrada e saída de pessoas, veículos e visitantes, realizando identificação, cadastro e orientação, zelando pela segurança do local, cumprimento das normas internas e apoio às rotinas de vigilância e organização do ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Controlar o acesso de visitantes, pais, alunos e terceirizados na instituição;Controlar a organização e o fluxo do estacionamento da escola;<br />Verificar internamente se todos os funcionários estão usando o crachá e informar a Central de Segurança;<br />Acompanhar passeios sob demanda dos encarregados e coordenadores;<br />Fazer rondas perimetrais e internas.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência prévia na função;Conhecimento das tecnologias e ferramentas Google.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/15/controlador-de-acesso-25-horas-semanais]]></applyUrl>
+    <companyId><![CDATA[1336374]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2092.50]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3f008fe5-8ba5-4205-926d-d6bd8c8cb2a1]]></partnerJobId>
+    <company><![CDATA[Escola Beit Yaacov]]></company>
+    <title><![CDATA[ENFERMEIRA]]></title>
+    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por prestar assistência de enfermagem aos alunos, realizando procedimentos técnicos, administração de medicamentos, monitoramento do estado de saúde, orientação aos pacientes e familiares, além de cumprir protocolos e colaborar com a equipe multiprofissional para garantir um atendimento seguro e de qualidade.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar medicações de rotina conforme prescrição médica;Realizar atendimento de primeiros socorros;<br />Realizar contato com os pais dos alunos;<br />Realizar controles de check-list (DEA, geladeira, medicações, mochila de primeiros socorros e oxigênio);<br />Realizar plantões em eventos da escola;<br />Realizar solicitação de materiais/medicamentos.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Conhecimento nas tecnologias Google;Desejável pós-graduação.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/14/enfermeira]]></applyUrl>
+    <companyId><![CDATA[1336374]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[5035.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[336ee586-f9db-4810-b249-698f735a4da1]]></partnerJobId>
+    <company><![CDATA[Escola Beit Yaacov]]></company>
+    <title><![CDATA[AUXILIAR DE SERVIÇOS GERAIS]]></title>
+    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável pela limpeza, conservação e organização dos ambientes, reposição de materiais de higiene, coleta de resíduos e apoio às rotinas de manutenção, garantindo espaços limpos, seguros e adequados para uso.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Limpeza geral;Limpeza da área externa;<br />Apoio nas demandas da área.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência na função;Facilidade com o trabalho em equipe.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/12/auxiliar-de-servicos-gerais]]></applyUrl>
+    <companyId><![CDATA[1336374]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2670.58]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b26b8336-33c8-449f-b2eb-a1f9dc232237]]></partnerJobId>
+    <company><![CDATA[Tools Engenharia]]></company>
+    <title><![CDATA[Engenheiro(a)]]></title>
+    <posterEmail><![CDATA[larissa.fusete@toolsengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Engenheiro(a) de Obras com perfil analítico, curioso e orientado a resultados</strong>. A posição é voltada para profissionais, que tenham acompanhado o ciclo completo de construção — desde fundações até acabamentos — seja como engenheiro(a) residente ou estagiário.<br /><b>Vivência em empresas do segmento:</b> <b>Predial:</b> Mitre, Gafisa, Even, Rocontec, Sinco, entre outras.<br /><b>Residencial de alto padrão:</b> CPA, Fairbanks, LAER, MPH, MFC, Epson, LOCK, entre outras. <b>Corporativo:</b> Athie Wohnrath, Saeng, Informov, Hauz<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhar e garantir o <b>controle de qualidade, prazo e custo</b> das obras sob sua responsabilidade.</li><li>Apoiar o <b>planejamento físico-financeiro</b> e a elaboração dos <b>cronogramas executivos</b>. Coordenar <b>equipes de campo, fornecedores e prestadores de serviço</b>, assegurando produtividade e conformidade técnica. </li><li>Controlar <b>medições, insumos, contratações e fluxo de suprimentos</b>.</li><li>Elaborar <b>relatórios de acompanhamento e indicadores de desempenho</b>. </li><li>Interagir com <b>projetistas, arquitetos e clientes</b>, alinhando expectativas e decisões técnicas.</li><li>Contribuir com <b>análises de engenharia e soluções de reengenharia</b> voltadas à eficiência e à otimização de custos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Formação:</b> Engenharia Civil (1 a 5 anos de formado)</li><li><b>Experiência:</b> atuação em obras com <b>ciclo completo de construção</b>, preferencialmente no segmento <b>predial ou residencial de alto padrão</b>.</li><li>Leitura e interpretação de projetos executivos(<b>obrigatório</b>)</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagastoolsengenharia/3/engenheiro-a]]></applyUrl>
+    <companyId><![CDATA[28640702]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[7000.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </highEnd>
         <lowEnd>
-          <amount><![CDATA[4142.48]]></amount>
+          <amount><![CDATA[5000.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
@@ -71040,18 +71137,100 @@ This is a chance to grow both personally and professionally, helping to shape co
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[25d843e9-4c96-4067-8a98-df5ff164226c]]></partnerJobId>
-    <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[#Banco de Talentos]]></title>
-    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de oportunidades que possam abrir novas portas em sua carreira? Estamos em busca de pessoas apaixonadas por desafios e que queiram fazer a diferença em um ambiente acolhedor e transformador! Ao integrar nosso Banco de Talentos, você terá a chance de ser reconhecido por seu potencial e suas habilidades, além de explorar diversos caminhos dentro de uma organização que valoriza o desenvolvimento e o crescimento. Este é um convite para você se conectar a uma rede de oportunidades que pode transformar seu futuro profissional. Não perca a chance de fazer parte da nossa escola, onde seu talento pode brilhar e contribuir para um novo capítulo na sua trajetória. <br />Venha conosco e descubra como suas aspirações podem se alinhar com nossos objetivos!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Banco de talentos para vagas pedagógicas, administrativas e operacionais.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Banco de talentos para vagas pedagógicas, administrativas e operacionais.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/2/banco-de-talentos]]></applyUrl>
-    <companyId><![CDATA[1336374]]></companyId>
+    <partnerJobId><![CDATA[417af03b-23a5-4965-b9ed-15ab9b02969c]]></partnerJobId>
+    <company><![CDATA[Tools Engenharia]]></company>
+    <title><![CDATA[Estagiário(a) em Projetos]]></title>
+    <posterEmail><![CDATA[larissa.fusete@toolsengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Estagiário(a) de Projetos
+para apoiar atividades de gestão documental, organização de ambientes
+colaborativos, controle do fluxo de informações e acompanhamento de
+fornecedores e entregas de projeto. <br />A posição envolve participação ativa em
+rotinas administrativas e técnicas, contribuindo diretamente para o andamento
+de projetos e para a padronização das informações. À medida que o estagiário
+demonstra autonomia, será introduzido a tarefas mais complexas, como
+compatibilização de projetos e elaboração de relatórios técnicos, preparando-o
+para uma futura atuação como Analista de Projetos.<b></b><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Gestão e Organização de Documentos
+e Ambientes Digitais</b><ul><li>Estruturação de pastas no repositório de arquivos/ambiente colaborativo</li><li>Cadastro de projetistas envolvidos no ambiente colaborativo</li><li>Cadastro de documentos no repositório</li><li>Estruturação das pastas no drive interno</li><li>Download/organização de arquivos/ controle de nomenclaturas padrão  </li></ul><b><br /></b><b>Comunicação e Fluxo de Informações</b><ul><li>Convocação de reuniões</li><li>Atas de reunião</li><li>Controle de e-mails</li><li>Análise de comentários nas bases de projetos</li></ul><b><br /></b><b>Apoio à Gestão de Projetos e Fornecedores</b><ul><li>Cobrança e Validação de entregas de projeto</li><li>Elaboração e acompanhamento do calendário de projetos </li><li>Solicitação de propostas / revisões</li><li>Acompanhamento e controle de propostas </li><li>Sobreposições de arquivos dwg</li></ul><b>    </b> <b></b><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando Engenharia (Civil, Produção, Arquitetura ou
+áreas correlatas), Arquitetura e Urbanismo, Gestão de Projetos ou cursos
+relacionados.</li><li>Boa comunicação escrita e capacidade de organização.</li><li>Interesse em gestão de projetos, processos e documentação
+técnica.</li><li>Familiaridade com ambientes digitais de trabalho.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagastoolsengenharia/6/estagiario-a-em-projetos]]></applyUrl>
+    <companyId><![CDATA[28640702]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
+        <highEnd>
+          <amount><![CDATA[2500.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1500.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[74ba94a5-1f27-4e3c-8ae6-ca209d16cfc5]]></partnerJobId>
+    <company><![CDATA[Tools Engenharia]]></company>
+    <title><![CDATA[Assistente de Engenharia]]></title>
+    <posterEmail><![CDATA[larissa.fusete@toolsengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><br />
+
+
+ 
+  
+  Buscamos um <b>Assistente de
+  Engenharia com perfil analítico, curioso e orientado a resultados</b>. A
+  posição é voltada para profissionais <b><u>no último ano da faculdade</u></b>, que
+  tenham experiência prévia com Obras Prediais ou Residenciais de alto padrão, como estagiário.
+  
+ 
+
+
+<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />
+
+
+ 
+  
+  <ul><li>Acompanhar e garantir o <b>controle
+  de qualidade, prazo e custo</b> das obras prediais;</li><li>Apoiar o <b>planejamento
+  físico-financeiro;</b></li><li>Controlar <b>medições, insumos,
+  contratações e fluxo de suprimentos</b>.</li><li>Elaborar <b>relatórios de
+  acompanhamento e indicadores de desempenho</b>.</li><li>Interagir com <b>projetistas,
+  arquitetos e clientes</b>, alinhando expectativas e decisões técnicas.</li><li>Realizar <b>relatórios fotográficos</b>
+  periódicos da obra;</li></ul>
+  
+  
+  
+  
+  
+  
+ 
+
+
+<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Engenharia
+Civil (cursando o último ano)</li><li>Experiência: atuação prévia em obras prediais</li><li>Conhecimentos técnicos: excel (obrigatório)</li><li>leitura e interpretação de projetos executivos (obrigatório)</li><li>MS Project (será um diferencial)</li><li>Power BI (será um diferencial)</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagastoolsengenharia/7/assistente-de-engenharia]]></applyUrl>
+    <companyId><![CDATA[28640702]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2500.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1500.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -71138,134 +71317,6 @@ itens decorativos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /
         </highEnd>
         <lowEnd>
           <amount><![CDATA[2500.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[74ba94a5-1f27-4e3c-8ae6-ca209d16cfc5]]></partnerJobId>
-    <company><![CDATA[Tools Engenharia]]></company>
-    <title><![CDATA[Assistente de Engenharia]]></title>
-    <posterEmail><![CDATA[larissa.fusete@toolsengenharia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><br />
-
-
- 
-  
-  Buscamos um <b>Assistente de
-  Engenharia com perfil analítico, curioso e orientado a resultados</b>. A
-  posição é voltada para profissionais <b><u>no último ano da faculdade</u></b>, que
-  tenham experiência prévia com Obras Prediais ou Residenciais de alto padrão, como estagiário.
-  
- 
-
-
-<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />
-
-
- 
-  
-  <ul><li>Acompanhar e garantir o <b>controle
-  de qualidade, prazo e custo</b> das obras prediais;</li><li>Apoiar o <b>planejamento
-  físico-financeiro;</b></li><li>Controlar <b>medições, insumos,
-  contratações e fluxo de suprimentos</b>.</li><li>Elaborar <b>relatórios de
-  acompanhamento e indicadores de desempenho</b>.</li><li>Interagir com <b>projetistas,
-  arquitetos e clientes</b>, alinhando expectativas e decisões técnicas.</li><li>Realizar <b>relatórios fotográficos</b>
-  periódicos da obra;</li></ul>
-  
-  
-  
-  
-  
-  
- 
-
-
-<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Engenharia
-Civil (cursando o último ano)</li><li>Experiência: atuação prévia em obras prediais</li><li>Conhecimentos técnicos: excel (obrigatório)</li><li>leitura e interpretação de projetos executivos (obrigatório)</li><li>MS Project (será um diferencial)</li><li>Power BI (será um diferencial)</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagastoolsengenharia/7/assistente-de-engenharia]]></applyUrl>
-    <companyId><![CDATA[28640702]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[2500.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1500.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[417af03b-23a5-4965-b9ed-15ab9b02969c]]></partnerJobId>
-    <company><![CDATA[Tools Engenharia]]></company>
-    <title><![CDATA[Estagiário(a) em Projetos]]></title>
-    <posterEmail><![CDATA[larissa.fusete@toolsengenharia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Estagiário(a) de Projetos
-para apoiar atividades de gestão documental, organização de ambientes
-colaborativos, controle do fluxo de informações e acompanhamento de
-fornecedores e entregas de projeto. <br />A posição envolve participação ativa em
-rotinas administrativas e técnicas, contribuindo diretamente para o andamento
-de projetos e para a padronização das informações. À medida que o estagiário
-demonstra autonomia, será introduzido a tarefas mais complexas, como
-compatibilização de projetos e elaboração de relatórios técnicos, preparando-o
-para uma futura atuação como Analista de Projetos.<b></b><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Gestão e Organização de Documentos
-e Ambientes Digitais</b><ul><li>Estruturação de pastas no repositório de arquivos/ambiente colaborativo</li><li>Cadastro de projetistas envolvidos no ambiente colaborativo</li><li>Cadastro de documentos no repositório</li><li>Estruturação das pastas no drive interno</li><li>Download/organização de arquivos/ controle de nomenclaturas padrão  </li></ul><b><br /></b><b>Comunicação e Fluxo de Informações</b><ul><li>Convocação de reuniões</li><li>Atas de reunião</li><li>Controle de e-mails</li><li>Análise de comentários nas bases de projetos</li></ul><b><br /></b><b>Apoio à Gestão de Projetos e Fornecedores</b><ul><li>Cobrança e Validação de entregas de projeto</li><li>Elaboração e acompanhamento do calendário de projetos </li><li>Solicitação de propostas / revisões</li><li>Acompanhamento e controle de propostas </li><li>Sobreposições de arquivos dwg</li></ul><b>    </b> <b></b><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando Engenharia (Civil, Produção, Arquitetura ou
-áreas correlatas), Arquitetura e Urbanismo, Gestão de Projetos ou cursos
-relacionados.</li><li>Boa comunicação escrita e capacidade de organização.</li><li>Interesse em gestão de projetos, processos e documentação
-técnica.</li><li>Familiaridade com ambientes digitais de trabalho.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagastoolsengenharia/6/estagiario-a-em-projetos]]></applyUrl>
-    <companyId><![CDATA[28640702]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[2500.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1500.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b26b8336-33c8-449f-b2eb-a1f9dc232237]]></partnerJobId>
-    <company><![CDATA[Tools Engenharia]]></company>
-    <title><![CDATA[Engenheiro(a)]]></title>
-    <posterEmail><![CDATA[larissa.fusete@toolsengenharia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Engenheiro(a) de Obras com perfil analítico, curioso e orientado a resultados</strong>. A posição é voltada para profissionais, que tenham acompanhado o ciclo completo de construção — desde fundações até acabamentos — seja como engenheiro(a) residente ou estagiário.<br /><b>Vivência em empresas do segmento:</b> <b>Predial:</b> Mitre, Gafisa, Even, Rocontec, Sinco, entre outras.<br /><b>Residencial de alto padrão:</b> CPA, Fairbanks, LAER, MPH, MFC, Epson, LOCK, entre outras. <b>Corporativo:</b> Athie Wohnrath, Saeng, Informov, Hauz<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhar e garantir o <b>controle de qualidade, prazo e custo</b> das obras sob sua responsabilidade.</li><li>Apoiar o <b>planejamento físico-financeiro</b> e a elaboração dos <b>cronogramas executivos</b>. Coordenar <b>equipes de campo, fornecedores e prestadores de serviço</b>, assegurando produtividade e conformidade técnica. </li><li>Controlar <b>medições, insumos, contratações e fluxo de suprimentos</b>.</li><li>Elaborar <b>relatórios de acompanhamento e indicadores de desempenho</b>. </li><li>Interagir com <b>projetistas, arquitetos e clientes</b>, alinhando expectativas e decisões técnicas.</li><li>Contribuir com <b>análises de engenharia e soluções de reengenharia</b> voltadas à eficiência e à otimização de custos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Formação:</b> Engenharia Civil (1 a 5 anos de formado)</li><li><b>Experiência:</b> atuação em obras com <b>ciclo completo de construção</b>, preferencialmente no segmento <b>predial ou residencial de alto padrão</b>.</li><li>Leitura e interpretação de projetos executivos(<b>obrigatório</b>)</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagastoolsengenharia/3/engenheiro-a]]></applyUrl>
-    <companyId><![CDATA[28640702]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[7000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[5000.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
@@ -72826,6 +72877,25 @@ responsabilidade.<br /></li></ul>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[8f513d30-016c-46cd-a161-15ea2d8f5b2e]]></partnerJobId>
+    <company><![CDATA[ISQ Brasil]]></company>
+    <title><![CDATA[Inspetor]]></title>
+    <posterEmail><![CDATA[evsilva@isqbrasil.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está buscando uma oportunidade que permita crescer e se desenvolver em um ambiente dinâmico e colaborativo? Temos uma posição aberta, ideal para quem deseja fazer parte de uma equipe comprometida com a excelência. Aqui, você encontrará um espaço para aplicar suas habilidades, contribuir com soluções e participar ativamente de um processo que impacta diretamente na qualidade dos produtos e serviços oferecidos. Valorizamos o potencial de cada colaborador e incentivamos o aprendizado contínuo, proporcionando a chance de se destacar e conquistar novos desafios. Se você tem interesse em atuar em um time que preza pela qualidade e pela inovação, não deixe essa oportunidade passar. Venha fazer parte de um ambiente estimulante, onde suas contribuições serão reconhecidas e valorizadas. Junte-se a nós e inicie uma nova etapa na sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Efetuar inspeção em equipamentos, executando ensaios não destrutivos convencionais e avançados em infraestruturas em serviço, como: tubulações, tanques, vasos de pressão, caldeiras e estruturas metálicas, com base nos procedimentos, ordens de manutenção e em conformidade com os critérios de aceitação das normas específicas. </li><li>Elaborar relatórios técnicos.</li><li>Realização de ME e C-Scan</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Curso de inspetor de equipamentos com qualificação válida.</li><li>Certificação conforme ISO 9712 (Abendi ou Cebraci)</li><li>Desejável conhecimento em pacote office.</li><li>Carteira de Motorista B.</li><li>Disponibilidade para viajar, responsabilidade, comprometimento, disponibilidade.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/isqbrasilcarreiras/33/inspetor]]></applyUrl>
+    <companyId><![CDATA[9424481]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[6ba6b0f3-4caa-4fc6-b88e-4c01e9d43844]]></partnerJobId>
