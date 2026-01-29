@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 29 Jan 2026 14:15:34 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Jan 2026 15:13:53 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[2750]]></expectedJobCount>
+  <expectedJobCount><![CDATA[2756]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -725,6 +725,63 @@
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b93387d5-4921-4eaa-889d-a9fa79a4eedc]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[Pessoa Desenvolvedora .NET Especialista (IA)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Ser referência no desenvolvimento e sustentação de funcionalidades de software, de modo que não apenas agregue valor ao produto como também oriente e capacite o time de desenvolvimento, garantindo a satisfação do cliente e a evolução técnica do time de desenvolvimento do produto de atuação.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver soluções técnicas de alta complexidade, transformando requisitos em software robusto, seguro e escalável, alinhado às necessidades do negócio;</li><li>Atuar na análise e evolução da arquitetura de software, assegurando organização consistência, performance e eficiência de seus componentes;</li><li>Garantir a aplicação de boas praticas de engenharia de software, incluindo testes automatizados, versionamento, revisões de código, documentação e integração contínua;</li><li>Detalhar requisitos técnicos complexos em colaboração com clientes e áreas envolvidas, traduzindo demandas de negócio em soluções viáveis;</li><li>Propor inovações aplicáveis ao roadmap do produto, realizando provas de conceito e estudos de caso que aumentem competitividade, eficiência e qualidade da solução;</li><li>Participar de discussões táticas e operacionais, contribuindo na definição de metas anuais estudos de viabilidade técnica e escolhas estratégicas de tecnologia;</li><li>Orientar, capacitar e apoiar o time de desenvolvimento na definição de soluções de negócio arquitetura e design, promovendo disseminação de conhecimento e boas práticas;</li><li>Criar frameworks, componentes reutilizáveis e padrões técnicos quando necessário para acelerar qualificar desenvolvimento;</li><li>Definir, revisar e aprimorar processos de engenharia que suportem os objetivos de curto e médio prazo da área de atuação;</li><li>Assegurar o cumprimento das metas do time, influenciando práticas, priorização de tarefas e promovendo evolução contínua da qualidade técnica;</li><li>Contribuir em fóruns e discussões sobre inovação e tendências de mercado, disseminando conhecimento e fortalecendo a cultura de aprendizado constante;</li><li>Atuar diretamente na resolução de incidentes, investigando causas raiz e implementando melhorias que aumentem a confiabilidade, escalabilidade e eficiência da plataforma.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com .NET;</li><li>APIs REST;</li><li>Mensageria (RabbitMQ, Pub/Sub ou equivalente);</li><li>Oracle e NoSQL (PostgreSQL, Elastic, MongoDB ou equivalente);</li><li>Testes Automatizados;</li><li>DevOps (CI/CD, Docker, Git/GitFlow, Gitlab, Jenkins ou similar);</li><li>Cache (Redis);</li><li>Processamento distribuído (Hadoop, Spark);</li><li>Pipelines de dados/streaming (Apache Beam, Dataflow, Airflow);</li><li>Provedores de Cloud (GCP, AWS, Azure, equivalentes);</li><li>Design Patterns;</li><li>Segurança no desenvolvimento (DevSecOps, outros);</li><li>Angular (incluindo Angular 18+), Typescript (tipagem estática e POO), Javascript avançado, HTML e CSS;</li><li>Node.js básico (para ferramentas de build e execução de apps);</li><li>Experiência em otimização de performance em grandes aplicações front-end;</li><li>Métodos ágeis.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8481/pessoa-desenvolvedora-net-especialista-ia]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0d9926bd-3904-4d94-9f61-c57c7de0603c]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[Pessoa Desenvolvedora .NET Especialista (IA)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Ser referência no desenvolvimento e sustentação de funcionalidades de software, de modo que não apenas agregue valor ao produto como também oriente e capacite o time de desenvolvimento, garantindo a satisfação do cliente e a evolução técnica do time de desenvolvimento do produto de atuação.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver soluções técnicas de alta complexidade, transformando requisitos em software robusto, seguro e escalável, alinhado às necessidades do negócio;</li><li>Atuar na análise e evolução da arquitetura de software, assegurando organização consistência, performance e eficiência de seus componentes;</li><li>Garantir a aplicação de boas praticas de engenharia de software, incluindo testes automatizados, versionamento, revisões de código, documentação e integração contínua;</li><li>Detalhar requisitos técnicos complexos em colaboração com clientes e áreas envolvidas, traduzindo demandas de negócio em soluções viáveis;</li><li>Propor inovações aplicáveis ao roadmap do produto, realizando provas de conceito e estudos de caso que aumentem competitividade, eficiência e qualidade da solução;</li><li>Participar de discussões táticas e operacionais, contribuindo na definição de metas anuais estudos de viabilidade técnica e escolhas estratégicas de tecnologia;</li><li>Orientar, capacitar e apoiar o time de desenvolvimento na definição de soluções de negócio arquitetura e design, promovendo disseminação de conhecimento e boas práticas;</li><li>Criar frameworks, componentes reutilizáveis e padrões técnicos quando necessário para acelerar qualificar desenvolvimento;</li><li>Definir, revisar e aprimorar processos de engenharia que suportem os objetivos de curto e médio prazo da área de atuação;</li><li>Assegurar o cumprimento das metas do time, influenciando práticas, priorização de tarefas e promovendo evolução contínua da qualidade técnica;</li><li>Contribuir em fóruns e discussões sobre inovação e tendências de mercado, disseminando conhecimento e fortalecendo a cultura de aprendizado constante;</li><li>Atuar diretamente na resolução de incidentes, investigando causas raiz e implementando melhorias que aumentem a confiabilidade, escalabilidade e eficiência da plataforma.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com .NET;</li><li>APIs REST;</li><li>Mensageria (RabbitMQ, Pub/Sub ou equivalente);</li><li>Oracle e NoSQL (PostgreSQL, Elastic, MongoDB ou equivalente);</li><li>Testes Automatizados;</li><li>DevOps (CI/CD, Docker, Git/GitFlow, Gitlab, Jenkins ou similar);</li><li>Cache (Redis);</li><li>Processamento distribuído (Hadoop, Spark);</li><li>Pipelines de dados/streaming (Apache Beam, Dataflow, Airflow);</li><li>Provedores de Cloud (GCP, AWS, Azure, equivalentes);</li><li>Design Patterns;</li><li>Segurança no desenvolvimento (DevSecOps, outros);</li><li>Angular (incluindo Angular 18+), Typescript (tipagem estática e POO), Javascript avançado, HTML e CSS;</li><li>Node.js básico (para ferramentas de build e execução de apps);</li><li>Experiência em otimização de performance em grandes aplicações front-end;</li><li>Métodos ágeis.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8473/pessoa-desenvolvedora-net-especialista-ia]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ce7b1394-5f67-4fc9-b471-ebebe8a0810e]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[Arquitetura de Software (IA)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar como referência técnica do time, liderando o desenvolvimento e a evolução de soluções de software, dados e integração com IA, garantindo qualidade técnica, sustentabilidade arquitetural e entrega contínua de valor ao negócio. Conduzir decisões técnicas no dia-a-dia, apoiar o crescimento do time e assegurar que as soluções sejam escaláveis, observáveis e alinhadas à estratégia do segmento. Ser o elo de ligação entre o segmento de supermercados e o time de IDeIA da TOTVS, apoiando nas discussões para evoluir o framework de IA da TOTVS com o olhar para o que é essencial para o segmento de supermercados.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Liderar tecnicamente o time de desenvolvimento, apoiando decisões de design, arquitetura e implementação;</li><li>Atuar de forma hands on no desenvolvimento de soluções complexas, mantendo proximidade com o código e com os problemas reais do produto;</li><li>Traduzir requisitos funcionais e não funcionais em soluções técnicas viáveis, avaliando alternativas e escolhendo as soluções tecnológicas mais adequadas, considerando trade offs de qualidade, prazo, custo, escalabilidade, segurança e impacto operacional;</li><li>Contribuir ativamente para a evolução da arquitetura das aplicações, dados e integrações, garantindo consistência, escalabilidade e manutenibilidade;</li><li>Garantir a adoção de boas práticas de engenharia de software, como testes automatizados, versionamento, revisão de código, documentação e integração contínua;</li><li>Apoiar a construção e evolução de pipeline de dados, integrações assíncronas e soluções que se conectem a modelos de IA quando aplicável;</li><li>Participar de discussões técnicas com produto, dados e áreas parceiras, apoiando decisões táticas e operacionais;</li><li>Identificar oportunidades de melhoria técnica e propor soluções que aumentem eficiência, confiabilidade e qualidade do produto;</li><li>Criar ou evoluir componentes reutilizáveis, padrões e frameworks/plataforma quando necessário para acelerar o desenvolvimento;</li><li>Apoiar a priorização técnica do backlog, sinalizando riscos, dependências e impactos arquiteturais;</li><li>Contribuir para a evolução dos processos de engenharia, alinhados aos objetivos de curto e médio prazo da área;</li><li>Assegurar o cumprimento das metas do time, influenciando práticas, priorização de tarefas e promovendo evolução contínua da qualidade técnica.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com .NET e Oracle;</li><li>Arquitetura de software moderna, cloud native, microsserviços e orientada a eventos;</li><li>APIs REST e boas práticas de API First;</li><li>Design Patterns, Clean Code e princípios de engenharia de software;</li><li>Segurança no desenvolvimento e práticas de DevSecOps;</li><li>Mensageria, RabbitMQ ou equivalentes;</li><li>IA e LLMs, uso via API, prompts, RAG e integração de IA em aplicações;</li><li>Noções de pipelines de dados, Airflow, Beam ou equivalentes;</li><li>DevOps: CI, CD, Git, GitFlow, Docker, Kubernetes e infraestrutura como código;</li><li>Provedores de cloud, GCP, AWS ou Azure;</li><li>Observabilidade (logs estruturados, métricas e traces);</li><li>Atuação em ambientes distribuídos como foco em confiabilidade (troubleshooting em produção);</li><li>Metodologias ágeis;</li><li>Experiência como referência técnica, arquiteto ou liderança técnica de times.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8474/arquitetura-de-software-ia]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -2222,6 +2279,25 @@ implementado no produto de software<br /><br /><br /><b>Requisitos e qualificaç
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você irá desenvolver e sustentar funcionalidades do nosso produto na área de PDV agregando valor e garantindo satisfação e qualidade ao nosso cliente. Trabalhando em um time ágil, dinâmico e com autonomia!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Manter e evoluir soluções técnicas de média e alta complexidade, com baixo nível de supervisão e pouco apoio, através do desenvolvimento de requisitos de softwares utilizando-se das tecnologias envolvidas no projeto;• Conhecer a fundo a arquitetura do software e ser capaz de atuar nela através da análise de seus componentes, organização e funcionalidades;• Criar testes de alta complexidade, sejam estes manuais ou automatizados, que cubram o comportamento desejado dos componentes técnicos desenvolvidos utilizando os requisitos e ferramentas de testes;• Documentar as etapas de desenvolvimento realizando o registro do desenvolvimento nas ferramentas de versionamento e documentação;• Orientar e trabalhar com o time de desenvolvimento para encontrar soluções de negócio, arquitetura e desenho através da comunicação e trocas de conhecimento;• Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados;• Orientar desenvolvedores de menor senioridade apoiando suas dúvidas, disseminando seu conhecimento, desenhando e arquitetando soluções ou indicando documentação de apoio;• Detalhar requisitos de média e alta complexidade através do contato com clientes e áreas envolvidas no projeto/atendimento;• Utiliza frameworks já definidos para o desenvolvimento de soluções.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimento em Delphi 2007, XE10, Kylix, Lazarus;</li><li>Mínimo 4 anos de experiência com desenvolvimento em Delphi;</li><li>SQL avançado;</li><li>Conhecimento intermediário em Linux;</li><li>Conhecimento intermediário em Java;</li><li>Desenvolvimento de web services e serviços;</li><li>Desenvolvimento de servidores TCP, UDP;</li><li>Banco de dados Oracle 10g, 11g, 2c e MySQL;</li><li>Integração com equipamento de automação.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8269/pessoa-desenvolvedora-delphi-senior]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[759bccdc-00fb-4682-b5b7-15e07873128d]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[Pessoa Executiva de Vendas Farmer Sênior | Agro]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Garantir o cumprimento das metas estabelecidas pela TOTVS por intermédio de uma eficiente prospecção de mercado e domínio na gestão de sua carteira de clientes, assegurando o seu maior nível de satisfação.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br />• Gerir sua carteira de clientes e construir um relacionamento visando rentabilizar, blindar e elevar o nível de satisfação da base TOTVS em relação às responsabilidades do AR nos indicadores de NPS (Farmer);<br />• Elaborar e executar o plano tático alinhado ao planejamento estratégico da DRG e dos resultados de vendas no segmento/região de atuação;<br />• Elaborar propostas no CRM, negociando e fechando os contratos com o cliente/prospect;<br />• Gerir o funil de vendas, identificando e qualificando oportunidades de negócio, a fim de garantir o atingimento das metas estabelecidas pela TOTVS;<br />• Acompanhar e manter todos os dados relativos à trajetória dos clientes (empresas/oportunidades) atualizados no CRM, tais como: registro de visitas comerciais, follow up de atividades e fatos relevantes;<br />• Antecipar e diagnosticar demandas de clientes e prospects, conhecendo as necessidades e tendências do mercado/segmento;<br />• Facilitar a resolução de demandas dos clientes e prospects, articulando com profissionais ou áreas internas responsáveis;<br />• Atender os leads gerados pela área de Negócios e Prospecção no ciclo completo de vendas;<br />• Atuar como facilitador para a solução das demandas dos clientes e prospects;<br />• Realizar a interface com as áreas internas da TOTVS;<br />• Registar no CRM e comunicar a área de Estratégia Comercial/Operações e Segmentos, informações relevantes sobre mercado/carteira;<br />• Acompanhar o ciclo de entrega dos produtos e serviços comercializados pela TOTVS, apoiando nas soluções dos eventuais problemas;<br />• Realizar o pós-venda junto aos clientes TOTVS, garantindo a satisfação e retenção do cliente, além de gerar novas oportunidades;<br />• Report de pipeline e forecast no CRM, utilizando a metodologia do TOTVS Vende e garantindo visibilidade do potencial de negócios;<br />• Informar e garantir a participação dos seus clientes/prospects em eventos/treinamentos;<br />• Mentorar profissionais do AR com o objetivo de compartilhar conhecimentos e colaborar para o desenvolvimento da equipe;<br />• Estar atualizado com as tendências do segmento de atuação, buscando novos modelos de negócios pautados em tecnologia, através de benchmarks, palestras do segmento, cursos e outros;<br />• Atuar de forma consultiva em abordagens comerciais por meio de soluções segmentadas conforme  área de atuação, potencializando a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS.<br />Requisitos e qualificações<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo; </li><li><b><i>Conhecimento e vivência no segmento de Agronegócio</i></b>; </li><li>Vivência com vendas complexas e consultivas B2B de software de tecnologia e ERP;</li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li>Habilidade de vendas e negociação; </li><li>Organização e proatividade;</li><li>Disponibilidade para atuar de forma híbrida. </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8235/pessoa-executiva-de-vendas-farmer-senior-agro]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
     <state><![CDATA[SP]]></state>
@@ -13140,7 +13216,7 @@ Sólida compreensão da legislação trabalhista.</li>]]></description>
     <company><![CDATA[CFL Inc.]]></company>
     <title><![CDATA[Eletrotécnico - Florianópolis/SC]]></title>
     <posterEmail><![CDATA[giovanna.guimaraes@cfl.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto para dar o próximo passo na sua carreira? Trabalhar conosco significa contribuir para projetos desafiadores e impactantes, onde suas habilidades serão valorizadas e seu talento, reconhecido. Se você é motivado, proativo e tem a ambição de se destacar na área, não perca a chance de transformar seu potencial em resultados concretos. Acreditamos que a diversidade de experiências e ideias é fundamental para a inovação. Junte-se a nós e faça a diferença!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhamento do andamento dos serviços de elétrica nas obras; </li><li>Auxiliar na fiscalização da execução das instalações elétricas; </li><li>Auxiliar no orçamento e levantamento de materiais; </li><li>Auxiliar na conferência entre projeto e execução; </li><li>Auxiliar no gerenciamento e supervisão;</li><li>Providenciar pedidos de compra; </li><li>Auxiliar na análise de projetos elétricos das obras; </li><li>Acompanhar nos canteiros de obras a execução da infraestrutura elétrica assegurando a qualidade da entrega dos produtos e serviços contratados. </li><li>Realizar emissão de laudos técnicos e medições elétricas; </li><li>Auxiliar na fiscalização da manutenção, quando necessário; </li><li>Aplicar as regras, normas e procedimentos de segurança e qualidade da empresa.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Técnico em eletrotécnica, engenharia elétrica ou cursando engenharia elétrica</li></ul><br /><br /><br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional para compor nosso time das obras em Santa Catarina.<br /><br /><br /><b> PARA SE CANDIDATAR:</b> Envie seu currículo para <b>curriculosconfianza@gmail.com</b><br /><b>Assunto:</b> Eletrotécnico - Florianópolis/SC CFL<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhamento do andamento dos serviços de elétrica nas obras; </li><li>Auxiliar na fiscalização da execução das instalações elétricas; </li><li>Auxiliar no orçamento e levantamento de materiais; </li><li>Auxiliar na conferência entre projeto e execução; </li><li>Auxiliar no gerenciamento e supervisão;</li><li>Providenciar pedidos de compra; </li><li>Auxiliar na análise de projetos elétricos das obras; </li><li>Acompanhar nos canteiros de obras a execução da infraestrutura elétrica assegurando a qualidade da entrega dos produtos e serviços contratados. </li><li>Realizar emissão de laudos técnicos e medições elétricas; </li><li>Auxiliar na fiscalização da manutenção, quando necessário; </li><li>Aplicar as regras, normas e procedimentos de segurança e qualidade da empresa.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Técnico em eletrotécnica, engenharia elétrica ou cursando engenharia elétrica</li></ul><br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/clfinc/132/eletrotecnico-florianopolis-sc]]></applyUrl>
     <companyId><![CDATA[2898773]]></companyId>
     <city><![CDATA[Florianópolis]]></city>
@@ -14316,25 +14392,6 @@ de vendas ou marketing; <br />- Boa comunicação e habilidades interpessoais.�
     <posterEmail><![CDATA[thayna.pinheiro@danacosmeticos.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Na Dana Cosméticos, o(a) Analista Contábil Júnior será responsável por apoiar as rotinas contábeis e fiscais da companhia, assegurando a exatidão das informações contábeis, com foco na apuração de tributos diretos, conciliação de impostos e conformidade com a legislação vigente. Sua atuação será fundamental para a confiabilidade dos fechamentos mensais e para o suporte à tomada de decisões gerenciais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a apuração de tributos diretos (IRPJ e CSLL) no regime de Lucro Real, garantindo conformidade legal.									</li><li>Atender às demandas da área contábil, conforme direcionamento da liderança.									</li><li>Elaborar e revisar as obrigações acessórias ECD e ECF, assegurando a entrega dentro dos prazos legais.									</li><li>Executar a conciliação contábil de contas de impostos (ativos, passivos e resultado), incluindo ICMS, IPI, PIS, COFINS, CSRF, INSS, IRRF e ISS. Confrontar valores apurados pela área Fiscal com os lançamentos contábeis, garantindo consistência das informações.									</li><li>Prestar suporte a auditorias externas e fiscalizações, organizando e disponibilizando documentações e informações solicitadas.							</li><li>Elaborar relatórios gerenciais e notas explicativas com foco nos impactos tributários nas demonstrações financeiras.									</li><li>Apoiar a parametrização contábil de sistemas, especialmente em operações fiscais.									</li><li>Atendimento a outras demandas da área contábil, conforme solicitações da liderança.	</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior completo em Ciências Contábeis, com CRC ativo.</li><li>Experiência prévia em rotinas contábeis e vivência em atendimento a auditorias externas.</li><li>Domínio no sistema SAP (EHP8 ou HANA).</li><li>Domínio no Pacote Office (nível intermediário).</li></ul><br /><br /><b>Benefícios</b><br /><b><br /></b><br /><ul><li>Vale refeição.</li><li>Vale alimentação.</li><li>Vale transporte (opcional).</li><li>Estacionamento no local.</li><li>Convênio médico Porto Seguro.</li><li>Programa Saúde Emocional -  Orienteme.</li><li>Seguro de Vida.</li><li>PLR anual (de acordo com política interna da Empresa).</li><li>Gympass.</li><li>Desconto de 30% nas compras em nosso E-commerce.</li><li>Auxílio Educacional.</li><li>Auxílio Inglês. </li><li>Ambiente de descompressão.</li></ul><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsertimedana/77/analista-contabil-junior]]></applyUrl>
-    <companyId><![CDATA[1097927]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e381d0ad-348c-4a3f-9cee-87aad208a27a]]></partnerJobId>
-    <company><![CDATA[Dana Cosméticos]]></company>
-    <title><![CDATA[Analista Fiscal Pleno]]></title>
-    <posterEmail><![CDATA[thayna.pinheiro@danacosmeticos.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />No Grupo Dana, o Analista Fiscal Pleno é responsável por garantir a apuração correta dos tributos e o cumprimento das obrigações fiscais, assegurando a conformidade da empresa com a legislação vigente. Atuar de forma analítica e estratégica na gestão tributária, contribuindo para a mitigação de riscos, otimização de processos e suporte às decisões do negócio.<br />Reporte a Coordenação Fiscal<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Calcula e declara impostos indiretos (ICMS, IPI, PIS, COFINS, entre outros), assegurando o correto recolhimento conforme a legislação vigente.</li><li>Apura, valida e transmite obrigações fiscais estaduais e federais (SPED Fiscal, SPED Contribuições), garantindo a integridade dos dados e o cumprimento dos prazos legais.</li><li>Analisa, valida e realiza a escrituração das notas fiscais de entrada e saída, identificando divergências, controlando prazos e assegurando a correta classificação tributária.</li><li>Monitora e revisa os processos fiscais, propondo melhorias, mitigando riscos e assegurando a conformidade legal e tributária.</li><li>Presta informações e documentos aos órgãos fiscalizadores, respondendo demandas, notificações e auditorias com agilidade e precisão.</li><li>Fornece informações fiscais e tributárias aos times estratégicos e operacionais, contribuindo com a tomada de decisões e o planejamento tributário.</li><li>Elabora relatórios gerenciais e fiscais com análises de débitos, créditos e contingências, apoiando a gestão tributária da empresa.</li><li>Mantém-se constantemente atualizado sobre mudanças na legislação fiscal e reforma tributária, disseminando orientações e atualizações para as áreas impactadas.</li><li>Controla e acompanha os processos tributários e contingências fiscais, zelando pelo correto cumprimento das obrigações da empresa.</li><li>Executa atividades de suporte como organização de documentos, arquivamento, elaboração de memorandos e relatórios diversos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com apuração de tributos indiretos (ICMS, IPI, PIS, COFINS, ISS).</li><li>Conhecimento das obrigações acessórias, como SPED Fiscal, SPED Contribuições.</li><li>Domínio no sistema SAP.</li><li>Raciocínio analítico e atenção aos detalhes.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b><br /></b><br /><ul><li>Vale refeição.</li><li>Vale alimentação.</li><li>Vale transporte (opcional).</li><li>Estacionamento no local.</li><li>Convênio médico Porto Seguro.</li><li>Programa Saúde Emocional -  Orienteme.</li><li>Seguro de Vida.</li><li>PLR anual (de acordo com política interna da Empresa).</li><li>Gympass.</li><li>Desconto de 30% nas compras em nosso E-commerce.</li><li>Auxílio Educacional.</li><li>Auxílio Inglês. </li><li>Ambiente de descompressão.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsertimedana/74/analista-fiscal-pleno]]></applyUrl>
     <companyId><![CDATA[1097927]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -37465,6 +37522,44 @@ O trabalho combina relacionamento próximo, leitura de dados e entendimento téc
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[89528916-e758-4bfc-9755-01ff9795ed60]]></partnerJobId>
+    <company><![CDATA[Agência Incandescente]]></company>
+    <title><![CDATA[ESTAGIÁRIO DE MÍDIA E PERFORMANCE]]></title>
+    <posterEmail><![CDATA[camila.nistal@incandescente.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Apoiar o time de marketing e performance na execução e monitoramento de campanhas de mídia paga, com foco em aprendizado técnico e desenvolvimento profissional.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Auxiliar na configuração de campanhas de mídia paga em Google Ads, Meta Ads (Facebook e Instagram) e LinkedIn Ads.</li><li>Apoiar em ajustes simples como orçamento, públicos, criativos, palavras-chave e extensões.</li><li>Acompanhar indicadores de performance (cliques, CPC, conversões, CPA).</li><li>Apoiar no acompanhamento diário das campanhas e no levantamento de dados para análises.</li><li>Apoiar na atualização de relatórios e dashboards de performance.</li><li>Organizar informações e aprendizados por cliente/campanha.</li><li>Trabalhar em conjunto com os times de criação, conteúdo, inbound marketing e planejamento para garantir campanhas alinhadas.</li><li>Participar de treinamentos internos, estudos de caso e rituais do time de marketing.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Estar cursando Marketing, Publicidade e Propaganda, Comunicação, Administração ou áreas correlatas.</li><li>Interesse por tráfego pago, marketing digital e dados.</li><li>Conhecimento básico (acadêmico ou prático) em:</li><li>Google Ads e/ou Meta Ads</li><li>Métricas de marketing digital (CTR, CPC, conversão, CPA).<br /><br /></li><li>Boa organização e vontade de aprender.</li><li>Boa comunicação escrita e verbal.</li><li>Disponibilidade para atuar no modelo híbrido (3x presenciais).</li>Residir ou ter fácil acesso à região do ABC – SP.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/incandescente/12/estagiario-de-midia-e-performance]]></applyUrl>
+    <companyId><![CDATA[15244553]]></companyId>
+    <city><![CDATA[São Bernardo do Campo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[a2ae2d54-e10e-4f70-98f1-fb47d6e95aaf]]></partnerJobId>
+    <company><![CDATA[Agência Incandescente]]></company>
+    <title><![CDATA[Analista de Inbound Marketing (especialista RD Station)]]></title>
+    <posterEmail><![CDATA[camila.nistal@incandescente.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa Analista de Inbound Marketing para fortalecer nossa equipe e ajudar nossos clientes a alcançarem resultados estratégicos. Você será responsável por atuar estrategicamente na operação de inbound marketing dos nossos clientes, executando e acompanhando suas campanhas dentro da plataforma RD Station, além de conduzir a implementação técnica das ferramentas RD (Marketing, CRM, Conversas, entre outras), garantindo que cada cliente tenha uma jornada inicial de sucesso.Essa vaga mescla:<br />  atuação estratégica e prática em inbound marketing;<br />  onboarding e suporte técnico na implementação das ferramentas RD Station;<br />  análise de dados e performance para tomada de decisão.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir o diagnóstico inicial e alinhamento de expectativas com o cliente (briefing de implementação);<br /><br /></li><li>Mapear o cenário de marketing do cliente, identificando objetivos, maturidade e oportunidades;<br /><br /></li><li>Configurar e implementar fluxos de automação, formulários, landing pages, dashboards na RD Station e integrações básicas nativas da plataforma;<br /><br /></li><li>Acompanhar semanalmente os clientes em reuniões e por follow-ups, garantindo evolução na jornada de inbound e nas ativações da ferramenta;<br /><br /></li><li>Construir e executar estratégias de inbound marketing com foco em geração de leads, nutrição e conversão;<br /><br /></li><li>Executar campanhas de e-mail marketing e pop-ups com boas práticas de copywriting e segmentação;<br /><br /></li><li>Monitorar KPIs e gerar relatórios de desempenho com insights para otimização contínua;<br /><br /></li><li>Garantir a documentação das etapas de implementação e o checklist técnico de entrega de cada cliente;<br /><br /></li><li>Educar o cliente para uso estratégico das ferramentas RD, resolvendo dúvidas técnicas e orientando em boas práticas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência com RD Station Marketing e RD CRM;<br /><br /></li><li>Experiência prática em inbound marketing e automações;<br /><br /></li><li>Boa comunicação escrita e verbal;<br /><br /></li><li>Organização, autonomia e gestão de múltiplos projetos simultâneos;<br /><br /></li><li>Morar na região do ABC em São Paulo ou proximidades.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/incandescente/11/analista-de-inbound-marketing-especialista-rd-station]]></applyUrl>
+    <companyId><![CDATA[15244553]]></companyId>
+    <city><![CDATA[São Bernardo do Campo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4e239ce8-c46b-4f55-aa03-251bc9e64e5c]]></partnerJobId>
     <company><![CDATA[3R Indústria]]></company>
     <title><![CDATA[Auxiliar de Manutenção]]></title>
@@ -45368,25 +45463,6 @@ Organização e autonomia para gerir sua rotina de visitas e resultados.<br /></
     <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Responsável por executar atividades de manutenção mecânica, incluindo análise de Ordens de Serviço, identificação de defeitos, execução de serviços em motores, bombas, válvulas e equipamentos diversos. Realiza montagens, regulagens e trocas de peças de baixa complexidade, participa de testes e inspeções, e contribui para melhorias visando redução de custos e aumento da produtividade.<br /><br /><b>Horário</b>: Seg. a Sex. 07:30 às 17:00 com 1:30 refeição / Sáb. 07:30 às 11:30<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Analisar as ocorrências das OS (Ordens de Serviços) referentes à necessidade de execução de serviços em manutenção mecânica, estabelecendo prioridades.</li><li>Auxiliar na elaboração do pedido de suprimentos para a área de manutenção mecânica.</li><li>Auxiliar na identificação de defeitos e/ou anormalidades mecânicas, por meio do registro dos resultados de inspeções e testes.</li><li>Avaliar junto à coordenação melhorias de funcionamento, manutenção e instalação dos equipamentos, visando reduzir o custo de manutenção e aumentar a produtividade operacional.</li><li>Executar atividades relativas à área de manutenção mecânica, realizando serviços em motores, bombas, redutores, válvulas e equipamentos em geral da estação.</li><li>Executar montagens e regulagens mecânicas em máquinas, equipamentos e estruturas de baixa complexidade, de acordo com o planejamento prévio e supervisão direta.</li><li>Identificar os materiais necessários para a execução dos serviços e solicitar ao Coordenador/Encarregado da área.</li><li>Participar de testes em máquinas e equipamentos, coletando e consolidando dados e informações sobre o funcionamento.</li><li>Realizar a troca de partes e de peças de baixa complexidade, de acordo com as diretrizes do plano de manutenção, desenhos e croquis.</li><li>Executar pequenos reparos em soldagem e confecção de peças de baixa complexidade.</li><li>Operar equipamento de oxicorte (maçarico).</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação obrigatória:</b> Ensino Técnico Completo<br /><b>Áreas:</b> Técnico em Mecânica, Manutenção Industrial, Automação Industrial, Eletrotécnica ou áreas afins;<br /><br /><br /><b>Requisitos:</b><br /><ul><li>Carteira de habilitação, categoria "B", vigente;</li></ul><br /><br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/258/mecanico-de-manutencao-jr]]></applyUrl>
-    <companyId><![CDATA[36870042]]></companyId>
-    <city><![CDATA[Maceió]]></city>
-    <state><![CDATA[AL]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[0cd602d4-a5b8-4bc5-b36a-2efa1c001eb7]]></partnerJobId>
-    <company><![CDATA[GS Inima Brasil]]></company>
-    <title><![CDATA[Estágio (Segurança do Trabalho)]]></title>
-    <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Apoio às rotinas de segurança do trabalho, incluindo prevenção de acidentes, inspeções, treinamentos, controle de EPIs/EPCs e suporte às atividades da CIPA e Brigada de Incêndio.<br /><br /><b>Horário: </b>Disponibilidade de 6 horas;<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhar atividades de baixa e média complexidade da área;</li><li>Apoiar nas ações de redução de riscos de ocorrência de acidentes de trabalho;</li><li>Acompanhar a aplicação de treinamentos, inspeções em máquinas, equipamentos , preventivos de  incêndios e demais instalações;</li><li>Apoiar nas acompanhas e as atividades da CIPA e Brigada de Incêndio;</li><li>Ajudar no controlar o uso adequado de EPCs e EPIs.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação:</b> Técnico Cursando<b>Áreas:</b> Técnico em Segurança;<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/243/estagio-seguranca-do-trabalho]]></applyUrl>
     <companyId><![CDATA[36870042]]></companyId>
     <city><![CDATA[Maceió]]></city>
     <state><![CDATA[AL]]></state>
@@ -55981,6 +56057,26 @@ estruturas cenográficas complexas);</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[a8ea4f1c-9944-4a62-9230-42553f19e72a]]></partnerJobId>
+    <company><![CDATA[BCP]]></company>
+    <title><![CDATA[Analista de Engenharia (Orçamento)]]></title>
+    <posterEmail><![CDATA[ingrid.mendes@bcpengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Analista de Orçamento</strong> detalhista, comprometido(a) e com visão estratégica para atuar na elaboração e análise de orçamentos de obras. Esse papel é essencial para assegurar precisão nos custos, apoiar tomadas de decisão e contribuir para o sucesso dos projetos.<br />
+Se você gosta de números, análises e quer atuar em uma empresa que preza pela transparência e qualidade em suas entregas, essa vaga pode ser ideal para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Elaborar e analisar orçamentos de obras;</li><li>Realizar levantamento de quantitativos e preços de mercado;</li><li>Elaborar propostas técnicas e comerciais;</li><li>Desenvolver cronogramas físico-financeiros;</li><li>Acompanhar custos e controlar a execução orçamentária;</li><li>Elaborar aditivos contratuais;</li><li>Produzir relatórios gerenciais, incluindo Curva ABC e Histogramas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior completo em Engenharia Civil;</li><li>Conhecimento intermediário em AutoCAD 2D;</li><li>Pacote Office avançado;</li><li>Leitura e interpretação avançada de projetos técnicos.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bcpcarreira/10/analista-de-engenharia-orcamento]]></applyUrl>
+    <companyId><![CDATA[28340672]]></companyId>
+    <city><![CDATA[Fortaleza]]></city>
+    <state><![CDATA[CE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[392a6f18-fa46-4ba8-849d-6431a2230d2c]]></partnerJobId>
     <company><![CDATA[HRCA Consultoria]]></company>
     <title><![CDATA[Analista de Planejamento Júnior]]></title>
@@ -62220,6 +62316,25 @@ Desejável familiaridade com o sistema LIMS e rotinas de almoxarifado técnico e
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[b3dfb43d-12a0-4fd0-b17f-2960f7240257]]></partnerJobId>
+    <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
+    <title><![CDATA[Resgatista nível 1 - Ibirité/ MG]]></title>
+    <posterEmail><![CDATA[joyce.rh@ctaengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Candidate-se e venha descobrir como você pode transformar vidas de maneira significativa. Aguarde o nosso contato!<br /><br />Contrato de trabalho temporário, para atender parada de manutenção. <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento nas frentes de trabalho;</li><li>Profissional de salvamento e resgate equipados em busca, salvamento e resgate em espaço confinado e altura, possibilitando o atendimento nas frentes de trabalho.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação:<ul><li>Curso Técnico em Segurança do Trabalho (reconhecido pelo MEC);</li></ul><br />Requisitos:<ul><li>Formação em resgates simples N1 e complexos, primeiros socorros e alpinismo industrial (conforme ABNT NBR 15475);</li><li>Certificado NR-33 (desejável)</li><li>Residir em Macaé/RJ (<b>não fornecemos moradia</b>)</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/28/resgatista-nivel-1-ibirite-mg]]></applyUrl>
+    <companyId><![CDATA[14023532]]></companyId>
+    <city><![CDATA[Macaé]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[48ae0d5e-114a-465f-b39a-8dc509796a1b]]></partnerJobId>
     <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
     <title><![CDATA[ASSISTENTE DE RH - VAGA AFIRMATIVA PCD]]></title>
@@ -62956,28 +63071,6 @@ Conhecimento em desenvolvimento e validação de metodologias analíticas.
 </li>
 </ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/yosencarreiras/10/analista-de-p-d]]></applyUrl>
-    <companyId><![CDATA[20475456]]></companyId>
-    <city><![CDATA[Ribeirão Preto]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[d071c469-0df2-4130-8ae8-6be1a65c3cc6]]></partnerJobId>
-    <company><![CDATA[Yosen]]></company>
-    <title><![CDATA[Nutricionista Visitador(a) - Ribeirão Preto e Franca]]></title>
-    <posterEmail><![CDATA[catharina.gil@yosen.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Gerar demanda e promover produtos nutracêuticos por meio de
-visitações técnicas a prescritores e pontos de venda, fortalecendo relacionamentos
-estratégicos, apoiando o time comercial e contribuindo para o aumento de vendas e
-expansão de mercado da Yosen.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar visitações presenciais em médicos e estabelecimentos alinhados ao planejamento regional.</li><li>Apresentar portfólio, diferenciais técnicos e aplicações dos produtos da Yosen.</li><li>Realizar treinamentos pontuais de produtos ou argumentação para equipes de PDV, quando necessário.</li><li>Dar suporte técnico-comercial aos representantes atuantes em campo.</li><li>Acompanhar solicitações, oportunidades e evolução da carteira de prescritores.</li><li>Registrar visitas, follow-ups e informações de mercado no CRM.</li><li>Participar de eventos técnicos, feiras e ativações (inclusive finais de semana, quando necessário).</li><li>Elaborar relatórios de visitas e acompanhamento de prescrições.</li><li>Manter postura consultiva e orientada à educação nutricional.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Nutrição, Farmácia ou áreas correlatas.</li><li>CNH ativa e veículo próprio.</li><li>Disponibilidade para viagens e eventos.</li><li>Facilidade para apresentações técnicas.</li><li>Boa comunicação oral e escrita.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/yosencarreiras/8/nutricionista-visitador-a-ribeirao-preto-e-franca]]></applyUrl>
     <companyId><![CDATA[20475456]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
     <state><![CDATA[SP]]></state>
@@ -69169,6 +69262,48 @@ Responsabilidade, pontualidade e atenção.</li>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[923c96be-5b31-4160-be90-cb493a910c9c]]></partnerJobId>
+    <company><![CDATA[MACHETO]]></company>
+    <title><![CDATA[Coordenador de Logística]]></title>
+    <posterEmail><![CDATA[dho@macheto.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Na <strong>Macheto</strong>, acreditamos que processos bem estruturados movem pessoas, negócios e resultados. Somos uma empresa em constante evolução, com um time comprometido, colaborativo e orientado à melhoria contínua. Valorizamos quem assume responsabilidades, pensa soluções e faz acontecer no dia a dia.Estamos em busca de um(a) <strong>Coordenador(a) de Logística</strong> que queira crescer junto com a gente, atuando de forma estratégica e prática na organização das operações, gestão da equipe e otimização dos processos logísticos, contribuindo diretamente para a eficiência e os resultados da empresa.<br />
+
+Se você gosta de desafios, organização e de construir soluções junto com o time, a <strong>Macheto</strong> pode ser o seu lugar.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Principais atribuições:</strong>
+<ul>
+<li>
+Coordenar e acompanhar as operações logísticas (recebimento, armazenagem, separação, expedição e transporte);
+</li>
+<li>
+Planejar e otimizar rotas, prazos e custos logísticos, garantindo eficiência operacional;
+</li>
+<li>
+Gerir a equipe de logística, promovendo organização, engajamento e desenvolvimento;
+</li>
+<li>
+Monitorar indicadores de desempenho (KPIs), propondo melhorias contínuas nos processos;
+</li>
+<li>
+Assegurar o cumprimento de prazos, padrões de qualidade, segurança e legislação aplicável;
+</li>
+<li>
+Atuar de forma integrada com as áreas comercial, administrativa e financeira;
+</li>
+<li>
+Gerenciar fornecedores, transportadoras e parceiros logísticos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino superior completo em:<ul><li>Logística;</li><li>Administração;</li><li>Engenharia de Produção;</li><li>Áreas correlatas.</li></ul><br /><br />Conhecimento Sólido em:<br /><br /><ul><li>Processos logísticos end-to-end;</li><li>Indicadores de desempenho (KPIs);</li><li>Gestão de Pessoas;</li><li>Excel intermediário a avançado.</li></ul><br /><br /><br />Experiência comprovada em Logística<br /><ul><li>Operações de médio porte;</li><li>Recebimento, movimentação, armazenagem, separação e expedição;</li><li>Distribuição e transporte.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/macheto/5/coordenador-de-logistica]]></applyUrl>
+    <companyId><![CDATA[98223252]]></companyId>
+    <city><![CDATA[Joinville]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[63b4a498-d1f7-461e-99ae-30383b799cc4]]></partnerJobId>
