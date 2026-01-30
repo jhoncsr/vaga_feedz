@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 30 Jan 2026 20:18:28 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Jan 2026 21:15:46 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[2775]]></expectedJobCount>
+  <expectedJobCount><![CDATA[2773]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -1274,6 +1274,25 @@ Scrum Fundamentals.<br />]]></description>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Goiânia]]></city>
     <state><![CDATA[GO]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[7572e71e-8310-4c87-849f-0a71562faa6c]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[Pessoa Desenvolvedora .NET/Angular Sênior]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você será responsável por desenvolver e sustentar funcionalidades de software, que agreguem valor ao produto referente ao usuário final, garantindo a satisfação do cliente dentro da área de atuação.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver soluções técnicas de alta complexidade, através do desenvolvimento de requisitos de softwares, com nível de supervisão e apoio moderado, utilizando-se das tecnologias envolvidas no projeto com foco na usabilidade do produto;</li><li>Compreender a arquitetura do software e ser capaz de atuar nela através da análise de seus componentes, organização e funcionalidades;</li><li>Criar testes, sejam estes manuais ou automatizados, que cubram o comportamento desejado dos componentes técnicos desenvolvidos utilizando os requisitos e ferramentas de testes;</li><li>Documentar as etapas de desenvolvimento realizando o registro do desenvolvimento nas ferramentas de versionamento e documentação;</li><li>Trabalhar com o time de desenvolvimento para encontrar soluções de negócio, arquitetura e desenho através da comunicação e trocas de conhecimento;</li><li>Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>No mínimo 6 anos de experiência com desenvolvimento;</li></ul><ul><li>Experiência em desenvolvimento .Net e Angular;</li><li>Experiência em desenvolvimento Web;</li><li>Experiência em desenvolvimento Windows Forms;</li><li>Conhecimento em banco de dados SQL Server e Oracle;</li><li>Conhecimento em metodologia ágil;</li><li>Conhecimento em Segurança em desenvolvimento Web;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8466/pessoa-desenvolvedora-net-angular-senior]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[MG]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -10025,6 +10044,55 @@ Inglês avançado;</li><li>Vivência em desenvolvimento, infraestrutura, operaç
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[e3bc4b78-4454-44f9-86a9-578e5ab0cef0]]></partnerJobId>
+    <company><![CDATA[adn.tech]]></company>
+    <title><![CDATA[Analista Devops]]></title>
+    <posterEmail><![CDATA[fernanda.tobio@adn.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><br />Atuar como <strong>DevOps Pleno</strong> em projetos de mobilidade digital, sendo responsável por <strong>automatizar, padronizar e evoluir pipelines, infraestrutura e práticas DevOps</strong>, garantindo <strong>segurança, escalabilidade, observabilidade e eficiência operacional</strong> em ambientes <strong>cloud, multi-ambiente e multi-equipes</strong>.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>CI/CD &amp; Automação</b><br />
+Projetar, implementar e manter pipelines CI/CD escaláveis, reutilizáveis e padronizados.<br />
+Criar templates YAML e componentes reutilizáveis no Azure DevOps.<br />
+Automatizar processos de build, testes, validações, releases e deploys.<br />
+Implementar estratégias avançadas de entrega: Blue/Green, Canary, GitOps, Progressive Delivery.<br />
+Conhecimento em pipelines multiambiente, gates, approvals, variáveis e templates. <b>Cloud (AWS &amp; Azure)</b><br />
+Projetar e manter ambientes cloud seguindo boas práticas de segurança, governança e observabilidade.<br />
+Automatizar infraestrutura com Terraform, CloudFormation ou Bicep.<br />
+Atuar na operação e manutenção de serviços como:<br />
+AWS: EKS, ECS, EC2, Lambda, CloudFront, RDS, VPC, IAM<br />
+Azure: AKS, App Services, Key Vault, Gateways, Storage <b>GitOps &amp; Argo CD</b><br />
+Implementar e gerenciar pipelines GitOps usando Argo CD.<br />
+Criar ApplicationSets, políticas de sincronização e estratégias de rollout.<br />
+Conhecimento em Helm, Kustomize e rollouts automatizados. <b>OpenShift</b><br />
+Criar e manter recursos  (Deployments, Ingress, Services, ConfigMaps, Secrets, HPA). <b>Infraestrutura como Código</b><br />
+Criar módulos Terraform reutilizáveis, padronizados e versionados.<br />
+Desenvolver bibliotecas internas de automação e provisionamento. <b>Segurança e Compliance (DevSecOps)</b><br />
+Implementar ferramentas SAST, DAST e scanners de vulnerabilidade em pipelines (Firty, Sonarqube)<br />
+Garantir governança de segredos com KeyVault, Secrets Manager ou Vault.<br />
+Aplicar hardening em containers, imagens base e pipelines. <b>Observabilidade</b><br />
+Configurar métricas, logs e dashboards (Grafana, Zabbix e DataDog).<br />
+Criar pipelines de logs e telemetria. <b>Colaboração &amp; Governança<br /></b>
+Apoiar times de desenvolvimento na adoção de padrões e templates DevOps.<br />
+Documentar boas práticas, padrões e arquitetura de automação.<br />
+Contribuir na evolução contínua do ecossistema DevOps da empresa.<br />
+Conhecimento de FinOps para direcionamento do custo<br />
+Pensamento sistêmico e orientação a automação.<br />
+Colaboração e capacidade de ensino aos demais times.<br />
+Forte comunicação técnica.<br />
+Proatividade na criação de padrões e melhoria contínua.<br />
+Facilidade para trabalhar em ambientes ágeis e multi-equipes.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida como <strong>DevOps Engineer Pleno</strong></li><li>Experiência prática com <strong>CI/CD (Azure DevOps)</strong></li><li>Forte atuação com <strong>AWS e/ou Azure</strong></li><li>Experiência com <strong>Terraform</strong> (ou outra ferramenta de IaC)</li><li>Vivência com <strong>Docker e Kubernetes</strong></li><li>Experiência com <strong>GitOps e Argo CD</strong></li><li>Conhecimento em <strong>segurança aplicada a pipelines (DevSecOps)</strong></li><li>Experiência com ferramentas de <strong>observabilidade</strong></li><li>Boa comunicação técnica e capacidade de trabalhar com múltiplos times</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/adn/78/analista-devops]]></applyUrl>
+    <companyId><![CDATA[1972]]></companyId>
+    <city><![CDATA[Jundiaí]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[1eaebe4d-c498-45a8-9df2-43863ee09c83]]></partnerJobId>
     <company><![CDATA[AFIN Assessoria Fiscal e Contábil]]></company>
     <title><![CDATA[Analista Fiscal PL]]></title>
@@ -10692,25 +10760,6 @@ Experiência com documentação técnica e funcional.</li></ul>]]></description>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[8c9de13c-ff5e-4750-85c6-210cedf2e232]]></partnerJobId>
-    <company><![CDATA[Selbetti Tecnologia]]></company>
-    <title><![CDATA[Monitor de Teleatendimento]]></title>
-    <posterEmail><![CDATA[gabrielly.araujo@selbetti.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na Selbetti, estamos mudando o mundo da tecnologia com soluções inovadoras! Nossa equipe é formada por criativos, pensadores fora da caixa e, claro, apaixonados por tecnologia. Se você está cansado do mesmo de sempre e procura um lugar onde possa brilhar, você está no lugar certo!<br /><br /><strong><em>TODAS AS NOSSAS VAGAS ESTÃO ABERTAS PARA PESSOAS COM DEFICIÊNCIA!</em></strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><b>Avaliar a qualidade dos atendimentos oferecidos</b> pela contratante pelos canais de atendimento (<b>chat, WhatsApp, e-mail e ligações</b>).</li><li><b>Pontuar e realizar as observações</b> dos atendimentos realizadas pelos operadores da contratante, através de formulários que são enviados diariamente.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino <b>médio completo.</b></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/selbetti/443/monitor-de-teleatendimento]]></applyUrl>
-    <companyId><![CDATA[428174]]></companyId>
-    <city><![CDATA[Curitiba]]></city>
-    <state><![CDATA[PR]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[cf8fcd0b-71f2-46ed-b828-6af7a49e81a6]]></partnerJobId>
     <company><![CDATA[Selbetti Tecnologia]]></company>
     <title><![CDATA[Gerente de Contas]]></title>
@@ -11110,25 +11159,6 @@ Estruturação de planos de ação e governança de processos.</li></ul>]]></des
     <companyId><![CDATA[428174]]></companyId>
     <city><![CDATA[Manaus]]></city>
     <state><![CDATA[AM]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3880b4bd-7449-40c3-a388-474f3696752f]]></partnerJobId>
-    <company><![CDATA[Selbetti Tecnologia]]></company>
-    <title><![CDATA[Auxiliar Administrativo de Digitalização Jr]]></title>
-    <posterEmail><![CDATA[gabrielly.araujo@selbetti.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na Selbetti, estamos mudando o mundo da tecnologia com soluções inovadoras! Nossa equipe é formada por criativos, pensadores fora da caixa e, claro, apaixonados por tecnologia. Se você está cansado do mesmo de sempre e procura um lugar onde possa brilhar, você está no lugar certo!<br /><br /><strong><em>TODAS AS NOSSAS VAGAS ESTÃO ABERTAS PARA PESSOAS COM DEFICIÊNCIA!</em></strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Preparação, digitalização e indexação de documentos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimento básicos de TI.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/selbetti/471/auxiliar-administrativo-de-digitalizacao-jr]]></applyUrl>
-    <companyId><![CDATA[428174]]></companyId>
-    <city><![CDATA[Belo Horizonte]]></city>
-    <state><![CDATA[MG]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -11659,76 +11689,6 @@ Ajudar na <b>gestão de coletas automáticas,</b> facilitando instalações, lib
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6358b46d-5f52-4a5a-ae1e-7e5d1c9d3214]]></partnerJobId>
-    <company><![CDATA[Selbetti Tecnologia]]></company>
-    <title><![CDATA[Aprendiz - Faturamento]]></title>
-    <posterEmail><![CDATA[gabrielly.araujo@selbetti.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na Selbetti, estamos mudando o mundo da tecnologia com soluções inovadoras! Nossa equipe é formada por criativos, pensadores fora da caixa e, claro, apaixonados por tecnologia. Se você está cansado do mesmo de sempre e procura um lugar onde possa brilhar, você está no lugar certo!<br /><br /><strong><em>TODAS AS NOSSAS VAGAS ESTÃO ABERTAS PARA PESSOAS COM DEFICIÊNCIA!</em></strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar nas <b>rotinas administrativas da área</b>, acompanhando o fluxo de demandas internas.</li><li>Realizar<b> cadastros de clientes no sistema,</b> garantindo a correta inserção das informações.</li><li>Efetuar a<b> atualização e manutenção de dados cadastrais.</b></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimentos básicos em<b> informática</b> (Pacote Office).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/selbetti/453/aprendiz-faturamento]]></applyUrl>
-    <companyId><![CDATA[428174]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[c4918f5c-78ad-4499-a647-4985fe569d36]]></partnerJobId>
-    <company><![CDATA[Selbetti Tecnologia]]></company>
-    <title><![CDATA[Aprendiz - Gente e Gestão]]></title>
-    <posterEmail><![CDATA[gabrielly.araujo@selbetti.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na Selbetti, estamos mudando o mundo da tecnologia com soluções inovadoras! Nossa equipe é formada por criativos, pensadores fora da caixa e, claro, apaixonados por tecnologia. Se você está cansado do mesmo de sempre e procura um lugar onde possa brilhar, você está no lugar certo!<br /><br /><strong><em>TODAS AS NOSSAS VAGAS ESTÃO ABERTAS PARA PESSOAS COM DEFICIÊNCIA!</em></strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar nas <b>rotinas administrativas</b> do processo de Recrutamento e Seleção;
-</li>
-<li>
-Auxiliar na<b> triagem inicial de currículo</b>s;
-</li>
-<li>
-Apoiar na <b>organização e atualização de vagas</b> em sistemas e planilhas;
-</li>
-<li>
-Realizar <b>contato inicial com candidatos </b>(convites para entrevistas, alinhamentos de agenda, confirmações, etc.);
-</li>
-<li>
-Apoiar na <b>organização de agendas</b> de entrevistas;
-</li>
-<li>
-<b>Atualizar status de candidatos</b> no ATS e controles internos;
-</li>
-<li>
-<b>Apoiar o time NAT</b> em demandas operacionais do dia a dia;
-</li>
-<li>
-Auxiliar na<b> organização de indicadores simples</b> de R&amp;S (quando aplicável).</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ter <b>idade compatível</b> com o programa de Aprendizagem (período vespertino - 13h30 às 17h30)</li>
-<li>
-Estar cursando ou já ter concluído o <b>Ensino Médio</b>;
-</li>
-<li>
-Interesse em atuar na área de <strong>Gente &amp; Gestão / Recursos Humanos / Recrutamento e Seleção</strong>;
-</li>
-<li>
-Conhecimentos básicos em<b> informática</b> (Pacote Office);
-</li>
-<li>
-<b>Disponibilidade para atuar no horário previsto</b> do programa de Aprendizagem.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/selbetti/447/aprendiz-gente-e-gestao]]></applyUrl>
-    <companyId><![CDATA[428174]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[1215f348-3ac6-4bb7-8bb8-4002133a7479]]></partnerJobId>
     <company><![CDATA[Selbetti Tecnologia]]></company>
     <title><![CDATA[Auxiliar de Atendimento ao Cliente (Exclusiva PCD)]]></title>
@@ -11916,25 +11876,6 @@ Apoiar as rotinas da área logística, mantendo o ambiente organizado e seguro.<
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[d1d1db4d-03e3-472a-84aa-82bfb4a93b4f]]></partnerJobId>
-    <company><![CDATA[Selbetti Tecnologia]]></company>
-    <title><![CDATA[Assistente de Contabilidade]]></title>
-    <posterEmail><![CDATA[samantha.kindermann@selbetti.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na Selbetti, estamos mudando o mundo da tecnologia com soluções inovadoras! Nossa equipe é formada por criativos, pensadores fora da caixa e, claro, apaixonados por tecnologia. Se você está cansado do mesmo de sempre e procura um lugar onde possa brilhar, você está no lugar certo!<br /><br /><br /><strong><em>TODAS AS NOSSAS VAGAS ESTÃO ABERTAS PARA PESSOAS COM DEFICIÊNCIA!</em></strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><b>Analisar e aplicar</b> a legislação contábil.</li><li>Realizar <b>conciliações </b>contábeis mensalmente.</li><li><b>Envio de Documentação</b> para Auditoria Externa.</li><li><b>Conferência e conciliações</b> de Cartões Empresariais.</li><li>Apoio na <b>contabilização e movimentação</b> no sistema.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou cursando na área de Ciências Contábeis.</li><li>Conhecimento em Pacote Office.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/selbetti/393/assistente-de-contabilidade]]></applyUrl>
-    <companyId><![CDATA[428174]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[f157bead-70f5-4bb2-8625-bf03d118ddfc]]></partnerJobId>
     <company><![CDATA[Selbetti Tecnologia]]></company>
     <title><![CDATA[Assistente Fiscal]]></title>
@@ -11960,56 +11901,6 @@ Apoiar as rotinas da área logística, mantendo o ambiente organizado e seguro.<
     <posterEmail><![CDATA[samantha.kindermann@selbetti.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Na Selbetti, estamos mudando o mundo da tecnologia com soluções inovadoras! Nossa equipe é formada por criativos, pensadores fora da caixa e, claro, apaixonados por tecnologia. Se você está cansado do mesmo de sempre e procura um lugar onde possa brilhar, você está no lugar certo!<br /><br /><strong><em>TODAS AS NOSSAS VAGAS ESTÃO ABERTAS PARA PESSOAS COM DEFICIÊNCIA!</em></strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><b>Realizar entregas e coletas em clientes e fornecedores</b>, conferindo volumes e garantindo a integridade das caixas.</li><li><b>Efetuar vistorias no veículo</b>, identificando e reportando possíveis necessidades de manutenção preventiva ou corretiva.</li><li>Executar outras atividades conforme orientação do líder da área.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo.</li><li><b>CNH categoria C e/ou D</b> válida.</li><li>Experiência na função.</li><li>Conhecimento em <b>normas de Trânsito e de segurança</b>.</li><li>Disponibilidade para viagens.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/selbetti/377/motorista-pleno]]></applyUrl>
-    <companyId><![CDATA[428174]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[22a77b82-11db-4f01-9dca-6ee291d93929]]></partnerJobId>
-    <company><![CDATA[Selbetti Tecnologia]]></company>
-    <title><![CDATA[Analista de CyberSecurity]]></title>
-    <posterEmail><![CDATA[samantha.kindermann@selbetti.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na <b>Selbetti</b>, estamos mudando o mundo da tecnologia com soluções inovadoras! Nossa equipe é formada por criativos, pensadores fora da caixa e, claro, apaixonados por tecnologia. Se você está cansado do mesmo de sempre e procura um lugar onde possa brilhar, você está no lugar certo!<br /><br />Se você enxerga a segurança da informação além de firewalls e antivírus, e entende que proteger dados é tão estratégico quanto inovar, esta oportunidade é para você.
-Nosso time de <strong>Cybersecurity</strong> atua com foco em prevenção, monitoramento e resposta a incidentes, garantindo que cada solução tecnológica esteja protegida de ponta a ponta. Estamos em busca de um  profissional que queira crescer enfrentando desafios reais de segurança em um ambiente tecnológico e em constante evolução.<br /><br /><br /><strong><em>TODAS AS NOSSAS VAGAS ESTÃO ABERTAS PARA PESSOAS COM DEFICIÊNCIA!</em></strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar continuamente a infraestrutura de TI, identificando eventos de segurança e atuando na resposta a incidentes.
-</li><li>
-Implementar, gerenciar e manter ferramentas de segurança como <strong>EDR, Firewalls, SIEM, antivírus</strong> e outras soluções.
-</li><li>
-Realizar varreduras de vulnerabilidades, acompanhando e colaborando com os times responsáveis na correção.
-</li><li>
-Apoiar no desenvolvimento e aplicação de <strong>políticas, normas e procedimentos de segurança da informação</strong>.
-</li><li>
-Investigar incidentes de segurança por meio de análise de logs, coleta de evidências e proposição de planos de ação.
-</li><li>
-Contribuir para a <strong>conscientização dos colaboradores</strong> sobre boas práticas em segurança da informação.
-</li><li>
-Dar suporte em <strong>auditorias internas e externas</strong>, fornecendo informações técnicas e documentação necessária.
-</li><li>
-Analisar e acompanhar alertas e eventos gerados por <strong>sistemas de detecção e prevenção de intrusões (IDS/IPS)</strong>.
-</li><li>
-Atuar na <strong>gestão de acessos e privilégios</strong>, garantindo conformidade com as políticas definidas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino <b>superior </b>completo ou em andamento em áreas relacionadas à Tecnologia da Informação.
-</li><li>
-Experiência em <strong>segurança da informação ou infraestrutura com foco em segurança</strong>.
-</li><li>
-Conhecimento de normas e frameworks como <strong>ISO 27001, NIST, LGPD</strong>.
-</li><li>
-Vivência com soluções de <strong>endpoint protection (Antivírus/EDR)</strong>, <strong>firewall, proxies e SIEM</strong>.
-</li><li>
-Habilidade em <strong>análise de logs</strong> (Windows, Linux, Active Directory, firewalls, servidores web etc.).
-</li><li>
-Experiência em <strong>resposta a incidentes e gestão de vulnerabilidades</strong>.
-</li><li>
-Noções de <strong>pentest defensivo</strong> e <strong>análise de risco</strong>.
-</li><li>
-Conhecimento em <strong>hardening</strong> de sistemas operacionais (Windows e Linux).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/selbetti/290/analista-de-cybersecurity]]></applyUrl>
     <companyId><![CDATA[428174]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[SC]]></state>
@@ -12867,6 +12758,68 @@ Cadastre seu currículo e mantenha seus dados sempre atualizados. Estamos de olh
         </highEnd>
         <lowEnd>
           <amount><![CDATA[1645.10]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[07270b4c-31ee-475c-95e1-5e28ae73c696]]></partnerJobId>
+    <company><![CDATA[Atual Clube]]></company>
+    <title><![CDATA[Supervisor de Compras Senior]]></title>
+    <posterEmail><![CDATA[joanadoria@atualclube.org]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma oportunidade desafiadora em um ambiente dinâmico e estimulante, temos o prazer de convidá-lo(a) a explorar uma posição que pode transformar sua trajetória profissional. Aqui, valorizamos o talento e a dedicação, oferecendo um espaço para que suas habilidades sejam reconhecidas e ampliadas. Com uma cultura organizacional que prioriza a colaboração, inovação e o crescimento contínuo, você terá a chance de fazer parte de uma equipe que é referência no setor. Temos o compromisso de investir no desenvolvimento de nossos colaboradores(as), proporcionando capacitações que aperfeiçoam tanto as competências individuais quanto coletivas. Se você é motivado(a) por resultados e deseja contribuir ativamente para o sucesso de uma organização que preza por excelência, não perca a chance de se candidatar e dar um passo importante em sua carreira. Venha fazer parte de nossa história!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Supervisionar e apoiar a equipe de Compras, atuando ativamente na operação
+diária do setor (“mão na massa”), monitorando KPIs e apresentando resultados à
+liderança.<br /><br />
+Ciclo de Compras no ERP Nasajon: Responsável pela utilização integral do módulo
+de compras, garantindo que todo o fluxo (da solicitação à nota fiscal) ocorra
+via sistema.<br /><br />
+Realizar o rastreio (track) das compras, sendo responsável individualmente por
+cada placa, <u>abrangendo:</u><br />
+Recebimento da solicitação e preparação do orçamento;<br />
+Inclusão de dados e cotação junto aos fornecedores no sistema;<br />
+Gestão do Workflow de Aprovação dentro do Nasajon.<br /><br />
+Conformidade Fiscal e Faturamento: Acompanhar a emissão da Nota Fiscal (NF) e
+realizar a verificação minuciosa da conformidade da NF com o pedido de compra
+original.<br /><br />
+Ajustes e Correções: Realizar ajustes no pedido de compra ou solicitar a
+substituição da nota pelo fornecedor sempre que houver divergências.<br /><br />
+Logística e Follow-up de Entrega: Monitorar a chegada das peças junto às
+oficinas externas (contato direto).<br />
+Monitorar a chegada na oficina interna através da análise de entrada de notas
+no sistema Nasajon.<br />
+Tomar ações imediatas em caso de atrasos para evitar a interrupção do fluxo de
+reparos dos veículos.<br /><br />
+Negociação e Melhoria: Negociar com fornecedores buscando melhores prazos e custos,
+além de propor melhorias contínuas nos processos internos.<br /><br />
+Integração: Atuar de forma integrada com os setores de estoque, manutenção,
+financeiro e áreas operacionais.<br /><br /><b>Requisitos e qualificações</b><br /><br />Nível Superior completo
+em Administração ou áreas correlatas.<br />Experiência comprovada na área de Compras em posição de liderança e
+gestão de pessoas.<br />
+Expertise Técnica: Conhecimento sólido na compra de peças automotivas e insumos
+diversos.<br />Experiência com ERP de compras integrado (será considerado um
+diferencial o domínio em Nasajon) e experiência em utilizar módulos
+de compras em outros sistemas ERP do mercado.<br />
+Perfil Operacional: Disponibilidade para atuar diretamente nos processos
+("mão na massa") e visão analítica para indicadores.<br />
+Competências: Organização extrema para controle de fluxos, proatividade e
+orientação total a resultados.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/atualclube/36/supervisor-de-compras-senior]]></applyUrl>
+    <companyId><![CDATA[82807637]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[8000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[8000.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
@@ -55637,6 +55590,25 @@ e busca crescimento profissional,</b> essa oportunidade é para você.<br /><br
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[78dff0ac-928f-4b83-a368-208963c64c65]]></partnerJobId>
+    <company><![CDATA[Xmobots]]></company>
+    <title><![CDATA[Projetista Mecânico Júnior]]></title>
+    <posterEmail><![CDATA[barbara.souza@xmobots.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Receber, interpretar e executar demandas da Engenharia do P&amp;D sobre projetos emodelagem 3D de sistemas, subsistemas e componentes;</li><li>Elaboração de material técnico de apoio de fabricação, montagem, inspeção e afins;</li><li>Atuar junto ao time de fabricação, montagem e qualidade na resolução deproblemas e não conformidades.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação: Desenho Técnico Mecânico, Técnico em Mecânica, Graduação em Desenho Industrial ou correlatos;</li><li>Experiência em Solidworks – 3D e 2D (Sólidos, Superfícies, Cavidades, Moldes, etc);</li><li>Experiência com elaboração e interpretação de DTM’s e GD&amp;T;</li><li>Residir em São Carlos/SP.</li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/xmobotscarreiras/56/projetista-mecanico-junior]]></applyUrl>
+    <companyId><![CDATA[5048086]]></companyId>
+    <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4fc5c3b8-b53d-4261-ae06-4f91fb4967fb]]></partnerJobId>
     <company><![CDATA[Xmobots]]></company>
     <title><![CDATA[Analista de PCPM Pleno]]></title>
@@ -56526,6 +56498,33 @@ Se você gosta de números, análises e quer atuar em uma empresa que preza pela
     <companyId><![CDATA[28340672]]></companyId>
     <city><![CDATA[Fortaleza]]></city>
     <state><![CDATA[CE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[a3252a99-9527-4758-ba14-62ce407870e9]]></partnerJobId>
+    <company><![CDATA[Caique Castro]]></company>
+    <title><![CDATA[Auxiliar de Serviços Gerais]]></title>
+    <posterEmail><![CDATA[geisa.macedo@caiquecastro.adv.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Auxiliar de Serviços Gerais será responsável por manter as dependências do escritório limpas e
+organizadas, incluindo tarefas de limpeza geral, organização de ambientes,
+reposição de materiais e, em alguns casos, atividades de apoio.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />•   Manter os locais limpos e organizados, incluindo
+áreas internas e externas;  •   Executar trabalhos rotineiros de limpeza em
+geral como varrer, esfregar, aspirar o chão; <br /> •   Limpar banheiros, cozinhas, áreas de
+convivência e escritórios; <br /> •   Coletar lixo e descartá-lo adequadamente; <br /> •   Repor materiais de limpeza, como papel
+higiênico, toalhas e sabonete; <br /> •   Lavar vidros, janelas, pisos e paredes; <br /> •   Limpar móveis e objetos de decoração; <br /> •   Manter a organização de ambientes, como salas
+de reunião e copa; <br /> •  Auxiliar em outras tarefas de limpeza e
+organização quando solicitado.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Escolaridade mínima: Ensino Médio Completo;</li></ul><ul><li>Mínimo 06 meses de experiência na área.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagascaiquecastro/19/auxiliar-de-servicos-gerais]]></applyUrl>
+    <companyId><![CDATA[78695091]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -68205,31 +68204,6 @@ ser para você.<br /><br />Sua missão<br /><br /><br /><br /><br />Como Analist
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3eed751a-1fd7-40d2-a9fb-68ce5da42f76]]></partnerJobId>
-    <company><![CDATA[VS Operador Logístico]]></company>
-    <title><![CDATA[Jovem Aprendiz]]></title>
-    <posterEmail><![CDATA[maria.heemann@vstransportes.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Jovem Aprendiz para integrar nosso time financeiro! Estamos em busca de um(a) profissional organizado(a), proativo(a) e com boa atenção aos detalhes.<br /><br />Se você gosta de trabalhar com pessoas e quer crescer em uma empresa sólida e em expansão, essa vaga é pra você! Venha fazer parte de um ambiente colaborativo, com espaço para aprendizado e desenvolvimento constante!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Organização e arquivamento de documentos físicos e digitais;</li><li>Atualização de planilhas simples (Excel);</li><li>Digitalização de documentos;</li><li>Apoio as demandas do time Financeiro;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ter entre 14 e 24 anos (conforme a Lei da Aprendizagem);
-</li>
-<li>
-Estar cursando ou ter concluído o Ensino Médio;</li><li></li><li>Boa comunicação e relacionamento interpessoal;
-</li>
-<li>
-Organização e responsabilidade;</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vsoperadorlogistico/18/jovem-aprendiz]]></applyUrl>
-    <companyId><![CDATA[14070563]]></companyId>
-    <city><![CDATA[Itajaí]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[445802b2-a5dd-40f7-a600-110be6f79563]]></partnerJobId>
