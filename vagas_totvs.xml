@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 30 Jan 2026 12:18:48 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Jan 2026 13:16:16 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[2779]]></expectedJobCount>
+  <expectedJobCount><![CDATA[2781]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -794,19 +794,30 @@
   <job>
     <partnerJobId><![CDATA[c111d61e-b53d-470e-99db-ed536df085c3]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[Analista Sênior de Segurança da Informação]]></title>
+    <title><![CDATA[Analista Sênior de Segurança da Informação (Cloud)]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por administrar e manter o bom funcionamento dos controles e rotinas pertinentes à operação de Segurança da Informação, para agregar segurança conforme boas práticas de mercado, nos ambientes Cloud TOTVS.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento de Chamados: Responder e solucionar requisições, eventos e tarefas de mudança utilizando a ferramenta de ITSM.</li><li>Sustentação - Administrar as ferramentas de Segurança da Informação da TOTVS CLOUD, como testes de backup, eficiência no monitoramento,performance, melhoras práticas das configurações, com foco em Networking (soluções de firewall, AntiDDoS, WAF, ZeroTrust, DNS Security,</li><li>etc).</li><li>Gestão de Ferramentas AntiDDoS: Administrar as ferramentas de AntiDDoS, incluindo a configuração de regras, grupos, liberações, exceções e tratamento de falsos/positivos.</li><li>Gestão de Assinaturas de IPS: Administrar, homologar e aplicar novas assinaturas para sistemas de prevenção de intrusões (IPS)</li><li>Execução de planos de ação (RDMs) - fora do horário comercial</li><li>Correções de Controles de Segurança: Revisar e propor melhorias nas ferramentas administradas com base em práticas de uso e necessidades identificadas.</li><li>Análise e Resolução de Problemas de SI: Diagnosticar e solucionar problemas de bloqueio ou performance de soluções de Segurança da Informação.</li><li>Administração de Regras de Firewall: Garantir que as regras de firewall são criadas de acordo com as melhores práticas de segurança da informação.</li><li>Documentação Operacional: Elaborar procedimentos operacionais da área utilizando ferramentas internas de base de conhecimento.</li><li>Automação de Tarefas: Desenvolver scripts para automação de tarefas repetitivas e monitoramento utilizando PowerShell, Shell Script e outras</li><li>linguagens de scripting.</li><li>Suporte à Implantação de Novas Ferramentas de SI: Colaborar com o time de arquitetura na implementação de novas ferramentas de Segurança da Informação.</li><li>Gestão ferramenta WAF, incluindo análise de falsos positivos/negativos, criação e ajuste de regras (custom rulesets), manutenção de políticas de proteção, monitoramento de tráfego e resposta a eventos de bloqueio, garantindo aplicação consistente das proteções sem impacto nos serviço</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Arquitetura de redes, modelo TCP/IP e SDN; </li><li>Arquitetura de
-sistemas operacionais Windows e Linux; </li><li>Arquitetura de softwares e bancos de
-dados; </li><li>Conceitos de gestão de acessos tais como AAA, MFA, RBAC, IdP e
-protocolos de autenticação (alguns exemplos: SAML, OAuth, Open ID Connect e
-LDAP); </li><li>Conceitos de criptografia; </li><li>Conceitos de multi-tenância, modelo de
-responsabilidade compartilhada e de entrega de serviços (IaaS, PaaS e SaaS); ●
-Modelagem de ameaças e conhecimento na anatomia de ataques cibernéticos; </li><li>Domínio em soluções tecnológicas de SegInfo, alguns exemplos: IPS, SIEM/SOAR,
-DLP, FWNG, EDR, Allowlisting, PAM, Anti DDoS, Hardening, Zero Trust, WAF, etc; </li><li>Serviços de nuvem pública (Ex: AWS, Azure e GCP); </li><li>Ferramentas de scan de
-vulnerabilidades (infra e aplicação); </li><li>Familiaridade com scripts / linguagens
-de programação (ex: Powershell, Python, bash).</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8477/analista-senior-de-seguranca-da-informacao]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por administrar e manter o bom funcionamento dos controles e rotinas pertinentes à operação de Segurança da Informação, para agregar segurança conforme boas práticas de mercado, nos ambientes Cloud TOTVS.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento de Chamados: Responder e solucionar requisições,
+eventos e tarefas de mudança utilizando a ferramenta de ITSM.</li><li>Sustentação - Administrar as ferramentas de Segurança da
+Informação da TOTVS CLOUD, como testes de backup, eficiência no
+monitoramento,performance, melhoras práticas das configurações, com foco
+em Networking (soluções de firewall, AntiDDoS, WAF, ZeroTrust,
+DNS Security,etc).</li><li>Gestão de Ferramentas AntiDDoS: Administrar as ferramentas
+de AntiDDoS, incluindo a configuração de regras, grupos,
+liberações, exceções e</li><li>tratamento de falsos/positivos.</li><li>Gestão de Assinaturas de IPS: Administrar, homologar e
+aplicar novas assinaturas para sistemas de prevenção de intrusões (IPS)</li><li>Execução de planos de ação (RDMs) - fora do horário
+comercial</li><li>Correções de Controles de Segurança: Revisar e propor
+melhorias nas ferramentas administradas com base em práticas de uso e
+necessidades</li><li>identificadas.</li><li>Análise e Resolução de Problemas de SI: Diagnosticar e
+solucionar problemas de bloqueio ou performance de soluções de
+Segurança da</li><li>Informação.</li><li>Administração de Regras de Firewall: Garantir que as
+regras de firewallsão criadas de acordo com as melhores práticas de segurança
+da informação.</li><li>Documentação Operacional: Elaborar procedimentos
+operacionais da área utilizando ferramentas internas de base de conhecimento.</li><li>Automação de Tarefas: Desenvolver scripts para automação
+de tarefas repetitivas e monitoramento utilizando PowerShell, Shell Script
+e outras linguagens de scripting.</li><li>Suporte à Implantação de Novas Ferramentas de SI:
+Colaborar com o time de arquitetura na implementação de novas ferramentas de
+Segurança</li><li>da Informação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Arquitetura de redes, modelo TCP/IP, SDN, monitoramento e troubleshooting de tráfego (tcpdump, Wireshark, MTR, ping, tcping, httping, etc);</li><li>Arquitetura de sistemas operacionais Windows e Linux;</li><li>Conceitos de criptografia (TLS ciphers, certificados X.509);</li><li>Conceitos de multi-tenância, modelo de responsabilidade compartilhada e de entrega de serviços (IaaS, PaaS e SaaS);</li><li>Modelagem de ameaças e conhecimento na anatomia de ataques cibernéticos;</li><li>Domínio em soluções tecnológicas de SegInfo, alguns exemplos: IPS, SIEM/SOAR, DLP, FWNG, EDR, Allowlisting, PAM, Anti DDoS, Hardening, Zero</li><li>Trust, WAF, etc;</li><li>Serviços de nuvem pública (Ex: AWS, Azure e GCP);</li><li>Ferramentas de scan de vulnerabilidades (infra e aplicação);</li><li>Familiaridade com scripts / linguagens de programação (ex: Powershell, Python, bash).</li></ul><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8477/analista-senior-de-seguranca-da-informacao-cloud]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -1218,10 +1229,10 @@ Scrum Fundamentals.<br />]]></description>
   <job>
     <partnerJobId><![CDATA[7d7e96d2-057b-439f-a439-c6d00be344b7]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[Analista de Dados e DevOps Júnior]]></title>
+    <title><![CDATA[Analista de DevOps Júnior]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><b>Missão do cargo:</b><br />Time de DevSecOps é responsável por definir e implementar processos, ferramentas e práticas recomendadas para todo o ciclo de desenvolvimento na organização. Nosso objetivo é garantir a excelência em engenharia de software, ajudando outras equipes a adotarem boas práticas de segurança, qualidade e entrega contínua.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><ul><li>Apoiar na definição e implementação de processos de DevSecOps para toda a organização.<br /></li><li>Suportar a adoção de etapas de qualidade (ex.: verificações de testes unitários, cobertura de testes e integração com SonarQube).<br /></li><li>Participar da otimização contínua de pipelines no Azure DevOps.<br /></li><li>Contribuir para a aplicação de análises de segurança em pipelines de desenvolvimento.<br /></li><li>Auxiliar no tratamento de dados, construção e evolução de dashboards para gestão à vista.<br /></li><li>Trabalhar em parceria com outros times para garantir a adoção de boas práticas de engenharia de software.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b>Formação: Áreas de tecnologia ou correlatas (Ciência da Computação, Engenharia de Software e afins) completa ou cursando.<br /><ul><li>Conhecimento prévio em práticas de DevOps (CI/CD, automação de processos);</li><li>Conhecimento em lógica de programação;<br /></li><li>Noções de segurança em aplicações ou pipelines;<br /></li><li>Familiaridade com ferramentas de integração contínua (preferencialmente Azure DevOps).</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8368/analista-de-dados-e-devops-junior]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8368/analista-de-devops-junior]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
     <state><![CDATA[MG]]></state>
@@ -14817,6 +14828,25 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para voc�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[85874a4e-2915-426d-8496-3187a24bb71d]]></partnerJobId>
+    <company><![CDATA[Unimarka Distribuidora]]></company>
+    <title><![CDATA[Auxiliar de Limpeza]]></title>
+    <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa ativa, gosta de estar sempre em movimento e preza pela conservação e limpeza do ambiente de trabalho?<br /><b>Venha fazer parte da nossa equipe!</b><br /><br /><br />Vaga destinada também a PCD.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar serviços de limpeza, contribuindo para que os ambientes da empresa estejam sempre limpos e organizados;</li><li>Fazer café e manter a cozinha e refeitório limpos e organizados;</li><li>Efetuar a limpeza nos equipamentos como extintores de incêndio, caixas vermelhas e longarinas.<br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Capacidade de trabalho em equipe;</li><li>Proatividade e organização;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/743/auxiliar-de-limpeza]]></applyUrl>
+    <companyId><![CDATA[65466539]]></companyId>
+    <city><![CDATA[Feira de Santana]]></city>
+    <state><![CDATA[BA]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[c9d4a472-e883-4513-b048-88bf2f208bbb]]></partnerJobId>
     <company><![CDATA[Unimarka Distribuidora]]></company>
     <title><![CDATA[Operador de Logística]]></title>
@@ -15277,6 +15307,25 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para voc�
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/679/promotor-de-vendas]]></applyUrl>
     <companyId><![CDATA[65466539]]></companyId>
     <city><![CDATA[Serra]]></city>
+    <state><![CDATA[ES]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[7588188e-345d-4344-a5ba-51903f1fbb52]]></partnerJobId>
+    <company><![CDATA[Unimarka Distribuidora]]></company>
+    <title><![CDATA[Operador de Empilhadeira]]></title>
+    <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa ativa, gosta de estar sempre em movimento e tem vontade de atuar na área de separação e expedição da Logística? <b>Então essa vaga é para você!</b><br /><br /><b><br /></b><br />Vaga destinada também a PCD<b>.</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar no processo logístico de movimentação das mercadorias;</li><li>Operar empilhadeira para movimentação de mercadorias e produtos; </li><li>Auxiliar na arrumação dos paletes para expedição e carregamento de veículos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Atenção concentrada a detalhes; </li><li>Foco em resultados;</li><li>Iniciativa; </li><li>Responsabilidade e compromisso.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/742/operador-de-empilhadeira]]></applyUrl>
+    <companyId><![CDATA[65466539]]></companyId>
+    <city><![CDATA[Viana]]></city>
     <state><![CDATA[ES]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -15994,36 +16043,6 @@ geral na empresa.<br /><br /><b>Requisitos e qualificações</b><br /><br />Form
      Comunicação</li><li>Conhecimentos
      em Windows</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspainco/35/pcd-banco-de-talentos]]></applyUrl>
-    <companyId><![CDATA[10201016]]></companyId>
-    <city><![CDATA[Rio das Pedras]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[32b3f6ce-b40a-4269-a365-175e5a6de009]]></partnerJobId>
-    <company><![CDATA[Painco]]></company>
-    <title><![CDATA[Operador de Empilhadeira]]></title>
-    <posterEmail><![CDATA[ariadne.santos@painco.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos pessoas proativas, com vontade de aprender e
-contribuir para construir uma carreira de sucesso na Painco. Oferecemos
-oportunidades de crescimento profissional, incluindo programa de formação de
-liderança e profissionalização interna (solda, usinagem, pintura, empilhadeira,
-etc.).<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Transportar produtos e materiais por toda à área industrial,
-conforme solicitação.<br />Inspecionar os trabalhos realizados conforme normas e
-procedimentos.<br />Responsável por realizar a movimentação e carregamento de
-peças através de empilhadeira<br /><br /><b>Requisitos e qualificações</b><br /><br />CNH atualizada.
-
-Experiência na função.
-
-Curso de empilhadeira concluído.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspainco/32/operador-de-empilhadeira]]></applyUrl>
     <companyId><![CDATA[10201016]]></companyId>
     <city><![CDATA[Rio das Pedras]]></city>
     <state><![CDATA[SP]]></state>
@@ -17783,6 +17802,25 @@ Boa comunicação para interação com diversas áreas (produção, logística, 
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasguaraves/273/repositor-de-mercadorias]]></applyUrl>
     <companyId><![CDATA[6994713]]></companyId>
     <city><![CDATA[Patos]]></city>
+    <state><![CDATA[PB]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[9366acc6-dcd8-45c1-86fa-fee6a152a9f2]]></partnerJobId>
+    <company><![CDATA[Grupo Guaraves]]></company>
+    <title><![CDATA[Repositor de Mercadorias]]></title>
+    <posterEmail><![CDATA[leyla.karla@guaraves.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Repositor de Mercadorias é responsável por organizar e abastecer os produtos da Bom Todo nos pontos de venda, garantindo a correta exposição, precificação e validade dos itens. Atua para manter a qualidade dos produtos da empresa, assegurando que estejam sempre disponíveis para os consumidores de forma atrativa e dentro dos padrões estabelecidos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar reposição de mercadorias nas prateleiras.<br />- Verificar datas de validade dos produtos.<br />- Manter a organização do setor.<br />- Atender solicitações de clientes e fornecer informações sobre produtos.<br />- Auxiliar na precificação dos itens.<br />- Zelar pela limpeza do ambiente de trabalho.<br />- Colaborar na conferência de estoque.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- <b>Ensino médio completo.</b><br />- <b>CNH A ou B.</b><br />- Boa comunicação.<br />- Capacidade para trabalhar em equipe.<br />- Organização e atenção aos detalhes.<br />- Agilidade e disposição para atividades físicas.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasguaraves/335/repositor-de-mercadorias]]></applyUrl>
+    <companyId><![CDATA[6994713]]></companyId>
+    <city><![CDATA[Piancó]]></city>
     <state><![CDATA[PB]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -21065,6 +21103,25 @@ Facilidade com planilhas e sistemas (Excel é amigo, não inimigo).
     <companyId><![CDATA[3624146]]></companyId>
     <city><![CDATA[Maringá]]></city>
     <state><![CDATA[PR]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4180f622-2105-4513-b556-8281042518ab]]></partnerJobId>
+    <company><![CDATA[Halsten Incorporadora]]></company>
+    <title><![CDATA[Assistente de Engenharia | Balneário Piçarras]]></title>
+    <posterEmail><![CDATA[joao.amaral@halsten.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Planejar e acompanhar as atividades técnicas, administrativas e operacionais da obra, garantindo o cumprimento dos prazos, padrões de qualidade, segurança e custos previstos. Atua como apoio entre a engenharia, a produção e os setores administrativos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar o engenheiro responsável no acompanhamento diário das atividades em obra; </li><li>Auxiliar na leitura e interpretação de projetos, plantas e especificações técnicas; </li><li>Realizar levantamentos de campo, medições de serviços executados e conferência de quantitativos; </li><li>Acompanhar equipes de produção e terceiros, verificando conformidade com projetos e procedimentos; </li><li>Apoiar no controle de materiais, equipamentos e insumos no canteiro de obras; </li><li>Auxiliar no preenchimento de relatórios diários de obra, checklists e registros técnicos; </li><li>Apoiar no controle de qualidade e na verificação do cumprimento das normas técnicas e de segurança; </li><li>Identificar e comunicar ao engenheiro eventuais não conformidades ou desvios de execução; </li><li>Organizar e manter atualizada a documentação técnica da obra; </li><li>Acompanhamento e controle de custo da obra.<br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior em Engenharia Civil;</li><li>Desejável experiência em atuação no canteiro e/ou escritório de obras;</li><li>Conhecimento em Excel;</li><li>Vontade de aprender e vestir a camisa!<br /></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreiras/206/assistente-de-engenharia-balneario-picarras]]></applyUrl>
+    <companyId><![CDATA[32120252]]></companyId>
+    <city><![CDATA[Balneário Piçarras]]></city>
+    <state><![CDATA[SC]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -26663,6 +26720,25 @@ Office (Excel) e Power BI, será um diferencial.<br /><br />]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[7cd489ea-7f68-4093-bb95-6c6a1d97ec83]]></partnerJobId>
+    <company><![CDATA[Ceneged]]></company>
+    <title><![CDATA[AGENTE COMERCIAL]]></title>
+    <posterEmail><![CDATA[ggcaruaru@ceneged.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A CENEGED está em busca de profissionais para atuar como Agente Comercial. O colaborador será responsável por realizar a leitura de medidores e a entrega de faturas de energia, garantindo agilidade, precisão e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Leitura de medidores de energia.</li><li>Entrega de faturas de energia.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Noções básicas de informática;</li><li>CNH AB.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/309/agente-comercial]]></applyUrl>
+    <companyId><![CDATA[9250455]]></companyId>
+    <city><![CDATA[Surubim]]></city>
+    <state><![CDATA[PE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[412fd755-56fc-4563-8631-17d84d78fe3f]]></partnerJobId>
     <company><![CDATA[Ceneged]]></company>
     <title><![CDATA[ELETRICISTA]]></title>
@@ -30097,6 +30173,25 @@ igualdade de condições para pessoas com limitações na leitura e escrita.<br 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[1ea84e85-38fd-4bf5-b694-c0ecce5e883d]]></partnerJobId>
+    <company><![CDATA[Grupo Canopus]]></company>
+    <title><![CDATA[VENDEDOR EXTERNO]]></title>
+    <posterEmail><![CDATA[ariely.postal@grupocanopus.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é uma pessoa dinâmica e apaixonada por desafios, temos o ambiente ideal para o seu desenvolvimento profissional! Estamos em busca de alguém que se destaque pela habilidade de se conectar com diferentes perfis de clientes e que tenha a determinação de superar metas. Aqui, você encontrará uma equipe colaborativa, onde cada ideia é valorizada e as conquistas são celebradas. Oferecemos um espaço para que você possa crescer e inovar, contribuindo de maneira significativa para o nosso sucesso. Se você deseja construir uma carreira sólida em um setor dinâmico e em constante evolução, convidamos você a se juntar a nós. Venha fazer parte de uma jornada onde seu talento será reconhecido e seu potencial, amplificado. Estamos ansiosos para conhecer você e explorar juntos novas oportunidades!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Prospectar novos clientes e identificar oportunidades de negócio no mercado externo.<br /> - Realizar visitas a clientes potenciais e existentes para apresentar produtos ou serviços.<br /> - Negociar condições comerciais e fechar vendas de acordo com as políticas da empresa.<br /> - Elaborar relatórios de atividades e resultados de vendas, mantendo registros atualizados.<br /> - Acompanhar o pós-venda, garantindo a satisfação do cliente e fidelização.<br /> - Participar de eventos e feiras do setor para promover os produtos ou serviços da empresa.<br /> - Manter-se atualizado sobre as tendências do mercado e as necessidades dos clientes.<br /> - Colaborar com as equipes internas para assegurar que as expectativas dos clientes sejam atendidas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Experiência prévia em vendas externas.<br /> - Conhecimento do mercado e da concorrência.<br /> - Habilidade de negociação e persuasão.<br /> - Capacidade de estabelecer relacionamentos com clientes.<br /> - Boa comunicação verbal e escrita.<br /> - Organização e planejamento das atividades.<br /> - Proatividade e iniciativa para buscar novas oportunidades.<br /> - CNH válida e disponibilidade para viagens.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/322/vendedor-externo]]></applyUrl>
+    <companyId><![CDATA[2073549]]></companyId>
+    <city><![CDATA[Brasília]]></city>
+    <state><![CDATA[DF]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[bc6cf60b-cc10-497c-b283-42ee61d857c5]]></partnerJobId>
     <company><![CDATA[Grupo Canopus]]></company>
     <title><![CDATA[VENDEDOR]]></title>
@@ -30125,25 +30220,6 @@ igualdade de condições para pessoas com limitações na leitura e escrita.<br 
     <companyId><![CDATA[2073549]]></companyId>
     <city><![CDATA[Brasília]]></city>
     <state><![CDATA[DF]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3155595c-f6d3-4e3e-b1b7-99e90f13808b]]></partnerJobId>
-    <company><![CDATA[Grupo Canopus]]></company>
-    <title><![CDATA[SUPERVISOR DE VENDAS]]></title>
-    <posterEmail><![CDATA[ariely.postal@grupocanopus.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você é uma pessoa apaixonada por resultados e possui habilidades em liderança e comunicação, temos uma oportunidade incrível para você! Estamos em busca de profissionais dinâmicos, que estejam prontos para fazer a diferença em nossa equipe. Aqui, você encontrará um ambiente colaborativo, onde o desenvolvimento pessoal e profissional é valorizado. Oferecemos a chance de trabalhar com uma equipe comprometida e motivada, além de participar de projetos inovadores que impactam diretamente o nosso crescimento. Se você está em busca de um novo desafio e acredita que pode contribuir significativamente para o sucesso de uma equipe, esperamos pela sua candidatura. Venha fazer parte da nossa história e construir um futuro promissor conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Gerenciar e supervisionar a equipe de vendas, garantindo o cumprimento das metas estabelecidas;<br /> - Desenvolver estratégias de vendas para aumento de receita e participação de mercado;<br /> - Realizar acompanhamento das atividades da equipe, oferecendo suporte e treinamento contínuo;<br /> - Analisar relatórios de vendas e indicadores de desempenho, propondo melhorias quando necessário;<br /> - Manter relacionamento com clientes estratégicos, promovendo a fidelização e satisfação;<br /> - Coordenar a execução de campanhas promocionais e outros programas de incentivo à venda;<br /> - Participar de reuniões de planejamento e definir ações para atingimento de resultados;<br /> - Assegurar o cumprimento das políticas e procedimentos da empresa na área de vendas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Experiência anterior em vendas ou supervisão de equipe de vendas.<br /> - Habilidade em comunicação e negociação.<br /> - Capacidade de liderar e motivar equipes.<br /> - Conhecimento em técnicas de vendas e atendimento ao cliente.<br /> - Formação acadêmica em Administração, Marketing ou áreas relacionadas.<br /> - Familiaridade com ferramentas de gestão de vendas e relatórios.<br /> - Disponibilidade para viagens, se necessário.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/553/supervisor-de-vendas]]></applyUrl>
-    <companyId><![CDATA[2073549]]></companyId>
-    <city><![CDATA[Goiânia]]></city>
-    <state><![CDATA[GO]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -37968,29 +38044,6 @@ Buscamos profissionais com experiência em <strong>APIs REST/GraphQL</strong>, b
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[69815770-4fd0-4eef-9813-d1452c579f3d]]></partnerJobId>
-    <company><![CDATA[Hyperflow]]></company>
-    <title><![CDATA[Analista de Suporte (N3)]]></title>
-    <posterEmail><![CDATA[lorraine.santos@hyperflow.global]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na Hyperflow, tecnologia só faz sentido quando gera experiência.<br />
-Buscamos uma pessoa com forte atuação em <strong>Suporte Nível 3</strong>, perfil técnico e olhar analítico, para atuar na resolução de incidentes complexos, análise de causa raiz e apoio estratégico aos times de suporte, produto e desenvolvimento.
-Você irá trabalhar diretamente com <strong>APIs, microserviços, lógica de programação e metodologias ágeis</strong>, contribuindo para a evolução contínua das soluções e garantindo uma experiência de alto nível para nossos clientes.
-Aqui, valorizamos pessoas curiosas, colaborativas e comprometidas com o aprendizado constante. Você fará parte de um time diverso, que acredita que suporte técnico também é construção de produto e impacto real no negócio.
-Se você gosta de desafios técnicos e quer ir além do atendimento, vem com a gente. <br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Garantir a melhor experiência ao atendimento dos clientes. </li><li>Realizar a compreensão de problemas, identificação de causas e propostas de soluções. </li><li>Realizar triagens de chamados. </li><li>Implantar processos de suporte e apoiar em processo de customer experience. </li><li>Analisar e implementar fluxos de automação de Chatbots.  </li><li>Participar de reuniões para análise de melhoria contínua e dos produtos Hyperflow. </li><li>Apresentar melhorias propostas e garantir a qualidade nas entregas. </li><li>Realizar correções em fluxos de automação de Chatbots existentes. </li><li>Realizar demonstrações de funcionamento do produto quando necessário.  </li><li>Ajudar e compartilhar sua experiência com os membros da equipe. </li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Lógica de programação. </li><li>Conhecer ou se interessar pelo desenvolvimento e consumo de APIs (Rest, SOAP). </li><li>Conhecer ou se interessar por micro serviços. </li><li>Sólidos conhecimentos em processos e ferramentas de suporte.  </li><li>Trabalhar com metodologias ágeis. </li><li>Trabalhar em um time multiétnico composto por pessoas com diferentes experiências; </li><li>Senso de responsabilidade e comprometimento com o time; </li><br /></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hypercarreiras/30/analista-de-suporte-n3]]></applyUrl>
-    <companyId><![CDATA[1]]></companyId>
-    <city><![CDATA[Uberlândia]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[4c2d4683-3e3d-4b2f-939c-011afa9042d3]]></partnerJobId>
     <company><![CDATA[Hyperflow]]></company>
     <title><![CDATA[Estágio Hyperflow |Marketing]]></title>
@@ -45792,25 +45845,6 @@ Organização e autonomia para gerir sua rotina de visitas e resultados.<br /></
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[8200155c-6ec1-4451-9252-866c83a16c98]]></partnerJobId>
-    <company><![CDATA[GS Inima Brasil]]></company>
-    <title><![CDATA[Coordenador Comercial]]></title>
-    <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por coordenar equipes e processos em todas as áreas comerciais, notadamente os setores Faturamento, arrecadação, cadastro, hidrometração,  serviços de apoio e investimentos de forma geral correlatos à área. Reportará à Diretoria a performance dos setores, inclusive propondo planos de ação para eventuais desvios planejados. Poderá representar a Diretoria em reuniões com a concedente, parceiros estratégicos e eventos. Interagirá com a área de Manutenção de Redes para garantir eficiência operacional<br /><br /><br /><br /><b>Horário:</b> 08:00 ás 18:00 com 1:00 refeição / 6ª feira: saída às 17:00 / Sáb. Compensado<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Apoiar estrategicamente a Diretoria em assuntos do Setor frente às demandas da concedente e parceiros estratégicos;<br />• Tomar ações para atendimento das metas e planejamento estratégico da empresa;<br />• Coordenar todas as atividades e pessoas do setor comercial;<br />• Treinar todas as equipes para atendimentos das práticas recomendadas pelo Grupo GS Inima e dos procedimentos formalizados;<br />• Elaborar relatórios semanais e estatísticas de produtividade;<br />• Monitorar as ações e verificar o desempenho dos prestadores de serviços;<br />• Interagir com a área de Manutenção de Redes, trocando informações e viabilizando serviços para garantir a eficiência dos processos das duas áreas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação Obrigatória:</b> Ensino Superior Completo<br /><b>Áreas:</b> Administração, Finanças, Economia ou áreas afins<br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/220/coordenador-comercial]]></applyUrl>
-    <companyId><![CDATA[36870042]]></companyId>
-    <city><![CDATA[Maceió]]></city>
-    <state><![CDATA[AL]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[15c13813-9633-4123-ae72-f67a05f20444]]></partnerJobId>
     <company><![CDATA[GS Inima Brasil]]></company>
     <title><![CDATA[Analista de Laboratório JR (Estação de Tratamento de Esgoto)]]></title>
@@ -52357,25 +52391,6 @@ Assegurar a correta recepção, armazenagem e expedição de peças e acessório
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/21/mt06-operador-de-caixa]]></applyUrl>
     <companyId><![CDATA[22287656]]></companyId>
     <city><![CDATA[Sinop]]></city>
-    <state><![CDATA[MT]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1bc3d856-c70c-406a-8c5a-08095fc95786]]></partnerJobId>
-    <company><![CDATA[Grupo PMZ]]></company>
-    <title><![CDATA[MT05 | MOTORISTA CAT B]]></title>
-    <posterEmail><![CDATA[arine.escurra@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável conduzir veículos leves fazendo o transporte de cargas entre as diversas unidades de trabalho: recebe a programação do período, acondicionar a carga a ser transportada e circula pelo roteiro estabelecido zelando pela segurança e integridade das pessoas e volumes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar atividade de entrega de produtos e documentos e/ou transporte de pessoas através da condução de veículos leves a fim de realizar a entrega das mercadorias dentro do prazo e qualidade esperados.</li><li>Executar recebimento de carga através da conferência dos itens da Nota Fiscal a fim de garantir entrega dos itens planejados, evitando falhas no processo.</li><li>Executar entrega de mercadoria através da entrega da Nota Fiscal e conferência dos itens a fim de garantir qualidade do serviço.</li><li>Executar check-list do veículo através da conferência e apontamento de desvio, falhas ou necessidade de manutenção no veículo a fim de garantir seu funcionamento e evitar transtornos nas entregas.</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior.</li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade.</li><li>Zelar por máquinas, equipamentos e materiais através do uso correto e controle de despesas a fim de contribuir com a redução de despesas com manutenções adicionais, evitando danos e prolongando sua vida útil.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Possuir carteira de habilitação categoria B válida.<br />- Experiência anterior como motorista.<br />- Conhecimento em legislação de trânsito.<br />- Habilidade em direção defensiva.<br />- Boa comunicação e relacionamento interpessoal.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/209/mt05-motorista-cat-b]]></applyUrl>
-    <companyId><![CDATA[22287656]]></companyId>
-    <city><![CDATA[Sorriso]]></city>
     <state><![CDATA[MT]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -63553,10 +63568,10 @@ Manter o ambiente de trabalho limpo, seguro e organizado, seguindo as normas de 
   <job>
     <partnerJobId><![CDATA[9ba3e04a-7204-4ab9-b149-72248993c8b8]]></partnerJobId>
     <company><![CDATA[MB Labs]]></company>
-    <title><![CDATA[Pessoa Analista PMO JIRA / Júnior]]></title>
+    <title><![CDATA[Analista PMO JIRA / Júnior]]></title>
     <posterEmail><![CDATA[caroline.galindo@mblabs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado por tecnologia e busca uma oportunidade onde possa realmente fazer a diferença, temos uma proposta que pode ser ideal para você!<br />Estamos em busca de profissionais criativos e dedicados, que desejam se juntar a uma equipe inovadora e dinâmica, voltada para o desenvolvimento de soluções que impactam diretamente no sucesso de nossos projetos. <br /><br /><br />Aqui, você terá a chance de colaborar em um ambiente estimulante, onde suas ideias serão valorizadas e suas habilidades, potencializadas. Este é o momento de integrar um time que acredita no crescimento mútuo e na busca constante pela excelência. Se você está pronto para um novo desafio em sua carreira, venha fazer parte da nossa jornada e contribuir para a construção de um futuro mais tecnológico e eficiente!<br /><br /><b>Principal desafio da posição:</b><b><br /></b>1. Realizar administração e padronização de ferramentas do ecossistema Atlassian para eficiência Operacional<br />2. Traduzir necessidades de negócio e processos ágeis em configurações, fluxos e automações inteligentes dentro do JIRA e Confluence.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Administração JIRA: Criar e configurar projetos (Scrum, Kanban, Service Desk e Operações).</li><li><b>Automação e Eficiência Jira:</b> Construir automações (Jira Automation, JQL, Webhooks).</li><li><b>Governança Ágil:</b> Padronizar artefatos, Itens, Campos customizados e Suporte à ritos de cadências</li><li><b>Suporte aos Times:</b> Ajudar squads, POs e times no uso de ferramentas</li><li><b>Integrações e Reporting: </b>Manter integrações com Slack e automação.</li><li><b>Melhoria Contínua:</b> Analisar gargalos operacionais e propor ajustes de fluxo.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Obs.: Conhecimento Técnico para aprendizado:</b><br /><ul><li>Administração do Atlassian Jira e Confluence.</li><li>Configuração e gestão de projetos no Jira (Scrum, Kanban, Service Desk/Operações).</li><li>Conhecimento na criação e manutenção de boards, workflows, filtros JQL, telas, esquemas e tipos de issue.</li><li>Gestão de permissões (roles, grupos, níveis de acesso e segurança).</li><li>Atuação com Confluence para organização de wikis, templates e padronização de documentação.</li><li>Jira Service Management: portal, request types e formulários.</li><li>Jira Automation (regras e automações).</li><li>Familiaridade com Scrum e Kanban, com entendimento de boas práticas.</li><li>Métricas ágeis/fluxo: lead time, cycle time, throughput e CFD.</li><li>Criação e manutenção de relatórios e dashboards no Jira.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mblabs/46/pessoa-analista-pmo-jira-junior]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mblabs/46/analista-pmo-jira-junior]]></applyUrl>
     <companyId><![CDATA[9311532]]></companyId>
     <city><![CDATA[Campinas]]></city>
     <state><![CDATA[SP]]></state>
@@ -63610,10 +63625,10 @@ Manter o ambiente de trabalho limpo, seguro e organizado, seguindo as normas de 
   <job>
     <partnerJobId><![CDATA[f6bbd738-d27e-4fcb-995f-f87d12ecc99c]]></partnerJobId>
     <company><![CDATA[MB Labs]]></company>
-    <title><![CDATA[Tech Lead Front end (React + React native)]]></title>
+    <title><![CDATA[Banco de Talentos - Tech Lead Front end (React + React native)]]></title>
     <posterEmail><![CDATA[juliana.reis@mblabs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado por tecnologia e busca uma oportunidade onde possa realmente fazer a diferença, temos uma proposta que pode ser ideal para você!<br />Estamos em busca de profissionais criativos e dedicados, que desejam se juntar a uma equipe inovadora e dinâmica, voltada para o desenvolvimento de soluções que impactam diretamente no sucesso de nossos projetos. <br /><br /><br />Aqui, você terá a chance de colaborar em um ambiente estimulante, onde suas ideias serão valorizadas e suas habilidades, potencializadas. Este é o momento de integrar um time que acredita no crescimento mútuo e na busca constante pela excelência. Se você está pronto para um novo desafio em sua carreira, venha fazer parte da nossa jornada e contribuir para a construção de um futuro mais tecnológico e eficiente!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Garantir que todas as soluções técnicas estejam alinhadas à estratégia do negócio;</li><li>Antecipar possíveis problemas técnicos e sugerir alternativas para evitá-los;</li><li>Fornecer soluções de alta qualidade que atendam às melhores práticas de padrões de codificação e design;</li><li>Auxiliar a especificação de novas funcionalidades (trazendo o ponto de vista técnico);</li><li>Analisar a causa de problemas e propor soluções, provocar e auxiliar na capacitação da equipe de desenvolvimento;</li><li>Apoiar os arquitetos de software nos desafios tecnológicos, analisar e propor arquitetura, implementação de novas funcionalidades na plataforma.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>JavaScript ES6 avançado, com forte compreensão das últimas funcionalidades da linguagem;</li><li>Experiência com React.js (compreensão de Hooks, Context API e Redux para gerenciamento de estado);</li><li>Forte experiência com React Native;</li><li>Conhecimento profundo de HTML5, CSS3 e VanillaJS;</li><li>Experiência com Next.js para renderização do lado do servidor (SSR) e construção de aplicações escaláveis;</li><li>Bom entendimento de integrações com APIs RESTful, com experiência em consumir APIs no front-end;</li><li>Experiência com controle de versão usando GIT;</li><li>Conhecimento avançado em JavaScript/TypeScript e padrões de design SOLID;</li><li>Experiência com criação de componentes utilizando StyleSheet / Styled-components;</li><li>Forte conhecimento sobre Firebase e suas ferramentas;</li><li>Experiência com a criação de testes unitários e de integração (Jest, Moch, outros) com coverage de no mínimo 90%.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mblabs/48/tech-lead-front-end-react-react-native]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mblabs/48/banco-de-talentos-tech-lead-front-end-react-react-native]]></applyUrl>
     <companyId><![CDATA[9311532]]></companyId>
     <city><![CDATA[Campinas]]></city>
     <state><![CDATA[SP]]></state>
@@ -70804,10 +70819,10 @@ Disponibilidade para atuar presencialmente.</li>]]></description>
   <job>
     <partnerJobId><![CDATA[4ea4ceff-24fe-4ed7-9502-5516c169d833]]></partnerJobId>
     <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[CONTROLADOR DE ACESSO (40 horas)]]></title>
+    <title><![CDATA[CONTROLADOR DE ACESSO (44 horas)]]></title>
     <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Responsável por controlar a entrada e saída de pessoas, veículos e visitantes, realizando identificação, cadastro e orientação, zelando pela segurança do local, cumprimento das normas internas e apoio às rotinas de vigilância e organização do ambiente.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Controlar o acesso de visitantes, pais, alunos e terceirizados na instituição;Controlar a organização e o fluxo do estacionamento da escola;<br />Verificar internamente se todos os funcionários estão usando o crachá e informar a Central de Segurança;<br />Acompanhar passeios sob demanda dos encarregados e coordenadores;<br />Fazer rondas perimetrais e internas.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência prévia na função;Conhecimento das tecnologias e ferramentas Google.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/21/controlador-de-acesso-40-horas]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/21/controlador-de-acesso-44-horas]]></applyUrl>
     <companyId><![CDATA[1336374]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -73600,6 +73615,49 @@ responsabilidade.<br /></li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscosantacasa/30/tecnico-em-laboratorio-hospital-regional-piemonte-do-paraguacu]]></applyUrl>
     <companyId><![CDATA[97350692]]></companyId>
     <city><![CDATA[Itaberaba]]></city>
+    <state><![CDATA[BA]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[10ed4b7e-7054-4c2b-9cc0-3e187635887e]]></partnerJobId>
+    <company><![CDATA[Santa Casa Ruy Barbosa]]></company>
+    <title><![CDATA[Enfermeiro(a) administrativo - Centro Cirúrgico | Hospital Metropolitano]]></title>
+    <posterEmail><![CDATA[psiorg.rhcsc1@scrb.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por prestar assistência direta ao paciente no período perioperatório, garantindo a segurança, a correta identificação e o cumprimento dos protocolos institucionais antes, durante e após procedimentos cirúrgicos. Atua no apoio à equipe multiprofissional, contribuindo para a prevenção de riscos e para a qualidade do cuidado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar o checklist de cirurgia segura, conforme protocolo institucional;
+</li>
+<li>
+Conferir e registrar informações essenciais como jejum, alergias conhecidas e identificação do paciente;
+</li>
+<li>
+Garantir a identificação correta de peças anatômicas e realizar o devido encaminhamento, conforme fluxo estabelecido;
+</li>
+<li>
+Avaliar e monitorar o paciente;
+</li>
+<li>
+Comunicar à equipe qualquer alteração clínica identificada;
+</li>
+<li>
+Cumprir normas de biossegurança e segurança do paciente;
+</li>
+<li>
+Apoiar a equipe cirúrgica no preparo e organização do paciente para os procedimentos;
+</li>
+<li>
+Registrar informações assistenciais de forma clara e fidedigna nos prontuários e sistemas institucionais;
+</li>
+<li>
+Zelar pelo cumprimento dos protocolos assistenciais e padrões de qualidade da instituição.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Enfermagem concluída;</li><li>Registro no Conselho Regional de Enfermagem (COREN) ativo;</li><li>Experiência prévia no Centro Cirúrgico;</li><li>Disponibilidade para atuação em escala administrativa. </li></ul><br />    <br /> <br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscosantacasa/34/enfermeiro-a-administrativo-centro-cirurgico-hospital-metropolitano]]></applyUrl>
+    <companyId><![CDATA[97350692]]></companyId>
+    <city><![CDATA[Lauro de Freitas]]></city>
     <state><![CDATA[BA]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
