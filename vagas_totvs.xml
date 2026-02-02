@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Mon, 02 Feb 2026 17:16:15 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Feb 2026 18:18:07 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[2779]]></expectedJobCount>
+  <expectedJobCount><![CDATA[2786]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -722,6 +722,25 @@
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[950fe854-27d2-4194-999a-279b44b5303c]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[Analista de Negócios Pleno]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por apoiar na maximização do valor dos produtos dentro de seu segmento de atuação propondo novas soluções e avaliando alternativas para implementaçãoda área de produto, visando a satisfação do cliente e melhoria contínua dos produtos de seu segmento.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar levantamentos de requisitos propondo soluções, avaliando alternativas e realizando capacitações;</li><li>Estabelecer relacionamento com clientes, mantendo contato constante, realizando visitas, efetuando levantamentos das eventuais necessidades e se posicionando frente aos possíveis acionamentos;</li><li>Apoiar o Product Owner na tomada de decisão, colaborando com insumos de negócio; Detalhar requisitos de média complexidade por meio do contato com clientes e áreas envolvidas no projeto/atendimento, sugerindo a implementação no produto;</li><li>Realizar análise de impacto, das alterações solicitadas, nas outras áreas de negócio, através simulações no sistemas e contato com os Product Owner’s, e assim garantir a estabilidade do mesmo;</li><li>Trabalhar em conjunto com o time de desenvolvimento para encontrar soluções de negócio por meio de comunicação e trocas de conhecimento, compartilhando conhecimento e mantendo relacionamento com outras áreas;</li><li>Apoiar o Product Owner na validação das entregas realizadas pelo DEV Team, garantindo que todas as definições e os critérios de aceite sejam atendidos. Técnicas do time, de acordo com a estratégia da TOTVS</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Lean Thinking</li><li>Técnicas de negociação</li><li>Gestão de projetos – nível básico/ intermediário</li><li>Técnicas de concepção de produtos e métodos ágeis de desenvolvimento de software – nível básico</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8471/analista-de-negocios-pleno]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[fb81b020-1741-4a1b-8ff2-9f1ec3d03211]]></partnerJobId>
@@ -2492,6 +2511,25 @@ implementado no produto de software<br /><br /><br /><b>Requisitos e qualificaç
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8191/analista-de-suporte-senior]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3a178501-6d7e-4c85-8326-b1b67faa91da]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[Arquiteto de Soluções de IA]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar como referência técnica do time, liderando a definição e evolução da arquitetura de soluções de IA aplicadas aos produtos da empresa, garantindo que modelos, dados e integrações de IA sejam escaláveis, seguras, observáveis e alinhadas aos objetivos de negócio, promovendo adoção consistente e sustentável de IA nos produtos.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Definir arquiteturas de soluções de IA (LLMs, ML tradicional, regras híbridas) aplicadas aos produtos;</li><li>Traduzir requisitos funcionais e não funcionais em soluções técnicas viáveis, avaliando alternativas e escolhendo as soluções tecnológicas mais adequadas, considerando trade offs de qualidade, prazo, custo, escalabilidade, segurança e impacto operacional;</li><li>Apoiar a construção e evolução de pipelines de dados, integrações assíncronas e soluções que se conectem a modelos de IA quando aplicável;</li><li>Liderar decisões de uso de modelos: LLMs comerciais, open-source, fine-tuning ou RAG;</li><li>Definir padrões para integração de IA em produtos (APIs, eventos, pipelines);</li><li>Avaliar trade-offs de custo, latência, qualidade, segurança e escalabilidade de soluções de IA;</li><li>Estruturar o ciclo de vida de soluções de IA: experimentação, validação, deploy, monitoramento e evolução;</li><li>Definir estratégias de versionamento de prompts, modelos e datasets;</li><li>Implementar observabilidade de IA (qualidade das respostas, drift, custo por request, latência);</li><li>Atuar em incidentes relacionados a IA (respostas incorretas, alucinações, degradação)</li><li>Definir práticas de segurança, privacidade e governança para uso de IA;</li><li>Garantir compliance (LGPD, uso responsável de dados, auditoria de decisões automatizadas);</li><li>Criar ou evoluir componentes reutilizáveis, padrões e frameworks/plataformas quando necessário para acelerar o desenvolvimento;</li><li>Avaliar riscos de viés, alucinação e uso indevido de IA nos produtos;</li><li>Trabalhar junto a produto para identificar casos de uso de IA com impacto mensurável;</li><li>Apoiar definição de métricas de sucesso de IA (ROI, eficiência operacional, experiência do usuário);</li><li>Priorizar iniciativas de IA com base em valor de negócio, viabilidade técnica e custo operacional;</li><li>Apoiar a priorização técnica do backlog, sinalizando riscos, dependências e impactos arquiteturais;</li><li>Atuar na análise e resolução de incidentes, investigando causa raiz e propondo melhorias estruturais;</li><li>Contribuir para a evolução dos processos de engenharia, alinhados aos objetivos de curto e médio prazo da área;</li><li>Manter-se atualizado sobre tendências de mercado, arquitetura, dados e IA, disseminando conhecimento no time;</li><li>Assegurar o cumprimento das metas do time, influenciando práticas, priorização de tarefas e promovendo evolução contínua da qualidade técnica;</li><li>Propor inovações aplicáveis ao roadmap do produto, realizando provas de conceito e estudos de caso que aumentem competitividade, eficiência e qualidade da solução.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Experiência de 8 a 10 anos em Desenvolvimento de Software, com vivência como refer~encia técnica, arquiteto ou liderança técnica de times;</b></li><li><b>Formação em Ciencia da Computação, Engenharia de Sotware, Sistema de Informação ou afins;</b></li><li><b>Experiência sólida em arquitetura de software e sistemas distribuídos;</b></li><li><b>Experiência prática mínima de 2 anos aplicando IA em produção;</b></li><li><b>Conhecimento prático em algum das áreas abaixo:<br />Machine Learning aplicado<br />LLMs e IA Generativa<br />Sistemas de recomendação, classificação, predição ou NLP;</b></li><li><b>Experiência com integração de APIs de IA e/ou frameworks de ML;</b></li><li><b>Capacidade de traduzir problemas de negócio em soluções técnicas.</b></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8464/arquiteto-de-solucoes-de-ia]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -5134,6 +5172,44 @@ turno manhã.<br /><b>Requisitos desejáveis:</b><br />Experiência em docência
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[51c85307-2352-44a1-9721-0391cf3a854d]]></partnerJobId>
+    <company><![CDATA[SENAC]]></company>
+    <title><![CDATA[2026.10.03   - Instrutor Horista Intermitente - Segmento Idiomas (Inglês - Teens ao  English Advanced  ) - Teresina/Pi]]></title>
+    <posterEmail><![CDATA[anaclarabarbosa@pi.senac.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Instrutor Horista Intermitente - Segmento Idiomas (Inglês) - Teresina/Pi<br /><br /><b>Etapas do processo seletivo</b> <br />Triagem de currículos;<br />Entrevista por competências;<br />Avaliação didática pedagógica.<br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar na elaboração do planejamento escolar e preparar a matéria a ser ministrada em sala de aula; </li><li>Prever estratégias e recursos didáticos necessários ao desenvolvimento dos trabalhos pedagógicos; </li><li>Conduzir o processo ensino-aprendizagem e promover a avaliação pedagógica da aprendizagem do corpo discente;</li><li> Documentar a prática pedagógica; </li><li>Participar de reuniões e grupos de estudos; analisar, interpretar normas e procedimentos; </li><li>Participar da elaboração e realização de projetos especiais;</li><li> Executar outras tarefas compatíveis com o cargo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Graduação completa em Letras Inglês. Domínio avançado do idioma e experiência com o público adolescente. Residir na cidade de atuação. <br /><br /><br /><b>Requisitos Desejáveis:</b> <br />Experiência em docência. <br /><br /><br /><br /><b>Período de inscrição: 02/02/2026 a 09/02/2026</b><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivoinstrutorsenacpi/232/2026-10-03-instrutor-horista-intermitente-segmento-idiomas-ingles-teens-ao-english-advanced-teresina-pi]]></applyUrl>
+    <companyId><![CDATA[30120764]]></companyId>
+    <city><![CDATA[Teresina]]></city>
+    <state><![CDATA[PI]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e5215b00-d2eb-4213-bd7b-a34a38631214]]></partnerJobId>
+    <company><![CDATA[SENAC]]></company>
+    <title><![CDATA[2026.10.02   - Instrutor Horista Intermitente - Segmento Idiomas (Inglês - Kids e Juniors ) - Teresina/Pi]]></title>
+    <posterEmail><![CDATA[anaclarabarbosa@pi.senac.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Instrutor Horista Intermitente - Segmento Idiomas (Inglês) - Teresina/Pi<br /><br /><b>Etapas do processo seletivo</b> <br />Triagem de currículos;<br />Entrevista por competências;<br />Avaliação didática pedagógica.<br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar na elaboração do planejamento escolar e preparar a matéria a ser ministrada em sala de aula; </li><li>Prever estratégias e recursos didáticos necessários ao desenvolvimento dos trabalhos pedagógicos; </li><li>Conduzir o processo ensino-aprendizagem e promover a avaliação pedagógica da aprendizagem do corpo discente;</li><li> Documentar a prática pedagógica; </li><li>Participar de reuniões e grupos de estudos; analisar, interpretar normas e procedimentos; </li><li>Participar da elaboração e realização de projetos especiais;</li><li> Executar outras tarefas compatíveis com o cargo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médico completo, desejável ensino superior em andamento. Domínio/fluência em inglês e experiência com o público infantil e jovem. <br /><br /><br /><b>Requisitos Desejáveis:</b> <br />Experiência em docência. Residir na cidade de atuação. <br /><br /><br /><br /><br /><b>Período de inscrição: 02/02/2026 a 09/02/2026</b><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivoinstrutorsenacpi/231/2026-10-02-instrutor-horista-intermitente-segmento-idiomas-ingles-kids-e-juniors-teresina-pi]]></applyUrl>
+    <companyId><![CDATA[30120764]]></companyId>
+    <city><![CDATA[Teresina]]></city>
+    <state><![CDATA[PI]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[190dab12-c5b9-4814-8170-ddba8f3e7889]]></partnerJobId>
     <company><![CDATA[Bras Leme Centro Medico (DEMONSTRAÇÃO)]]></company>
     <title><![CDATA[Ajudante de Distribuição - Betim MG - Vaga também para PcD]]></title>
@@ -5768,6 +5844,25 @@ para otimizar estratégias;<br /><br /><b>Responsabilidades e atribuições</b><
     <companyId><![CDATA[93813687]]></companyId>
     <city><![CDATA[Juazeiro do Norte]]></city>
     <state><![CDATA[CE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[a866f685-b4e8-48d4-8d10-47c643fd0f91]]></partnerJobId>
+    <company><![CDATA[TOTVS NORDESTE]]></company>
+    <title><![CDATA[Assistente de Suporte]]></title>
+    <posterEmail><![CDATA[allanis.souza@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Assistente Administrativo para apoiar o time de serviços no acompanhamento e gestão de chamados, garantindo organização, agilidade e comunicação eficiente entre as áreas.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar diariamente o sistema de chamados (tickets);</li><li>Identificar chamados abertos, em andamento e atrasados;</li><li>Reportar ao time de suporte quais chamados podem e devem ser atendidos;</li><li>Cobrar prazos e acompanhar a evolução dos atendimentos;</li><li>Apoiar na priorização de chamados conforme SLA e criticidade;</li><li>Atualizar status e informações no sistema de chamados;</li><li>Criar e manter controles e relatórios em Excel;</li><li>Gerar relatórios de acompanhamento (abertos, atrasados, resolvidos);</li><li>Apoiar a comunicação entre suporte, coordenação e demais áreas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo (desejável ensino superior em andamento em Administração, Processos Gerenciais ou áreas afins);</li><li><strong>Conhecimento avançado em Excel</strong> (fórmulas, PROCV/XLOOKUP, tabelas dinâmicas, filtros, organização de dados);</li><li>Organização e atenção a detalhes;</li><li>Boa comunicação verbal e escrita;</li><li>Facilidade para trabalhar com sistemas e rotinas administrativas.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nordeste/95/assistente-de-suporte]]></applyUrl>
+    <companyId><![CDATA[93813687]]></companyId>
+    <city><![CDATA[Natal]]></city>
+    <state><![CDATA[RN]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -20385,10 +20480,10 @@ Ah, e é importante estar estudando no período noturno!<br /><br /><b>Responsab
   <job>
     <partnerJobId><![CDATA[bd368be8-724d-4b49-bd4d-92f17da8927e]]></partnerJobId>
     <company><![CDATA[Stefanini IHM]]></company>
-    <title><![CDATA[Estágio de Sistemas Elétricos - Contagem]]></title>
+    <title><![CDATA[Estágio de Sistemas Elétricos]]></title>
     <posterEmail><![CDATA[smfriedrich@ihm.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas talentosas e motivadas para se juntarem a nós em uma experiência enriquecedora de Estágio de Sistemas Elétricos em nossa fábrica que fica no bairro Novo Eldorado em Contagem. Esta é uma oportunidade única para aqueles que desejam desenvolver suas habilidades em um ambiente dinâmico e colaborativo, onde a inovação e a criatividade são valorizadas. Se você está em busca de crescimento pessoal e profissional, seu lugar pode ser aqui! Venha construir sua trajetória conosco e descubra um mundo de possibilidades!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar a equipe no desenvolvimento de projetos elétricos de painéis de Média Tensão, Baixa Tensão, Quadros Auxiliares, Painéis de CLP e Remotas e diagramas de interligação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando Técnico ou Graduação em Engenharia Elétrica ou Eletrotécnica;</li><li>Conhecimento intermediário no Pacote Office.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ihmstefanini/103/estagio-de-sistemas-eletricos-contagem]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ihmstefanini/103/estagio-de-sistemas-eletricos]]></applyUrl>
     <companyId><![CDATA[1306131]]></companyId>
     <city><![CDATA[Contagem]]></city>
     <state><![CDATA[MG]]></state>
@@ -20507,6 +20602,25 @@ Experiência comprovada com o software Elipse
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1e6fc5e8-cfb3-4bcb-94b7-af9b4fb0fe58]]></partnerJobId>
+    <company><![CDATA[Stefanini IHM]]></company>
+    <title><![CDATA[Especialista em Automação Industrial Sênior (Foco em Controle de Processos)]]></title>
+    <posterEmail><![CDATA[smfriedrich@ihm.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Local da vaga: Nova Lima-MG </li><li>Possibilidade de residência, com transporte gratuito, em Itabirito, Belo Horizonte, Contagem, Betim, Raposos, Nova Lima e Ouro Preto.</li></ul><br />Fazemos parte da Inteligência Industrial, um time multidisciplinar de engenheiros, designers e cientistas de dados focados na melhoria contínua dos processos industriais. Nesse contexto, acreditamos que as disciplinas de controle e otimização são uma poderosa ferramenta para alavancar o resultado de nossos clientes.<br />Se você é um profissional motivado, gosta de aprender constantemente e tem interesse em trabalhar em projetos para a indústria, então você achou a oportunidade certa!<br />Queremos sempre entregar valor de forma ágil para a industria e trabalhar de forma eficiente, mantendo o mais alto nível de qualidade técnica. É um desafio e tanto!Vamos juntos?<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Você trabalhará em um projeto na área de mineração com soluções baseadas em controle regulatório, controle avançado, simulação, soft sensors, estatística multivariada, monitoramento e identificação de gargalos on-line, com foco na integração de pontos ótimos de operação de cada etapa, quando possivel aplicando a otimização em tempo real (RTO – Real Time Optimization).<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Engenharias de Controle e Automação, Elétrica ou afins;</li><li>Experiência mínima de 15 anos;</li><li>Experiência em gestão de malhas de controle e indicadores;</li><li>Experiência em programação de PLCs – Siemens;</li><li>Experiência em atividades de automação que suportem a implantação de técnicas de controle de process;</li><li>Experiência em sistema de gestão e sintonia de malhas de controle - PlantTriage.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ihmstefanini/104/especialista-em-automacao-industrial-senior-foco-em-controle-de-processos]]></applyUrl>
+    <companyId><![CDATA[1306131]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[1ea8b3bc-4250-4ba2-9e17-84b164dad85d]]></partnerJobId>
@@ -31712,6 +31826,61 @@ Experiência com recebimento, conferência, armazenagem, separação e expediç�
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenoglh/112/supervisor-de-logistica-acreuna]]></applyUrl>
     <companyId><![CDATA[20091464]]></companyId>
     <city><![CDATA[Acreúna]]></city>
+    <state><![CDATA[GO]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[590e8f27-079f-4bb6-a4f7-6127112ee2de]]></partnerJobId>
+    <company><![CDATA[Grupo Luiz Höhl]]></company>
+    <title><![CDATA[Especialista de Planejamento e Performance]]></title>
+    <posterEmail><![CDATA[ester.peixoto@grupoluizhohl.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional responsável por coletar, tratar, analisar e interpretar dados estratégicos de mercado, concorrência e desempenho interno, transformando informações em insights que apoiem decisões comerciais estratégicas e operacionais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Monitorar, analisar e acompanhar indicadores de desempenho comercial e operacional;
+</li>
+<li>
+Estruturar e manter relatórios e dashboards de vendas, serviços, margem, baixo giro, produtos sem vendas, vendas por marca (Degress, Stihl), peças e acessórios, além de análises de estoque e inventário;
+</li>
+<li>
+Mapear oportunidades de mercado, analisar concorrentes e comportamento do consumidor;
+</li>
+<li>
+Garantir a qualidade, consistência e atualização das bases de dados internas;
+</li>
+<li>
+Desenvolver análises preditivas e recomendações estratégicas para o corporativo;
+</li>
+<li>
+Elaborar estudos e modelos analíticos de potencial de mercado por região, canal e categoria;
+</li>
+<li>
+Apoiar campanhas comerciais por meio de análises de performance e ROI;
+</li>
+<li>
+Atuar como interface entre o corporativo, gerentes, área de compras e demais áreas correlatas.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação superior em Administração, Tecnologia da Informação, Análise de Dados ou áreas correlatas;
+</li>
+<li>
+Experiência prévia com análise de dados e/ou inteligência de mercado;
+</li>
+<li>
+Domínio de ferramentas analíticas, como Excel avançado, Power BI, SQL e Google Data;
+</li>
+<li>
+Capacidade de interpretar grandes volumes de dados e traduzi-los em ações práticas;
+</li>
+<li>
+Habilidade para apresentação de resultados e storytelling com dados;</li><li>
+Interface constante com áreas corporativas e filiais;
+</li><li>
+Disponibilidade para viagens para visitas às filiais, quando necessário.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenoglh/126/especialista-de-planejamento-e-performance]]></applyUrl>
+    <companyId><![CDATA[20091464]]></companyId>
+    <city><![CDATA[Goiânia]]></city>
     <state><![CDATA[GO]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -46424,6 +46593,25 @@ Organização e autonomia para gerir sua rotina de visitas e resultados.<br /></
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[97fa5159-62a1-4a63-9f46-12903cec7fba]]></partnerJobId>
+    <company><![CDATA[GS Inima Brasil]]></company>
+    <title><![CDATA[Auxiliar de encanador de redes - Comercial]]></title>
+    <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por apoiar nas operações de corte, religação e manutenção de redes hidráulicas, realizar fechamentos de ordens de serviço via sistema mobile, orientar clientes sobre regularizações, participar da sinalização e limpeza de obras, utilizar EPIs obrigatórios e conduzir veículos da empresa quando necessário.<br /><br /><b>Horário: </b>Segunda a Quinta, das 07:30 às 17:30 com 1:00 refeição / Sex. 07:30 às 16:30 / Sáb. Compensado<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar no controle das operações de corte e realizar religação e recorte de ligações hidráulicas;</li><li>Apoiar o encanador na identificação de vazamentos e obstruções.</li><li>Realizar e controlar os fechamentos diários das ordens de serviço através do sistema mobile;</li><li>Orientar os clientes para evitar infrações que possam resultar em corte ou irregularidade na ligação;</li><li>Apoiar as equipes na manutenção de redes hidráulicas e sanitários, incluindo tubulações diversas (PVC, cobre, ferro fundido, galvanizado, etc.);</li><li>Participar da sinalização de obras e da limpeza das vias conforme necessário;</li><li>Utilizar os EPIs obrigatórios para garantir segurança durante a execução das atividades;</li><li>Dirigir veículos da empresa (carro ou van), quando devidamente habilitado e solicitado pela gestão.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação Obrigatória:</b> Ensino Fundamental Completo]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/304/auxiliar-de-encanador-de-redes-comercial]]></applyUrl>
+    <companyId><![CDATA[36870042]]></companyId>
+    <city><![CDATA[Ouro Preto]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[6b9cd062-5fee-47b1-a261-be7307ba7746]]></partnerJobId>
     <company><![CDATA[GS Inima Brasil]]></company>
     <title><![CDATA[Supervisor(a) de Obras]]></title>
@@ -50268,7 +50456,7 @@ responsabilidade.</li></ul><br />]]></description>
     <company><![CDATA[BRAM OFFSHORE]]></company>
     <title><![CDATA[Coordenador de Operações]]></title>
     <posterEmail><![CDATA[beatriz.santana@chouest.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Coordenador de Operações de embarcações Offshore para atuar em nossa célula de embarcações AHTS, garantindo a eficácia da operação.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Garantir que as embarcações coloquem em prática a missão, visão, valores da empresa e as estratégias operacionais definidas;</li><li>Garantir que as embarcações sejam tripuladas de acordo com a Administração e os regulamentos da bandeira; </li><li>Garantir que as operações sejam realizadas com todos os procedimentos de QSMS da empresa;</li><li>Desenhar procedimentos operacionais e seguir políticas estabelecidas;</li><li>Reforçar as premissas operacionais para as áreas de suporte, para que elas possam garantir as necessidades estabelecidas pelas embarcações;</li><li>Acompanhar e monitorar a qualidade e prazo dos serviços das áreas de suporte, apresentando para o seu superior, seus principais desafios;</li><li>Acompanhar as operações e a manutenção das embarcações diariamente;</li><li>Acompanhar os tripulantes e interagir com os clientes;</li><li>Planejar e acompanhar as trocas de turma;</li><li>Acompanhar e monitorar auditorias e inspeções;</li><li>Apoiar as práticas e procedimentos do Manual do Sistema de Gestão; </li><li>Supervisionar e avaliar os tripulantes das embarcações; </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com Operações na área Naval/Offshore; </li><li>Experiência com Gestão de Pessoas;</li><li>Disponibilidade para viagens;</li><li>Inglês Intermediário.</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Coordenador de Operações com experiência na área Naval/Offshore para atuar em nossa célula de embarcações AHTS, garantindo a eficácia da operação.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Garantir que as embarcações coloquem em prática a missão, visão, valores da empresa e as estratégias operacionais definidas;</li><li>Garantir que as embarcações sejam tripuladas de acordo com a Administração e os regulamentos da bandeira; </li><li>Garantir que as operações sejam realizadas com todos os procedimentos de QSMS da empresa;</li><li>Desenhar procedimentos operacionais e seguir políticas estabelecidas;</li><li>Reforçar as premissas operacionais para as áreas de suporte, para que elas possam garantir as necessidades estabelecidas pelas embarcações;</li><li>Acompanhar e monitorar a qualidade e prazo dos serviços das áreas de suporte, apresentando para o seu superior, seus principais desafios;</li><li>Acompanhar as operações e a manutenção das embarcações diariamente;</li><li>Acompanhar os tripulantes e interagir com os clientes;</li><li>Planejar e acompanhar as trocas de turma;</li><li>Acompanhar e monitorar auditorias e inspeções;</li><li>Apoiar as práticas e procedimentos do Manual do Sistema de Gestão; </li><li>Supervisionar e avaliar os tripulantes das embarcações; </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com Operações na área Naval/Offshore; </li><li>Experiência com Gestão de Pessoas;</li><li>Disponibilidade para viagens;</li><li>Inglês Intermediário.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/213/coordenador-de-operacoes]]></applyUrl>
     <companyId><![CDATA[5672510]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
@@ -70634,29 +70822,6 @@ This is a chance to grow both personally and professionally, helping to shape co
       <salary>
         <highEnd>
           <amount><![CDATA[5035.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[40e9a07b-b584-4ce0-9292-37de62423e72]]></partnerJobId>
-    <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[CONTROLADOR DE ACESSO (25 horas)]]></title>
-    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por controlar a entrada e saída de pessoas, veículos e visitantes, realizando identificação, cadastro e orientação, zelando pela segurança do local, cumprimento das normas internas e apoio às rotinas de vigilância e organização do ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Controlar o acesso de visitantes, pais, alunos e terceirizados na instituição;Controlar a organização e o fluxo do estacionamento da escola;<br />Verificar internamente se todos os funcionários estão usando o crachá e informar a Central de Segurança;<br />Acompanhar passeios sob demanda dos encarregados e coordenadores;<br />Fazer rondas perimetrais e internas.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência prévia na função;Conhecimento das tecnologias e ferramentas Google.<br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/15/controlador-de-acesso-25-horas]]></applyUrl>
-    <companyId><![CDATA[1336374]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[2092.50]]></amount>
           <currencyCode>BRL</currencyCode>
         </highEnd>
         <period><![CDATA[MONTHLY]]></period>
