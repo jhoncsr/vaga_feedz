@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 18 Feb 2026 20:16:02 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Feb 2026 21:16:21 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[2962]]></expectedJobCount>
+  <expectedJobCount><![CDATA[2967]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -883,6 +883,25 @@ tecnologia.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8474/arquitetura-de-software-ia]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[19f37e55-fd42-4080-a810-4a60efc9c744]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[Especialista II De Infraestrutura De Cloud]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Arquitetar e evoluir a infraestrutura da plataforma de IA da Cloud TOTVS de forma segura, escalável e sustentável, assegurando previsibilidade operacional, eficiência financeira e baixo acoplamento tecnológico, de modo a sustentar o crescimento contínuo dos serviços de inferência e dos produtos de IA da companhia.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Arquitetar e evoluir a infraestrutura de inferência e suporte a treinamento e fine-tuning de modelos, com abordagem <strong>GPU-first</strong>, considerando ambientes on-premises, cloud e serviços externos quando aplicável.</li><li>Definir a arquitetura do ambiente, incluindo topologias de rede, isolamento de workloads, alta disponibilidade, capacidade e resiliência.</li><li>Planejar e executar a implantação da plataforma de IA, garantindo compatibilidade entre hardware, sistema operacional, drivers, stacks CUDA (ou equivalentes), Kubernetes e plataformas de inferência.</li><li>Operar e sustentar a plataforma de inferência em produção, assegurando disponibilidade, desempenho e continuidade operacional (em escopo de arquitetura estratégica).</li><li>Apoiar o planejamento e a execução de ações de melhoria decorrentes de incidentes complexos envolvendo GPUs, Kubernetes, redes, storage e workloads de inferência.</li><li>Aplicar práticas de SRE, incluindo definição e acompanhamento de SLOs, SLIs, error budgets e gestão de incidentes.</li><li>Operar e evoluir stacks de inferência comerciais e open source (ex.: NVIDIA AI Enterprise, Triton, vLLM, KServe), garantindo portabilidade e mitigação de lock-in.</li><li>Definir e padronizar o uso de serviços de inferência quando aplicável (ex.: Triton, NIM).</li><li>Arquitetar e operar clusters Kubernetes para workloads de IA, com foco em isolamento multi-tenant, GPU scheduling, concorrência, filas, backpressure e escalabilidade.</li><li>Implementar observabilidade full stack, abrangendo infraestrutura, GPUs, Kubernetes e serviços de inferência.</li><li>Garantir visibilidade sobre consumo de recursos, capacidade, riscos operacionais e impacto financeiro das cargas de IA.</li><li>Apoiar processos de capacity planning e planejamento orçamentário, avaliando trade-offs entre soluções comerciais e open source.</li><li>Integrar práticas de DevSecOps desde a concepção até a operação da plataforma.</li><li>Garantir conformidade com políticas de segurança, auditoria, controle de acesso e segregação de ambientes.</li><li>Disseminar padrões técnicos, boas práticas e conhecimento por meio de documentação estruturada e mentorias técnicas.</li><li>Apoiar tecnicamente fóruns internos e processos decisórios relacionados à infraestrutura de IA.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Experiência </strong><ul><li>Experiência mínima de 5 anos em infraestrutura de TI, cloud ou plataformas distribuídas, com atuação em ambientes críticos.</li><li>Experiência comprovada em arquitetura e operação de sistemas distribuídos, preferencialmente com workloads de dados, analytics ou IA.</li><li>Vivência mínima de 3 anos em equipes multidisciplinares, interagindo com times de produto, dados, segurança e arquitetura.</li></ul><strong>Formação Acadêmica</strong><ul><li>Graduação em Tecnologia da Informação, Engenharia, Ciência da Computação ou áreas correlatas.</li><li>Pós-graduação ou MBA em Arquitetura de Software, Cloud Computing, Sistemas Distribuídos, Segurança da Informação ou áreas afins (desejável).</li></ul><strong>Idiomas</strong><ul><li>Inglês avançado para leitura técnica, escrita e conversação, com capacidade de participar de discussões técnicas e estratégicas.</li></ul><strong>Certificações (diferenciais)</strong><ul><li>Certificações relacionadas a Kubernetes, Cloud Pública e Infraestrutura como Código (IaC).</li></ul><strong>Conhecimentos Específicos / Habilidades</strong><ul><li>Domínio de sistemas distribuídos, incluindo concorrência, balanceamento de carga, isolamento de workloads, filas e backpressure.</li><li>Experiência sólida em Kubernetes, incluindo ambientes gerenciados (EKS, GKE, AKS), scheduling avançado e isolamento multi-tenant.</li><li>Conhecimento avançado em ambientes de missão crítica, com foco em alta disponibilidade, resiliência e continuidade operacional.</li><li>Domínio de arquitetura de redes aplicadas a cloud e Kubernetes (TCP/IP, DNS, Load Balancers, Firewalls, SDN).</li><li>Domínio na aplicação de soluções de storage para workloads I/O intensive em Kubernetes e ambientes de grande escala.</li><li>Experiência com serviços de nuvem pública (AWS, Azure e/ou GCP) e entendimento do modelo de responsabilidade compartilhada.</li><li>Domínio de observabilidade (métricas, logs e traces) aplicada a infraestrutura e plataformas de IA.</li><li>Experiência com Infraestrutura como Código (IaC) e automação.</li><li>Conhecimento aplicado em práticas de DevSecOps e SRE.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8762/especialista-ii-de-infraestrutura-de-cloud]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -3201,6 +3220,44 @@ implementado no produto de software<br /><br /><br /><b>Requisitos e qualificaç
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8269/pessoa-desenvolvedora-delphi-senior]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3b6f09d3-4b92-4d11-a6e3-880f880a6f48]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[Assistente Administrativo de Contrato de Vendas]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Missão do cargo: Responsável por realizar o atendimento, manutenção e a gestão dos contratos de vendas, para garantir o acordo contratual realizado pelo cliente com a TOTVS, para todas as unidades no Brasil.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar no atendimento a tickets de baixa complexidade de clientes Internos e Externos (com supervisão de analistas mais seniores), através do atendimento realizado via ferramenta Zendesk;</li><li>Manutenção em contratos baseados nos processos da área, com supervisão de analistas mais seniores, via sistema de Gestão de Contratos TOTVS;</li><li>Geração de novas propostas de venda, gravando os itens em contrato através do Sistema de Gestão de Contratos TOTVS;</li><li>Responsável pela Liberação dos Faturamentos Pontuais via Pedido de Venda para geração das notas fiscais, realizado através do Sistema de Gestão de Contratos TOTVS.</li><li>Avaliar e executar a Distribuição de Tickets, através da ferramenta de atendimento;</li><li>Avaliar e executar o atendimento ao processo de Cancelamento de Contratos, Transferência de Licenças e Reativação de Licenças, a partir das regras definidas no contrato, através das ferramentas de contratos de vendas e atendimento;</li><li>Avaliar e executar o atendimento aos processos de Inclusão e/ou Exclusão de CNPJs, Memória de Cálculo dos contratos, Informe e/ou Comprovação de Métricas pertinentes a modalidade Corporativa e Novo Intera, a partir das regras apresentadas para cada modalidade, através das ferramentas de contratos de vendas e atendimento;</li><li>Avaliar e executar o atendimento ao processo de questionamentos ou cancelamentos acerca das Notas Fiscais Emitidas e Reajuste no Valor Contratual, a partir das regras definidas no processo, através das ferramentas de contratos de vendas e atendimento;</li><li>Avaliar e executar o atendimento ao processo de Inventário Contratual e de Licenciamento, a partir das regras definidas no processo, através das ferramentas de contratos de vendas, atendimento e sistemas de licenciamento adjacentes;</li><li>Avaliar e executar o atendimento ao processo de Bonificação ou Carência, Rateio de Faturamento, Alterações ou Avaliações Contratuais nos itens contratuais, a partir das regras definidas no processo, através das ferramentas de contratos de vendas e atendimento;</li><li>Apoiar o cumprimento dos Indicadores Individuais (produtividade, pesquisa de satisfação e outros) e os resultados/metas da área, seguindo o processo de atendimento;</li><li>Cumprir as Políticas, as Normas e os Procedimentos Operacionais através das definições da área Administrativa.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo ou cursando a graduação;</li><li>Conhecimento em pacote Google e Office básico.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8760/assistente-administrativo-de-contrato-de-vendas]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[715f35ec-40bc-4901-9d0d-bc48f87def3f]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[Analista de Desenvolvimento de Software Júnior]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Desenvolver e sustentar funcionalidades de software, que agreguem valor ao produto, garantindo a satisfação do cliente dentro da área de atuação.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver soluções técnicas de baixa complexidade, com nível de supervisão moderado e apoio moderado, através do desenvolvimento de requisitos de softwares utilizando-se das tecnologias envolvidas no projeto; </li><li>Compreender a arquitetura do software e ser capaz de atuar nela através da análise de seus componentes, organização e funcionalidades; </li><li>Criar testes de baixa complexidade, sejam estes manuais ou automatizados, que cubram o comportamento desejado dos componentes técnicos desenvolvidos utilizando os requisitos e ferramentas de testes; </li><li>Documentar o que for desenvolvido de forma a permitir a compreensão do usuário final; </li><li>Trabalhar com o time de desenvolvimento para encontrar soluções de negócio, arquitetura e desenho através da comunicação e trocas de conhecimento; </li><li>Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados; </li><li>Utiliza frameworks já definidos para o desenvolvimento de soluções.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação: : Superior completo em tecnologia e afins (desejável). Conhecimentos específicos: <br /><ul><li>Lógica de Programação; </li><li>Banco de Dados – nível básico; </li><li>Linguagem de programação utilizada pelo time ( ADVLP, C#, Progress, 4GL, Java, outros) - nível básico; </li><li>Desenvolvimento no ERP TOTVS PROTHEUS</li><li>Conhecimento nos módulos do Protheus</li><li>Fundamento em testes unitários; </li><li>Arquitetura web – nível básico; </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8649/analista-de-desenvolvimento-de-software-junior]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -10529,52 +10586,6 @@ educacional, ajudando a transformar vidas por meio do conhecimento!<br /><br /><
      e visão centrada no cliente.</li>
 </ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ipgscarreiras/43/assistente-de-customer-success-e-retencao]]></applyUrl>
-    <companyId><![CDATA[3737470]]></companyId>
-    <city><![CDATA[Porto Alegre]]></city>
-    <state><![CDATA[RS]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[007bf7c0-c0a9-4d2d-83d7-8932ca3e1616]]></partnerJobId>
-    <company><![CDATA[Faculdade IPGS]]></company>
-    <title><![CDATA[Estágio de Acompanhamento de sistemas internos]]></title>
-    <posterEmail><![CDATA[rh@ipgs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Já imaginou fazer <b>parte do time de TI da IPGS,</b> que
-é uma empresa que proporciona o ensino em saúde em todo o Brasil, de forma
-exclusiva, focado na área de Nutrição? <br />
-Você é apaixonado por educação e tem talento para processos eficientes? Esta é
-a sua oportunidade de fazer parte de uma empresa inovadora no setor
-educacional, ajudando a transformar vidas por meio do conhecimento!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Suporte
-     na rotina administrativa do setor;</li>
- <li>Organizar
-     abertura, acompanhamento e fechamento de suportes e desenvolvimentos de
-     todos os sistemas internos da empresa;</li>
- <li>Suporte
-     no contato com equipe interna;</li>
- <li>Suporte
-     na organização e montagem de apresentações;</li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Buscamos uma pessoa que seja:<br />
-<br />
-Comunicação clara e eficaz;<br />
-Tenha uma boa organização nas demandas para não atrasar entregas;<br />
-Tenha uma boa convivência em equipe;<br />
-Consiga se adaptar em ambientes diferentes;<br />
-Dinâmica e proativa.<br />
-<br />
-E que tenha:<br />
-<br />
-Boa escrita;<br />
-Conhecimento básico em Excel e pacote office;<br />
-Habilidade organizacional para gerenciar múltiplas tarefas;]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ipgscarreiras/41/estagio-de-acompanhamento-de-sistemas-internos]]></applyUrl>
     <companyId><![CDATA[3737470]]></companyId>
     <city><![CDATA[Porto Alegre]]></city>
     <state><![CDATA[RS]]></state>
@@ -23325,6 +23336,25 @@ oportunidade é para você.<br /><br /><b>Responsabilidades e atribuições</b><
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[bea88e11-084f-4cac-9379-1b564d4698d5]]></partnerJobId>
+    <company><![CDATA[V8.Tech]]></company>
+    <title><![CDATA[Scrum Master]]></title>
+    <posterEmail><![CDATA[clara.faria@v8.tech]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa dedicada e com vontade de fazer a diferença para atuar na área de Agilidade.  Se você ama tecnologia, gosta de desafios e acredita no poder da colaboração para alcançar grandes resultados, essa oportunidade é para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atuar como facilitador entre áreas de negócio e tecnologia, garantindo entregas de alto valor.<br />Gerenciar e priorizar o backlog do produto, garantindo alinhamento com os objetivos estratégicos.<br />Garantir clareza e transparência sobre prioridades, alinhando expectativas com stakeholders e squads.<br />Definir e acompanhar métricas-chave, garantindo que a evolução do produto seja orientada por dados.<br />Realizar discovery contínuo, garantindo que as soluções propostas resolvam problemas reais do usuário.<br />Promover feedback contínuo entre usuários, stakeholders e times de desenvolvimento.<br />Identificar riscos e oportunidades, ajustando rapidamente o roadmap conforme necessário.<br />Indicadores e Report Executivo:<br />- Acompanhar e reportar métricas ágeis:<br />- Velocity<br />- Burndown / Burnup<br />- Lead Time / Cycle Time<br />- Apoiar status reports executivos para líderes, PMOs e stakeholders.<br />- Entre outros indicadores de mercado<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência profissional como Scrum Master .<br />Domínio das metodologias ágeis e frameworks de priorização de backlog.<br />Capacidade de traduzir necessidades de negócio em soluções técnicas viáveis.<br />Vivência com métricas de produto e tomada de decisão baseada em dados.<br />Forte habilidade de comunicação e alinhamento com times multidisciplinares.<br />Experiência com ferramentas:Jira, Azure DevOps, Confluence (ou similares)<br />Atuação em times multidisciplinares (Dev, QA, Infra, Segurança, Negócio).<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/519/scrum-master]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[5486cd62-c2a3-4a75-8e65-c2eaef94c5c3]]></partnerJobId>
@@ -41617,6 +41647,43 @@ Conhecimento básico em redes sociais e portais de notícias.</li>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[fcdcd138-91df-404e-adaa-aea01244b9e8]]></partnerJobId>
+    <company><![CDATA[Grupo EP]]></company>
+    <title><![CDATA[Técnico de Sistemas Audiovisuais Júnior]]></title>
+    <posterEmail><![CDATA[fabiana.leao@eptv.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) profissional responsável pela verificação de sinais e fechamento de enlaces de vídeo via internet, atuando também na recepção, geração e transferência de arquivos de áudio e vídeo em rede. Suas atividades incluem apoiar na configuração e instalação de equipamentos, monitorar e operar sistemas de transmissão e recepção entre diferentes localidades, além de realizar a montagem e desmontagem de equipamentos em eventos externos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Verificar sinais e realizar fechamento de enlaces de vídeo via internet;
+</li><li>
+Executar recepção, geração e transferência de arquivos de áudio e vídeo em rede;
+</li><li>
+Apoiar na configuração e instalação de equipamentos de transmissão;
+</li><li>
+Monitorar e operar sistemas de transmissão e recepção entre diferentes localidades;
+</li><li>
+Realizar montagem e desmontagem de equipamentos em eventos externos;
+</li><li>
+Auxiliar na manutenção preventiva e corretiva de equipamentos, quando necessário;
+</li><li>
+Seguir padrões e procedimentos técnicos para garantir qualidade na entrega;
+</li><li>
+Atuar em conjunto com a equipe, mantendo boa comunicação e cooperação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação Técnica em Eletrônica, Informática, Mecatrônica ou áreas correlatas;
+</li><li>
+Conhecimento básico em informática (Word e Excel);
+</li><li>
+Conhecimento do ambiente de TV será considerado diferencial.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/talentosgrupoep/121/tecnico-de-sistemas-audiovisuais-junior]]></applyUrl>
+    <companyId><![CDATA[58795]]></companyId>
+    <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[c82fa835-4b2d-42ec-8b44-3be599faa1ec]]></partnerJobId>
     <company><![CDATA[Morada.ai]]></company>
     <title><![CDATA[Engenheiro de Software Sênior]]></title>
@@ -45230,6 +45297,25 @@ Se você busca desafios, aprendizado e novas conquistas, <strong>vem com a gente
           <amount><![CDATA[2500.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[72b700d3-5c55-4509-a1e5-294137d2c2fa]]></partnerJobId>
+    <company><![CDATA[Food To Save]]></company>
+    <title><![CDATA[ANALISTA  SALES ENABLEMENT SÊNIOR]]></title>
+    <posterEmail><![CDATA[juliana.capello@foodtosave.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um <strong>Analista Comercial Sênior – Sales Enablement</strong> para atuar como elo estratégico entre o time Comercial, Planejamento Comercial e demais áreas de negócio.<br />Essa pessoa será responsável por garantir <strong>padronização, governança e qualidade dos processos comerciais</strong>, além de liderar iniciativas de treinamento e desenvolvimento contínuo do time de vendas, principal objetivo será <strong>aumentar a eficiência, previsibilidade e escalabilidade dos resultados comerciais</strong>, transformando a estratégia em execução consistente por meio de processos bem estruturados, playbooks claros e iniciativas contínuas de enablement.<br />Se você acredita que processos bem definidos impulsionam performance e ama transformar estratégia em resultado, essa vaga é para você.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Estruturar e conduzir o programa de treinamento comercial contínuo, <b>incluindo onboarding de novos colaboradores, reciclagens e treinamentos temáticos.</b></li><li>Criar, manter e evoluir <b>playbooks comerciais, guias operacionais</b>, contorno de objeções, scripts e materiais de enablement, garantindo atualizações recorrentes e <b>fácil acesso de todos</b>.</li><li><b>Apoiar líderes comerciais na adoção correta dos processos</b>, atuando como ponte entre <b>estratégia e execução</b></li><li>Trabalhar em parceria <b>com Sales Ops /CS Ops </b>na conexão entre <b>processos, métricas e dados</b>, garantindo coerência entre o que é definido e o que é medido.</li><li>Apoiar<b> iniciativas de melhoria contínua</b> a partir de feedbacks do time comercial e análises de gargalos operacionais.</li><li>Garantir a padronização das rotinas comerciais, aumentando eficiência operacional, previsibilidade de resultados e qualidade da execução.</li><li>Mapear, desenhar, documentar e otimizar os fluxos do time comercial (Lead → Qualificação → Venda → Onboarding → Pós-venda), garantindo clareza de papéis, SLAs e critérios de qualidade.</li><li>Atuar como guardião da governança dos processos comerciais, assegurando aderência ao modelo definido e evitando desvios operacionais.</li><li>Definir e manter checklists, rituais e critérios mínimos de qualidade para uso de CRM, pipeline, forecast e cadastros.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Condução de Treinamentos comerciais</b>: experiência na condução de treinamentos presenciais e/ou remotos, com foco em aplicação prática.</li><li><b>Domínio  de Ferramentas de produtividade e documentação: </b>Google Workspace, Notion, Confluence ou similares.</li><li><b>Mapeamento de processos:</b> domínio de desenho de fluxos (AS IS / TO BE), definição de SLAs, RACI e pontos de controle.</li><li><b>Ferramentas de CRM</b> (HubSpot, Pipedrive, Salesforce ou similares): conhecimento prático de funil, pipeline, forecast, cadastros e regras de uso.</li><li><b>Documentação e playbooks</b>: capacidade de transformar processos complexos em materiais claros, práticos e acionáveis.</li><li><b>Sales Enablement / Sales Ops / RevOps: </b>experiência sólida na estruturação, padronização e governança de processos comerciais.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/foodtosave/49/analista-sales-enablement-senior]]></applyUrl>
+    <companyId><![CDATA[69484180]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
