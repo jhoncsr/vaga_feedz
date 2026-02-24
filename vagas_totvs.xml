@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 24 Feb 2026 17:13:40 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 18:14:04 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3003]]></expectedJobCount>
+  <expectedJobCount><![CDATA[2995]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -1587,25 +1587,6 @@ Cursos ou certificações <strong>SANS – Incident Response and Threat Hunting<
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você está preparado(a) para embarcar em uma jornada desafiadora e gratificante no mundo da tecnologia? Estamos em busca de profissionais apaixonados por inovação e que desejam deixar sua marca no desenvolvimento de soluções que fazem a diferença. Neste ambiente dinâmico e colaborativo, você terá a oportunidade de trabalhar ao lado de uma equipe talentosa, compartilhando ideias e promovendo seu crescimento pessoal e profissional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><b>Analisar e codificar os programas de acordo com as especificações de requisitos;</b></li><li><b>Validar o requisito desenvolvido de forma integrada com o objetivo de assegurar a qualidade do produto;</b></li><li><b>Executar suas atividades de acordo com a metodologia ágil;</b></li><li><b>Acompanhar e orientar analistas no desenvolvimento de requisitos.</b></li><li><b>Propor soluções para nossos produtos.</b></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Formação acadêmica em </b><b>Análise de sistemas, </b><b>Tecnologia da Informação, </b><b>Ciências da computação ou áreas relacionadas;</b></li><li><b>Conhecimento na linguagem ADVPL;</b></li><li><b>Conhecimento avançado em Lógica de Programação;</b></li><li><b>Conhecimento avançado em Linguagem de Programação;</b></li><li><b>Conhecimento avançado em Modelagem de Dados;</b></li><li><b>Experiência em Arquitetura de Desenvolvimento Web e Desktop;</b></li><li><b>Conhecimentos de arquitetura SOA.</b></li></ul><b></b><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/6996/pessoa-desenvolvedora-advpl-senior]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[bbeb7400-6c96-4e23-abb0-f2d29d6144b7]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[Especialista em SRE]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você fará parte do time de SRE/DevSecOps responsável por uma plataforma de dados e inteligência artificial em arquitetura Cloud Native, base estratégica para diversos produtos da companhia. <br />Será um papel essencial na evolução técnica e cultural da infraestrutura, garantindo confiabilidade, escalabilidade, segurança e eficiência operacional. <br />A pessoa nessa posição liderará iniciativas de automação, observabilidade e resiliência, além de capacitar outras equipes a entregarem software com mais qualidade, agilidade e segurança.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar continuamente a saúde dos sistemas, criar alertas eficazes e garantir cobertura proativa de incidentes.</li><li>Responder rapidamente a incidentes críticos, coordenando mitigação, comunicação e resolução.</li><li>Gerir mudanças, atualizações e implantações com foco em segurança, estabilidade e disponibilidade.</li><li>Construir e manter pipelines, bibliotecas e automações para provisionamento, deploy e operação em ambientes Cloud de alta disponibilidade.</li><li>Estabelecer e garantir padrões de security by design em infraestrutura, código e dados.</li><li>Projetar e evoluir soluções de observabilidade ponta a ponta, integrando logs, métricas, traces e eventos.</li><li>Gerenciar e melhorar indicadores de confiabilidade (SLIs, SLOs, MTTR, MTTA).</li><li>Conduzir post-mortems blameless e implementar ações corretivas e preventivas.</li><li>Influenciar decisões arquiteturais e operacionais visando resiliência, escalabilidade e custo eficiente.</li><li>Documentar padrões técnicos, playbooks e comunicar impactos técnicos em linguagem de negócio.</li><li>Definir prioridades estratégicas do backlog de SRE, equilibrando confiabilidade, velocidade de entrega, segurança e custos.</li><li>Apoiar auditorias, conformidade e governança de segurança em alinhamento com times de risco e compliance.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Domínio de conceitos avançados de SRE, DevSecOps e gestão de incidentes.</li><li>Automação de infraestrutura e pipelines em alto nível, utilizando Shell, Python, Go, Node.js ou Groovy.</li><li>Experiência com monitoramento e observabilidade distribuída (Prometheus, Grafana, Loki, ELK/Elastic Stack, Datadog, New Relic, OpenTelemetry).</li><li>Atuação sólida com Cloud pública (GCP, AWS ou equivalente), incluindo provisionamento, automação e otimização de custos.</li><li>Experiência em CI/CD e DevSecOps avançado, com ferramentas como Git/GitOps, Jenkins, ArgoCD, Maven, SonarQube/Cloud.</li><li>Proficiência em contêineres e orquestração (Docker, Kubernetes) e Infraestrutura como Código (Terraform, Ansible, CloudFormation, Chef).</li><li>Vivência com serviços de mensageria e data streaming como Kafka, Redis Streams, Google Pub/Sub, Dataflow.</li><li>Experiência com bancos de dados SQL e NoSQL, incluindo PostgreSQL, AloyDB, MySQL, MongoDB, Elasticsearch, BigQuery.</li><li>Experiência em gestão de incidentes e troubleshooting em sistemas complexos, utilizando PagerDuty, Opsgenie, StatusPage, Splunk ou equivalentes.</li><li>Conhecimento em segurança da informação, compliance e governança de ambientes cloud (LGPD, Privacy by Design, SAST/DAST, IAM, Secret Management).</li><li>Familiaridade com ambientes de alto volume de dados, tráfego e experiência com design resiliente.</li><li>Experiência ou interesse em DataOps/MLOps, atuando com pipelines de dados e IA em larga escala (desejável).</li><li>Background em arquitetura e desenvolvimento de software, com domínio de versionamento, APIs, microserviços e padrões REST/gRPC.</li><li>Vivência em metodologias ágeis (Scrum, Kanban ou similares).</li><li>Uso de IA assistiva e ferramentas de produtividade como GitHub Copilot, ChatGPT ou similares (diferencial).</li><li>Capacidade de mentorar e influenciar tecnicamente outros times, promovendo cultura de automação, segurança e confiabilidade e fomentando a cultura de ownership sobre sistemas em produção.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/5855/especialista-em-sre]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -16704,25 +16685,6 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para voc�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[011ce033-d7b3-4600-8221-3b1766d669a5]]></partnerJobId>
-    <company><![CDATA[Unimarka Distribuidora]]></company>
-    <title><![CDATA[Supervisor de Mercado]]></title>
-    <posterEmail><![CDATA[rh02@unimarka.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Oportunidade para profissionais que possuem o compromisso com a execução e desejam fazer carreira numa empresa que é referência no ramo do Atacado Distribuidor no ES e está entre as 10 maiores do Brasil. <br /><b><br /></b><br /><b>Venha fazer parte da nossa equipe!</b><br /><b><br /></b><br />Vaga destinada também a PCD.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Assegurar o atendimento regular aos clientes de sua base territorial, visando aumentar a participação de mercado das marcas distribuídas pela empresa e garantir o cumprimento dos objetivos estratégicos da área comercial.<br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo ou em curso, preferencialmente em Administração, Economia, Gestão Comercial ou Marketing.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/755/supervisor-de-mercado]]></applyUrl>
-    <companyId><![CDATA[65466539]]></companyId>
-    <city><![CDATA[Salvador]]></city>
-    <state><![CDATA[BA]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[4fc5d1ad-3f86-414e-9797-a905e28c6789]]></partnerJobId>
     <company><![CDATA[Unimarka Distribuidora]]></company>
     <title><![CDATA[Executivo de Vendas]]></title>
@@ -17659,9 +17621,9 @@ Proatividade, boa comunicação.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[72d22ce1-5653-40ef-9db9-c191ec818bfc]]></partnerJobId>
+    <partnerJobId><![CDATA[38dce1b8-4121-43bc-9d36-55757160e27d]]></partnerJobId>
     <company><![CDATA[Painco]]></company>
-    <title><![CDATA[OPE - 0005 - Ajudante de Produção]]></title>
+    <title><![CDATA[OPE - 0006 - Ajudante de Produção]]></title>
     <posterEmail><![CDATA[ariadne.santos@painco.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais dedicados e comprometidos
 para fazer parte de nossa equipe como Ajudante de Produção. Se você é uma
@@ -17669,27 +17631,9 @@ pessoa pró-ativa, responsável e que busca sempre entregar o melhor em suas
 atividades, essa é a oportunidade perfeita para você! Aqui, você terá a chance
 de contribuir diretamente para o bom funcionamento de nossa empresa, atuando em
 um ambiente dinâmico e colaborativo. Se você se identifica com essas
-características, venha fazer parte do nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atividades de suporte à equipe de produção. 
-
-- Auxiliar na preparação e organização de materiais. 
-
-- Operar equipamentos simples de produção. 
-
-- Manter a área de trabalho limpa e organizada. 
-
-- Seguir as instruções de segurança e normas da
-empresa. 
-
-- Contribuir para o bom funcionamento do setor produtivo.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental completo 
-
-- Organização e proatividade 
-
-- Disponibilidade para cumprir horário integral
-
-- Habilidades de comunicação 
-
-- Capacidade de trabalho em equipe.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspainco/61/ope-0005-ajudante-de-producao]]></applyUrl>
+características, venha fazer parte do nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atividades de suporte à equipe de produção.   - Auxiliar na preparação e organização de materiais.  <br /> - Operar equipamentos simples de produção.  <br /> - Manter a área de trabalho limpa e organizada.  <br /> - Seguir as instruções de segurança e normas da
+empresa.  <br /> - Contribuir para o bom funcionamento do setor produtivo.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental incompleto   - Organização e proatividade  <br /> - Habilidades de comunicação  <br /> - Capacidade de trabalho em equipe.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspainco/63/ope-0006-ajudante-de-producao]]></applyUrl>
     <companyId><![CDATA[10201016]]></companyId>
     <city><![CDATA[Rio das Pedras]]></city>
     <state><![CDATA[SP]]></state>
@@ -29158,6 +29102,25 @@ comerciais, evitando assim, erros de procedimentos;  </li><li>Conhecer e acomp
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[a76e4dff-cdbe-4b4f-9214-960eefb5f01a]]></partnerJobId>
+    <company><![CDATA[Ceneged]]></company>
+    <title><![CDATA[ASSISTENTE COMERCIAL - FLORIANO]]></title>
+    <posterEmail><![CDATA[larisserodrigues@ceneged.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais dedicados e proativos para integrar nossa equipe como Assistente Comercial. Se você é uma pessoa organizada, possui boa comunicação interpessoal e gosta de desafios, essa pode ser a oportunidade perfeita para você crescer profissionalmente em um ambiente dinâmico e colaborativo. Venha fazer parte do nosso time e contribuir para o sucesso da nossa empresa. Aproveite essa chance de desenvolvimento e envie sua candidatura!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Monitorar o desempenho operacional dos agentes de campo;<br />Produzir relatórios;<br />Apoio nas atividades de gerenciamento e controle operacional.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />A partir do ensino médio completo;<br />Conhecimento intermediário em informática;<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/329/assistente-comercial-floriano]]></applyUrl>
+    <companyId><![CDATA[9250455]]></companyId>
+    <city><![CDATA[Floriano]]></city>
+    <state><![CDATA[PI]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[ffc4755c-f32c-455a-a04f-922fa3d82377]]></partnerJobId>
     <company><![CDATA[Ceneged]]></company>
     <title><![CDATA[TÉCNICO DE SEGURANÇA DO TRABALHO - FLORIANO/PI]]></title>
@@ -32204,6 +32167,25 @@ Noções de <strong>viabilidade financeira</strong>, retorno sobre investimento 
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[7cd2bddf-77a4-41dc-b086-06a40583dc4d]]></partnerJobId>
+    <company><![CDATA[GRUPO CEUMA]]></company>
+    <title><![CDATA[Pedagogo (a)]]></title>
+    <posterEmail><![CDATA[alinerodrigues@unieuro.edu.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais apaixonados pela educação e pelo desenvolvimento de habilidades que busquem um novo desafio em sua carreira. Se você acredita no poder transformador do conhecimento e tem vontade de impactar a vida de estudantes, esta é a sua chance de integrar uma equipe comprometida com a excelência e a inovação educacional. Oferecemos um ambiente colaborativo, onde diversas ideias são bem-vindas e cada membro da equipe tem a oportunidade de contribuir com seu talento. Queremos conhecer pessoas que compartilhem nossa visão sobre a educação e que estejam dispostas a crescer e aprender conosco. Se você deseja fazer a diferença e embarcar nessa jornada conosco, venha explorar essa oportunidade! Entre em contato e participe do nosso processo seletivo, que pode ser o passo que faltava para a sua evolução profissional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Elaborar e implementar planos de ensino e atividades pedagógicas.<br /> - Conduzir diagnósticos de aprendizagem e avaliar o desenvolvimento dos alunos.<br /> - Promover a articulação entre a teoria e a prática educativa.<br /> - Desenvolver projetos educativos que atendam às necessidades dos alunos.<br /> - Orientar e auxiliar na formação e capacitação de professores e demais colaboradores.<br /> - Colaborar na construção de um ambiente escolar inclusivo e motivador.<br /> - Participar de reuniões e encontros pedagógicos para discussão de práticas educacionais.<br /> - Acompanhar as demandas da legislação educacional e as diretrizes pedagógicas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior em Pedagogia.<br /> - Registro no conselho de classe, quando aplicável.<br /> - Conhecimento em desenvolvimento infantil e processos educativos.<br /> - Habilidade em planejamento e execução de atividades pedagógicas.<br /> - Capacidade de trabalhar em equipe e realizar articulações com a comunidade escolar.<br /> - Boa comunicação verbal e escrita.<br /> - Disponibilidade para atualização profissional contínua.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ceumatrabalheconosco/138/pedagogo-a]]></applyUrl>
+    <companyId><![CDATA[1220822]]></companyId>
+    <city><![CDATA[Brasília]]></city>
+    <state><![CDATA[DF]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[d2305796-3c2c-4684-8dff-62959c7d670c]]></partnerJobId>
     <company><![CDATA[GRUPO CEUMA]]></company>
     <title><![CDATA[Técnico (a) de Informática - EXCLUSIVA PCD]]></title>
@@ -32351,33 +32333,6 @@ Se você é apaixonado por promover saúde, desempenho e bem-estar por meio da a
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[7690434e-3836-4d6c-8084-8081ce1b4f6c]]></partnerJobId>
-    <company><![CDATA[GRUPO CEUMA]]></company>
-    <title><![CDATA[Jovem Aprendiz]]></title>
-    <posterEmail><![CDATA[alinerodrigues@unieuro.edu.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos com uma oportunidade incrível para você que é jovem, cheio(a) de energia e busca sua primeira experiência no mercado de trabalho. Nosso programa de Jovem Aprendiz foi desenhado para oferecer desenvolvimento, aprendizado e a chance de vivenciar o dia a dia de uma empresa.Buscamos talentos que queiram aprender na prática, aliando o conhecimento teórico do curso de aprendizagem com os desafios diários da nossa equipe. Se você é proativo(a), comunicativo(a) e quer construir uma base sólida para o seu futuro, esta vaga é para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Como Jovem Aprendiz, você terá a oportunidade de apoiar diversas áreas da empresa, sendo suas principais atividades:<ul><li>Apoiar nas rotinas administrativas dos departamentos, aprendendo sobre os processos internos.</li><li>Auxiliar na organização, preenchimento e arquivamento de documentos e planilhas.</li><li>Prestar suporte no atendimento e na comunicação com clientes internos e externos.</li><li>Contribuir com a equipe em diversas tarefas, desenvolvendo o trabalho colaborativo.</li><li>Utilizar sistemas de informática para inserir dados e gerar informações básicas.</li><li>Participar ativamente do curso de capacitação teórica, aplicando os conhecimentos na prática.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Para participar do nosso processo seletivo, você precisa atender aos seguintes requisitos:<ul><li>Ter idade entre <b>17 e 24 anos</b>.</li><li>Estar em busca do <b>primeiro emprego</b> (não possuir registro anterior em carteira de trabalho como empregado).</li><li>Estar cursando ou já ter concluído o <b>Ensino Médio</b>, ou estar cursando o <b>Ensino Superior</b>.</li><li>Ter disponibilidade para uma jornada de trabalho que concilia atividades práticas na empresa e o curso de capacitação teórica no SENAC.</li><li>Possuir boa <b>comunicação verbal e escrita</b>.</li><li>Demonstrar <b>proatividade e grande vontade de aprender</b>.</li><li>Ter habilidade para <b>trabalhar em equipe</b>.</li><li>Possuir <b>conhecimento básico em informática</b> (Pacote Office, e-mail e internet).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ceumatrabalheconosco/88/jovem-aprendiz]]></applyUrl>
-    <companyId><![CDATA[1220822]]></companyId>
-    <city><![CDATA[Brasília]]></city>
-    <state><![CDATA[DF]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[712.99]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[712.99]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[0589d007-3f3d-459a-b67c-ae719a02abbc]]></partnerJobId>
     <company><![CDATA[GRUPO CEUMA]]></company>
     <title><![CDATA[Técnico (a) de Laboratório]]></title>
@@ -32460,11 +32415,11 @@ Se você é apaixonado por promover saúde, desempenho e bem-estar por meio da a
     <salaries>
       <salary>
         <highEnd>
-          <amount><![CDATA[1598.76]]></amount>
+          <amount><![CDATA[1621.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </highEnd>
         <lowEnd>
-          <amount><![CDATA[1598.76]]></amount>
+          <amount><![CDATA[1621.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
@@ -37804,10 +37759,10 @@ pesagem de veículos</li><li>Disponível trabalhar em regime de turnos</li></ul>
   <job>
     <partnerJobId><![CDATA[d5da80f9-beb0-4738-8438-ce2cef36c525]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Banco de Talentos Agrícola - Água Comprida]]></title>
+    <title><![CDATA[Banco de Talentos  - Água Comprida]]></title>
     <posterEmail><![CDATA[isabelam@deltasucroenergia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br />Estamos com vagas abertas para áreas industriais e agrícolas!<br /><br /><br /> Manutenção Industrial: Mecânicos Industriais (JR, PL e SR), Eletricistas Industriais e Auxiliares de Manutenção Industrial.<br /> Operação de Máquinas e Campo: Operadores de Máquinas -transbordo e colhedora, Motoristas de caminhão pipa, Motorista de Comboio e Líderes de Processo Agrícola (I e II).<br /> Logística e Qualidade: Operadores de Empilhadeira e Analistas de Controle e Qualidade.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />✨ Está buscando uma oportunidade e quer integrar uma equipe que valoriza o talento e o comprometimento? Venha fazer parte da Deltasucroenergia! Inscreva-se agora! Ao se cadastrar, seu perfil ficará registrado conosco e você poderá ser selecionado para participar de nossos processos seletivos de acordo com nossas oportunidades. Some sua energia com a nossa⚡<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li> Para que possamos analisar seu perfil com atenção, é muito importante preencher todas as informações do cadastro e detalhar seu currículo da melhor forma possível. Assim, aumentam suas chances de ser chamado para as próximas fases do processo. </li><li>Residir em Água Comprida/MG.</li><li>Experiência com operações agrícolas e industriais.</li><li>CNH definitiva. </li></ul><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1341/banco-de-talentos-agricola-agua-comprida]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1341/banco-de-talentos-agua-comprida]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Conceição das Alagoas]]></city>
     <state><![CDATA[MG]]></state>
@@ -38696,25 +38651,6 @@ sucroenergético será um diferencial</li><li>Residir em Uberaba, Igarapava, Ara
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[8cdfd576-6413-42bf-af2d-d9adf7f5b8b5]]></partnerJobId>
-    <company><![CDATA[Melhoramentos]]></company>
-    <title><![CDATA[Vendedor(a) Trade]]></title>
-    <posterEmail><![CDATA[fmramos@melhoramentos.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Vendedor(a) Trade</strong> para fortalecer nossa presença no varejo e garantir a excelência na execução de nossas marcas e produtos no ponto de venda.Se você tem paixão por livros, perfil analítico e adora estar em campo construindo relacionamento, essa vaga pode ser sua próxima grande oportunidade! ✨<strong>Valorizamos a diversidade e incentivamos a candidatura de Pessoas com Deficiência (PCD).</strong> Se você está pronto(a) para abraçar novos desafios e crescer profissionalmente em um ambiente colaborativo, não perca a chance de se juntar a nós. <br />Venha construir um futuro promissor ao nosso lado!<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prospectar e gerenciar uma carteira de clientes composta por livrarias, novos canais e distribuidores</li><li>Manter e desenvolver relações de longo prazo com clientes atuais e potenciais</li><li>Apresentar e negociar nossos produtos editoriais com foco no mercado editorial</li><li>Colaborar com as equipes de marketing e editorial para alinhar estratégias de vendas específicas para o setor</li><li>Acompanhar o desempenho das vendas e elaborar relatórios mensais, com insights sobre o mercado editorial</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência anterior em vendas para livrarias, distribuidores e novos canais</li><li>Excelentes habilidades de comunicação, negociação e construção de relacionamento</li><li>Conhecimento aprofundado do mercado editorial, especialmente o segmento de livrarias e distribuidores</li><li>Proatividade e orientação para resultados</li><li>Familiaridade com ferramentas de CRM e habilidade para gerar relatórios de vendas</li><li>Graduação em áreas como Letras, Marketing, Administração ou afins</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscomelhoramentos/65/vendedor-a-trade]]></applyUrl>
-    <companyId><![CDATA[1918186]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[45651f75-9241-459e-b6e0-56348ecce511]]></partnerJobId>
@@ -46097,25 +46033,6 @@ Desejável: conhecimento básico de ferramentas de gestão logística (WMS, ERP 
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[34168e41-6d88-41a1-971a-e8e0c7807c91]]></partnerJobId>
-    <company><![CDATA[Conversion]]></company>
-    <title><![CDATA[Analista de SEO Pleno]]></title>
-    <posterEmail><![CDATA[carla.prates@conversion.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na Conversion, SEO é mais do que uma especialidade, é parte do nosso DNA.<br /><br /><br />E para ir ainda mais longe, buscamos uma pessoa analista de SEO pleno, com visão estratégica, orientada a dados e vontade de gerar impacto real em grandes projetos.<br /><br /><br />Você fará parte de um Squad multidisciplinar, atuando de ponta a ponta nas frentes que impulsionam a performance orgânica dos nossos clientes, desde o planejamento até a execução e análise de resultados.<br /><br /><br />Se você curte desafios, tem olhar analítico e acredita que aprendizado contínuo e colaboração andam juntos, essa vaga é pra você. <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Construir estratégia dos projetos de SEO, com olhar analítico e orientado a resultados. </li><li>Compreender o negócio e os objetivos de cada cliente, trazendo soluções personalizadas que façam sentido para a realidade e maturidade digital da marca.</li><li>Criar, implementar e acompanhar estratégias voltadas para performance orgânica, com base em dados e oportunidades reais. </li><li>Gerar insights relevantes para evolução de conteúdo, UX e usabilidade, sempre buscando ampliar o valor das páginas para o usuário e para o Google. </li><li>Realizar análises de concorrência e identificar melhorias e tendências que possam fortalecer a autoridade e visibilidade dos clientes. </li><li>Diagnosticar e acompanhar melhorias técnicas de SEO, com apoio do time e parceiros técnicos quando necessário. </li><li>Elaborar relatórios claros, estratégicos e acionáveis, que sustentem decisões e demonstrem impacto.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência mínima de 2 anos como Analista de SEO, com atuação comprovada em múltiplos projetos e clientes simultâneos — preferencialmente em agência digital ou consultoria. </li><li>Histórico de atuação que evidencie impacto técnico e estratégico: cases, entregas e resultados que comprovem a sua evolução. </li><li>Excelente comunicação escrita e verbal: você vai interagir com clientes enterprise e conduzir análises e recomendações com clareza. </li><li>Perfil proativo, colaborativo e com sede de aprendizado contínuo. </li><li>Capacidade analítica, pensamento crítico e foco em performance e geração de valor. </li><li>Acompanhamento ativo das atualizações de SEO e dos impactos de LLMs (como Gemini e ChatGPT) na busca. </li><li>Interesse e familiaridade com conceitos e acionáveis de GEO (Generative Engine Optimization): IA, presença digital, marca e reputação em ambientes além do Google. </li><li>Vontade genuína de crescer junto com o time e com os clientes, contribuindo com conhecimento e aprendendo todos os dias.</li></ul><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasconversion/40/analista-de-seo-pleno]]></applyUrl>
-    <companyId><![CDATA[2487728]]></companyId>
-    <city><![CDATA[São Caetano do Sul]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[fd7c5772-1960-4c5b-b25c-96d137cd74bc]]></partnerJobId>
     <company><![CDATA[Conversion]]></company>
     <title><![CDATA[Assessor(a) de Imprensa Pleno]]></title>
@@ -46961,25 +46878,6 @@ empresa.<br />• Educação (Escolaridade/Qualificação): Pós-graduação/MB
     <posterEmail><![CDATA[isabella.leroux@triunfologistica.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Operar equipamento de movimentação e/ou elevação de cargas do tipo empilhadeira, realizando operações de carga e descarga ou no pátio atendendo solicitações de trabalhos específicos ou programados. Organizam carga, interpretando simbologia das embalagens, armazenando de acordo com o prazo de validade do produto, identificando características da carga para transporte e armazenamento e separando carga não-conforme. Realizam manutenções previstas em equipamentos para movimentação de cargas. Trabalham seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Operar equipamento de movimentação e/ou elevação de cargas do tipo empilhadeira, realizando operações de carga e descarga ou no pátio atendendo solicitações de trabalhos específicos ou programados. Organizam carga, interpretando simbologia das embalagens, armazenando de acordo com o prazo de validade do produto, identificando características da carga para transporte e armazenamento e separando carga não-conforme. Realizam manutenções previstas em equipamentos para movimentação de cargas. Trabalham seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo; Experiência anterior na função de Op. de Empilhadeira. <br />Treinamento: NR-11 Curso Básico Transporte, Movimentação, Armazenagem e Manuseio de Materiais e Sinalização. <br />NR12 - Segurança no trabalho de máquinas e equipamentos; MOPP - Treinamento de Movimentação de Produtos Perigosos.<br />CNH D<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/226/operador-de-empilhadeira]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[eb5a38f8-a01f-4095-bcd8-f5c69c1f0068]]></partnerJobId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[AUXILIAR DE OPERAÇÕES RESIDUOS]]></title>
-    <posterEmail><![CDATA[alessandra.cea@triunfologistica.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Descrição da vaga<br /><br />Auxiliar nas funções de movimentações de cargas através de equipamentos, içamento e guindastes. O processo de entrega da carga será realizado por um profissional. Sob as determinações inseridas no plano de aparelhamento, verifique as condições de carga, o melhor modo para que ela seja amarrada e preste o auxílio ao operador de condução dando as sinalizações necessárias.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar nas funções de movimentações de cargas através de equipamentos, içamento e guindastes. O processo de entrega da carga será realizado por um profissional. Sob as determinações inseridas no plano de aparelhamento, verifique as condições de carga, o melhor modo para que ela seja amarrada e preste o auxílio ao operador de condução dando as sinalizações necessárias.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/235/auxiliar-de-operacoes-residuos]]></applyUrl>
     <companyId><![CDATA[3089272]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[RJ]]></state>
@@ -48571,156 +48469,6 @@ Estamos sempre em busca de profissionais talentosos, que compartilhem nossos val
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[e0d665c5-f7d5-4569-a4ca-565b08690809]]></partnerJobId>
-    <company><![CDATA[Amino]]></company>
-    <title><![CDATA[Mecânico de manutenção]]></title>
-    <posterEmail><![CDATA[dp@amino.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa apaixonada por resolver desafios e contribuir para um ambiente de trabalho de excelência? Temos uma oportunidade empolgante esperando por você! Em nosso tempo, sua dedicação e habilidades serão fundamentais para garantir o funcionamento adequado das operações. Aqui, valorizamos a inovação e o comprometimento, proporcionando um ambiente colaborativo onde as ideias são ouvidas e valorizadas. Acreditamos que cada membro do tempo desempenha um papel crucial na construção do nosso sucesso. Se você busca crescimento profissional e deseja fazer parte de uma equipe dinâmica, onde seu trabalho impacta diretamente no desempenho da empresa, não perca esta chance! Venha fazer parte de um projeto que visa não apenas o desenvolvimento individual, mas também o fortalecimento de uma cultura organizacional baseada em respeito e aprendizado contínuo. Estamos ansiosos para conhecer você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar manutenções preventivas e corretivas em equipamentos e instalações.<br />- Diagnosticar falhas e problemas em máquinas e sistemas.<br />- Elaborar e manter atualizada a documentação técnica relacionada às atividades de manutenção.<br />- Operar ferramentas e equipamentos de manutenção de forma segura.<br />- Colaborar com a equipe em atividades de melhoria contínua dos processos de manutenção.<br />- Auxiliar na gestão de insumos e peças de reposição.<br />- Garantir a conformidade com normas de segurança e saúde no trabalho.<br />- Participar de treinamentos e capacitações relacionadas à área de atuação.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Requisitos:<br />Formação técnica em mecânica ou manutenção industrial.<br />Experiência comprovada com manutenção preventiva e corretiva de máquinas industriais.<br />Curso de NR12 e noções de solda e usinagem (desejável).<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/linkedin/45/mecanico-de-manutencao]]></applyUrl>
-    <companyId><![CDATA[2293229]]></companyId>
-    <city><![CDATA[Diadema]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[51a37f7a-2de7-4ad9-be18-1dbd2d365288]]></partnerJobId>
-    <company><![CDATA[Amino]]></company>
-    <title><![CDATA[Assistente de Expedição (Temporário)]]></title>
-    <posterEmail><![CDATA[dp@amino.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de talentos que desejam fazer parte de uma equipe dinâmica e em crescimento. Se você é uma pessoa apaixonada por garantir a eficiência e o bom andamento das operações, esta é a sua chance! Ao se juntar a nós, você terá a oportunidade de colaborar em um ambiente desafiador e enriquecedor, onde o seu trabalho terá um impacto significativo na satisfação dos nossos clientes. Oferecemos um espaço para o desenvolvimento das suas habilidades, além de um suporte constante para que você alcance seus objetivos profissionais. Se você procura um lugar que valoriza a iniciativa, a proatividade e o trabalho em equipe, venha fazer a diferença conosco! Envie sua candidatura e prepare-se para trilhar um novo caminho de sucesso. Estamos ansiosos para conhecer seu potencial!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Separação,
-     conferência e embalagem de mercadorias para expedição;</li>
- <li>Realização de
-     recebimentos de materiais, conferindo notas fiscais e volumes;</li>
- <li>Lançamento e controle
-     de movimentações no sistema WMS Protheus;</li>
- <li>Apoio nos processos
-     de transferências entre unidades;</li>
- <li>Organização do
-     estoque e da área de expedição;</li>
- <li>Controle de entradas
-     e saídas de mercadorias;</li>
- <li>Suporte às rotinas
-     operacionais do setor logístico;</li>
- <li>Garantir o
-     cumprimento dos prazos e procedimentos estabelecidos.</li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Conhecimento em WMS
-     Protheus;</li>
- <li>Experiência com
-     transferências, expedição e recebimento de mercadorias;</li>
- <li>Noções de logística e
-     controle de estoque;</li>
- <li>Organização, atenção
-     aos detalhes e responsabilidade;</li>
- <li>Capacidade de
-     trabalho em equipe.</li>
-</ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/linkedin/44/assistente-de-expedicao-temporario]]></applyUrl>
-    <companyId><![CDATA[2293229]]></companyId>
-    <city><![CDATA[Diadema]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[d90084dd-b96d-40df-a377-958be5f71874]]></partnerJobId>
-    <company><![CDATA[Amino]]></company>
-    <title><![CDATA[Assistente de Expedição (Temporário)]]></title>
-    <posterEmail><![CDATA[rh@amino.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de talentos que desejam fazer parte de uma equipe dinâmica e em crescimento. Se você é uma pessoa apaixonada por garantir a eficiência e o bom andamento das operações, esta é a sua chance! Ao se juntar a nós, você terá a oportunidade de colaborar em um ambiente desafiador e enriquecedor, onde o seu trabalho terá um impacto significativo na satisfação dos nossos clientes. Oferecemos um espaço para o desenvolvimento das suas habilidades, além de um suporte constante para que você alcance seus objetivos profissionais. Se você procura um lugar que valoriza a iniciativa, a proatividade e o trabalho em equipe, venha fazer a diferença conosco! Envie sua candidatura e prepare-se para trilhar um novo caminho de sucesso. Estamos ansiosos para conhecer seu potencial!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Separação,
-     conferência e embalagem de mercadorias para expedição;</li>
- <li>Realização de
-     recebimentos de materiais, conferindo notas fiscais e volumes;</li>
- <li>Lançamento e controle
-     de movimentações no sistema WMS Protheus;</li>
- <li>Apoio nos processos
-     de transferências entre unidades;</li>
- <li>Organização do
-     estoque e da área de expedição;</li>
- <li>Controle de entradas
-     e saídas de mercadorias;</li>
- <li>Suporte às rotinas
-     operacionais do setor logístico;</li>
- <li>Garantir o
-     cumprimento dos prazos e procedimentos estabelecidos.</li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Conhecimento em WMS;</li>
- <li>Experiência com
-     transferências, expedição e recebimento de mercadorias;</li>
- <li>Noções de logística e
-     controle de estoque;</li>
- <li>Organização, atenção
-     aos detalhes e responsabilidade;</li>
- <li>Capacidade de
-     trabalho em equipe.</li>
-</ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/linkedin/43/assistente-de-expedicao-temporario]]></applyUrl>
-    <companyId><![CDATA[2293229]]></companyId>
-    <city><![CDATA[Diadema]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[cf047ee6-3cf7-4c35-9a54-989b644a30f5]]></partnerJobId>
-    <company><![CDATA[Amino]]></company>
-    <title><![CDATA[AUXILIAR DE PRODUCAO I]]></title>
-    <posterEmail><![CDATA[dp@amino.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e colaborativo? Se sim, temos uma excelente proposta para você! Nossa empresa valoriza a dedicação e o compromisso de cada membro da equipe, e estamos em busca de pessoas que queiram crescer e se desenvolver junto conosco. Aqui, você terá a chance de fazer parte de um time que acredita na inovação e na excelência. Oferecemos um ambiente de trabalho com foco na valorização do potencial individual e coletivo, além de oportunidades de aprendizado constante. Se você é proativo(a), gosta de desafios e deseja contribuir para o sucesso de uma organização em expansão, não perca essa chance! Venha fazer parte da nossa história e trilhar um caminho de sucesso junto conosco. Estamos ansiosos para conhecer você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atividades de apoio na linha de produção, conforme orientações da supervisão.<br /> - Operar máquinas e equipamentos de forma segura e eficiente.<br /> - Auxiliar na montagem, embalagem e conferência de produtos.<br /> - Manter a organização e limpeza do ambiente de trabalho.<br /> - Identificar e reportar falhas ou problemas durante o processo produtivo.<br /> - Seguir as normas de segurança e procedimentos operacionais estabelecidos.<br /> - Colaborar com a equipe para garantir o atingimento das metas de produção.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo<br /> - Experiência prévia em ambiente de produção<br /> - Conhecimento sobre normas de segurança e higiene<br /> - Habilidade para trabalhar em equipe<br /> - Boa comunicação<br /> - Disponibilidade para trabalhar em turnos<br /> - Proatividade e comprometimento com prazos<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/linkedin/42/auxiliar-de-producao-i]]></applyUrl>
-    <companyId><![CDATA[2293229]]></companyId>
-    <city><![CDATA[Diadema]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[17dc7f8c-b727-406f-a0c7-aa7f2b5ede8f]]></partnerJobId>
-    <company><![CDATA[Amino]]></company>
-    <title><![CDATA[MOTORISTA I]]></title>
-    <posterEmail><![CDATA[dp@amino.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é apaixonado por dirigir e busca uma nova oportunidade para colocar suas habilidades em prática? Nós temos o espaço perfeito para você! Estamos em busca de profissionais dedicados e comprometidos que desejam fazer parte de uma equipe dinâmica e em crescimento. Aqui, você encontrará um ambiente que valoriza a segurança, o respeito e o trabalho em equipe, onde cada dia traz novos desafios e a chance de aprender e evoluir. Se você procura um lugar onde suas contribuições são reconhecidas e valorizadas, venha fazer parte da nossa jornada. Junte-se a nós e ajude a construir um futuro melhor, enquanto desempenha uma função essencial para o funcionamento da nossa operação. Não perca a chance de dar o próximo passo na sua carreira. Estamos ansiosos para conhecer você e explorar juntos essa nova jornada!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Conduzir veículos para transporte de pessoas e/ou materiais, respeitando as normas de trânsito.<br /> - Realizar a manutenção básica do veículo, como verificar óleo, água e pressão dos pneus.<br /> - Manter a documentação do veículo em dia e assegurar que todos os equipamentos de segurança estejam disponíveis.<br /> - Planejar rotas de forma eficiente, garantindo a pontualidade nas entregas e deslocamentos.<br /> - Preencher relatórios de viagens e eventuais despesas associadas ao transporte.<br /> - Garantir a segurança dos passageiros e do veículo durante todo o trajeto.<br /> - Comunicar-se com a equipe com clareza e eficiência, reportando qualquer anormalidade ou situação de emergência.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Possuir carteira de habilitação categoria D, conforme legislação vigente.<br /> - Experiência comprovada na função.<br /> - Conhecimento de rotas e legislação de trânsito.<br /> - Habilidade para manobrar veículos de diferentes tamanhos.<br /> - Capacidade de seguir diretrizes de segurança e manutenção básica do veículo.<br /> - Disponibilidade para trabalhar em turnos e horários flexíveis.<br /> - Boa comunicação e relacionamento interpessoal.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/linkedin/40/motorista-i]]></applyUrl>
-    <companyId><![CDATA[2293229]]></companyId>
-    <city><![CDATA[Diadema]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[d3b3e38c-d6af-4e13-9ed2-241f74dc91d0]]></partnerJobId>
     <company><![CDATA[Amino]]></company>
     <title><![CDATA[Vendedor Externo I]]></title>
@@ -50257,6 +50005,31 @@ estratégicas e desenvolvimento de estudos/projetos de diversas naturezas.<br />
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/292/auxiliar-de-encanador-de-redes]]></applyUrl>
     <companyId><![CDATA[36870042]]></companyId>
     <city><![CDATA[Santa Rita do Passa Quatro]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e58bc884-9b62-4a57-82c8-61dcd53e5999]]></partnerJobId>
+    <company><![CDATA[GS Inima Brasil]]></company>
+    <title><![CDATA[Estágio em Sustentabilidade]]></title>
+    <posterEmail><![CDATA[ricardo.jovenato@gsinima.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />❇️ O Programa de Estágio em Sustentabilidade tem como propósito proporcionar ao estudante uma experiência prática e estruturada, contribuindo para seu desenvolvimento profissional enquanto apoia as rotinas da área. A pessoa estagiária atuará na organização e gestão de dados, na elaboração de relatórios e no suporte à execução de projetos alinhados à estratégia corporativa de sustentabilidade da GS Inima Brasil. Participará de atividades relacionadas aos indicadores ambientais e ESG, auxiliará na manutenção de controles internos e colaborará com diferentes unidades de negócio na coleta e consolidação de informações, fortalecendo as práticas sustentáveis da empresa.<br /><br />⏱️<b>Horário:</b> De segunda a sexta-feira, das 08h00 às 15h30, com 1h30 de intervalo.<br /><br /><br />️ <b>Vale Alimentação / Refeição</b> – apoio para suas refeições diárias;<br /> <b>Cesta de Natal</b> – um carinho especial no fim do ano;<br />️<b> Seguro contra acidentes pessoais</b> – proteção para você;<br /> <b>Auxílio Transporte </b>– facilidade no deslocamento diário;<br /><b> Auxílio Medicamento</b> – suporte financeiro para tratamentos e prescrições;<br />️ <b>Wellhub</b> – acesso a academias e atividades físicas;<br /> <b>Pluxee Cuida</b> – apoio psicológico, social, nutricional e consultorias jurídica e financeira.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Apoiar a coleta, organização e consolidação de dados e indicadores de sustentabilidade (ambientais, ESG, GRI), garantindo qualidade e atualização das informações;<br />
+Auxiliar na elaboração, revisão e formatação de relatórios, apresentações e materiais técnicos da área;<br />
+Apoiar o acompanhamento de projetos e programas corporativos de sustentabilidade, contribuindo com controles, registros e atualizações;<br />
+Realizar atividades administrativas, como organização de documentos, arquivamento, controle de planilhas e atualização de sistemas internos;<br />
+Auxiliar na comunicação com unidades de negócio para solicitação de dados, esclarecimento de informações e alinhamento de rotinas;<br />
+Apoiar pesquisas e levantamentos sobre tendências, boas práticas e temas relevantes de sustentabilidade;<br />
+Atuar em conformidade com normas internas, políticas de sustentabilidade e diretrizes corporativas.<br /><br /><b>Requisitos e qualificações</b><br /><br /> <b>Formação:</b> Cursando Ensino Superior<br /><b> </b><b>Áreas: </b>Engenharia Ambiental, Gestão Ambiental, Sustentabilidade/ESG ou demais áreas correlatas.<br /><br /><br />*️⃣Conhecimento intermediário em Excel e ferramentas de análise de dados;<br />*️⃣Noções de elaboração de relatórios, apresentações e organização de informações;<br />*️⃣Boa comunicação verbal e escrita, com facilidade para interação com diferentes áreas e pontos focais;<br />*️⃣Disposição para participar e apoiar a organização de reuniões, alinhamentos e rotinas colaborativas;<br /><br />*️⃣Proatividade e disposição para aprender em um ambiente dinâmico;<br />*️⃣Curiosidade e interesse em desenvolver competências técnicas na área de sustentabilidade. <br /><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/349/estagio-em-sustentabilidade]]></applyUrl>
+    <companyId><![CDATA[36870042]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -52793,6 +52566,33 @@ o crescimento das vendas da Fort Fruit no Ceasa.<br /><br /><br /><br /><br /><b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[33b4c5de-3d31-46fe-8cb3-952170e93d82]]></partnerJobId>
+    <company><![CDATA[Grupo GEOPAR]]></company>
+    <title><![CDATA[MOTORISTA APOIO]]></title>
+    <posterEmail><![CDATA[lucivonejorge@cscgeopar.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por conduzir veículos para suporte às atividades administrativas e operacionais, no que tange às praças de sondagens, objetivando o abastecimento de insumos e o transporte de pessoas e de gêneros alimentícios, suprindo as necessidades da obra.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir caminhão pipa, reabastecendo-o com água, manuseando os comandos e ligando o registro para ativação da bomba e alimentação do tanque para posterior transporte às frentes de serviços.</li><li>Abastecer as frentes de serviços manuseando a mangueira e colocando-a sobre o reservatório para o reabastecimento, certificando-se do nível certo da água, evitando o desperdício.</li><li>Conferir, antes de iniciar os deslocamentos, as condições de funcionalidade do veículo, objetivando um transporte com segurança.</li><li>Transportar os empregados nas frentes de serviços e para os alojamentos, utilizando vans e veículos leves.</li><li>Transportar insumos tais como bentonita, polímero, tubular, acessórios de sondas, equipamentos ou ferramentas e gêneros alimentícios para os canteiros de obras.</li><li>Conduzir o veículo caminhão prancha, para mobilização e desmobilização de equipamentos da praça de sondagens.</li><li>Conduzir o veículo ao lava jato credenciado para a limpeza e higienização do mesmo, objetivando sua preservação e conservação.</li><li>Efetuar o check list de verificação das condições do veículo, registrando e confirmando as condições de operações do mesmo, encaminhando para a apreciação do líder imediato.</li><li>Disponibilizar veículos para a manutenção preventiva e corretiva.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Fundamental;<br />CNH D;Experiência mínima de 06 meses na área de atuação;<br />Disponibilidade para viagens e trabalhar alojado.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupogeopar/73/motorista-apoio]]></applyUrl>
+    <companyId><![CDATA[927307]]></companyId>
+    <city><![CDATA[Parauapebas]]></city>
+    <state><![CDATA[PA]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2642.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2642.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[726dffc0-658d-4134-8418-9a9d8fdbefec]]></partnerJobId>
     <company><![CDATA[Grupo GEOPAR]]></company>
     <title><![CDATA[Capacitação Gratuita para Ajudante de Sondagem e Amostragem - Parauapebas/PA]]></title>
@@ -54371,25 +54171,6 @@ Conhecimento básico em informática (pacote Office)</li><li>Disponibilidade par
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[4afd185a-f18e-47a7-98d1-b00869b23709]]></partnerJobId>
-    <company><![CDATA[Grupo Vow]]></company>
-    <title><![CDATA[Advogado Tributarista]]></title>
-    <posterEmail><![CDATA[jorge.salati@grupovow.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Advogado(a) tributarista, para atuar no braço Jurídico do Grupo Vow, com sólida experiência em contencioso tributário e forte capacidade de relacionamento com clientes corporativos, voltada para excelência técnica e visão estratégica. O(a) profissional será responsável por representar clientes em disputas tributárias, elaborar peças processuais, participar de audiências, oferecer consultoria estratégica e garantir o alinhamento técnico com a legislação vigente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Representar clientes em processos judiciais e administrativos de natureza tributária, nas esferas federal, estadual e municipal.<br />● Atuação direta em processos judiciais tributários, elaborando minutas de petições iniciais, recursos e manifestações processuais.com alto rigor técnico.<br />● Atuar na gestão de carteira de processos tributários, com controle de prazos e andamento processual.<br />● Analisar e propor estratégias jurídicas para definição da linha de defesa das teses tributárias.<br />● Prestar atendimento técnico a clientes, incluindo reuniões periódicas para acompanhamento processual e alinhamento estratégico.<br />● Realizar análise de autos de infração, notificações e intimações fiscais, propondo alternativas de impugnação ou defesa.<br />● Apoiar em due diligences e revisões fiscais quando necessário.<br />● Monitorar e interpretar tendências legislativas e decisões relevantes, garantindo alinhamento técnico e proatividade na condução dos casos.<br />● Acompanhar atualizações legislativas e jurisprudenciais e disseminar conhecimento para o time e clientes.<br />● Colaborar com áreas correlatas, como consultoria tributária, societária e planejamento fiscal, sempre que necessário.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />● Formação completa em Direito, com registro ativo na OAB.<br />● Pós-graduação concluída em Direito Tributário.<br />● Experiência comprovada em contencioso tributário, em escritórios de advocacia de ou consultorias.<br />● Vivência sólida com atendimento direto a clientes corporativos, com postura consultiva e estratégica.<br />● Conhecimento aprofundado sobre teses tributárias envolvendo IRPJ e CSLL; PIS e COFINS; Contribuições Previdenciárias (inclusive incidência sobre verbas); ICMS.<br />● Excelente redação jurídica e capacidade argumentativa.<br />● Conhecimento avançado em controle processual e ferramentas jurídicas (Ex: Legal One, CPJ, ProJuris, etc.).<br />● Disponibilidade para viagens eventuais.<br />● Capacidade de gestão de múltiplas demandas simultâneas com foco em prazos e qualidade técnica.<br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupovow/5/advogado-tributarista]]></applyUrl>
-    <companyId><![CDATA[93390432]]></companyId>
-    <city><![CDATA[Porto Alegre]]></city>
-    <state><![CDATA[RS]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[a00b60bc-887b-41cb-ad0a-b752984c3336]]></partnerJobId>
     <company><![CDATA[Singular Telecom]]></company>
     <title><![CDATA[Vendedor interno]]></title>
@@ -55147,6 +54928,25 @@ Assegurar a correta recepção, armazenagem e expedição de peças e acessório
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[c19ec31d-ea10-4ce6-bb85-5c57c1bb3450]]></partnerJobId>
+    <company><![CDATA[Grupo PMZ]]></company>
+    <title><![CDATA[PA07 | ADM DE LOJA]]></title>
+    <posterEmail><![CDATA[vitoria.mohr@grupopmz.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por garantir as normas e procedimentos de operações de loja (caixas, estoque e área de vendas).<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Analisar o índice de colaboradores (estoque e caixa), afim comunicar o setor responsável para reposição de novos colaboradores.</li><li>Realizar o recebimento e direcionamento dos novos colaboradores (Estoque, Caixa) para serem treinados pelos líderes de times responsáveis.</li><li>Acompanhar a área interna de vendas ( Limpeza, Organização, ventiladores, catálogos e sem peças abaixo do balcão).</li><li>Assegurar o bom estado dos equipamentos para realização das atividades afim de assegurar os cumprimentos das tarefas diárias.</li><li>Manter os procedimentos dos mostruários das lojas (limpos, organizados e precificados).</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimento intermediario de informática<br /></li><li>Habilidade para lidar com o público</li><li> Proatividade e dinamismo</li><li>Desconto Universidade</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/247/pa07-adm-de-loja]]></applyUrl>
+    <companyId><![CDATA[22287656]]></companyId>
+    <city><![CDATA[Parauapebas]]></city>
+    <state><![CDATA[PA]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[18430f30-8916-44c6-ab69-3a5c509fbe18]]></partnerJobId>
     <company><![CDATA[Grupo PMZ]]></company>
     <title><![CDATA[PA07 | AUXILIAR DE ESTOQUE]]></title>
@@ -55479,25 +55279,6 @@ Reposição e substituição de placas quando necessário.</li><li>io.</li><br /
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmi/3474/gesseiro-hec]]></applyUrl>
     <companyId><![CDATA[24910672]]></companyId>
     <city><![CDATA[Feira de Santana]]></city>
-    <state><![CDATA[BA]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[c74bf92f-f726-42e3-812d-18995b6264a8]]></partnerJobId>
-    <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
-    <title><![CDATA[PSICOPEDAGOGO]]></title>
-    <posterEmail><![CDATA[michelle.gomes@labcmi.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar em unidade CRE-TEA (Centro de Referência Estadual para Pessoas com Transtorno do Espectro Autista), sendo responsável por atuar no planejamento, implementação e avaliação de projetos e intervenções psicopedagógicas, incluindo ações de recuperação da aprendizagem; realizar orientação às famílias e visitas domiciliares em conjunto com equipe multiprofissional; planejar e ministrar capacitações, palestras e formações, com elaboração de materiais didáticos; e promover práticas inclusivas, especialmente no atendimento a pessoas com autismo, com constante atualização técnica na área.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Responsável por atuar no planejamento, implementação e avaliação de projetos e intervenções psicopedagógicas, incluindo ações de recuperação da aprendizagem; realizar orientação às famílias e visitas domiciliares em conjunto com equipe multiprofissional; planejar e ministrar capacitações, palestras e formações, com elaboração de materiais didáticos; e promover práticas inclusivas, especialmente no atendimento a pessoas com autismo, com constante atualização técnica na área.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino superior completo em Psicologia e/ou Pedagogia; pós-graduação completa em Psicopedagogia.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmi/3479/psicopedagogo]]></applyUrl>
-    <companyId><![CDATA[24910672]]></companyId>
-    <city><![CDATA[Salvador]]></city>
     <state><![CDATA[BA]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -58439,25 +58220,6 @@ Conhecimento intermediário a avançado em Pacote Office, com ênfase em Excel.<
     <posterEmail><![CDATA[tamires.silva@xmobots.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Execução de rotinas contábeis com precisão e conformidade às normas vigentes;</li><li>Contabilização correta e tempestiva de receitas, despesas, ativos e passivos;</li><li>Realização de lançamentos contábeis e conciliações de contas patrimoniais e de resultado;</li><li>Elaboração de balancetes, demonstrações contábeis e relatórios gerenciais;</li><li>Consolidação de demonstrações financeiras entre empresas do mesmo grupo econômico;</li><li>Apuração de impostos e contribuições no regime de Lucro Real;</li><li>Suporte a auditorias internas e externas, com fornecimento de documentos e implementação de melhorias;</li><li>Cumprimento de obrigações acessórias e prazos legais.</li></ul><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Ciência Contábeis; </li><li>Vivência na área contábil e controladoria; </li><li>Excel avançado;</li><li>Disponibilidade para atuar presencial em São Carlos -SP.</li></ul><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/xmobotscarreiras/60/analista-de-contabilidade-sr]]></applyUrl>
-    <companyId><![CDATA[5048086]]></companyId>
-    <city><![CDATA[São Carlos]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[9d2c40c3-4e61-47a5-b17c-f6bb28815c19]]></partnerJobId>
-    <company><![CDATA[Xmobots]]></company>
-    <title><![CDATA[Estágio em Mecatrônica]]></title>
-    <posterEmail><![CDATA[tamires.silva@xmobots.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>O(a) estagiário(a) irá apoiar no desenvolvimento, especificação, validação e suporte a sistemas de atuação aplicados a diferentes soluções, com foco em Aeronaves Remotamente Pilotadas (ARP) e sistemas eletromecânicos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando 3° ou 4° ano de Engenharia Elétrica, Mecatrônica, Computação, Aeroespacial, ou áreas correlatas);</li><li>Conhecimento em protocolos de comunicação (UART, I2C, CAN, SPI, etc.);</li><li>Familiaridade com microcontroladores e prototipação eletrônica;</li></ul><br /><ul><li>Residir em São Carlos. </li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/xmobotscarreiras/59/estagio-em-mecatronica]]></applyUrl>
     <companyId><![CDATA[5048086]]></companyId>
     <city><![CDATA[São Carlos]]></city>
     <state><![CDATA[SP]]></state>
@@ -65998,6 +65760,40 @@ Desejável familiaridade com o sistema LIMS e rotinas de almoxarifado técnico e
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/33/tecnico-em-quimica]]></applyUrl>
     <companyId><![CDATA[14023532]]></companyId>
     <city><![CDATA[Macaé]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1f3a8f3b-4d68-4a3d-b520-436a5ccb8702]]></partnerJobId>
+    <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
+    <title><![CDATA[ENGENHEIRO DE OBRAS JUNIOR (infraestrutura)]]></title>
+    <posterEmail><![CDATA[joyce.rh@ctaengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por acompanhar e apoiar a execução das obras no canteiro, garantindo o cumprimento de prazos, qualidade e orçamento. Atua no controle de cronograma, medições, materiais e equipes, além de auxiliar na fiscalização dos serviços e no cumprimento das normas de segurança. Elabora relatórios técnicos e dá suporte à gestão da obra.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Fiscalização e Controle de Campo;</li><li>Gestão de Equipamentos e Produção;</li><li>Levantamento de Quantitativos e Medição;</li><li>Documentação Técnica.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação: </b><ul><li>Superior em engenharia civil </li><li> CREA ativo</li></ul><br /><br />Requisitos:<br /><ul><li>Experiência em obras de infraestrutura (terraplenagem, drenagem, pavimentação, saneamento, redes de água/esgoto, urbanização);
+</li>
+<li>
+Vivência em acompanhamento de obras e rotinas de campo;</li><li>Leitura e interpretação de projetos
+</li><li>
+Noções de planejamento e controle de obras
+</li><li>
+Conhecimento básico de orçamento e medições
+</li><li>
+Pacote Office (principalmente Excel)
+</li>
+
+
+
+<li>
+AutoCAD (diferencial)</li></ul><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/152/engenheiro-de-obras-junior-infraestrutura]]></applyUrl>
+    <companyId><![CDATA[14023532]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[RJ]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -77259,87 +77055,12 @@ Boa comunicação e proatividade.</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[bbbd7b5e-60cf-4a1c-89dc-8d107766d3a3]]></partnerJobId>
-    <company><![CDATA[Gelco Gelatinas do Brasil]]></company>
-    <title><![CDATA[OPERADOR DE PRODUÇÃO]]></title>
-    <posterEmail><![CDATA[ana.maranin@gelcointernational.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><li>Operar e monitorar equipamentos nos processos de fabricação e/ou embalagem, verificando e controlando temperatura, peso e pressão, conforme procedimentos de qualidade.
-</li>
-<li>
-Registrar paradas de máquinas e preencher relatórios de produção e rastreabilidade.
-</li>
-<li>
-Verificar o funcionamento de detectores e esterilizadores de metais (setor envase e APVs).
-</li>
-<li>
-Zelar pela limpeza, higiene e organização do setor de trabalho.
-</li>
-<li>
-Cumprir normas e programas de qualidade, segurança de alimentos e meio ambiente, incluindo HACCP, GMP, BPF, FSSC 22000 e ISO 9001/14001:2015.
-</li>
-<li>
-Atentar aos aspectos de qualidade, higiene e segurança de alimentos, comunicando proativamente desvios ou não conformidades à liderança.
-</li>
-<li>
-Compreender a importância de suas atividades para o atendimento de metas da área e para a cultura de segurança e qualidade da empresa.</li><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Monitorar e operar equipamentos no processo de fabricação e/ou embalagem, verificando e/ou controlando temperatura, peso, umidade relativa e pressão, seguindo os procedimentos e instruções de trabalho estabelecidas.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo;Disponibilidade de horário - 6x2<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gelcocarreiras/2/operador-de-producao]]></applyUrl>
-    <companyId><![CDATA[68365485]]></companyId>
-    <city><![CDATA[Pedreira]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[d5b18930-b4fc-416d-9bed-4bc84aea3684]]></partnerJobId>
     <company><![CDATA[Gelco Gelatinas do Brasil]]></company>
     <title><![CDATA[OPERADOR DE PRODUÇÃO]]></title>
     <posterEmail><![CDATA[patricia.ribeiro@gelcointernational.com]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Principais Atribuições:<br />• Monitorar e operar equipamentos no processo de fabricação  e/ ou embalagem, verificando e/ou controlando temperatura, peso, umidade relativa e pressão seguindo os procedimentos e instruções de trabalho estabelecidas.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Monitorar e operar equipamentos no processo de fabricação  e/ ou embalagem, verificando e/ou controlando temperatura, peso, umidade relativa e pressão seguindo os procedimentos e instruções de trabalho estabelecidas.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo;Condução própria;<br />Disponibilidade de horário - 12x36<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gelcocarreiras/1/operador-de-producao]]></applyUrl>
-    <companyId><![CDATA[68365485]]></companyId>
-    <city><![CDATA[Franca]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[bbad6462-2e9e-49f4-9c06-40f28224cbf4]]></partnerJobId>
-    <company><![CDATA[Gelco Gelatinas do Brasil]]></company>
-    <title><![CDATA[AUXILIAR DE SEGURANÇA DO TRABALHO]]></title>
-    <posterEmail><![CDATA[ana.maranin@gelcointernational.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Prestar suporte no controle e na verificação do atendimento às normas de Saúde, Higiene e Segurança do Trabalho da empresa, auxiliando na execução de vistorias em setores produtivos, áreas administrativas, pátios, máquinas, equipamentos e demais instalações. Apoiar na identificação de condições de risco, orientar colaboradores quanto às práticas seguras, uso adequado de equipamentos e procedimentos operacionais. Atuar no apoio às atividades rotineiras da área, organização de registros e documentos, contribuindo para a prevenção de incidentes, proteção dos colaboradores e conservação dos bens da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Acompanhar o cumprimento das normas de Higiene e Segurança do Trabalho da empresa, por meio de inspeções em áreas fabris, escritórios, pátios, máquinas, equipamentos e demais dependências, identificando fatores de risco de acidentes. Atuar na orientação e recomendação de melhorias nos procedimentos, manuseio e transporte de materiais, com foco na prevenção de acidentes, garantindo a integridade física dos colaboradores e a preservação do patrimônio da empresa.<br /><br /><b>Requisitos e qualificações</b><br /><br />Profissional com perfil comunicador, executor e analista, com boa comunicação, proatividade, organização, atenção aos detalhes e capacidade de executar e analisar rotinas de Segurança do Trabalho.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gelcocarreiras/3/auxiliar-de-seguranca-do-trabalho]]></applyUrl>
-    <companyId><![CDATA[68365485]]></companyId>
-    <city><![CDATA[Pedreira]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[7592f594-030d-483a-b853-a3520d3e5af2]]></partnerJobId>
-    <company><![CDATA[Gelco Gelatinas do Brasil]]></company>
-    <title><![CDATA[Estágio Projetos]]></title>
-    <posterEmail><![CDATA[patricia.ribeiro@gelcointernational.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar nas atividades de desenho;<br />Organização de material; <br />Acompanhamento de terceiros<br /> Atualização de cronogramas de projetos;<br />Abertura de O.S<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar nas atividades de desenho;<br />Organização de material; <br />Acompanhamento de terceiros<br /> Atualização de cronogramas de projetos;<br />Abertura de O.S<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Trabalho em equipe e colaboração, organização, iniciativa e proatividade, aprendizado, adaptação.Estar cursando: Engenharia de produção; mecatrônica e áreas relacionadas;<br />Conhecimento em Pacote Office;<br />Noção de AutoCAD/ Inventor;<br />Condução própria.<br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gelcocarreiras/4/estagio-projetos]]></applyUrl>
     <companyId><![CDATA[68365485]]></companyId>
     <city><![CDATA[Franca]]></city>
     <state><![CDATA[SP]]></state>
@@ -77389,15 +77110,15 @@ Zelar pelo uso correto de equipamentos e materiais, seguindo as normas de segura
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[de0997fb-25ee-4bfd-8d16-21bf1352370e]]></partnerJobId>
-    <company><![CDATA[Sintex]]></company>
-    <title><![CDATA[Vendedor Externo - Criciúma]]></title>
-    <posterEmail><![CDATA[rh04@sintex.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional com experiência em vendas, negociação e atendimento ao cliente, para atuar na prospecção de novos negócios, visitas a clientes e acompanhamento de resultados.<br /><br />- Se você é movido por resultados e gosta de desafios, venha fazer parte do nosso time!<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atividades:<br /><br />Realizar visitas de campo e identificar novas oportunidades de negócio;<br />Elaborar propostas comerciais, negociar e acompanhar clientes (follow up);<br />Monitorar indicadores comerciais e resultados de vendas;<br />Observar práticas da concorrência e propor melhorias nas estratégias de venda;<br />Identificar necessidades no PDV dos clientes e apoiar o time de produtos;<br />Atuar em parceria com as áreas comercial e de desenvolvimento.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio completo (obrigatório);<br />Experiência em vendas, negociação e atendimento ao cliente;<br />Residir em Criciúma/SC.<br />Disponibilidade para viagensCarteira de habilitação B<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sintexvagas/1/vendedor-externo-criciuma]]></applyUrl>
-    <companyId><![CDATA[3652217]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[SC]]></state>
+    <partnerJobId><![CDATA[bbad6462-2e9e-49f4-9c06-40f28224cbf4]]></partnerJobId>
+    <company><![CDATA[Gelco Gelatinas do Brasil]]></company>
+    <title><![CDATA[AUXILIAR DE SEGURANÇA DO TRABALHO]]></title>
+    <posterEmail><![CDATA[ana.maranin@gelcointernational.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Prestar suporte no controle e na verificação do atendimento às normas de Saúde, Higiene e Segurança do Trabalho da empresa, auxiliando na execução de vistorias em setores produtivos, áreas administrativas, pátios, máquinas, equipamentos e demais instalações. Apoiar na identificação de condições de risco, orientar colaboradores quanto às práticas seguras, uso adequado de equipamentos e procedimentos operacionais. Atuar no apoio às atividades rotineiras da área, organização de registros e documentos, contribuindo para a prevenção de incidentes, proteção dos colaboradores e conservação dos bens da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Acompanhar o cumprimento das normas de Higiene e Segurança do Trabalho da empresa, por meio de inspeções em áreas fabris, escritórios, pátios, máquinas, equipamentos e demais dependências, identificando fatores de risco de acidentes. Atuar na orientação e recomendação de melhorias nos procedimentos, manuseio e transporte de materiais, com foco na prevenção de acidentes, garantindo a integridade física dos colaboradores e a preservação do patrimônio da empresa.<br /><br /><b>Requisitos e qualificações</b><br /><br />Profissional com perfil comunicador, executor e analista, com boa comunicação, proatividade, organização, atenção aos detalhes e capacidade de executar e analisar rotinas de Segurança do Trabalho.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gelcocarreiras/3/auxiliar-de-seguranca-do-trabalho]]></applyUrl>
+    <companyId><![CDATA[68365485]]></companyId>
+    <city><![CDATA[Pedreira]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -77408,15 +77129,33 @@ Zelar pelo uso correto de equipamentos e materiais, seguindo as normas de segura
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6180f0f1-8d38-4602-9a50-124a88cbf6c4]]></partnerJobId>
-    <company><![CDATA[Sintex]]></company>
-    <title><![CDATA[Ajudante de Produção]]></title>
-    <posterEmail><![CDATA[rh04@sintex.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma oportunidade para crescer profissionalmente em um ambiente organizado, dinâmico e colaborativo, a Sintex tem uma excelente oportunidade para você!<br /><br /><br />Estamos em busca de um(a) Ajudante de Produção comprometido(a), atento(a) aos detalhes e com vontade de aprender. Aqui, você fará parte de um time que valoriza a qualidade, o trabalho em equipe e o desenvolvimento contínuo.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O que você irá fazer:<br /><br />- Montagem, inspeção e embalagem de produtos;<br />- Organização de peças e materiais;<br />- Verificação da qualidade e identificação de defeitos;<br />- Manutenção da limpeza e segurança no local de trabalho;<br />- Cumprimento das normas de qualidade e segurança.<br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Fundamental completo.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sintexvagas/2/ajudante-de-producao]]></applyUrl>
-    <companyId><![CDATA[3652217]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[SC]]></state>
+    <partnerJobId><![CDATA[bbbd7b5e-60cf-4a1c-89dc-8d107766d3a3]]></partnerJobId>
+    <company><![CDATA[Gelco Gelatinas do Brasil]]></company>
+    <title><![CDATA[OPERADOR DE PRODUÇÃO]]></title>
+    <posterEmail><![CDATA[ana.maranin@gelcointernational.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><li>Operar e monitorar equipamentos nos processos de fabricação e/ou embalagem, verificando e controlando temperatura, peso e pressão, conforme procedimentos de qualidade.
+</li>
+<li>
+Registrar paradas de máquinas e preencher relatórios de produção e rastreabilidade.
+</li>
+<li>
+Verificar o funcionamento de detectores e esterilizadores de metais (setor envase e APVs).
+</li>
+<li>
+Zelar pela limpeza, higiene e organização do setor de trabalho.
+</li>
+<li>
+Cumprir normas e programas de qualidade, segurança de alimentos e meio ambiente, incluindo HACCP, GMP, BPF, FSSC 22000 e ISO 9001/14001:2015.
+</li>
+<li>
+Atentar aos aspectos de qualidade, higiene e segurança de alimentos, comunicando proativamente desvios ou não conformidades à liderança.
+</li>
+<li>
+Compreender a importância de suas atividades para o atendimento de metas da área e para a cultura de segurança e qualidade da empresa.</li><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Monitorar e operar equipamentos no processo de fabricação e/ou embalagem, verificando e/ou controlando temperatura, peso, umidade relativa e pressão, seguindo os procedimentos e instruções de trabalho estabelecidas.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo;Disponibilidade de horário - 6x2<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gelcocarreiras/2/operador-de-producao]]></applyUrl>
+    <companyId><![CDATA[68365485]]></companyId>
+    <city><![CDATA[Pedreira]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -77427,12 +77166,31 @@ Zelar pelo uso correto de equipamentos e materiais, seguindo as normas de segura
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[b88a46a8-08c9-407b-986e-ada00c4b3d0c]]></partnerJobId>
+    <partnerJobId><![CDATA[7592f594-030d-483a-b853-a3520d3e5af2]]></partnerJobId>
+    <company><![CDATA[Gelco Gelatinas do Brasil]]></company>
+    <title><![CDATA[Estágio Projetos]]></title>
+    <posterEmail><![CDATA[patricia.ribeiro@gelcointernational.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar nas atividades de desenho;<br />Organização de material; <br />Acompanhamento de terceiros<br /> Atualização de cronogramas de projetos;<br />Abertura de O.S<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar nas atividades de desenho;<br />Organização de material; <br />Acompanhamento de terceiros<br /> Atualização de cronogramas de projetos;<br />Abertura de O.S<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Trabalho em equipe e colaboração, organização, iniciativa e proatividade, aprendizado, adaptação.Estar cursando: Engenharia de produção; mecatrônica e áreas relacionadas;<br />Conhecimento em Pacote Office;<br />Noção de AutoCAD/ Inventor;<br />Condução própria.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gelcocarreiras/4/estagio-projetos]]></applyUrl>
+    <companyId><![CDATA[68365485]]></companyId>
+    <city><![CDATA[Franca]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e6123a2f-82c6-4815-b9c5-13c29df24b2a]]></partnerJobId>
     <company><![CDATA[Sintex]]></company>
-    <title><![CDATA[Preparador de Máquinas Injetoras de Plástico]]></title>
+    <title><![CDATA[Analista de Processos - Injeção Plástica]]></title>
     <posterEmail><![CDATA[rh04@sintex.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Sintex está em busca de um Preparador de Máquinas Injetoras comprometido, técnico e orientado a resultados para integrar nosso time de produção.<br /><br /><br />Se você é movido por desafios, tem perfil analítico e busca crescimento profissional em um ambiente industrial organizado e focado em qualidade, essa oportunidade é para você!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O que você irá fazer:<br /><br /><ul><li>Realizar a preparação, setup e regulagem de máquinas injetoras conforme ficha técnica e plano de produção</li><li>Executar troca de moldes, garantindo segurança e agilidade no processo</li><li>Ajustar parâmetros de injeção (temperatura, pressão, tempo de ciclo, entre outros) visando qualidade e produtividade</li><li>Monitorar o processo produtivo, identificando e corrigindo possíveis desvios</li><li>Controlar o uso e abastecimento de matéria-prima</li><li>Atuar na redução de refugos e retrabalhos</li><li>Orientar operadores quanto às melhores práticas operacionais</li><li>Cumprir rigorosamente as normas de segurança e procedimentos internos</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Técnico completo ou cursando na área de Plásticos (obrigatório)</li><li>Experiência comprovada com troca de moldes e preparação de máquinas injetoras</li><li>Conhecimento em regulagem e processamento de materiais como PP, ABS, POM e PA</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sintexvagas/3/preparador-de-maquinas-injetoras-de-plastico]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Sintex está em busca de um(a) <b>Analista de Processos</b> com perfil técnico, analítico e orientado a resultados para atuar na otimização e melhoria contínua dos <b>processos de injeção plástica.</b><br /><br /><br />Se você é movido por desafios, gosta de trabalhar com inovação, redução de custos e aumento de performance industrial, essa oportunidade é para você!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Analisar projetos de moldes.</li><li>Realizar try-out de moldes (novos e atuais) e matérias-primas.</li><li>Emitir relatórios técnicos de try-out.</li><li>Definir, ajustar e otimizar ciclos de injeção.</li><li>Monitorar peso e estabilidade dimensional das peças.</li><li>Criar e atualizar fichas técnicas e instruções de trabalho.</li><li>Acompanhar e melhorar indicadores de ciclo e produtividade.</li><li>Propor melhorias em moldes, máquinas e periféricos.</li><li>Identificar falhas em máquinas injetoras e equipamentos auxiliares.</li><li>Calcular máquina ideal e apoiar na aquisição de novos equipamentos.</li><li>Conduzir testes de redução de ciclo e uso de material moído.</li><li>Avaliar balanceamento de cavidades e correção de rebarbas.</li><li>Propor redução de peso e substituição de materiais mantendo qualidade.</li><li>Otimizar setup por meio de treinamentos e padronização de processos.</li><li>Prestar suporte técnico à produção e substituir a liderança quando necessário.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Técnico em Plásticos ou áreas afins<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sintexvagas/5/analista-de-processos-injecao-plastica]]></applyUrl>
     <companyId><![CDATA[3652217]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[SC]]></state>
@@ -77473,12 +77231,50 @@ Zelar pelo uso correto de equipamentos e materiais, seguindo as normas de segura
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[e6123a2f-82c6-4815-b9c5-13c29df24b2a]]></partnerJobId>
+    <partnerJobId><![CDATA[b88a46a8-08c9-407b-986e-ada00c4b3d0c]]></partnerJobId>
     <company><![CDATA[Sintex]]></company>
-    <title><![CDATA[Analista de Processos - Injeção Plástica]]></title>
+    <title><![CDATA[Preparador de Máquinas Injetoras de Plástico]]></title>
     <posterEmail><![CDATA[rh04@sintex.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Sintex está em busca de um(a) <b>Analista de Processos</b> com perfil técnico, analítico e orientado a resultados para atuar na otimização e melhoria contínua dos <b>processos de injeção plástica.</b><br /><br /><br />Se você é movido por desafios, gosta de trabalhar com inovação, redução de custos e aumento de performance industrial, essa oportunidade é para você!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Analisar projetos de moldes.</li><li>Realizar try-out de moldes (novos e atuais) e matérias-primas.</li><li>Emitir relatórios técnicos de try-out.</li><li>Definir, ajustar e otimizar ciclos de injeção.</li><li>Monitorar peso e estabilidade dimensional das peças.</li><li>Criar e atualizar fichas técnicas e instruções de trabalho.</li><li>Acompanhar e melhorar indicadores de ciclo e produtividade.</li><li>Propor melhorias em moldes, máquinas e periféricos.</li><li>Identificar falhas em máquinas injetoras e equipamentos auxiliares.</li><li>Calcular máquina ideal e apoiar na aquisição de novos equipamentos.</li><li>Conduzir testes de redução de ciclo e uso de material moído.</li><li>Avaliar balanceamento de cavidades e correção de rebarbas.</li><li>Propor redução de peso e substituição de materiais mantendo qualidade.</li><li>Otimizar setup por meio de treinamentos e padronização de processos.</li><li>Prestar suporte técnico à produção e substituir a liderança quando necessário.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Técnico em Plásticos ou áreas afins<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sintexvagas/5/analista-de-processos-injecao-plastica]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Sintex está em busca de um Preparador de Máquinas Injetoras comprometido, técnico e orientado a resultados para integrar nosso time de produção.<br /><br /><br />Se você é movido por desafios, tem perfil analítico e busca crescimento profissional em um ambiente industrial organizado e focado em qualidade, essa oportunidade é para você!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O que você irá fazer:<br /><br /><ul><li>Realizar a preparação, setup e regulagem de máquinas injetoras conforme ficha técnica e plano de produção</li><li>Executar troca de moldes, garantindo segurança e agilidade no processo</li><li>Ajustar parâmetros de injeção (temperatura, pressão, tempo de ciclo, entre outros) visando qualidade e produtividade</li><li>Monitorar o processo produtivo, identificando e corrigindo possíveis desvios</li><li>Controlar o uso e abastecimento de matéria-prima</li><li>Atuar na redução de refugos e retrabalhos</li><li>Orientar operadores quanto às melhores práticas operacionais</li><li>Cumprir rigorosamente as normas de segurança e procedimentos internos</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Técnico completo ou cursando na área de Plásticos (obrigatório)</li><li>Experiência comprovada com troca de moldes e preparação de máquinas injetoras</li><li>Conhecimento em regulagem e processamento de materiais como PP, ABS, POM e PA</li></ul><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sintexvagas/3/preparador-de-maquinas-injetoras-de-plastico]]></applyUrl>
+    <companyId><![CDATA[3652217]]></companyId>
+    <city><![CDATA[Joinville]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[6180f0f1-8d38-4602-9a50-124a88cbf6c4]]></partnerJobId>
+    <company><![CDATA[Sintex]]></company>
+    <title><![CDATA[Ajudante de Produção]]></title>
+    <posterEmail><![CDATA[rh04@sintex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma oportunidade para crescer profissionalmente em um ambiente organizado, dinâmico e colaborativo, a Sintex tem uma excelente oportunidade para você!<br /><br /><br />Estamos em busca de um(a) Ajudante de Produção comprometido(a), atento(a) aos detalhes e com vontade de aprender. Aqui, você fará parte de um time que valoriza a qualidade, o trabalho em equipe e o desenvolvimento contínuo.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O que você irá fazer:<br /><br />- Montagem, inspeção e embalagem de produtos;<br />- Organização de peças e materiais;<br />- Verificação da qualidade e identificação de defeitos;<br />- Manutenção da limpeza e segurança no local de trabalho;<br />- Cumprimento das normas de qualidade e segurança.<br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Fundamental completo.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sintexvagas/2/ajudante-de-producao]]></applyUrl>
+    <companyId><![CDATA[3652217]]></companyId>
+    <city><![CDATA[Joinville]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[de0997fb-25ee-4bfd-8d16-21bf1352370e]]></partnerJobId>
+    <company><![CDATA[Sintex]]></company>
+    <title><![CDATA[Vendedor Externo - Criciúma]]></title>
+    <posterEmail><![CDATA[rh04@sintex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional com experiência em vendas, negociação e atendimento ao cliente, para atuar na prospecção de novos negócios, visitas a clientes e acompanhamento de resultados.<br /><br />- Se você é movido por resultados e gosta de desafios, venha fazer parte do nosso time!<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atividades:<br /><br />Realizar visitas de campo e identificar novas oportunidades de negócio;<br />Elaborar propostas comerciais, negociar e acompanhar clientes (follow up);<br />Monitorar indicadores comerciais e resultados de vendas;<br />Observar práticas da concorrência e propor melhorias nas estratégias de venda;<br />Identificar necessidades no PDV dos clientes e apoiar o time de produtos;<br />Atuar em parceria com as áreas comercial e de desenvolvimento.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio completo (obrigatório);<br />Experiência em vendas, negociação e atendimento ao cliente;<br />Residir em Criciúma/SC.<br />Disponibilidade para viagensCarteira de habilitação B<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sintexvagas/1/vendedor-externo-criciuma]]></applyUrl>
     <companyId><![CDATA[3652217]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[SC]]></state>
@@ -77880,15 +77676,22 @@ responsabilidade.<br /></li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[94054328-03c3-491d-aa5f-35efc636e775]]></partnerJobId>
+    <partnerJobId><![CDATA[e17639f4-8890-4bef-baa7-7080f912c06b]]></partnerJobId>
     <company><![CDATA[Enfil SA Controle Ambiental]]></company>
-    <title><![CDATA[#Analista Fiscal Pleno]]></title>
-    <posterEmail><![CDATA[emanuelle.santos@enfil.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais motivados e comprometidos para integrar nossa equipe em uma proposta de desenvolvimento e crescimento real. Se você é uma pessoa que valoriza um ambiente colaborativo e dinâmico, onde é possível aprender e se aprimorar constantemente, essa é a oportunidade ideal para você. <br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apurar tributos diretos e indiretos;</li><li>Realizar fechamento fiscal;</li><li>Emitir notas fiscais e fatura de locação;</li><li>Preparar e transmitir obrigações acessórias;</li><li>Garantir o cumprimento da legislação vigente;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Ciências Contábeis, Administração ou áreas correlatas;</li><li>Experiência comprovada na função;</li><li>Conhecer a legislação tributária e obrigações acessórias;</li><li>Conhecimento em regimes de tributação;</li><li>Pacote Office / ERP.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/enfil/3/analista-fiscal-pleno]]></applyUrl>
+    <title><![CDATA[Supervisor de Operações]]></title>
+    <posterEmail><![CDATA[recrusoshumanos@enfilsacontroleambiental.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está convidado(a) a fazer parte de uma equipe dinâmica
+e inovadora, onde seu talento e esforço serão valorizados. Em um ambiente que
+promove a colaboração e o desenvolvimento profissional, você terá a
+oportunidade de contribuir para o nosso crescimento, tornando-se uma peça
+fundamental na operação do dia a dia. Procuramos pessoas comprometidas,
+proativas e com vontade de aprender para se juntarem a nós e enfrentarem juntos
+os desafios que nos aguardam. Se você busca um local onde possa potencializar
+suas habilidades e fazer a diferença, esta é a sua chance.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar como preposto da contratada junto à Petrobras, garantindo alinhamento técnico, operacional e contratual;</li><li>Consolidar análise e interpretação de dados operacionais;</li><li>Propor implementação de melhorias de processo;</li><li>Realizar leitura de dados operacionais em campo;</li><li>Elaboração e consolidação de relatórios técnicos, com análises e recomendações;</li><li>Realizar a gestão do time operacional e de manutenção;</li><li>Fazer a gestão e controle de estoques de químicos e peças;</li><li>Realizar contato direto com cliente;</li><li>Cumpri o atendimento a normativas de segurança Petrobras;</li><li>Desempenhar ações corretivas de processos e ajustes de dosagens químicas.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Superior Completo em Engenharia ou Química;<br />CRQ ativo;Conhecimento em processos e tecnologias de tratamento de água;<br />Inglês intermediário.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/enfil/16/supervisor-de-operacoes]]></applyUrl>
     <companyId><![CDATA[685095]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
+    <city><![CDATA[Três Lagoas]]></city>
+    <state><![CDATA[MS]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -77899,15 +77702,53 @@ responsabilidade.<br /></li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[8e8aea27-28b5-4cd8-850f-00db7d75b5cc]]></partnerJobId>
+    <partnerJobId><![CDATA[ab9bcb37-25d6-429b-9f38-8ac89bf5357e]]></partnerJobId>
     <company><![CDATA[Enfil SA Controle Ambiental]]></company>
-    <title><![CDATA[Estagiário Engenharia Civil]]></title>
-    <posterEmail><![CDATA[emanuelle.santos@enfil.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está convidado(a) a fazer parte de uma equipe dinâmica e inovadora, onde seu talento e esforço serão valorizados. Em um ambiente que promove a colaboração e o desenvolvimento profissional, você terá a oportunidade de contribuir para o nosso crescimento, tornando-se uma peça fundamental na operação do dia a dia. Procuramos pessoas comprometidas, proativas e com vontade de aprender para se juntarem a nós e enfrentarem juntos os desafios que nos aguardam. Se você busca um local onde possa potencializar suas habilidades e fazer a diferença, esta é a sua chance.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoio ao desenvolvimento de projetos de Engenharia Civil, sob supervisão técnica; </li><li>Apoio organizacional do departamento; </li><li>Apoio ao desenvolvimento de modelos típicos;</li><li>Apoiar a elaboração e padronização de modelos típicos, desenhos e detalhamentos técnicos;</li><li>Dar suporte na leitura e interpretação de projetos;</li><li>Apoiar a equipe no acompanhamento de cronograma<strong>s</strong> e atividades de engenharia.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Cursando 4º ou 5º ano de Engenharia Civil; Conhecimentos básicos de AutoCad e REVIT;<br />Trabalho em equipe;Proatividade; <br />Atenção nos detalhes;<br />Comprometimento com prazos.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/enfil/12/estagiario-engenharia-civil]]></applyUrl>
+    <title><![CDATA[Auxiliar de Manutenção Eletromecânica]]></title>
+    <posterEmail><![CDATA[recrusoshumanos@enfilsacontroleambiental.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está convidado(a) a fazer parte de uma equipe dinâmica
+e inovadora, onde seu talento e esforço serão valorizados. Em um ambiente que
+promove a colaboração e o desenvolvimento profissional, você terá a
+oportunidade de contribuir para o nosso crescimento, tornando-se uma peça
+fundamental na operação do dia a dia. Procuramos pessoas comprometidas,
+proativas e com vontade de aprender para se juntarem a nós e enfrentarem juntos
+os desafios que nos aguardam. Se você busca um local onde possa potencializar
+suas habilidades e fazer a diferença, esta é a sua chance.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver atividades operacionais dedicados no Contrato de Operação de Sistemas de Águas na Petrobras UTE - TLG;</li><li>Realizar manutenções hidráulicas, elétricas e mecânicas de pequeno porte, conforme orientações técnicas e procedimentos estabelecidos;</li><li>Auxiliar na avaliação, controle e levantamento do estoque de peças, materiais e ferramentas de manutenção, sinalizando necessidades de reposição;</li><li>Realizar atendimento a normativas de segurança Petrobras;</li><li>Executar o apontamento e registrar as manutenções preventivas realizadas, garantindo a atualização dos controles e históricos de manutenção.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso técnico em Elétrica ou Eletromecânica;</li><li>Certificação na NR-10.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/enfil/15/auxiliar-de-manutencao-eletromecanica]]></applyUrl>
     <companyId><![CDATA[685095]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
+    <city><![CDATA[Três Lagoas]]></city>
+    <state><![CDATA[MS]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[fefbfef2-bd7e-4960-a6f2-fb6d420d3b39]]></partnerJobId>
+    <company><![CDATA[Enfil SA Controle Ambiental]]></company>
+    <title><![CDATA[Técnico de Quimica]]></title>
+    <posterEmail><![CDATA[recrusoshumanos@enfilsacontroleambiental.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está convidado(a) a fazer parte de uma equipe dinâmica
+e inovadora, onde seu talento e esforço serão valorizados. Em um ambiente que
+promove a colaboração e o desenvolvimento profissional, você terá a
+oportunidade de contribuir para o nosso crescimento, tornando-se uma peça
+fundamental na operação do dia a dia. Procuramos pessoas comprometidas,
+proativas e com vontade de aprender para se juntarem a nós e enfrentarem juntos
+os desafios que nos aguardam. Se você busca um local onde possa potencializar
+suas habilidades e fazer a diferença, esta é a sua chance.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver Atividades operacionais dedicados no contrato de
+Operação de Sistemas de Águas na Petrobrás UTE – TLG;</li><li>Análises laboratoriais de controle interno operacional;</li><li>Realizar consolidações de dados;</li><li>Propostas de melhorias processos;</li><li>Realizar leitura de dados operacionais em Campo;</li><li>Realizar a consolidação e organização de relatórios técnicos;</li><li>Manter relacionamento direto com clientes;</li><li>Realizar o atendimento a normativas de segurança Petrobras;</li><li>Executar ações corretivas em processos operacionais,
+incluindo ajustes de dosagens químicas;</li><li>Realizar ensaios laboratoriais para controle, validação e
+otimização de processos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Técnico Completo a área Química;</li><li>CRQ ativo;</li></ul>
+
+<ul><li>Inglês intermediário.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/enfil/14/tecnico-de-quimica]]></applyUrl>
+    <companyId><![CDATA[685095]]></companyId>
+    <city><![CDATA[Três Lagoas]]></city>
+    <state><![CDATA[MS]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -77955,27 +77796,15 @@ Elaborar e preencher propostas, planilhas e documentações técnicas e comercia
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[fefbfef2-bd7e-4960-a6f2-fb6d420d3b39]]></partnerJobId>
+    <partnerJobId><![CDATA[8e8aea27-28b5-4cd8-850f-00db7d75b5cc]]></partnerJobId>
     <company><![CDATA[Enfil SA Controle Ambiental]]></company>
-    <title><![CDATA[Técnico de Quimica]]></title>
-    <posterEmail><![CDATA[recrusoshumanos@enfilsacontroleambiental.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está convidado(a) a fazer parte de uma equipe dinâmica
-e inovadora, onde seu talento e esforço serão valorizados. Em um ambiente que
-promove a colaboração e o desenvolvimento profissional, você terá a
-oportunidade de contribuir para o nosso crescimento, tornando-se uma peça
-fundamental na operação do dia a dia. Procuramos pessoas comprometidas,
-proativas e com vontade de aprender para se juntarem a nós e enfrentarem juntos
-os desafios que nos aguardam. Se você busca um local onde possa potencializar
-suas habilidades e fazer a diferença, esta é a sua chance.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver Atividades operacionais dedicados no contrato de
-Operação de Sistemas de Águas na Petrobrás UTE – TLG;</li><li>Análises laboratoriais de controle interno operacional;</li><li>Realizar consolidações de dados;</li><li>Propostas de melhorias processos;</li><li>Realizar leitura de dados operacionais em Campo;</li><li>Realizar a consolidação e organização de relatórios técnicos;</li><li>Manter relacionamento direto com clientes;</li><li>Realizar o atendimento a normativas de segurança Petrobras;</li><li>Executar ações corretivas em processos operacionais,
-incluindo ajustes de dosagens químicas;</li><li>Realizar ensaios laboratoriais para controle, validação e
-otimização de processos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Técnico Completo a área Química;</li><li>CRQ ativo;</li></ul>
-
-<ul><li>Inglês intermediário.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/enfil/14/tecnico-de-quimica]]></applyUrl>
+    <title><![CDATA[Estagiário Engenharia Civil]]></title>
+    <posterEmail><![CDATA[emanuelle.santos@enfil.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está convidado(a) a fazer parte de uma equipe dinâmica e inovadora, onde seu talento e esforço serão valorizados. Em um ambiente que promove a colaboração e o desenvolvimento profissional, você terá a oportunidade de contribuir para o nosso crescimento, tornando-se uma peça fundamental na operação do dia a dia. Procuramos pessoas comprometidas, proativas e com vontade de aprender para se juntarem a nós e enfrentarem juntos os desafios que nos aguardam. Se você busca um local onde possa potencializar suas habilidades e fazer a diferença, esta é a sua chance.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoio ao desenvolvimento de projetos de Engenharia Civil, sob supervisão técnica; </li><li>Apoio organizacional do departamento; </li><li>Apoio ao desenvolvimento de modelos típicos;</li><li>Apoiar a elaboração e padronização de modelos típicos, desenhos e detalhamentos técnicos;</li><li>Dar suporte na leitura e interpretação de projetos;</li><li>Apoiar a equipe no acompanhamento de cronograma<strong>s</strong> e atividades de engenharia.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Cursando 4º ou 5º ano de Engenharia Civil; Conhecimentos básicos de AutoCad e REVIT;<br />Trabalho em equipe;Proatividade; <br />Atenção nos detalhes;<br />Comprometimento com prazos.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/enfil/12/estagiario-engenharia-civil]]></applyUrl>
     <companyId><![CDATA[685095]]></companyId>
-    <city><![CDATA[Três Lagoas]]></city>
-    <state><![CDATA[MS]]></state>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -77986,48 +77815,15 @@ otimização de processos.</li></ul><br /><br /><b>Requisitos e qualificações<
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[ab9bcb37-25d6-429b-9f38-8ac89bf5357e]]></partnerJobId>
+    <partnerJobId><![CDATA[94054328-03c3-491d-aa5f-35efc636e775]]></partnerJobId>
     <company><![CDATA[Enfil SA Controle Ambiental]]></company>
-    <title><![CDATA[Auxiliar de Manutenção Eletromecânica]]></title>
-    <posterEmail><![CDATA[recrusoshumanos@enfilsacontroleambiental.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está convidado(a) a fazer parte de uma equipe dinâmica
-e inovadora, onde seu talento e esforço serão valorizados. Em um ambiente que
-promove a colaboração e o desenvolvimento profissional, você terá a
-oportunidade de contribuir para o nosso crescimento, tornando-se uma peça
-fundamental na operação do dia a dia. Procuramos pessoas comprometidas,
-proativas e com vontade de aprender para se juntarem a nós e enfrentarem juntos
-os desafios que nos aguardam. Se você busca um local onde possa potencializar
-suas habilidades e fazer a diferença, esta é a sua chance.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver atividades operacionais dedicados no Contrato de Operação de Sistemas de Águas na Petrobras UTE - TLG;</li><li>Realizar manutenções hidráulicas, elétricas e mecânicas de pequeno porte, conforme orientações técnicas e procedimentos estabelecidos;</li><li>Auxiliar na avaliação, controle e levantamento do estoque de peças, materiais e ferramentas de manutenção, sinalizando necessidades de reposição;</li><li>Realizar atendimento a normativas de segurança Petrobras;</li><li>Executar o apontamento e registrar as manutenções preventivas realizadas, garantindo a atualização dos controles e históricos de manutenção.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso técnico em Elétrica ou Eletromecânica;</li><li>Certificação na NR-10.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/enfil/15/auxiliar-de-manutencao-eletromecanica]]></applyUrl>
+    <title><![CDATA[#Analista Fiscal Pleno]]></title>
+    <posterEmail><![CDATA[emanuelle.santos@enfil.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais motivados e comprometidos para integrar nossa equipe em uma proposta de desenvolvimento e crescimento real. Se você é uma pessoa que valoriza um ambiente colaborativo e dinâmico, onde é possível aprender e se aprimorar constantemente, essa é a oportunidade ideal para você. <br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apurar tributos diretos e indiretos;</li><li>Realizar fechamento fiscal;</li><li>Emitir notas fiscais e fatura de locação;</li><li>Preparar e transmitir obrigações acessórias;</li><li>Garantir o cumprimento da legislação vigente;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Ciências Contábeis, Administração ou áreas correlatas;</li><li>Experiência comprovada na função;</li><li>Conhecer a legislação tributária e obrigações acessórias;</li><li>Conhecimento em regimes de tributação;</li><li>Pacote Office / ERP.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/enfil/3/analista-fiscal-pleno]]></applyUrl>
     <companyId><![CDATA[685095]]></companyId>
-    <city><![CDATA[Três Lagoas]]></city>
-    <state><![CDATA[MS]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e17639f4-8890-4bef-baa7-7080f912c06b]]></partnerJobId>
-    <company><![CDATA[Enfil SA Controle Ambiental]]></company>
-    <title><![CDATA[Supervisor de Operações]]></title>
-    <posterEmail><![CDATA[recrusoshumanos@enfilsacontroleambiental.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está convidado(a) a fazer parte de uma equipe dinâmica
-e inovadora, onde seu talento e esforço serão valorizados. Em um ambiente que
-promove a colaboração e o desenvolvimento profissional, você terá a
-oportunidade de contribuir para o nosso crescimento, tornando-se uma peça
-fundamental na operação do dia a dia. Procuramos pessoas comprometidas,
-proativas e com vontade de aprender para se juntarem a nós e enfrentarem juntos
-os desafios que nos aguardam. Se você busca um local onde possa potencializar
-suas habilidades e fazer a diferença, esta é a sua chance.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar como preposto da contratada junto à Petrobras, garantindo alinhamento técnico, operacional e contratual;</li><li>Consolidar análise e interpretação de dados operacionais;</li><li>Propor implementação de melhorias de processo;</li><li>Realizar leitura de dados operacionais em campo;</li><li>Elaboração e consolidação de relatórios técnicos, com análises e recomendações;</li><li>Realizar a gestão do time operacional e de manutenção;</li><li>Fazer a gestão e controle de estoques de químicos e peças;</li><li>Realizar contato direto com cliente;</li><li>Cumpri o atendimento a normativas de segurança Petrobras;</li><li>Desempenhar ações corretivas de processos e ajustes de dosagens químicas.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Superior Completo em Engenharia ou Química;<br />CRQ ativo;Conhecimento em processos e tecnologias de tratamento de água;<br />Inglês intermediário.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/enfil/16/supervisor-de-operacoes]]></applyUrl>
-    <companyId><![CDATA[685095]]></companyId>
-    <city><![CDATA[Três Lagoas]]></city>
-    <state><![CDATA[MS]]></state>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -78996,12 +78792,14 @@ e seguro aos residentes e familiares<br /><br /><b>Requisitos e qualificações<
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[9e3d26ea-8ea6-4de5-a1c6-ead6b5d4328d]]></partnerJobId>
+    <partnerJobId><![CDATA[ad43d53f-ebfa-4ca0-b38d-d75aacaeddc5]]></partnerJobId>
     <company><![CDATA[Salsa Technology]]></company>
-    <title><![CDATA[Account Manager]]></title>
+    <title><![CDATA[Desenvolvedor Full Stack]]></title>
     <posterEmail><![CDATA[marcia.nunes@salsatechnology.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />ACCOUNT MANAGER: - IGAMING<br />Venha fazer parte do nosso time. <br />Vaga: Remota<br />Contratação PJ <br />Salsa Technology<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar as contas sob sua responsabilidade;</li><li>Gerenciar os clientes pré pagos com apoio do time de Acquisition;</li><li>Montar o perfil de cada cliente para ofertar atendimento personalizado;</li><li>Realizar reuniões mensais com cada cliente para alinhamento e brainstorming, com o intuito de estar sempre ciente do cenário atual do cliente e suas estratégias para apoio direto no aumento da receita do operador;</li><li>Identificar oportunidades de crescimento de uma maneira geral, junto ao cliente, aos provedores, promoções, etc;</li><li>Trabalhar com os clientes para definir planos de longo prazo e metas de negócios, alinhando as soluções da empresa com os objetivos estratégicos dos clientes;</li><li>Apoio na negociação de acordos e contratos;</li><li>Consultar diariamente os relatórios Netincome dos operadores de sua responsabilidade para monitoramento da performance, para estar ciente dos números, negativos e atividades do operador;</li><li>Informar aos operadores sobre negativos expressivos, e solicitar análise do time de suporte se necessário;</li><li>Trabalhar e coordenar junto a outras equipes internas (marketing, operações, conteúdo, etc.) para garantir a entrega eficiente de soluções personalizadas, campanhas e produtos adaptados às necessidades dos clientes;</li><li>Oferecer semanalmente mais conteúdo aos operadores, mediante seu mercado e estratégia para garantirmos o máximo de conteúdo possível com cada operador;</li><li>Garantir que todas as ativações entregues sejam disponibilizadas na plataforma dos operadores, ou seja, consultar regularmente a plataforma do operador, para ter ciência do que estar live e trabalhar com eles a adição de todo o conteúdo disponível;</li><li>Garantir que todas as atividades sejam realizadas em conformidade com as regulamentações e requisitos de licenciamento específicos do iGaming, incluindo práticas de jogo responsável;</li><li>Manter-se atualizado sobre as tendências da indústria, atividades dos concorrentes e novos produtos ou serviços de iGaming para fornecer insights valiosos aos clientes e ajudá-los a manter-se competitivos.</li><li>Fazer a gestão de conta para com os provedores;</li><li>Realizar reuniões periódicas com os provedores para criação e fortalecimento das relações;</li><li>Mapear junto aos provedores estratégias, promoções e ações de marketing para aumento de receita;</li><li>Apoio na resolução de problemas técnicos/financeiros/marketing/operacional junto aos provedores;</li><li>Atuar como ponte entre provedores e o setor financeiro para viabilizar planos de pagamento;</li><li>Auxiliar na resolução de problemas financeiros e contratuais entre as partes envolvidas.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Soft Skillz AM:</strong><ul><li><strong>Comunicação eficaz</strong>: Saber se comunicar de forma clara com os clientes e equipes internas, explicando soluções e atualizações de maneira simples;</li><li><strong>Empatia</strong>: Entender as necessidades e preocupações dos clientes para criar relacionamentos de confiança;</li><li><strong>Resolução de problemas</strong>: Agir rapidamente para resolver problemas técnicos ou operacionais que afetam a experiência do cliente;</li><li><strong>Gestão de tempo e priorização</strong>: Organizar e priorizar tarefas para atender múltiplos clientes e demandas de forma eficiente.</li><li><strong>Negociação</strong>: Ajustar condições e termos de parceria para atender tanto às necessidades dos clientes quanto aos objetivos da empresa.</li><li><strong>Inteligência emocional</strong>: Manter a calma em situações de pressão e lidar bem com as emoções, tanto próprias quanto dos clientes.</li><li><strong>Adaptabilidade</strong>: Ajustar-se rapidamente às mudanças tecnológicas, regulatórias ou de mercado no setor de iGaming.</li><li><strong>Trabalho em equipe</strong>: Colaborar com outras equipes internas (como suporte ou marketing) para atender às necessidades dos clientes.</li><li><strong>Escuta ativa</strong>: Ouvir atentamente os clientes para compreender suas necessidades e oferecer soluções eficazes.</li><li><strong>Organização e atenção aos detalhes</strong>: Manter registros organizados e prestar atenção aos detalhes para garantir um atendimento eficiente e personalizado.</li><li><strong>Proatividade</strong>: Antecipar necessidades e agir antes que se tornem problemas, sempre buscando melhorar a experiência do cliente.</li><li><strong>Busca por melhoria contínua</strong>: Estar sempre buscando maneiras de otimizar processos e melhorar a qualidade do atendimento.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/salsatechnology/2/account-manager]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />DESENVOLVEDOR FULL STACK<br />Venha fazer parte do nosso time Vaga: Remota<br />Contratação: PJ<br />Salsa Technology<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Requisitos e qualificações - </b><b>Backend</b><br /><ul><li>Java 8 ou superior</li><li>Spring (Security, MVC, Boot)</li><li>Web Services (REST/SOAP)</li><li>Hibernate</li><li>Bancos de dados SQL Server e/ou MySQL</li><li>Maven</li><li>Git</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Requisitos e qualificações - </b><b>Frontend</b><br /><ul><li>Angular 2+ (componentes, diretivas, roteamento, injeção de dependência)</li><li>TypeScript (tipagem estática, classes, interfaces e módulos)</li><li>HTML5 (semântica e boas práticas)</li><li>CSS3 e SASS</li><li>RxJS</li><li>Git
+
+</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/salsatechnology/3/desenvolvedor-full-stack]]></applyUrl>
     <companyId><![CDATA[64517557]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -79015,14 +78813,12 @@ e seguro aos residentes e familiares<br /><br /><b>Requisitos e qualificações<
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[ad43d53f-ebfa-4ca0-b38d-d75aacaeddc5]]></partnerJobId>
+    <partnerJobId><![CDATA[9e3d26ea-8ea6-4de5-a1c6-ead6b5d4328d]]></partnerJobId>
     <company><![CDATA[Salsa Technology]]></company>
-    <title><![CDATA[Desenvolvedor Full Stack]]></title>
+    <title><![CDATA[Account Manager]]></title>
     <posterEmail><![CDATA[marcia.nunes@salsatechnology.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />DESENVOLVEDOR FULL STACK<br />Venha fazer parte do nosso time Vaga: Remota<br />Contratação: PJ<br />Salsa Technology<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Requisitos e qualificações - </b><b>Backend</b><br /><ul><li>Java 8 ou superior</li><li>Spring (Security, MVC, Boot)</li><li>Web Services (REST/SOAP)</li><li>Hibernate</li><li>Bancos de dados SQL Server e/ou MySQL</li><li>Maven</li><li>Git</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Requisitos e qualificações - </b><b>Frontend</b><br /><ul><li>Angular 2+ (componentes, diretivas, roteamento, injeção de dependência)</li><li>TypeScript (tipagem estática, classes, interfaces e módulos)</li><li>HTML5 (semântica e boas práticas)</li><li>CSS3 e SASS</li><li>RxJS</li><li>Git
-
-</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/salsatechnology/3/desenvolvedor-full-stack]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />ACCOUNT MANAGER: - IGAMING<br />Venha fazer parte do nosso time. <br />Vaga: Remota<br />Contratação PJ <br />Salsa Technology<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar as contas sob sua responsabilidade;</li><li>Gerenciar os clientes pré pagos com apoio do time de Acquisition;</li><li>Montar o perfil de cada cliente para ofertar atendimento personalizado;</li><li>Realizar reuniões mensais com cada cliente para alinhamento e brainstorming, com o intuito de estar sempre ciente do cenário atual do cliente e suas estratégias para apoio direto no aumento da receita do operador;</li><li>Identificar oportunidades de crescimento de uma maneira geral, junto ao cliente, aos provedores, promoções, etc;</li><li>Trabalhar com os clientes para definir planos de longo prazo e metas de negócios, alinhando as soluções da empresa com os objetivos estratégicos dos clientes;</li><li>Apoio na negociação de acordos e contratos;</li><li>Consultar diariamente os relatórios Netincome dos operadores de sua responsabilidade para monitoramento da performance, para estar ciente dos números, negativos e atividades do operador;</li><li>Informar aos operadores sobre negativos expressivos, e solicitar análise do time de suporte se necessário;</li><li>Trabalhar e coordenar junto a outras equipes internas (marketing, operações, conteúdo, etc.) para garantir a entrega eficiente de soluções personalizadas, campanhas e produtos adaptados às necessidades dos clientes;</li><li>Oferecer semanalmente mais conteúdo aos operadores, mediante seu mercado e estratégia para garantirmos o máximo de conteúdo possível com cada operador;</li><li>Garantir que todas as ativações entregues sejam disponibilizadas na plataforma dos operadores, ou seja, consultar regularmente a plataforma do operador, para ter ciência do que estar live e trabalhar com eles a adição de todo o conteúdo disponível;</li><li>Garantir que todas as atividades sejam realizadas em conformidade com as regulamentações e requisitos de licenciamento específicos do iGaming, incluindo práticas de jogo responsável;</li><li>Manter-se atualizado sobre as tendências da indústria, atividades dos concorrentes e novos produtos ou serviços de iGaming para fornecer insights valiosos aos clientes e ajudá-los a manter-se competitivos.</li><li>Fazer a gestão de conta para com os provedores;</li><li>Realizar reuniões periódicas com os provedores para criação e fortalecimento das relações;</li><li>Mapear junto aos provedores estratégias, promoções e ações de marketing para aumento de receita;</li><li>Apoio na resolução de problemas técnicos/financeiros/marketing/operacional junto aos provedores;</li><li>Atuar como ponte entre provedores e o setor financeiro para viabilizar planos de pagamento;</li><li>Auxiliar na resolução de problemas financeiros e contratuais entre as partes envolvidas.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Soft Skillz AM:</strong><ul><li><strong>Comunicação eficaz</strong>: Saber se comunicar de forma clara com os clientes e equipes internas, explicando soluções e atualizações de maneira simples;</li><li><strong>Empatia</strong>: Entender as necessidades e preocupações dos clientes para criar relacionamentos de confiança;</li><li><strong>Resolução de problemas</strong>: Agir rapidamente para resolver problemas técnicos ou operacionais que afetam a experiência do cliente;</li><li><strong>Gestão de tempo e priorização</strong>: Organizar e priorizar tarefas para atender múltiplos clientes e demandas de forma eficiente.</li><li><strong>Negociação</strong>: Ajustar condições e termos de parceria para atender tanto às necessidades dos clientes quanto aos objetivos da empresa.</li><li><strong>Inteligência emocional</strong>: Manter a calma em situações de pressão e lidar bem com as emoções, tanto próprias quanto dos clientes.</li><li><strong>Adaptabilidade</strong>: Ajustar-se rapidamente às mudanças tecnológicas, regulatórias ou de mercado no setor de iGaming.</li><li><strong>Trabalho em equipe</strong>: Colaborar com outras equipes internas (como suporte ou marketing) para atender às necessidades dos clientes.</li><li><strong>Escuta ativa</strong>: Ouvir atentamente os clientes para compreender suas necessidades e oferecer soluções eficazes.</li><li><strong>Organização e atenção aos detalhes</strong>: Manter registros organizados e prestar atenção aos detalhes para garantir um atendimento eficiente e personalizado.</li><li><strong>Proatividade</strong>: Antecipar necessidades e agir antes que se tornem problemas, sempre buscando melhorar a experiência do cliente.</li><li><strong>Busca por melhoria contínua</strong>: Estar sempre buscando maneiras de otimizar processos e melhorar a qualidade do atendimento.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/salsatechnology/2/account-manager]]></applyUrl>
     <companyId><![CDATA[64517557]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -79053,137 +78849,6 @@ e seguro aos residentes e familiares<br /><br /><b>Requisitos e qualificações<
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[9cf028dd-960f-411d-9a5f-2781ec191b85]]></partnerJobId>
-    <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Técnico de Instalação e Manutenção I]]></title>
-    <posterEmail><![CDATA[helen.santos@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por realizar manutenção preventiva e corretiva em equipamentos de Raio-X, prestar suporte técnico e treinamentos, elaborar relatórios, realizar inspeções, apoiar a liderança, cumprir normas de qualidade e segurança e colaborar com a engenharia em melhorias e projetos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Manutenção, instalação e desinstalação de equipamentos de pequeno porte;
-</li><li>
-Suporte técnico presencial e remoto, com atendimento de sobreaviso;
-</li><li>
-Treinamentos operacionais para clientes e equipe técnica;
-</li><li>
-Elaboração e registro de relatórios técnicos e administrativos;
-</li><li>
-Vistorias técnicas e inspeções em clientes;
-</li><li>
-Gestão de viagens, despesas, peças e contratos;
-</li><li>
-Apoio à liderança e à engenharia em melhorias e projetos;
-</li><li>
-Cumprimento de normas técnicas, qualidade, segurança, compliance e meio ambiente.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação técnica em Eletrônica ou áreas afins (superior em Eng. Elétrica/Eletrônica como diferencial);</li><li>
-Conhecimentos em NR10, NR35, informática avançada, sistemas operacionais e Linux;
-</li><li>
-Noções de hardware, drivers, BIOS e processos técnicos;
-</li><li>
-Boa comunicação, agilidade, flexibilidade e capacidade de negociação;
-</li><li>
-Facilidade para trabalhar com prazos e foco em redução de custos;
-</li><li>
-CNH categoria B.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/6/tecnico-de-instalacao-e-manutencao-i]]></applyUrl>
-    <companyId><![CDATA[2693346]]></companyId>
-    <city><![CDATA[Lagoa Santa]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[66ed7c56-d3ce-4a52-a385-52fb6bcf5957]]></partnerJobId>
-    <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Comprador Sênior - Bilíngue]]></title>
-    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por liderar tecnicamente os processos de compras de matéria-prima, equipamentos, peças e serviços diretamente relacionados ao processo produtivo, atuando como referência técnica e liderança da equipe.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Desenvolver e implementar estratégias de compras eficazes, garantindo a melhor relação custo-benefício.<br /> - Analisar e selecionar fornecedores, estabelecendo parcerias sólidas e duradouras.<br /> - Negociar contratos e condições de pagamento com fornecedores, visando o cumprimento dos interesses da empresa.<br /> - Realizar análises de mercado para identificar tendências e oportunidades de melhoria nos processos de compra.<br /> - Monitorar e controlar o desempenho dos fornecedores, garantindo que os padrões de qualidade e prazos sejam atendidos.<br /> - Preparar e apresentar relatórios sobre atividades de compras e indicadores de desempenho para a alta gestão.<br /> - Colaborar com demais áreas da empresa, como logística e produção, para garantir a integração e eficiência do processo de suprimentos.<br /> - Participar de reuniões e eventos do setor para ampliar a rede de contatos e ficar atualizado sobre inovações e melhores práticas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior em Administração, Economia, contábeis ou áreas correlatas e  pós- graduação e, gestão estratégica de compras ou suppy chain.<br /> - Experiência em compras e negociações, preferencialmente em empresas de grande porte.<br /> - Fluência em inglês, tanto escrita quanto falada.<br /> - Habilidade em análise de mercado e desenvolvimento de fornecedores.<br /> - Conhecimento em ferramentas de gestão de compras e ERP.<br /> - Excel avançado e domínio em análise de dados.<br /> - Capacidade de negociação e bom relacionamento interpessoal.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/7/comprador-senior-bilingue]]></applyUrl>
-    <companyId><![CDATA[2693346]]></companyId>
-    <city><![CDATA[Lagoa Santa]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[636b6ab3-5044-4b0d-a47e-a44436359686]]></partnerJobId>
-    <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Analista Desenvolvedor de Sistemas IA - PL]]></title>
-    <posterEmail><![CDATA[helen.santos@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) profissional para atuar no desenvolvimento, treinamento e implantação de modelos de Inteligência Artificial, com foco em processamento de grandes volumes de dados e aplicação de técnicas avançadas de Visão Computacional e Processamento de Linguagem Natural. O(a) profissional será responsável por projetar pipelines de inferência, manter APIs em produção e colaborar com equipes multidisciplinares para garantir a integração eficiente das soluções de IA.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li></li><li>Python e modelos de ML/DL;
-</li>
-<li>
-Visão Computacional e NLP/LLMs;
-</li>
-<li>
-APIs, pipelines de inferência e deploy com Docker;
-</li>
-<li>
-Versionamento com Git e boas práticas de desenvolvimento;
-</li>
-<li>
-Trabalho colaborativo com times técnicos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em ciência da computação, Engenharia ou áreas correlatas;</li><li>Pós graduação completa em inteligência artificial, ciência de dados ou áreas afins;</li><li>Experiência minima de 3 anos na área.<br /></li></ul><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/4/analista-desenvolvedor-de-sistemas-ia-pl]]></applyUrl>
-    <companyId><![CDATA[2693346]]></companyId>
-    <city><![CDATA[Lagoa Santa]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[bfe067c8-70f2-4d7c-8092-6258a38d4dee]]></partnerJobId>
-    <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Coordenador de Desenvolvimento de Produtos]]></title>
-    <posterEmail><![CDATA[helen.santos@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por apoiar o desenvolvimento de produtos e soluções de inspeção por imagem de raio-x, acompanhando indicadores de desempenho, prazos, custos e garantindo os padrões de qualidade da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar a estratégia, roadmap, precificação e crescimento do portfólio de produtos de raio-x;</li><li>
-Liderar, desenvolver e capacitar a equipe, garantindo alinhamento de papéis e responsabilidades;
-</li><li>
-Acompanhar indicadores de desempenho, prazos e resultados, definindo planos de melhoria;
-</li><li>
-Garantir infraestrutura, ferramentas e condições adequadas para execução das atividades;
-</li><li>
-Interagir com clientes, distribuidores e mercado para identificar necessidades e oportunidades;
-</li><li>
-Traduzir demandas do mercado em requisitos de produtos e soluções inovadoras;
-</li><li>
-Atuar em conjunto com P&amp;D, áreas comerciais e técnicas, promovendo inovação e excelência.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Engenharia e Pós-graduação/MBA em Gestão, Inovação ou Negócios;
-</li><li>
-Experiência em liderança de engenharia, gestão de projetos complexos e inovação;
-</li><li>
-Conhecimentos em gestão e design de produtos, Agile, UX/UI e portfólio;
-</li><li>
-Familiaridade com tecnologias de Raio-X;
-</li><li>
-Forte comunicação, liderança e capacidade de influenciar stakeholders;
-</li><li>Perfil empreendedor, orientado ao cliente e a resultados.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/5/coordenador-de-desenvolvimento-de-produtos]]></applyUrl>
-    <companyId><![CDATA[2693346]]></companyId>
-    <city><![CDATA[Lagoa Santa]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[dd48c2b0-b79b-4f0e-a207-236521ea49f3]]></partnerJobId>
@@ -79217,87 +78882,24 @@ Colaborar com times técnicos e documentar soluções.</li></ul><br /><br /><b>R
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[c5451ce7-3179-4e3b-bddd-75165e1ed0fa]]></partnerJobId>
+    <partnerJobId><![CDATA[636b6ab3-5044-4b0d-a47e-a44436359686]]></partnerJobId>
     <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Analista de Inteligência de Mercado II (Bilíngue)]]></title>
-    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por liderar análises estratégicas e projetos de inteligência competitiva, fornecendo insights para decisões corporativas de alto impacto. Atua na definição de metodologias, desenvolvimento de estudos avançados e integração de dados entre áreas, garantindo informações precisas e estratégicas para suportar planejamento e crescimento da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir análises complexas de mercado, tendências e comportamento da concorrência, antecipando riscos e oportunidades;</li><li>Desenvolver estudos avançados de segmentação, precificação e projeções de demanda;</li><li>Estruturar e implementar metodologias de inteligência competitiva e análise preditiva;</li><li>Elaborar relatórios executivos e dashboards estratégicos para diretoria e alta gestão;</li><li>Liderar projetos de integração de dados e automação de processos de inteligência;</li><li>Atuar como consultor interno para áreas comerciais, marketing e planejamento estratégico;</li><li>Coordenar iniciativas de melhoria contínua e inovação nos processos de inteligência;</li><li>Orientar e capacitar analistas de níveis hierárquicos inferiores, garantindo padronização e excelência;</li><li>Participar de reuniões estratégicas, apresentando insights e recomendações para decisões críticas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Administração, Marketing ou similares e Pós-Graduação em Inteligência de Mercado e Competitiva, BI e Analytics ou afins.</li><li>Pacote Office;</li><li>Domínio de análise de dados e indicadores de mercado;</li><li>Familiaridade com metodologias de inteligência competitiva, modelagem preditiva e análise de cenários;</li><li>Domínio de ferramentas de BI (Power BI, Tableau);</li><li>Familiaridade com CRM e sistemas de gestão comercial.</li><li>Inglês Avançado ( conversação e escrita)</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/9/analista-de-inteligencia-de-mercado-ii-bilingue]]></applyUrl>
-    <companyId><![CDATA[2693346]]></companyId>
-    <city><![CDATA[Lagoa Santa]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3a2583f8-bfcb-4cc6-bd8e-59628ca30949]]></partnerJobId>
-    <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Serviços Gerais PCD]]></title>
-    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável pela execução das atividades de limpeza, conservação e organização dos ambientes corporativos, garantindo condições adequadas de higiene, segurança e bem-estar para colaboradores e visitantes. Atua diretamente na manutenção da estrutura física da empresa, zelando pelos espaços internos e externos conforme os padrões estabelecidos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar limpeza diária de  áreas comuns, banheiros, refeitórios e demais ambientes da empresa.</li><li>Efetuar a reposição de materiais de higiene e limpeza nos locais apropriados.</li><li>Zelar pela conservação dos móveis, equipamentos e estrutura física da empresa.</li><li>Realizar coleta seletiva e descarte adequado de resíduos, conforme normas ambientais.</li><li>Apoiar na organização de ambientes para eventos internos e reuniões.</li><li>Identificar necessidades de manutenção predial e comunicar à equipe responsável.</li><li>Manter o ambiente de trabalho limpo, organizado e funcional.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Desejável experiência anterior em limpeza corporativa ou conservação predial]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/10/servicos-gerais-pcd]]></applyUrl>
-    <companyId><![CDATA[2693346]]></companyId>
-    <city><![CDATA[Lagoa Santa]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[7abb1464-eceb-42b2-8189-ff9d35a35792]]></partnerJobId>
-    <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Analista de Custos e Remuneração]]></title>
-    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar de forma estratégica na gestão e governança da Política de Cargos, Salários e Remuneração, garantindo equidade interna, competitividade de mercado e sustentabilidade de custos, por meio de análises técnicas, controle de custos e alinhamento às diretrizes do negócio.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Estruturar, revisar e manter a Política de Cargos e Salários, assegurando critérios claros, justos e aderentes à estratégia organizacional.</li><li>Elaborar e atualizar descrições de cargos, garantindo alinhamento entre responsabilidades, requisitos e níveis de complexidade.</li><li>Conduzir avaliação, classificação e hierarquização de cargos utilizando metodologias reconhecidas de mercado.</li><li>Desenvolver e analisar tabelas salariais, faixas e níveis, avaliando impactos financeiros, orçamentários e de longo prazo.</li><li>Realizar análises de pesquisas salariais, avaliando posicionamento de mercado, competitividade e tendências de remuneração.</li><li>Analisar movimentações salariais (promoções, méritos, enquadramentos e ajustes), assegurando equidade interna e aderência à política.</li><li>Apoiar a gestão da remuneração fixa e variável (incentivos e PLR), com foco em governança e controle de custos.</li><li>Monitorar indicadores e impactos financeiros relacionados à estrutura de cargos, folha de pagamento e custos de pessoal.</li><li>Elaborar relatórios gerenciais e análises para suporte à tomada de decisão de RH, Finanças e lideranças.</li><li>Atuar como parceiro técnico dos RHBPs e áreas financeiras, garantindo conformidade legal, aderência a acordos coletivos e suporte a auditorias.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Administração, Recursos Humanos, Economia, Contabilidade ou áreas correlatas.</li><li>Experiência sólida em Cargos e Salários / Remuneração, com atuação estratégica.</li><li>Conhecimento em metodologias de avaliação de cargos.</li><li>Domínio de Excel em nível intermediário a avançado.</li><li>Experiência com pesquisas salariais, estruturas de cargos e análises de impacto financeiro.</li><li>Capacidade analítica, visão sistêmica, organização e comunicação clara com diferentes níveis da organização.</li><li>Experiência com custos e indicadores.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/13/analista-de-custos-e-remuneracao]]></applyUrl>
-    <companyId><![CDATA[2693346]]></companyId>
-    <city><![CDATA[Lagoa Santa]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[f8edf286-9606-4755-bd7e-a27624b5b844]]></partnerJobId>
-    <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Analista de sistemas RP]]></title>
+    <title><![CDATA[Analista Desenvolvedor de Sistemas IA - PL]]></title>
     <posterEmail><![CDATA[helen.santos@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Executar
-  atividades de instalação, implementação, desenvolvimento e  manutenção de sistemas, analise de banco de
-  dados, dentre outros serviços de suporte técnico solicitados pelos usuários,
-  garantindo a disponibilidade destes recursos em condições adequadas de
-  utilização.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prestar suporte aos usuários do sistema, realizando atendimentos, orientações e resolução de incidentes (inclusive via acesso remoto);
-</li><li>
-Desenvolver relatórios e rotinas no ERP Protheus;
-</li><li>
-Gerenciar projetos e demandas de melhorias no sistema, incluindo documentação e acompanhamento junto à consultoria;
-</li><li>
-Implantar novas funcionalidades e propor otimizações nos processos produtivos, administrativos, financeiros e gerenciais;
-</li><li>
-Realizar atualizações do sistema e aplicar patches de correção;
-</li><li>
-Manter documentação, registros e controles da área atualizados;
-</li><li>
-Assegurar qualidade, confidencialidade das informações e conformidade com normas internas, compliance e segurança do trabalho;
-</li><li>Apoiar a liderança em melhorias de processos e executar atividades correlatas à função.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo na área de TI e áreas afins.</li><li>Pacote
-  Office nível intermediário;</li><li>Áreas de negócio;<br /></li><li>ERP Protheus;<br /></li><li>Noções de programação ADVPL.<br /></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/14/analista-de-sistemas-rp]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) profissional para atuar no desenvolvimento, treinamento e implantação de modelos de Inteligência Artificial, com foco em processamento de grandes volumes de dados e aplicação de técnicas avançadas de Visão Computacional e Processamento de Linguagem Natural. O(a) profissional será responsável por projetar pipelines de inferência, manter APIs em produção e colaborar com equipes multidisciplinares para garantir a integração eficiente das soluções de IA.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li></li><li>Python e modelos de ML/DL;
+</li>
+<li>
+Visão Computacional e NLP/LLMs;
+</li>
+<li>
+APIs, pipelines de inferência e deploy com Docker;
+</li>
+<li>
+Versionamento com Git e boas práticas de desenvolvimento;
+</li>
+<li>
+Trabalho colaborativo com times técnicos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em ciência da computação, Engenharia ou áreas correlatas;</li><li>Pós graduação completa em inteligência artificial, ciência de dados ou áreas afins;</li><li>Experiência minima de 3 anos na área.<br /></li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/4/analista-desenvolvedor-de-sistemas-ia-pl]]></applyUrl>
     <companyId><![CDATA[2693346]]></companyId>
     <city><![CDATA[Lagoa Santa]]></city>
     <state><![CDATA[MG]]></state>
@@ -79308,38 +78910,37 @@ Assegurar qualidade, confidencialidade das informações e conformidade com norm
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
     </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[c4f96ed9-eac4-4ee9-9c04-8792dee46232]]></partnerJobId>
+    <partnerJobId><![CDATA[99ac2a74-9474-47bd-a1e7-61a526c3db1e]]></partnerJobId>
     <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Técnico de Segurança do Trabalho I - NOTURNO]]></title>
+    <title><![CDATA[Coordenador de Projetos]]></title>
     <posterEmail><![CDATA[helen.santos@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por apoiar as rotinas de Segurança do Trabalho e Meio Ambiente, atuando sob supervisão técnica. Realiza inspeções básicas nas áreas, auxilia na distribuição e controle de EPIs, apoia na organização de treinamentos e integrações, além de prestar suporte na coleta, registro e organização de dados e documentos da área.
-Contribui para a prevenção de acidentes, promoção da saúde ocupacional, cumprimento das normas legais e fortalecimento da cultura de segurança e preservação ambiental na empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Fiscalizar e orientar o uso de EPIs e EPCs, controlando estoque e certificados (CA);
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por coordenar projetos de instalação e manutenção de equipamentos para cargas e veículos, garantindo cumprimento de prazos, escopo e requisitos técnicos. Atuará na interface com áreas internas, clientes e fornecedores, realizando planejamento, acompanhamento das atividades e reporte de indicadores, com foco em gestão de projetos e excelência operacional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar e coordenar projetos estruturantes e de instalação/manutenção de equipamentos de inspeção (linha Cargo), definindo escopo, cronograma, recursos e marcos.
 </li><li>
-Apoiar a gestão de exames ocupacionais (admissional, periódico, retorno, mudança de função e demissional) conforme PCMSO;
+Acompanhar execução, prazos, custos e qualidade, aplicando metodologias de gestão de projetos.
 </li><li>
-Elaborar PPP e manter documentação legal atualizada;
+Gerenciar riscos e implementar planos de contingência para mitigar impactos.
 </li><li>
-Realizar inspeções de segurança, identificar riscos e acompanhar ações corretivas;
+Atuar como ponto focal entre áreas internas, clientes e fornecedores, garantindo alinhamento e comunicação eficaz.
 </li><li>
-Controlar validade e manutenção de equipamentos de combate a incêndio;
+Controlar documentação técnica e relatórios de progresso do projeto.
 </li><li>
-Acompanhar auditorias e vistorias (Bombeiros e órgãos fiscalizadores);
+Monitorar indicadores-chave (instalação, FTT, custos), analisando desvios e propondo ações corretivas.
 </li><li>
-Apoiar e atuar em treinamentos, DDS, CIPA, brigada de emergência e simulados;
+Assegurar infraestrutura, materiais e recursos necessários conforme cronograma.
 </li><li>
-Desenvolver e implementar sinalizações de segurança;
+Participar de reuniões de status e apoiar auditorias, garantindo conformidade e melhoria contínua dos processos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><br /><br /><ul><li>Ensino superior em Engenharia Elétrica, Eletrônica, Automação e Controle ou áreas correlatas</li><li>
+Experiência com ferramentas de planejamento (MS Project, Primavera ou similares).
 </li><li>
-Registrar e analisar incidentes, propondo medidas preventivas e corretivas;
+Noções de obra civil e infraestrutura para instalação de equipamentos.
 </li><li>
-Apoiar ações de meio ambiente e ergonomia;
+Inglês intermediário.</li><li>
+Familiaridade com normas de segurança (NR10, NR35).
 </li><li>
-Atender colaboradores em demandas de Segurança do Trabalho;
-</li><li>
-Garantir cumprimento das normas legais, compliance e procedimentos internos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação técnica em Segurança do Trabalho concluída.<br /> - Familiaridade com normas regulamentadoras (NRs).<br /> <br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/15/tecnico-de-seguranca-do-trabalho-i-noturno]]></applyUrl>
+Conhecimento em metodologias de gestão de projetos (PMBOK, Agile).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/19/coordenador-de-projetos]]></applyUrl>
     <companyId><![CDATA[2693346]]></companyId>
     <city><![CDATA[Lagoa Santa]]></city>
     <state><![CDATA[MG]]></state>
@@ -79353,42 +78954,33 @@ Garantir cumprimento das normas legais, compliance e procedimentos internos.</li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[1b851ae0-2394-4381-b537-51fb47611cac]]></partnerJobId>
+    <partnerJobId><![CDATA[9516dd6e-0de0-4964-b4cd-079661b768bd]]></partnerJobId>
     <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Líder de Almoxarifado Noturno]]></title>
+    <title><![CDATA[Operador de linha de montagem Mecânica]]></title>
     <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) profissional para liderar as operações de almoxarifado e logística no turno noturno, garantindo o abastecimento contínuo da produção, a organização dos estoques e o cumprimento dos processos internos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Liderar e orientar a equipe de almoxarifado e logística no turno.
+    <description><![CDATA[<b>Descrição</b><br /><br />Realizar montagem de estruturas, máquinas e equipamentos garantindo a qualidade e a confiabilidade dos produtos e serviços de montagem mecânica de equipamentos rotativos e estáticos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar montagem de estruturas, máquinas e equipamentos, garantindo qualidade e confiabilidade;
 </li>
 <li>
-Garantir o abastecimento das linhas produtivas, evitando paradas por falta de material.
+Executar montagem, desmontagem, cortes, furações, fixações, ajustes e regulagens;
 </li>
 <li>
-Supervisionar recebimento, armazenamento, separação e movimentação de materiais.
+Conferir materiais e preencher check-lists de produção;
 </li>
 <li>
-Monitorar a acuracidade de estoque e apoiar inventários.
+Identificar e segregar produtos não conformes;
 </li>
 <li>
-Assegurar o uso correto do sistema ERP (Protheus).
+Manusear instrumentos de medição (paquímetro, micrômetro, trena);
 </li>
 <li>
-Garantir o cumprimento das normas de segurança e organização (5S).
+Operar ferramentas e equipamentos como furadeira, esmerilhadeira, lixadeira, guilhotina e parafusadeira;
 </li>
 <li>
-Atuar de forma integrada com Produção, PCP, Qualidade e Segurança do Trabalho.
+Preparar equipamentos para expedição e embalagem;
 </li>
 <li>
-Registrar e reportar ocorrências e propor melhorias nos processos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência prévia em almoxarifado/logística industrial.
-</li>
-<li>
-Experiência com liderança de equipe.
-</li>
-<li>
-Conhecimento em controle de estoque e sistemas ERP.
-</li>
-<li>
-Disponibilidade para atuar no turno noturno de 17:00 ás 2:48</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/16/lider-de-almoxarifado-noturno]]></applyUrl>
+Cumprir normas de qualidade, segurança, meio ambiente e organização do ambiente de trabalho.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/18/operador-de-linha-de-montagem-mecanica]]></applyUrl>
     <companyId><![CDATA[2693346]]></companyId>
     <city><![CDATA[Lagoa Santa]]></city>
     <state><![CDATA[MG]]></state>
@@ -79460,33 +79052,42 @@ Disponibilidade para trabalho em ambiente industrial de 17:00 ás 2:48.</li>]]><
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[9516dd6e-0de0-4964-b4cd-079661b768bd]]></partnerJobId>
+    <partnerJobId><![CDATA[1b851ae0-2394-4381-b537-51fb47611cac]]></partnerJobId>
     <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Operador de linha de montagem Mecânica]]></title>
+    <title><![CDATA[Líder de Almoxarifado Noturno]]></title>
     <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Realizar montagem de estruturas, máquinas e equipamentos garantindo a qualidade e a confiabilidade dos produtos e serviços de montagem mecânica de equipamentos rotativos e estáticos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar montagem de estruturas, máquinas e equipamentos, garantindo qualidade e confiabilidade;
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) profissional para liderar as operações de almoxarifado e logística no turno noturno, garantindo o abastecimento contínuo da produção, a organização dos estoques e o cumprimento dos processos internos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Liderar e orientar a equipe de almoxarifado e logística no turno.
 </li>
 <li>
-Executar montagem, desmontagem, cortes, furações, fixações, ajustes e regulagens;
+Garantir o abastecimento das linhas produtivas, evitando paradas por falta de material.
 </li>
 <li>
-Conferir materiais e preencher check-lists de produção;
+Supervisionar recebimento, armazenamento, separação e movimentação de materiais.
 </li>
 <li>
-Identificar e segregar produtos não conformes;
+Monitorar a acuracidade de estoque e apoiar inventários.
 </li>
 <li>
-Manusear instrumentos de medição (paquímetro, micrômetro, trena);
+Assegurar o uso correto do sistema ERP (Protheus).
 </li>
 <li>
-Operar ferramentas e equipamentos como furadeira, esmerilhadeira, lixadeira, guilhotina e parafusadeira;
+Garantir o cumprimento das normas de segurança e organização (5S).
 </li>
 <li>
-Preparar equipamentos para expedição e embalagem;
+Atuar de forma integrada com Produção, PCP, Qualidade e Segurança do Trabalho.
 </li>
 <li>
-Cumprir normas de qualidade, segurança, meio ambiente e organização do ambiente de trabalho.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/18/operador-de-linha-de-montagem-mecanica]]></applyUrl>
+Registrar e reportar ocorrências e propor melhorias nos processos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência prévia em almoxarifado/logística industrial.
+</li>
+<li>
+Experiência com liderança de equipe.
+</li>
+<li>
+Conhecimento em controle de estoque e sistemas ERP.
+</li>
+<li>
+Disponibilidade para atuar no turno noturno de 17:00 ás 2:48</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/16/lider-de-almoxarifado-noturno]]></applyUrl>
     <companyId><![CDATA[2693346]]></companyId>
     <city><![CDATA[Lagoa Santa]]></city>
     <state><![CDATA[MG]]></state>
@@ -79500,34 +79101,229 @@ Cumprir normas de qualidade, segurança, meio ambiente e organização do ambien
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[99ac2a74-9474-47bd-a1e7-61a526c3db1e]]></partnerJobId>
+    <partnerJobId><![CDATA[c4f96ed9-eac4-4ee9-9c04-8792dee46232]]></partnerJobId>
     <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Coordenador de Projetos]]></title>
+    <title><![CDATA[Técnico de Segurança do Trabalho I - NOTURNO]]></title>
     <posterEmail><![CDATA[helen.santos@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por coordenar projetos de instalação e manutenção de equipamentos para cargas e veículos, garantindo cumprimento de prazos, escopo e requisitos técnicos. Atuará na interface com áreas internas, clientes e fornecedores, realizando planejamento, acompanhamento das atividades e reporte de indicadores, com foco em gestão de projetos e excelência operacional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar e coordenar projetos estruturantes e de instalação/manutenção de equipamentos de inspeção (linha Cargo), definindo escopo, cronograma, recursos e marcos.
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por apoiar as rotinas de Segurança do Trabalho e Meio Ambiente, atuando sob supervisão técnica. Realiza inspeções básicas nas áreas, auxilia na distribuição e controle de EPIs, apoia na organização de treinamentos e integrações, além de prestar suporte na coleta, registro e organização de dados e documentos da área.
+Contribui para a prevenção de acidentes, promoção da saúde ocupacional, cumprimento das normas legais e fortalecimento da cultura de segurança e preservação ambiental na empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Fiscalizar e orientar o uso de EPIs e EPCs, controlando estoque e certificados (CA);
 </li><li>
-Acompanhar execução, prazos, custos e qualidade, aplicando metodologias de gestão de projetos.
+Apoiar a gestão de exames ocupacionais (admissional, periódico, retorno, mudança de função e demissional) conforme PCMSO;
 </li><li>
-Gerenciar riscos e implementar planos de contingência para mitigar impactos.
+Elaborar PPP e manter documentação legal atualizada;
 </li><li>
-Atuar como ponto focal entre áreas internas, clientes e fornecedores, garantindo alinhamento e comunicação eficaz.
+Realizar inspeções de segurança, identificar riscos e acompanhar ações corretivas;
 </li><li>
-Controlar documentação técnica e relatórios de progresso do projeto.
+Controlar validade e manutenção de equipamentos de combate a incêndio;
 </li><li>
-Monitorar indicadores-chave (instalação, FTT, custos), analisando desvios e propondo ações corretivas.
+Acompanhar auditorias e vistorias (Bombeiros e órgãos fiscalizadores);
 </li><li>
-Assegurar infraestrutura, materiais e recursos necessários conforme cronograma.
+Apoiar e atuar em treinamentos, DDS, CIPA, brigada de emergência e simulados;
 </li><li>
-Participar de reuniões de status e apoiar auditorias, garantindo conformidade e melhoria contínua dos processos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><br /><br /><ul><li>Ensino superior em Engenharia Elétrica, Eletrônica, Automação e Controle ou áreas correlatas</li><li>
-Experiência com ferramentas de planejamento (MS Project, Primavera ou similares).
+Desenvolver e implementar sinalizações de segurança;
 </li><li>
-Noções de obra civil e infraestrutura para instalação de equipamentos.
+Registrar e analisar incidentes, propondo medidas preventivas e corretivas;
 </li><li>
-Inglês intermediário.</li><li>
-Familiaridade com normas de segurança (NR10, NR35).
+Apoiar ações de meio ambiente e ergonomia;
 </li><li>
-Conhecimento em metodologias de gestão de projetos (PMBOK, Agile).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/19/coordenador-de-projetos]]></applyUrl>
+Atender colaboradores em demandas de Segurança do Trabalho;
+</li><li>
+Garantir cumprimento das normas legais, compliance e procedimentos internos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação técnica em Segurança do Trabalho concluída.<br /> - Familiaridade com normas regulamentadoras (NRs).<br /> <br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/15/tecnico-de-seguranca-do-trabalho-i-noturno]]></applyUrl>
+    <companyId><![CDATA[2693346]]></companyId>
+    <city><![CDATA[Lagoa Santa]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f8edf286-9606-4755-bd7e-a27624b5b844]]></partnerJobId>
+    <company><![CDATA[VMI Security]]></company>
+    <title><![CDATA[Analista de sistemas RP]]></title>
+    <posterEmail><![CDATA[helen.santos@vmis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Executar
+  atividades de instalação, implementação, desenvolvimento e  manutenção de sistemas, analise de banco de
+  dados, dentre outros serviços de suporte técnico solicitados pelos usuários,
+  garantindo a disponibilidade destes recursos em condições adequadas de
+  utilização.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prestar suporte aos usuários do sistema, realizando atendimentos, orientações e resolução de incidentes (inclusive via acesso remoto);
+</li><li>
+Desenvolver relatórios e rotinas no ERP Protheus;
+</li><li>
+Gerenciar projetos e demandas de melhorias no sistema, incluindo documentação e acompanhamento junto à consultoria;
+</li><li>
+Implantar novas funcionalidades e propor otimizações nos processos produtivos, administrativos, financeiros e gerenciais;
+</li><li>
+Realizar atualizações do sistema e aplicar patches de correção;
+</li><li>
+Manter documentação, registros e controles da área atualizados;
+</li><li>
+Assegurar qualidade, confidencialidade das informações e conformidade com normas internas, compliance e segurança do trabalho;
+</li><li>Apoiar a liderança em melhorias de processos e executar atividades correlatas à função.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo na área de TI e áreas afins.</li><li>Pacote
+  Office nível intermediário;</li><li>Áreas de negócio;<br /></li><li>ERP Protheus;<br /></li><li>Noções de programação ADVPL.<br /></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/14/analista-de-sistemas-rp]]></applyUrl>
+    <companyId><![CDATA[2693346]]></companyId>
+    <city><![CDATA[Lagoa Santa]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[7abb1464-eceb-42b2-8189-ff9d35a35792]]></partnerJobId>
+    <company><![CDATA[VMI Security]]></company>
+    <title><![CDATA[Analista de Custos e Remuneração]]></title>
+    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar de forma estratégica na gestão e governança da Política de Cargos, Salários e Remuneração, garantindo equidade interna, competitividade de mercado e sustentabilidade de custos, por meio de análises técnicas, controle de custos e alinhamento às diretrizes do negócio.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Estruturar, revisar e manter a Política de Cargos e Salários, assegurando critérios claros, justos e aderentes à estratégia organizacional.</li><li>Elaborar e atualizar descrições de cargos, garantindo alinhamento entre responsabilidades, requisitos e níveis de complexidade.</li><li>Conduzir avaliação, classificação e hierarquização de cargos utilizando metodologias reconhecidas de mercado.</li><li>Desenvolver e analisar tabelas salariais, faixas e níveis, avaliando impactos financeiros, orçamentários e de longo prazo.</li><li>Realizar análises de pesquisas salariais, avaliando posicionamento de mercado, competitividade e tendências de remuneração.</li><li>Analisar movimentações salariais (promoções, méritos, enquadramentos e ajustes), assegurando equidade interna e aderência à política.</li><li>Apoiar a gestão da remuneração fixa e variável (incentivos e PLR), com foco em governança e controle de custos.</li><li>Monitorar indicadores e impactos financeiros relacionados à estrutura de cargos, folha de pagamento e custos de pessoal.</li><li>Elaborar relatórios gerenciais e análises para suporte à tomada de decisão de RH, Finanças e lideranças.</li><li>Atuar como parceiro técnico dos RHBPs e áreas financeiras, garantindo conformidade legal, aderência a acordos coletivos e suporte a auditorias.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Administração, Recursos Humanos, Economia, Contabilidade ou áreas correlatas.</li><li>Experiência sólida em Cargos e Salários / Remuneração, com atuação estratégica.</li><li>Conhecimento em metodologias de avaliação de cargos.</li><li>Domínio de Excel em nível intermediário a avançado.</li><li>Experiência com pesquisas salariais, estruturas de cargos e análises de impacto financeiro.</li><li>Capacidade analítica, visão sistêmica, organização e comunicação clara com diferentes níveis da organização.</li><li>Experiência com custos e indicadores.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/13/analista-de-custos-e-remuneracao]]></applyUrl>
+    <companyId><![CDATA[2693346]]></companyId>
+    <city><![CDATA[Lagoa Santa]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3a2583f8-bfcb-4cc6-bd8e-59628ca30949]]></partnerJobId>
+    <company><![CDATA[VMI Security]]></company>
+    <title><![CDATA[Serviços Gerais PCD]]></title>
+    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável pela execução das atividades de limpeza, conservação e organização dos ambientes corporativos, garantindo condições adequadas de higiene, segurança e bem-estar para colaboradores e visitantes. Atua diretamente na manutenção da estrutura física da empresa, zelando pelos espaços internos e externos conforme os padrões estabelecidos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar limpeza diária de  áreas comuns, banheiros, refeitórios e demais ambientes da empresa.</li><li>Efetuar a reposição de materiais de higiene e limpeza nos locais apropriados.</li><li>Zelar pela conservação dos móveis, equipamentos e estrutura física da empresa.</li><li>Realizar coleta seletiva e descarte adequado de resíduos, conforme normas ambientais.</li><li>Apoiar na organização de ambientes para eventos internos e reuniões.</li><li>Identificar necessidades de manutenção predial e comunicar à equipe responsável.</li><li>Manter o ambiente de trabalho limpo, organizado e funcional.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Desejável experiência anterior em limpeza corporativa ou conservação predial]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/10/servicos-gerais-pcd]]></applyUrl>
+    <companyId><![CDATA[2693346]]></companyId>
+    <city><![CDATA[Lagoa Santa]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[c5451ce7-3179-4e3b-bddd-75165e1ed0fa]]></partnerJobId>
+    <company><![CDATA[VMI Security]]></company>
+    <title><![CDATA[Analista de Inteligência de Mercado II (Bilíngue)]]></title>
+    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por liderar análises estratégicas e projetos de inteligência competitiva, fornecendo insights para decisões corporativas de alto impacto. Atua na definição de metodologias, desenvolvimento de estudos avançados e integração de dados entre áreas, garantindo informações precisas e estratégicas para suportar planejamento e crescimento da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir análises complexas de mercado, tendências e comportamento da concorrência, antecipando riscos e oportunidades;</li><li>Desenvolver estudos avançados de segmentação, precificação e projeções de demanda;</li><li>Estruturar e implementar metodologias de inteligência competitiva e análise preditiva;</li><li>Elaborar relatórios executivos e dashboards estratégicos para diretoria e alta gestão;</li><li>Liderar projetos de integração de dados e automação de processos de inteligência;</li><li>Atuar como consultor interno para áreas comerciais, marketing e planejamento estratégico;</li><li>Coordenar iniciativas de melhoria contínua e inovação nos processos de inteligência;</li><li>Orientar e capacitar analistas de níveis hierárquicos inferiores, garantindo padronização e excelência;</li><li>Participar de reuniões estratégicas, apresentando insights e recomendações para decisões críticas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Administração, Marketing ou similares e Pós-Graduação em Inteligência de Mercado e Competitiva, BI e Analytics ou afins.</li><li>Pacote Office;</li><li>Domínio de análise de dados e indicadores de mercado;</li><li>Familiaridade com metodologias de inteligência competitiva, modelagem preditiva e análise de cenários;</li><li>Domínio de ferramentas de BI (Power BI, Tableau);</li><li>Familiaridade com CRM e sistemas de gestão comercial.</li><li>Inglês Avançado ( conversação e escrita)</li></ul><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/9/analista-de-inteligencia-de-mercado-ii-bilingue]]></applyUrl>
+    <companyId><![CDATA[2693346]]></companyId>
+    <city><![CDATA[Lagoa Santa]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[bfe067c8-70f2-4d7c-8092-6258a38d4dee]]></partnerJobId>
+    <company><![CDATA[VMI Security]]></company>
+    <title><![CDATA[Coordenador de Desenvolvimento de Produtos]]></title>
+    <posterEmail><![CDATA[helen.santos@vmis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por apoiar o desenvolvimento de produtos e soluções de inspeção por imagem de raio-x, acompanhando indicadores de desempenho, prazos, custos e garantindo os padrões de qualidade da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar a estratégia, roadmap, precificação e crescimento do portfólio de produtos de raio-x;</li><li>
+Liderar, desenvolver e capacitar a equipe, garantindo alinhamento de papéis e responsabilidades;
+</li><li>
+Acompanhar indicadores de desempenho, prazos e resultados, definindo planos de melhoria;
+</li><li>
+Garantir infraestrutura, ferramentas e condições adequadas para execução das atividades;
+</li><li>
+Interagir com clientes, distribuidores e mercado para identificar necessidades e oportunidades;
+</li><li>
+Traduzir demandas do mercado em requisitos de produtos e soluções inovadoras;
+</li><li>
+Atuar em conjunto com P&amp;D, áreas comerciais e técnicas, promovendo inovação e excelência.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Engenharia e Pós-graduação/MBA em Gestão, Inovação ou Negócios;
+</li><li>
+Experiência em liderança de engenharia, gestão de projetos complexos e inovação;
+</li><li>
+Conhecimentos em gestão e design de produtos, Agile, UX/UI e portfólio;
+</li><li>
+Familiaridade com tecnologias de Raio-X;
+</li><li>
+Forte comunicação, liderança e capacidade de influenciar stakeholders;
+</li><li>Perfil empreendedor, orientado ao cliente e a resultados.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/5/coordenador-de-desenvolvimento-de-produtos]]></applyUrl>
+    <companyId><![CDATA[2693346]]></companyId>
+    <city><![CDATA[Lagoa Santa]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[66ed7c56-d3ce-4a52-a385-52fb6bcf5957]]></partnerJobId>
+    <company><![CDATA[VMI Security]]></company>
+    <title><![CDATA[Comprador Sênior - Bilíngue]]></title>
+    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por liderar tecnicamente os processos de compras de matéria-prima, equipamentos, peças e serviços diretamente relacionados ao processo produtivo, atuando como referência técnica e liderança da equipe.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Desenvolver e implementar estratégias de compras eficazes, garantindo a melhor relação custo-benefício.<br /> - Analisar e selecionar fornecedores, estabelecendo parcerias sólidas e duradouras.<br /> - Negociar contratos e condições de pagamento com fornecedores, visando o cumprimento dos interesses da empresa.<br /> - Realizar análises de mercado para identificar tendências e oportunidades de melhoria nos processos de compra.<br /> - Monitorar e controlar o desempenho dos fornecedores, garantindo que os padrões de qualidade e prazos sejam atendidos.<br /> - Preparar e apresentar relatórios sobre atividades de compras e indicadores de desempenho para a alta gestão.<br /> - Colaborar com demais áreas da empresa, como logística e produção, para garantir a integração e eficiência do processo de suprimentos.<br /> - Participar de reuniões e eventos do setor para ampliar a rede de contatos e ficar atualizado sobre inovações e melhores práticas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior em Administração, Economia, contábeis ou áreas correlatas e  pós- graduação e, gestão estratégica de compras ou suppy chain.<br /> - Experiência em compras e negociações, preferencialmente em empresas de grande porte.<br /> - Fluência em inglês, tanto escrita quanto falada.<br /> - Habilidade em análise de mercado e desenvolvimento de fornecedores.<br /> - Conhecimento em ferramentas de gestão de compras e ERP.<br /> - Excel avançado e domínio em análise de dados.<br /> - Capacidade de negociação e bom relacionamento interpessoal.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/7/comprador-senior-bilingue]]></applyUrl>
+    <companyId><![CDATA[2693346]]></companyId>
+    <city><![CDATA[Lagoa Santa]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[9cf028dd-960f-411d-9a5f-2781ec191b85]]></partnerJobId>
+    <company><![CDATA[VMI Security]]></company>
+    <title><![CDATA[Técnico de Instalação e Manutenção I]]></title>
+    <posterEmail><![CDATA[helen.santos@vmis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por realizar manutenção preventiva e corretiva em equipamentos de Raio-X, prestar suporte técnico e treinamentos, elaborar relatórios, realizar inspeções, apoiar a liderança, cumprir normas de qualidade e segurança e colaborar com a engenharia em melhorias e projetos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Manutenção, instalação e desinstalação de equipamentos de pequeno porte;
+</li><li>
+Suporte técnico presencial e remoto, com atendimento de sobreaviso;
+</li><li>
+Treinamentos operacionais para clientes e equipe técnica;
+</li><li>
+Elaboração e registro de relatórios técnicos e administrativos;
+</li><li>
+Vistorias técnicas e inspeções em clientes;
+</li><li>
+Gestão de viagens, despesas, peças e contratos;
+</li><li>
+Apoio à liderança e à engenharia em melhorias e projetos;
+</li><li>
+Cumprimento de normas técnicas, qualidade, segurança, compliance e meio ambiente.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação técnica em Eletrônica ou áreas afins (superior em Eng. Elétrica/Eletrônica como diferencial);</li><li>
+Conhecimentos em NR10, NR35, informática avançada, sistemas operacionais e Linux;
+</li><li>
+Noções de hardware, drivers, BIOS e processos técnicos;
+</li><li>
+Boa comunicação, agilidade, flexibilidade e capacidade de negociação;
+</li><li>
+Facilidade para trabalhar com prazos e foco em redução de custos;
+</li><li>
+CNH categoria B.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/6/tecnico-de-instalacao-e-manutencao-i]]></applyUrl>
     <companyId><![CDATA[2693346]]></companyId>
     <city><![CDATA[Lagoa Santa]]></city>
     <state><![CDATA[MG]]></state>
@@ -79717,13 +79513,13 @@ Perfil comunicativo, com facilidade para relacionamento, negociação e atuaçã
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[fb315467-6906-4c58-aef7-88ff7be3ab33]]></partnerJobId>
+    <partnerJobId><![CDATA[99896314-5786-4cb7-90c5-bfc443fdb277]]></partnerJobId>
     <company><![CDATA[VMZ Viagens]]></company>
-    <title><![CDATA[Banco de Talentos | Agente de Viagens]]></title>
+    <title><![CDATA[Agente de Viagens (Comercial — Vendas)]]></title>
     <posterEmail><![CDATA[marcela.vianna@vmzviagens.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /> <strong>Presencial: Ribeirão Preto – SP</strong><b><br /></b>Estamos formando nosso <strong>Banco de Talentos para Agentes de Viagens (Comercial)</strong> e buscamos profissionais que queiram crescer em uma empresa sólida, com modelo de contrato CLT, remuneração transparente e comissões altamente competitivas.<br />
+    <description><![CDATA[<b>Descrição</b><br /><br /> <strong>Presencial: Ribeirão Preto – SP</strong><b><br /></b>Estamos buscamos profissionais que queiram crescer em uma empresa sólida, com modelo de contrato CLT, remuneração transparente e comissões altamente competitivas.<br />
 Na VMZ Viagens, vender não é empurrar produto — é entender o cliente, construir a melhor solução e cuidar de cada etapa da jornada de viagem. <br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Entender o perfil do cliente e elaborar roteiros e propostas;</li><li>Comercializar pacotes, ingressos, hotéis e demais serviços;</li><li>Negociar condições e conduzir o fechamento das vendas;</li><li>Registrar e atualizar informações no CRM e nos sistemas de vendas;</li><li>Ajustar propostas de acordo com a necessidade e o orçamento;</li><li>Orientar o cliente sobre documentação e requisitos de viagem;</li><li>Trabalhar ofertas e campanhas promocionais vigentes;</li><li>Identificar oportunidades de vendas adicionais;</li><li>Garantir clareza nas informações, regras e condições da viagem;</li><li>Manter-se atualizado sobre destinos, produtos e fornecedores;</li><li>Cumprir padrões de qualidade no atendimento;</li><li>Atuar com metas e indicadores de performance comercial.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prévia na área comercial ou atendimento ao cliente;</li><li>Habilidade em negociação e fechamento de vendas;</li><li>Boa comunicação verbal e escrita;</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vmzviagenscarreiras/1/banco-de-talentos-agente-de-viagens]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vmzviagenscarreiras/3/agente-de-viagens-comercial-vendas]]></applyUrl>
     <companyId><![CDATA[30124211]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
     <state><![CDATA[SP]]></state>
@@ -79797,13 +79593,13 @@ Postura profissional no dia a dia.<br /></li></ul><br /><br /><b>Para estar apto
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[99896314-5786-4cb7-90c5-bfc443fdb277]]></partnerJobId>
+    <partnerJobId><![CDATA[fb315467-6906-4c58-aef7-88ff7be3ab33]]></partnerJobId>
     <company><![CDATA[VMZ Viagens]]></company>
-    <title><![CDATA[Agente de Viagens (Comercial — Vendas)]]></title>
+    <title><![CDATA[Banco de Talentos | Agente de Viagens]]></title>
     <posterEmail><![CDATA[marcela.vianna@vmzviagens.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /> <strong>Presencial: Ribeirão Preto – SP</strong><b><br /></b>Estamos buscamos profissionais que queiram crescer em uma empresa sólida, com modelo de contrato CLT, remuneração transparente e comissões altamente competitivas.<br />
+    <description><![CDATA[<b>Descrição</b><br /><br /> <strong>Presencial: Ribeirão Preto – SP</strong><b><br /></b>Estamos formando nosso <strong>Banco de Talentos para Agentes de Viagens (Comercial)</strong> e buscamos profissionais que queiram crescer em uma empresa sólida, com modelo de contrato CLT, remuneração transparente e comissões altamente competitivas.<br />
 Na VMZ Viagens, vender não é empurrar produto — é entender o cliente, construir a melhor solução e cuidar de cada etapa da jornada de viagem. <br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Entender o perfil do cliente e elaborar roteiros e propostas;</li><li>Comercializar pacotes, ingressos, hotéis e demais serviços;</li><li>Negociar condições e conduzir o fechamento das vendas;</li><li>Registrar e atualizar informações no CRM e nos sistemas de vendas;</li><li>Ajustar propostas de acordo com a necessidade e o orçamento;</li><li>Orientar o cliente sobre documentação e requisitos de viagem;</li><li>Trabalhar ofertas e campanhas promocionais vigentes;</li><li>Identificar oportunidades de vendas adicionais;</li><li>Garantir clareza nas informações, regras e condições da viagem;</li><li>Manter-se atualizado sobre destinos, produtos e fornecedores;</li><li>Cumprir padrões de qualidade no atendimento;</li><li>Atuar com metas e indicadores de performance comercial.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prévia na área comercial ou atendimento ao cliente;</li><li>Habilidade em negociação e fechamento de vendas;</li><li>Boa comunicação verbal e escrita;</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vmzviagenscarreiras/3/agente-de-viagens-comercial-vendas]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vmzviagenscarreiras/1/banco-de-talentos-agente-de-viagens]]></applyUrl>
     <companyId><![CDATA[30124211]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
     <state><![CDATA[SP]]></state>
