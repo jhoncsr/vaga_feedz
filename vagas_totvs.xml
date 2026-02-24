@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 24 Feb 2026 18:14:04 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 19:22:28 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[2995]]></expectedJobCount>
+  <expectedJobCount><![CDATA[2996]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -679,6 +679,25 @@
           <amount><![CDATA[1300.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </highEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[023907d7-42e0-4b2c-ad2d-adc7a8ad0bc8]]></partnerJobId>
+    <company><![CDATA[Credi Shop]]></company>
+    <title><![CDATA[PROMOTOR DE VENDAS - ARAGUAINA]]></title>
+    <posterEmail><![CDATA[iriane@credishop.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Atendimento ao publico;</li><li>Vendas externas, ofertas de produtos e serviços da Credi-Shop;</li><li>Cadastramento de propostas;</li><li>Organização do ponto de atendimento;</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a abordagem e atendimento ao cliente em pontos de venda.</li><li>Promover os produtos, destacando suas qualidades e vantagens.</li><li>Informar sobre promoções e campanhas em curso.</li><li>Registrar vendas e reportar resultados.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li> Experiência anterior em vendas;</li><li> Boa comunicação;</li><li> Habilidade de negociação;</li><li> Capacidade de trabalho em equipe.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/credishop/178/promotor-de-vendas-araguaina]]></applyUrl>
+    <companyId><![CDATA[1089858]]></companyId>
+    <city><![CDATA[Araguaína]]></city>
+    <state><![CDATA[TO]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -1950,10 +1969,10 @@ priorização;</li><li>Gestão de Indicadores;</li><li>Mobile.</li></ul>
   <job>
     <partnerJobId><![CDATA[850f23d6-dc90-4a8f-ad7e-2773d2e4ab9b]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[Pessoa Desenvolvedora .Net Senior]]></title>
+    <title><![CDATA[[Tech] Engenharia de Software Backend Senior - C#/.NET]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Ser referência no desenvolvimento e sustentação de funcionalidades de software, de modo que não apenas agregue valor ao produto como também oriente e capacite o time de desenvolvimento, garantindo a satisfação do cliente e a evolução técnica do time de desenvolvimento do produto de atuação.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver soluções técnicas de alta complexidade, transformando requisitos em software robusto, seguro e escalável, alinhado às necessidades do negócio;</li><li>Atuar na análise e evolução da arquitetura de software, assegurando organização consistência, performance e eficiência de seus componentes;</li><li>Garantir a aplicação de boas praticas de engenharia de software, incluindo testes automatizados, versionamento, revisões de código, documentação e integração contínua;</li><li>Detalhar requisitos técnicos complexos em colaboração com clientes e áreas envolvidas, traduzindo demandas de negócio em soluções viáveis;</li><li>Propor inovações aplicáveis ao roadmap do produto, realizando provas de conceito e estudos de caso que aumentem competitividade, eficiência e qualidade da solução;</li><li>Participar de discussões táticas e operacionais, contribuindo na definição de metas anuais estudos de viabilidade técnica e escolhas estratégicas de tecnologia;</li><li>Orientar, capacitar e apoiar o time de desenvolvimento na definição de soluções de negócio arquitetura e design, promovendo disseminação de conhecimento e boas práticas;</li><li>Criar frameworks, componentes reutilizáveis e padrões técnicos quando necessário para acelerar qualificar desenvolvimento;</li><li>Definir, revisar e aprimorar processos de engenharia que suportem os objetivos de curto e médio prazo da área de atuação;</li><li>Assegurar o cumprimento das metas do time, influenciando práticas, priorização de tarefas e promovendo evolução contínua da qualidade técnica;</li><li>Contribuir em fóruns e discussões sobre inovação e tendências de mercado, disseminando conhecimento e fortalecendo a cultura de aprendizado constante;</li><li>Atuar diretamente na resolução de incidentes, investigando causas raiz e implementando melhorias que aumentem a confiabilidade, escalabilidade e eficiência da plataforma.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com .NET;</li><li>Desenvolvimento em C#;</li><li>APIs REST;</li><li>SQL Server e Oracle;</li><li>GitHub;</li><li>Testes Automatizados;</li><li>Processamento distribuído (Hadoop, Spark);</li><li>Design Patterns;</li><li>Segurança no desenvolvimento (DevSecOps, outros);</li><li>Angular (incluindo Angular 18+), Typescript (tipagem estática e POO), Javascript avançado, HTML e CSS;</li><li>Experiência em otimização de performance em grandes aplicações front-end;</li><li>Métodos ágeis.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8527/pessoa-desenvolvedora-net-senior]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8527/tech-engenharia-de-software-backend-senior-c-net]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
     <state><![CDATA[MG]]></state>
@@ -4486,25 +4505,6 @@ Inglês nível Básico <br />]]></description>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Atuar com foco no desenvolvimento de canais com alta performance de vendas, qualidade nas entregas e no relacionamento com o cliente. <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br />• Gestão de forecast de canal parceiro TOTVS; <br />• Assegurar a disseminação das informações corporativas, como conteúdos relacionados à produtos, campanhas comerciais, código de conduta e ética e orientações sobre uso das marcas TOTVS;<br />• Dominar e influenciar os canais na aplicação das políticas e práticas comerciais TOTVS, assim como na garantia da integridade das informações disponibilizadas nas ferramentas da Cia;<br />• Participar dos treinamentos e eventos promovidos pela TOTVS, analisando as tendências de mercado e promovendo os temas por meio de ações junto aos canais, a fim de disseminar e colocar em prática o conteúdo disponibilizado;<br />• Garantir a qualificação e homologação de novos canais por meio da análise do perfil e avaliação de potencial das empresas candidatas a Canais de Distribuição TOTVS;<br />• Acompanhar o atendimento da carteira de clientes ativos e apoiar em ações que possam garantir a satisfação dos clientes, além de sugerir, promover e acompanhar ações de cross e up sell na base ativa;<br />• Direcionar e acompanhar a evolução da solução de ocorrências ou demandas criticas identificadas no cliente, além de gerenciar conflitos e propor melhorias de processo junto as áreas internas na TOTVS;<br />• Garantir o integral atendimento aos leads gerados pela área de Negócios e Prospecção;<br />• Apoiar na construção do planejamento de eventos de Marketing e Relacionamento, com foco na prospecção de new names e na ampliação do empilhamento de receita na base de clientes ativos, promovendo ações de cross sell e up sell;<br />• Acompanhar as oportunidades de negócio existentes e gerir e reportar resultados de forecast e pipeline para a companhia;<br />• Analisar relatórios e indicadores de performance de vendas dos canais, com foco em aplicar ações de melhoria nos processos;<br />• Promover e/ou gerenciar planos de ação para melhoria e reversão de resultados à partir do plano desenvolvido pelo Canal;<br />• Garantir que o canal sinalize e gerencie riscos de churn ou insatisfação por algum problema interno TOTVS ou de atendimento do próprio canal.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo; </li><li>Conhecimento e vivência com vendas para o setor público; </li><li>Vivência com vendas complexas e consultivas B2B de software de tecnologia e ERP;</li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li>Organização e proatividade;</li><li>Habilidade de negociação, comunicação e gestão de relacionamento com decisores;</li><li>Resiliência e orientação a resultados;</li><li>Alta autonomia, disciplina e senso de responsabilidade para gerenciar carteira, pipeline e agenda;</li><li>Disponibilidade para viagens e atuação em modelo híbrido.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8403/vendas-gerente-de-contas-senior-hunter-setor-publico]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[2859d144-5757-42ee-b625-84e72e578cfe]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[Pessoa Consultora Tributária Júnior - Segmento RH]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Missão do cargo - Realizar a prestação de consultoria aos times internos, por meio de análise, esclarecimento e comunicação quanto a assuntos ligados à legislações Fiscais, Contábeis e de RH.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br /><ul><li>Prestar consultoria aos times internos referentes aos assuntos de baixa e média complexidade, por meio de esclarecimentos de dúvidas, orientando e direcionando os solicitantes, realizando pesquisas e emitindo pareceres, com acompanhamento de Consultores de maior senioridade quando necessário.</li><li>Efetuar atendimento diário de issues de baixa complexidade abertos pelos clientes internos por meio do portal do Jira Service Desk.</li><li>Multiplicar conhecimento no time, por meio do apoio na execução de atividades, e de transferência de conhecimento técnico;</li><li>Realização e apoio em eventos destinados a orientar os clientes internos e externos quanto a legislação.</li><li>Identificar prioridades e se comprometer com os prazos das entregas.</li><li>Criação de conteúdo e manutenção dos Produtos específicos da área.</li><li>Sugerir melhorias nos processos e ferramentas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Formação: Superior completo em Administração, Ciências Contábeis, Direito, Recursos Humanos, Gestão Tributária e afins;</li><li>Metodologia ágil;</li><li>Regras de negócio do produto de atuação;</li><li>Comunicação: Apresentação oral, produção de texto, conteúdo e MKT digital.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8431/pessoa-consultora-tributaria-junior-segmento-rh]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -7801,6 +7801,25 @@ Auxiliar na realização de inventários e controles periódicos.</li><br /><br 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[8fba4f85-4e63-4352-8a98-2658be1e4446]]></partnerJobId>
+    <company><![CDATA[Sicoob Unicidades]]></company>
+    <title><![CDATA[Jovem Aprendiz - PA 06]]></title>
+    <posterEmail><![CDATA[camilad.sousa@sicoob.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um jovem aprendiz para recepcionar cooperados, realizar entrega de senhas, organização de arquivos, atendimento telefônico e controle de planilhas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Recepção de cooperados;</li><li>Atendimento telefônico;</li><li>Preenchimento de planilhas de controles diversos;</li><li>Executar tarefas relacionadas com a elaboração e manutenção do arquivo, arquivando e classificando documentos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo ou em andamento;</li><li>Necessário ter entre 14 e 24 anos; </li><li>Pacote Office Básico;</li><li>Organização, boa comunicação e proatividade.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sicoobunicidades/187/jovem-aprendiz-pa-06]]></applyUrl>
+    <companyId><![CDATA[74199914]]></companyId>
+    <city><![CDATA[Goiatuba]]></city>
+    <state><![CDATA[GO]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[10d0d92f-f0c6-47a0-b63e-4dc080491809]]></partnerJobId>
     <company><![CDATA[Sicoob Unicidades]]></company>
     <title><![CDATA[Gerente de Relacionamento Agro - PA 04]]></title>
@@ -10142,52 +10161,6 @@ CNH B e disponibilidade para viagens na região de atuação;</li><li>CREA/CFTA 
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupoagromave/124/gerente-de-vendas]]></applyUrl>
     <companyId><![CDATA[22331475]]></companyId>
     <city><![CDATA[Lucas do Rio Verde]]></city>
-    <state><![CDATA[MT]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[dfd9db20-369f-4d8a-87aa-ce4a749034fa]]></partnerJobId>
-    <company><![CDATA[Agromave]]></company>
-    <title><![CDATA[Analista Financeiro Pleno - Escritório Fazenda]]></title>
-    <posterEmail><![CDATA[fabiana.cordeiro@grupoagromave.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><li><strong>Controle do fluxo de caixa rural</strong>: entrada e saída de recursos, receitas de produção, despesas operacionais e investimentos.
-</li>
-<li>
-<strong>Lançamentos e conciliações financeiras</strong>: pagamentos, recebimentos, boletos, notas fiscais e controle bancário.
-</li>
-<li>
-<strong>Gestão de contas a pagar e a receber</strong> do negócio agrícola.
-</li>
-<li>
-<strong>Acompanhamento de custos de produção</strong> (insumos, defensivos, sementes, combustíveis, manutenção de máquinas).
-</li>
-<li>
-<strong>Prestação de contas e relatórios financeiros</strong> para proprietários, gerentes e consultorias.
-</li>
-<li>
-<strong>Organização e controle de documentos rurais</strong>, como notas de insumos, venda de grãos, pecuária e serviços.
-</li>
-<li>
-<strong>Suporte à contabilidade rural</strong> para fechamento mensal e fiscal.
-</li>
-<li>
-<strong>Acompanhamento de contratos agrícolas</strong> (arrendamentos, parcerias, barter, financiamentos e CPRs).
-</li>
-<li>
-<strong>Projeções financeiras da safra</strong> (estimativa de receitas, custos e margem).
-</li>
-<li>
-<strong>Análise de viabilidade de investimentos</strong> em máquinas, tecnologia e infraestrutura.</li><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Responsável pela conferência de relatórios de contas a receber;</li><li>Responsável pela confecção e atualização da planilha de fluxo de caixa a receber, contendo clientes a prazo, à vista, contratos de grão e grão disponível para venda;</li><li>Responsável pelo controle dos vencimentos das contas, prazos e programações de recebimentos.</li><li>Responsável pela emissão e acompanhamento de boletos dos clientes;</li><li>Dentre outras atividades pertinentes a função.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />• Ensino superior completo em Ciências Contábeis, Administração, Finanças ou áreas relacionadas; • Conhecimento sólido em gestão financeira, preferencialmente em empresa do setor agrícola;• Conhecimento com o ERP (Siagri);• Pacote Office.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupoagromave/128/analista-financeiro-pleno-escritorio-fazenda]]></applyUrl>
-    <companyId><![CDATA[22331475]]></companyId>
-    <city><![CDATA[Sorriso]]></city>
     <state><![CDATA[MT]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -14850,6 +14823,25 @@ procedimento necessário referente aos mesmos</li><li>Rotinas administrativas re
     <companyId><![CDATA[2898773]]></companyId>
     <city><![CDATA[Porto Alegre]]></city>
     <state><![CDATA[RS]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[41459aee-bd86-4005-bbaa-bda198911b34]]></partnerJobId>
+    <company><![CDATA[CFL Inc.]]></company>
+    <title><![CDATA[Engenheiro Jr. - Florianópolis/SC]]></title>
+    <posterEmail><![CDATA[giovanna.guimaraes@cfl.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional para compor nosso time de obra em Santa Catarina.<br /><br /><br /><b> PARA SE CANDIDATAR:</b> Envie seu currículo para <b>curriculosconfianza@gmail.com</b><br /><b>Assunto: </b>Engenheiro Jr. - Florianópolis/SC <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhar a execução dos serviços em obra, garantindo conformidade com projetos e padrões técnicos;</li><li>Auxiliar no controle do cronograma físico e na atualização do planejamento;</li><li>Conferir medições de empreiteiros e apoiar no controle de custos e quantitativos;</li><li>Realizar vistorias e checklists de qualidade dos serviços executados;</li><li>Apoiar na compatibilização de projetos e no esclarecimento de dúvidas técnicas em campo;</li><li>Elaborar relatórios de acompanhamento e atualização de indicadores da obra.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em engenharia civil</li><li>Experiência prévia em acompanhamento de obras e rotina de canteiro;</li><li>Conhecimento em leitura e interpretação de projetos técnicos;</li><li>Noções de planejamento e controle de obras (cronograma, medições e quantitativos);</li><li>Pacote Office intermediário (especialmente Excel).</li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/clfinc/145/engenheiro-jr-florianopolis-sc]]></applyUrl>
+    <companyId><![CDATA[2898773]]></companyId>
+    <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[SC]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -25267,6 +25259,25 @@ Vivência com inventários e auditoria de estoque]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[357059c7-b767-494e-a77a-101c7d77ae2a]]></partnerJobId>
+    <company><![CDATA[CBF Indústria de Gusa]]></company>
+    <title><![CDATA[JOVEM APRENDIZ II]]></title>
+    <posterEmail><![CDATA[bianca.sizino@ferroeste.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Fundada em 1986, a CBF Industria de Gusa, empresa siderúrgica pertencente ao Grupo Ferroeste, possui tradição na produção de ferro-gusa nodular verde, o grupo é o primeiro do mundo a receber a certificação de carbono neutro. Ferro gusa verde refere-se a uma produção com práticas mais sustentáveis, como o uso de carvão vegetal em vez de coque, e a implementação de tecnologias para reduzir emissões de gases de efeito estufa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Fundada em 1986, a CBF Industria de Gusa, empresa siderúrgica pertencente ao Grupo Ferroeste, possui tradição na produção de ferro-gusa nodular verde, o grupo é o primeiro do mundo a receber a certificação de carbono neutro. Ferro gusa verde refere-se a uma produção com práticas mais sustentáveis, como o uso de carvão vegetal em vez de coque, e a implementação de tecnologias para reduzir emissões de gases de efeito estufa.<br /><br /><b>Requisitos e qualificações</b><br /><br />Fundada em 1986, a CBF Industria de Gusa, empresa siderúrgica pertencente ao Grupo Ferroeste, possui tradição na produção de ferro-gusa nodular verde, o grupo é o primeiro do mundo a receber a certificação de carbono neutro. Ferro gusa verde refere-se a uma produção com práticas mais sustentáveis, como o uso de carvão vegetal em vez de coque, e a implementação de tecnologias para reduzir emissões de gases de efeito estufa.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cbf/619/jovem-aprendiz-ii]]></applyUrl>
+    <companyId><![CDATA[41016902]]></companyId>
+    <city><![CDATA[João Neiva]]></city>
+    <state><![CDATA[ES]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[11cad931-ca27-416a-bfeb-2da1bed86324]]></partnerJobId>
     <company><![CDATA[CBF Indústria de Gusa]]></company>
     <title><![CDATA[AJUDANTE DE FORNEIRO]]></title>
@@ -28110,6 +28121,47 @@ para o estoque durante o recebimento e quando necessário.<br /><br /><b>Requisi
           <amount><![CDATA[1800.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[5207a863-f308-4e02-93ff-48ebadd4df1b]]></partnerJobId>
+    <company><![CDATA[Ceneged]]></company>
+    <title><![CDATA[JOVEM APRENDIZ]]></title>
+    <posterEmail><![CDATA[luishenrique@ceneged.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade que pode transformar
+sua trajetória profissional? Temos o prazer de convidar você a fazer parte de
+um ambiente dinâmico e colaborativo, onde o aprendizado e o desenvolvimento de
+suas habilidades são valorizados. Se você é uma pessoa proativa, disposta a
+aprender e a crescer, queremos conhecer você! Junte-se a nós e descubra tudo o
+que podemos alcançar juntos!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
+ <li>Entregar
+     e arquivar documentos;</li>
+ <li>Preencher
+     planilhas;</li>
+ <li>Dar
+     suporte às rotinas administrativas do setor, sob orientação do superior
+     imediato.</li>
+</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
+ <li>Ensino
+     médio cursando ou completo;</li>
+ <li>Conhecimento
+     no pacote office;</li>
+ <li>Ter
+     compromisso e vontade de aprender;</li>
+ <li>Ter
+     disponibilidade para trabalhar 4 horas diárias.</li>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/330/jovem-aprendiz]]></applyUrl>
+    <companyId><![CDATA[9250455]]></companyId>
+    <city><![CDATA[Caucaia]]></city>
+    <state><![CDATA[CE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -32297,33 +32349,6 @@ Se você é apaixonado por promover saúde, desempenho e bem-estar por meio da a
         </highEnd>
         <lowEnd>
           <amount><![CDATA[1598.76]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[af073d2b-2cc8-455d-b9e6-61a9755e7393]]></partnerJobId>
-    <company><![CDATA[GRUPO CEUMA]]></company>
-    <title><![CDATA[Auxiliar Serviços Gerais - Vaga Exclusiva PCD]]></title>
-    <posterEmail><![CDATA[alinerodrigues@unieuro.edu.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>Acreditamos que um time diverso é um time mais forte!</b>Por isso, estamos com uma oportunidade de trabalho exclusiva para Pessoas com Deficiência (PCD). Buscamos um(a) profissional que goste de cuidar de ambientes, deixando tudo organizado e acolhedor para as pessoas.Se você tem dedicação, capricho e quer fazer parte de um lugar que valoriza suas habilidades, esta vaga é para você. Nosso compromisso é oferecer um ambiente de trabalho inclusivo e com oportunidades para todos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Zelar pela limpeza e organização geral dos nossos espaços, como salas, escritórios e áreas comuns.</li><li>Manter os ambientes sempre agradáveis e bem-cuidados.</li><li>Colaborar na arrumação de locais para pequenos eventos internos.</li><li>Verificar e solicitar os materiais de limpeza necessários para realizar o trabalho.</li><li>Cuidar da coleta e separação do lixo, contribuindo para a sustentabilidade.</li><li>Realizar outras tarefas de apoio, conforme a necessidade e orientação da liderança.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Ser uma Pessoa com Deficiência (PCD) e apresentar laudo médico atualizado.</b></li><li>Ter muita vontade de aprender e colaborar com a equipe.</li><li>Ser uma pessoa responsável e atenta aos detalhes.</li><li><b>Não exigimos que você tenha terminado os estudos.</b> Valorizamos sua dedicação e suas experiências de vida.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ceumatrabalheconosco/95/auxiliar-servicos-gerais-vaga-exclusiva-pcd]]></applyUrl>
-    <companyId><![CDATA[1220822]]></companyId>
-    <city><![CDATA[Brasília]]></city>
-    <state><![CDATA[DF]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1822.04]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1822.04]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
@@ -41260,46 +41285,6 @@ warehousing, data lake, lakehouse.</li></ul>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[9d48c513-4c01-4d91-9e53-fe47f667371f]]></partnerJobId>
-    <company><![CDATA[Rcell Telecom]]></company>
-    <title><![CDATA[DESENVOLVEDOR II]]></title>
-    <posterEmail><![CDATA[caique.costa@rcell.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Desenvolvedor(a) Pleno(a) com experiência em VTEX IO e VTEX Legacy para atuar na evolução do nosso e-commerce, garantindo estabilidade, performance e inovação. Este profissional será responsável por corrigir bugs, desenvolver novas funcionalidades, realizar integrações entre sistemas e apoiar áreas internas em demandas técnicas relacionadas à plataforma.<br />
-Trabalhará em colaboração com times de Marketing, Comercial e Produto, contribuindo para melhorias contínuas de UX, SEO técnico, performance e processos de checkout, navegação e operações B2B.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Corrigir erros e bugs de layout, navegação e checkout.</li><li>Implementar e customizar funcionalidades nativas da VTEX IO e VTEX CMS.</li><li>Instalar e configurar o VTEX B2B Suite (plugs de compra corporativa, login empresarial, listas de aprovação, etc.).</li><li>Desenvolver integrações entre sistemas (ERP, CRM, gateways, APIs, marketplaces).</li><li>Acompanhar deploys e validar as entregas técnicas em staging e produção.</li><li>Otimizar tempo de carregamento, SEO técnico e UX responsiva.</li><li>Trabalhar junto ao time comercial e de marketing para suporte em campanhas e personalização de vitrine, coleções e promoções.</li><li>Experiência em: VTEX IO e VTEX Legacy (CMS antigo).</li><li>Domínio de React, Node.js, GraphQL, HTML5, CSS3 e JavaScript ES6+.</li><li>Conhecimento de REST APIs, webhooks e integrações.</li><li>Experiência com Google Tag Manager, Pixel, Google Analytics 4, meta tags, etc.</li><li>Noções de UX/UI e SEO técnico.</li><li>Desejável: experiência com VTEX B2B Suite, VTEX IO Apps, plataformas de pagamento (Adyen, Pagar.me, etc.) e ERP Bling / Tiny / Linx / Totvs/ Vtexio / Faststore / GraphQL / JQuery</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com <strong>VTEX IO</strong> e <strong>VTEX Legacy (CMS antigo)</strong>.</li><li>Domínio de <strong>React</strong>, <strong>Node.js</strong>, <strong>GraphQL</strong>, <strong>HTML5</strong>, <strong>CSS3</strong> e <strong>JavaScript ES6+</strong>.</li><li>Conhecimento de <strong>REST APIs</strong>, webhooks e integrações entre sistemas.</li><li>Experiência com ferramentas de tracking: <strong>Google Tag Manager</strong>, <strong>Pixel</strong>, <strong>Google Analytics 4</strong>, meta tags, etc.</li><li>Noções de <strong>UX/UI</strong> e <strong>SEO técnico</strong>.</li></ul><br /><br />Diferenciais<br /><br /><br /><ul><li>Conhecimento prático em <strong>VTEX B2B Suite</strong> e desenvolvimento de <strong>VTEX IO Apps</strong>.
-</li><li>
-Experiência com plataformas de pagamento (Adyen, Pagar.me, etc.).
-</li><li>
-Vivência com ERPs como <strong>Bling, Tiny, Linx, Totvs</strong>.
-</li><li>
-Experiência com <strong>Faststore</strong>, <strong>GraphQL avançado</strong> e <strong>jQuery</strong>.</li></ul>
-
-
-<br />
-
-
-<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/rcell/37/desenvolvedor-ii]]></applyUrl>
-    <companyId><![CDATA[2196973]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[10000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[8000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[96940f86-94e2-441e-a261-9f4b47f75555]]></partnerJobId>
     <company><![CDATA[Rcell Telecom]]></company>
     <title><![CDATA[Consultor de Vendas I (Capilaridade IM)]]></title>
@@ -46732,25 +46717,6 @@ Se você busca desafios, aprendizado e novas conquistas, <strong>vem com a gente
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[72b700d3-5c55-4509-a1e5-294137d2c2fa]]></partnerJobId>
-    <company><![CDATA[Food To Save]]></company>
-    <title><![CDATA[ANALISTA  SALES ENABLEMENT SÊNIOR]]></title>
-    <posterEmail><![CDATA[juliana.capello@foodtosave.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um <strong>Analista Comercial Sênior – Sales Enablement</strong> para atuar como elo estratégico entre o time Comercial, Planejamento Comercial e demais áreas de negócio.<br />Essa pessoa será responsável por garantir <strong>padronização, governança e qualidade dos processos comerciais</strong>, além de liderar iniciativas de treinamento e desenvolvimento contínuo do time de vendas, O principal objetivo será <strong>aumentar a eficiência, previsibilidade e escalabilidade dos resultados comerciais</strong>, transformando a estratégia em execução consistente por meio de <b>processos bem estruturados, playbooks claros e iniciativas contínuas de enablement.</b><br /><br />Se você acredita que p<b>rocessos bem definidos impulsionam</b> performance e ama <b>transformar estratégia </b>em <b>resultado, </b>essa vaga é para você.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Estruturar e conduzir o programa de treinamento comercial contínuo, <b>incluindo onboarding de novos colaboradores, reciclagens e treinamentos temáticos.</b></li><li>Criar, manter e evoluir <b>playbooks comerciais, guias operacionais</b>, contorno de objeções, scripts e materiais de enablement, garantindo atualizações recorrentes e <b>fácil acesso de todos</b>.</li><li><b>Apoiar líderes comerciais na adoção correta dos processos</b>, atuando como ponte entre <b>estratégia e execução</b></li><li>Trabalhar em parceria <b>com Sales Ops /CS Ops </b>na conexão entre <b>processos, métricas e dados</b>, garantindo coerência entre o que é definido e o que é medido.</li><li>Apoiar<b> iniciativas de melhoria contínua</b> a partir de feedbacks do time comercial e análises de gargalos operacionais.</li><li>Garantir a<b> padronização das rotinas comerciais</b>, aumentando <b>eficiência operacional,</b> previsibilidade de resultados e <b>qualidade da execução.</b></li><li>Mapear, desenhar, documentar e otimizar os fluxos do time comercial (<b>Lead → Qualificação → Venda → Onboarding → Pós-venda), garantindo clareza de papéis, SLAs e critérios de qualidade.</b></li><li>Atuar como<b> guardião da governança dos processos comerciais</b>, assegurando aderência ao modelo definido e evitando desvios operacionais.</li><li>Definir e manter<b> checklists, rituais e critérios mínimos de qualidade para uso de CRM, pipeline, forecast e cadastros.</b></li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Condução de Treinamentos comerciais</b>: experiência na condução de treinamentos presenciais e/ou remotos, com foco em aplicação prática.</li><li><b>Domínio  de Ferramentas de produtividade e documentação: </b>Google Workspace, Notion, Confluence ou similares.</li><li><b>Mapeamento de processos:</b> domínio de desenho de fluxos (AS IS / TO BE), definição de SLAs, RACI e pontos de controle.</li><li><b>Ferramentas de CRM</b> (HubSpot, Pipedrive, Salesforce ou similares): conhecimento prático de funil, pipeline, forecast, cadastros e regras de uso.</li><li><b>Documentação e playbooks</b>: capacidade de transformar processos complexos em materiais claros, práticos e acionáveis.</li><li><b>Sales Enablement / Sales Ops / RevOps: </b>experiência sólida na estruturação, padronização e governança de processos comerciais.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/foodtosave/49/analista-sales-enablement-senior]]></applyUrl>
-    <companyId><![CDATA[69484180]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[67f5849d-0777-4d5c-9cf7-d3625cfc0703]]></partnerJobId>
     <company><![CDATA[Food To Save]]></company>
     <title><![CDATA[BANCO DE TALENTOS  TECH]]></title>
@@ -48995,6 +48961,47 @@ Organização e autonomia para gerir sua rotina de visitas e resultados.<br /></
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[23e09714-8658-4471-b177-36c169612da8]]></partnerJobId>
+    <company><![CDATA[GS Inima Brasil]]></company>
+    <title><![CDATA[Analista de Engenharia (Cadastro Técnico)]]></title>
+    <posterEmail><![CDATA[ricardo.jovenato@gsinima.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />❇️ Atuação voltada ao desenvolvimento, atualização e gestão de informações técnicas de engenharia, com foco em cadastro técnico, geoprocessamento e apoio a projetos e operações de saneamento. A posição contribui diretamente para a qualidade dos dados, elaboração de análises espaciais, organização de documentação técnica e suporte às áreas operacionais, garantindo precisão, padronização e eficiência nos processos.<br />
+⏱️ <b>Horário:</b> De segunda a sexta-feira, das 08h00 às 18h00 com 1h12 de intervalo/refeição.<br />
+️ <b>Vale Alimentação / Refeição </b>– apoio para suas refeições diárias;<br />
+ <b>Cesta de Natal</b> – um carinho especial no fim do ano;<br />
+ <b>Plano de Saúde</b> – cuidado completo para você;<br />
+ <b>Plano Odontológico</b> – saúde bucal sempre em dia;<br />
+️ <b>Seguro de Vida sem custo</b> – proteção para você e sua família;<br />
+ <b>Vale Transporte</b> – facilidade no deslocamento diário;<br />
+ <b>Auxílio Medicamento</b> – suporte financeiro para tratamentos e prescrições;<br />
+️ <b>Wellhub</b> – acesso a academias e atividades físicas;<br />
+ <b>Pluxee Cuida</b> – apoio psicológico, social, nutricional e consultorias jurídica e financeira.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atualizar e manter o cadastro técnico das redes e unidades operacionais de saneamento, garantindo integridade e padronização;<br />
+Organizar, estruturar e analisar bases de dados georreferenciados, assegurando consistência e qualidade das informações;<br />
+Elaborar mapas temáticos, relatórios técnicos e análises espaciais utilizando QGIS, ArcGIS e AutoCAD;<br />
+Controlar e acompanhar documentação técnica de unidades operacionais, como ETEs, emissários e elevatórias;<br />
+Dar suporte às equipes de campo com informações atualizadas de cadastro técnico e plantas;<br />
+Participar do desenvolvimento de projetos de engenharia, incluindo desenhos técnicos, cálculos e dimensionamentos;<br />
+Realizar levantamentos de recursos necessários para soluções de engenharia, como materiais, tecnologias e custos;<br />
+Acompanhar indicadores e apoiar diagnósticos de riscos relacionados aos processos de engenharia.<br /><br /><b>Requisitos e qualificações</b><br /><br /> Formação: Ensino Superior.<br />
+ Áreas: Engenharia, Geoprocessamento, Agrimensura ou correlatas.<br />
+*️⃣ Experiência com cadastro técnico, geoprocessamento ou atividades similares<br />
+*️⃣ Domínio de QGIS e/ou ArcGIS para manipulação de dados geográficos<br />
+*️⃣ Conhecimento em AutoCAD para edição e atualização de plantas técnicas<br />
+*️⃣ Excel intermediário (tabelas dinâmicas, gráficos e funções analíticas)]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/356/analista-de-engenharia-cadastro-tecnico]]></applyUrl>
+    <companyId><![CDATA[36870042]]></companyId>
+    <city><![CDATA[Vitória]]></city>
+    <state><![CDATA[ES]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[1d1165d2-da5a-4076-a37d-861d7c24489e]]></partnerJobId>
     <company><![CDATA[GS Inima Brasil]]></company>
     <title><![CDATA[Técnico(a) em Segurança do Trabalho PL (Obras)]]></title>
@@ -50987,25 +50994,6 @@ Internos. </li><li>Inglês intermediário a avançado (leitura e escrita)</li></
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdipecarr/2/consultor-de-vendas-rede]]></applyUrl>
     <companyId><![CDATA[1402791]]></companyId>
     <city><![CDATA[Presidente Prudente]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3eaca23b-02c9-40dc-8de2-c808116a193f]]></partnerJobId>
-    <company><![CDATA[CYLK Technologing]]></company>
-    <title><![CDATA[Vaga Noc - Técnico de Redes]]></title>
-    <posterEmail><![CDATA[emattos@cylk.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está prestes a embarcar em uma jornada empolgante e desafiadora, que pode transformar sua carreira na área de tecnologia. Temos uma oportunidade única, ideal para aqueles que buscam se desenvolver em um ambiente dinâmico e inovador. Aqui, cada dia traz novas experiências e a chance de trabalhar com as mais recentes tecnologias de conectividade e comunicação. Buscamos profissionais apaixonados pela resolução de problemas e motivados a fazer a diferença. Ao se juntar à nossa equipe, você terá a oportunidade de colaborar com especialistas da área, aprender continuamente e ser parte de um projeto que realmente importa. Se você deseja alavancar sua trajetória profissional e contribuir para um futuro conectado, venha nos conhecer e dar o próximo passo em sua carreira. Seu talento pode ser a chave para o nosso sucesso.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Habilidades Comportamentais<ul><li>Resolução de Problemas: Capacidade analítica para identificar e corrigir falhas rapidamente (troubleshooting).</li><li>Atenção aos Detalhes: Fundamental para monitorar redes e identificar ameaças.</li><li>Atualização Contínua: Vontade de aprender.</li><li>Trabalho em Equipe e Comunicação: Necessário para relatar riscos e implementar políticas com usuários e gestores. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Certificações Redes: CCNA ou NSE4</li><li>Redes de Computadores: Entendimento sólido de protocolos TCP/IP, roteamento (routing), switching, VLANs e redes sem fio (wireless).</li><li>Sistemas Operacionais: Administração de Windows Server e, crucialmente, Linux (linha de comando).</li><li>Hardware e Infraestrutura: Conhecimento de equipamentos como switches, roteadores.</li><li>Linguagens de Script: Conhecimento básico em Python ou Bash para automação de tarefas.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/recrutamentocylk/8/vaga-noc-tecnico-de-redes]]></applyUrl>
-    <companyId><![CDATA[1410365]]></companyId>
-    <city><![CDATA[Barueri]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -54082,55 +54070,6 @@ Conhecimento básico em informática (pacote Office)</li><li>Disponibilidade par
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[947bd928-826d-4a36-8945-38b93c7ac778]]></partnerJobId>
-    <company><![CDATA[Grupo Vow]]></company>
-    <title><![CDATA[Analista de Dados e Inteligência Artificial]]></title>
-    <posterEmail><![CDATA[simone.britto@grupovow.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional capaz de transformar dados em insights estratégicos e desenvolver soluções em inteligência artificial que impulsionem a tomada de decisão e promovam a evolução dos nossos processos organizacionais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Coletar, organizar, tratar e analisar grandes
-     volumes de dados estruturados e não estruturados;</li>
- <li>Desenvolver modelos de inteligência artificial e
-     machine learning (classificação, regressão, NLP, clustering, etc.);</li>
- <li>Construir dashboards, relatórios e visualizações
-     para apoiar decisões estratégicas;</li>
- <li>Automatizar processos e fluxos de dados utilizando
-     scripts, APIs e pipelines;</li>
- <li>Monitorar performance e acurácia de modelos,
-     ajustando e treinando novas versões conforme necessário;</li>
- <li>Integrar dados de diferentes fontes (bancos
-     SQL/NoSQL, APIs, arquivos, sistemas internos).;</li><li>Documentar processos, modelos, métricas e
-     metodologias utilizadas;</li>
- <li>Atuar em conjunto com áreas de negócio para
-     identificar oportunidades de uso de IA e análises avançadas;</li>
- <li>Implementar boas práticas de governança de dados,
-     segurança e qualidade;</li>
- <li>Participar de projetos de inovação, transformação
-     digital e soluções inteligentes.</li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Formação em Ciência de Dados, Estatística,
-     Engenharia, Sistemas de Informação, ou áreas correlatas;</li>
- <li>Experiência com análise de dados, modelagem
-     estatística ou machine learning;</li>
- <li>Domínio de ferramentas e linguagens como Python,
-     SQL, Pandas, NumPy, Scikit-Learn;</li>
- <li>Experiência com visualização de dados (Power BI,
-     Tableau ou Looker);</li>
- <li>Conhecimento em criação de pipelines e ETL/ELT.</li>
-</ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupovow/21/analista-de-dados-e-inteligencia-artificial]]></applyUrl>
-    <companyId><![CDATA[93390432]]></companyId>
-    <city><![CDATA[Porto Alegre]]></city>
-    <state><![CDATA[RS]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[e46d1955-13f9-4e09-aedc-810198f3c86e]]></partnerJobId>
@@ -61496,6 +61435,36 @@ demais atividades correlatas ao cargo/função.</i></li></ul>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[2e79653d-a571-43bd-94a0-8bd17e9807d1]]></partnerJobId>
+    <company><![CDATA[SERVIÇO SOCIAL DA INDÚSTRIA]]></company>
+    <title><![CDATA[PROFESSOR NÍVEL SUPERIOR EM ENSINO BÁSICO (FUNDAMENTAL II - ARTE) - ESCOLA SESI PRATA]]></title>
+    <posterEmail><![CDATA[veronicagarcia@fiepb.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Exercer a docência em Ensino Infantil, Fundamental e Médio,
+participando de encontros pedagógicos destinados ao planejamento,
+acompanhamento e avaliação do processo de ensino-aprendizagem; Ministrar aulas
+em matérias diversas no SESI e na empresa;</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><br /><ul><li>Ministrar aulas estabelecidas conforme os dias letivos;</li><li>Participar integralmente dos períodos dedicados ao planejamento, à avaliação e ao desenvolvimento profissional;</li><li>Participar da elaboração e execução do projeto político-pedagógico e da proposta pedagógica da escola;</li><li>Elaborar e cumprir seu plano de trabalho (aula) observando a proposta pedagógica desenvolvida;</li><li>Planejar coletivamente e desenvolver atividades voltadas para alunos que apresentam diferentes ritmos de aprendizagem e desempenho escolar insatisfatório;</li><li>Colaborar com as atividades de articulação da escola com as famílias e a comunidade;</li><li>Integrar-se às atividades de organização e gestão da escola;</li><li>Ministrar aulas, efetuando os devidos registros de suas atividades;</li><li>Avaliar o nível de aprendizado do aluno;</li><li>Controlar frequência de alunos;</li><li>Participar de eventos;</li><li>Realizar as demais atividades relacionadas ao cargo/função.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação de Nível Superior Completo em Arte e ou Licenciatura em Pedagogia com especialização em Artes Visuais, Arte ou Mídia.</li><li><strong>Experiência mínima de 6 (seis) meses em docência; </strong></li><li><b>Conhecimentos didático-pedagógicos;</b></li><li><i><strong>Cadastro curricular completo e atualizado na plataforma (<u>Informar nome completo</u>).</strong></i></li></ul><br /><br /><ul><li><u>Remuneração: R$ 20,79 Hora/aula (sem o acrescido de 1/6 conforme legislação)</u></li></ul><br /><br /><b>Período de Inscrições:</b> 24/02/2026 a 01/03/2026 <br /><br /><br /><b>Observações:</b><br />O não preenchimento das informações obrigatórias no momento da inscrição poderá acarretar a desclassificação do candidato. Inscrições realizadas fora do período informado não serão consideradas válidas.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sesipboportunidades/12/professor-nivel-superior-em-ensino-basico-fundamental-ii-arte-escola-sesi-prata]]></applyUrl>
+    <companyId><![CDATA[83949417]]></companyId>
+    <city><![CDATA[Campina Grande]]></city>
+    <state><![CDATA[PB]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[20.79]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[20.79]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4a6ad24c-3c85-4dc5-8521-460b28842deb]]></partnerJobId>
     <company><![CDATA[SERVIÇO SOCIAL DA INDÚSTRIA]]></company>
     <title><![CDATA[PSICÓLOGO EDUCACIONAL - SESI CAT CSO]]></title>
@@ -62863,71 +62832,6 @@ Experiência no uso de <strong>CRM de vendas</strong> (HubSpot, Pipedrive, RD St
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[f148f58f-d076-486f-abcb-52535c3e3ed3]]></partnerJobId>
-    <company><![CDATA[eCOMEX]]></company>
-    <title><![CDATA[Analista de Suporte Técnico| Especialista em PL/SQL]]></title>
-    <posterEmail><![CDATA[lucas.olivato@ecomex.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você é uma pessoa apaixonada por tecnologia e possui um forte desejo de ajudar os outros, temos uma oportunidade incrível para você. Junte-se a uma equipe dinâmica e inovadora, onde seu conhecimento será valorizado e sua habilidade em resolver problemas fará a diferença no dia a dia de nossos clientes. Aqui, você terá a chance de atuar em um ambiente colaborativo, repleto de desafios estimulantes que permitirão seu crescimento e desenvolvimento profissional. Valorizamos a diversidade de ideias e experiências, acreditando que cada voz contribui para o sucesso coletivo. Não perca a chance de se tornar parte de uma organização que investe em seu potencial e cuida de seu bem-estar. Venha empreender uma nova jornada conosco, onde sua expertise será essencial para criar soluções que impactam positivamente a vida das pessoas. Estamos ansiosos para conhecê-lo(a)!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Garantir a satisfação do cliente e o correto funcionamento do sistema, com suporte técnico focado em <strong>PL/SQL</strong>;
-</li>
-<li>
-Minimizar o número de incidentes e melhorar a experiência do cliente na utilização do sistema, através de otimização de <strong>queries e processos PL/SQL</strong>;
-</li>
-<li>
-Atuar em todos os módulos do sistema eCOMEX, tanto na parte funcional quanto técnica, com destaque para <strong>desenvolvimento e manutenção em PL/SQL</strong>;
-</li>
-<li>
-Controlar as entregas ao cliente e manter a qualidade técnica dos pacotes, incluindo <strong>scripts, procedures e reports em PL/SQL</strong>;
-</li>
-<li>
-Reduzir a possibilidade de erros na definição da necessidade e na estimativa do esforço necessário, garantindo a atualização legal do sistema e a integridade das rotinas em <strong>PL/SQL</strong>.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência sólida em <strong>PL/SQL</strong>;
-</li>
-<li>
-Domínio de banco de dados Oracle e escrita de <strong>queries complexas em PL/SQL</strong>;
-</li>
-<li>
-Capacidade de otimizar <strong>procedures, triggers e functions em PL/SQL</strong>;
-</li>
-<li>
-Experiência com <strong>Forms &amp; Reports</strong> será um diferencial;
-</li>
-<li>
-Conhecimento em integração de sistemas via <strong>PL/SQL</strong>;
-</li>
-<li>
-Boa comunicação e perfil analítico;</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasecomex/25/analista-de-suporte-tecnico-especialista-em-pl-sql]]></applyUrl>
-    <companyId><![CDATA[147154]]></companyId>
-    <city><![CDATA[Limeira]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[72d8e51e-0025-43c6-9997-32afbb7b4b19]]></partnerJobId>
-    <company><![CDATA[eCOMEX]]></company>
-    <title><![CDATA[Consultor Técnico PL/SQL (Forms e Reports)]]></title>
-    <posterEmail><![CDATA[lucas.olivato@ecomex.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado por tecnologia e sempre busca soluções criativas para desafios do dia a dia, temos uma oportunidade incrível para você! Venha fazer parte de uma equipe dinâmica e acolhedora, onde sua expertise será valorizada e suas ideias poderão brilhar. Acreditamos que cada colaborador possui um papel fundamental no nosso sucesso coletivo, e por isso, oferecemos um espaço colaborativo, oportunidades de crescimento e desenvolvimento profissional. Se você deseja se unir a nós nessa jornada e ampliar seus horizontes, não perca essa chance! Envie sua candidatura e venha construir uma carreira de sucesso ao nosso lado. Estamos ansiosos para conhecê-lo(a)!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Desenvolver, manter e otimizar aplicações baseadas em Oracle Forms/Reports, APEX e outras tecnologias relacionadas; Colaborar com equipes multidisciplinares para entender requisitos de negócios e traduzi-los em soluções técnicas eficientes;<br />Criar e manter procedimentos armazenados, pacotes PL/SQL e lógica de negócios no banco de dados Oracle; <br />Implementar integrações com sistemas externos por meio de Web Services e XML; <br />Participar de projetos de modernização, migrando aplicações legadas para o Oracle APEX.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Conhecimento sólido em SQL e PL/SQL; <br />Experiência comprovada em desenvolvimento utilizando Oracle Forms/Reports, APEX, Java, XML e Web Services;<br />Familiaridade com modelagem de banco de dados Oracle; <br />Habilidades de resolução de problemas e depuração; <br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasecomex/16/consultor-tecnico-pl-sql-forms-e-reports]]></applyUrl>
-    <companyId><![CDATA[147154]]></companyId>
-    <city><![CDATA[Limeira]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[742604e7-3858-42e9-9ad5-f59a03c62157]]></partnerJobId>
@@ -65771,6 +65675,110 @@ Desejável familiaridade com o sistema LIMS e rotinas de almoxarifado técnico e
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[ecf203e9-66cc-4861-bcc5-92cf08b9ec00]]></partnerJobId>
+    <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
+    <title><![CDATA[TÉCNICO DE EDIFICAÇÕES]]></title>
+    <posterEmail><![CDATA[joyce.rh@ctaengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por acompanhar e fiscalizar a execução de obras, realizando medições, controle de materiais e apoio no cumprimento do cronograma. Atua na conferência dos serviços conforme projetos e normas técnicas, além de dar suporte ao engenheiro na gestão da obra, garantindo qualidade, organização e segurança no canteiro.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Acompanhar e fiscalizar a execução de obras
+</li>
+<li>
+Interpretar projetos arquitetônicos, estruturais e complementares
+</li>
+<li>
+Realizar medições e levantamento de quantitativos
+</li>
+<li>
+Controlar cronograma físico da obra
+</li>
+<li>
+Solicitar e acompanhar compra de materiais
+</li>
+<li>
+Conferir serviços executados conforme normas técnicas
+</li>
+<li>
+Apoiar na elaboração de relatórios técnicos e diários de obra
+</li>
+<li>
+Auxiliar no controle de qualidade e segurança do trabalho
+</li>
+<li>
+Dar suporte ao engenheiro responsável na gestão da obra</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Formação:</strong>
+<ul>
+<li>
+Curso Técnico em Edificações concluído
+</li>
+<li>
+Registro ativo no CFT/CRT (quando aplicável)</li></ul><br /><br />
+<strong>Experiência:</strong>
+<ul>
+<li>
+Experiência em acompanhamento de obras
+</li>
+<li>
+Vivência com medições, controle de materiais e leitura de projetos</li></ul><br /><br />
+<strong>Conhecimentos técnicos:</strong>
+<ul>
+<li>
+Interpretação de projetos arquitetônicos e complementares
+</li>
+<li>
+Noções de planejamento e controle de obras
+</li>
+<li>
+Conhecimento em levantamento de quantitativos
+</li>
+<li>
+Pacote Office (principalmente Excel)
+</li>
+<li>
+AutoCAD (diferencial)</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/155/tecnico-de-edificacoes]]></applyUrl>
+    <companyId><![CDATA[14023532]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[8c6e6cea-a467-454b-a668-57e58ccdffc8]]></partnerJobId>
+    <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
+    <title><![CDATA[ENGENHEIRO DE OBRAS PLENO (infraestrutura)]]></title>
+    <posterEmail><![CDATA[joyce.rh@ctaengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por planejar, coordenar e acompanhar a execução de obras de infraestrutura (terraplenagem, drenagem, pavimentação, saneamento e urbanização), garantindo o cumprimento de prazos, custos, qualidade e normas técnicas. Atua na gestão de equipes, controle de cronograma físico-financeiro, medições, contratação de serviços e interface com fornecedores e clientes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gestão de Planejamento e Metas </li><li> Gestão de Contratos e Suprimentos Estratégicos</li><li>Engenharia de Custos e Orçamentação</li><li>Engenharia Consultiva e Soluções Técnica</li></ul><ul>
+</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Formação:</strong><br /><ul><li>Graduação em Engenharia Civil</li><li>Registro ativo no CREA</li></ul><br /><br /><strong>Experiência:</strong>
+<ul>
+<li>
+Experiência comprovada em obras de infraestrutura (terraplenagem, drenagem, pavimentação, saneamento, redes de água/esgoto, urbanização)
+</li>
+<li>
+Vivência em gestão e acompanhamento de obras
+</li>
+<li>
+Experiência com controle de cronograma físico-financeiro
+</li>
+<li>
+Atuação com medições, orçamentos e contratação de serviços</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/153/engenheiro-de-obras-pleno-infraestrutura]]></applyUrl>
+    <companyId><![CDATA[14023532]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[1f3a8f3b-4d68-4a3d-b520-436a5ccb8702]]></partnerJobId>
     <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
     <title><![CDATA[ENGENHEIRO DE OBRAS JUNIOR (infraestrutura)]]></title>
@@ -66098,6 +66106,33 @@ do serviço prestado.<br /><br /><b>Requisitos e qualificações</b><br /><br />
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[131168b7-4905-4ae8-8c88-26e76c699945]]></partnerJobId>
+    <company><![CDATA[Ícone Transportes]]></company>
+    <title><![CDATA[Motorista 3/4]]></title>
+    <posterEmail><![CDATA[adm@iconetransportes.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade que oferece estabilidade e crescimento em sua carreira, temos uma proposta empolgante para você! Estamos em busca de profissionais comprometidos e dedicados que desejam fazer parte de uma equipe dinâmica e respeitável. Aqui, valorizamos a pontualidade, o trabalho em equipe e a determinação, características essenciais para quem deseja contribuir para um ambiente de trabalho positivo. Ao se juntar a nós, você terá a chance de desenvolver suas habilidades, ampliar seus conhecimentos e construir uma trajetória profissional de sucesso. Não perca a oportunidade de fazer parte de um time que acredita no potencial de cada colaborador e que investe no seu desenvolvimento. Venha se candidatar e dê o próximo passo rumo à sua realização profissional!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar o transporte de mercadorias e materiais conforme as rotas estabelecidas.<br /> - Garantir a segurança e a conservação da carga durante o transporte.<br /> - Reportar ao responsável qualquer necessidade de reparo do veiculo.<br /> - Cumprir com os prazos de entrega, mantendo a organização das rotas.<br /> - Atender às normas de trânsito e às políticas da empresa relacionadas à segurança e processos internos.<br /> - Registrar e controlar a jornada de trabalho e a quilometragem percorrida.<br /> - Comunicar-se com a equipe operacional para informar sobre eventuais imprevistos.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Possuir carteira de motorista categoria D válida.<br /> - Experiência anterior como motorista.<br /> - Conhecimento em rotas e trajetos urbanos e rurais.<br /> - Habilidade em dirigir veículos de porte médio.<br /> - Boa comunicação e relacionamento interpessoal.<br /> - Disponibilidade para viagens.<br /> - Conhecimento básico em mecânica de veículos.<br /> - Comprometimento com prazos e segurança nas entregas.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/iconetransportesvagas/19/motorista-3-4]]></applyUrl>
+    <companyId><![CDATA[100539778]]></companyId>
+    <city><![CDATA[Marituba]]></city>
+    <state><![CDATA[PA]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1677.66]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1677.66]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[17e9e89b-dcea-4ea5-a151-e559a389c60c]]></partnerJobId>
@@ -70928,6 +70963,25 @@ avançado, aplicado a controles, relatórios e análises operacionais.</li></ul>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[d7fcdb32-d0d4-4cbf-8a3c-aa902b03977e]]></partnerJobId>
+    <company><![CDATA[Real Distribuidora e Logística Ltda]]></company>
+    <title><![CDATA[Auxiliar de Estoque | DIA / NOITE]]></title>
+    <posterEmail><![CDATA[selecao@realdec.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de um ambiente colaborativo, onde o aprendizado e o crescimento são valorizados, esta é a sua chance.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Organização, separação, conferência de mercadorias, carga e descarga, zelar e manter organizado o ambiente de trabalho.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino Fundamental;<br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasrealdistibuidora/11/auxiliar-de-estoque-dia-noite]]></applyUrl>
+    <companyId><![CDATA[33236465]]></companyId>
+    <city><![CDATA[Aparecida de Goiânia]]></city>
+    <state><![CDATA[GO]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[e0ad716d-191a-4d83-a529-2bcd8875c0e4]]></partnerJobId>
     <company><![CDATA[Real Distribuidora e Logística Ltda]]></company>
     <title><![CDATA[Mecânico de Caminhão]]></title>
@@ -70959,33 +71013,6 @@ avançado, aplicado a controles, relatórios e análises operacionais.</li></ul>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6d2698e1-a632-40d5-8e1c-60c3c506373f]]></partnerJobId>
-    <company><![CDATA[Real Distribuidora e Logística Ltda]]></company>
-    <title><![CDATA[Movimentador de Mercadorias]]></title>
-    <posterEmail><![CDATA[selecao@realdec.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas dinâmicas e motivadas para se juntarem à nossa equipe. Se você está em busca de um ambiente colaborativo, onde o aprendizado e o crescimento são valorizados, esta é a sua chance. <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Organização, separação, conferência de mercadorias, carga e descarga, zelar e manter organizado o ambiente de trabalho.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino Fundamental;<br />- Não é necessário experiência anterior;<b></b>- Disponibilidade de horário;<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasrealdistibuidora/4/movimentador-de-mercadorias]]></applyUrl>
-    <companyId><![CDATA[33236465]]></companyId>
-    <city><![CDATA[Aparecida de Goiânia]]></city>
-    <state><![CDATA[GO]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[2300.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1613.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
