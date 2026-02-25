@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 24 Feb 2026 23:16:56 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Feb 2026 00:16:06 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3020]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3017]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -54255,91 +54255,6 @@ Ciências Contábeis ou áreas correlatas.</li><li>Experiência
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[534d568f-5e5d-41b1-b7ef-db14afc093b6]]></partnerJobId>
-    <company><![CDATA[LigueLead]]></company>
-    <title><![CDATA[Pessoa Desenvolvedora Back-end PHP – Sênior]]></title>
-    <posterEmail><![CDATA[luannaiozzi@liguelead.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Pessoa Desenvolvedora Back-end PHP – Sênior<br /><br /><br />Estamos em busca de uma Pessoa Desenvolvedora Back-end PHP – Sênior. Procuramos alguém com perfil colaborativo, excelente comunicação e habilidade para se adaptar a diferentes desafios técnicos e organizacionais.<br />Você será peça-chave no desenvolvimento de novas funcionalidades, garantindo qualidade e eficiência, além de colaborar com a equipe na definição de boas práticas. Se você curte diversão, energia, alegria, desafios criativos e é uma pessoa organizada, resolutiva, detalhista e orientada a resultados, vem com a gente!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver e manter aplicações back-end em PHP 8+, seguindo boas práticas de arquitetura e PSR (PSR-1, PSR-4, PSR-12).</li><li>Criar, documentar e integrar APIs RESTful de alta performance utilizando Codeigniter.</li><li>Projetar e otimizar modelagem de dados em MySQL, garantindo queries performáticas e escalabilidade.</li><li>Utilizar Eloquent e migrações para manipulação eficiente do banco de dados.</li><li>Versionar código com Git, adotando workflows (GitFlow, pull requests, code reviews) e boas práticas de versionamento semântico.</li><li>Trabalhar com Docker e docker-compose para ambientes consistentes e reproduzíveis.</li><li>Garantir qualidade via testes automatizados (unitários, integração e end-to-end) usando PHPUnit ou Pest, além de mocks/stubs.</li><li>Implementar mecanismos de cache (Redis) e filas de mensagens (RabbitMQ) para performance e escalabilidade.</li><li>Monitorar e depurar aplicações em produção com Xdebug, Datadog, New Relic.</li><li>Implementar CI/CD para deploy automatizado em AWS (EC2/ECS, RDS, S3, ElastiCache) ou Kubernetes.</li><li>Colaborar com times multidisciplinares (front-end, DevOps, QA) em metodologias ágeis (Scrum/Kanban), participando de planning, daily e retrospectivas.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida com PHP 8+ aplicando padrões de projeto e arquitetura Clean.</li><li>Domínio de Codeigniter para construção de APIs: rotas, middlewares, validação (Form Requests/Validators), tratamento de erros, autenticação/autorização.</li><li>Gerenciamento de dependências com Composer, versionamento semântico e controle rigoroso de dependências.</li><li>Testes automatizados: PHPUnit/Pest; testes de integração (HTTP, banco), uso de fakes/mocks; cobertura e pirâmide de testes.</li><li>Escalabilidade e Desempenho: cache com Redis, filas (RabbitMQ), otimização de consultas (índices, partições, profiling).</li><li>Performance e Debugging: análise com Xdebug, observabilidade com Datadog.</li><li>Integração Contínua e Deploy: prática com CI/CD e deploy em AWS (EC2/ECS, RDS, S3, CloudWatch) ou Kubernetes.</li><li>Docker avançado: imagens otimizadas, multi-stage builds e configuração de docker-compose para dev e prod.</li><li>Banco relacional avançado: MySQL.</li><li>APIs performáticas e seguras: experiência com API Gateway, OAuth2/JWT, versionamento de APIs, rate limiting e idempotência.</li><li>Qualidade de código: PHPStan/Psalm, PHPCS, análise estática, revisão de código e convenções de estilo.</li><li>Git profundo: GitFlow, rebase vs merge, cherry-pick, estratégias de branching para times grandes.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sejaliguer/39/pessoa-desenvolvedora-back-end-php-senior]]></applyUrl>
-    <companyId><![CDATA[79366897]]></companyId>
-    <city><![CDATA[Campinas]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[ff628758-522d-47c5-ac83-78ffade5ed21]]></partnerJobId>
-    <company><![CDATA[LigueLead]]></company>
-    <title><![CDATA[BDR Pleno]]></title>
-    <posterEmail><![CDATA[guilhermebernardino@liguelead.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Ser incansável na prospecção ativa: telefone, e-mail, WhatsApp e LinkedIn serão suas principais armas; </li><li>Ter comunicação estratégica, capaz de abrir portas e despertar interesse já no primeiro contato; </li><li>Aprender rápido, ajustar a rota e testar novas formas de conquistar leads; </li><li>Manter organização impecável no CRM — porque grandes vendedores também vencem nos detalhes; </li><li>Encarar o “não” como combustível para buscar o próximo “sim”; </li><li>Ser movido(a) por metas, celebrando cada conquista e sempre mirando o próximo nível; </li><li>Pensar como estrategista: entender o mercado, o cliente e personalizar cada abordagem; </li><li>Ter espírito de equipe, porque aqui competimos para ganhar juntos. </li></ul><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar na linha de frente da prospecção, sendo protagonista na abertura de novos negócios; </li><li>Desenvolver habilidades de comunicação e negociação para gerar conexões de alto valor; </li><li>Trabalhar em um ambiente dinâmico e orientado a metas, com desafios diários e oportunidades de aprendizado; </li><li>Ter mentalidade de crescimento e foco em resultados, com determinação para superar metas; </li><li>Aprender continuamente sobre o mercado, clientes e tendências, aplicando inteligência comercial; </li><li>Participar de um time inovador, que valoriza iniciativa, autonomia e protagonismo; </li><li>Crescer profissionalmente em uma empresa que promove talentos e reconhece performance. </li></ul><br /><ul><li></li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prévia como BDR, (mínimo 2 anos), preferencialmente em vendas B2B e empresas de tecnologia/SaaS;</li><li>Comunicação afiada (verbal e escrita);</li><li>Organização, resiliência e foco total em metas.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sejaliguer/33/bdr-pleno]]></applyUrl>
-    <companyId><![CDATA[79366897]]></companyId>
-    <city><![CDATA[Campinas]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[5d069355-177b-4e9a-9a47-1502811a8201]]></partnerJobId>
-    <company><![CDATA[LigueLead]]></company>
-    <title><![CDATA[Engenheiro de Dados]]></title>
-    <posterEmail><![CDATA[luannaiozzi@liguelead.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><strong>Descrição da posição</strong><br />
-Estamos em busca de um Engenheiro de Dados para estruturar e manter nossa arquitetura de dados. Este profissional será responsável por projetar e otimizar pipelines de ingestão, transformação e armazenamento de dados, garantindo disponibilidade, escalabilidade e segurança das informações para toda a empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Responsabilidades</strong>
-<ul>
-<li>
-Projetar, desenvolver e manter pipelines de ETL/ELT.
-</li>
-<li>
-Integrar dados de múltiplas fontes (APIs, sistemas internos, bancos de dados).
-</li>
-<li>
-Construir e otimizar data lakes e data warehouses.
-</li>
-<li>
-Garantir a governança, qualidade e segurança dos dados.</li><li>Colaborar com analistas e cientistas de dados para facilitar o acesso às informações.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Requisitos</strong>
-<ul>
-<li>
-Experiência em linguagens como <strong>SQL e Python</strong> (ou Scala).
-</li>
-<li>
-Conhecimento em ferramentas de processamento de dados (Spark, Kafka, Hadoop é diferencial).
-</li>
-<li>
-Experiência com bancos relacionais e não-relacionais.
-</li>
-<li>
-Vivência em cloud (AWS, GCP ou Azure).
-</li>
-<li>
-Boas práticas de versionamento (Git) e metodologias ágeis.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sejaliguer/35/engenheiro-de-dados]]></applyUrl>
-    <companyId><![CDATA[79366897]]></companyId>
-    <city><![CDATA[Campinas]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[e0073506-0917-4438-adfb-10ac73695ce4]]></partnerJobId>
     <company><![CDATA[Brudam]]></company>
     <title><![CDATA[Analista de Customer Experience Pleno]]></title>
@@ -56882,55 +56797,15 @@ Analytics e indicadores de performance.</li></ul>]]></description>
     <company><![CDATA[Sociedade Brasileira de Cardiologia]]></company>
     <title><![CDATA[Assistente de Comunicação em Marketing - PJ - SP]]></title>
     <posterEmail><![CDATA[recursoshumanos@cardiol.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Sociedade Brasileira de Cardiologia está em busca de um profissional PJ para atuar na área de comunicação e marketing.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />ü 
-Atualizar e publicar conteúdo no Portal SBC, Prevenção e Redes
-Sociais.
-
-ü 
-Revisar peças e conteúdos publicados no Portal.
-
-ü 
-Controlar o pagamento de fornecedores.
-
-ü 
-Preparar a pauta e o cronograma para as edições do Jornal SBC.
-
-ü 
-Enviar e-mails com pedido de sugestões de notas para todas as
-regionais, departamento e grupos de estudo da SBC.
-
-ü 
-Receber as matérias da assessoria de imprensa e enviar as mesmas
-para revisão.
-
-ü 
-Organizar o conteúdo das matérias enviadas pela assessoria de
-imprensa e liberar para a agência de comunicação.
-
-ü 
-Revisar o conteúdo pronto para publicação.
-
-ü 
-Acompanhar o processo da gráfica e de entrega ao associado.
-
-ü 
-Acompanhar o processo da cobertura fotográfica dos Congressos e
-produção do Jornal Diário do Congresso.
-
-ü 
-Dar suporte a assessoria de imprensa durante a realização dos
-congressos.
-
-ü 
-Preparar Newsletters e enviar aos associados da SBC.
-
-ü 
-Controlar o Sistema de Envio e Julgamento de Temas Livres de todos
-os Departamentos Científicos e Sociedades Regionais da SBC.
-
-ü 
-Revisar as publicações do Jornal SBC nas plataformas móveis (Ipad,
-Android e Iphone).<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Superior áreas de Administração, Comunicação, Jornalismo e Publicidade<br />Pacote Office<br />Excel intermediário <br /><br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Sociedade Brasileira de Cardiologia está em busca de um profissional PJ para atuar na área de comunicação e marketing.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atualizar e publicar conteúdo no Portal SBC, Prevenção e Redes
+Sociais.Revisar peças e conteúdos publicados no Portal.<br />Controlar o pagamento de fornecedores.<br />Preparar a pauta e o cronograma para as edições do Jornal SBC.<br />Enviar e-mails com pedido de sugestões de notas para todas as
+regionais, departamento e grupos de estudo da SBC.<br />Receber as matérias da assessoria de imprensa e enviar as mesmas
+para revisão.<br />Organizar o conteúdo das matérias enviadas pela assessoria de
+imprensa e liberar para a agência de comunicação.<br />Revisar o conteúdo pronto para publicação.<br />Acompanhar o processo da gráfica e de entrega ao associado.<br />Acompanhar o processo da cobertura fotográfica dos Congressos e
+produção do Jornal Diário do Congresso.<br />Dar suporte a assessoria de imprensa durante a realização dos
+congressos.<br />Preparar Newsletters e enviar aos associados da SBC.<br />Controlar o Sistema de Envio e Julgamento de Temas Livres de todos
+os Departamentos Científicos e Sociedades Regionais da SBC.<br />Revisar as publicações do Jornal SBC nas plataformas móveis (Ipad,
+Android e Iphone).<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Superior áreas de Administração, Comunicação, Jornalismo e Publicidade<br />Pacote Office<br />Excel intermediário <br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sbc/8/assistente-de-comunicacao-em-marketing-pj-sp]]></applyUrl>
     <companyId><![CDATA[72814205]]></companyId>
     <city><![CDATA[São Paulo]]></city>
