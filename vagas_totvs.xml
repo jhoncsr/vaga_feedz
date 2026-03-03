@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 03 Mar 2026 19:23:19 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Mar 2026 20:14:26 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3117]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3115]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -872,6 +872,60 @@ tecnologia.</li></ul><br />]]></description>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[4b655064-0f8f-45ca-8e32-cb703afa7cf8]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Serviços] Analista Júnior De Serviços Cloud]]></title>
+    <posterEmail><![CDATA[cah.prevato@ext.totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Realizar o atendimento de suporte à infraestrutura dos ambientes dos clientes, garantindo a estabilidade, disponibilidade e desempenho dos serviços, contribuindo diretamente para a satisfação dos clientes atendidos pela operação Cloud.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
+<li>
+Realizar o atendimento aos ambientes dos clientes Cloud por meio dos canais TOTVS, resolvendo demandas de baixa complexidade relacionadas à infraestrutura;
+</li>
+<li>
+Revisar e classificar os tickets, quando necessário, conforme a categoria adequada e de acordo com o processo definido, visando o cumprimento das metas estabelecidas;
+</li>
+<li>
+Registrar as solicitações dos clientes com todas as evidências e detalhamentos necessários no sistema de atendimento, garantindo visibilidade para todos os envolvidos;
+</li>
+<li>
+Avaliar os tickets abertos pelos clientes e reclassificar ou categorizar, quando necessário, seguindo os processos documentados pela área para correta adequação da demanda;
+</li>
+<li>
+Fornecer status das demandas em andamento, quando solicitado, por meio dos canais de atendimento (telefone, e-mail ou sistema);
+</li>
+<li>
+Escalonar para o próximo nível as solicitações ou incidentes que não evoluírem dentro do prazo estimado pela coordenação, registrando incidente e/ou problema na ferramenta de atendimento, com detalhamento das ações realizadas e resultados obtidos;
+</li>
+<li>
+Contribuir para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação, entre outros) e para o alcance das metas da área, executando as demandas conforme os procedimentos padrões definidos em Cloud;
+</li>
+<li>
+Alertar a coordenação e a liderança sobre potenciais riscos ou crises em clientes, registrando tickets conforme o procedimento interno estabelecido pela área.</li></ul><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><strong>Formação:</strong> Graduação nas áreas de Tecnologia da Informação ou áreas afins;
+</li>
+</ul>
+<strong>Conhecimentos específicos:</strong>
+<ul>
+<li>
+Administração de ambientes relacionados ao produto TOTVS – nível básico;
+</li>
+<li>
+Infraestrutura e Datacenter – nível básico;
+</li>
+<li>
+Infraestrutura de nuvens públicas – nível básico.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8932/servicos-analista-junior-de-servicos-cloud]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[cedb232b-dcc9-4f61-9001-60d7a7f3fe1d]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[Especialista I De Banco De Dados]]></title>
@@ -1060,10 +1114,10 @@ Conhecimento intermediário em produtos TOTVS (desejável).</li></ul><br /><br /
   <job>
     <partnerJobId><![CDATA[19f37e55-fd42-4080-a810-4a60efc9c744]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[Especialista II De Infraestrutura De Cloud]]></title>
+    <title><![CDATA[[Infra] Especialista II De Infraestrutura De Cloud]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Arquitetar e evoluir a infraestrutura da plataforma de IA da Cloud TOTVS de forma segura, escalável e sustentável, assegurando previsibilidade operacional, eficiência financeira e baixo acoplamento tecnológico, de modo a sustentar o crescimento contínuo dos serviços de inferência e dos produtos de IA da companhia.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Arquitetar e evoluir a infraestrutura de inferência e suporte a treinamento e fine-tuning de modelos, com abordagem <strong>GPU-first</strong>, considerando ambientes on-premises, cloud e serviços externos quando aplicável.</li><li>Definir a arquitetura do ambiente, incluindo topologias de rede, isolamento de workloads, alta disponibilidade, capacidade e resiliência.</li><li>Planejar e executar a implantação da plataforma de IA, garantindo compatibilidade entre hardware, sistema operacional, drivers, stacks CUDA (ou equivalentes), Kubernetes e plataformas de inferência.</li><li>Operar e sustentar a plataforma de inferência em produção, assegurando disponibilidade, desempenho e continuidade operacional (em escopo de arquitetura estratégica).</li><li>Apoiar o planejamento e a execução de ações de melhoria decorrentes de incidentes complexos envolvendo GPUs, Kubernetes, redes, storage e workloads de inferência.</li><li>Aplicar práticas de SRE, incluindo definição e acompanhamento de SLOs, SLIs, error budgets e gestão de incidentes.</li><li>Operar e evoluir stacks de inferência comerciais e open source (ex.: NVIDIA AI Enterprise, Triton, vLLM, KServe), garantindo portabilidade e mitigação de lock-in.</li><li>Definir e padronizar o uso de serviços de inferência quando aplicável (ex.: Triton, NIM).</li><li>Arquitetar e operar clusters Kubernetes para workloads de IA, com foco em isolamento multi-tenant, GPU scheduling, concorrência, filas, backpressure e escalabilidade.</li><li>Implementar observabilidade full stack, abrangendo infraestrutura, GPUs, Kubernetes e serviços de inferência.</li><li>Garantir visibilidade sobre consumo de recursos, capacidade, riscos operacionais e impacto financeiro das cargas de IA.</li><li>Apoiar processos de capacity planning e planejamento orçamentário, avaliando trade-offs entre soluções comerciais e open source.</li><li>Integrar práticas de DevSecOps desde a concepção até a operação da plataforma.</li><li>Garantir conformidade com políticas de segurança, auditoria, controle de acesso e segregação de ambientes.</li><li>Disseminar padrões técnicos, boas práticas e conhecimento por meio de documentação estruturada e mentorias técnicas.</li><li>Apoiar tecnicamente fóruns internos e processos decisórios relacionados à infraestrutura de IA.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Experiência </strong><ul><li>Experiência mínima de 5 anos em infraestrutura de TI, cloud ou plataformas distribuídas, com atuação em ambientes críticos.</li><li>Experiência comprovada em arquitetura e operação de sistemas distribuídos, preferencialmente com workloads de dados, analytics ou IA.</li><li>Vivência mínima de 3 anos em equipes multidisciplinares, interagindo com times de produto, dados, segurança e arquitetura.</li></ul><strong>Formação Acadêmica</strong><ul><li>Graduação em Tecnologia da Informação, Engenharia, Ciência da Computação ou áreas correlatas.</li><li>Pós-graduação ou MBA em Arquitetura de Software, Cloud Computing, Sistemas Distribuídos, Segurança da Informação ou áreas afins (desejável).</li></ul><strong>Idiomas</strong><ul><li>Inglês avançado para leitura técnica, escrita e conversação, com capacidade de participar de discussões técnicas e estratégicas.</li></ul><strong>Certificações (diferenciais)</strong><ul><li>Certificações relacionadas a Kubernetes, Cloud Pública e Infraestrutura como Código (IaC).</li></ul><strong>Conhecimentos Específicos / Habilidades</strong><ul><li>Domínio de sistemas distribuídos, incluindo concorrência, balanceamento de carga, isolamento de workloads, filas e backpressure.</li><li>Experiência sólida em Kubernetes, incluindo ambientes gerenciados (EKS, GKE, AKS), scheduling avançado e isolamento multi-tenant.</li><li>Conhecimento avançado em ambientes de missão crítica, com foco em alta disponibilidade, resiliência e continuidade operacional.</li><li>Domínio de arquitetura de redes aplicadas a cloud e Kubernetes (TCP/IP, DNS, Load Balancers, Firewalls, SDN).</li><li>Domínio na aplicação de soluções de storage para workloads I/O intensive em Kubernetes e ambientes de grande escala.</li><li>Experiência com serviços de nuvem pública (AWS, Azure e/ou GCP) e entendimento do modelo de responsabilidade compartilhada.</li><li>Domínio de observabilidade (métricas, logs e traces) aplicada a infraestrutura e plataformas de IA.</li><li>Experiência com Infraestrutura como Código (IaC) e automação.</li><li>Conhecimento aplicado em práticas de DevSecOps e SRE.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8762/especialista-ii-de-infraestrutura-de-cloud]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8762/infra-especialista-ii-de-infraestrutura-de-cloud]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -2857,10 +2911,10 @@ produtos e serviços TOTVS.<br /><br /><br /><br /><b>Responsabilidades e atribu
   <job>
     <partnerJobId><![CDATA[5450bcb1-6fa9-47ad-9398-194dfb20b667]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Executivo de Soluções de Negócios-Canais]]></title>
+    <title><![CDATA[[Vendas] Gerente de Contas Pleno - Canais]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Responsável pela gestão da carteira de clientes e canais. Deve atuar como um mentor, com foco no desenvolvimento de canais com alta performance de vendas, qualidade nas entregas e no relacionamento com o cliente.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Garantir o atendimento às cláusulas contratuais de homologação de canais, orientando a execução das atividades propostas, com validação e acompanhamento contínuo;<br />● Assegurar a disseminação das informações corporativas, como conteúdos relacionados à produtos,<br />campanhas comerciais, código de conduta e ética e orientações sobre uso das marcas TOTVS;<br />● Replicar treinamentos e eventos promovidos pela TOTVS, analisando as tendências de mercado e promovendo os temas por meio de ações junto aos canais, a fim de aumentar continuamente o pipeline de vendas de sua responsabilidade.<br />● Garantir a qualificação e homologação de novos canais de acordo com o perfil e avaliação de potencial das empresas candidatas a CNT TOTVS;<br />● Garantir o processo de notificação e desomologação dos canais que descumprirem as regras pré-estabelecidas ou que apresentem baixa performance;<br />● Atender e acompanhar o atendimento da carteira de clientes ativos para garantir a satisfação dos clientes, com foco em retenção dos clientes, renovação e expansão dos contratos.<br />● Direcionar e acompanhar a evolução da solução de ocorrências ou demandas críticas identificadas no cliente, além de gerenciar conflitos e propor melhorias de processo junto às áreas internas na TOTVS;<br />● Acompanhar as oportunidades de negócio existentes e gerir e reportar resultados de forecast e pipeline para a companhia através da ferramenta de CRM.<br />● Analisar relatórios e indicadores de performance de vendas dos canais, com foco em aplicar ações de melhoria nos processos; bem como gestão dos Planos de ação com foco em desvio de indicadores.<br />● Desenvolver abordagens comerciais por meio de soluções cross voltadas aos segmentos de atuação<br />que propiciem a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS.<br />● Estar atualizado com as tendências do segmento de atuação, buscando novos modelos de negócios pautados em tecnologia;<br />● Atender os leads gerados pela área de Negócios e Prospecção no ciclo completo de vendas;<br />● Realizar o pós-venda junto aos clientes TOTVS, com baixo nível de orientação e supervisão, garantindo<br />a satisfação e retenção do cliente, além de gerar novas oportunidades.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo; </li><li>Vivência com vendas complexas e consultivas B2B de software de tecnologia e ERP;</li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li>Habilidade de vendas e negociação; </li><li>Organização e proatividade;</li><li>Disponibilidade para atuar de forma híbrida. </li><li>Pacote Office – Excel e PowerPoint;</li><li>Pacote Google Workspace avançado;</li><li>Ferramentas de BI;</li><li>CRM – desejável;</li><li>Prospecção outbound;</li><li>Vendas Consultivas;</li><li>Metodologia de Atendimento;</li><li>Mercado e Segmento de atuação.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8923/vendas-executivo-de-solucoes-de-negocios-canais]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8923/vendas-gerente-de-contas-pleno-canais]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Campinas]]></city>
     <state><![CDATA[SP]]></state>
@@ -3361,7 +3415,7 @@ proporcionar experiências positivas aos nossos clientes, nacionais e internacio
   <job>
     <partnerJobId><![CDATA[0364ccdf-8ee1-4d9a-8c8d-92628eaf984b]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[suporte] Analista de Suporte Técnico Pleno - Protheus | TI]]></title>
+    <title><![CDATA[[Suporte] Analista de Suporte Técnico Pleno - Protheus | TI]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Prestar o suporte técnico aos nossos clientes provendo soluções com empatia, proatividade e garantindo a satisfação dos clientes com os produtos e serviços TOTVS.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar o atendimento aos clientes, por meio dos canais TOTVS, esclarecendo suas dúvidas sobre assuntos referentes ao sistema, registrando sugestões e incidentes;</li><li>Prestar o atendimento, por meio de canais de abertura de tickets, de acordo com o processodefinido e visando ao atendimento e às metas estabelecidas;</li><li>Registrar, em sistema, a solicitação do cliente com todas as evidências (tickets abertos) de detalhamento necessárias para todos os impactados;</li><li>Triar os tickets abertos pelo cliente e reclassificá-los ou categorizá-los, quando necessário, pelo tipo de ticket ou status do atendimento;</li><li>Fornecer status das demandas em evolução, quando solicitado pelo cliente, por meio de canais de atendimento (telefônico, por e-mail, sistema);</li><li>Posicionar a liderança sobre as solicitações ou incidentes que não forem evoluídos, após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área;</li><li>Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e outros) quanto para o resultado/metas da área;</li><li>Alertar a coordenação e atuar em potenciais riscos ou crises em clientes;</li><li>Manter atualizados FAQs/banco de conhecimento com as soluções definidas e repassadas aos clientes;</li><li>Buscar a evolução e a disseminação do conhecimento para prestar o atendimento com qualidade;</li><li>Contribuir de forma efetiva para a melhoria dos processos, sendo referência para o time;</li><li>Ser referência na negociação com o cliente em situações críticas;</li><li>Realização de consultorias de suporte ou técnicas aos clientes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior completa na área de TI e pós-graduação (desejável); </li><li>Lógica de programação advpl (desejável) e noções de banco de dados;</li><li>Atuação prévia na área de Tecnologia;</li><li>Vivência em atendimento ao cliente; </li><li>Vivência na área de suporte técnico;</li><li>Pró-atividade e trabalho em equipe;</li><li>Conhecimento em processos de negócios ERP Protheus e módulo CRM.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8775/suporte-analista-de-suporte-tecnico-pleno-protheus-ti]]></applyUrl>
@@ -4731,25 +4785,6 @@ Tem conhecimento em ADVPL, SQL Server e ferramentas TOTVS, incluindo configuraç
     <posterEmail><![CDATA[juliana.masilva@ext.totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Contribuir diretamente na implantação e sustentação de software em clientes e projetos internos da TOTVS, visando garantir a satisfação do cliente e o sucesso do projeto em que está alocado.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar o levantamento e análise de processos dos clientes, propondo soluções aderentes ao Protheus nos módulos de Compras, Estoque e Custos, Faturamento, Financeiro, Contabilidade Gerencial, Fiscal, Patrimônio, Livros fiscais, Logística e Cadeia de suprimentos.</li><li>Conduzir parametrizações avançadas e configurações do sistema Protheus;</li><li>Planejar e executar testes funcionais e integrados, homologações e treinamentos com usuários-chave;</li><li>Atuar em projetos de implantação com foco em eficiência, qualidade e prazos;</li><li>Acompanhar o go-live e prestar suporte pós-implantação;</li><li>Documentar processos, configurações e procedimentos operacionais;</li><li>Colaborar com times técnicos (desenvolvimento, infra e suporte) e área interna do cliente.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em administração, logística ou áreas correlatas;</li><li>Experiência comprovadas em implantação do sistema TOTVS Protheus, especialmente nos módulos de Logística e Cadeia de suprimentos;</li><li>Domínio dos processos logísticos e suas interações com as áreas financeiras e fiscais;</li><li>Conhecimento intermediário ou avançado em SQL;</li><li>Disponibilidade para viagens.</li></ul><br /><br /><br /><br /><br /><br /><br /><ul><br /></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/4906/pessoa-analista-de-implantacao-protheus-backoffice]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[00e7c613-34d3-4881-98ee-75840948982f]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[Analista de Suporte Técnico Sênior (Protheus | Backoffice)]]></title>
-    <posterEmail><![CDATA[g.albuquerque@ext.totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Prestar suporte técnico especializado aos clientes TOTVS, atuando na resolução de chamados complexos dos módulos de Backoffice do ERP Protheus com empatia, agilidade e visão analítica. Contribuir para a estabilidade e evolução contínua dos ambientes, promovendo a melhor experiência para quem utiliza nossos produtos e serviços. A pessoa nesse cargo será responsável por atuar de forma colaborativa com outras áreas, compartilhando conhecimento, propondo melhorias nos processos e sendo referência técnica na condução de atendimentos com qualidade e foco em resultado.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar o atendimento aos clientes, por meio dos canais TOTVS, esclarecendo suas dúvidas sobre assuntos de alta complexidade referente ao sistema, registrando sugestões e incidentes; </li><li>Prestar o atendimento, por meio de canais de abertura de tickets, de acordo com o processo definido e visando ao atendimento e às metas estabelecidas; </li><li>Registrar, em sistema, a solicitação do cliente com todas as evidências (tickets abertos) de detalhamento necessárias para todos os impactados;</li><li>Triar os tickets abertos pelo cliente e reclassificá-los ou categorizá-los, quando necessário, pelo tipo de ticket ou status do atendimento; </li><li>Fornecer status das demandas em evolução, quando solicitado pelo cliente, por meio de canais de atendimento (telefônico, por e-mail, sistema); </li><li>Posicionar a liderança sobre as solicitações ou incidentes que não forem evoluídos, após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área; </li><li>Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e outros) quanto para o resultado/metas da área; </li><li>Alertar a coordenação e atuar em potenciais riscos ou crises em clientes; </li><li>Manter atualizados FAQs/banco de conhecimento com as soluções definidas e repassadas aos clientes; </li><li>Buscar a evolução e a disseminação do conhecimento para prestar o atendimento com qualidade; </li><li>Contribuir de forma efetiva para a melhoria dos processos, sendo referência para o time; </li><li>Ser referência na negociação com o cliente em situações críticas.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Ensino superior completo em Tecnologia da Informação ou afins;</b></li><li><b>Conhecimento nos módulos de Backoffice do Protheus, principalmente em Distribuição e Logística (TMS, WMS, , GFE, OMS e GTP);</b></li><li><b>Experiência em Debug de fontes, análise de error.log; </b></li><li><b>Conhecimento em linguagem de programação ADVPL;</b></li><li><b>Lógica de programação e noções de banco de dados;</b></li><li><b>Pacote da Microsoft.</b></li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/4695/analista-de-suporte-tecnico-senior-protheus-backoffice]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -8137,15 +8172,15 @@ e prosperidades? Envie seu currículo para nosso banco de talentos!<br /><br /><
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[ba1f072e-895a-452e-9176-fecbcc05234d]]></partnerJobId>
-    <company><![CDATA[Spotlar]]></company>
-    <title><![CDATA[Analista de Pessoas e Gestão - Jr]]></title>
-    <posterEmail><![CDATA[marina.freitas@spotlar.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Analista de Pessoas e Gestão Jr para atuar em modelo híbrido na nossa sede em Florianópolis/SC. Estamos em busca de um profissional com perfil generalista, organizado e proativo, para atuar no suporte às rotinas de Recursos Humanos, Departamento Pessoal e Facilities. Essa pessoa será peça-chave para garantir o bom funcionamento dos processos internos, apoiando tanto nas demandas operacionais quanto nas iniciativas de clima e engajamento.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar no levantamento de informações para o fechamento da folha de pagamento, assegurando a precisão dos dados;<br /><br /></li><li>Realizar rotinas operacionais de Departamento Pessoal, incluindo admissões, desligamentos, controle de férias, ponto e benefícios;<br /><br /></li><li>Conduzir processos de Recrutamento e Seleção para vagas operacionais;<br /><br /></li><li>Apoiar na implementação de ações de clima organizacional e engajamento;<br /><br /></li><li>Executar atividades de Facilities, como compra e controle de insumos e equipamentos, além da organização do espaço físico, assegurando o bom funcionamento da empresa.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em andamento ou concluída em Administração, Psicologia, Gestão de Recursos Humanos ou áreas correlatas;<br /><br /></li><li>Vivência em rotinas de RH;<br /><br /></li><li>Conhecimento básico em rotinas de Departamento Pessoal;<br /><br /></li><li>Noções de legislação trabalhista;<br /><br /></li><li>Conhecimento em ferramentas Google ;<br /><br /></li><li>Vivência em processos de Recrutamento e Seleção.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/spotlar/51/analista-de-pessoas-e-gestao-jr]]></applyUrl>
-    <companyId><![CDATA[75055670]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[SC]]></state>
+    <partnerJobId><![CDATA[715c5e17-d76b-4374-aec7-4aa1ed252367]]></partnerJobId>
+    <company><![CDATA[GLOVIS BRASIL LOGÍSTICA]]></company>
+    <title><![CDATA[Assistente de Comércio Exterior]]></title>
+    <posterEmail><![CDATA[paulo.felicio@glovis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Assistente de COMEX será responsável por apoiar e executar atividades relacionadas aos processos de importação e exportação, garantindo a conformidade documental, o acompanhamento dos embarques e a comunicação com parceiros e clientes. Este profissional atuará diretamente no controle e fechamento dos processos, assegurando que todas as etapas sejam realizadas de forma eficiente e dentro das normas vigentes.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Abertura e acompanhamento de processos de importação e exportação;</li><li>Conferência documental e elaboração de numerário aduaneiro;</li><li>Controle e registro de lançamentos nos sistemas Siscoserv, Siscarga e Mercante;</li><li>Follow-up com despachantes, agentes de carga, armadores, terminais e transportadores;</li><li>Checagem de faturamento para clientes e pagamentos para fornecedores;</li><li>Emissão de notas fiscais de serviço e notas de débito/crédito;</li><li>Atendimento aos clientes e suporte nas operações de comércio exterior;</li><li>Processamento dos trâmites de despacho aduaneiro, conforme procuração;</li><li>Atuação nos processos e atividades SSMAQ relacionados à função.</li><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino superior cursando ou completo em Comércio Exterior, Administração, Contabilidade, Economia, Logística ou áreas correlatas;</li><li>Conhecimento nos processos de importação e exportação e impostos relacionados;</li><li>Pacote Office nível intermediário;</li><li>Inglês intermediário;</li><li>Experiência mínima de 1 ano em agenciamento de cargas (importação e exportação);</li><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/recrutamento/139/assistente-de-comercio-exterior]]></applyUrl>
+    <companyId><![CDATA[3360262]]></companyId>
+    <city><![CDATA[Santos]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -8153,7 +8188,7 @@ e prosperidades? Envie seu currículo para nosso banco de talentos!<br /><br /><
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
     </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[2b460f9d-c937-40a7-8800-437abbd37f09]]></partnerJobId>
@@ -17566,12 +17601,31 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para voc�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[99284392-fab9-494a-9928-e28ec7952ce4]]></partnerJobId>
+    <company><![CDATA[Unimarka Distribuidora]]></company>
+    <title><![CDATA[Assistente Administrativo - Logística]]></title>
+    <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Essa vaga é para você que gosta de desafios, de se desenvolver continuamente e fazer carreira em uma empresa que está entre as 10 maiores do Brasil no segmento atacadista. <br /><b>Venha e participe da nossa seleção!</b><br /> <br />Vaga destinada também a PCD.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executa atividades de apoio nas áreas de administração;</li><li> Atende funcionários, fornecedores e clientes, prestando e recebendo informações sobre produtos e serviços. </li><li>Organiza, guarda e controla documentos variados, disponibilizando-os aos interessados.</li><li>Coleta dados e emite relatórios diversos dentro de sua área de atuação</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou em curso em Administração, Ciências Contábeis, Engenharia, gestão empresarial ou áreas afins.</li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/785/assistente-administrativo-logistica]]></applyUrl>
+    <companyId><![CDATA[65466539]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[599ed7ae-fb93-46ee-83a2-f229a956a6c4]]></partnerJobId>
     <company><![CDATA[Unimarka Distribuidora]]></company>
-    <title><![CDATA[Assistente Administrativo]]></title>
+    <title><![CDATA[Assistente Administrativo - Monitoramento]]></title>
     <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Essa vaga é para você que gosta de desafios, de se desenvolver continuamente e fazer carreira em uma empresa que está entre as 10 maiores do Brasil no segmento atacadista. <br /><b>Venha e participe da nossa seleção!</b><br /> <br />Vaga destinada também a PCD.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executa atividades de apoio nas áreas de administração;</li><li> Atende funcionários, fornecedores e clientes, prestando e recebendo informações sobre produtos e serviços. </li><li>Organiza, guarda e controla documentos variados, disponibilizando-os aos interessados.</li><li>Coleta dados e emite relatórios diversos dentro de sua área de atuação</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou em curso em Administração, Marketing, Comunicação Social ou áreas afins.</li></ul><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/782/assistente-administrativo]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/782/assistente-administrativo-monitoramento]]></applyUrl>
     <companyId><![CDATA[65466539]]></companyId>
     <city><![CDATA[Duque de Caxias]]></city>
     <state><![CDATA[RJ]]></state>
@@ -23174,34 +23228,6 @@ Conhecimento <strong>intermediário em Excel</strong>.</li></ul>]]></description
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[0a3a0141-4db4-4e0c-b9b8-f0dd9082d9c1]]></partnerJobId>
-    <company><![CDATA[NetZero]]></company>
-    <title><![CDATA[Analista Agronômico Júnior]]></title>
-    <posterEmail><![CDATA[samara.araujo@netzero.green]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O(A) Analista Agronômico Júnior é responsável por acompanhar o desenvolvimento dos ensaios agronômicos, assegurando a análise e a divulgação dos resultados por meio da elaboração de relatórios. Também presta assistência técnica aos produtores parceiros, oferece suporte à equipe de prospecção no que diz respeito ao conhecimento agronômico para novos parceiros e supervisiona as atividades dos estagiários de agronomia.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><strong>Conduzir e implementar ensaios agronômicos</strong> na região, garantindo correta execução, acompanhamento e registro das atividades; </li><li><strong>Avaliar os resultados dos ensaios</strong>, elaborar relatórios técnicos detalhados e reportar a evolução ao Gerente de Agronomia;</li><li><strong>Prestar assistência agronômica aos produtores parceiros</strong>, realizando diagnósticos, propondo melhorias e acompanhando a aplicação do biochar; </li><li><strong>Realizar visitas técnicas</strong> aos parceiros, assegurando a manutenção de registros atualizados e o acompanhamento contínuo do desempenho agronômico; </li><li><strong>Ministrar treinamentos, palestras e capacitações</strong> sobre biochar (produção, uso e benefícios agronômicos), além de divulgar resultados de pesquisas;</li><li><strong>Orientar estagiários(as) de agronomia</strong>, apoiando no desenvolvimento das atividades de campo e laboratório;</li><li><strong>Apoiar a equipe de prospecção de biomassas</strong>, oferecendo suporte técnico agronômico e auxiliando na identificação de novos parceiros.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso Superior Completo em Agronomia, Biologia, Eng. Florestal, Ambiental e áreas afins.</li><li><strong>Domínio do Pacote Office (Word, Excel, PowerPoint etc.) — Avançado</strong>
-</li>
-<li>
-<strong>Redação científica — Intermediário</strong>
-</li>
-<li>
-<strong>Experimentação agrícola e análise de dados — Intermediário</strong>
-</li>
-<li>
-<strong>Conhecimento sobre biochar e seus benefícios agronômicos — Intermediário</strong></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/netzero/99/analista-agronomico-junior]]></applyUrl>
-    <companyId><![CDATA[66942189]]></companyId>
-    <city><![CDATA[São João do Manhuaçu]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[f2122791-0224-4abb-ab6c-fef575467216]]></partnerJobId>
     <company><![CDATA[NetZero]]></company>
     <title><![CDATA[Analista Agronômico Júnior]]></title>
@@ -27420,6 +27446,25 @@ mercado!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ca20b7f9-d084-4e6b-96e9-685164fcdaf1]]></partnerJobId>
+    <company><![CDATA[Fundação Educacional Serra dos Órgãos]]></company>
+    <title><![CDATA[Tratador(a) de Animais]]></title>
+    <posterEmail><![CDATA[gloriaalves@feso.edu.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado(a) por animais, temos uma oportunidade incrível para você! Buscamos pessoas dedicadas e que possuam um forte desejo de contribuir para o bem-estar animal.  Venha trabalhar conosco! Faça a sua inscrição e venha ser FESO!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />	Manejar, alimentar e monitorar a saúde e o comportamento de animais da Fazenda Escola;<br />	Higienizar animais e recintos;<br />	Zelar pela limpeza e organização do local das instalações, utensílios e local de trabalho, realizando reparos simples (cercas, cochos, baias, galpões e tronco (local de contenção);<br />	Fazer a limpeza e o cuidado dos pastos e capineiras;<br />	Realizar atividades de apoio às rotinas da fazenda escola e às intervenções realizadas nos animais;<br />	Bom relacionamento interpessoal;<br />	Executar demais atividades inerentes à função.<br /><br /><br /><br /><br /><b><b>Horário de Trabalho </b></b><br /><ul><li>Segunda à Sexta das 07:00h às 16:00h</li><li>Sábado das 07:00h às 11:00h</li><li><u><b>Disponibilidade para escala de trabalho aos domingos (com folga compensatória)</b></u></li></ul><b><br /></b><b><b>Local de Trabalho - </b></b>Fazenda Escola de Medicina Veterinária<b> </b>no Campus Quinta do Paraíso - Estrada Wenceslau José de Medeiros, 1045 – Teresópolis.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />REQUISITOS NECESSÁRIOS:<br />	Ensino fundamental incompleto.<br />	Boa comunicação, atenção concentrada, proatividade e relacionamento interpessoal. <br />	Experiência comprovada em tratamento de animais de grande porte (fazendas, sítios, haras, etc.)<br />	Disponibilidade de horário para escala de trabalho aos domingos.<br />	Residir em Teresópolis.<br /><br /><br /><b>A Feso valoriza a diversidade e promove a inclusão de Pessoas com Deficiência (PcD). Caso você seja um profissional com deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b><br /><br /><br /><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenafeso/93/tratador-a-de-animais]]></applyUrl>
+    <companyId><![CDATA[1251323]]></companyId>
+    <city><![CDATA[Teresópolis]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[4b79f3d7-1a0d-4276-8dfb-4759e389c60b]]></partnerJobId>
@@ -34482,6 +34527,25 @@ conta corrente e aplicação financeira).<br /><br /><b>Requisitos e qualificaç
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[ba0af41d-649d-4b0b-b07f-1fef0426b96f]]></partnerJobId>
+    <company><![CDATA[Grupo Canopus]]></company>
+    <title><![CDATA[CONSULTOR VENDAS II]]></title>
+    <posterEmail><![CDATA[alessandra.barros@grupocanopus.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Realizar a venda de veículos novos e seminovos, consórcio e seguros;Acompanhar o processo do cliente desde a venda até a entrega dos veículos;Realizar diariamente a prospecção de vendas e demais atividades da função.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar a venda de veículos novos e seminovos, consórcio e seguros;Acompanhar o processo do cliente desde a venda até a entrega dos veículos;Realizar diariamente a prospecção de vendas e demais atividades da função.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo;Informática básica (Windows, Word e Excel);CNH B;Vivência na área comercial será um diferencial.<br /><br />TODAS AS VAGAS ESTÃO DISPONIVEIS PARA PCD]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/872/consultor-vendas-ii]]></applyUrl>
+    <companyId><![CDATA[2073549]]></companyId>
+    <city><![CDATA[Juína]]></city>
+    <state><![CDATA[MT]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[93950578-f860-41df-b9c8-fdb560393d05]]></partnerJobId>
     <company><![CDATA[Grupo Canopus]]></company>
     <title><![CDATA[LAVADOR DE VEÍCULOS]]></title>
@@ -36456,44 +36520,6 @@ CNH categoria B.</li></ul>]]></description>
 atuando de forma colaborativa, atenta aos detalhes e com forte espírito de
 equipe.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar indicadores de desempenho da categoria (sell-out, ruptura, margem etc.);</li><li>Monitorar o giro de estoque e atuar para evitar rupturas ou excessos;</li><li>Realizar negociações de preço, prazo, condições de pagamento e entrega com fornecedores;</li><li>Emitir pedidos de compras no sistema ERP;</li><li>Acompanhar prazos de entrega e o cumprimento das condições negociadas;</li><li>Avaliar e homologar novos fornecedores;</li><li>Desenvolver e manter relacionamento com fornecedores estratégicos, além de atuar no desenvolvimento de famílias de produtos;</li><li>Apoiar na construção e execução do OTB (Open To Buy), em conjunto com o planejamento comercial;</li><li>Acompanhar tendências de mercado e identificar oportunidades de novos produtos;</li><li>Suportar as áreas de logística, marketing e vendas com informações sobre mix e disponibilidade de produtos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo em Administração, Engenharia, Economia, Logística ou áreas correlatas;</li><li>Excel intermediário a avançado;</li><li>Conhecimento em Sistemas ERP, será considerado um diferencial;</li><li>Desejável conhecimento de indicadores de compras e estoque.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenoglh/131/comprador]]></applyUrl>
-    <companyId><![CDATA[20091464]]></companyId>
-    <city><![CDATA[Goiânia]]></city>
-    <state><![CDATA[GO]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[73c0c37f-9b87-4bb7-9390-ea601e9fc9ce]]></partnerJobId>
-    <company><![CDATA[Grupo Luiz Höhl]]></company>
-    <title><![CDATA[Analista de Dados]]></title>
-    <posterEmail><![CDATA[hellen.oliveira@grupoluizhohl.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) profissional para integrar o time
-de<b> Tecnologia da Informação – Höhl John Deere</b>, que valorize a
-excelência em cada etapa da operação atuando de forma comunicativa, atenta aos
-detalhes e organizada.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar e
-acompanhar pipelines de ingestão de dados (ETL/ELT).</li><li>Identificar e
-reportar falhas, garantindo a consistência dos dados.</li><li>Executar
-verificações de qualidade em bases e relatórios.</li><li>Apoiar na
-manutenção e documentação de integrações entre sistemas (APIs, bancos de dados
-etc.).</li><li>Suporte aos
-usuários quanto a dashboards e relatórios.</li><li>Contribuir com
-consultas SQL e scripts.</li><li>Organizar e
-catalogar fontes de dados.</li><li>Acompanhar métricas
-de performance das automações.</li><li>Participar da
-melhoria contínua dos processos e documentação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimento básico
-em SQL;</li><li>Será considerado um
-diferencial noções de Python para manipulação de dados;</li><li>Conhecimento sobre
-ETL/ELT.</li><li>Será considerado um
-diferencial o conhecimento sobreas ferramentas com APIs REST ;</li><li>Noções de bancos de
-dados como MySQL, PostgreSQL ou BigQuery;</li><li>Conhecimento em
-ferramentas de BI (Power BI, Looker Studio, Tableau);</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenoglh/109/analista-de-dados]]></applyUrl>
     <companyId><![CDATA[20091464]]></companyId>
     <city><![CDATA[Goiânia]]></city>
     <state><![CDATA[GO]]></state>
@@ -42373,13 +42399,53 @@ Se você gosta de aprender, resolver problemas e quer se desenvolver em um ambie
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[920e08bf-931c-4df8-a74a-767c84da3538]]></partnerJobId>
-    <company><![CDATA[ALL WORLD VIAGENS]]></company>
-    <title><![CDATA[Estágio em Turismo]]></title>
+    <partnerJobId><![CDATA[5579cfca-f770-4f22-815e-5468c5a07674]]></partnerJobId>
+    <company><![CDATA[SG VIAGENS E TURISMO]]></company>
+    <title><![CDATA[Analista de Atendimento ao Cliente Junior]]></title>
     <posterEmail><![CDATA[leticia.viana@sgrentals.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) estagiário(a) de Turismo que seja comunicativo(a), proativo(a) e organizado(a).<br />Queremos alguém interessado em aprender sobre o dia a dia de uma agência de viagens e em oferecer um atendimento cordial e eficiente aos clientes.<br />Valorizamos boa comunicação, simpatia e trabalho em equipe.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Recepcionar e atender clientes da agência com cordialidade, identificando suas necessidades e direcionando para o canal ou responsável adequado;</li><li>Auxiliar no processo de reservas de hospedagem, aluguel de equipamentos, passeios e outros serviços oferecidos pela agência;</li><li>Apoiar na organização e documentação das reservas, garantindo que todas as informações estejam corretas e atualizadas;</li><li>Prestar suporte no esclarecimento de dúvidas sobre serviços, preços, disponibilidade e condições de reserva;</li><li>Auxiliar no acompanhamento de solicitações e no contato com fornecedores e parceiros para confirmação de reservas;</li><li>Contribuir para a organização e atualização de registros e arquivos relacionados às atividades da agência;</li><li>Apoiar a equipe em outras atividades administrativas e operacionais, conforme necessidade.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando Turismo, Hotelaria ou áreas afins;</li><li>Conhecimento básico em informática (Word, Excel e Internet);</li><li>Facilidade de comunicação;</li><li>Interesse em atendimento e reservas;</li><li>Disponibilidade para estágio presencial.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasawviagens/21/estagio-em-turismo]]></applyUrl>
-    <companyId><![CDATA[77644979]]></companyId>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional dedicado para atuar na
+área de <b>Atendimento ao Cliente</b>, oferecendo um serviço de
+excelência. A pessoa selecionada será responsável por:
+
+<ul>
+ <li>Proporcionar
+     um atendimento cordial e eficiente, garantindo a resolução de dúvidas,
+     solicitações e problemas dos clientes;</li>
+ <li>Manter
+     a qualidade e o padrão do serviço prestado;</li>
+ <li>Atender
+     às necessidades dos clientes de forma proativa e satisfatória;</li>
+ <li>Contribuir
+     para a fidelização e a boa experiência do cliente com a empresa.</li>
+</ul>
+
+Se você é comunicativo, organizado e tem paixão por encantar
+clientes, essa oportunidade é para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atender clientes
+por telefone, e-mail, chat e demais canais de comunicação;</li><li>Identificar e
+resolver problemas de clientes de forma eficaz e dentro do prazo estabelecido;</li><li>Fornecer
+informações claras sobre produtos, serviços, processos e políticas da empresa;</li><li>Registrar todas as
+interações com clientes no sistema, acompanhando o status das solicitações;</li><li>Encaminhar questões
+mais complexas para os níveis superiores de atendimento, quando necessário;</li><li>Acompanhar a
+satisfação dos clientes e propor melhorias contínuas no processo de
+atendimento;</li><li>Colaborar com
+outras equipes internas para garantir a resolução de problemas e o atendimento
+das necessidades dos clientes;</li><li>Realizar
+acompanhamento pós-atendimento, assegurando que as expectativas dos clientes
+sejam plenamente atendidas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior ou
+Técnico cursando em áreas relacionadas, como Administração, Turismo,
+Comunicação ou afins;</li><li>Experiência
+anterior em atendimento ao cliente (incluindo estágios ou experiências em
+outros setores além do turismo);</li><li>Boa comunicação
+verbal e escrita;</li><li>Capacidade de
+resolução de problemas;</li><li>Habilidade para
+lidar com múltiplas demandas simultâneas;</li><li>Conhecimentos em
+ferramentas de atendimento ao cliente (como CRM, sistemas de chat e outros)
+serão considerados um diferencial;</li><li>Inglês básico ou em
+curso;</li><li>Certificações em
+atendimento ao cliente ou cursos relacionados serão um diferencial (desejável,
+mas não obrigatório).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagassgviagens/22/analista-de-atendimento-ao-cliente-junior]]></applyUrl>
+    <companyId><![CDATA[16273507]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
@@ -51718,25 +51784,6 @@ Manter registros atualizados e garantir conformidade documental.<br /><br /><b>R
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[72dc1cad-7ec7-49e3-8a34-2f9ff5959409]]></partnerJobId>
-    <company><![CDATA[GS Inima Brasil]]></company>
-    <title><![CDATA[Auxiliar de Mecânico]]></title>
-    <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por apoiar as atividades da área de mecânica de equipamentos e motores, incluindo desmontagem e montagem de motores, equipamentos e componentes hidráulicos. Atuará na manutenção preventiva e corretiva, realizando consertos mecânicos, troca de óleo, substituição de gaxetas e componentes mecânicos e hidráulicos, além da limpeza geral dos equipamentos.<br /><br /><b>Horário:</b> 07:30 às 17:30 com 1:00refeição / Sex. 07:30 às 16:30 / Sàb. Compensado<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Dar apoio as atividades relacionadas a área de mecânica de equipamentos e motores;					</li><li>Auxiliar na desmontagem e montagem de motores, equipamentos e componentes hidráulicos;					</li><li>Realizar consertos mecânicos, troca de óleo e limpar os motores, bem como lavar as peças e outros componente de motores e equipamentos;</li><li>Realizar o suporte nas manutenções mecânicas, mantendo a limpeza e conservação dos equipamentos;</li><li>Executar outros serviços auxiliares de manutenção;					</li><li>Lavar e limpar peças e componentes de motores e equipamentos;					</li><li>Separar ferramentas, peças e equipamentos necessários para realização das atividades;</li><li>Executar outras atividades correlatas conforme solicitação do superior imediato.					</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação Obrigatória:</b> Ensino Médio Completo<br /><br />Requisitos;<br /><ul><li>Habilitação, categoria "B", vigente;</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/239/auxiliar-de-mecanico]]></applyUrl>
-    <companyId><![CDATA[36870042]]></companyId>
-    <city><![CDATA[Ourinhos]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[1838388a-3982-4461-8973-a9169b4c2633]]></partnerJobId>
     <company><![CDATA[GS Inima Brasil]]></company>
     <title><![CDATA[Operador(a) de ETA/ETE (SAA e SES)]]></title>
@@ -55078,6 +55125,32 @@ responsabilidade.</li></ul><br />]]></description>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[2bd40db3-9090-4ad1-bf2f-0db98230a6c8]]></partnerJobId>
+    <company><![CDATA[BRAM OFFSHORE]]></company>
+    <title><![CDATA[Analista de Sistemas II]]></title>
+    <posterEmail><![CDATA[beatriz.santana@chouest.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um desenvolvedor FullStack para integrar nosso time. O profissional irá atuar como ponto focal no desenvolvimento de projetos para o setor de operações, com foco na criação de soluções que irão atender nossa frota de embarcações.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenhar e mapear os processos da área;</li><li>Desenvolver aplicações, processos e soluções baseadas em
+plataforma;</li><li>Participar do levantamento de dados e da definição de
+métodos e recursos necessários para implantação de sistemas e/ou alteração dos
+já existentes;</li><li>Manter e aperfeiçoar o banco de dados;</li><li>Elaborar manuais dos sistemas ou projetos desenvolvidos,
+assim como treinar e acompanhar os usuários na utilização desses sistemas;</li><li>Analisar o desempenho dos sistemas implantados, reavaliar
+rotinas, manuais e métodos de trabalho, verificando se atendem ao usuário;</li><li>Realizar outras atividades de natureza e complexidade
+similares, a critério de seu superior.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo em Desenvolvimento de Sistemas,
+Engenharia de Computação ou áreas correlatas; </li><li>Inglês intermediário para conversação;</li><li>Proficiência com linguagens front-end (JavaScript, React); </li><li>Proficiência com linguagens back-end (Nodejs);</li><li>Sólidos conhecimentos em linguagem de banco de dados SQL; </li><li>Experiência com desenvolvimento de plataformas;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/232/analista-de-sistemas-ii]]></applyUrl>
+    <companyId><![CDATA[5672510]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[3db13110-c353-43ab-9808-d3669736798f]]></partnerJobId>
     <company><![CDATA[BRAM OFFSHORE]]></company>
     <title><![CDATA[Gerente de Manutenção]]></title>
@@ -56151,11 +56224,30 @@ Contribuir com sugestões constantes para evolução dos conteúdos e processos 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[5a149910-51e5-4867-bb1c-de8b8b67b9f8]]></partnerJobId>
+    <company><![CDATA[Grupo PMZ]]></company>
+    <title><![CDATA[AM02| ANALISTA DE PESSOAS E GESTÃO DHO]]></title>
+    <posterEmail><![CDATA[tuany.souza@grupopmz.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atue como protagonista nos processos de Atração e Desenvolvimento, conduzindo recrutamentos operacionais, táticos e estratégicos em grande volume, utilizando técnicas modernas de hunting e apoiando gestores como parceiro de negócio. Seja responsável por impulsionar trilhas de aprendizagem, programas de liderança e projetos de desenvolvimento organizacional, além de fortalecer a cultura, o engajamento e a experiência do colaborador em toda a organização.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Executar o fluxo de Atração e Seleção em diversas regionais: abertura de vagas, divulgação, triagem, entrevistas e feedback aos candidatos e Gestores (Grande Volume)<br />Atuar de forma consultiva com gestores para definir perfis, competências e prioridades de contratação.<br />Utilizar métodos avançados de hunting, mapeamento de mercado e atração ativa de talentos.<br />Acompanhar quadro de cotas sociais através da análise do índice e indicadores de pessoal a fim de garantir cotas de aprendiz e PCDs.<br />Garantir indicadores de Atração e Seleção (SLA, vagas fechadas no prazo, qualidade da contratação)<br />Representar a empresa em eventos, feiras e iniciativas de fortalecimento de marca empregadora (employer branding).<br />Elaborar e operacionalizar trilhas de aprendizagem, capacitações e programas de desenvolvimento técnico e comportamental.<br />Acompanhar indicadores de desenvolvimento, matriz de competências e avaliações de desempenho.<br />Atuar na implementação de programas de liderança, integração avançada e ações de capacitação contínua.<br />Atuar como Bussiner Partner apoiando as demandas das áreas de negócio, atuando como facilitador entre gestão e colaboradores.<br />Apoiar gestores na tomada de decisão com baseada em dados<br />Propor melhorias em processos, baseadas em análises e insights.<br />Apoiar ações internas que reforcem cultura, comunicação e engajamento.<br />Contribuir para campanhas internas, celebrações, eventos corporativos e iniciativas de clima organizacional.<br />Desenvolver projetos e atividades voltadas ao desenvolvimento organizacional<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Psicologia, Recursos Humanos, Administração ou áreas relacionadas.<br /></li><li>Experiência em Atração e Seleção e Desenvolvimento de Pessoas<br /></li><li>Técnica de Entrevista por Competência<br /></li><li>Habilidade analítica e senso de urgência<br /></li><li>Conhecimento em Ferramentas Ágeis<br /></li><li>Forte habilidade de trabalhar com metas <br /><br /></li></ul><br /><br />Atuação: Escritório PMZ<br /><br /><br />R. Palmeira do Miriti, 375 - Distrito Industrial I, Manaus - AM, 69075-215<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/263/am02-analista-de-pessoas-e-gestao-dho]]></applyUrl>
+    <companyId><![CDATA[22287656]]></companyId>
+    <city><![CDATA[Manaus]]></city>
+    <state><![CDATA[AM]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[777fb603-05c5-446d-a36b-a8a417d0a2e7]]></partnerJobId>
     <company><![CDATA[Grupo PMZ]]></company>
     <title><![CDATA[AM02 | CONSULTOR DE VENDAS DIGITAIS]]></title>
     <posterEmail><![CDATA[gabrielly.andrade@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atue em uma unidade centralizada de vendas digitais, atendendo exclusivamente via canais remotos. Sua missão é converter rapidamente os leads qualificados pela IA (Vbot) em vendas faturadas, garantindo agilidade, precisão técnica e alta produtividade. Essa função exige capacidade de negociação, foco em resultados, domínio técnico para identificação de peças automotivas e ritmo acelerado de atendimento.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Monitorar a fila de leads encaminhados pela IA e iniciar o atendimento em segundos, garantindo o timing da venda digital.</li><li>Realizar consultoria técnica remota utilizando catálogos eletrônicos e sistemas internos para identificar peças e sugerir itens adicionais.</li><li>Conduzir negociações comerciais com foco em alta conversão (preço, prazos e descontos).</li><li>Integrar-se à logística da loja física para garantir separação, faturamento e entrega/retirada das peças.</li><li>Recuperar leads e gerenciar orçamentos pendentes, realizando follow-up ativo para reativar clientes.</li><li><li>Participar de reuniões semanais de feedback com o Supervisor para análise da taxa de conversão.</li><li>Revisar leads perdidos semanalmente e realizar tentativas finais de oferta.</li><li><li>Participar de treinamentos técnicos e comerciais.</li><li>Reuniões com Gerente/Supervisor para acompanhamento de metas e comissionamento.</li><br /></li><br /></li><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo</li><li>Ensino Superior (Diferencial)</li><li>Experiência mínimo 6 meses</li><li>Técnicas de vendas e negociação</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsavel por realizar atendimentos exclusivamente via canais remotos e convertendo rapidamente os leads qualificados pela IA em vendas faturadas, assegurando agilidade, precisão técnica, produtividade elevada, capacidade de negociação, foco em resultados, domínio técnico para identificação de peças automotivas e ritmo acelerado de atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Monitorar a fila de leads encaminhados pela IA e iniciar o atendimento em segundos, garantindo o timing da venda digital.</li><li>Realizar consultoria técnica remota utilizando catálogos eletrônicos e sistemas internos para identificar peças e sugerir itens adicionais.</li><li>Conduzir negociações comerciais com foco em alta conversão (preço, prazos e descontos).</li><li>Integrar-se à logística da loja física para garantir separação, faturamento e entrega/retirada das peças.</li><li>Recuperar leads e gerenciar orçamentos pendentes, realizando follow-up ativo para reativar clientes.</li><li><li>Participar de reuniões semanais de feedback com o Supervisor para análise da taxa de conversão.</li><li>Revisar leads perdidos semanalmente e realizar tentativas finais de oferta.</li><li><li>Participar de treinamentos técnicos e comerciais.</li><li>Reuniões com Gerente/Supervisor para acompanhamento de metas e comissionamento.</li><br /></li><br /></li><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo</li><li>Ensino Superior (Diferencial)</li><li>Experiência mínimo 6 meses</li><li>Técnicas de vendas e negociação</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/262/am02-consultor-de-vendas-digitais]]></applyUrl>
     <companyId><![CDATA[22287656]]></companyId>
     <city><![CDATA[Manaus]]></city>
@@ -61357,87 +61449,6 @@ organização quando solicitado.<br /><br /><br /><b>Requisitos e qualificaçõe
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[90056171-eb47-4e91-9fa5-5aa01eea6ccb]]></partnerJobId>
-    <company><![CDATA[HRCA Consultoria]]></company>
-    <title><![CDATA[Auxiliar Comercial]]></title>
-    <posterEmail><![CDATA[simone.garcia@hrca.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar de forma estratégica garantindo a excelência no relacionamento com clientes, contribuindo para a geração de novas oportunidades de negócio e assegurando a qualidade nas etapas do processo inicial com cliente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a análise, organização e digitalização de documentos;</li><li>Elaboração de contratos;</li><li>Atender clientes coletando informações para qualificação;</li><li>Prestar esclarecimento de dúvidas e orientações técnicas aos clientes;</li><li>Contribuir para o cumprimento das metas do setor;</li><li>Suporte à equipe nas atividades administrativas do setor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior em atendimento ao cliente, comercial ou administrativo;</li><li>Pacote Office nível intermediário;</li><li>Boa comunicação escrita e verbal; </li><li>Organização, proatividade e atenção aos detalhes.</li></ul><br /><strong>Diferencial:</strong><br /><ul><li> Estar cursando técnico ou superior em Administração.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hrcaconsultoria/52/auxiliar-comercial]]></applyUrl>
-    <companyId><![CDATA[104612309]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[2100.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2100.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6854483a-4069-4bf3-9aea-7e44cb07b48d]]></partnerJobId>
-    <company><![CDATA[HRCA Consultoria]]></company>
-    <title><![CDATA[Operador de Negócios]]></title>
-    <posterEmail><![CDATA[simone.garcia@hrca.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar de forma estratégica garantindo a excelência no relacionamento com clientes, contribuindo para a geração de novas oportunidades de negócio e assegurando a qualidade nas etapas do processo inicial com cliente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento de novos clientes;</li><li>Elaboração de propostas;</li><li>Agendamento de reuniões;</li><li>Resolução de dúvidas;</li><li>Gestão de relacionamento com clientes;</li><li>Alimentação de sistemas internos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prévia com atendimento ao cliente;</li><li>Experiência com Pacote Office;</li><li>Boa comunicação verbal e escrita;</li><li>Proatividade.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hrcaconsultoria/54/operador-de-negocios]]></applyUrl>
-    <companyId><![CDATA[104612309]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1980.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1980.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[392a6f18-fa46-4ba8-849d-6431a2230d2c]]></partnerJobId>
-    <company><![CDATA[HRCA Consultoria]]></company>
-    <title><![CDATA[Analista de Planejamento Júnior]]></title>
-    <posterEmail><![CDATA[simone.garcia@hrca.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por monitorar, controlar e analisar os dados operacionais da área de telefonia, garantindo a aderência dos colaboradores às escalas e a confiabilidade dos relatórios. Atua na elaboração de relatórios de performance e indicadores, além de sinalizar desvios e apoiar a tomada de decisão para assegurar eficiência operacional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar em tempo real o login, logout, pausas e jornada dos colaboradores nos sistemas de telefonia;</li><li>Extrair e consolidar indicadores operacionais de produtividade e qualidade;</li><li>Elaborar relatórios diários, semanais e mensais com informações de performance;</li><li>Apoiar gestores com informações para ajustes na operação;</li><li>Contato com setores da empresa para suporte as atividades de controle;</li><li>Elabora apresentações com os indicadores extraídos para entendimento do gestor;   </li><li>Possui contato com suporte dos sistemas em que é responsável para resolução de pequenos problemas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando Ensino Superior;</li><li>Experiência na elaboração de relatórios de performance e indicadores;</li><li>Excel intermediário/avançado. </li></ul> <b>Diferenciais: </b><br /><ul><li>Experiência no acompanhamento de indicadores de desempenho (SLA, TMA, TME, Taxa de Ocupação, Adesão à Escala);</li><li>Atuação prévia em Call Center / Contact Center ou áreas de planejamento e controle. </li><li>Vivência em rotinas de monitoramento operacional (login/logout, pausas e aderência de jornada).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hrcaconsultoria/50/analista-de-planejamento-junior]]></applyUrl>
-    <companyId><![CDATA[104612309]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[3600.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[3600.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[80de39db-a5cb-4c34-832e-f8a807f34f0e]]></partnerJobId>
     <company><![CDATA[HRCA Consultoria]]></company>
     <title><![CDATA[Banco de Talentos - PCD]]></title>
@@ -63140,48 +63151,6 @@ Experiência prévia em relacionamento com clientes corporativos</li></ul>]]></d
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[e2f457f4-7170-4d43-ba72-7a4357686f00]]></partnerJobId>
-    <company><![CDATA[SAFE-E]]></company>
-    <title><![CDATA[Engenheiro de Dados (Projeto temporário)]]></title>
-    <posterEmail><![CDATA[diogo.rigaud@oplium.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você será responsável por projetar, desenvolver e manter pipelines de dados de alta performance, assegurando qualidade, governança e escalabilidade. Atuará na construção e evolução de arquiteturas modernas, integrando múltiplas fontes de dados e viabilizando análises avançadas, inteligência artificial e tomadas de decisão estratégicas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Criar e manter pipelines de ingestão, transformação e integração de dados (ETL/ELT).
-</li><li>
-Implementar arquiteturas escaláveis para Data Lakes, Data Warehouses e sistemas analíticos.
-</li><li>
-Otimizar consultas, modelos e armazenamento para grandes volumes de dados.</li><li>Garantir qualidade, integridade e segurança dos dados, em conformidade com a LGPD.</li><li>
-Automatizar processos de coleta, tratamento e carga de dados.
-</li><li>
-Monitorar fluxos de dados e corrigir eventuais falhas.
-</li><li>
-Colaborar com equipes de BI, ciência de dados e engenharia para integração de soluções.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas.
-</li><li>
-Inglês avançado.
-</li><li>
-Experiência sólida com Python e SQL.
-</li><li>
-Conhecimento em bancos relacionais (MySQL, PostgreSQL, SQL Server) e não relacionais (MongoDB, OpenSearch).
-</li><li>
-Vivência com ETL/ELT (Apache Airflow, dbt, Talend) e arquiteturas de Data Lake / Data Warehouse.
-</li><li>
-Experiência com ecossistema AWS, incluindo ElastiCache (Redis) e RabbitMQ.
-</li><li>
-Conhecimento em CI/CD para pipelines de dados.
-</li><li>
-Vivência com processamento distribuído (Spark, Flink, Kafka).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/safeecarreiras/8/engenheiro-de-dados-projeto-temporario]]></applyUrl>
-    <companyId><![CDATA[80532957]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[5bfeecb7-dd11-4d3b-8fbf-59a0051073b6]]></partnerJobId>
     <company><![CDATA[SAFE-E]]></company>
     <title><![CDATA[Engenheiro de Software Full Stack]]></title>
@@ -63789,7 +63758,7 @@ correlatas ao cargo/função.</li></ul>
 
 
 
-<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação de Nível Superior completo em Administração, Contabilidade, Economia, Recursos Humanos ou áreas correlatas.</li><li>Experiência mínima de 06 (seis) meses comprovada na área. </li></ul><br /><ul><li><i><strong>Cadastro curricular completo e atualizado na plataforma (<u>Informar nome completo</u>).</strong></i></li></ul><br /><br /><ul><li>Carga horária: 40 horas semanais</li><li>Remuneração: R$ 3.527,67</li></ul><br /><br /><b>Período de Inscrições:</b> 03/03/2026 a 04/03/2026<br /><br /><br /><b>Observações:</b><br />O não preenchimento das informações obrigatórias no momento da inscrição poderá acarretar a desclassificação do candidato. Inscrições realizadas fora do período informado não serão consideradas válidas.<br /><br /><br />]]></description>
+<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação de Nível Superior completo em Administração, Contabilidade, Economia, Recursos Humanos ou áreas correlatas.</li><li>Experiência mínima de 06 (seis) meses comprovada na área. </li></ul><br /><ul><li><i><strong>Cadastro curricular completo e atualizado na plataforma (<u>Informar nome completo</u>).</strong></i></li></ul><br /><br /><ul><li>Carga horária: 40 horas semanais</li><li>Remuneração: R$ 3.527,67 </li></ul><br /><br /><b>Período de Inscrições:</b> 03/03/2026 a 04/03/2026<br /><br /><br /><b>Observações:</b><br />O não preenchimento das informações obrigatórias no momento da inscrição poderá acarretar a desclassificação do candidato. Inscrições realizadas fora do período informado não serão consideradas válidas.<br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/senaipboportunidades/21/analista-corporativo-departamento-pessoal-senai-dr]]></applyUrl>
     <companyId><![CDATA[80346365]]></companyId>
     <city><![CDATA[Campina Grande]]></city>
@@ -64050,6 +64019,52 @@ atividades;</li><li>Avaliar o nível de aprendizado do aluno;</li><li>Controlar 
         </highEnd>
         <lowEnd>
           <amount><![CDATA[27.48]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[676e0ef8-8d4b-498c-912d-e94ddec3fa5f]]></partnerJobId>
+    <company><![CDATA[SERVIÇO SOCIAL DA INDÚSTRIA]]></company>
+    <title><![CDATA[PROFESSOR NÍVEL SUPERIOR EM ENSINO BÁSICO (FUNDAMENTAL II - CIÊNCIAS BIOLÓGICAS) ESCOLA SESI SOUSA]]></title>
+    <posterEmail><![CDATA[veronicagarcia@fiepb.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Exercer a docência em Ensino Infantil, Fundamental e Médio, participando de encontros pedagógicos destinados ao planejamento, acompanhamento e avaliação do processo de ensino-aprendizagem; Ministrar aulas em matérias diversas no SESI e na empresa; </li>
+</ul><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Ministrar aulas estabelecidas conforme os dias letivos;</li><li>Participar integralmente dos períodos dedicados ao planejamento, à avaliação e ao desenvolvimento profissional;</li><li>Participar da elaboração e execução do projeto político-pedagógico e da proposta pedagógica da escola;</li><li>Elaborar e cumprir seu plano de trabalho (aula) observando a proposta pedagógica desenvolvida;</li><li>Planejar coletivamente e desenvolver atividades voltadas para alunos que apresentam diferentes ritmos de aprendizagem e desempenho escolar insatisfatório;</li><li>Colaborar com as atividades de articulação da escola com as famílias e a comunidade;</li><li>Integrar-se às atividades de organização e gestão da escola;</li><li>Ministrar aulas, efetuando os devidos registros de suas atividades;</li><li>Avaliar o nível de aprendizado do aluno;</li><li>Controlar frequência de alunos;</li><li>Participar de eventos;</li><li>Realizar as demais atividades relacionadas ao cargo/função.</li></ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação de Nível Superior Completo em Licenciatura em Ciências Biológicas; </li><li><b>Conhecimentos didático-pedagógicos;</b></li><li><i><strong>Cadastro curricular completo e atualizado na plataforma (<u>Informar nome completo</u>).</strong></i></li><br /><br /><ul><li><u>Remuneração: R$ 20,79 Hora/aula (sem o acrescido de 1/6 conforme legislação)</u></li></ul><br /><br /><b>Período de Inscrições:</b> 03/03/2026 a 08/03/2026<br /><br /><br /><b>Observações:</b><br />O não preenchimento das informações obrigatórias no momento da inscrição poderá acarretar a desclassificação do candidato. Inscrições realizadas fora do período informado não serão consideradas válidas.<br /><br /></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sesipboportunidades/22/professor-nivel-superior-em-ensino-basico-fundamental-ii-ciencias-biologicas-escola-sesi-sousa]]></applyUrl>
+    <companyId><![CDATA[83949417]]></companyId>
+    <city><![CDATA[Sousa]]></city>
+    <state><![CDATA[PB]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[20.79]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[20.79]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
@@ -68959,10 +68974,10 @@ Manter o ambiente de trabalho limpo, seguro e organizado, seguindo as normas de 
   <job>
     <partnerJobId><![CDATA[7a2c1462-f56a-45ea-8667-787d725cea77]]></partnerJobId>
     <company><![CDATA[MB Labs]]></company>
-    <title><![CDATA[Engenharia de IA]]></title>
+    <title><![CDATA[Analista de IA]]></title>
     <posterEmail><![CDATA[juliana.reis@mblabs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado por tecnologia e busca uma oportunidade onde possa realmente fazer a diferença, temos uma proposta que pode ser ideal para você!<br />Estamos em busca de profissionais criativos e dedicados, que desejam se juntar a uma equipe inovadora e dinâmica, voltada para o desenvolvimento de soluções que impactam diretamente no sucesso de nossos projetos. <br /><br /><br />Aqui, você terá a chance de colaborar em um ambiente estimulante, onde suas ideias serão valorizadas e suas habilidades, potencializadas. Este é o momento de integrar um time que acredita no crescimento mútuo e na busca constante pela excelência. Se você está pronto para um novo desafio em sua carreira, venha fazer parte da nossa jornada e contribuir para a construção de um futuro mais tecnológico e eficiente!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Engenheiro(a) de IA com foco em Agentes Autônomos<br /><br />Profissional especializado no desenvolvimento de soluções baseadas em Inteligência Artificial, com ênfase na criação de agentes inteligentes (autônomos, conversacionais, ou baseados em LLMs), utilizando Python como principal linguagem de desenvolvimento. Atua desde a concepção e arquitetura da solução até a implementação, testes e deploy em ambientes escaláveis.<br /><br /><br /><ul><li>Projetar, desenvolver e manter agentes inteligentes (baseados em LLMs, regras, planejamento, ou multiagentes);</li><li>Traduzir problemas de negócio em arquiteturas de IA, considerando interação com usuários, tomada de decisão e automação de tarefas;</li><li>Desenvolver fluxos de prompt engineering, orquestração de ferramentas (tools) e memória de contexto para agentes conversacionais;</li><li>Integrar os agentes a APIs externas, bases de dados e ferramentas de automação;</li><li>Testar, avaliar e monitorar o comportamento e desempenho dos agentes com foco em eficiência, custo e robustez;</li><li>Trabalhar em conjunto com times de dados, produto e engenharia para garantir alinhamento técnico e funcional.</li></ul><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Linguagem Python (avançado): Padrões de projeto, orientação a objetos, boas práticas de organização de código;</li><li>Frameworks de agentes: experiência com LangChain, Semantic Kernel, Haystack, ou implementações próprias de agentes;</li><li>Modelos de linguagem (LLMs): conhecimento em OpenAI, Hugging Face Transformers, Mistral, entre outros;</li><li>Orquestração e Tools: criação de agentes que usam múltiplas ferramentas (ex: banco de dados, API externa, RAG);</li><li>Memória e persistência de contexto: uso de Redis, ChromaDB, ou outras soluções de memória vetorial;</li><li>Integração com APIs REST e bancos de dados;</li><li>Conhecimentos em cloud computing (Azure) para deploy e escalabilidade.</li></ul><br /><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mblabs/47/engenharia-de-ia]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mblabs/47/analista-de-ia]]></applyUrl>
     <companyId><![CDATA[9311532]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -69250,33 +69265,6 @@ correlatas. </li><li>Conhecimento básico de rotinas de Controle de Qualidade e
         </highEnd>
         <lowEnd>
           <amount><![CDATA[2400.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[075d3a9c-3a23-4f2d-8173-3e9f1e408fd6]]></partnerJobId>
-    <company><![CDATA[Yosen]]></company>
-    <title><![CDATA[Estágio em Controle de Qualidade]]></title>
-    <posterEmail><![CDATA[catharina.gil@yosen.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Apoiar a equipe de Controle de Qualidade nas rotinas de inspeção, testes, registro e organização de documentos técnicos, garantindo a conformidade com os padrões internos e exigências regulatórias.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar nas atividades de inspeção de qualidade em matérias-primas, produtos em processo e produtos acabados.</li><li>Coletar amostras para análises físico-químicas.</li><li>Auxiliar na realização de testes simples e registrar os resultados conforme os procedimentos.</li><li>Apoiar na organização de documentos técnicos, laudos e registros.</li><li>Ajudar na atualização de planilhas e sistemas de controle.</li><li>Contribuir com a preparação de documentos para auditorias.</li><li>Cumprir normas de Boas Práticas de Fabricação (BPF) e segurança.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando superior em Farmácia, Química, Engenharia de Alimentos, ou áreas afins.</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/yosencarreiras/20/estagio-em-controle-de-qualidade]]></applyUrl>
-    <companyId><![CDATA[20475456]]></companyId>
-    <city><![CDATA[Ribeirão Preto]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1000.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
@@ -71003,14 +70991,14 @@ Apoiar a evolução de padrões de experiência e boas práticas de usabilidade 
   <job>
     <partnerJobId><![CDATA[1f3690f4-d3bf-4285-bddb-909508a80380]]></partnerJobId>
     <company><![CDATA[Monvizo Ar Condicionado]]></company>
-    <title><![CDATA[Assistente de Pós-vendas]]></title>
+    <title><![CDATA[Auxiliar de Pós-vendas]]></title>
     <posterEmail><![CDATA[rh.monvizo@gmail.com]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Garantir a excelência
 no atendimento ao cliente após a conclusão da venda, assegurando o
 acompanhamento eficiente dos pedidos, a resolução ágil de ocorrências e o
 fortalecimento do relacionamento, contribuindo para a fidelização e a reputação
 da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />·      - Realizar atendimento ao cliente no pós-venda, oferecendo suporte completo e esclarecimento de dúvidas.- Gerenciar e acompanhar reclamações, garantindo tratativas rápidas e eficazes.<br />- Conduzir processos de trocas, cancelamentos e tratativas de avarias.<br />- Monitorar pedidos e acompanhar fluxos logísticos até a entrega final.<br />- Manter interface constante com a área comercial e logística para alinhamento de informações.<br />- Registrar atendimentos, interações e ocorrências em sistema CRM.<br />- Atualizar status de pedidos e posicionar clientes sobre prazos e resoluções.<br />- Atuar de forma estratégica na fidelização e na manutenção do relacionamento com o cliente.<br />- Zelar pela experiência positiva do cliente e pela imagem da empresa.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Domínio de ferramentas: Pacote Office e sistemas CRM.<br />- vivência na área de logística.<br />- Boa comunicação escrita e verbal.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdemonvizoarcondicionadoclimatizacaoevendas/9/assistente-de-pos-vendas]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdemonvizoarcondicionadoclimatizacaoevendas/9/auxiliar-de-pos-vendas]]></applyUrl>
     <companyId><![CDATA[11750439]]></companyId>
     <city><![CDATA[Maringá]]></city>
     <state><![CDATA[PR]]></state>
