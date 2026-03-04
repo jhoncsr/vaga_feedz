@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 04 Mar 2026 19:17:51 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 20:19:33 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3118]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3128]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -828,25 +828,6 @@ todas as etapas da jornada na TOTVS.<br /><br /><br /><br /><b>Responsabilidades
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8471/produto-analista-de-negocios-pleno-produto-rh]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[35ca42ca-24ae-4eb0-8efd-2515335035e2]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Analista Sênior de Desenvolvimento de Software (Java e IA)]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar como uma peça-chave técnica no desenvolvimento e sustentação de software de alta escala. Você será responsável por implementar soluções complexas, garantir a estabilidade do ecossistema Fluig e integrar inovações de Inteligência Artificial, atuando com autonomia e excelência técnica dentro do time.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li><b>Execução Técnica Avançada: </b>Desenvolver e sustentar componentes de backend de alta complexidade, utilizando Java e servidores JBoss/Wildfly.</li><li><b>Integração de IA: </b>Implementar e otimizar funcionalidades que utilizam Inteligência Artificial, consumindo LLMs e utilizando frameworks de orquestração para criar soluções inteligentes.</li><li><b>Domínio Arquitetural: </b>Compreender profundamente a arquitetura backend do Fluig, atuando na análise de componentes e organização de funcionalidades.</li><li><b>Qualidade e Testes: </b>Desenvolver testes automatizados (unitários e integrados) e realizar Code Reviews criteriosos para manter o padrão de qualidade do produto.</li><li><b>Análise de Requisitos:</b> Apoiar o PO e o Especialista na tradução de necessidades de negócio em especificações técnicas detalhadas e viáveis.</li><li><b>Mentoria Técnica:</b> Apoiar desenvolvedores de menor senioridade (Analistas I e II), sanando dúvidas, revisando códigos e disseminando boas práticas.</li><li><b>Documentação e Padrões:</b> Registrar etapas de desenvolvimento e manter a documentação técnica atualizada em nossas ferramentas de versionamento.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Experiência: Vivência sólida na área de desenvolvimento</li><li>Formação: Ensino Superior completo em TI ou áreas correlatas.</li><li>Hard Skills Obrigatórias:</li><li>Domínio avançado de <b>Java </b>(Certificação).</li><li>Frameworks Spring e Spring Boot.</li><li>Experiência com Hibernate e WebServices API (REST).</li><li>Conhecimento sólido em servidores de aplicação JBoss.</li><li>Domínio de Bancos de Dados (Oracle, SQL Server ou MySQL).</li><li>Experiência com ferramentas de ALM: JIRA, Azure DevOps, Bamboo e Git.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8384/tech-analista-senior-de-desenvolvimento-de-software-java-e-ia]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[Joinville]]></city>
     <state><![CDATA[SC]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -3842,6 +3823,25 @@ Uso de ferramentas de IA.</li></ul>]]></description>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[bd751b9d-a3f4-4dfe-abde-fea6cabfed15]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Especialista em Engenharia de Software Backend - Python]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é apaixonado por tecnologia, automação e soluções escaláveis? Curte trabalhar com cloud e linguagens como Python? Então essa vaga é pra você!Estamos em busca de Especialistas Backend para fortalecer nosso time de desenvolvimento, com atuação majoritária na arquitetura e desenvolvimento de novas soluções, serviços e scripts. Nossa Stack se concentra principalmente em Serverless com uso de AWS Lambda, Step Function, API Gateway, DynamoDB entre outros, com desenvolvimento em Python.Se você é uma pessoa que gosta de resolver problemas complexos e entregar valor com qualidade, vem com a gente!<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar na criação de Scripts e Workflows de novas funcionalidades e serviços, com propostas de arquiteturas escaláveis e altamente disponíveis em cloud pública, com foco em AWS;</li><li>Propostas de melhorias em scripts e workflows já existentes, com foco no ganho de performance extraindo o melhor dos recursos na relação custo x benefício;</li><li>Trabalhar com a stack serverless AWS: Lambda, Step Functions, API Gateway;</li><li>Domínio em linguagem Python e Bancos de Dados não relacionais (DynamoDB);</li><li>Contribuir com documentações em Base de Conhecimento.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo na área de TI (Análise de Sistemas, Ciência ou Engenharia da Computação);</li><li>Pós-graduação em andamento será um diferencial.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8518/tech-especialista-em-engenharia-de-software-backend-python]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[0e231f52-2b00-4173-ac00-fef12c342196]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Pré-vendas] Coordenação de Inteligência de Negócios | Prospecção]]></title>
@@ -3924,25 +3924,6 @@ Uso de ferramentas de IA.</li></ul>]]></description>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><b>Missão do cargo:</b><br />Responsável por executar e analisar as normas e procedimentos internos, assegurando o cumprimento dos cálculos e das obrigações (acessórias, trabalhistas e previdenciárias) dentro dos prazos internos e legais, para todos os TOTVERS e empresas do grupo TOTVS.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><ul><li>Acompanhar as mudanças nas legislações trabalhistas, previdenciárias, tributárias e convenções, lendo e contatando as áreas de consultoria jurídica e RH, com a finalidade de modificar procedimentos, solicitar e validar parâmetros e cálculos sistemáticos;</li><li>Operacionalizar os subsistemas como férias, benefícios, rescisão, ponto, folha e obrigações acessórias, por meio da execução das rotinas sistêmicas e obrigações da área de Adm Gente;</li><li>Garantir que todos os processos e cálculos executados no ERP, sigam os termos da legislação trabalhista, previdenciária e convenções coletivas, preservando o andamento dos subprocessos através das validações macros de rotinas;</li><li>Executar e analisar cálculos na folha de pagamento, cálculo horas extras, encargos trabalhistas, contabilização dos eventos de folha, além de realizar os pagamentos de salários e impostos da folha de pagamento, por meio das observações das rotinas diárias;</li><li>Apurar anualmente as obrigações acessórias como 13º salário, acompanhando as movimentações realizadas anualmente e as alterações exigidas no ano da obrigação;</li><li>Realizar e conferir as movimentações dos eventos gerados no ERP para o eSocial, dentro dos prazos legais e de acordo com o padrão estipulado com as áreas de Auditoria e Controles Internos, por meio de informações geradas sob demandas nos sistemas e conferidas em planilhas logo após o seu envio ao governo;</li><li>Realizar e analisar rateios, provisões de salários e benefícios (definidos por regras e determinações de RH e Sindicatos), avaliando os critérios com as áreas de apoio (RH, Contabilidade e Planejamento);</li><li>Atender e prestar informações de assuntos de processos, legislação e rotinas aos clientes internos, através do canal de atendimento e presencialmente quando necessário;</li><li>Realizar, atuar e apoiar as migrações de folha de empresas adquiridas;</li><li>Realizar múltiplas demandas e atividades de média complexidade de Adm Gente, relacionadas a cálculos, processamentos sistêmicos, atividades de Auditoria e obrigações legais, motivadas por situações que comprometem os prazos e sobreamentos de processos.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b>Formação: </b>Superior completo, preferencialmente nos cursos de Administração de Recursos Humanos, Ciências Contábeis ou Administração de Empresas;<br /><br /><br /><b>Conhecimentos Específicos: </b><br /><ul><li>Conhecimento em cálculos e legislação trabalhista;</li><li>Conhecimento mínimo em contabilidade (ex. contas patrimoniais e conceitos de débito e crédito);</li><li>Aspectos como empatia, boa escrita, facilidade de lidar com público, alta capacidade de atenção, organização, dinamismo e proatividade;</li><li>Excel intermediário ou avançado.</li></ul><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/7286/adm-analista-de-adm-de-gente-pleno-folha-de-pagamento]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[9672c143-4ab4-4dcc-842a-0449faa37be5]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[Analista de Experiência do Usuário Junior - UX]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar como um dos pontos principais na materialização visual dos nossos produtos.<br />Sua missão vai além da entrega: é somar ao time com uma postura colaborativa,<br />apoiando ativamente desde a etapa de Discovery até o Handoff, fortalecendo a<br />nossa cultura de Design através da troca constante de conhecimentos e proatividade<br />no dia a dia.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />● Execução de Interface: Criar fluxos de usuário, wireframes, protótipos de alta<br />fidelidade e interfaces finais<br />● Manutenção de Consistência: Utilizar e contribuir para a evolução do nosso<br />Design System, garantindo escalabilidade e padronização visual.<br />● Apoio em Discovery: Auxiliar Designers em pesquisas com usuários, testes de<br />usabilidade e benchmarks competitivos.<br />● Handoff Técnico: Preparar a documentação de design e assets para os<br />desenvolvedores, garantindo que a implementação fiel do layout.<br />● Colaboração Ágil: Participar ativamente das cerimônias do time e defender as<br />decisões de design com base em boas práticas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />● Figma: Conhecimento em componentes, variantes e auto-layout (essencial).<br />● Fundamentos de UI/UX: Conhecimento sobre heurísticas de usabilidade, hierarquia<br />visual, tipografia, cores e grid.<br />● Prototipagem: Capacidade de criar protótipos navegáveis para testes e validação.<br />● Experiência com Design Systems: Já ter utilizado bibliotecas de componentes e<br />tokens em projetos anteriores.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8282/analista-de-experiencia-do-usuario-junior-ux]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -6807,6 +6788,25 @@ para otimizar estratégias;<br /><br /><b>Responsabilidades e atribuições</b><
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3df27b77-03ce-4675-af1e-a1a8c2d91b74]]></partnerJobId>
+    <company><![CDATA[Agência Fato Relevante]]></company>
+    <title><![CDATA[Atendimento Júnior]]></title>
+    <posterEmail><![CDATA[vinicius.fernandes@nexcomgrupo.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <b>Atendimento Júnior </b> para integrar a equipe que atende um grande cliente do setor de educação, com atuação em pautas diversas.<br />Procuramos uma pessoa organizada, proativa e com boa capacidade de relacionamento, que queira se desenvolver em rotinas de assessoria de imprensa e relações públicas, atuando em conjunto com a equipe no planejamento e execução das estratégias de comunicação.<br />O modelo de trabalho é híbrido. É necessário residir em <b>São Paulo ou região metropolitana</b>, devido à rotina de cobertura de eventos e demandas presenciais pontuais.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar no planejamento e execução das estratégias de assessoria de imprensa;<br /></li><li>Produzir e revisar textos (press releases, notas, sugestões de pauta, artigos, entre outros);<br /></li><li>Realizar follow-up ativo com jornalistas e formadores de opinião;<br /></li><li>Apoiar no relacionamento com a imprensa e no mapeamento de oportunidades de pauta;<br /></li><li>Auxiliar na organização de agendas de entrevistas e eventos;<br /></li><li>Elaborar relatórios e apresentações em PowerPoint;<br /></li><li>Monitorar notícias e acompanhar resultados de mídia;<br /></li><li>Contribuir para o bom fluxo de informações entre cliente, imprensa e equipe interna.<br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Jornalismo ou Relações Públicas;<br /></li><li>Excelente comunicação escrita e verbal;<br /></li><li>Redação clara, objetiva e adaptável a diferentes públicos;<br /></li><li>Conhecimento sobre o funcionamento da mídia e boas práticas de relações públicas;<br /></li><li>Capacidade de planejamento, organização e follow-up;<br /></li><li>Organização, proatividade e habilidade para trabalhar em equipe;<br /></li><li>Conhecimento em PowerPoint;<br /></li><li>Disponibilidade para coberturas presenciais em São Paulo e região metropolitana.<br /></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gruponexcom/33/atendimento-junior]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[182b1d07-307a-474b-8849-291bbf241c63]]></partnerJobId>
@@ -14844,6 +14844,25 @@ procedimento necessário referente aos mesmos</li><li>Rotinas administrativas re
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[976c4abc-b88a-4839-bd20-34e7765fe9e2]]></partnerJobId>
+    <company><![CDATA[CFL Inc.]]></company>
+    <title><![CDATA[Estagiário de Projetos – Florianópolis/SC]]></title>
+    <posterEmail><![CDATA[giovanna.guimaraes@cfl.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um estagiário para compor o time de projetos em Santa Catarina!<br /><br /><b> PARA SE CANDIDATAR:</b> Envie seu currículo para <b>curriculosconfianza@gmail.com</b><br /><b>Assunto: </b>Estagiário de Projetos – Florianópolis/SC<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar pesquisas e levantamentos de informações para suporte aos</li><li>projetos</li><li>Participar de reuniões e acompanhar o desenvolvimento das atividades do</li><li>projeto</li><li>Auxiliar na elaboração de relatórios, apresentações e material de apoio</li><li>para o setor</li><li>Realizar atividades administrativas do setor - cadastro de fornecedores,</li><li>contratos e notas fiscais</li><li>Monitorar o recebimento de arquivos/ projetos em plataforma de</li><li>armazenamento na nuvem</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando ensino Superior em Arquitetura</li><li>Conhecimento em Pacote Office (Word, Excel, Power Point) e Autocad</li><li>Conhecimento em visualizador 3D</li></ul><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/clfinc/149/estagiario-de-projetos-florianopolis-sc]]></applyUrl>
+    <companyId><![CDATA[2898773]]></companyId>
+    <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4a37d56f-4301-4c4c-b2e2-6f62f02d2afa]]></partnerJobId>
     <company><![CDATA[CFL Inc.]]></company>
     <title><![CDATA[Almoxarife I - Florianópolis/SC]]></title>
@@ -22561,26 +22580,6 @@ importantes:
     <posterEmail><![CDATA[smfriedrich@ihm.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />O papel de Pré-Vendas irá atuar na área de Inteligência Industrial da IHM, cujo propósito é sermos parceiros da indústria em eficiência operacional, tornando-a mais sustentável e eficiente por meio da inteligência artificial. A Inteligência Industrial faz isso principalmente através da prestação de serviços especializados em Ciência de Dados e Otimização de Processos para grandes players da indústria.Neste papel, o profissional atua como link entre o time de delivery da Inteligência Industrial e a área de Negócios e Marketing da empresa, suportando tecnicamente todo o ciclo de vendas, que é conduzido pelos Gerentes de Negócios de Transformação Digital da empresa.Vaga para trabalho flexível (presencial e/ou remoto), com possibilidade de viagens pontuais aos clientes e escritório em Belo Horizonte. Se você tem conhecimento nestas áreas e deseja atuar mais próximo a Negócios, essa vaga é para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar das etapas de vendas, conduzidas pelos Gerentes de Negócios, propondo melhores abordagens para atender às necessidades dos clientes;</li><li>Ser o link entre o time técnico e à área de Negócios e Marketing;</li><li>Entender as oportunidades e dores dos clientes;</li><li>Realizar apresentações com o objetivo de encantar tecnicamente os clientes;</li><li>Realizar qualificação técnica de Leads;</li><li>Discutir a proposta de solução com os especialistas técnicos da Inteligência Industrial;</li><li>Conduzir a elaboração de propostas técnicas e estimativas de esforços para execução dos projetos da área;</li><li>Elaborar os materiais técnicos de venda;</li><li>Suportar nas definições estratégicas da área com visão de negócios e mercado.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação Superior em Engenharia (preferencialmente Controle e Automação, Química ou Elétrica) ou áreas de tecnologia;</li><li>Experiencia profissional trabalhando com a indústria;</li><li>Excelente comunicação verbal e escrita;</li><li>Experiência em Pacote Office, com ênfase para Excel e PowerPoint;</li><li>Flexibilidade, detalhista, gestão do tempo e pró-atividade;</li><li>Inglês intermediário/avançado;</li><li>Experiência na condução de apresentações para clientes, destacando método de atuação e diferenciais competitivos. </li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ihmstefanini/97/consultor-de-solucoes-industriais-pre-vendas-tecnicas]]></applyUrl>
-    <companyId><![CDATA[1306131]]></companyId>
-    <city><![CDATA[Belo Horizonte]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[cc9cdf10-5400-4e79-a5ec-41e84d6fd364]]></partnerJobId>
-    <company><![CDATA[Stefanini IHM]]></company>
-    <title><![CDATA[Estágio de Sistemas Elétricos]]></title>
-    <posterEmail><![CDATA[smfriedrich@ihm.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Procuramos jovens talentos cursando Engenharia Elétrica que desejem iniciar sua carreira como estagiário(a) na Stefanini IHM.<br />
-Ah, e é importante estar estudando no período noturno!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar o desenvolvimento de estudos elétricos e projetos elétricos industriais;</li><li>Aprender com profissionais experientes em um ambiente que estimula a criatividade;</li><li>Ter espaço para propor, construir e evoluir com a gente.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><div style="text-align:justify"><ul><li>Estudante de Engenharia Elétrica com vontade de aprender, crescer profissionalmente e fazer a diferença com a gente;</li><li>Disponibilidade para trabalhar pela manhã, necessário estudar à noite.</li></ul><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ihmstefanini/89/estagio-de-sistemas-eletricos]]></applyUrl>
     <companyId><![CDATA[1306131]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
     <state><![CDATA[MG]]></state>
@@ -32702,6 +32701,44 @@ empatia. Junte-se a nós e faça a diferença no cuidado com a vida!<br /><br />
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[e988c31f-8860-4ef3-a87a-eb318f4a98c3]]></partnerJobId>
+    <company><![CDATA[LTM]]></company>
+    <title><![CDATA[Analista de Projetos]]></title>
+    <posterEmail><![CDATA[valeria.jorge@ltmchicotes.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais dedicados e comprometidos para compor nossa equipe. Se você é uma pessoa proativa, gosta de trabalhar em equipe e busca constantemente por aprendizado e crescimento profissional, essa pode ser a oportunidade perfeita para você! Aqui você terá a chance de fazer parte de um ambiente dinâmico e desafiador, contribuindo para o sucesso de projetos e para o desenvolvimento de produtos de qualidade. Venha fazer parte do nosso time e crescer conosco! Se você se identifica com o perfil, não perca essa chance e candidate-se agora mesmo! Estamos ansiosos para receber sua candidatura e contar com a sua energia e vontade de fazer a diferença em nossa equipe!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Mapear, analisar desperdícios e
+identificar oportunidades de melhoria nos processos, propondo soluções
+eficazes.</li><li>Conduzir projetos de melhoria
+contínua utilizando metodologias como WCM, Lean, Six Sigma, Kaizen, PMBOK,
+APQP, Scrum, Kanban e PDCA.</li><li>Monitorar indicadores de
+desempenho (KPIs) e propor ações corretivas e preventivas.</li><li>Elaborar e acompanhar cronogramas,
+relatórios e apresentações de resultados.</li><li>Apoiar equipes multidisciplinares,
+facilitando a comunicação entre as áreas envolvidas.</li><li>Garantir a documentação e
+padronização dos processos de gestão de projetos.</li><li>Monitorar o andamento das etapas
+dos projetos, assegurando conformidade com padrões de qualidade.</li><li>Participar e conduzir reuniões com
+clientes internos e externos, apresentando cronogramas e evolução das
+atividades.</li><li>Apoiar o time nas apresentações de
+projetos.</li><li>Ministrar e participar de
+treinamentos sobre ferramentas de melhoria contínua.</li><li>Pesquisar tendências tecnológicas
+e boas práticas, compartilhando insights com a equipe.</li><li>Executar atividades correlatas ao
+cargo conforme orientação do superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior completo ou
+cursando em Engenharia, Administração, Gestão de Projetos, Tecnologia, Produção
+ou áreas correlatas.</li><li>Conhecimento básico ou
+intermediário em normas de qualidade e ISO.</li><li>MS Project ou ferramentas
+similares</li><li>Ferramentas de CAD/ VCAD</li><li>Pacote office - avançado</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaltm/68/analista-de-projetos]]></applyUrl>
+    <companyId><![CDATA[34651872]]></companyId>
+    <city><![CDATA[Botucatu]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[3a21cf65-ebd3-4b67-b66c-78a01822905b]]></partnerJobId>
     <company><![CDATA[LTM]]></company>
     <title><![CDATA[Analista PPCP]]></title>
@@ -40194,6 +40231,25 @@ sucroenergético será um diferencial</li><li>Residir em Uberaba, Igarapava, Ara
     <posterEmail><![CDATA[maria.batista@deltasucroenergia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />•  Apoiar na implementação e acompanhamento das normas de segurança (NRs);<br />•  Auxiliar na realização de inspeções de segurança em áreas industriais e agrícolas;<br />•  Acompanhar a entrega, controle e uso adequado de EPIs, promovendo a conscientização sobre sua importância;<br />•  Contribuir na organização de campanhas de prevenção, treinamentos e programas de conscientização em segurança;<br />•  Participar da elaboração e atualização de documentos como PPRA, PCMSO e LTCAT (quando aplicável);<br />•  Dar suporte às atividades da CIPA e demais comissões internas de prevenção;<ul><li>Realizar a conferência de documentação de prestadores de serviços;</li><li>Apoiar nos processos de integração de novos colaboradores, com foco em segurança e saúde ocupacional.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando Técnico em Segurança do Trabalho (a partir do 1º módulo/semestre);</li><li>Conhecimento básico das normas de segurança do trabalho;</li><li>Familiaridade com Pacote Office (Word, Excel e PowerPoint);</li><li>Disponibilidade para atuar em ambiente industrial e agrícola;</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1115/estagio-de-seguranca-do-trabalho]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Delta]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[42c49318-7e56-4453-9c36-668e3dd1e976]]></partnerJobId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Operador de Transbordo II - CTT]]></title>
+    <posterEmail><![CDATA[maria.batista@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Operar máquinas pesadas ( trator Transbordo).</li><li>Monitorar o funcionamento das máquinas.</li><li>Identificar falhas e realizar manutenções preventivas</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Fundamental completo.</li><li>CNH B ( Definitiva)</li><li>Residir em Igarapava SP ou Delta MG</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1038/operador-de-transbordo-ii-ctt]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Delta]]></city>
     <state><![CDATA[MG]]></state>
@@ -50445,6 +50501,25 @@ Organização e autonomia para gerir sua rotina de visitas e resultados.<br /></
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[38856a72-49d3-402d-99dd-b56cbcfc146c]]></partnerJobId>
+    <company><![CDATA[PROS Agência de Comunicação]]></company>
+    <title><![CDATA[Atendimento de PR Pleno]]></title>
+    <posterEmail><![CDATA[debora.soares@pros.com.vc]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está querendo entrar na agência que põe na rua o PR mais criativo do mercado, com pessoas incríveis que realmente amam seu trabalho, essa é a sua chance!!<br />Se liga nessa oportunidade para Atendimento de PR Pleno!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Construir e manter relacionamento próximo, consultivo e estratégico com clientes, jornalistas e influenciadores;</li><li>Planejar, executar e acompanhar campanhas com foco em assessoria de imprensa (pautas, releases, follow up e relacionamento ativo com redações);</li><li>Planejar, executar e mensurar campanhas com influenciadores, incluindo negociação, briefing, acompanhamento de entregas e relatórios;</li><li>Produzir, revisar e direcionar materiais estratégicos (releases, notas, artigos, briefings, roteiros e outros conteúdos institucionais);</li><li>Apoiar o planejamento estratégico das marcas atendidas, com visão integrada de PR e influência;</li><li>Analisar clipping, métricas e indicadores de performance para elaboração de relatórios e apresentações para o cliente.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação em Comunicação Social, Jornalismo, Relações Públicas, Publicidade e Propaganda ou áreas correlatas;</li><li>Experiência prévia em assessoria de imprensa e marketing de influência;</li><li>Vivência no relacionamento direto com clientes;</li><li>Conhecimento de ferramentas de comunicação e métricas de performance (clipping, mídia espontânea, alcance, engajamento, KPIs etc.).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspros/43/atendimento-de-pr-pleno]]></applyUrl>
+    <companyId><![CDATA[1275512]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[2a4ed39a-1bb5-401f-afa5-a7927fad0936]]></partnerJobId>
     <company><![CDATA[PROS Agência de Comunicação]]></company>
     <title><![CDATA[Atendimento de PR Sênior]]></title>
@@ -50480,44 +50555,6 @@ Organização e autonomia para gerir sua rotina de visitas e resultados.<br /></
      com clientes e marcas do segmento <b>Consumo/Alimentos</b>.</li>
 </ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspros/42/atendimento-de-pr-senior]]></applyUrl>
-    <companyId><![CDATA[1275512]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a1c9a60a-b32d-4659-a1ee-35c3362a756c]]></partnerJobId>
-    <company><![CDATA[PROS Agência de Comunicação]]></company>
-    <title><![CDATA[Atendimento de PR Sênior]]></title>
-    <posterEmail><![CDATA[debora.soares@pros.com.vc]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você está querendo entrar na agência que põe na rua o PR mais criativo do mercado, com pessoas incríveis que realmente amam seu trabalho, essa é a sua chance!!<br />Se liga nessa oportunidade para Atendimento de PR Sênior!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Ser o ponto focal do cliente, mantendo relacionamento próximo, consultivo e de confiança;</li><li>Liderar demandas, organizando fluxos de trabalho e garantindo cumprimento de prazos e qualidade das entregas;</li><li>Orientar, desenvolver e acompanhar o trabalho de assistentes e/ou atendimentos juniores;</li><li>Atuar na linha de frente com porta-vozes e interfaces estratégicas;</li><li>Desenvolver planejamentos estratégicos de PR e imprensa para marcas e produtos;</li><li>Produzir materiais como releases, notas, Q&amp;A, media briefings, talking points e outros conteúdos institucionais;</li><li>Realizar venda ativa de pautas, follow-ups, relacionamento contínuo com jornalistas e acompanhamento de entrevistas;</li><li>Conduzir interfaces com outras agências parceiras (ex.: influenciadores), garantindo alinhamento de mensagens e calendários;</li><li>Apoiar na gestão e condução de situações de crise, incluindo planejamento e produção de materiais relacionados ao tema.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prévia em atendimento de PR/Assessoria de Imprensa, preferencialmente em contas de médio ou grande porte;</li><li>Vivência ou participação em projetos sociais e/ou iniciativas relacionadas a ESG;</li><li>Capacidade de conduzir planos de comunicação de ponta a ponta, desde a idealização estratégica até a execução;</li><li>Habilidade para gerenciar prioridades, cronogramas e múltiplos stakeholders simultaneamente;</li><li>Perfil proativo, responsável, organizado e colaborativo;</li><li>Excelente comunicação verbal e escrita;</li><li>Facilidade de relacionamento interpessoal e postura consultiva frente ao cliente.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspros/41/atendimento-de-pr-senior]]></applyUrl>
-    <companyId><![CDATA[1275512]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b48bb2df-d920-4075-a78d-e72f5db8a250]]></partnerJobId>
-    <company><![CDATA[PROS Agência de Comunicação]]></company>
-    <title><![CDATA[Analista de Relacionamento Sênior]]></title>
-    <posterEmail><![CDATA[debora.soares@pros.com.vc]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você está querendo entrar na agência que põe na rua o PR mais criativo do mercado, com pessoas incríveis que realmente amam seu trabalho, essa é a sua chance!!<br />Se liga nessa oportunidade para Assistente de atendimento de PR!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Produção de conteúdo estratégico para LinkedIn (posts, artigos e planejamento editorial);</li><li>Desenvolvimento de artigos de opinião para grandes veículos;</li><li>Redação de discursos, falas e mensagens institucionais;</li><li>Construção de apresentações de alto nível para fóruns estratégicos, eventos e conselhos;</li><li>Interface direta com presidentes, VPs e alta liderança;</li><li>Captação de insights com executivos e tradução em narrativas claras, estratégicas e influentes;</li><li>Mergulhar no universo de cada executivo (setor, mercado, tendências, stakeholders e agenda estratégica);</li><li>Identificar e propor oportunidades de posicionamento em imprensa, eventos, summits, premiações, podcasts e fóruns relevantes;</li><li>Atuar de forma consultiva na construção e fortalecimento da reputação executiva.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência comprovada na produção de conteúdo para alta liderança</li><li>Vivência com LinkedIn executivo e construção de marca pessoal</li><li>Experiência em posicionamento e visibilidade de executivos na imprensa e em eventos</li><li>Textos publicados (LinkedIn, imprensa, artigos assinados, discursos ou similares);</li><li>Excelente capacidade de escuta e leitura estratégica de cenário;</li><li>Escrita sofisticada, clara e adaptável a diferentes tons de voz;</li><li>Segurança para interagir com presidentes, VPs e conselhos</li><li>Excelente relacionamento interpessoal;</li><li>Organização, visão estratégica e alto nível de exigência com entregas;</li><li>Perfil proativo, com olhar atento a oportunidades e tendências.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspros/40/analista-de-relacionamento-senior]]></applyUrl>
     <companyId><![CDATA[1275512]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -50575,25 +50612,6 @@ Organização e autonomia para gerir sua rotina de visitas e resultados.<br /></
     <posterEmail><![CDATA[debora.soares@pros.com.vc]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Atualmente, com mais de 100 funcionários, a PROS é uma agência valente, com um DNA inovador, que sabe o poder de uma boa história para colocar as marcas naturalmente na vida dos consumidores e entregar engajamento e reputação nos mais diversos formatos. Entendemos de pessoas, dos contextos sociais e, com isso, conseguimos liderar conversas criativas, divertidas ou carregadas de propósito.<br /><br />Nos posicionamos como uma agência de PR criativo, desenvolvendo soluções multiplataforma para conectar marcas e pessoas. Parte do grupo Stagwell desde 2024, a agência entrega projetos que envolvem PR Stunt, Reputação, Talkability, Digital, Mídia, Influência, Conteúdo, Live Marketing e Cultura Organizacional.<br /><br /><br />Se você é criativo, curioso e tem vontade de colocar suas ideias em movimento, compartilha seu perfil com a gente. A PROS está sempre aberta pra conhecer novas pessoas inspiradoras. Vai que o próximo job é com você?<br /><br /><br /> <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Para participar é simples:<br />Se inscreva e mantenha seu perfil atualizado e quando surgir uma vaga com a sua cara, a gente te chama para bater um papo! <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Se você se identifica com áreas como Comunicação, Atendimento, Conteúdo, Estratégia, Planejamento, Criação, Mídia, Administrativo ou Financeiro, vem com a gente!<br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspros/10/banco-de-talentos-vem-ser-pros-porque-boas-ideias-nascem-de-boas-conexoes]]></applyUrl>
-    <companyId><![CDATA[1275512]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a06dc6ae-1227-47cd-9e59-1da203ae50a9]]></partnerJobId>
-    <company><![CDATA[PROS Agência de Comunicação]]></company>
-    <title><![CDATA[Assistente de Atendimento de PR]]></title>
-    <posterEmail><![CDATA[stela.sanches@pros.com.vc]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você está querendo entrar na agência que põe na rua o PR mais criativo do mercado, com pessoas incríveis que realmente amam seu trabalho, essa é a sua chance!!<br />Se liga nessa oportunidade para Assistente de atendimento de PR! <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O que você vai fazer:<ul><li>Acompanhar o dia a dia da assessoria de imprensa: envio de press releases, follow-ups, clipping e relacionamento com jornalistas;</li><li>Participar da curadoria, negociação e gestão de parcerias com influenciadores digitais;</li><li>Colaborar com a criação de estratégias de comunicação que conectem marca e público de forma relevante;</li><li>Apoiar o time em entregas estratégicas, relatórios e apresentações;</li><li>Apoiar no relacionamento com a imprensa, influenciadores e stakeholders.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Requisitos:<ul><li>Formação Superior em andamento ou completa em comunicação ou áreas correlatas; </li><li>Experiência prévia (mesmo que breve) com <strong>assessoria de imprensa</strong> e <strong>marketing de influência</strong>;</li><li>Interesse pelo universo de <strong>consumo, tendências e comportamento do consumidor</strong>;</li><li>Organização, atenção aos detalhes e boa escrita;</li><li>Proatividade e vontade de crescer junto com a conta.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspros/1/assistente-de-atendimento-de-pr]]></applyUrl>
     <companyId><![CDATA[1275512]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -53620,6 +53638,44 @@ Experiência prática com ambientes em nuvem (<strong>Azure, AWS ou GCP</strong>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[0fe7a828-7fd4-43fd-9f10-ab04b9acced0]]></partnerJobId>
+    <company><![CDATA[PPA]]></company>
+    <title><![CDATA[Estagiário]]></title>
+    <posterEmail><![CDATA[luis.henrique@ppa.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade que possa impulsionar sua carreira e proporcionar uma experiência prática enriquecedora? Temos uma vaga de estágio aberta que oferece um ambiente colaborativo e inovador, onde você poderá desenvolver suas habilidades e adquirir conhecimentos valiosos. Esta é a sua chance de fazer parte de uma equipe dinâmica, aprender com profissionais qualificados e contribuir com projetos desafiadores. Valoramos a criatividade, a proatividade e a vontade de aprender, e estamos prontos para apoiar seu crescimento profissional. Se você está motivado(a) e deseja fazer a diferença em um ambiente estimulante, não perca a oportunidade de se candidatar. Venha crescer conosco e faça parte de uma jornada que pode transformar sua trajetória profissional!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar na execução de atividades operacionais do setor.<br /> - Colaborar na organização.<br /> - Apoiar nas rotinas diárias da equipe, garantindo o fluxo das demandas.<br /> - Participar de reuniões e registrar informações relevantes para os projetos em andamento.<br /> - Atuar na interface com outras áreas da empresa, facilitando a comunicação e o trabalho em conjunto.<br /> - Apoiar em tarefas específicas de projetos, conforme necessidade.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Cursar ensino superior em área relacionada ao estágio.<br /> - Conhecimento básico em ferramentas de informática e pacote Office.<br /> - Boa capacidade de comunicação escrita e verbal.<br /> - Habilidade de trabalho em equipe.<br /> - Proatividade e disposição para aprender.<br /> - Organização e atenção aos detalhes.<br /> - Disponibilidade para estagiar conforme carga horária definida pela instituição de ensino.<br /> - Noções básicas sobre a área de atuação.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasppa/85/estagiario]]></applyUrl>
+    <companyId><![CDATA[71223568]]></companyId>
+    <city><![CDATA[Garça]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[2663128f-7ea7-47b4-a498-98a1c7b3c077]]></partnerJobId>
+    <company><![CDATA[PPA]]></company>
+    <title><![CDATA[Auxiliar de Limpeza]]></title>
+    <posterEmail><![CDATA[wellington.silva@ppa.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade para fazer parte de uma equipe acolhedora e dinâmica? Nós temos um espaço para você! Venha contribuir com um ambiente de trabalho limpo e organizado, onde a dedicação e o comprometimento são valorizados. Aqui, acreditamos que cada detalhe faz a diferença e que cada colaborador pode deixar sua marca. Oferecemos um ambiente de aprendizado, onde você poderá crescer e se desenvolver profissionalmente, cercado por pessoas que compartilham a mesma visão de qualidade e excelência. Se você é uma pessoa proativa, que valoriza o trabalho em equipe e tem disposição para contribuir, não perca a chance de se juntar a nós. Sua colaboração pode ser essencial para criar um espaço ainda melhor. Se você está pronto(a) para fazer parte de uma jornada transformadora, aguardamos sua candidatura!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar a limpeza e conservação de áreas internas e externas, como pisos, janelas e banheiros.<br /> - Manter o local de trabalho organizado e livre de resíduos.<br /> - Coletar e descartar corretamente o lixo e outros materiais inservíveis.<br /> - Auxiliar na reposição de materiais de higiene e limpeza.<br /> - Seguir as normas de segurança e saúde no trabalho durante as atividades.<br /> - Reportar necessidades de manutenção e limpeza aos responsáveis.<br /> - Participar de treinamentos e orientações sobre procedimentos de limpeza.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental completo<br /> - Experiência anterior na função ou em atividades similares<br /> - Conhecimento em técnicas de limpeza e conservação<br /> - Capacidade de trabalhar em equipe<br /> - Boa comunicação<br /> - Proatividade e organização<br /> - Disposição para trabalhar em diferentes turnos, se necessário<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasppa/78/auxiliar-de-limpeza]]></applyUrl>
+    <companyId><![CDATA[71223568]]></companyId>
+    <city><![CDATA[Garça]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[efcdc3f8-8438-48e3-8cc7-327ca6e9cafd]]></partnerJobId>
     <company><![CDATA[PPA]]></company>
     <title><![CDATA[Repositor]]></title>
@@ -55387,10 +55443,10 @@ Registro ativo na OAB.</li></ul>]]></description>
   <job>
     <partnerJobId><![CDATA[edeef68e-5e10-4109-91d7-0914bffe0145]]></partnerJobId>
     <company><![CDATA[BRAM OFFSHORE]]></company>
-    <title><![CDATA[Técnico em Segurança do Trabalho II]]></title>
+    <title><![CDATA[Técnico em Segurança do Trabalho II Onshore]]></title>
     <posterEmail><![CDATA[luana.francisco@chouest.com]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Profissional para atuar na área de Segurança do Trabalho, com foco na prevenção de acidentes e promoção da saúde ocupacional, garantindo a conformidade com as normas regulamentadoras e contribuir para um ambiente de trabalho seguro, saudável e produtivo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Responsabilidades e atribuições<ul><li>Mapear e controlar os riscos ambientais, de saúde e segurança no trabalho;</li><li>Avaliar o local de trabalho e eliminar e controlar os riscos à saúde e higiene industrial;</li><li>Oferecer treinamento e suporte contínuos em CIPA e GSSTB;</li><li>Ministrar treinamentos e desenvolver ações educativas na área de Saúde e Segurança Ocupacional; </li><li>Inspecionar locais, instalações, equipamentos e ambientes de trabalho;</li><li>Participar na investigação e elaboração de relatórios de acidentes: </li><li>Dados de alimentação para indicadores;</li><li>Monitorar e reportar todos os acidentes e incidentes de trabalho;</li><li> Preencha a planilha de indicadores de segurança e meio ambiente solicitada pelo cliente;</li><li> Receber, agendar e monitorar solicitações de descarte de resíduos de embarcações;</li><li> Receber, controlar e manter registros de toda a documentação ambiental das embarcações;</li><li>Monitore as inspeções realizadas por SMS por clientes ou agências externas às embarcações ou instalações:</li><li>Distribuir e manter os programas de manutenção de segurança da empresa (WISE, reuniões de segurança, planejamento prévio de tarefas, permissões de trabalho, quase acidentes, etc.);</li><li> Oferecer treinamento e suporte contínuos em CIPA e GSSTB;</li><li>Acompanhe todas as ações corretivas; </li><li>Orientar os funcionários sobre o uso, armazenamento, conservação e higienização de seus EPIs;</li><li>Executar outras atividades de natureza e complexidade semelhantes, a critério de seu superior.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Possuir Técnico em Segurança do Trabalho;</li><li>Experiência prévia na função;</li><li>Inglês intermediário (Será testado);</li><li>Boa comunicação e relacionamento interpessoal;</li><li>Proatividade e atenção aos detalhes</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/215/tecnico-em-seguranca-do-trabalho-ii]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/215/tecnico-em-seguranca-do-trabalho-ii-onshore]]></applyUrl>
     <companyId><![CDATA[5672510]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[RJ]]></state>
@@ -61644,6 +61700,58 @@ com organização de eventos corporativos.]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[7e2f16b2-195e-46a0-a478-6b2f53a0643a]]></partnerJobId>
+    <company><![CDATA[bap 💙]]></company>
+    <title><![CDATA[Pessoa Gerente Comercial]]></title>
+    <posterEmail><![CDATA[leonardo.lunz@bap.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />·        
+Liderar a estratégia de captação de novos
+condomínios (residenciais e comerciais).
+
+·        
+Gerenciar e desenvolver equipe de consultores
+comerciais focados em administração<br />
+condominial.
+
+·        
+Estruturar e acompanhar metas mensais de novos
+contratos e valor de taxa de administração.
+
+·        
+Monitorar funil de vendas (prospecção,
+diagnóstico, proposta, negociação e fechamento).
+
+·        
+Atuar diretamente em negociações estratégicas
+com possíveis clientes
+
+·        
+Desenvolver relacionamento com síndicos
+profissionais, construtoras e administradoras concorrentes.
+
+·        
+Mapear oportunidades de mercado e identificar
+condomínios em fase de troca de gestão.
+
+·        
+Elaborar relatórios gerenciais para
+acompanhamento de indicadores
+
+·          Sobre a BAP Com mais de 50 anos de presença e transparência na gestão condominial e imobiliária, a BAP acredita que administrar condomínios e cuidar de imóveis vai muito além de números e processos. É sobre presença no dia a dia, transparência em cada decisão, conduta responsável em todas as entregas, melhoria contínua dos nossos serviços e coragem para fazer diferente. Somos especialistas em gestão de condomínios residenciais e comerciais e em administração de imóveis, oferecendo soluções completas, modernas e com foco no que realmente importa: valorizar o patrimônio coletivo e facilitar a vida de síndicos, moradores e proprietários. <br /><br />✨ Nossas soluções incluem:<ul><li>Gestão financeira clara e transparente;</li><li>Ferramentas digitais que simplificam a rotina de síndicos, moradores e proprietários;</li><li>Consultoria proativa e atendimento humanizado;</li><li>Equipes especializadas em gestão tributária e suporte aos funcionários de condomínios;</li><li>Administração completa de imóveis — incluindo locação, manutenção e regularização;</li><li>Time dedicado à transição entre administradoras e ao relacionamento próximo com novos cliente Sobre a BAP Com mais de 50 anos de presença e transparência na gestão condominial e imobiliária, a BAP acredita que administrar condomínios e cuidar de imóveis vai muito além de números e processos. É sobre presença no dia a dia, transparência em cada decisão, conduta responsável em todas as entregas, melhoria contínua dos nossos serviços e coragem para fazer diferente. Somos especialistas em gestão de condomínios residenciais e comerciais e em administração de imóveis, oferecendo soluções completas, modernas e com foco no que realmente importa: valorizar o patrimônio coletivo e facilitar a vida de síndicos, moradores e proprietários. <br /><br />✨ Nossas soluções incluem:<ul><li>Gestão financeira clara e transparente;</li><li>Ferramentas digitais que simplificam a rotina de síndicos, moradores e proprietários;</li><li>Consultoria proativa e atendimento humanizado;</li><li>Equipes especializadas em gestão tributária e suporte aos funcionários de condomínios;</li><li>Administração completa de imóveis — incluindo locação, manutenção e regularização;</li><li>Time dedicado à transição entre administradoras e ao relacionamento próximo com novos cliente Sobre a BAP Com mais de 50 anos de presença e transparência na gestão condominial e imobiliária, a BAP acredita que administrar condomínios e cuidar de imóveis vai muito além de números e processos. É sobre presença no dia a dia, transparência em cada decisão, conduta responsável em todas as entregas, melhoria contínua dos nossos serviços e coragem para fazer diferente. Somos especialistas em gestão de condomínios residenciais e comerciais e em administração de imóveis, oferecendo soluções completas, modernas e com foco no que realmente importa: valorizar o patrimônio coletivo e facilitar a vida de síndicos, moradores e proprietários. <br /><br />✨ Nossas soluções incluem:<ul><li>Gestão financeira clara e transparente;</li><li>Ferramentas digitais que simplificam a rotina de síndicos, moradores e proprietários;</li><li>Consultoria proativa e atendimento humanizado;</li><li>Equipes especializadas em gestão tributária e suporte aos funcionários de condomínios;</li><li>Administração completa de imóveis — incluindo locação, manutenção e regularização;</li><li>Time dedicado à transição entre administradoras e ao relacionamento próximo com novos cliente</li></ul></li></ul></li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /> Sobre a BAP Com mais de 50 anos de presença e transparência na gestão condominial e imobiliária, a BAP acredita que administrar condomínios e cuidar de imóveis vai muito além de números e processos. É sobre presença no dia a dia, transparência em cada decisão, conduta responsável em todas as entregas, melhoria contínua dos nossos serviços e coragem para fazer diferente. Somos especialistas em gestão de condomínios residenciais e comerciais e em administração de imóveis, oferecendo soluções completas, modernas e com foco no que realmente importa: valorizar o patrimônio coletivo e facilitar a vida de síndicos, moradores e proprietários. <br /><br />✨ Nossas soluções incluem:<ul><li>Gestão financeira clara e transparente;</li><li>Ferramentas digitais que simplificam a rotina de síndicos, moradores e proprietários;</li><li>Consultoria proativa e atendimento humanizado;</li><li>Equipes especializadas em gestão tributária e suporte aos funcionários de condomínios;</li><li>Administração completa de imóveis — incluindo locação, manutenção e regularização;</li><li>Time dedicado à transição entre administradoras e ao relacionamento próximo com novos clientes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completa (Administração, Gestão Comercial, Marketing ou áreas<br />correlatas).<br /></li><li>Experiência mínima de 5 anos na área comercial.<br /></li><li>Experiência anterior no segmento de administração de condomínios.</li><li>Vivência com metas e gestão por indicadores (KPIs).</li><li>Experiência em liderança de equipe comercial.<br /></li><li>Conhecimento em CRM e gestão de funil de vendas.</li><li>Domínio de Excel/Google Planilhas para análise de resultados</li><li>Disponibilidade para visitas presenciais e viagens.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemserbap/26/pessoa-gerente-comercial]]></applyUrl>
+    <companyId><![CDATA[2458540]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[9e90d4df-84c6-47fe-be0f-788841ee895a]]></partnerJobId>
     <company><![CDATA[bap 💙]]></company>
     <title><![CDATA[Pessoa Assistente de Imóveis Sênior]]></title>
@@ -65341,8 +65449,62 @@ Administração, Economia, Engenharia, Tecnologia ou áreas correlatas.</li></ul
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[24373aca-fd4c-4778-a139-b8afbcfa45d7]]></partnerJobId>
+    <company><![CDATA[PRONIX]]></company>
+    <title><![CDATA[Closer (Executivo de Vendas Pleno/Sênior) – High Ticket / Infoprodutos]]></title>
+    <posterEmail><![CDATA[luis.eduardo@vdvgroup.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li><strong>Salário fixo (Inicial podendo variar entre R$2.500,00 a R$3.000,00) + Comissionamento escalonado com</strong>  (que pode alcançar possibilidades de ganhos entre 12k a 20k somente de comissionamento com porcentagens de comissão podendo chegar de 1% até 7% com base nas vendas e normas internas) – quanto mais você vender, maior sua comissão. Aqui, o seu ganho só depende do seu desempenho!</li></ul><br /><br /><ul><li><strong>Flexibilidade de horário</strong>  – autonomia para organizar sua rotina de acordo com o desempenho.</li><li><strong>Flexibilidade de atuação</strong>  – Trabalhar de forma  <strong>remota!</strong></li></ul><br /><br /><br />Se você é movido por desafios, tem paixão por vendas e deseja atuar em negociações de alto impacto? <br />Buscamos um <strong>Closer de Vendas Sênior</strong> para atuar em <strong>High Ticket e Infoprodutos</strong> , com foco em transformar oportunidades em resultados consistentes.<br /><br />Aqui, valorizamos profissionais que unem <strong>disciplina, persuasão e relacionamento consultivo</strong>, contribuindo diretamente para o crescimento exponencial do nosso negócio. <br /><br /><br />Se você busca um ambiente colaborativo, meritocrático e de alta performance, essa vaga é para você!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar o <strong>fechamento de vendas consultivas complexas</strong> (B2C e B2B quando aplicável).
+</li>
+<li>
+Conduzir <strong>calls de qualificação e fechamento</strong> de leads qualificados.
+</li>
+<li>
+Executar a <strong>cadência de follow-up estruturada</strong>, garantindo contato ativo e consistente.
+</li>
+<li>
+Atender clientes via <strong>WhatsApp, e-mail, telefone e videoconferência</strong>.
+</li>
+<li>
+Elaborar e apresentar <strong>propostas comerciais</strong> de forma estratégica.
+</li>
+<li>
+Manter atualizado o <strong>CRM de vendas</strong>, registrando interações e status de negociações.
+</li>
+<li>
+Colaborar com o time de pré-vendas/SDR e marketing para <strong>melhorar conversão e experiência do cliente</strong>.
+</li>
+<li>
+Trabalhar com <strong>metas claras, métricas de performance e indicadores de fechamento</strong>.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><strong>Experiência comprovada como Closer de Vendas em High Ticket / Infoprodutos</strong>.
+</li><li>
+Histórico de <strong>atingimento ou superação de metas de fechamento</strong>.
+</li><li>
+<strong>Domínio em técnicas de negociação consultiva</strong> (SPIN Selling, BANT, GPCT, NEPQ ou similares).
+</li><li>
+<strong>Comunicação persuasiva e clareza verbal</strong> para condução de calls e apresentações.
+</li><li>
+<strong>Capacidade analítica</strong> para identificar dores e necessidades do cliente.
+</li><li>
+<strong>Resiliência e disciplina</strong> para lidar com ciclos de vendas desafiadores.
+</li><li>
+<strong>Autogestão e organização</strong>, com habilidade em administrar pipeline e prazos.
+</li><li>
+Experiência no uso de <strong>CRM de vendas</strong> (HubSpot, Pipedrive, RD Station ou similares).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvdvgroup/20/closer-executivo-de-vendas-pleno-senior-high-ticket-infoprodutos]]></applyUrl>
+    <companyId><![CDATA[103190299]]></companyId>
+    <city><![CDATA[Mogi Guaçu]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[c3930663-4a33-48a4-b453-404917e7d5c0]]></partnerJobId>
-    <company><![CDATA[VDV Group]]></company>
+    <company><![CDATA[PRONIX]]></company>
     <title><![CDATA[Analista de E-commerce & Marketplaces Junior/Pleno/Sênior]]></title>
     <posterEmail><![CDATA[luis.eduardo@vdvgroup.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você é movido por resultados, adora entender o comportamento do consumidor e transformar dados em estratégias de venda?<br /><br />
@@ -65370,7 +65532,7 @@ Vivência com suporte a mentorias ou grupos de sellers;</li></ul>
   </job>
   <job>
     <partnerJobId><![CDATA[b8ac2c86-c9d3-4a19-89c1-6754d9ff157a]]></partnerJobId>
-    <company><![CDATA[VDV Group]]></company>
+    <company><![CDATA[PRONIX]]></company>
     <title><![CDATA[Assistente Administrativo]]></title>
     <posterEmail><![CDATA[luis.eduardo@vdvgroup.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você é organizado(a), atento(a) aos detalhes e gosta de manter processos funcionando com eficiência?<br />
@@ -65986,6 +66148,57 @@ sobre as operações.<br /><br /><b>Responsabilidades e atribuições</b><br /><
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/donizetevagas/7/motorista-forquilha]]></applyUrl>
     <companyId><![CDATA[22184004]]></companyId>
     <city><![CDATA[Forquilha]]></city>
+    <state><![CDATA[CE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[913ac58a-7b35-4d54-a3f7-a9498dc9e67e]]></partnerJobId>
+    <company><![CDATA[DONIZETE DISTRIBUIDORA S/A]]></company>
+    <title><![CDATA[PROMOTOR(A) DE VENDAS - FORTALEZA- REDENÇÃO]]></title>
+    <posterEmail><![CDATA[karla.oliveira@donizete.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>TEMOS VAGAS DISPONIVEIS PARA AS REGIÕES: <br /></b><ul><li><b>FORTALEZA</b></li><li><b>REDENÇÃO<br /><br /></b></li></ul>Reposição de produtos nas gôndolas, ilhas e pontos extras. Organização e limpeza dos espaços destinados aos produtos. Controle de validade e precificação correta dos itens. Montagem de materiais promocionais e ações de merchandising. Verificação e correção de rupturas (falta de produtos na prateleira). Coleta de informações sobre concorrência, preços e posicionamento. Envio de relatórios e fotos via aplicativo corporativo.  Boa comunicação com gerentes de loja e equipe interna. Além disso, o promotor deve zelar pela imagem da marca e manter um bom relacionamento com os colaboradores do varejo.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Garantir que os produtos da marca estejam bem abastecidos, organizados e visíveis;<br />Verificação de prazos, validades e precificação;<br />Montagem de pontos extras;<br />Apoio em ações promocionais;<br />Comunicação com a equipe da loja, ajudando a evitar faltas de produtos e a aumentar as vendas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo;<br />CNH A.<br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/donizetevagas/12/promotor-a-de-vendas-fortaleza-redencao]]></applyUrl>
+    <companyId><![CDATA[22184004]]></companyId>
+    <city><![CDATA[Itaitinga]]></city>
+    <state><![CDATA[CE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1db90e82-35d2-409b-b4b7-edba5dadd284]]></partnerJobId>
+    <company><![CDATA[DONIZETE DISTRIBUIDORA S/A]]></company>
+    <title><![CDATA[CONSULTOR(A) DE VENDAS - LIMOEIRO DO NORTE - BATURITÉ - PACAJUS - BOA VIAGEM - ARACOIABA]]></title>
+    <posterEmail><![CDATA[kelly.lopes@donizete.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>TEMOS VAGAS DISPONIVEIS PARA AS REGIÕES: <br /></b><ul><li><b>LIMOEIRO DO NORTE </b></li><li><b>BATURITÉ</b></li><li><b>PACAJUS </b></li><li><b>BOA VIAGEM </b></li><li><b>ARACOIABA</b></li></ul><br />Visitar clientes com planilhas preenchidas para
+negociar de maneira assertiva, realizar levantamento de estoque e otimizar as
+condições de preço. Orientar promotores sobre os projetos dos clientes,
+acompanhar as entregas para evitar atrasos, e planejar a base de clientes
+priorizando aqueles com maior potencial de compra. Organizar a rota diária para
+otimizar o tempo, desenvolver os promotores, realizar cobranças de clientes
+inadimplentes e buscar novos clientes para ampliar a carteira. Garantir a
+satisfação do cliente, organizar o ponto de vendas e acompanhar os resultados,
+focando no cumprimento das metas estabelecidas, demonstrar empatia e atuar de
+forma solícita, disponível e focado nas vendas diárias. Planejar a rota com
+base nos relatórios do supervisor, sempre visando a boa negociação e a
+fidelização dos clientes. Acompanhar a logística e a limpeza dos freezers, pois
+são essenciais para manter o bom estado dos produtos e aumentar a satisfação do
+cliente<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar atividades comerciais conforme o roteiro de visitas e a rotina básica de vendas, com foco no alcance das metas;<br />Construir e manter relacionamento com os clientes por meio de visitas frequentes e presença constante no mercado;<br />Levantar e acompanhar informações de estoque a partir de dados coletados nos pontos de venda;<br />Cadastrar novos clientes e apoiar a divulgação dos produtos, contribuindo para o aumento do volume de vendas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo;<br />CNH A;<br /><br />Conhecimento no Pacote Office.<br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/donizetevagas/15/consultor-a-de-vendas-limoeiro-do-norte-baturite-pacajus-boa-viagem-aracoiaba]]></applyUrl>
+    <companyId><![CDATA[22184004]]></companyId>
+    <city><![CDATA[Itaitinga]]></city>
     <state><![CDATA[CE]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -73820,7 +74033,7 @@ Analítica;</li><li>Comunicação Eficaz; </li></ul>]]></description>
     <company><![CDATA[VS Operador Logístico]]></company>
     <title><![CDATA[Assistente de Transporte - Gerenciamento de Risco]]></title>
     <posterEmail><![CDATA[maria.heemann@vstransportes.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Assistente</strong> para integrar nosso time e contribuir com as rotinas que garantem o bom funcionamento das nossas operações logísticas. Procuramos alguém organizado(a), com boa comunicação, senso de responsabilidade e vontade de aprender em um ambiente dinâmico e colaborativo.<br /><br />Se você é movido por desafios, gosta de trabalhar com pessoas e quer crescer em uma empresa sólida e em expansão, <strong>essa vaga é pra você!</strong><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar cadastro e consulta de motoristas / Veículos multicadastro;</li><li>Gerar Solicitação de Monitoramento Preventivo – SMP no sistema APSUL;</li><li>Expedir Contratos de Transporte;</li><li>Organização documental dos provedores;</li><li>Atuar na comunicação entre Motorista e Gerenciamento de Risco - GR;</li><li>Controle de Iscas;</li><li>Atuar no informativo a clientes (Follow-up);</li><li>Rotinas administrativas;  </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em transporte / monitoramento;</li><li>Noções em gerenciamento de risco;</li><li>Conhecimento de pacote office;</li><li>Proatividade; </li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Assistente</strong> para integrar nosso time e contribuir com as rotinas que garantem o bom funcionamento das nossas operações logísticas. Procuramos alguém organizado(a), com boa comunicação, senso de responsabilidade e vontade de aprender em um ambiente dinâmico e colaborativo. Se você é movido por desafios, gosta de trabalhar com pessoas e quer crescer em uma empresa sólida e em expansão, <strong>essa vaga é pra você!</strong><strong><br /></strong><br /><b>A vaga é para atuar no bairro Cordeiros com a Jornada de Seg. a Sex das 12:36 - 17:00 / 18:00 - 22:00.</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar cadastro e consulta de motoristas / Veículos multicadastro;</li><li>Gerar Solicitação de Monitoramento Preventivo – SMP no sistema APSUL;</li><li>Expedir Contratos de Transporte;</li><li>Organização documental dos provedores;</li><li>Atuar na comunicação entre Motorista e Gerenciamento de Risco - GR;</li><li>Controle de Iscas;</li><li>Atuar no informativo a clientes (Follow-up);</li><li>Rotinas administrativas;  </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em transporte / monitoramento;</li><li>Noções em gerenciamento de risco;</li><li>Conhecimento de pacote office;</li><li>Proatividade; </li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vsoperadorlogistico/23/assistente-de-transporte-gerenciamento-de-risco]]></applyUrl>
     <companyId><![CDATA[14070563]]></companyId>
     <city><![CDATA[Itajaí]]></city>
@@ -80746,6 +80959,63 @@ atuação em equipe;</li><li>Organização de atividades e controle das tarefas;
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[182ad9d5-304f-4570-9bb7-af860349096c]]></partnerJobId>
+    <company><![CDATA[ISQ Brasil]]></company>
+    <title><![CDATA[Oficial de Manutenção]]></title>
+    <posterEmail><![CDATA[evsilva@isqbrasil.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está buscando uma oportunidade que permita crescer e se desenvolver em um ambiente dinâmico e colaborativo? Temos uma posição aberta, ideal para quem deseja fazer parte de uma equipe comprometida com a excelência. Aqui, você encontrará um espaço para aplicar suas habilidades, contribuir com soluções e participar ativamente de um processo que impacta diretamente na qualidade dos produtos e serviços oferecidos. Valorizamos o potencial de cada colaborador e incentivamos o aprendizado contínuo, proporcionando a chance de se destacar e conquistar novos desafios. Se você tem interesse em atuar em um time que preza pela qualidade e pela inovação, não deixe essa oportunidade passar. Venha fazer parte de um ambiente estimulante, onde suas contribuições serão reconhecidas e valorizadas. Junte-se a nós e inicie uma nova etapa na sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>O colaborador que atua nessa função deve aplicar corretamente os procedimentos de segurança e qualidade. </li><li>É essencial que conduza os veículos de forma segura, adotando práticas de direção defensiva e respeitando as normas de trânsito. </li><li>Também deve ser capaz de executar análises de risco antes das atividades, identificando possíveis perigos e propondo medidas de prevenção. </li><li>Além disso, precisa ter atenção aos detalhes para preencher formulários e registros de maneira correta, assegurando a rastreabilidade das informações. </li><li>Organização, disciplina operacional e boa comunicação complementam as habilidades necessárias, garantindo a execução eficiente e segura das tarefas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo</li><li>Colaborador deve realizar coleta de amostras de gás natural</li><li>Dirigir de forma segura</li><li>Realizar análise de risco </li><li>Preencher formulários pertinentes</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/isqbrasilcarreiras/53/oficial-de-manutencao]]></applyUrl>
+    <companyId><![CDATA[9424481]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[61b44e9c-40cb-424b-b3c0-5b613fbbfdbc]]></partnerJobId>
+    <company><![CDATA[ISQ Brasil]]></company>
+    <title><![CDATA[Analista de Automação Senior]]></title>
+    <posterEmail><![CDATA[evsilva@isqbrasil.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está buscando uma oportunidade que permita crescer e se desenvolver em um ambiente dinâmico e colaborativo? Temos uma posição aberta, ideal para quem deseja fazer parte de uma equipe comprometida com a excelência. Aqui, você encontrará um espaço para aplicar suas habilidades, contribuir com soluções e participar ativamente de um processo que impacta diretamente na qualidade dos produtos e serviços oferecidos. Valorizamos o potencial de cada colaborador e incentivamos o aprendizado contínuo, proporcionando a chance de se destacar e conquistar novos desafios. Se você tem interesse em atuar em um time que preza pela qualidade e pela inovação, não deixe essa oportunidade passar. Venha fazer parte de um ambiente estimulante, onde suas contribuições serão reconhecidas e valorizadas. Junte-se a nós e inicie uma nova etapa na sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Automação de Campo: Configurar e dar suporte a controladores lógicos programáveis (PLCs) e unidades remotas de telemetria.</li><li>Integração de Sistemas: Diagnosticar e implementar redes de comunicação industrial, garantindo que diferentes dispositivos se comuniquem.</li><li>Projetos de Monitoramento: Apoiar a instalação de sistemas de monitoramento por imagem e sensores inteligentes, com foco em segurança operacional e eficiência.</li><li>Digitalização de Ativos: Desenvolver ou adaptar soluções para coleta de dados de equipamentos que operam de forma isolada, integrando-os à rede central.</li><li>Documentação Técnica: Elaborar e atualizar diagramas, manuais e arquiteturas de rede para facilitar a manutenção e escalabilidade dos projetos.</li><li>Redes e Protocolos: Conhecimento sólido em protocolos de comunicação (Ex: Modbus, MQTT, OPC UA ou similares).</li><li>Hardware e Elétrica: Experiência em instrumentação, leitura de diagramas elétricos e painéis de automação.</li><li>Lógica de Programação: Domínio de lógica para PLCs ou linguagens aplicadas a sistemas embarcados/IoT.</li><li>Conectividade: Entendimento de topologias de rede (Serial, Ethernet, Wireless) e transmissão de dados.</li><li>Curiosidade técnica e facilidade para aprender novos processos industriais rapidamente.</li><li>Capacidade analítica para identificar a causa raiz de falhas de comunicação.</li><li>Proatividade para propor melhorias em sistemas legados.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino técnico completo</li><li>Responsável por implementar, manter e otimizar sistemas de automação industrial e soluções de telemetria. </li><li>O profissional atuará na ponte entre o campo (sensores e controladores) e a camada de dados (sistemas de monitoramento e IoT), garantindo a integridade da comunicação e a disponibilidade das informações em tempo real.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/isqbrasilcarreiras/52/analista-de-automacao-senior]]></applyUrl>
+    <companyId><![CDATA[9424481]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[44a75a9b-cfe1-4a87-8ced-fe4ccfdf6187]]></partnerJobId>
+    <company><![CDATA[ISQ Brasil]]></company>
+    <title><![CDATA[Técnico Gasista]]></title>
+    <posterEmail><![CDATA[evsilva@isqbrasil.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está buscando uma oportunidade que permita crescer e se desenvolver em um ambiente dinâmico e colaborativo? Temos uma posição aberta, ideal para quem deseja fazer parte de uma equipe comprometida com a excelência. Aqui, você encontrará um espaço para aplicar suas habilidades, contribuir com soluções e participar ativamente de um processo que impacta diretamente na qualidade dos produtos e serviços oferecidos. Valorizamos o potencial de cada colaborador e incentivamos o aprendizado contínuo, proporcionando a chance de se destacar e conquistar novos desafios. Se você tem interesse em atuar em um time que preza pela qualidade e pela inovação, não deixe essa oportunidade passar. Venha fazer parte de um ambiente estimulante, onde suas contribuições serão reconhecidas e valorizadas. Junte-se a nós e inicie uma nova etapa na sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar averiguações em campo com o objetivo de validar ou descartar possíveis violações ao sistema de medição de gás;</li><li>Executar atividades de implementação de barreiras antifraude, conforme normas técnicas e procedimentos internos;</li><li>Efetuar a troca, retirada e reinstalação de medidores de gás, quando aplicável, garantindo a integridade do sistema;</li><li>Elaborar e registrar relatórios técnicos das visitas realizadas, assegurando a rastreabilidade das informações e evidências coletadas;</li><li>Realizar o controle e acompanhamento da execução de notas, ordens de serviço e demais registros operacionais;</li><li>Atuar nos processos internos de recuperação e estancamento de consumo irregular, conforme diretrizes da área;</li><li>Participar dos ritos de gestão da área de eficiência e das atividades relacionadas à Segurança, Saúde e Meio Ambiente (SSM);</li><li>Cumprir rigorosamente os procedimentos de segurança, normas técnicas e regulatórias aplicáveis às atividades de campo;</li><li>Manter interface com equipes internas e clientes, garantindo alinhamento operacional e qualidade na execução dos serviços.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino técnico completo</li><li>Conhecimento técnico em sistemas de medição de gás e instalações associadas;</li><li>Capacidade de realizar averiguações em campo com foco na identificação de irregularidades e não conformidades;</li><li>Habilidade para atuação em atividades de combate à fraude, com aplicação de barreiras antifraude conforme procedimentos técnicos;</li><li>Leitura, interpretação e preenchimento de relatórios técnicos e registros operacionais;</li><li>Organização e controle das atividades executadas, incluindo acompanhamento de notas e ordens de serviço;</li><li>Conhecimento e aplicação das normas técnicas, regulatórias e procedimentos de Segurança, Saúde e Meio Ambiente (SSM);</li><li>Boa comunicação para interação com clientes, equipes internas e ritos de gestão da área;</li><li>Postura ética, responsabilidade e atenção aos detalhes, considerando a criticidade das atividades executadas;</li><li>Capacidade de atuação em campo, com autonomia, senso crítico e foco em segurança operacional.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/isqbrasilcarreiras/51/tecnico-gasista]]></applyUrl>
+    <companyId><![CDATA[9424481]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[95235fcf-bc56-49b7-9a34-01c6016b5921]]></partnerJobId>
     <company><![CDATA[ISQ Brasil]]></company>
     <title><![CDATA[Analista de Frota]]></title>
@@ -82705,6 +82975,25 @@ Procuramos um perfil estratégico, com liderança de equipes, capacidade de stor
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Analista Sênior de Projetos e Soluções com foco em compreender profundamente as necessidades dos clientes e propor alternativas estratégicas que agreguem valor ao negócio. Essa pessoa atuará de forma consultiva e colaborativa, manipulando e avaliando bases de dados para gerar insights relevantes, além de desenvolver materiais e conduzir apresentações que apoiem a tomada de decisão dos clientes. Também será responsável por interagir com os times de Sales, Dados e Risco, garantindo que as entregas sejam consistentes, assertivas e alinhadas às expectativas. O objetivo é assegurar que nossas soluções de Crédito, Market Intelligence e demais relacionadas a Open Finance, sejam eficazes, personalizadas e contribuam para o sucesso dos clientes e da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Identificar necessidades e oportunidades dos clientes em parceria com a equipe de Vendas, sob a ótica técnica. </li><li>Propor soluções práticas e relevantes que demonstrem o valor do Open Finance. </li><li>Definir escopo de projetos junto ao cliente, realizar manipulação e análise de dados, além de preparar e apresentar materiais. </li><li>Colaborar com equipes internas como Vendas, Dados, Risco e Produto para garantir alinhamento e eficiência. </li><li>Assegurar qualidade e consistência em todas as entregas. </li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimento de todo o ciclo de Crédito </li><li>Conhecimento em desenvolvimento de modelos, conceitos e estatísticas associadas </li><li>Experiência em manipulação de grandes volumes de dados, preferencialmente com o uso de Python </li><li>Experiência em uso do pacote Office, principalmente Excel e Power Point </li><li>Perfil hands-on e proativo </li><li>Inglês avançado </li><li>Boa comunicação </li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasklavi/1/analista-de-solucoes-sr]]></applyUrl>
     <companyId><![CDATA[72690043]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[7dfef8e0-1dbc-4b6d-a8a4-7d95203a8865]]></partnerJobId>
+    <company><![CDATA[Grupo Disal]]></company>
+    <title><![CDATA[Assistente Financeiro - Contas a Pagar]]></title>
+    <posterEmail><![CDATA[jebandeira@grupodisal.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Descrição da vaga: Contas a Pagar; Fazer a conferência das Notas Fiscais, baixas das Notas no sistema; Fazer lançamentos de NL e desconto de NL no Protheus; Gerar baixas e impressão de borderôs; Consulta de conta Poupança; Análise e controle dos reembolsos e Adiantamentos da área Comercial; Acompanhar as baixas de adiantamento de pagamentos: Depois que realizamos os pagamentos por adiantamento, é entregue pela área responsável a NF onde devera ser lançada pelo Fiscal e posteriormente realizo a compensação entre o adiantamento e a NF; Controle do uso dos Cartões de Crédito Corporativo (comprovantes das despesas com aprovações / lançamento do pagamento); Emissão da fatura pelo APP do Banco Bradesco no começo do mês, analiso as despesas, solicito os comprovantes para as áreas responsáveis com as aprovações da Diretoria e incluo o pagamento no sistema para programação de pagamento. Experiência em Contas a Pagar<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Descrição da vaga: Contas a Pagar; Fazer a conferência das Notas Fiscais, baixas das Notas no sistema; Fazer lançamentos de NL e desconto de NL no Protheus; Gerar baixas e impressão de borderôs; Consulta de conta Poupança; Análise e controle dos reembolsos e Adiantamentos da área Comercial; Acompanhar as baixas de adiantamento de pagamentos: Depois que realizamos os pagamentos por adiantamento, é entregue pela área responsável a NF onde devera ser lançada pelo Fiscal e posteriormente realizo a compensação entre o adiantamento e a NF; Controle do uso dos Cartões de Crédito Corporativo (comprovantes das despesas com aprovações / lançamento do pagamento); Emissão da fatura pelo APP do Banco Bradesco no começo do mês, analiso as despesas, solicito os comprovantes para as áreas responsáveis com as aprovações da Diretoria e incluo o pagamento no sistema para programação de pagamento. Experiência em Contas a Pagar<br /><br /><b>Requisitos e qualificações</b><br /><br />Ter o ensino médico completo e ou/ter concluído ou estar cursando ensino superior em Gestão Financeira, Administração, Ciências Contábeis ou áreas correlatas. Ter um bom conhecimento da Ferramenta Excel.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupodisal/13/assistente-financeiro-contas-a-pagar]]></applyUrl>
+    <companyId><![CDATA[14045062]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
