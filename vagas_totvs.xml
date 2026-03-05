@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 05 Mar 2026 14:14:28 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Mar 2026 15:19:06 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3130]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3139]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -756,6 +756,44 @@
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[402f97a0-4441-40d8-b4c3-2875b2b12ccb]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Arquitetura de Dados]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar na arquitetura, construção e evolução do Data Lake e dos produtos de dados desenvolvidos pelo time, incluindo soluções de Analytics, agentes e modelos de machine learning.<br /><br /><br /> Trabalhará em conjunto com o especialista de engenharia de dados na definição e implementação de arquiteturas, modelagem e disponibilização de dados em ambientes distribuídos, utilizando tecnologias como AWS, Spark, Trino e Athena, além de viabilizar o consumo eficiente dessas informações por ferramentas como o Metabase. <br /><br /><br />Será responsável por desenvolver e otimizar pipelines de dados, garantindo performance, escalabilidade, qualidade e governança das informações. Espera-se que o profissional atue com alta autonomia técnica, contribuindo para decisões de arquitetura e para a evolução contínua do ecossistema de dados, assegurando que as soluções atendam às necessidades analíticas e de inteligência dos produtos com robustez e confiabilidade.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Atuar na construção e evolução da arquitetura do Data Lake e dos produtos de dados do time (Analytics, agentes e modelos);</li><li>Desenvolver, otimizar e manter pipelines de dados escaláveis e confiáveis em ambiente AWS;</li><li>Modelar e estruturar dados para consumo analítico e operacional, garantindo qualidade, performance e governança;</li><li>Trabalhar em conjunto com o especialista de engenharia na definição de padrões, arquiteturas e boas práticas de dados;</li><li>Implementar e otimizar consultas e camadas de acesso a dados utilizando Athena e Trino;</li><li>Processar e transformar grandes volumes de dados utilizando Spark;</li><li>Garantir a disponibilização eficiente de datasets para consumo em ferramentas analíticas como Metabase;</li><li>Monitorar, diagnosticar e otimizar o desempenho de pipelines, queries e tabelas no Data Lake;</li><li>Assegurar qualidade, integridade e rastreabilidade dos dados ao longo de todo o pipeline;</li><li>Apoiar a definição de estratégias de particionamento, versionamento e organização de dados;</li><li>Contribuir com a documentação técnica e evolução das boas práticas de engenharia de dados;</li><li>Acompanhar tendências e propor melhorias contínuas no ecossistema de dados e nas tecnologias</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Graduação completa em Engenharia, Ciência da Computação, Sistemas de Informação ou áreas correlatas;</li><li>Experiência sólida em engenharia de dados, construção e manutenção de pipelines de dados em larga escala;</li><li>Domínio de SQL avançado para manipulação e otimização de grandes volumes de dados;</li><li>Experiência prática com processamento distribuído utilizando Spark;</li><li>Experiência com serviços de dados na AWS (ex: S3, Glue, Athena, IAM, entre outros);</li><li>Experiência com engines de consulta distribuída, como Athena e/ou Trino;</li><li>Conhecimento em infraestrutura como Código (Terraform)</li><li>Experiência em streaming de dados em tempo real (Apache Kafka)</li><li>Conhecimento em bancos relacionais (PostgreSQL), não relacionais (MongoDB) e vetoriais (Milvus, Pinecone, S3 Vector)</li><li>Experiência em governança de dados (Apache Ranger)</li><li>Conhecimento em Data lake/lakehouse moderno (Iceberg, PyIceberg)</li><li>Conhecimento em boas práticas de qualidade, governança e organização de dados;</li><li>Experiência trabalhando em conjunto com times multidisciplinares (dados, produto e engenharia);</li><li>Capacidade de estruturar soluções de dados escaláveis e de alta performance.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8678/tech-arquitetura-de-dados]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4708a8cf-606d-4b4e-ac3e-069681f730fd]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Ciência de Dados - Inteligência Artificial (LLM)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A missão do Cientista de Dados Sênior será liderar o desenvolvimento de soluções analíticas para produtos voltados a softwares de RH, atuando de forma estratégica na análise e modelagem de dados relacionados à gestão de pessoas e processos. Integrará um time multidisciplinar, sendo referência técnica na criação e evolução de modelos preditivos, geração de insights acionáveis e definição de arquiteturas e pipelines de dados escaláveis e eficientes. Também será responsável por conduzir iniciativas envolvendo LLMs (Large Language Models) aplicados ao contexto de RH, desde a concepção até a implementação e evolução contínua, garantindo qualidade, governança e alinhamento com os objetivos do produto. Espera-se que esse profissional exerça forte protagonismo técnico, influenciando decisões, orientando boas práticas e transformando dados complexos em soluções inteligentes, robustas e de alto impacto para o negócio.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Liderar o desenvolvimento de soluções analíticas aplicadas ao contexto de Recursos Humanos, orientando tecnicamente o time e garantindo alinhamento com a estratégia do produto.</li><li>Conduzir a exploração, tratamento e modelagem avançada de dados, estruturando abordagens robustas para geração de insights estratégicos e acionáveis.</li><li>Projetar, desenvolver e evoluir modelos estatísticos e preditivos voltados à análise de comportamento, desempenho e gestão de pessoas, assegurando qualidade, interpretabilidade e impacto no negócio.</li><li>Liderar iniciativas de implementação, ajuste fino, avaliação e monitoramento de desempenho de LLMs aplicados ao produto, definindo boas práticas e critérios de governança.</li><li>Traduzir problemas complexos de negócio em soluções escaláveis baseadas em dados, influenciando decisões estratégicas e priorização de roadmap com o Product Owner.</li><li>Definir e disseminar padrões técnicos, documentação e boas práticas de ciência de dados, promovendo maturidade analítica no time.</li><li>Atuar de forma próxima a times de produto, engenharia e UX, influenciando decisões técnicas e garantindo a integração eficiente e escalável das soluções ao produto final.</li><li>Garantir a validação, implantação, monitoramento e evolução contínua de modelos em ambiente de produção.</li><li>Acompanhar, avaliar e introduzir tendências e inovações em dados e inteligência artificial, especialmente em aplicações de People Analytics e RH.</li><li>Mentorar e apoiar no desenvolvimento técnico os demais integrantes do time em temas de ciência de dados, promovendo evolução contínua, compartilhamento de conhecimento e boas práticas analíticas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Graduação completa em Ciência de Dados, Estatística, Engenharia, Matemática, Computação ou áreas correlatas.</li><li>Experiência prática com modelagem estatística, machine learning e análise exploratória de dados.</li><li>Domínio de linguagens como Python (pandas, scikit-learn, NumPy, etc.) e SQL.</li><li>Domínio em conceitos e aplicações de LLMs (Large Language Models).</li><li>Capacidade de traduzir problemas de negócio em soluções analíticas.</li><li>Boa comunicação e habilidade para trabalhar em equipe multidisciplinar.</li><li>Boa didática e habilidade de mentoria nos assuntos relacionados à Ciência de Dados.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8679/tech-ciencia-de-dados-inteligencia-artificial-llm]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[4e93e6fc-b9f3-433f-9434-be5e60443a52]]></partnerJobId>
@@ -2316,44 +2354,6 @@ Garantir o alinhamento entre as demandas funcionais e as configurações técnic
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[402f97a0-4441-40d8-b4c3-2875b2b12ccb]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Arquitetura de Dados]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar na arquitetura, construção e evolução do Data Lake e dos produtos de dados desenvolvidos pelo time, incluindo soluções de Analytics, agentes e modelos de machine learning.<br /><br /><br /> Trabalhará em conjunto com o especialista de engenharia de dados na definição e implementação de arquiteturas, modelagem e disponibilização de dados em ambientes distribuídos, utilizando tecnologias como AWS, Spark, Trino e Athena, além de viabilizar o consumo eficiente dessas informações por ferramentas como o Metabase. <br /><br /><br />Será responsável por desenvolver e otimizar pipelines de dados, garantindo performance, escalabilidade, qualidade e governança das informações. Espera-se que o profissional atue com alta autonomia técnica, contribuindo para decisões de arquitetura e para a evolução contínua do ecossistema de dados, assegurando que as soluções atendam às necessidades analíticas e de inteligência dos produtos com robustez e confiabilidade.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Atuar na construção e evolução da arquitetura do Data Lake e dos produtos de dados do time (Analytics, agentes e modelos);</li><li>Desenvolver, otimizar e manter pipelines de dados escaláveis e confiáveis em ambiente AWS;</li><li>Modelar e estruturar dados para consumo analítico e operacional, garantindo qualidade, performance e governança;</li><li>Trabalhar em conjunto com o especialista de engenharia na definição de padrões, arquiteturas e boas práticas de dados;</li><li>Implementar e otimizar consultas e camadas de acesso a dados utilizando Athena e Trino;</li><li>Processar e transformar grandes volumes de dados utilizando Spark;</li><li>Garantir a disponibilização eficiente de datasets para consumo em ferramentas analíticas como Metabase;</li><li>Monitorar, diagnosticar e otimizar o desempenho de pipelines, queries e tabelas no Data Lake;</li><li>Assegurar qualidade, integridade e rastreabilidade dos dados ao longo de todo o pipeline;</li><li>Apoiar a definição de estratégias de particionamento, versionamento e organização de dados;</li><li>Contribuir com a documentação técnica e evolução das boas práticas de engenharia de dados;</li><li>Acompanhar tendências e propor melhorias contínuas no ecossistema de dados e nas tecnologias</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Graduação completa em Engenharia, Ciência da Computação, Sistemas de Informação ou áreas correlatas;</li><li>Experiência sólida em engenharia de dados, construção e manutenção de pipelines de dados em larga escala;</li><li>Domínio de SQL avançado para manipulação e otimização de grandes volumes de dados;</li><li>Experiência prática com processamento distribuído utilizando Spark;</li><li>Experiência com serviços de dados na AWS (ex: S3, Glue, Athena, IAM, entre outros);</li><li>Experiência com engines de consulta distribuída, como Athena e/ou Trino;</li><li>Conhecimento em infraestrutura como Código (Terraform)</li><li>Experiência em streaming de dados em tempo real (Apache Kafka)</li><li>Conhecimento em bancos relacionais (PostgreSQL), não relacionais (MongoDB) e vetoriais (Milvus, Pinecone, S3 Vector)</li><li>Experiência em governança de dados (Apache Ranger)</li><li>Conhecimento em Data lake/lakehouse moderno (Iceberg, PyIceberg)</li><li>Conhecimento em boas práticas de qualidade, governança e organização de dados;</li><li>Experiência trabalhando em conjunto com times multidisciplinares (dados, produto e engenharia);</li><li>Capacidade de estruturar soluções de dados escaláveis e de alta performance.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8678/tech-arquitetura-de-dados]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[4708a8cf-606d-4b4e-ac3e-069681f730fd]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Ciência de Dados - Inteligência Artificial (LLM)]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A missão do Cientista de Dados Sênior será liderar o desenvolvimento de soluções analíticas para produtos voltados a softwares de RH, atuando de forma estratégica na análise e modelagem de dados relacionados à gestão de pessoas e processos. Integrará um time multidisciplinar, sendo referência técnica na criação e evolução de modelos preditivos, geração de insights acionáveis e definição de arquiteturas e pipelines de dados escaláveis e eficientes. Também será responsável por conduzir iniciativas envolvendo LLMs (Large Language Models) aplicados ao contexto de RH, desde a concepção até a implementação e evolução contínua, garantindo qualidade, governança e alinhamento com os objetivos do produto. Espera-se que esse profissional exerça forte protagonismo técnico, influenciando decisões, orientando boas práticas e transformando dados complexos em soluções inteligentes, robustas e de alto impacto para o negócio.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Liderar o desenvolvimento de soluções analíticas aplicadas ao contexto de Recursos Humanos, orientando tecnicamente o time e garantindo alinhamento com a estratégia do produto.</li><li>Conduzir a exploração, tratamento e modelagem avançada de dados, estruturando abordagens robustas para geração de insights estratégicos e acionáveis.</li><li>Projetar, desenvolver e evoluir modelos estatísticos e preditivos voltados à análise de comportamento, desempenho e gestão de pessoas, assegurando qualidade, interpretabilidade e impacto no negócio.</li><li>Liderar iniciativas de implementação, ajuste fino, avaliação e monitoramento de desempenho de LLMs aplicados ao produto, definindo boas práticas e critérios de governança.</li><li>Traduzir problemas complexos de negócio em soluções escaláveis baseadas em dados, influenciando decisões estratégicas e priorização de roadmap com o Product Owner.</li><li>Definir e disseminar padrões técnicos, documentação e boas práticas de ciência de dados, promovendo maturidade analítica no time.</li><li>Atuar de forma próxima a times de produto, engenharia e UX, influenciando decisões técnicas e garantindo a integração eficiente e escalável das soluções ao produto final.</li><li>Garantir a validação, implantação, monitoramento e evolução contínua de modelos em ambiente de produção.</li><li>Acompanhar, avaliar e introduzir tendências e inovações em dados e inteligência artificial, especialmente em aplicações de People Analytics e RH.</li><li>Mentorar e apoiar no desenvolvimento técnico os demais integrantes do time em temas de ciência de dados, promovendo evolução contínua, compartilhamento de conhecimento e boas práticas analíticas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Graduação completa em Ciência de Dados, Estatística, Engenharia, Matemática, Computação ou áreas correlatas.</li><li>Experiência prática com modelagem estatística, machine learning e análise exploratória de dados.</li><li>Domínio de linguagens como Python (pandas, scikit-learn, NumPy, etc.) e SQL.</li><li>Domínio em conceitos e aplicações de LLMs (Large Language Models).</li><li>Capacidade de traduzir problemas de negócio em soluções analíticas.</li><li>Boa comunicação e habilidade para trabalhar em equipe multidisciplinar.</li><li>Boa didática e habilidade de mentoria nos assuntos relacionados à Ciência de Dados.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8679/tech-ciencia-de-dados-inteligencia-artificial-llm]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[72c5a08a-020d-42fc-87f6-27061cb9e816]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Vendas] Consultoria de vendas Pleno | Produto RH]]></title>
@@ -2372,6 +2372,25 @@ relevantes de dúvidas e questionamentos do cliente através de ata da reunião.
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8768/vendas-consultoria-de-vendas-pleno-produto-rh]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1cca92a7-899d-427c-b5c0-21ed84f16043]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Adm] Assistente de Contas a Receber - Cobrança]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Missão do cargo:</b><br />A pessoa que ocupar a cadeira, terá a responsabilidade de contribuir com o recebimento dos valores faturados, por meio de negociações com cliente via contato telefônico, prezando sempre o bom atendimento, bem como execução de atividades administrativas relacionadas ao contas a receber.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><ul><li>Realizar contato telefônico com o cliente;</li><li>Negociação do saldo devedor ou confirmação de títulos a vencer;</li><li>Envio de boletos e notas;</li><li>Contato com as áreas internas quando necessário;</li><li>Atendimento ativo e receptivo;</li><li>Controle e report da sua carteira individual de clientes.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:<br /></b><b>Formação:</b> Ensino superior completo ou cursando: Administração, Contábeis, Economia e Afins;<br />● Pacote Office (Excel);<br />● Experiência em atendimento ao cliente;<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8919/adm-assistente-de-contas-a-receber-cobranca]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Joinville]]></city>
     <state><![CDATA[SC]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -6742,6 +6761,25 @@ para otimizar estratégias;<br /><br /><b>Responsabilidades e atribuições</b><
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[6e7950d2-d99a-4d2d-b2c2-012cb4e045f5]]></partnerJobId>
+    <company><![CDATA[Agência Fato Relevante]]></company>
+    <title><![CDATA[Coordenador(a) de Atendimento – Digital]]></title>
+    <posterEmail><![CDATA[ana.biagi@nexcomgrupo.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Coordenador(a) de Atendimento – Digital para compor a operação de um cliente do segmento Cliente do setor de saúde com forte atuação regulatória.  <br />Trata-se de um perfil híbrido entre atendimento e conteúdo, com papel estratégico na condução da conta. Procuramos alguém com postura de maestro da conta, capaz de integrar estratégia, conteúdo, criação e performance, garantindo consistência, qualidade e visão de longo prazo.<br />O modelo de trabalho é híbrido. Buscamos profissionais residentes em São Paulo ou Grande São Paulo. Profissionais residentes no Rio de Janeiro também serão considerados e são um diferencial.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar como principal ponto de contato do cliente, com postura consultiva e visão estratégica;</li><li>Coordenar a operação digital da conta, organizando fluxos, prioridades e entregas;</li><li>Liderar o planejamento de conteúdo, incluindo elaboração de pautas, cronogramas e acompanhamento de calendário editorial;</li><li>Desenvolver briefings estratégicos e direcionar os times de redação e design;</li><li>Garantir alinhamento entre estratégia, conteúdo, criação e performance;</li><li>Acompanhar métricas digitais, relatórios e dashboards, propondo ajustes e otimizações;</li><li>Consolidar feedbacks do cliente e direcionar ajustes com clareza e objetividade;</li><li>Gerir demandas simultâneas com organização e senso de prioridade;</li><li>Apoiar na construção de apresentações estratégicas e planos de ação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência mínima de 5 anos em atendimento digital em agência;</li><li>Experiência prévia em coordenação de contas e liderança de equipe;</li><li>Experiência em planejamento de conteúdo e gestão de calendário editorial;</li><li>Vivência na elaboração de briefings estratégicos;</li><li>Experiência como interface direta com cliente;</li><li>Vivência com relatórios, dashboards e análise de métricas digitais;</li><li>Forte organização e capacidade de gestão de prioridades;</li><li>Perfil analítico, estruturado e com visão integrada da operação;</li><li>Graduação em Comunicação, Publicidade, Relações Públicas, Marketing ou áreas correlatas.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gruponexcom/32/coordenador-a-de-atendimento-digital]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[5dc40acc-6142-430b-b968-454422b1683d]]></partnerJobId>
@@ -14086,33 +14124,6 @@ Cadastre seu currículo e mantenha seus dados sempre atualizados. Estamos de olh
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[c37fb19a-4f8f-463a-8c10-af4724526c95]]></partnerJobId>
-    <company><![CDATA[Prímor Group]]></company>
-    <title><![CDATA[Estágio - Auxiliar de Contabilidade]]></title>
-    <posterEmail><![CDATA[anajulia@contabilprimor.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto para dar o próximo passo em sua carreira e se destacar no universo contábil? <br /><br />Estamos em busca de indivíduos proativos e motivados que desejam aprender e crescer em um ambiente dinâmico e acolhedor. <br /><br />Esta é a chance de mergulhar no fascinante mundo da contabilidade, aprimorar suas habilidades e adquirir experiências valiosas. Junte-se a uma equipe comprometida com o desenvolvimento pessoal e profissional, onde cada dia apresenta novas oportunidades para aprender com profissionais renomados da área. <br /><br />Se você é apaixonado por números e busca um lugar para potencializar seus talentos, milhares de possibilidades aguardam por você. Não perca a oportunidade de fazer parte de um ambiente que valoriza a diversidade e a inovação. <br /><br />Venha construir seu futuro conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><b>Gestão de Relacionamento</b>: Manter contato contínuo com os clientes para garantir que suas expectativas estão sendo atendidas e que estão satisfeitos com os serviços prestados.<br /></li><li><b>Resolução de Problemas</b>: Atuar como ponto de contato para resolução de dúvidas, solicitações ou problemas, garantindo respostas rápidas e eficazes.<br /></li><li><b>Acompanhamento</b>: Monitorar métricas de sucesso do cliente, como taxa de retenção, NPS (Net Promoter Score) e feedbacks, para identificar oportunidades de melhoria.<br /></li><li><b>Apoio Proativo</b>: Antecipar necessidades e propor soluções antes que problemas surjam, ajudando a prevenir cancelamentos ou insatisfações.<br /></li><li><b>Cross-selling e Upselling</b>: Identificar oportunidades de oferecer produtos e serviços adicionais que possam agregar valor ao cliente.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Cursando ensino superior;<br /><br />- Conhecimento básico em informática;<br />- Boa comunicação verbal e escrita;<br />- Proatividade e organização;<br />- Capacidade de trabalhar em equipe.<br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/primorgroup/35/estagio-auxiliar-de-contabilidade]]></applyUrl>
-    <companyId><![CDATA[107338720]]></companyId>
-    <city><![CDATA[Tapejara]]></city>
-    <state><![CDATA[PR]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[800.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[800.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[1be451c1-abd1-4357-8fae-c09335f9b0cc]]></partnerJobId>
     <company><![CDATA[Atual Clube]]></company>
     <title><![CDATA[Auxiliar de Escritório Jr/Belo Horizonte - MG]]></title>
@@ -16236,6 +16247,25 @@ de vendas ou marketing; <br />- Boa comunicação e habilidades interpessoais.�
     <companyId><![CDATA[3680496]]></companyId>
     <city><![CDATA[Porto Alegre]]></city>
     <state><![CDATA[RS]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[72a5bf2f-3314-4b3f-884c-3c6cc7b13520]]></partnerJobId>
+    <company><![CDATA[Mind Group]]></company>
+    <title><![CDATA[Analista de Recebimento Fiscal Júnior]]></title>
+    <posterEmail><![CDATA[mirelly.monteiro@taxationmind.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Candidato irá fazer gestão dos documentos disponibilizados no Sharepoint, seguir com analises de retenções e vencimentos, lançar e validar as informações que serão inseridas no sistema de gestão. Terá suporte interno do analista e será acompanhado pela coordenadora, a atividade principal do cliente está relacionada ao ramo do agro. O cliente possui sistema de gestão próprio (ATAK).<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Candidato irá fazer gestão dos documentos disponibilizados no Sharepoint, seguir com analises de retenções e vencimentos, lançar e validar as informações que serão inseridas no sistema de gestão. Terá suporte interno do analista e será acompanhado pela coordenadora, a atividade principal do cliente está relacionada ao ramo do agro. O cliente possui sistema de gestão próprio (ATAK).<br /><br /><b>Requisitos e qualificações</b><br /><br />Candidato precisará ter boa comunicação verbal e escrita, para tratar com o cliente e com fornecedores.<br />É necessário ter pelo menos 02 anos de convivio com documentos Fiscais e suas retenções.<br />Precisará ser organizado, atencioso, minucioso e curioso. Excel intermediário para avançado.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mindgroupvagas/33/analista-de-recebimento-fiscal-junior]]></applyUrl>
+    <companyId><![CDATA[76119207]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -24817,6 +24847,25 @@ oportunidade é para você.<br /><br /><b>Responsabilidades e atribuições</b><
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[84960cf7-1ef8-4848-8bcd-9e9cb5ad7813]]></partnerJobId>
+    <company><![CDATA[V8.Tech]]></company>
+    <title><![CDATA[Tech Lead Java/PLSQL]]></title>
+    <posterEmail><![CDATA[bruno.maria@v8.tech]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado(a) por tecnologia, gosta de resolver desafios complexos e acredita que resultados extraordinários são alcançados por meio da colaboração e da troca de conhecimento, essa vaga é para você! Você será peça-chave na condução técnica de times, apoiando o desenvolvimento de soluções escaláveis e sustentáveis, promovendo boas práticas de engenharia e contribuindo ativamente para a evolução contínua da nossa arquitetura e cultura de desenvolvimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>O Tech Lead será  responsável por liderar squads multidisciplinares  garantindo que as decisões técnicas e arquiteturais sejam consistentes, escaláveis e alinhadas à estratégia do projeto.</li><li>Liderar e alinhar as Squads garantindo sincronização, eficiência e governança técnica.</li><li>Definir e implementar templates, frameworks e bibliotecas reutilizáveis, garantindo padronização e acelerando o desenvolvimento.</li><li>Atuar como guardião da arquitetura, garantindo que as soluções sejam modulares, escaláveis e de fácil manutenção.</li><li>Apoiar decisões estratégicas de tecnologia, garantindo que a evolução da plataforma acompanhe os desafios de crescimento do produto.</li><li>Garantir monitoramento, Observabilidade e logging distribuído, assegurando alta disponibilidade, performance e otimização das aplicações, garantindo monitoramento, rastreamento e mitigação de falhas.</li><li>Acompanhar métricas e indicadores de qualidade, garantindo a melhoria contínua do ciclo de desenvolvimento.</li><li>Facilitar a comunicação entre squads e stakeholders técnicos, garantindo alinhamento e colaboração contínua.</li><li>Gerenciar riscos e antecipar gargalos técnicos, garantindo entregas consistentes e previsíveis.</li><li>Atuar na geração de technical debt, garantindo documentação e evolução arquitetural contínua.</li></ul><ul><li> Atuará como referência técnica e estratégica, definindo padrões, processos, templates e componentes reutilizáveis, impulsionando a plataformização e automação de infraestrutura e desenvolvimento.<br /></li></ul><ul><li>Implementará princípios de Team Topologies, garantindo um modelo de enablement e reuso, permitindo que os squads de desenvolvimento entreguem valor sem fricção operacional.</li></ul><ul><li>Liderará a estratégia de DevSecOps, CI/CD e automação, utilizando Azure DevOps para garantir entregas contínuas, seguras e auditáveis.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência consolidada em desenvolvimento de software e liderança técnica de times de engenharia, atuando ativamente na definição de arquiteturas, direcionamento técnico e disseminação de boas práticas de código e design.</li><li>Domínio do ecossistema <strong>Java</strong> (17+ e Spring Boot), com aplicação consistente de padrões e estilos arquiteturais modernos, como DDD (Domain-Driven Design), Arquitetura Orientada a Eventos (Event-Driven), Microserviços e Clean Architecture.</li><li>Experiência no desenvolvimento de aplicações backend com <strong>Java e Spring</strong>, incluindo construção de APIs REST e/ou orientadas a eventos, preocupação com performance, escalabilidade, reutilização de componentes e aplicação de boas práticas de engenharia de software.</li><li>Experiência no desenvolvimento de aplicações frontend modernas com React, incluindo integração com APIs REST e/ou eventos, preocupação com performance, reutilização de componentes, padrões de estado e boas práticas de engenharia de software no frontend.</li><li>Vivência prática na integração de sistemas distribuídos, assegurando segurança, escalabilidade, resiliência e performance na comunicação entre serviços e aplicações.</li><li>Atuação relevante em projetos de modernização e migração de aplicações, com foco em estratégias de desacoplamento, refatoração incremental, redução de débitos técnicos e evolução arquitetural contínua.</li><li>Conhecimento aprofundado em bancos de dados relacionais e não relacionais, com forte ênfase em modelagem eficiente, integridade transacional, consistência de dados e otimização de consultas.</li><li>Experiência sólida com Oracle Database, incluindo desenvolvimento em PL/SQL, tuning de queries, análise de planos de execução e modelagem de dados voltada à performance e escalabilidade.</li><li>Vivência em ambientes multicloud, compreendendo estratégias híbridas, integração com ambientes On-Premises, além de aspectos de governança, segurança e custo.</li><li>Conhecimento prático em observabilidade e monitoramento, utilizando logs distribuídos, métricas, tracing e alertas para diagnóstico de problemas, análise de causa raiz e melhoria contínua da plataforma.</li><li>Experiência com práticas de DevSecOps e CI/CD, incluindo automação de builds, testes, deploys e controles de segurança, preferencialmente utilizando Azure DevOps, Jenkins ou GitHub Actions.</li><li>Capacidade de traduzir requisitos de negócio em soluções técnicas robustas, escaláveis e sustentáveis, garantindo alinhamento com a estratégia da organização e excelência nas entregas.</li><li>Forte habilidade de mentoria técnica e liderança, apoiando o crescimento do time, promovendo padrões de qualidade, automação, cultura de aprendizado contínuo e excelência em engenharia de software.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/532/tech-lead-java-plsql]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[ffe36300-84f5-4c2a-bf7e-a662c7749b4a]]></partnerJobId>
     <company><![CDATA[V8.Tech]]></company>
     <title><![CDATA[Engenheiro de Observabilidade Sênior]]></title>
@@ -25244,25 +25293,6 @@ colaboradores na construção de uma jornada consistente de crescimento.<br /><b
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[62224b8b-2547-47f2-9bb9-4230609e778f]]></partnerJobId>
-    <company><![CDATA[V8.Tech]]></company>
-    <title><![CDATA[Tech Lead Consultor .Net / PLSql / React]]></title>
-    <posterEmail><![CDATA[bruno.maria@v8.tech]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado(a) por tecnologia, gosta de resolver desafios complexos e acredita que resultados extraordinários são alcançados por meio da colaboração e da troca de conhecimento, essa vaga é para você! Você será peça-chave na condução técnica de times, apoiando o desenvolvimento de soluções escaláveis e sustentáveis, promovendo boas práticas de engenharia e contribuindo ativamente para a evolução contínua da nossa arquitetura e cultura de desenvolvimento.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>O Tech Lead será  responsável por liderar squads multidisciplinares  garantindo que as decisões técnicas e arquiteturais sejam consistentes, escaláveis e alinhadas à estratégia do projeto.</li><li>Liderar e alinhar as Squads garantindo sincronização, eficiência e governança técnica.</li><li>Definir e implementar templates, frameworks e bibliotecas reutilizáveis, garantindo padronização e acelerando o desenvolvimento.</li><li>Atuar como guardião da arquitetura, garantindo que as soluções sejam modulares, escaláveis e de fácil manutenção.</li><li>Apoiar decisões estratégicas de tecnologia, garantindo que a evolução da plataforma acompanhe os desafios de crescimento do produto.</li><li>Garantir monitoramento, Observabilidade e logging distribuído, assegurando alta disponibilidade, performance e otimização das aplicações, garantindo monitoramento, rastreamento e mitigação de falhas.</li><li>Acompanhar métricas e indicadores de qualidade, garantindo a melhoria contínua do ciclo de desenvolvimento.</li><li>Facilitar a comunicação entre squads e stakeholders técnicos, garantindo alinhamento e colaboração contínua.</li><li>Gerenciar riscos e antecipar gargalos técnicos, garantindo entregas consistentes e previsíveis.</li><li>Atuar na geração de technical debt, garantindo documentação e evolução arquitetural contínua.</li></ul><ul><li> Atuará como referência técnica e estratégica, definindo padrões, processos, templates e componentes reutilizáveis, impulsionando a plataformização e automação de infraestrutura e desenvolvimento.<br /></li></ul><ul><li>Implementará princípios de Team Topologies, garantindo um modelo de enablement e reuso, permitindo que os squads de desenvolvimento entreguem valor sem fricção operacional.</li></ul><ul><li>Liderará a estratégia de DevSecOps, CI/CD e automação, utilizando Azure DevOps para garantir entregas contínuas, seguras e auditáveis.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida em desenvolvimento e liderança técnica de times de engenharia, atuando na definição de soluções e boas práticas de código.</li><li>Domínio em .NET Framework / .NET Core e aplicação de padrões modernos de arquitetura (DDD, Event-Driven Architecture, Microservices, Clean Architecture).</li><li>Vivência prática em integração de sistemas distribuídos, garantindo segurança, escalabilidade e performance nas comunicações entre serviços.</li><li>Experiência em projetos de modernização e migração de aplicações, incluindo estratégias de desacoplamento e refatoração progressiva.</li><li>Conhecimento aprofundado em bancos de dados relacionais e não relacionais, com foco em modelagem eficiente, integridade transacional e otimização de consultas.</li><li>Experiência com Oracle Database, incluindo PL/SQL, tuning de queries e modelagem de dados.</li><li>Atuação em ambientes multicloud (Azure, AWS, OCI), com compreensão de estratégias híbridas e integrações com ambientes On-Premises.</li><li>Vivência em observabilidade e monitoramento, utilizando logs distribuídos, métricas e rastreamento para diagnóstico e melhoria contínua.</li><li>Conhecimento em práticas de DevSecOps e CI/CD, preferencialmente com pipelines em Azure DevOps.</li><li>Capacidade de traduzir requisitos de negócio em soluções técnicas, garantindo entregas consistentes, sustentáveis e alinhadas à estratégia da empresa.</li><li>Habilidade de mentoria técnica, apoiando o desenvolvimento do time e promovendo padrões de qualidade, automação e excelência de engenharia.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/473/tech-lead-consultor-net-plsql-react]]></applyUrl>
-    <companyId><![CDATA[1]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[ea30a698-fa29-4e19-b6ab-910df35d04be]]></partnerJobId>
     <company><![CDATA[V8.Tech]]></company>
     <title><![CDATA[Coordenador de Engenharia]]></title>
@@ -25344,52 +25374,6 @@ Habilidade de negociação e gestão de conflitos.
 <li>
 Postura colaborativa e foco no cliente interno.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/451/coordenador-de-engenharia]]></applyUrl>
-    <companyId><![CDATA[1]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[9a98b800-f56d-4079-a7f8-f55d6492de8a]]></partnerJobId>
-    <company><![CDATA[V8.Tech]]></company>
-    <title><![CDATA[Tech Lead Especialista .Net / PLSql /React]]></title>
-    <posterEmail><![CDATA[bruno.maria@v8.tech]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado(a) por tecnologia, gosta de resolver desafios complexos e acredita que resultados extraordinários são alcançados por meio da colaboração e da troca de conhecimento, essa vaga é para você! Você será peça-chave na condução técnica de times, apoiando o desenvolvimento de soluções escaláveis e sustentáveis, promovendo boas práticas de engenharia e contribuindo ativamente para a evolução contínua da nossa arquitetura e cultura de desenvolvimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>O Tech Lead será  responsável por liderar squads multidisciplinares  garantindo que as decisões técnicas e arquiteturais sejam consistentes, escaláveis e alinhadas à estratégia do projeto.</li><li>Liderar e alinhar as Squads garantindo sincronização, eficiência e governança técnica.</li><li>Definir e implementar templates, frameworks e bibliotecas reutilizáveis, garantindo padronização e acelerando o desenvolvimento.</li><li>Atuar como guardião da arquitetura, garantindo que as soluções sejam modulares, escaláveis e de fácil manutenção.</li><li>Apoiar decisões estratégicas de tecnologia, garantindo que a evolução da plataforma acompanhe os desafios de crescimento do produto.</li><li>Garantir monitoramento, Observabilidade e logging distribuído, assegurando alta disponibilidade, performance e otimização das aplicações, garantindo monitoramento, rastreamento e mitigação de falhas.</li><li>Acompanhar métricas e indicadores de qualidade, garantindo a melhoria contínua do ciclo de desenvolvimento.</li><li>Facilitar a comunicação entre squads e stakeholders técnicos, garantindo alinhamento e colaboração contínua.</li><li>Gerenciar riscos e antecipar gargalos técnicos, garantindo entregas consistentes e previsíveis.</li><li>Atuar na geração de technical debt, garantindo documentação e evolução arquitetural contínua.</li></ul><ul><li> Atuará como referência técnica e estratégica, definindo padrões, processos, templates e componentes reutilizáveis, impulsionando a plataformização e automação de infraestrutura e desenvolvimento.<br /></li></ul><ul><li>Implementará princípios de Team Topologies, garantindo um modelo de enablement e reuso, permitindo que os squads de desenvolvimento entreguem valor sem fricção operacional.</li></ul><ul><li>Liderará a estratégia de DevSecOps, CI/CD e automação, utilizando Azure DevOps para garantir entregas contínuas, seguras e auditáveis.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência consolidada em desenvolvimento de software e
-liderança técnica de times de engenharia, atuando ativamente na definição de
-arquiteturas, direcionamento técnico e disseminação de boas práticas de código
-e design.</li><li>Domínio do ecossistema .NET (Framework e .NET Core /
-.NET), com aplicação consistente de padrões e estilos arquiteturais modernos,
-como DDD (Domain-Driven Design), Arquitetura Orientada a Eventos (Event-Driven),
-Microserviços e Clean Architecture.</li><li>Experiência no desenvolvimento de aplicações frontend
-modernas com React, incluindo integração com APIs REST e/ou eventos,
-preocupação com performance, reutilização de componentes, padrões de estado e
-boas práticas de engenharia de software no frontend.</li><li>Vivência prática na integração de sistemas distribuídos,
-assegurando segurança, escalabilidade, resiliência e performance na comunicação
-entre serviços e aplicações.</li><li>Atuação relevante em projetos de modernização e migração
-de aplicações, com foco em estratégias de desacoplamento, refatoração
-incremental, redução de débitos técnicos e evolução arquitetural contínua.</li><li>Conhecimento aprofundado em bancos de dados relacionais e
-não relacionais, com forte ênfase em modelagem eficiente, integridade
-transacional, consistência de dados e otimização de consultas.</li><li>Experiência sólida com Oracle Database, incluindo
-desenvolvimento em PL/SQL, tuning de queries, análise de planos de execução e
-modelagem de dados voltada à performance e escalabilidade.</li><li>Vivência em ambientes multicloud,
-compreendendo estratégias híbridas, integração com ambientes On-Premises, além
-de aspectos de governança, segurança e custo.</li><li>Conhecimento prático em observabilidade e monitoramento,
-utilizando logs distribuídos, métricas, tracing e alertas para diagnóstico de
-problemas, análise de causa raiz e melhoria contínua da plataforma.</li><li>Experiência com práticas de DevSecOps e CI/CD, incluindo
-automação de builds, testes, deploys e controles de segurança,
-preferencialmente utilizando Azure DevOps.</li><li>Capacidade de traduzir requisitos de negócio em soluções
-técnicas robustas, escaláveis e sustentáveis, garantindo alinhamento com a
-estratégia da organização e excelência nas entregas.</li><li>Forte habilidade de mentoria técnica e liderança,
-apoiando o crescimento do time, promovendo padrões de qualidade, automação,
-cultura de aprendizado contínuo e excelência em engenharia de software.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/474/tech-lead-especialista-net-plsql-react]]></applyUrl>
     <companyId><![CDATA[1]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -31587,6 +31571,48 @@ Familiaridade com sistemas de gestão e ferramentas digitais (diferencial: Sieng
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[e88d743d-8981-46b7-a96e-6ef08dbe366f]]></partnerJobId>
+    <company><![CDATA[AllWert Incorporação e Urbanização]]></company>
+    <title><![CDATA[Arquiteto de Produto III | Foco Projetos de Arquitetura]]></title>
+    <posterEmail><![CDATA[alexandra.risello@allwert.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuação no desenvolvimento de projetos arquitetônicos, desde a concepção até o desenvolvimento de projetos executivos e detalhamentos, supervisionando todas as etapas e assegurando que as soluções propostas estejam alinhadas com as necessidades do cliente e as normas técnicas. Responsável também por acompanhar o desenvolvimento de escritórios terceiros.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Elaboração de estudos de viabilidade e projetos arquitetônicos.
+</li>
+<li>
+Pesquisa de novas tecnologias e materiais aplicáveis à arquitetura.
+</li>
+<li>
+Proposição de soluções inovadoras e sustentáveis.
+</li>
+<li>
+Desenvolvimento de projetos com foco em soluções estéticas e funcionais.
+</li>
+<li>
+Adequação dos projetos às condicionantes específicas de cada caso.
+</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação em Arquitetura e Urbanismo.
+</li><li>Capacidade de planejar, organizar e controlar projetos de arquitetura.</li>
+<li>
+Utilização de ferramentas e metodologias adequadas na gestão de projetos.
+</li>
+<li>
+Familiaridade com leis, normas e regulamentos relacionados à arquitetura e construção.
+</li>
+<li>
+Experiência no desenvolvimento de projetos com verticalidade.</li>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/allwert/102/arquiteto-de-produto-iii-foco-projetos-de-arquitetura]]></applyUrl>
+    <companyId><![CDATA[71175882]]></companyId>
+    <city><![CDATA[Porto Belo]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[cd6bee1c-c9fc-4c14-85fd-9e13919f16a3]]></partnerJobId>
     <company><![CDATA[AllWert Incorporação e Urbanização]]></company>
     <title><![CDATA[Banco de Talentos]]></title>
@@ -34198,6 +34224,25 @@ Monitorar o estoque, realizando inventários e controle de movimentação de pe�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[3a7467ad-5374-4160-bfd0-00ed8e258594]]></partnerJobId>
+    <company><![CDATA[Grupo Canopus]]></company>
+    <title><![CDATA[ENTREGA TECNICA]]></title>
+    <posterEmail><![CDATA[alessandra.barros@grupocanopus.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Recepcionar os veículos junto a transportadora, certificando-se que não haja avarias, documentos e formulários estão junto ao veículo;Quando identificado avaria ou qualquer não conformidade na recepção dos veículos, montar processo/acionar a seguradora ou montadora para as devidas correções, ou, comunicar ao setor responsável;Guardar os veículos no estoque de forma adequada, evitando avarias, entre outras atividades correlatas à função.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Recepcionar os veículos junto a transportadora, certificando-se que não haja avarias, documentos e formulários estão junto ao veículo;Quando identificado avaria ou qualquer não conformidade na recepção dos veículos, montar processo/acionar a seguradora ou montadora para as devidas correções ou comunicar ao setor responsável;Guardar os veículos no estoque de forma adequada, evitando avarias, entre outras atividades correlatas à função.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo;CNH B;Conhecimento no Pacote Office,Será um diferencial experiência na área.<br /><strong>TODAS AS VAGAS ESTÃO DISPONIVEIS PARA PCD</strong>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/878/entrega-tecnica]]></applyUrl>
+    <companyId><![CDATA[2073549]]></companyId>
+    <city><![CDATA[Cuiabá]]></city>
+    <state><![CDATA[MT]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[f5540a73-4f8e-4c7b-9f13-b9cbc2be3262]]></partnerJobId>
     <company><![CDATA[Grupo Canopus]]></company>
     <title><![CDATA[CAIXA]]></title>
@@ -35685,30 +35730,6 @@ Boa comunicação e vontade de aprender.</li>]]></description>
     <posterEmail><![CDATA[julia.gomes@statum.eng.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais dedicados, analíticos e proativos para integrar nossa equipe como <strong>Assistente de Monitoramento.</strong> Este profissional terá como missão garantir a execução eficiente e segura dos sistemas de monitoramento geotécnico em nossos diversos projetos, realizando o controle de dados e a análise detalhada das informações relacionadas ao comportamento do solo e das estruturas. Se você se identifica com um ambiente dinâmico e desafiador, esta é a oportunidade ideal para alavancar sua carreira. Aqui, você terá a chance de desenvolver habilidades essenciais e contribuir ativamente para o crescimento de uma empresa.<br />Venha fazer parte de um time que preza pela <strong>excelência</strong>, <strong>colaboração</strong> e <strong>desenvolvimento contínuo</strong>. Juntos, podemos alcançar grandes conquistas e impulsionar o sucesso de projetos de alto impacto, deixando sua marca em um mercado em constante transformação. <strong>Faça a diferença conosco!</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhar e interpretar gráficos e leituras em tempo real de todos os instrumentos geotécnicos automatizados das barragens através de plataforma Sentnel;<br /><ul><li>Acompanhar testes de monitoramento do sistema automatizado de sirenes e alertas;</li><li>Acompanhar o monitoramento das Estações Totais Robóticas (ETR), instrumentação piezométrica e nível d’água dos reservatórios;</li><li>Elaborar relatórios diários de turno sobre o monitoramento e falhas no sistema;</li><li>Monitorar as operações de bombeamento em reservatórios, sump´s e canais;</li><li>Realizar testes diários em sensores, equipamentos e sistemas;</li><li>Realizar atividades administrativas ligadas à sala de monitoramento geotécnico;</li><li>Coleta de dados pluviométricos;</li><li>Acompanhamento dos trabalhos de manutenção das estruturas geotécnicas (melhorias em acessos, desassoreamento de sump’s e reservatórios);</li><li>Cumprir com todas as regras e políticas da STATUM, especialmente aquelas relacionadas à segurança, meio ambiente e práticas anticorrupção;</li><li>Preencher a planilhas de controle de status dos monitoramentos, pluviometria e estruturas geotécnicas realizados visando atender normas e procedimentos da empresa;</li><li>Atuar no apoio aos profissionais de maior senioridade nos processos inerentes à sua área de atuação usufruindo da experiência para o autodesenvolvimento;</li><li>Atentar para condições inseguras ou descumprimento de regras de segurança por colegas e terceiros, alertando para sua adequação;</li><li>Seguir plano de comunicação de situações de emergência definido para cada estrutura;</li><li>Seguir determinações do Superior Imediato;</li><li>Participar de reuniões sempre que convocado;</li><li>Participar de visitas técnicas quando necessário;</li><li>Cumprir com a política da Qualidade da STATUM;</li><li>Ler artigos ligados à área de atuação;</li><li>Participar de feiras técnicas com acompanhamento presencial em palestras técnicas;</li><li>Participar de treinamentos e campanhas ligadas à Segurança e Meio Ambiente;</li><li>Lançar as horas e devidos apontamentos atendendo os padrões de controles pré-definidos pela Gestão da empresa;</li><li>Potencial de crescimento em uma empresa solida do segmento de consultoria de engenharia, com potencial de participação em projetos desafiantes.</li></ul><br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Escolaridade: Cursando a partir do 7° em Engenharia Civil, Engenharia Urbana e Engenharia de Minas;</li><li>Desejável experiência em Geotecnia;</li><li>Pacote Office completo;</li><li>Conhecimento básico em AutoCAD; </li><li>Carteira Nacional de Habilitação categoria B;</li><li><b>Disponibilidade para atuar em turno:</b> <b>Escala de trabalho 12x36 (Escala noturna)</b></li><li>Local de Trabalho: Belo Horizonte, Bairro Estoril;</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/statumvagas/22/assistente-de-monitoramento-de-estruturas-geotecnicas-e-hidraulicas-noturno]]></applyUrl>
-    <companyId><![CDATA[27206196]]></companyId>
-    <city><![CDATA[Belo Horizonte]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b55e8085-eff0-45b8-a29f-6cdaacad1e11]]></partnerJobId>
-    <company><![CDATA[STATUM Geotecnia]]></company>
-    <title><![CDATA[ENGENHEIRO GEOTÉCNICO JUNIOR - ATO]]></title>
-    <posterEmail><![CDATA[julia.gomes@statum.eng.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais analíticos e proativos para integrar nossa equipe de Geotecnia. Se você busca um ambiente dinâmico e com oportunidades de crescimento, esta vaga pode ser para você. Como parte do tempo de engenharia, você terá a oportunidade de trabalhar em projetos solicitados e contribuir com soluções que impactam diretamente o nosso negócio.<br />Se você possui habilidades analíticas, capacidade de resolução de problemas e deseja fazer parte de uma equipe colaborativa e engajada, faça parte do tempo! Estamos ansiosos para conhecer candidatos(as) que estejam alinhados com a nossa cultura e desejar crescer junto conosco.<br />Venha fazer a diferença enquanto contribuímos juntos para o crescimento da nossa empresa.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar atividades de campo, inspeções, medições e acompanhamento técnico da execução</li><li>Apoiar análises e verificações geotécnicas relacionadas à execução da obra, sob supervisão técnica;</li><li>Elaborar relatórios técnicos de acompanhamento, registros de campo e pareceres de apoio;</li><li>Interpretar dados de campo e de laboratório aplicáveis à obra, com base em critérios de engenharia;</li><li>Participar de reuniões técnicas internas e com clientes;</li><li>Apoiar atividades de campo, inspeções, medições e acompanhamento técnico da execução;</li><li>Utilizar softwares técnicos, planilhas e ferramentas corporativas para registros e controles;</li><li>Apoiar o planejamento e o controle dos prazos das atividades sob sua responsabilidade;</li><li>Contribuir para o registro de lições aprendidas e para a melhoria contínua dos processos;</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Atuar
-no acompanhamento técnico de obras geotécnicas, sob orientação técnica,
-verificando a execução dos serviços conforme projetos, especificações e normas
-técnicas, apoiando análises, medições e registros de campo, contribuindo para a
-qualidade, segurança, cumprimento de prazos e atendimento às diretrizes da
-STATUM, com foco no desenvolvimento e na evolução técnica profissional.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/statumvagas/19/engenheiro-geotecnico-junior-ato]]></applyUrl>
     <companyId><![CDATA[27206196]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
     <state><![CDATA[MG]]></state>
@@ -38966,6 +38987,44 @@ alta performance, esta vaga é para você! Vamos conversar? <br /><br /><b>Resp
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[d27db32e-a4a2-411d-b020-18294ab73656]]></partnerJobId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Eletricista Automotivo I - Mecânica de Colhedora]]></title>
+    <posterEmail><![CDATA[kauane.silva@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a manutenção e reparo de sistemas elétricos em veículos automotores.</li><li>Identificar falhas e problemas elétricos, utilizando ferramentas adequadas para diagnóstico.</li><li>Trocar e instalar componentes elétricos, como baterias, faróis, alternadores e chicotes em Colhedoras.</li><li>Verificar e corrigir aparelhos eletrônicos do veículo, garantindo o pleno funcionamento.</li><li>Auxiliar na montagem e desmontagem de equipamentos elétricos e eletrônicos.</li><li>Atender às normas de segurança e procedimentos da empresa durante as atividades de trabalho.</li><li>Manter a organização e limpeza do ambiente de trabalho e das ferramentas utilizadas.</li><li>Registrar serviços realizados e manter a documentação atualizada.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prévia na função ou em atividades similares.</li><li>Conhecimento em sistemas elétricos automotivos.</li><li>Capacidade de identificação e resolução de falhas elétricas.</li><li>Disponibilidade para trabalhar em turnos.</li><li>Ensino fundamental completo.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1411/eletricista-automotivo-i-mecanica-de-colhedora]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Conceição das Alagoas]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[24811593-f85c-465b-8e6f-61ecb65606fa]]></partnerJobId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Assistente de Processo Agrícola - Qualidade]]></title>
+    <posterEmail><![CDATA[marilia.masson@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhar a execução das atividades agrícolas ( Plantio, tratos culturais e colheita), Garantindo o cumprimento dos padrões técnicos de qualidade.</li><li>Coletar, Registar e analisar dados de campo.</li><li>Apoiar na elaboração de relatórios técnicos e indicadores de qualidade.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino técnico ou superior em Agronomia, Agronegócio, técnico Agrícola ou áreas correlatas.</li><li>CNH B ( definitiva).</li><li>Residir em Conceição das Alagoas- MG </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1410/assistente-de-processo-agricola-qualidade]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Conceição das Alagoas]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[c3c65887-c072-42e9-8f60-e202f2f99861]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
     <title><![CDATA[Auxiliar de Serviços Gerais]]></title>
@@ -39641,25 +39700,6 @@ fornecedores.</li></ul>]]></description>
     <posterEmail><![CDATA[marilia.masson@deltasucroenergia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Executar serviços de manutenção corretiva, preventiva e preditiva em veículos e equipamentos automotivos da linha linear (tratores, caminhões, veículos de apoio).<br />Realizar diagnósticos técnicos de falhas mecânicas e propor soluções eficientes.<br />Efetuar reparos em sistemas mecânicos, hidráulicos e pneumáticos.<br />Cumprir ordens de serviço, garantindo qualidade e prazos na execução.<br />Manter organizado e conservado o ambiente de trabalho, ferramentas e equipamentos.<br />Apoiar a equipe em atividades mais complexas e contribuir para o desenvolvimento de colegas de menor senioridade.<br />Registrar as intervenções realizadas em sistemas informatizados de manutenção.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência comprovada em manutenção de veículos automotivos e máquinas da linha linear.<br />Conhecimentos sólidos em sistemas mecânicos, hidráulicos e pneumáticos.<br />Habilidade em interpretação de manuais técnicos e diagramas.<br />Experiência no uso de ferramentas de diagnóstico e medição.<br />Disponibilidade para atuar em regime de turnos e campo.<br />Residir em Uberaba/MG<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1132/mecanico-automotivo-campo-mecanica-de-colhedora-uberaba]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[edad10a2-7f82-4801-90c9-7be56c7d58c8]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Médico do Trabalho - Saúde Ocupacional]]></title>
-    <posterEmail><![CDATA[marilia.masson@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Coordenar, planejar e executar o Programa de Controle Médico de Saúde Ocupacional (PCMSO), de acordo com a NR-7.<br />• Realizar e/ou supervisionar os Exames Médicos Ocupacionais (admissionais, periódicos, de retorno ao trabalho, de mudança de riscos/função e demissionais), emitindo o Atestado de Saúde Ocupacional (ASO).<br />• Realizar e/ou acompanhar exames complementares necessários para o monitoramento da saúde dos trabalhadores, conforme o PCMSO.<br />• Prestar atendimento médico ambulatorial e de emergência de baixa complexidade no local de trabalho.<br />• Diagnosticar e tratar, ou encaminhar, doenças ocupacionais e agravos à saúde relacionados ao trabalho.<br />• Avaliar a capacidade laboral do colaborador para o exercício de suas funções, propondo adequações quando necessário.<br />• Elaborar e manter atualizados os prontuários médicos dos trabalhadores, garantindo o sigilo ético e legal.<br />• Emitir pareceres, relatórios e laudos médicos relacionados à saúde ocupacional.<br />• Realizar a gestão de atestados médicos e analisar nexo causal de acidentes de trabalho ou doenças (NTEP).<br />• Interagir com o RH e demais áreas da empresa em casos de afastamentos, retorno ao trabalho e reabilitação profissional.<br />• Participar ativamente da elaboração e implementação de programas de prevenção de riscos ambientais (em conjunto com a área de Segurança do Trabalho/SESMT) e campanhas de saúde.<br />• Promover ações de educação e conscientização sobre saúde, prevenção de acidentes, ergonomia e bem-estar no ambiente de trabalho.<br />• Colaborar com a CIPA (Comissão Interna de Prevenção de Acidentes) e o SESMT (Serviço Especializado em Engenharia de Segurança e em Medicina do Trabalho).<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />• Formação superior completa em Medicina.<br />• Especialização em Medicina do Trabalho (pós-graduação, residência médica ou título de especialista).<br />• Registro de Qualificação de Especialista (RQE) em Medicina do Trabalho no Conselho Regional de Medicina (CRM).<br />• Registro ativo e adimplente no CRM.<br />• Experiência prévia na função de Médico do Trabalho em empresas de médio ou grande porte.<br /><ul><li>12 horas semanais</li><li>Residir em Uberaba-MG</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1124/medico-do-trabalho-saude-ocupacional]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Conceição das Alagoas]]></city>
     <state><![CDATA[MG]]></state>
@@ -45768,6 +45808,25 @@ Prestação de suporte às demais atividades operacionais conforme demanda.
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[926168bb-d4b6-4c85-9b26-62aa0a618dd9]]></partnerJobId>
+    <company><![CDATA[Bianchini]]></company>
+    <title><![CDATA[Técnico de Manutenção Elétrica Pl]]></title>
+    <posterEmail><![CDATA[recrutamento.rg@bianchinisa.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais motivados e comprometidos para se juntarem à nossa equipe.Se você é uma pessoa que gosta de desafios e busca crescer profissionalmente, essa pode ser a oportunidade perfeita para você. Neste cargo, você terá a chance de desenvolver suas habilidades, aprender com profissionais experientes e contribuir para projetos empolgantes. <br />Se você é proativo, possui espírito de equipe e está em busca de novos desafios, venha fazer parte do nosso time. <br />Aplique agora e Faça parte dessa jornada de crescimento e sucesso!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar diagnósticos e reparos em instalações elétricas residenciais, comerciais e industriais. Executar manutenções preventivas, preditivas e corretivas em quadros de distribuição, motores, geradores e outros equipamentos elétricos. Montar, parametrizar, programar e instalar sistemas elétricos, incluindo fiação, tomadas, interruptores, luminárias, soft starters, inversores. Interpretar esquemas elétricos e elaborar relatórios técnicos sobre as intervenções realizadas. Monitorar e garantir a conformidade com normas de segurança e regulamentações. Colaborar com outros setores na identificação e solução de problemas elétricos. Manter o local de trabalho organizado e seguro, realizando o controle de materiais e ferramentas<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo; curso técnico em Eletrotécnica ou áreas afins.  Conhecimento avançado em sistemas elétricos e automação. Capacidade de diagnosticar e resolver problemas elétricos. <br />Habilidade em realizar manutenções preventivas e corretivas<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bianchinivagas/152/tecnico-de-manutencao-eletrica-pl]]></applyUrl>
+    <companyId><![CDATA[1352906]]></companyId>
+    <city><![CDATA[Rio Grande]]></city>
+    <state><![CDATA[RS]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[350b9b9c-d75c-4c23-9d56-9809311376fe]]></partnerJobId>
     <company><![CDATA[Bianchini]]></company>
     <title><![CDATA[Técnico de Manutenção Elétrica Jr]]></title>
@@ -51511,25 +51570,6 @@ Manter registros atualizados e garantir conformidade documental.<br /><br /><b>R
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[7d6e653a-3de6-43bc-b121-b936cd80441d]]></partnerJobId>
-    <company><![CDATA[GS Inima Brasil]]></company>
-    <title><![CDATA[Auxiliar de Encanador de Redes]]></title>
-    <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />❇️Responsável por apoiar nas atividades de manutenção de redes de distribuição de água e coleta de esgoto, incluindo reparos em tubulações, operação de equipamentos hidráulicos, limpeza de sistemas, substituição de hidrômetros e apoio em obras civis de pequeno porte. Atua conforme normas de segurança, utilizando EPIs e mantendo a organização do local de trabalho.<br /><br /><br /><b>Horário:  Seg a Qui 07:30 às 17:30 com 1h refeição/ Sex 07:30 às 16:30<br /><br /></b>️ <b>Vale Alimentação / Refeição</b> – apoio para suas refeições diárias;<br /> <b>Cesta de Natal</b> – um carinho especial no fim do ano;<br /> <b>Plano de Saúde</b> – cuidado completo para você;<br /> <b>Plano Odontológico</b> – saúde bucal sempre em dia;<br />️ <b>Seguro de Vida sem custo</b> – proteção para você e sua família;<br /> <b>Vale Transporte</b> – facilidade no deslocamento diário;<br /> <b>Auxílio Medicamento </b>– suporte financeiro para tratamentos e prescrições;<br />️ <b>Wellhub</b> – acesso a academias e atividades físicas;<br /><b> Pluxee Cuida </b>– apoio psicológico, social, nutricional e consultorias jurídica e financeira.<br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Auxiliar a equipe de manutenção de redes de agua e coleta de esgoto;<br />• Auxiliar no assentamento de tubulações, conexões e ligações de equipamentos hidráulicos de agua e esgoto;<br />• Auxiliar na operação de equipamentos e materiais hidráulicos (bomba d’agua, tubulações, registro, serra clipper, policorte portátil, compactador de solo, etc);<br />• Cortar, roscar, curvar, dobrar, montar, instalar e conservar encanamentos, tubulações e partes acessórias das instalações de agua, esgotos, calefação e saneamento;<br />• Auxiliar nos serviços de compactação dos solos;<br />• Executar limpeza de vias e sinalização de segurança.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b></b><b>Formação Obrigatória: </b>Ensino Fundamental Completo.<br /><br /><b>Requisitos:</b><br /><ul><li>Carteira de Habilitação, Categoria "B", vigente.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/350/auxiliar-de-encanador-de-redes]]></applyUrl>
-    <companyId><![CDATA[36870042]]></companyId>
-    <city><![CDATA[Concórdia]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[52531603-07c5-4426-9245-1b2580fad8e0]]></partnerJobId>
     <company><![CDATA[GS Inima Brasil]]></company>
     <title><![CDATA[Coordenador(a) Comercial]]></title>
@@ -56310,6 +56350,25 @@ além de treinar funcionários sobre práticas eficazes de prevenção.<br /><br
     <posterEmail><![CDATA[leila.duarte@grupopmz.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Executar atividades operacionais no Centro de Distribuição (CD), incluindo descarga, conferência, separação e carregamento de mercadorias. Auxiliar na movimentação física de produtos, conferência de notas fiscais, manuseio de sucatas e processos de garantia. Também poderá atuar em outras atividades internas do CD conforme orientação do supervisor. A organização e limpeza do ambiente de trabalho e ferramentas são responsabilidades de todos os colaboradores do CD.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Receber mercadorias entregues por transportadoras, conferindo notas fiscais (NFs) e conhecimentos de transporte eletrônico (CTEs), garantindo conformidade e ausência de avarias.</li><li>Identificar corretamente as mercadorias recebidas no dia.</li><li>Separar produtos de acordo com as especificações dos pedidos, garantindo a qualidade na entrega final.</li><li>Executar a descarga e o carregamento de mercadorias com atenção às especificações de cada item.</li><li>Avaliar o tipo de produto recebido (leve, frágil, pesado) e garantir sua correta estocagem.</li><li>Verificar danos nos produtos e reportar ocorrências aos supervisores.</li><li>Controlar o fluxo de caminhões na pista para manter a movimentação eficiente.</li><li>Assegurar a organização e limpeza do estoque, cumprindo as normas de segurança.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo</li><li>Disponibilidade de horário</li><li>Conhecimento básico em informática</li><li>Organização e atenção aos detalhes</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/227/auxiliar-de-estoque-cd-auxiliar]]></applyUrl>
+    <companyId><![CDATA[22287656]]></companyId>
+    <city><![CDATA[Macapá]]></city>
+    <state><![CDATA[AP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[abd5301f-77d3-4a99-a370-d829e65d388f]]></partnerJobId>
+    <company><![CDATA[Grupo PMZ]]></company>
+    <title><![CDATA[AP01 | APRENDIZ DE ESTOQUE]]></title>
+    <posterEmail><![CDATA[leila.duarte@grupopmz.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Menor Aprendiz de Estoque atua em apoio às atividades operacionais, contribuindo para a organização, conferência e movimentação de mercadorias. <br /><br /><b>Locais de Atuação:</b><br />AP: Macapá<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar no recebimento de mercadorias, realizando a conferência das notas fiscais (NFs) e conhecimentos de transporte eletrônico (CTEs), garantindo conformidade com os itens físicos e verificação de avarias;<br />Apoiar na identificação e etiquetagem das mercadorias recebidas no dia;<br />Colaborar na separação dos produtos conforme os prazos estipulados para expedição, observando as especificações de cada pedido (quantidade, tipo, fragilidade, etc.);<br />Avaliar, com supervisão, os tipos de produtos recebidos (leves, frágeis, pesados), a fim de orientar sua estocagem adequada;<br />Sinalizar aos supervisores qualquer dano ou defeito identificado nas mercadorias;<br />Auxiliar no controle da pista de descarga/carregamento, contribuindo para um fluxo eficiente e evitando acúmulo de veículos;<br />Manter o ambiente de estoque limpo, organizado e seguro, seguindo as normas da empresa;<br />Apoiar nas atividades de carga e descarga de mercadorias, sempre com acompanhamento e uso correto de equipamentos de proteção individual (EPIs);<br />Executar outras tarefas compatíveis com a função, conforme orientação da liderança.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio cursando ou concluído.<br />- Conhecimento básico em informática.<br />- Boa comunicação e trabalho em equipe.<br />- Organização e atenção aos detalhes.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/173/ap01-aprendiz-de-estoque]]></applyUrl>
     <companyId><![CDATA[22287656]]></companyId>
     <city><![CDATA[Macapá]]></city>
     <state><![CDATA[AP]]></state>
@@ -61335,89 +61394,6 @@ Mantenha seus dados de contato sempre atualizados (telefone e e-mail), garantind
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[a88cf7ff-b970-448f-a7c2-e97b25d8c469]]></partnerJobId>
-    <company><![CDATA[MC2 LIVE MARKETING]]></company>
-    <title><![CDATA[ANALISTA FINANCEIRO SÊNIOR]]></title>
-    <posterEmail><![CDATA[fernanda.assis@mc2.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar de forma estratégica e analítica na gestão financeira
-da agência, garantindo controle, previsibilidade e saúde financeira dos
-projetos e da operação, com foco em rentabilidade, fluxo de caixa e apoio à
-tomada de decisão em um ambiente dinâmico de live marketing.<br /><br />Vaga 100% presencial - inegociável <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Gestão Financeira e Controle</b>
-
-<ul>
- <li>Gerenciar
-     o fluxo de caixa diário, semanal e mensal da agência.</li>
- <li>Realizar
-     controle e conciliação bancária, contas a pagar e a receber.</li>
- <li>Acompanhar
-     faturamento por projeto/cliente, garantindo correta emissão de notas e
-     prazos.</li>
- <li>Controlar
-     custos operacionais e de projetos (job cost), analisando desvios entre
-     previsto x realizado.</li>
-</ul>
-
-<b>Análise e Planejamento</b>
-
-<ul>
- <li>Elaborar
-     relatórios financeiros gerenciais (DRE, margem por projeto, rentabilidade
-     por cliente).</li>
- <li>Apoiar
-     na construção e acompanhamento do orçamento anual e forecasts.</li>
- <li>Analisar
-     indicadores financeiros e apoiar a diretoria na tomada de decisão.</li>
-</ul>
-
-<b>Interface com Projetos e Produção</b>
-
-<ul>
- <li>Atuar
-     junto às áreas de Criação, Produção e Atendimento para garantir
-     viabilidade financeira dos projetos.</li>
- <li>Apoiar
-     na precificação de propostas, análise de margem e estrutura de custos.</li>
- <li>Validar
-     contratos sob a ótica financeira (prazos, condições de pagamento,
-     impostos).</li>
-</ul>
-
-<b>Governança e Processos</b>
-
-<ul>
- <li>Garantir
-     conformidade com políticas internas, controles e boas práticas
-     financeiras.</li>
- <li>Apoiar
-     auditorias internas e externas.</li>
- <li>Sugerir
-     melhorias de processos, automações e controles.</li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Formação
-     em Administração, Contabilidade, Economia ou áreas correlatas.</li>
- <li>Experiência
-     sólida como Analista Financeiro Sênior (preferencialmente em agência,
-     eventos ou live marketing).</li>
- <li>Domínio
-     de Excel / Google Sheets e ferramentas de controle financeiro.</li>
- <li>Vivência
-     com DRE, fluxo de caixa, rentabilidade por projeto e indicadores
-     financeiros.</li>
-</ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mc2vagas/14/analista-financeiro-senior]]></applyUrl>
-    <companyId><![CDATA[5400796]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[e64d7ad7-7b5f-4803-a609-e2e6f33586cc]]></partnerJobId>
     <company><![CDATA[MC2 LIVE MARKETING]]></company>
     <title><![CDATA[PRODUTOR SÊNIOR - LIVE MARKETING]]></title>
@@ -63921,6 +63897,68 @@ de ações educacionais;</li><li>Realizar as demais atividades correlatas ao car
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[d46511e6-77a0-4701-9f9b-34d2de579bdf]]></partnerJobId>
+    <company><![CDATA[SERVIÇO SOCIAL DA INDÚSTRIA]]></company>
+    <title><![CDATA[ASSISTENTE TECNICO ADMINISTRATIVO (Pessoa com Deficiência – PCD) - SESI DR]]></title>
+    <posterEmail><![CDATA[veronicagarcia@fiepb.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li><i>Executar serviços técnicos e administrativos nas áreas
+de logística, <strong>Departamento Pessoal/Recurso Humanos</strong>, prestando apoio operacional às rotinas do setor, organização de documentos, atendimento às unidades e elaboração de relatórios e controles administrativos.</i></li>
+</ul><i><br /></i><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><i>Executar
+atividades de rotinas técnicas administrativas de sua área de atuação;</i></li><li><i><i>Executar atividades de apoio na área de recursos humanos e
+administração de pessoal (registros de pessoal, folha de pagamento, freqüência,
+benefícios etc.);</i></i></li><li><i>Elaborar
+relatórios, gráficos e demonstrativos em geral;</i></li><li><i>Compilar e
+analisar informações estatísticas, fluxogramas e demais instrumentos de
+informação gerencial;</i></li><li><i>Acompanhar e
+controlar trabalhos relativos à sua área de atuação;</i></li><li><i>Fornecer
+subsídios para análise e tomada de decisão das diversas áreas da Instituição;</i></li><li><i>Organizar
+arquivos e fichários, operar e digitar trabalhos diversos nos sistemas
+informatizados existentes;</i></li><li><i>Prestar serviço
+de informações e apoio a clientes e visitante conforme orientação;</i></li><li><i>Prestar
+atendimento telefônico;</i></li><li><i>Controlar
+materiais de uso nas rotinas de trabalho da Instituição;</i></li><li><i>Controlar o
+movimento financeiro da área;</i></li><li><i>Realizar demais
+atividades correlatas ao cargo/função.</i></li></ul><br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação de Nível Médio Completo;</li></ul><ul><li>Inserir no <b>campo ANEXO </b>o laudo médico indicando tipo e grau da deficiência, com referência ao código CID;</li><li>Experiência mínima de 06 (seis) meses comprovada na área administrativa. </li></ul><br /><ul><li><i><strong>Cadastro curricular completo e atualizado na plataforma (<u>Informar nome completo</u>).</strong></i></li></ul><br /><br /><b>Carga horária: 40 horas semanais</b><br /><br /><br /><b>Período de Inscrições:</b> 05/03/2026 a 08/03/2026<br /><br /><br /><b>Observações:</b><br />O não preenchimento das informações obrigatórias no momento da inscrição poderá acarretar a desclassificação do candidato. Inscrições realizadas fora do período informado não serão consideradas válidas.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sesipboportunidades/23/assistente-tecnico-administrativo-pessoa-com-deficiencia-pcd-sesi-dr]]></applyUrl>
+    <companyId><![CDATA[83949417]]></companyId>
+    <city><![CDATA[Campina Grande]]></city>
+    <state><![CDATA[PB]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2085.80]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2085.80]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[2e79653d-a571-43bd-94a0-8bd17e9807d1]]></partnerJobId>
     <company><![CDATA[SERVIÇO SOCIAL DA INDÚSTRIA]]></company>
     <title><![CDATA[PROFESSOR NÍVEL SUPERIOR EM ENSINO BÁSICO (FUNDAMENTAL II - ARTE) - ESCOLA SESI PRATA]]></title>
@@ -65792,9 +65830,90 @@ para atendimento aos requisitos normativos.</li></ul><br /><br /><br /><b>Requis
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[ebec8e41-75f8-4d27-9cb5-3498f7bc7c21]]></partnerJobId>
+    <company><![CDATA[Mondiana]]></company>
+    <title><![CDATA[ESTÁGIO DE PRODUÇÃO]]></title>
+    <posterEmail><![CDATA[sheila.ribeiro@mondiana.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estudante de Engenharia de Produção/Mecânica/Quimica ou Automação, com forte capacidade analítica e interesse em otimização de processos industriais. Buscando oportunidade de estágio para aplicar conhecimentos em metodologias ágeis (Lean, 5S) e suporte à gestão de indicadores. Comprometido com a segurança do trabalho, qualidade e busca constante por eficiência operacional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><strong>Suporte ao PCP (Planejamento e Controle de Produção):</strong> Auxílio no acompanhamento das ordens de produção e controle de cronogramas para garantir a entrega no prazo.</li><li><strong>Monitoramento de Indicadores (KPIs):</strong> Coleta e análise de dados de produtividade, refugo (scrap) e tempo de máquina parada para elaboração de relatórios gerenciais.</li><li><strong>Aplicação de Metodologias Lean:</strong> Apoio na implementação de ferramentas como <strong>5S, Kanban e Kaizen</strong> para redução de desperdícios no chão de fábrica.</li><li><strong>Controle de Qualidade:</strong> Auxílio na inspeção de peças e produtos, garantindo que os padrões técnicos e normas de segurança sejam seguidos.</li><li><strong>Atualização de Planilhas e Sistemas (ERP):</strong> Alimentação de dados em sistemas integrados (como SAP ou Totvs) e criação de dashboards em Excel/Power BI.</li><li><strong>Mapeamento de Processos:</strong> Auxílio na elaboração de fluxogramas e instruções de trabalho (IT) para padronização das tarefas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Cursando a partir do 4° (quarto) semestre/fase de Engenharia de Produção/Mecânica/Materiais.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmondiana/41/estagio-de-producao]]></applyUrl>
+    <companyId><![CDATA[35514539]]></companyId>
+    <city><![CDATA[Biguaçu]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1300.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1300.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ff35f24b-7154-4692-9999-32396294503f]]></partnerJobId>
+    <company><![CDATA[Mondiana]]></company>
+    <title><![CDATA[ESTÁGIO DE P&D]]></title>
+    <posterEmail><![CDATA[sheila.ribeiro@mondiana.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos uma mente inquieta e apaixonada por inovação para integrar nosso time de PD! Se você gosta de colocar a mão na massa, testar novas ideias e buscar soluções criativas para problemas complexos, essa vaga é para você. Aqui, você não será apenas um observador, mas parte ativa na criação de produtos/processos que impactam o mercado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>O que você fará no dia a dia (Atividades):</strong><ul><li><strong>Apoio em Testes e Prototipagem:</strong> Auxiliar na execução de ensaios laboratoriais ou testes de conceito, documentando resultados e observações técnicas.</li><li><strong>Pesquisa de Tendências:</strong> Realizar levantamentos bibliográficos e pesquisas de mercado para identificar novas matérias-primas, tecnologias ou comportamentos de consumo.</li><li><strong>Documentação Técnica:</strong> Auxiliar na elaboração de relatórios, fichas técnicas e manuais de processos dos projetos em desenvolvimento.</li><li><strong>Gestão de Amostras/Insumos:</strong> Organizar e controlar o estoque de materiais utilizados nos experimentos, garantindo a organização do ambiente de testes.</li><li><strong>Suporte em Projetos:</strong> Colaborar no cronograma de projetos (PMO), ajudando no acompanhamento de prazos e entregas junto aos pesquisadores seniores.</li><li><strong>Análise de Resultados:</strong> Tabular dados obtidos em testes e auxiliar na criação de gráficos e apresentações para suporte à tomada de decisão.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando Superior em Engenharia Química e/ou áreas correlatas a partir do 4° (quarto) semestre/fase.</li><li>Desejavel: Inglês básico/intermediário (útil para leitura de artigos técnicos).</li><li>Desejavel: Domínio do Pacote Office (especialmente Excel para análise de dados).</li><li>Perfil curioso, detalhista e com facilidade para trabalhar em equipe.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmondiana/40/estagio-de-p-d]]></applyUrl>
+    <companyId><![CDATA[35514539]]></companyId>
+    <city><![CDATA[Biguaçu]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1300.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1300.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ab36e734-8bdb-4011-b7e7-4659ffe11828]]></partnerJobId>
+    <company><![CDATA[Mondiana]]></company>
+    <title><![CDATA[ESTÁGIO EM PCP]]></title>
+    <posterEmail><![CDATA[sheila.ribeiro@mondiana.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) estagiário(a) para atuar na área de PCP, com foco em apoiar as rotinas de programação de produção. Essa é uma oportunidade para quem deseja aprender na prática e se desenvolver em um ambiente dinâmico e colaborativo com ampla vivência generalista.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Buscamos estudante proativo e curioso, a partir do quarto semestre de Engenharia de Produção ou áreas correlatas, para apoiar nossa equipe de planejamento e programação de produção. O objetivo é proporcionar aprendizado prático em ambiente industrial focando em eficiência operacional.Seguem algumas atividades:<ul><li>Apoio na Programação da Produção: Auxiliar na criação de ordens de produção (OPs) e no sequenciamento das máquinas, garantindo que o que foi planejado chegue ao chão de fábrica.</li><li>Controle de Estoque e Matéria-Prima: Monitorar os níveis de estoque e realizar a conferência de materiais para evitar rupturas (faltas) que atrasem a linha.</li><li>Atualização de Indicadores (KPIs): Alimentar planilhas e sistemas com dados de produtividade, refugo, paradas de máquina e cumprimento de prazos.</li><li>Lançamento de Dados no ERP: Operar sistemas de gestão (como SAP, Totvs ou Oracle) para registrar entradas, saídas e movimentações de ordens.</li><li>Acompanhamento do Cronograma: Verificar se o planejado $P$ está sendo executado $E$ em tempo real, reportando desvios à supervisão.</li><li>Inventários Cíclicos: Participar de contagens físicas de estoque para garantir que o saldo do sistema bata com a realidade.</li><li>Interface entre Departamentos: Facilitar a comunicação entre o setor de Vendas (pedidos) e Compras (suprimentos) para alinhar as datas de entrega.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Estar cursando Engenharia de Produção ou áreas correlatas a partir do 4° (quarto) semestre/fase.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmondiana/39/estagio-em-pcp]]></applyUrl>
+    <companyId><![CDATA[35514539]]></companyId>
+    <city><![CDATA[Biguaçu]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1300.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1300.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[e8a034cb-438d-46a7-a82e-a36038714f89]]></partnerJobId>
     <company><![CDATA[Mondiana]]></company>
-    <title><![CDATA[ESTAGIO DE RH]]></title>
+    <title><![CDATA[ESTÁGIO DE RH]]></title>
     <posterEmail><![CDATA[sheila.ribeiro@mondiana.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) estagiário(a) para atuar na área de Recursos Humanos, com foco em apoiar as rotinas de RH e DP. Essa é uma oportunidade para quem deseja aprender na prática e se desenvolver em um ambiente dinâmico e colaborativo com ampla vivência generalista.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Recursos Humanos:</strong><ul><li><strong>Recrutamento e Seleção:</strong><ul><li>Apoiar na divulgação de vagas em diferentes canais de comunicação.</li><li>Realizar triagem de currículos e contato inicial com candidatos.</li><li>Auxiliar no agendamento de entrevistas e testes.</li></ul></li><li><strong>Integração de Novos Colaboradores:</strong><ul><li>Apoiar na preparação de documentos e kits de boas-vindas.</li><li>Auxiliar na organização de treinamentos de integração.</li></ul></li><li><strong>Treinamento e Desenvolvimento:</strong><ul><li>Apoiar na organização de treinamentos internos e externos.</li><li>Controlar listas de presença e avaliações de treinamentos.</li><li>Lançamento das horas de treinamento em planilha específica.</li><li><strong>Clima Organizacional e Comunicação Interna:</strong></li></ul></li><ul><li>Apoiar em campanhas internas e eventos da empresa.</li><li>Auxiliar na elaboração de comunicados e pesquisas internas.</li><li>Auxílio no Endomarketing.</li></ul></ul><strong><br /></strong><strong>Departamento Pessoal:</strong><ul><li><strong>Departamento Pessoal (Administração de Pessoal):</strong><ul><li>Apoiar no cadastro e controle de ponto eletrônico e conferência de horas.</li><li>Auxiliar na coleta e organização de documentos admissionais/demissionais.</li><li>Cadastro no ERP Protheus.</li><li>Apoiar nas rotinas relacionadas a férias, benefícios e folha de pagamento (lançamentos simples, conferências).</li><li>Rateio por CC dos benefícios.</li></ul></li><li><b>Atividades Administrativas:</b><ul><li>Organizar arquivos físicos e digitais.</li><li>Apoiar na atualização de planilhas e sistemas internos.</li><li>Atender colaboradores em dúvidas simples sobre rotinas de RH e DP.</li></ul></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando Administração ou Gestão de Recursos Humanos a partir do 4° semestre. </li><li>Ter disponibilidade para estagiar por 12 meses.</li><li>Conhecimento básico em pacote Office (Excel, Word e PowerPoint).</li><li>Conhecimento em CANVA.</li><li>Boa comunicação, organização e disposição para aprender.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmondiana/38/estagio-de-rh]]></applyUrl>
@@ -65966,7 +66085,7 @@ Vivência anterior em ambiente industrial.</li>
   <job>
     <partnerJobId><![CDATA[13bb5aae-003c-4600-8430-fd963e7573af]]></partnerJobId>
     <company><![CDATA[Mondiana]]></company>
-    <title><![CDATA[AUXILIAR DE SERVIÇOS GERAIS (LIMPEZA DE MAQUINÁRIO INDUSTRIAL)]]></title>
+    <title><![CDATA[AUXILIAR DE SERVIÇOS GERAIS]]></title>
     <posterEmail><![CDATA[sheila.ribeiro@mondiana.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Garantir a integridade e a disponibilidade dos ativos industriais através da higienização técnica e manutenção estética (pintura e preparação), assegurando que as máquinas e o ambiente produtivo operem em condições ótimas de limpeza, segurança e proteção contra corrosão<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Higienização e Limpeza Técnica:</b>
 <ul>
@@ -66002,7 +66121,7 @@ Vivência anterior em ambiente industrial.</li>
 	manipulação de solventes, tintas e trabalho próximo a máquinas
 	quentes/ligadas.</li>
 </ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental;</li><li>Disponibilidade para trabalhar em turnos;</li><li>Vivência com limpeza de maquinário industrial.</li></ul><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmondiana/33/auxiliar-de-servicos-gerais-limpeza-de-maquinario-industrial]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmondiana/33/auxiliar-de-servicos-gerais]]></applyUrl>
     <companyId><![CDATA[35514539]]></companyId>
     <city><![CDATA[Biguaçu]]></city>
     <state><![CDATA[SC]]></state>
@@ -71793,6 +71912,33 @@ apresentações;<br />
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[abb9eb91-7734-49c1-b51d-b5e8618d82c5]]></partnerJobId>
+    <company><![CDATA[Resenha Digital Clube]]></company>
+    <title><![CDATA[Analista de Recursos Humanos Sênior]]></title>
+    <posterEmail><![CDATA[sara.ramos@spark.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas que desejam se desafiar e que sejam incansáveis em busca do aprendizado. <br /><br /><br />Essa posição terá um papel importante na organização dos processos internos da empresa, garantindo uma boa experiência para os colaboradores e o bom funcionamento da operação do escritório.<br /><br /><br />Quer fazer parte do Resenha e desbravar todo o potencial do Marketing de Influência no esporte? <br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir processos de <strong>recrutamento e seleção</strong> de ponta a ponta, desde alinhamento de perfil com gestores até condução de entrevistas e apoio na tomada de decisão.</li><li>Apoiar e organizar o <strong>processo de onboarding e integração de novos colaboradores</strong>, garantindo uma boa experiência de entrada na empresa.</li><li>Atuar como ponto de apoio nas rotinas de <strong>gestão de pessoas</strong>, contribuindo com iniciativas de clima organizacional, cultura, comunicação interna e ações de engajamento.</li><li>Apoiar líderes e áreas internas em demandas relacionadas à <strong>gestão e desenvolvimento de colaboradores</strong>, incluindo acompanhamento de feedbacks e avaliações de desempenho.</li><li>Realizar interface com <strong>time de People Ops</strong>, acompanhando processos de admissão, demissão, controle de férias, benefícios, folha de pagamento, etc.</li><li>Apoiar na <strong>organização das rotinas administrativas da empresa</strong>, incluindo controle de contratos, fornecedores e compras administrativas.</li><li>Responsável pela <strong>organização e funcionamento do escritório</strong>, acompanhando necessidades de infraestrutura, insumos, manutenção e serviços gerais.</li><li>Apoiar na <strong>estruturação e melhoria de processos internos</strong>, garantindo organização de informações, documentos e rotinas operacionais.</li><li>Apoiar na organização de <strong>eventos internos, ações de cultura e iniciativas de integração da equipe</strong>.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Superior completo </b>em Administração, Psicologia, Recursos Humanos ou áreas correlatas
+</li>
+<li>
+Experiência prévia em <strong>RH generalista;</strong></li>
+<li>
+Vivência com rotinas de <strong>administrativas (interface)</strong>
+</li><li>Experiência em<strong> gestão de escritório e estruturação de processos internos</strong></li>
+<li>
+Organização e capacidade de gerir múltiplas demandas</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemserresenhadigital/174/analista-de-recursos-humanos-senior]]></applyUrl>
+    <companyId><![CDATA[82139307]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[2de41fc1-bb74-4892-a2a7-0cda44c9f35a]]></partnerJobId>
     <company><![CDATA[Femabra]]></company>
     <title><![CDATA[EXECUTIVO COMERCIAL EXTERNO]]></title>
@@ -75814,6 +75960,25 @@ clara de soluções e fechamento com segurança
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[fa095ed4-749d-4968-a883-c97032e6703d]]></partnerJobId>
+    <company><![CDATA[IGREJA BATISTA ATITUDE]]></company>
+    <title><![CDATA[Educador Social]]></title>
+    <posterEmail><![CDATA[annie.cardoso@ibatitude.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável pelo acolhimento e acompanhamento dos assistidos, promovendo orientação nas atividades diárias e suporte por meio de aconselhamentos individuais e em grupo, visando à reorganização pessoal e reinserção social<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Ter sempre como princípio a escuta em relação ao acolhido;<br />Orientar e acompanhar os acolhidos nas atividades diárias;<br />Orientar os acolhidos, por meio de grupos e/ou aconselhamentos, visando sua reorganização e reinserção social;<br />Garantir que a metodologia do tratamento seja realizada trabalhando os princípios básicos do tratamento;<br />Participar das reuniões de equipe semanais, a fim de alinhar ações de trabalho;<br />Realizar transporte para a rede de saúde;<br />Mediar o contato com a família para reconstrução e resgate de vínculos;<br />Produção de registros e dados das atividades realizadas.<br /><br /><b>Requisitos e qualificações</b><br /><br />Superior cursando em Administração, Ciências Sociais, Serviço Social, ou áreas correlatadas; <br />Experiência em atendimento ou acompanhamento em tratamento de dependência química.<br />Conhecimento em informática básica (Pacote Office).<br />Facilidade para trabalhar em equipe e boa comunicação interpessoal.<br />Perfil proativo e organizado.<br />Habilidade para mediação e resolução de conflitos interpessoais]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasiba/11/educador-social]]></applyUrl>
+    <companyId><![CDATA[13985838]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[431cad8d-d373-4dcc-bed2-551a6101c7a7]]></partnerJobId>
     <company><![CDATA[IGREJA BATISTA ATITUDE]]></company>
     <title><![CDATA[Atendente de Lanchonete]]></title>
@@ -77017,10 +77182,10 @@ Familiaridade com ferramentas como Canva, Google Workspace e plataformas de rede
   <job>
     <partnerJobId><![CDATA[f4215522-a1e7-4c3a-8887-5d2604fa1860]]></partnerJobId>
     <company><![CDATA[Grupo USBR]]></company>
-    <title><![CDATA[Assistente De Customer Sucess Bilíngue]]></title>
+    <title><![CDATA[Assistente De Customer Sucess]]></title>
     <posterEmail><![CDATA[gleicy@rib5g.com]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Acompanhar o status de pedidos desde a finalização da venda até a entrega e ativação;<br />Manter contato ativo com clientes, prestando informações e suporte durante o processo de pós-venda;<br />Identificar e solucionar possíveis pendências<br />Atualizar sistemas internos e registrar informações pertinentes ao andamento dos pedidos;<br />Contribuir para a melhoria contínua dos processos e para o aumento da satisfação dos clientes.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Acompanhar o status de pedidos desde a finalização da venda até a entrega e ativação;<br />Manter contato ativo com clientes, prestando informações e suporte durante o processo de pós-venda;<br />Identificar e solucionar possíveis pendências<br />Atualizar sistemas internos e registrar informações pertinentes ao andamento dos pedidos;<br />Contribuir para a melhoria contínua dos processos e para o aumento da satisfação dos clientes.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Excelentes habilidades de comunicação verbal e escrita,<br /><br /><br /><br /><br />Organização e Gestão de Tempo: Competências em gerenciar tarefas simultâneas e priorizar demandas, mantendo um alto nível de eficiência;<br />Acompanhar o status de pedidos desde a finalização da venda até a entrega e ativação;<br />Identificar e solucionar possíveis pendências.<br />Atualizar sistemas internos e registrar informações pertinentes ao andamento dos pedidos;<br />Contribuir para a melhoria contínua dos processos e para o aumento da satisfação dos clientes;<br />Experiência em vendas e suporte ao cliente , será considerado um diferencial.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaribeiro/7/assistente-de-customer-sucess-bilingue]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaribeiro/7/assistente-de-customer-sucess]]></applyUrl>
     <companyId><![CDATA[110370204]]></companyId>
     <city><![CDATA[Goiânia]]></city>
     <state><![CDATA[GO]]></state>
