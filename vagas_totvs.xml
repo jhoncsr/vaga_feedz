@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 10 Mar 2026 21:19:02 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 22:17:33 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3128]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3130]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -901,6 +901,44 @@ todas as etapas da jornada na TOTVS.<br /><br /><br /><br /><b>Responsabilidades
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Florianópolis]]></city>
     <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ad5dc7a0-acc7-4e6b-8808-abea7cb0262e]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Atendimento] Analista Sênior De Atendimento - Cloud Prime - Noturno]]></title>
+    <posterEmail><![CDATA[cah.prevato@ext.totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar como ponto focal técnico e estratégico na gestão dos serviços Cloud Prime, garantindo uma comunicação eficaz com os clientes, o cumprimento dos acordos contratuais e a entrega de serviços com alto nível de qualidade, governança e segurança. Promover a resolução eficiente de demandas prioritárias, a melhoria contínua da arquitetura e dos processos, a gestão de incidentes e mudanças, bem como a identificação de oportunidades de evolução dos serviços e novos negócios, assegurando a melhor experiência do cliente. <strong>A vaga possui escala noturna, com horário de trabalho das 15h00 às 00h00.</strong><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar como ponto focal técnico na comunicação entre clientes e times Cloud Prime, garantindo correta priorização das demandas conforme criticidade e SLAs;</li><li>Compreender o negócio e a arquitetura dos clientes, apoiando a evolução dos serviços, melhorias de infraestrutura e novas soluções; unificação entre clientes e times Cloud Prime, garantindo correta priorização das demandas conforme criticidade e SLAs;</li><li>Assegurar o entendimento e cumprimento dos processos de atendimento, governança, segurança e termos contratuais;</li><li>Compreender o negócio e a arquitetura dos clientes, apoiando a evolução dos serviços, melhorias de infraestrutura e novas soluções;</li><li>Participar de Comitês de Mudança, identificando riscos e impactos aos sistemas e ao negócio;</li><li>Conduzir análises de causa raiz (RCA), apoiar a resolução de incidentes e apresentar relatórios aos clientes;</li><li>Apoiar demandas técnicas de alta complexidade e fornecer direcionamento aos times internos;</li><li>Promover a melhoria contínua dos processos, compartilhando feedbacks dos clientes e propondo ações de otimização;</li><li>Manter relacionamento próximo com os clientes por meio de reuniões periódicas, acompanhamento de indicadores, satisfação e identificação de oportunidades de novos negócios.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Formação: Graduado em áreas de Tecnologia ou afins.</b></li><li><b>Conhecimento avançado no produto Protheus: Configuração de ambientes, análise de </b><b>logs de erros, APSDU, Configurador, Workflow, Webservices, Portais,</b></li><li><b>Balanceamento de Carga, Schedule, TDS, LOGProfiler, DBAccess e TSS.</b></li><li><b>Desejável conhecimento em outros produtos TOTVS;</b></li><li><b>Implantação Funcional e desenvolvimento do produto TOTVS;</b></li><li><b>Infraestrutura e Datacenter;</b></li><li><b>Infraestrutura de Nuvens públicas;</b></li><li><b>Inglês e Espanhol tecnico.</b></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9011/atendimento-analista-senior-de-atendimento-cloud-prime-noturno]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4e695bfa-f278-49e1-9d89-c4fa9801ab2b]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Infra] Analista Sênior de Infraestrutura - PROTHEUS]]></title>
+    <posterEmail><![CDATA[cah.prevato@ext.totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Realizar o atendimento de suporte à infraestrutura dos ambientes dos clientes, contribuindo com a satisfação dos clientes atendidos pela operação Cloud.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar o atendimento e/ou diagnóstico dos ambientes dos clientes por meio dos canais TOTVS, resolvendo assuntos de alta complexidade referentes à infraestrutura;</li><li>Redigir relatórios técnicos e procedimentos operacionais direcionados ao acompanhamento dos ambientes, avaliando o ambiente e comparando com os padrões estabelecidos por Cloud de melhores práticas;</li><li>Fornecer status das demandas em evolução (quando solicitado pelo cliente e/ou equipes internas), por meio de canais de atendimento (telefônico, por e-mail, sistema);</li><li>Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e/outros) quanto para o resultado/metas da área, por meio da realização das demandas de acordo com os procedimentos padrões definidos em Cloud;</li><li>Alertar a coordenação e liderança e atuar em potenciais riscos ou crises em clientes, registrando ticket conforme procedimento interno descrito pela área;</li><li>Manter atualizados FAQs/banco de conhecimento com as soluções definidas e repassadas aos clientes, descrevendo soluções KCS de nível 1, conforme demandas recorrentes atendidas no dia a dia;</li><li>Conduzir de forma efetiva os processos de melhorias, identificando problemas e questões relevantes, detectando novas soluções e praticando ações de melhoria;</li><li>Apoiar no desenvolvimento dos analistas mais juniores, por meio da multiplicação de conhecimento;</li><li>Instalar e suportar tecnologias TOTVS e/ou de mercado, utilizando soluções de alta disponibilidade, seguindo os procedimentos preestabelecidos por Cloud e descritos no manual de melhores práticas e padrões da área;</li><li>Definir e executar mudanças nos ambientes, tendo ampla visão dos riscos e impactos, avaliando infraestrutura, padrões de Cloud e necessidades, conforme melhores práticas;</li><li>Sugerir e implementar a automação de processos repetitivos com objetivo de uma melhora sustentável, por meio de acompanhamento de indicadores de eficiência e demanda da área;</li><li>Garantir a plena funcionalidade dos ambientes Cloud, por meio da realização de parametrizações, configurações e migrações de ambientes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação: Graduação nas áreas de Tecnologia da Informação ou afins.</li><li>Conhecimentos específicos:</li><li>Administração de ambientes relacionados ao produto TOTVS – nível Avançado;</li><li>Infraestrutura e Datacenter – nível Intermediário;</li><li>Infraestrutura de Nuvens públicas –nível Intermediário;</li><li>Ferramentas de automação –nível Intermediário.</li><li>Certificações:</li><li>ITIL Foundation -Information Technology Infrastructure Library;</li><li>Sistemas operacionais ou Banco de dados.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9010/infra-analista-senior-de-infraestrutura-protheus]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -3276,25 +3314,6 @@ Conhecimento em Excel (nível básico a intermediário).</li>]]></description>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Missão do cargo<br /><br />Atuar na área de Revenue Operations com foco em Customer Success, transformando dados em análises estratégicas que apoiem a tomada de decisão da área. O profissional será responsável por estruturar indicadores, consolidar e organizar informações da base de clientes, construindo painéis analíticos que apoiem a liderança e o time de CS na redução de churn, aumento de retenção e expansão de receita. Espera-se que o analista conecte capacidade técnica de dados com visão de negócio, gerando insights que contribuam para a eficiência operacional da área e para o crescimento da receita.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<br /><ul><li>Construir e manter dashboards e relatórios analíticos voltados à área de Customer Success.<br /><br /></li><li>Consolidar, extrair e higienizar dados provenientes de diferentes fontes (CRM, ferramentas de suporte, plataformas de produto etc.).<br /><br /></li><li>Monitorar indicadores estratégicos como: churn de clientes, taxa de retenção, expansão de receita / upsell, adoção de produto, health score de clientes, produtividade do time de CS<br /><br /></li><li>Realizar análises exploratórias da base de clientes, identificando padrões de comportamento.<br /><br /></li><li>Identificar riscos de churn e oportunidades de expansão de receita a partir dos dados.<br /><br /></li><li>Apoiar a área na organização e consolidação das informações estratégicas, facilitando a tomada de decisão.<br /><br /></li><li>Automatizar relatórios e fluxos de atualização de dados sempre que possível.<br /><br /></li><li>Trabalhar em conjunto com as áreas de Customer Success, Comercial, Produto e Operações, conectando dados e necessidades de negócio.<br /><br /></li><li>Apoiar iniciativas de Revenue Operations, integrando dados de vendas, receita e jornada do cliente.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li><ul><li>Experiência em Business Intelligence, Data Analytics ou áreas relacionadas.<br /><br /></li><li>Experiência na criação de dashboards e relatórios gerenciais.<br /><br /></li><li>Conhecimento em SQL ou manipulação de bases de dados.<br /><br /></li><li>Experiência com ferramentas de visualização de dados (Power BI, Looker, Tableau ou similares).<br /><br /></li><li>Capacidade de extrair, estruturar e higienizar dados, transformando-os em análises relevantes para o negócio.<br /><br /></li><li>Capacidade analítica para interpretar dados e gerar insights acionáveis.</li></ul></li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8936/cs-analista-de-customer-success-pleno-analise-de-dados-power-bi]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[53102770-8d61-43c6-b6e4-204bfd5df25a]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Adm] Analista Administrativo de Dados e Indicadores de Desempenho Pleno]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>Missão do cargo: </b>Responsável pela elaboração de Indicadores atuando como o elo entre os dados e fatos da equipe e as decisões da gestão. Além de desenvolver planilhas, deverá estruturar a lógica por trás de cada métrica para garantir que ela reflita a realidade e as necessidades da operação.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Identificar pontos críticos e gargalos operacionais nas áreas de negócio para a estruturação de indicadores de desempenho (KPIs);</li><li>Compreender as necessidades da estrutura e propor soluções metodológicas adequadas;</li><li>Traduzir objetivos estratégicos em indicadores quantificáveis e qualificáveis, garantindo o alinhamento com os objetivos, padrões e metas das áreas;</li><li>Auxiliar, sob orientação da Gestão, na criação de métodos padronizados para coleta, tratamento e desenvolvimento de dados;</li><li>Estabelecer métricas que efetivamente avaliem o desempenho, evitando a geração de burocracia desnecessária;</li><li>Atuar em conjunto com o responsável pelos sistemas da área na implementação da Gestão de Dados via dashboards, painéis de controle e relatórios gerenciais, utilizando ferramentas que facilitem a interpretação da Gestão;</li><li>Identificar tendências de queda ou aumento de performance junto à Gestão, antecipando riscos e oportunidades antes que se tornem críticos.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo em Administração de Empresas, Tecnologia em Processos Gerenciais, Gestão de Recursos Humanos ou Psicologia;</li><li>Domínio do Google Workspace e interesse genuíno em ferramentas de IA;</li><li>Conhecimento em dados (coleta, tratamento e desenvolvimento de dados);</li><li>Experiência na criação de indicadores de performance (KPIs);</li><li>Experiência na criação, alimentação e manutenção de dashboards (Looker Studio Pro ou Power BI).</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8918/adm-analista-administrativo-de-dados-e-indicadores-de-desempenho-pleno]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -27826,6 +27845,25 @@ deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[21db1367-58f3-46bb-95f2-8a7a1b39e49a]]></partnerJobId>
+    <company><![CDATA[Netfive]]></company>
+    <title><![CDATA[Analista de Segurança da Informação - Blue Team Jr]]></title>
+    <posterEmail><![CDATA[sandrine.couto@netfive.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar no apoio às atividades de implementação, operação e sustentação de plataformas de segurança utilizadas em ambientes corporativos, incluindo soluções de proteção de endpoints, gestão de vulnerabilidades e monitoramento de eventos.<br /><br />O profissional trabalhará em conjunto com analistas mais experientes, auxiliando na execução de tarefas técnicas, coleta de informações, organização de dados e documentação de atividades relacionadas à implantação e operação das plataformas.<br /><br />A posição oferece oportunidade de desenvolvimento prático em tecnologias de segurança utilizadas em ambientes corporativos modernos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Auxiliar nas atividades de implantação e configuração inicial de plataformas de segurança em ambientes corporativos.<br /><br />• Apoiar a instalação e validação de sensores ou agentes de segurança em endpoints e servidores.<br /><br />• Auxiliar na operação de plataformas de gestão de vulnerabilidades, incluindo análise inicial de resultados de varreduras e organização de informações para priorização de correções.<br /><br />• Apoiar a coleta, ingestão e organização de logs de segurança em ambientes de monitoramento ou SIEM.<br /><br />• Auxiliar na investigação inicial de problemas relacionados a conectividade, sensores, integrações e ingestão de dados.<br /><br />• Apoiar revisões operacionais e verificações básicas de funcionamento das plataformas.<br /><br />• Documentar procedimentos técnicos, atividades realizadas e evidências de implementações.<br /><br />• Apoiar o time em atividades de suporte técnico, registrando informações e acompanhando a resolução de chamados.<br /><br /><b>Requisitos e qualificações</b><br /><br />Obrigatórios<br />• Interesse em atuar na área de segurança da informação.<br /><br />• Conhecimentos básicos em:       <br />            · Sistemas operacionais Windows ou Linux   <br />            · Redes (conceitos básicos de comunicação, DNS, portas e protocolos)<br /><br />• Noções de infraestrutura de TI (servidores, endpoints ou ambientes corporativos).<br /><br />• Capacidade de organização, documentação e aprendizado técnico contínuo.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasnetfive/58/analista-de-seguranca-da-informacao-blue-team-jr]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[Porto Alegre]]></city>
+    <state><![CDATA[RS]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[6c689e77-8f5b-4e9d-aff5-eca9f339da7c]]></partnerJobId>
     <company><![CDATA[Netfive]]></company>
     <title><![CDATA[Analista de Cybersegurança (SOC) - Pleno]]></title>
@@ -34007,6 +34045,25 @@ Monitorar o estoque, realizando inventários e controle de movimentação de pe�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[a2ae4924-1d81-4da3-ae58-767d5624a0f5]]></partnerJobId>
+    <company><![CDATA[Grupo Canopus]]></company>
+    <title><![CDATA[VENDEDOR DE PEÇAS]]></title>
+    <posterEmail><![CDATA[tainara.abreu@grupocanopus.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado por oferecer soluções de qualidade e deseja fazer parte de uma equipe dinâmica e inovadora, convidamos você a se juntar a nós em uma jornada emocionante! Buscamos profissionais motivados, que valorizem o atendimento ao cliente e apreciem um ambiente colaborativo. Aqui, você terá a oportunidade de desenvolver suas habilidades e contribuir para o crescimento de uma empresa reconhecida no mercado. Trabalhar conosco significa estar em um lugar onde suas ideias são valorizadas e seu esforço é recompensado. Se você está em busca de um desafio que possa impulsionar sua carreira e proporcionar um ambiente estimulante, esta pode ser a oportunidade ideal para você. Venha fazer parte de uma equipe que está moldando o futuro e leve sua carreira a um novo patamar!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento e vendas de peças, oferecendo orientação e informações sobre produtos disponíveis.<br />- Manter atualizado o conhecimento sobre as características técnicas e os diferenciais das peças oferecidas.<br />- Elaborar cotações e propostas comerciais, garantindo que os pedidos sejam atendidos de forma eficiente.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Experiência prévia na área de vendas, preferencialmente no segmento de peças automotivas.<br />- Habilidade em negociar e fechar vendas.<br />- Conhecimento técnico sobre peças e acessórios.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/887/vendedor-de-pecas]]></applyUrl>
+    <companyId><![CDATA[2073549]]></companyId>
+    <city><![CDATA[Cuiabá]]></city>
+    <state><![CDATA[MT]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[8ab13137-5812-4d95-9179-506f83da30f9]]></partnerJobId>
     <company><![CDATA[Grupo Canopus]]></company>
     <title><![CDATA[COORDENADOR FISCAL]]></title>
@@ -34132,25 +34189,6 @@ Monitorar alterações na <strong>legislação fiscal e tributária</strong>, or
     <posterEmail><![CDATA[yohana.jesus@grupocanopus.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto para fazer a diferença em um ambiente dinâmico e acolhedor? Estamos em busca de pessoas talentosas e apaixonadas que desejam contribuir para uma experiência excepcional em nosso time. Aqui, você encontrará um espaço onde cada ideia é valorizada e cada dia traz novas oportunidades de aprendizado e crescimento. Junte-se a nós e faça parte de uma equipe comprometida em oferecer a melhor experiência para os nossos clientes, onde o seu sorriso e a sua energia serão fundamentais para criar um ambiente positivo e acolhedor. Se você procura um local para desenvolver suas habilidades, interagir com pessoas e se sentir parte de algo maior, essa é a chance que você esperava. Venha somar esforços conosco e trilhar um caminho de sucesso em sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar o atendimento ao cliente, prestando informações sobre produtos e serviços.<br /> - Operar o sistema de caixa, efetuando transações de venda, trocas e devoluções.<br /> - Receber pagamentos em diferentes formas, como dinheiro, cartões e vale-presente.<br /> - Emitir notas fiscais e comprovantes de pagamento.<br /> - Realizar a conferência e controle do caixa, garantindo a precisão dos valores.<br /> - Manter a organização e limpeza da área de trabalho.<br /> - Auxiliar na reposição de produtos nas prateleiras, sempre que necessário.<br /> - Colaborar com a equipe para garantir um bom fluxo de atendimento.<br /> - Identificar e reportar possíveis inconsistências e fraudes durante o atendimento.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br /> - Experiência anterior em atividades de caixa.<br /> - Habilidade com operações financeiras e manuseio de dinheiro.<br /> - Conhecimento em sistemas de PDV (ponto de venda).<br /> - Boa comunicação e atendimento ao cliente.<br /> - Organização e atenção aos detalhes.<br /> - Disponibilidade para trabalhar em horários flexíveis.<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/877/caixa]]></applyUrl>
-    <companyId><![CDATA[2073549]]></companyId>
-    <city><![CDATA[Cuiabá]]></city>
-    <state><![CDATA[MT]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[187e0e0e-ff05-4b38-b80d-baa34e4f5150]]></partnerJobId>
-    <company><![CDATA[Grupo Canopus]]></company>
-    <title><![CDATA[AUXILIAR ADMINISTRATIVO - APRENDIZ]]></title>
-    <posterEmail><![CDATA[alessandra.barros@grupocanopus.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar nas atividades administrativas;Acompanhar as demandas dos departamentos administrativos, vendas e pós-vendas;Preencher os manuais dos veículos;Realizar atendimento telefônico;Realizar atendimento na recepção.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar nas atividades administrativas;Acompanhar as demandas dos departamentos administrativos, vendas e pós-vendas;Preencher os manuais dos veículos;Realizar atendimento telefônico;Realizar atendimento na recepção.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Estar cursando ensino médio ou concluido;<br />- Disponibilidade para o perído Vespertino;- Será um diferencial ter conhecimento no pacote office.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/874/auxiliar-administrativo-aprendiz]]></applyUrl>
     <companyId><![CDATA[2073549]]></companyId>
     <city><![CDATA[Cuiabá]]></city>
     <state><![CDATA[MT]]></state>
@@ -39201,10 +39239,10 @@ pontos, projetos elétricos, planos de teste e relatórios técnicos atualizados
   <job>
     <partnerJobId><![CDATA[3bb59a04-ee8d-4368-b691-a938122583b5]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Motorista de Cavalo Mecânico - Pátio]]></title>
+    <title><![CDATA[Motorista de Cavalo Mecânico]]></title>
     <posterEmail><![CDATA[marilia.masson@deltasucroenergia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />	•	Realizar manobras de carretas no pátio (engate e desengate).<br />	•	Posicionar veículos nas docas para carga e descarga.<br />	•	Organizar carretas no pátio conforme programação operacional.<br />	•	Conferir condições básicas do veículo antes das manobras.<br />	•	Comunicar avarias ou irregularidades à manutenção.<br />	•	Cumprir normas de segurança e procedimentos internos.<br />	•	Apoiar na organização e controle de entrada e saída de veículos.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />	•	CNH categoria E válida.<br />	•	Experiência comprovada com cavalo mecânico.<br />	•	Vivência em manobras de pátio (diferencial).<br />	•	Conhecimento básico de normas de segurança.<br />	•	Disponibilidade para turnos.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1357/motorista-de-cavalo-mecanico-patio]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1357/motorista-de-cavalo-mecanico]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Conceição das Alagoas]]></city>
     <state><![CDATA[MG]]></state>
@@ -48814,6 +48852,25 @@ desempenho da operação.<br /><br /><br /><br /><b>Requisitos e qualificações
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[28d3eff4-5a12-4217-af19-61bdcf472f7b]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[OPERADOR DE MOVIMENTAÇÃO DE CARGA]]></title>
+    <posterEmail><![CDATA[alessandra.cea@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar na funções de movimentações de cargas através de equipamentos, içamento e guindastes. O profissional realizará processo de movimentação da carga será feito. Sob as determinações inseridas no plano de rigging, verificar as condições da carga, o melhor modo para que ela seja amarrada e presta o auxílio ao operador de guindaste dando as sinalizações necessárias.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar na funções de movimentações de cargas através de equipamentos, içamento e guindastes. O profissional realizará processo de movimentação da carga será feito. Sob as determinações inseridas no plano de rigging, verificar as condições da carga, o melhor modo para que ela seja amarrada e presta o auxílio ao operador de guindaste dando as sinalizações necessárias.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/261/operador-de-movimentacao-de-carga]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[2fee8cab-c6e5-49b3-84ce-588851ec86e5]]></partnerJobId>
     <company><![CDATA[TRIUNFO LOGISTICA]]></company>
     <title><![CDATA[TECNICO DE SEGURANÇA DO TRABALHO - SMS]]></title>
@@ -48834,25 +48891,6 @@ desempenho da operação.<br /><br /><br /><br /><b>Requisitos e qualificações
           <amount><![CDATA[3331.03]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[dc7470cd-96ad-43aa-92af-a536c86be584]]></partnerJobId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[OPERADOR DE EMPILHADEIRA]]></title>
-    <posterEmail><![CDATA[alessandra.cea@triunfologistica.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Operar equipamento de movimentação e/ou elevação de cargas do tipo empilhadeira, realizando operações de carga e descarga ou no pátio atendendo solicitações de trabalhos específicos ou programados. Organizam carga, interpretando simbologia das embalagens, armazenando de acordo com o prazo de validade do produto, identificando características da carga para transporte e armazenamento e separando carga não-conforme. Realizam manutenções previstas em equipamentos para movimentação de cargas. Trabalham seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Operar equipamento de movimentação e/ou elevação de cargas do tipo empilhadeira, realizando operações de carga e descarga ou no pátio atendendo solicitações de trabalhos específicos ou programados. Organizam carga, interpretando simbologia das embalagens, armazenando de acordo com o prazo de validade do produto, identificando características da carga para transporte e armazenamento e separando carga não-conforme. Realizam manutenções previstas em equipamentos para movimentação de cargas. Trabalham seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo; Experiência anterior na função de Op. de Empilhadeira. <br />Treinamento: NR-11 Curso Básico Transporte, Movimentação, Armazenagem e Manuseio de Materiais e Sinalização. <br />NR12 - Segurança no trabalho de máquinas e equipamentos; MOPP - Treinamento de Movimentação de Produtos Perigosos.<br />CNH D<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/250/operador-de-empilhadeira]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -49195,33 +49233,6 @@ Habilidade para análise de dados, elaboração de relatórios e apresentação 
     <posterEmail><![CDATA[mc@imersaon.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade que permita contribuir de maneira significativa para a manutenção e cuidado de um ambiente? Temos uma excelente oportunidade que pode ser perfeita para você! Estamos em busca de pessoas dedicadas e proativas, que queiram fazer parte de uma equipe comprometida com a excelência. Se você valoriza um local de trabalho dinâmico e colaborativo, onde é possível aprender e crescer profissionalmente, essa pode ser a sua chance. Venha integrar um time que preza pela qualidade e pelo bem-estar dos nossos espaços. Se a ideia de participar de um projeto que impacta diretamente na vida das pessoas lhe entusiasma, não perca tempo. Sua iniciativa e seu comprometimento podem ser o que estamos procurando! Junte-se a nós e faça a diferença.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realização de análises, consultas e alterações em sistemas SAP S/4HANA (PETROBRAS);</li><li>Realização de criação, ajustes e desdobramento de RT’s em sistemas SAP S/4HANA (PETROBRAS);</li><li>Acompanhamento e tratamento de demandas recebidas por e-mail, de competência da área;</li><li>Extração e análise de relatórios no sistema SIGIOP para verificação de inconsistências e pendências;</li><li>Monitoramento de atendimentos logísticos por meio do sistema SAP S/4HANA (PETROBRAS)</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo.</li><li>Atuação em Atividades administrativas.</li><li>Conhecimento em SAP e/ou Excel</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/135/assistente-administrativo-gestao-fiscal]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[2161.74]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2161.74]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[31828f36-1ea7-4fcf-9e44-2061cf992c6d]]></partnerJobId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[Assistente Administrativo - Gestão Fiscal]]></title>
-    <posterEmail><![CDATA[mc@imersaon.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade que permita contribuir de maneira significativa para a manutenção e cuidado de um ambiente? Temos uma excelente oportunidade que pode ser perfeita para você! Estamos em busca de pessoas dedicadas e proativas, que queiram fazer parte de uma equipe comprometida com a excelência. Se você valoriza um local de trabalho dinâmico e colaborativo, onde é possível aprender e crescer profissionalmente, essa pode ser a sua chance. Venha integrar um time que preza pela qualidade e pelo bem-estar dos nossos espaços. Se a ideia de participar de um projeto que impacta diretamente na vida das pessoas lhe entusiasma, não perca tempo. Sua iniciativa e seu comprometimento podem ser o que estamos procurando! Junte-se a nós e faça a diferença.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realização de análises, consultas e alterações em sistemas SAP S/4HANA (PETROBRAS);</li><li>Realização de criação, ajustes e desdobramento de RT’s em sistemas SAP S/4HANA (PETROBRAS);</li><li>Acompanhamento e tratamento de demandas recebidas por e-mail, de competência da área;</li><li>Extração e análise de relatórios no sistema SIGIOP para verificação de inconsistências e pendências;</li><li>Monitoramento de atendimentos logísticos por meio do sistema SAP S/4HANA (PETROBRAS)</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo.</li><li>Atuação em Atividades administrativas.</li><li>Conhecimento em SAP e/ou Excel</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/137/assistente-administrativo-gestao-fiscal]]></applyUrl>
     <companyId><![CDATA[3089272]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[RJ]]></state>
@@ -55928,6 +55939,25 @@ Conhecimento básico em informática (pacote Office)</li><li>Disponibilidade par
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4afd185a-f18e-47a7-98d1-b00869b23709]]></partnerJobId>
+    <company><![CDATA[Grupo Vow]]></company>
+    <title><![CDATA[Advogado Tributarista]]></title>
+    <posterEmail><![CDATA[jorge.salati@grupovow.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Advogado(a) tributarista, para atuar no braço Jurídico do Grupo Vow, com sólida experiência em contencioso tributário e forte capacidade de relacionamento com clientes corporativos, voltada para excelência técnica e visão estratégica. O(a) profissional será responsável por representar clientes em disputas tributárias, elaborar peças processuais, participar de audiências, oferecer consultoria estratégica e garantir o alinhamento técnico com a legislação vigente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Representar clientes em processos judiciais e administrativos de natureza tributária, nas esferas federal, estadual e municipal.<br />● Atuação direta em processos judiciais tributários, elaborando minutas de petições iniciais, recursos e manifestações processuais.com alto rigor técnico.<br />● Atuar na gestão de carteira de processos tributários, com controle de prazos e andamento processual.<br />● Analisar e propor estratégias jurídicas para definição da linha de defesa das teses tributárias.<br />● Prestar atendimento técnico a clientes, incluindo reuniões periódicas para acompanhamento processual e alinhamento estratégico.<br />● Realizar análise de autos de infração, notificações e intimações fiscais, propondo alternativas de impugnação ou defesa.<br />● Apoiar em due diligences e revisões fiscais quando necessário.<br />● Monitorar e interpretar tendências legislativas e decisões relevantes, garantindo alinhamento técnico e proatividade na condução dos casos.<br />● Acompanhar atualizações legislativas e jurisprudenciais e disseminar conhecimento para o time e clientes.<br />● Colaborar com áreas correlatas, como consultoria tributária, societária e planejamento fiscal, sempre que necessário.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />● Formação completa em Direito, com registro ativo na OAB.<br />● Pós-graduação concluída em Direito Tributário.<br />● Experiência comprovada em contencioso tributário, em escritórios de advocacia de ou consultorias.<br />● Vivência sólida com atendimento direto a clientes corporativos, com postura consultiva e estratégica.<br />● Conhecimento aprofundado sobre teses tributárias envolvendo IRPJ e CSLL; PIS e COFINS; Contribuições Previdenciárias (inclusive incidência sobre verbas); ICMS.<br />● Excelente redação jurídica e capacidade argumentativa.<br />● Conhecimento avançado em controle processual e ferramentas jurídicas (Ex: Legal One, CPJ, ProJuris, etc.).<br />● Disponibilidade para viagens eventuais.<br />● Capacidade de gestão de múltiplas demandas simultâneas com foco em prazos e qualidade técnica.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupovow/5/advogado-tributarista]]></applyUrl>
+    <companyId><![CDATA[93390432]]></companyId>
+    <city><![CDATA[Porto Alegre]]></city>
+    <state><![CDATA[RS]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[a00b60bc-887b-41cb-ad0a-b752984c3336]]></partnerJobId>
