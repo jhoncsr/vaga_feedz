@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 12 Mar 2026 19:21:29 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Mar 2026 20:16:46 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3181]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3176]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[79bbfbb9-e95d-48e4-aaef-8331fcc2f698]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -968,6 +968,44 @@ todas as etapas da jornada na TOTVS.<br /><br /><br /><br /><b>Responsabilidades
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[0d9926bd-3904-4d94-9f61-c57c7de0603c]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Arquitetura de Software - .NET]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Ser referência no desenvolvimento e sustentação de funcionalidades de software, de modo que não apenas agregue valor ao produto como também oriente e capacite o time de desenvolvimento, garantindo a satisfação do cliente e a evolução técnica do time de desenvolvimento do produto de atuação.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver soluções técnicas de alta complexidade, transformando requisitos em software robusto, seguro e escalável, alinhado às necessidades do negócio;</li><li>Atuar na análise e evolução da arquitetura de software, assegurando organização consistência, performance e eficiência de seus componentes;</li><li>Garantir a aplicação de boas praticas de engenharia de software, incluindo testes automatizados, versionamento, revisões de código, documentação e integração contínua;</li><li>Detalhar requisitos técnicos complexos em colaboração com clientes e áreas envolvidas, traduzindo demandas de negócio em soluções viáveis;</li><li>Propor inovações aplicáveis ao roadmap do produto, realizando provas de conceito e estudos de caso que aumentem competitividade, eficiência e qualidade da solução;</li><li>Participar de discussões táticas e operacionais, contribuindo na definição de metas anuais estudos de viabilidade técnica e escolhas estratégicas de tecnologia;</li><li>Orientar, capacitar e apoiar o time de desenvolvimento na definição de soluções de negócio arquitetura e design, promovendo disseminação de conhecimento e boas práticas;</li><li>Criar frameworks, componentes reutilizáveis e padrões técnicos quando necessário para acelerar qualificar desenvolvimento;</li><li>Definir, revisar e aprimorar processos de engenharia que suportem os objetivos de curto e médio prazo da área de atuação;</li><li>Assegurar o cumprimento das metas do time, influenciando práticas, priorização de tarefas e promovendo evolução contínua da qualidade técnica;</li><li>Contribuir em fóruns e discussões sobre inovação e tendências de mercado, disseminando conhecimento e fortalecendo a cultura de aprendizado constante;</li><li>Atuar diretamente na resolução de incidentes, investigando causas raiz e implementando melhorias que aumentem a confiabilidade, escalabilidade e eficiência da plataforma.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com .NET;</li><li>APIs REST;</li><li>Mensageria (RabbitMQ, Pub/Sub ou equivalente);</li><li>Oracle e NoSQL (PostgreSQL, Elastic, MongoDB ou equivalente);</li><li>Testes Automatizados;</li><li>DevOps (CI/CD, Docker, Git/GitFlow, Gitlab, Jenkins ou similar);</li><li>Cache (Redis);</li><li>Processamento distribuído (Hadoop, Spark);</li><li>Pipelines de dados/streaming (Apache Beam, Dataflow, Airflow);</li><li>Provedores de Cloud (GCP, AWS, Azure, equivalentes);</li><li>Design Patterns;</li><li>Segurança no desenvolvimento (DevSecOps, outros);</li><li>Angular (incluindo Angular 18+), Typescript (tipagem estática e POO), Javascript avançado, HTML e CSS;</li><li>Node.js básico (para ferramentas de build e execução de apps);</li><li>Experiência em otimização de performance em grandes aplicações front-end;</li><li>Métodos ágeis.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8473/tech-arquitetura-de-software-net]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[96897699-f3de-4d80-9330-584a4aae6eaf]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Especialista de Banco de Dados - PostgreSQL]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuação em atividades de N2 e N3 de sustentação de ambientes de banco dedados PostgreSQL, Oracle e MySQL.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Sustentar e aprimorar a segurança, integridade, disponibilidade e performance dos bancos de dados;</li><li>Administrar políticas de backup e executar testes de recuperação de desastres;</li><li>Evoluir e acompanhar o monitoramento de banco de dados, para prevenção de falhas e otimização de desempenho;</li><li>Prover sustentação técnica, executar procedimentos de gestão de mudanças e resolver problemas, focando na causa raiz dos incidentes;</li><li>Conduzir análises detalhadas após incidentes para implementar melhorias contínuas;</li><li>Pesquisar e implementar novas tecnologias e rotinas para automação e otimização dos ambientes de banco de dados;</li><li>Conduzir migrações de ambientes complexos, garantindo sua plena funcionalidade e menor downtime;</li><li>Mentorar e transferir conhecimentos para os membros do time;</li><li>Desenvolver procedimentos operacionais baseados em pesquisas de melhores práticas e definições internas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência e conhecimento avançado em administração de banco de dados PostgreSQL;</li><li>Experiência e conhecimento intermediário em administração de banco de dados Oracle;</li><li>Experiência e conhecimento intermediário em administração de banco de dados MySQL;</li><li>Experiência e conhecimento avançado em administração de ambientes de banco de dados com sistema Operacional Linux;</li><li>Experiência e conhecimento básico em Kubernetes. </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9027/tech-especialista-de-banco-de-dados-postgresql]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[ad5dc7a0-acc7-4e6b-8808-abea7cb0262e]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Atendimento] Analista Sênior De Atendimento - Cloud Prime - Noturno]]></title>
@@ -1498,25 +1536,6 @@ Cursos ou certificações <strong>SANS – Incident Response and Threat Hunting<
     <description><![CDATA[<b>Descrição</b><br /><br />Garantir o cumprimento das metas estabelecidas pela TOTVS por intermédio de uma eficiente prospecção de mercado e domínio na gestão de sua carteira de clientes, buscando seu maior nível de satisfação.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br /><ul><li>Gerir sua carteira de clientes e construir um relacionamento visando rentabilizar, blindar e elevar o nível de satisfação da base TOTVS em relação às responsabilidades do AR nos indicadores de NPS (Farmer); Prospectar e analisar o mapeamento de mercado oriundo de Operações e Torres de Segmentos, visando ampliar o Market Share TOTVS (Hunter);</li><li>Elaborar e executar o plano tático alinhado ao planejamento estratégico da DRG e dos resultados de vendas no segmento/região de atuação;</li><li>Elaborar propostas no CRM, negociando e fechando os contratos com o cliente/prospect; Gerir o funil de vendas, identificando e qualificando oportunidades de negócio, a fim de garantir o atingimento das metas estabelecidas pela TOTVS;</li><li>Acompanhar e manter todos os dados relativos à trajetória dos clientes (empresas/oportunidades) atualizados no CRM, tais como: registro de visitas comerciais, follow up de atividades e fatos relevantes;</li><li>Antecipar e diagnosticar demandas de clientes e prospects, conhecendo as necessidades e tendências do mercado/segmento;</li><li>Facilitar a resolução de demandas dos clientes e prospects, articulando com profissionais ou áreas internas responsáveis;</li><li>Atender os leads gerados pela área de Negócios e Prospecção no ciclo completo de vendas; Registar no CRM e comunicar a área de Estratégia Comercial/Operações e Segmentos, informações relevantes sobre mercado/carteira;</li><li>Acompanhar o ciclo de entrega dos produtos e serviços comercializados pela TOTVS, apoiando nas soluções dos eventuais problemas;</li><li>Realizar o pós-venda junto aos clientes TOTVS, garantindo a satisfação e retenção do cliente, além de gerar novas oportunidades;</li><li>Report de pipeline e forecast no CRM, utilizando a metodologia do TOTVS Vende e garantindo visibilidade do potencial de negócios; Informar e garantir a participação dos seus clientes/prospects em eventos/treinamentos;</li><li>Orientar Executivos mais juniores em visitas a clientes e/ou prospects, dominando e repassando conhecimentos sobre abordagens comerciais e formas de atuação de acordo com o perfil/segmento do cliente/prospect;</li><li>Estar atualizado com as tendências do segmento de atuação, buscando novos modelos de negócios pautados em tecnologia;</li><li>Desenvolver abordagens comerciais por meio de soluções cross voltadas aos segmentos de atuação que propiciem a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo; </li><li><b><i>Conhecimento e vivência no segmento (Construção
 e Projetos, Serviços, Financial Services e Hospitality)</i></b>; </li><li>Vivência com vendas complexas e consultivas B2B de software de tecnologia e ERP;</li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li>Habilidade de vendas e negociação; </li><li>Organização e proatividade;</li><li>Disponibilidade para atuar de forma híbrida. </li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8144/vendas-gerente-de-contas-senior-hunter-goiania]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[Goiânia]]></city>
-    <state><![CDATA[GO]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b2636e9e-3426-401a-81b4-11150903ba03]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Engenharia de Software Senior - Delphi]]></title>
-    <posterEmail><![CDATA[ana.mferreira@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Missão do cargo- Desenvolver soluções técnicas de média e alta complexidade, com baixo nível de supervisão e pouco apoio, através do desenvolvimento de requisitos de softwares utilizando-se das tecnologias envolvidas no projeto.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<br /><ul><li>Conhecer a fundo a arquitetura do software e ser capaz de atuar nela através da análise de seus componentes, organização e funcionalidades;</li><li>Criar testes de alta complexidade, sejam estes manuais ou automatizados, que cubram o comportamento desejado dos componentes técnicos desenvolvidos utilizando os requisitos e ferramentas de testes;</li><li>Documentar as etapas de desenvolvimento realizando o registro do desenvolvimento nas ferramentas de versionamento e documentação;</li><li>Orientar e trabalhar com o time de desenvolvimento para encontrar soluções de negócio, arquitetura e desenho através da comunicação e trocas de conhecimento;</li><li>Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados;</li><li>Orientar desenvolvedores de menor senioridade apoiando suas dúvidas, disseminando seu conhecimento, desenhando e arquitetando soluções ou indicando documentação de apoio;</li><li>Detalhar requisitos de média e alta complexidade através do contato com clientes e áreas envolvidas no projeto/atendimento.</li><li>Utiliza frameworks já definidos para o desenvolvimento de soluções.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><ul><li>Experiência comprovada em desenvolvimento de aplicações através do Delphi;</li><li>Desenvolvimento de objetos para banco de dados ORACLE(PL/SQL);</li><li>Ferramenta de controle de versão GIT;</li><li>Experiência na criação de API REST;</li><li>Conhecimento da framework Horse;</li><li>Conhecimento avançado em Orientação a Objetos;</li><li>Testes unitários (DUnit);</li><li>Diferencial: conhecimento nas ferramentas: DevExpress, Report Builder, componentes BD e ACBr;</li><li>Conhecimento em boas práticas de desenvolvimento:</li><ul><li>Clean Code;</li><li>Programação Defensiva;</li><li>SOLID;</li><li>Design Patterns;</li><li>MVC.</li></ul><li>Ensino superior completo.</li></ul><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/7944/tech-engenharia-de-software-senior-delphi]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Goiânia]]></city>
     <state><![CDATA[GO]]></state>
@@ -7584,116 +7603,6 @@ Apoiar rotinas administrativas e a organização logística das atividades de ca
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscofundacaomt/135/assistente-projetos-agricolas-vaga-disponivel-tambem-para-pcd-s]]></applyUrl>
     <companyId><![CDATA[9363486]]></companyId>
     <city><![CDATA[Rondonópolis]]></city>
-    <state><![CDATA[MT]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[bbcae691-2a1c-4d3b-bff5-eb455901824f]]></partnerJobId>
-    <company><![CDATA[Fundação MT]]></company>
-    <title><![CDATA[Auxiliar de Pesquisa - Vaga disponível também para PCD's]]></title>
-    <posterEmail><![CDATA[luanalima@fundacaomt.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar nas tarefas operacionais de pesquisa, seguindo métodos e técnicas específicas, zelando pelas condições seguras de trabalho e respeito ao meio ambiente , a fim de garantir o bom resultado da experimentação.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Desenvolver atividades em casa de vegetação relacionadas aos protocolos técnicos nas áreas de Nematologia, Entomologia e Fitopatologia, seguindo métodos e técnicas específicas;- Auxiliar no preparo, montagem, implantação e condução de ensaios experimentais;<br />- Executar a esterilização de solo e materiais utilizados nos experimentos;<br />- Preparar substratos e montar vasos para condução dos ensaios;<br />- Realizar o monitoramento contínuo das casas de vegetação<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo; - Desejável curso Técnico em Agricultura; <br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscofundacaomt/134/auxiliar-de-pesquisa-vaga-disponivel-tambem-para-pcd-s]]></applyUrl>
-    <companyId><![CDATA[9363486]]></companyId>
-    <city><![CDATA[Rondonópolis]]></city>
-    <state><![CDATA[MT]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e401f9be-d7dd-4d85-bc41-ad5891555d19]]></partnerJobId>
-    <company><![CDATA[Fundação MT]]></company>
-    <title><![CDATA[Assistente de Administrativo - Vaga disponível também para PCDs]]></title>
-    <posterEmail><![CDATA[luanalima@fundacaomt.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O profissional atuará no suporte administrativo e operacional ao almoxarifado, frotas e logística, apoiando as rotinas de recebimento, organização e controle de materiais, além de realizar lançamentos e atualizações em sistema. Também auxiliará no acompanhamento das manutenções da frota, controle de multas, rastreamento e utilização de veículos, contribuindo para a organização, acuracidade das informações e eficiência dos processos internos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar nas rotinas administrativas do almoxarifado, frotas e logística;</li><li>Realizar controles internos (planilhas, sistemas e relatórios);</li><li>Efetuar lançamento e conferência de notas fiscais;</li><li>Auxiliar no controle de estoque (entrada e saída de materiais);</li><li>Apoiar no controle de manutenção e documentação da frota;</li><li>Organizar arquivos físicos e digitais;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso técnico ou superior em andamento em Administração, Logística ou áreas correlatas;</li><li>Desejável experiência prévia em rotinas administrativas;</li><li>Pacote Office;</li><li>CNH categoria B;</li><li>Vaga disponível também para PCD's;</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscofundacaomt/133/assistente-de-administrativo-vaga-disponivel-tambem-para-pcds]]></applyUrl>
-    <companyId><![CDATA[9363486]]></companyId>
-    <city><![CDATA[Rondonópolis]]></city>
-    <state><![CDATA[MT]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[0db90434-aee7-400a-af6f-c7c92a764a33]]></partnerJobId>
-    <company><![CDATA[Fundação MT]]></company>
-    <title><![CDATA[Assistente de Administrativo - Vaga disponível também para PCDs]]></title>
-    <posterEmail><![CDATA[luanalima@fundacaomt.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O profissional será responsável por executar as rotinas de recebimento, conferência e organização de materiais e insumos, garantindo o correto armazenamento e a integridade dos itens. Também apoiará na separação e envio de materiais entre unidades, mantendo o ambiente organizado e em conformidade com os padrões de armazenamento e segurança estabelecidos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar o recebimento, conferência e organização de materiais e insumos;
-</li>
-<li>
-Controlar entradas e saídas de estoque, garantindo acuracidade das informações;
-</li>
-<li>
-Apoiar na separação e envio de materiais entre unidades;
-</li>
-<li>
-Registrar movimentações e atualizar informações em sistema de controle de estoque;
-</li>
-<li>
-Manter o ambiente organizado, seguindo padrões de armazenamento e segurança;
-</li>
-<li>
-Auxiliar na realização de inventários e controles periódicos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso Técnico Agrícola/Agropecuária e/ou áreas afins;</li><li>Experiência com organização e gerenciamento de ferramenta de estoque;</li><li>Pacote Office;</li><li>CNH categoria B;</li><li>Vaga disponível também para PCD's;</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscofundacaomt/131/assistente-de-administrativo-vaga-disponivel-tambem-para-pcds]]></applyUrl>
-    <companyId><![CDATA[9363486]]></companyId>
-    <city><![CDATA[Rondonópolis]]></city>
-    <state><![CDATA[MT]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1ee22fb1-0720-42a1-8c0c-78c27ae2fc22]]></partnerJobId>
-    <company><![CDATA[Fundação MT]]></company>
-    <title><![CDATA[Trainee (Entomologia) - Vaga disponível também para PCD's;]]></title>
-    <posterEmail><![CDATA[luanalima@fundacaomt.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Fundação MT está com vaga aberta para<strong> Trainee – Pesquisador em Entomologia</strong>. Buscamos profissionais motivados para atuar em pesquisa agronômica, com <strong>maior foco nas atividades de laboratório</strong>, além do apoio em ensaios de campo e na análise de dados. O trainee participará do planejamento, condução, padronização das informações e preparação de materiais, contribuindo diretamente para o avanço das pesquisas em Entomologia. Uma oportunidade para quem deseja desenvolver carreira em pesquisa e contribuir com a inovação no agronegócio!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliará na elaboração e condução de projetos de pesquisa, abrangendo aspectos técnicos e gerenciais; - Relacionamento com clientes e parceiros de pesquisa e serviços da Fundação MT, incluindo agricultores, empresas, acadêmicos e associações de classe; <br />- Participação em dias de campo, eventos on-line, eventos presenciais e palestras; <br />- Gestão de projetos;<br /><br /><b>Requisitos e qualificações</b><br /><br />- Superior em Agronomia ou em áreas correlatas, mestrado ou doutorado em Entomologia, com foco nas culturas da soja, milho ou algodão; - Será considerado diferencial experiência com Manejo Integrado de Pragas em Cerrados; <br />- Desejável experiência com pesquisa em ambiente de campo e laboratório; <br />- Disponibilidade para viagens;<br />- CNH categoria B;<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscofundacaomt/121/trainee-entomologia-vaga-disponivel-tambem-para-pcd-s]]></applyUrl>
-    <companyId><![CDATA[9363486]]></companyId>
-    <city><![CDATA[Rondonópolis]]></city>
-    <state><![CDATA[MT]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b53647cc-6941-4203-a625-18c0be057eb5]]></partnerJobId>
-    <company><![CDATA[Fundação MT]]></company>
-    <title><![CDATA[Auxiliar Agrícola - Vaga disponível também para PCD's]]></title>
-    <posterEmail><![CDATA[luanalima@fundacaomt.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar nas tarefas operacionais de pesquisa agrícola, seguindo métodos e técnicas específicas, zelando pelas condições seguras de trabalho e respeito ao meio ambiente , a fim de garantir o bom resultado da experimentação.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar na execução dos processos agrícolas  de  forma  manual  e/ou  mecanizada, seguindo métodos e técnicas pré-estabelecidas, visando realizar o preparo de solo, aplicações de defensivos agrícolas, plantio, colheita e beneficiamento de grãos;<br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino Fundamental; - Vaga temporária; <br />- Vaga disponível também para PCD's;<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscofundacaomt/125/auxiliar-agricola-vaga-disponivel-tambem-para-pcd-s]]></applyUrl>
-    <companyId><![CDATA[9363486]]></companyId>
-    <city><![CDATA[Sapezal]]></city>
     <state><![CDATA[MT]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -14392,6 +14301,25 @@ Cadastre seu currículo e mantenha seus dados sempre atualizados. Estamos de olh
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[672952c1-9ec8-48a8-b8f8-b9b1c059b3f4]]></partnerJobId>
+    <company><![CDATA[ATS Interno]]></company>
+    <title><![CDATA[Teste Luiz 12-03-2026]]></title>
+    <posterEmail><![CDATA[la.junior@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste<br /><br /><b>Responsabilidades e atribuições</b><br /><br />teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste<br /><br /><b>Requisitos e qualificações</b><br /><br />teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/atsinterno/94/teste-luiz-12-03-2026]]></applyUrl>
+    <companyId><![CDATA[1234]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[45ee16d2-407f-43bb-9fbe-57dd0cd3677d]]></partnerJobId>
     <company><![CDATA[Linked Tech]]></company>
     <title><![CDATA[Consultor(a) de vendas]]></title>
@@ -18139,6 +18067,25 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para voc�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[eb562b12-0564-420c-9733-1fe38d7a2b6c]]></partnerJobId>
+    <company><![CDATA[Unimarka Distribuidora]]></company>
+    <title><![CDATA[Motorista]]></title>
+    <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca trabalhar em uma empresa que ofereça segurança, jornada de trabalho organizada, remuneração acima da média do mercado e frota nova com tecnologia e conforto. <br /><b>Fique ligado nessa oportunidade!</b><br /><br /><br />Vaga destinada também a PCD.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Dirigir veículo observando a rota estabelecida;</li><li>Realizar as entregas de acordo com as Notas Fiscais e Romaneios;</li><li>Acompanhar a conferência do pedido durante a entrega;</li><li>Cumprir as normas de saúde, segurança do trabalho e legislações de trânsito para exercício da função;</li><li>Executar outras atividades correlatas solicitadas pelo gestor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>CNH categoria C ou D.</li></ul><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/797/motorista]]></applyUrl>
+    <companyId><![CDATA[65466539]]></companyId>
+    <city><![CDATA[Viana]]></city>
+    <state><![CDATA[ES]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[01dadd10-64fb-4536-ab48-e42def009b68]]></partnerJobId>
     <company><![CDATA[Unimarka Distribuidora]]></company>
     <title><![CDATA[Operador de Logística]]></title>
@@ -18164,25 +18111,6 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para voc�
     <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você busca trabalhar em uma empresa que ofereça segurança, jornada de trabalho organizada, remuneração acima da média do mercado e frota nova com tecnologia e conforto. <br /><b>Fique ligado nessa oportunidade!</b><br /><br /><br />Vaga destinada também a PCD.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Dirigir veículo observando a rota estabelecida;</li><li>Realizar as entregas de acordo com as Notas Fiscais e Romaneios;</li><li>Acompanhar a conferência do pedido durante a entrega;</li><li>Cumprir as normas de saúde, segurança do trabalho e legislações de trânsito para exercício da função;</li><li>Executar outras atividades correlatas solicitadas pelo gestor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>CNH categoria B.</li></ul><br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/778/motorista-de-veiculos-leves]]></applyUrl>
-    <companyId><![CDATA[65466539]]></companyId>
-    <city><![CDATA[Viana]]></city>
-    <state><![CDATA[ES]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[337820d7-8751-4cc2-ac89-1caa3d80b3b9]]></partnerJobId>
-    <company><![CDATA[Unimarka Distribuidora]]></company>
-    <title><![CDATA[Motorista]]></title>
-    <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca trabalhar em uma empresa que ofereça segurança, jornada de trabalho organizada, remuneração acima da média do mercado e frota nova com tecnologia e conforto. <br /><b>Fique ligado nessa oportunidade!</b><br /><br /><br />Vaga destinada também a PCD.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Dirigir veículo observando a rota estabelecida;</li><li>Realizar as entregas de acordo com as Notas Fiscais e Romaneios;</li><li>Acompanhar a conferência do pedido durante a entrega;</li><li>Cumprir as normas de saúde, segurança do trabalho e legislações de trânsito para exercício da função;</li><li>Executar outras atividades correlatas solicitadas pelo gestor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>CNH categoria C ou D.</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/777/motorista]]></applyUrl>
     <companyId><![CDATA[65466539]]></companyId>
     <city><![CDATA[Viana]]></city>
     <state><![CDATA[ES]]></state>
@@ -19612,10 +19540,10 @@ Formação superior em Administração, Marketing, Economia, Engenharia ou área
   <job>
     <partnerJobId><![CDATA[2d46ae51-2f17-4119-868b-fc183a3ec087]]></partnerJobId>
     <company><![CDATA[TODOS Empreendimentos]]></company>
-    <title><![CDATA[Especialista I – Engenheiro de IA]]></title>
+    <title><![CDATA[Especialista I – Engenheiro Sênior IA]]></title>
     <posterEmail><![CDATA[gabrielazago@cartaodetodos.com]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><b><u>Período de Inscrição: 06/03/2026 à 12/03/2026</u></b><br /><br />Já pensou em trabalhar na franqueadora do <b>maior cartão de descontos do Brasil</b> e nos ajudar a construir um mundo mais igual e acessível? É o que TODOS temos a oferecer por aqui!<br /><br /><br />Estamos com oportunidade disponível para <b>Especialista I – Engenheiro de IA</b>, modelo de trabalho remoto, de segunda à sexta-feira das 8h às 18h, com 2 horas de almoço. Tem interesse e disponibilidade para fazer parte de tudo isso?<br /><br /><br />Nossa equipe de Recrutamento e Seleção está dedicada a oferecer a melhor experiência possível.<br /><br /><br />Solicitamos que além de anexar seu currículo, você preencha todas as informações solicitadas logo que se candidatar.<br /><br /><br /><u>Priorizamos nossa comunicação via e-mail, por isso, se atente à sua caixa de entrada e spam.</u><br /><br /><br />Valorizamos a diversidade! Todas as nossas vagas são e<b>xtensivas a PCD</b> (Pessoas com Deficiência). <br />Além disso, somos participantes dos programas <b>Emprega Mais Mulheres</b> e <b>Empresa Cidadã</b>, reforçando nosso compromisso com a equidade, inclusão e apoio à parentalidade.<br /><br /><br />Confira mais algumas informações importantes antes de se candidatar:<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Você será responsável por liderar a concepção e implementação de arquiteturas de Machine Learning e Large Language Models (LLMs), integrando a inteligência artificial ao ERP, bases de dados e sistemas de negócio. Atuará na conexão de modelos de IA a diferentes fontes de dados por meio do protocolo MCP, garantindo segurança, estabilidade e padronização das integrações. Também revisará códigos, definirá boas práticas de segurança e desenvolverá soluções em Python, Node.js e APIs para automatizar processos, eliminar tarefas manuais e promover eficiência, inovação e evolução tecnológica alinhadas aos objetivos estratégicos da empresa.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com Machine Learning e Inteligência Artificial;</li><li>Experiência com Large Language Models (LLMs);</li><li>Conhecimento avançado em Python ou Node.js;</li><li>Experiência com integração de APIs (REST ou SOAP);</li><li>Experiência com integração de sistemas e automação de processos;</li><li>Conhecimento em integração de dados entre ERP, bancos de dados e aplicações;</li><li>Experiência com arquitetura e implantação de soluções de IA;</li><li>Conhecimento em boas práticas de segurança e revisão de código.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagastodos/233/especialista-i-engenheiro-de-ia]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagastodos/233/especialista-i-engenheiro-senior-ia]]></applyUrl>
     <companyId><![CDATA[15085751]]></companyId>
     <city><![CDATA[Ipatinga]]></city>
     <state><![CDATA[MG]]></state>
@@ -19673,35 +19601,6 @@ Formação superior em Administração, Marketing, Economia, Engenharia ou área
     <posterEmail><![CDATA[marcelamoraes@cartaodetodos.com]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><b><u>Período de Inscrição: 06/03/2026 à 12/03/2026</u></b><br /><br />Já pensou em trabalhar na franqueadora do <b>maior cartão de descontos do Brasil</b> e nos ajudar a construir um mundo mais igual e acessível? É o que TODOS temos a oferecer por aqui!<br /><br /><br />Estamos com oportunidade disponível para <b>Especialista II - Cientista de Dados</b>, modelo de trabalho <b>remoto</b> de segunda à sexta-feira das 8h às 18h, com 2 horas de almoço. Tem interesse e disponibilidade para fazer parte de tudo isso?<br /><br /><br />Nossa equipe de Recrutamento e Seleção está dedicada a oferecer a melhor experiência possível.<br /><br /><br />Solicitamos que além de anexar seu currículo, você preencha todas as informações solicitadas logo que se candidatar.<br /><br /><br /><u>Priorizamos nossa comunicação via e-mail, por isso, se atente à sua caixa de entrada e spam.</u><br /><br /><br />Valorizamos a diversidade! Todas as nossas vagas são <b>extensivas a PCD</b> (Pessoas com Deficiência). <br />Além disso, somos participantes dos programas <b>Emprega Mais Mulheres</b> e <b>Empresa Cidadã</b>, reforçando nosso compromisso com a equidade, inclusão e apoio à parentalidade.<br /><br /><br />Confira mais algumas informações importantes antes de se candidatar:<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Responsável por liderar a estratégia de ciência de dados da organização, desenvolvendo e implementando modelos preditivos e prescritivos de alta complexidade que endereçam desafios críticos de negócio — como churn, CAC, LTV e otimização de processos — traduzindo questões estratégicas em soluções analíticas robustas e escaláveis;</li><li>Atuar como referência técnica, orientando equipes multidisciplinares, estabelecendo padrões de excelência em modelagem, governança e MLOps, garantindo que cada modelo agregue valor mensurável através de metodologias científicas rigorosas, validação cruzada robusta e comunicação estratégica com stakeholders;</li><li>Dominar stack avançado (Python, SQL, estatística aplicada, machine learning, big data e cloud platforms);</li><li>Combinar pensamento crítico com visão de negócio, e impulsionar inovação contínua na organização, mantendo conformidade regulatória e excelência operacional em ambientes de alta complexidade e volume de dados.							</li></ul><br />															<br />															<br />															<br />															<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Domínio profundo de frameworks de ML (Scikit-Learn, XGBoost, PyTorch ou TensorFlow) e manipulação de dados (Pandas, Spark);</li><li>Experiência prática com ferramentas de nuvem (AWS SageMaker, Azure ML ou Google Vertex AI) e conhecimento em versionamento de modelos.</li></ul>													<br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagastodos/229/especialista-ii-cientista-de-dados]]></applyUrl>
-    <companyId><![CDATA[15085751]]></companyId>
-    <city><![CDATA[Ipatinga]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[2547cc49-5d07-473c-aea7-a35e27ef3422]]></partnerJobId>
-    <company><![CDATA[TODOS Empreendimentos]]></company>
-    <title><![CDATA[Especialista II – Engenheiro de Machine Learning e Automação]]></title>
-    <posterEmail><![CDATA[gabrielazago@cartaodetodos.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b><u>Período de Inscrição: 06/03/2026 à 12/03/2026</u></b><br /><br />Já pensou em trabalhar na franqueadora do <b>maior cartão de descontos do Brasil</b> e nos ajudar a construir um mundo mais igual e acessível? É o que TODOS temos a oferecer por aqui!<br /><br /><br />Estamos com oportunidade disponível para <b>Especialista II - Engenheiro ML e Automação</b>, modelo de trabalho remoto, de segunda à sexta-feira das 8h às 18h, com 2 horas de almoço. Tem interesse e disponibilidade para fazer parte de tudo isso?<br /><br /><br />Nossa equipe de Recrutamento e Seleção está dedicada a oferecer a melhor experiência possível.<br /><br /><br />Solicitamos que além de anexar seu currículo, você preencha todas as informações solicitadas logo que se candidatar.<br /><br /><br /><u>Priorizamos nossa comunicação via e-mail, por isso, se atente à sua caixa de entrada e spam.</u><br /><br /><br />Valorizamos a diversidade! Todas as nossas vagas são e<b>xtensivas a PCD</b> (Pessoas com Deficiência). <br />Além disso, somos participantes dos programas <b>Emprega Mais Mulheres</b> e <b>Empresa Cidadã</b>, reforçando nosso compromisso com a equidade, inclusão e apoio à parentalidade.<br /><br /><br />Confira mais algumas informações importantes antes de se candidatar:<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Você será responsável por liderar a concepção e implementação de projetos de automação industrial, sistemas de controle (PLC/SCADA) e soluções de Machine Learning, utilizando o protocolo MCP (Model Context Protocol) para integrar modelos de IA a fontes de dados e ferramentas operacionais de forma segura e padronizada.
-Também atuará na definição de padrões de segurança cibernética e na escolha de modelos de IA, realizando a revisão técnica do código desenvolvido pela equipe e assegurando a estabilidade sistêmica das automações.
-Além disso, irá conduzir iniciativas de melhoria contínua para identificar gargalos e otimizar processos, contribuindo para o aumento da performance operacional, da qualidade técnica e da evolução tecnológica da empresa. O foco da atuação será atender às necessidades do negócio com alta eficiência, conformidade e redução de custos.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida em Python;</li>
-<li>
-Experiência com MLOps;
-</li>
-<li>
-Conhecimento em infraestrutura de nuvem (AWS, Azure ou GCP);
-</li>
-<li>
-Experiência com orquestração de APIs complexas.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagastodos/228/especialista-ii-engenheiro-de-machine-learning-e-automacao]]></applyUrl>
     <companyId><![CDATA[15085751]]></companyId>
     <city><![CDATA[Ipatinga]]></city>
     <state><![CDATA[MG]]></state>
@@ -31604,25 +31503,6 @@ Conhecimento em leitura e interpretação de projetos elétricos.
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[22061752-1d38-4cc1-a8e0-c5377eeffb62]]></partnerJobId>
-    <company><![CDATA[AllWert Incorporação e Urbanização]]></company>
-    <title><![CDATA[Gerente de Instalações]]></title>
-    <posterEmail><![CDATA[fernanda.malta@allwert.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional para <strong>planejar, coordenar e assegurar a execução das instalações prediais</strong> — elétricas, hidráulicas, sanitárias, incêndio, gás, ar-condicionado e demais sistemas  garantindo <strong>qualidade técnica</strong>, <strong>aderência às normas e projetos</strong>, <strong>cumprimento de prazos</strong> e <strong>controle de custos</strong>.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar e coordenar a execução das instalações elétricas, hidrossanitárias, incêndio, climatização, gás, telecomunicações e sistemas especiais.</li><li>Analisar, compatibilizar e validar projetos executivos de instalações com arquitetura e estruturas.</li><li>Acompanhar obras em campo, garantindo aderência aos projetos, normas técnicas e padrões da empresa.</li><li>Gerir cronograma físico-financeiro das instalações, controlando prazos, custos e medições.</li><li>Coordenar equipes próprias e terceiros (empreiteiros, fornecedores e prestadores de serviço).</li><li>Realizar vistorias técnicas, testes, comissionamento e entrega dos sistemas instalados.</li><li>Atuar na identificação e mitigação de riscos técnicos, propondo soluções de melhoria contínua.</li><li>Apoiar a área de assistência técnica e pós-obra, quando necessário.</li><li>Acompanhar e analisar dando parecer sobre a contratação dos serviços de instalações diversas</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Engenharia Elétrica</li><li>Registro ativo no CREA.</li><li>Experiência com obras de médio e grande porte.</li><li>Conhecimento de obras de infraestrutura </li><li>Conhecimento em leitura e compatibilização de projetos.</li><li>Domínio de normas técnicas e legislações aplicáveis.</li><li>Conhecimento em ferramentas de planejamento e controle (MS Project, Excel, etc.).</li><li>Desejável experiência com BIM</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/allwert/144/gerente-de-instalacoes]]></applyUrl>
-    <companyId><![CDATA[71175882]]></companyId>
-    <city><![CDATA[Porto Belo]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[b1556c83-1920-4ac5-acef-99a8e89a79a7]]></partnerJobId>
     <company><![CDATA[AllWert Incorporação e Urbanização]]></company>
     <title><![CDATA[Engenheiro de Qualidade]]></title>
@@ -34132,6 +34012,25 @@ Monitorar o estoque, realizando inventários e controle de movimentação de pe�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[ba82c49e-f2e5-4329-83e3-893028dd1750]]></partnerJobId>
+    <company><![CDATA[Grupo Canopus]]></company>
+    <title><![CDATA[TECNICO EM MECANICA]]></title>
+    <posterEmail><![CDATA[tainara.abreu@grupocanopus.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />- Realizar diagnósticos (elétrica, motor e carroçaria);- Executar revisões periódicas e reparos;- Manter as ordens de serviços juntos aos veículos;- Efetuar o apontamento dos serviços, teste e rodagens.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar diagnósticos (elétrica, motor e carroçaria);- Executar revisões periódicas e reparos;- Manter as ordens de serviços juntos aos veículos;- Efetuar o apontamento dos serviços, teste e rodagens.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo;CNH B;Informática básica (Windows, Word, Excel);Conhecimento em mecânica e peças automotivas;Desejável vivência na função.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/892/tecnico-em-mecanica]]></applyUrl>
+    <companyId><![CDATA[2073549]]></companyId>
+    <city><![CDATA[Campo Grande]]></city>
+    <state><![CDATA[MS]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[fbec84e2-fe35-4ee1-86f8-dedaefe95f16]]></partnerJobId>
     <company><![CDATA[Grupo Canopus]]></company>
     <title><![CDATA[ASSISTENTE FINANCEIRO]]></title>
@@ -35298,25 +35197,6 @@ Acompanhar negociações em andamento, mantendo contato frequente com os cliente
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/742/consultor-de-vendas-externas]]></applyUrl>
     <companyId><![CDATA[2073549]]></companyId>
     <city><![CDATA[Marabá]]></city>
-    <state><![CDATA[PA]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[77b29306-02ed-48d3-8e57-c37be4a6bec1]]></partnerJobId>
-    <company><![CDATA[Grupo Canopus]]></company>
-    <title><![CDATA[OPERADOR DE AGENDAMENTO]]></title>
-    <posterEmail><![CDATA[alessandra.barros@grupocanopus.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Realizar diariamente o agendamento ativo e passivo;Acompanhar a evolução do agendamento;Preencher o quadro de planejamento do agendamento;Atendimento presencial receptivo no agendamento dos clientes passantes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar diariamente o agendamento ativo e passivo;Acompanhar a evolução do agendamento;Preencher o quadro de planejamento do agendamento;Atendimento presencial receptivo no agendamento dos clientes passantes.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo; Informática básica (Windows, Word e Excel);Desejável experiencia em atendimento telefônico.<br /><br /><strong>TODAS AS VAGAS ESTÃO DISPONIVEIS PARA PCD</strong>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/869/operador-de-agendamento]]></applyUrl>
-    <companyId><![CDATA[2073549]]></companyId>
-    <city><![CDATA[Parauapebas]]></city>
     <state><![CDATA[PA]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -40498,50 +40378,12 @@ profissional e ética, indiferente de sexo/gênero, raça/etnicidade e classe so
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[b8ad1261-5561-4663-ac8c-89c90182ffd9]]></partnerJobId>
-    <company><![CDATA[Sancet Medicina Diagnóstica]]></company>
-    <title><![CDATA[Atendente Recepção - Unidade Rodeio]]></title>
-    <posterEmail><![CDATA[gabriela@sancet.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Abaixo apresentamos um resumo da descrição do cargo:<br /><br /><br />- Atender os clientes de forma educada, profissional e ética, indiferente de sexo/gênero, raça/etnicidade e classe social, preenchendo corretamente o cadastro, dando entrada nos exames solicitados, passando o protocolo ao pessoal técnico habilitado para coleta de amostras biológicas, quando aplicável. <br />- Dar informações aos clientes quanto a procedimentos da fase pré- analítica. <br />- Receber e identificar material biológico (urina, fezes, anatomopatológico, citologia em geral e etc.).<br /><br /><br /><b>Inclusão e Diversidade</b><br />Esta vaga também é destinada a pessoas com deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de todos os perfis, independente de deficiência, raça, gênero, orientação sexual, idade ou religião.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento presencial.<br /> - Auxiliar na organização de documentos e arquivos.<br /> - Prestar suporte em atividades administrativas.<br /> - Zelar pela organização do ambiente de trabalho.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo<br /> - Conhecimentos básicos de informática<br /> - Boa comunicação verbal<br /> - Organização e proatividade<br /> - Capacidade de trabalhar em equipe<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sancetmedicinadiagnostica/45/atendente-recepcao-unidade-rodeio]]></applyUrl>
-    <companyId><![CDATA[42118446]]></companyId>
-    <city><![CDATA[Mogi das Cruzes]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[e12b8573-86a9-4505-b8e8-445feb5efae2]]></partnerJobId>
     <company><![CDATA[Sancet Medicina Diagnóstica]]></company>
     <title><![CDATA[Atendente Recepção - Unidades Mogi das Cruzes]]></title>
     <posterEmail><![CDATA[gabriela@sancet.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Abaixo apresentamos um resumo da descrição do cargo:<br /><br /><br />- Atender os clientes de forma educada, profissional e ética, indiferente de sexo/gênero, raça/etnicidade e classe social, preenchendo corretamente o cadastro, dando entrada nos exames solicitados, passando o protocolo ao pessoal técnico habilitado para coleta de amostras biológicas, quando aplicável. <br />- Dar informações aos clientes quanto a procedimentos da fase pré- analítica. <br />- Receber e identificar material biológico (urina, fezes, anatomopatológico, citologia em geral e etc.).<br /><br /><br /><b>Inclusão e Diversidade</b><br />Esta vaga também é destinada a pessoas com deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de todos os perfis, independente de deficiência, raça, gênero, orientação sexual, idade ou religião.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento presencial.<br /> - Auxiliar na organização de documentos e arquivos.<br /> - Prestar suporte em atividades administrativas.<br /> - Zelar pela organização do ambiente de trabalho.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo<br /> - Conhecimentos básicos de informática<br /> - Boa comunicação verbal<br /> - Organização e proatividade<br /> - Capacidade de trabalhar em equipe<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sancetmedicinadiagnostica/44/atendente-recepcao-unidades-mogi-das-cruzes]]></applyUrl>
-    <companyId><![CDATA[42118446]]></companyId>
-    <city><![CDATA[Mogi das Cruzes]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[53f9e7d7-8637-4689-b66d-f9c09d609abd]]></partnerJobId>
-    <company><![CDATA[Sancet Medicina Diagnóstica]]></company>
-    <title><![CDATA[Auxiliar de Faturamento Junior - Unidade Matriz 44 horas semanais]]></title>
-    <posterEmail><![CDATA[gabriela@sancet.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Conferências das guias dos convênios, para posterior faturamento</li><li>Fechamento de faturas</li><li>Correção de erros de cadastro ,arrumar as guias para cobrança de convênios e inserir nos indicadores esses dados</li><li>Controlar o fechamento das faturas</li><li>Preencher corretamente o cadastro de médicos que solicitaram os exames</li></ul><br /><br /><b>Inclusão e Diversidade</b><br />Esta vaga também é destinada a pessoas com deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de todos os perfis, independente de deficiência, raça, gênero, orientação sexual, idade ou religião.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar conferência de documentos fiscais;</li><li>Auxiliar na emissão de notas fiscais e faturas;</li><li>Efetuar lançamentos e controle de documentos no sistema;</li><li>Colaborar na organização e arquivamento de documentos fiscais;</li><li>Prestar suporte em atividades administrativas relacionadas ao setor de faturamento.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Principais requisitos: <ul><li>Ensino médio completo.</li><li>Conhecimento básico em rotinas de faturamento.</li><li>Boa organização e atenção aos detalhes.</li><li>Proatividade no cumprimento de prazos.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sancetmedicinadiagnostica/41/auxiliar-de-faturamento-junior-unidade-matriz-44-horas-semanais]]></applyUrl>
     <companyId><![CDATA[42118446]]></companyId>
     <city><![CDATA[Mogi das Cruzes]]></city>
     <state><![CDATA[SP]]></state>
@@ -52571,46 +52413,6 @@ Atuar em conformidade com normas internas, políticas de sustentabilidade e dire
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[0b327476-d6e2-4514-96c3-4e994d77f675]]></partnerJobId>
-    <company><![CDATA[Kensys]]></company>
-    <title><![CDATA[Engenheiro(a) / Especialista em Hardware RFID]]></title>
-    <posterEmail><![CDATA[natalia.santos@logsmart.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Especialista em Hardware RFID para liderar a frente de infraestrutura física de um projeto de alta complexidade de rastreamento de volumes em terminais de cargas aeroportuário. O profissional será a referência técnica para a escolha, dimensionamento, testes e validação de todos os dispositivos RFID (leitores, antenas, coletores de dados, impressoras térmicas e tags). Será responsável por garantir que o hardware suporte o alto volume operacional e cumpra os rigorosos SLAs de recebimento, armazenagem e expedição de importação e exportação.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• <strong>Seleção e Especificação Técnica:</strong> Definir os modelos ideais de equipamentos junto aos fornecedores (como Zebra, Viaonda, etc.), englobando:    ◦ Leitores fixos industriais de 8 portas para portais de leitura.    ◦ Antenas de alto ganho (ex: polarização circular/linear) e cabos,.    ◦ Coletores de dados (Mobile) com sistema operacional Android.    ◦ Impressoras de transferência térmica RFID UHF de alto volume (203dpi), avaliando tecnologias híbridas e "On-Metal" (ex: Linha Zebra ZT400/ZT411). • <strong>Homologação de Insumos (Tags):</strong> Especificar etiquetas RFID UHF padrão EPC Gen2 / ISO 18000-6C adequadas para múltiplas superfícies, desde papelão e plástico para cargas gerais, até tags especiais "On-Metal" (ex: Família Silverline) para Racks e ULDs aeronáuticos. • <strong>Execução de Site Survey:</strong> Conduzir o levantamento em campo no terminal para definir a localização exata dos portais, validar quantidades de antenas por zona (ex: transelevadores TE/TZ, câmaras frias e docas), e especificar barreiras mecânicas e proteção contra vazamento/interferência de radiofrequência. • <strong>Implantação e Configuração:</strong> Realizar a instalação lógica, ativação e testes unitários/integrados de todos os leitores e equipamentos acessórios nos portais RFID. • <strong>Testes e Validação:</strong> Elaborar relatórios técnicos e planos de teste (Cutover), garantindo que a comunicação entre a etiqueta e a antena ocorra na distância e velocidade exigidas pela operação. • <strong>Treinamento e Go-Live:</strong> Elaborar documentação técnica (manuais) das configurações, treinar usuários multiplicadores na aplicação de etiquetas e operação do hardware, e acompanhar a operação inicial assistida (Go-Live).<br /><br /><b>Requisitos e qualificações</b><br /><br />Hard Skills:<br />• Formação superior completa em Engenharia Elétrica, Eletrônica, Telecomunicações, Mecatrônica, Automação ou áreas correlatas.• Sólida experiência comprovada com tecnologia <strong>RFID UHF (Ultra High Frequency)</strong> e profundo conhecimento dos padrões globais.<strong>EPC Gen 2 (ISO 18000-6C)</strong>• Experiência prática com hardwares de prateleira (Leitores Zebra, Impinj, Coletores robustos, Impressoras de etiquetas industriais).• Vivência na execução de <i>Site Survey</i> para RF e mitigação de interferências em ambientes logísticos ou industriais complexos.• Conhecimento sobre física de RF, compreendendo como os sinais reagem em presença de metais, líquidos e diferentes densidades de materiais.<br /><br />Soft Skills:<br /><li>Pensamento analítico e capacidade de resolução de problemas técnicos complexos.
-</li><li>
-Rigor técnico e alta atenção a detalhes em ambientes de alta criticidade operacional.
-</li><li>
-Organização e planejamento para condução de implantações, testes e validações de infraestrutura.
-</li><li>
-Comunicação técnica clara com equipes multidisciplinares (operações, tecnologia e fornecedores).
-</li><li>
-Capacidade de colaboração em projetos que envolvem integração entre hardware, software e processos logísticos.
-</li><li>
-Autonomia e senso de responsabilidade na condução de decisões técnicas e resolução de incidentes.
-</li><li>
-Adaptabilidade para atuar em ambientes logísticos e industriais dinâmicos.
-</li>
-
-
-
-
-
-
-<li>
-Orientação para resultado e confiabilidade operacional das soluções implantadas.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreiraskensys/17/engenheiro-a-especialista-em-hardware-rfid]]></applyUrl>
-    <companyId><![CDATA[109533441]]></companyId>
-    <city><![CDATA[São José dos Campos]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[8590a0c2-cbaf-4087-bbbc-847ef51f3226]]></partnerJobId>
     <company><![CDATA[Kensys]]></company>
     <title><![CDATA[Costumer Success (CS)]]></title>
@@ -52693,6 +52495,46 @@ Senso de dono
 <li>
 Foco em resultado e retenção</li><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreiraskensys/16/costumer-success-cs]]></applyUrl>
+    <companyId><![CDATA[109533441]]></companyId>
+    <city><![CDATA[São José dos Campos]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0b327476-d6e2-4514-96c3-4e994d77f675]]></partnerJobId>
+    <company><![CDATA[Kensys]]></company>
+    <title><![CDATA[Engenheiro(a) / Especialista em Hardware RFID]]></title>
+    <posterEmail><![CDATA[natalia.santos@logsmart.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Especialista em Hardware RFID para liderar a frente de infraestrutura física de um projeto de alta complexidade de rastreamento de volumes em terminais de cargas aeroportuário. O profissional será a referência técnica para a escolha, dimensionamento, testes e validação de todos os dispositivos RFID (leitores, antenas, coletores de dados, impressoras térmicas e tags). Será responsável por garantir que o hardware suporte o alto volume operacional e cumpra os rigorosos SLAs de recebimento, armazenagem e expedição de importação e exportação.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• <strong>Seleção e Especificação Técnica:</strong> Definir os modelos ideais de equipamentos junto aos fornecedores (como Zebra, Viaonda, etc.), englobando:    ◦ Leitores fixos industriais de 8 portas para portais de leitura.    ◦ Antenas de alto ganho (ex: polarização circular/linear) e cabos,.    ◦ Coletores de dados (Mobile) com sistema operacional Android.    ◦ Impressoras de transferência térmica RFID UHF de alto volume (203dpi), avaliando tecnologias híbridas e "On-Metal" (ex: Linha Zebra ZT400/ZT411). • <strong>Homologação de Insumos (Tags):</strong> Especificar etiquetas RFID UHF padrão EPC Gen2 / ISO 18000-6C adequadas para múltiplas superfícies, desde papelão e plástico para cargas gerais, até tags especiais "On-Metal" (ex: Família Silverline) para Racks e ULDs aeronáuticos. • <strong>Execução de Site Survey:</strong> Conduzir o levantamento em campo no terminal para definir a localização exata dos portais, validar quantidades de antenas por zona (ex: transelevadores TE/TZ, câmaras frias e docas), e especificar barreiras mecânicas e proteção contra vazamento/interferência de radiofrequência. • <strong>Implantação e Configuração:</strong> Realizar a instalação lógica, ativação e testes unitários/integrados de todos os leitores e equipamentos acessórios nos portais RFID. • <strong>Testes e Validação:</strong> Elaborar relatórios técnicos e planos de teste (Cutover), garantindo que a comunicação entre a etiqueta e a antena ocorra na distância e velocidade exigidas pela operação. • <strong>Treinamento e Go-Live:</strong> Elaborar documentação técnica (manuais) das configurações, treinar usuários multiplicadores na aplicação de etiquetas e operação do hardware, e acompanhar a operação inicial assistida (Go-Live).<br /><br /><b>Requisitos e qualificações</b><br /><br />Hard Skills:<br />• Formação superior completa em Engenharia Elétrica, Eletrônica, Telecomunicações, Mecatrônica, Automação ou áreas correlatas.• Sólida experiência comprovada com tecnologia <strong>RFID UHF (Ultra High Frequency)</strong> e profundo conhecimento dos padrões globais.<strong>EPC Gen 2 (ISO 18000-6C)</strong>• Experiência prática com hardwares de prateleira (Leitores Zebra, Impinj, Coletores robustos, Impressoras de etiquetas industriais).• Vivência na execução de <i>Site Survey</i> para RF e mitigação de interferências em ambientes logísticos ou industriais complexos.• Conhecimento sobre física de RF, compreendendo como os sinais reagem em presença de metais, líquidos e diferentes densidades de materiais.<br /><br />Soft Skills:<br /><li>Pensamento analítico e capacidade de resolução de problemas técnicos complexos.
+</li><li>
+Rigor técnico e alta atenção a detalhes em ambientes de alta criticidade operacional.
+</li><li>
+Organização e planejamento para condução de implantações, testes e validações de infraestrutura.
+</li><li>
+Comunicação técnica clara com equipes multidisciplinares (operações, tecnologia e fornecedores).
+</li><li>
+Capacidade de colaboração em projetos que envolvem integração entre hardware, software e processos logísticos.
+</li><li>
+Autonomia e senso de responsabilidade na condução de decisões técnicas e resolução de incidentes.
+</li><li>
+Adaptabilidade para atuar em ambientes logísticos e industriais dinâmicos.
+</li>
+
+
+
+
+
+
+<li>
+Orientação para resultado e confiabilidade operacional das soluções implantadas.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreiraskensys/17/engenheiro-a-especialista-em-hardware-rfid]]></applyUrl>
     <companyId><![CDATA[109533441]]></companyId>
     <city><![CDATA[São José dos Campos]]></city>
     <state><![CDATA[SP]]></state>
@@ -53615,25 +53457,6 @@ Internos. </li><li>Inglês intermediário a avançado (leitura e escrita)</li></
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[60544a2e-9f42-4820-970b-193271b21bb7]]></partnerJobId>
-    <company><![CDATA[TMB - Tem Mais no Boleto]]></company>
-    <title><![CDATA[Analista de Customer Experience]]></title>
-    <posterEmail><![CDATA[patricia.rodrigues@imperio55.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A missão desta posição de CX é mapear e acompanhar a percepção do cliente ao longo de toda a jornada, garantindo que cada ponto de contato seja otimizado para uma experiência positiva e consistente. Este profissional terá uma visão holística das interações com o cliente, desde o primeiro contato até o pós-venda, com o objetivo de identificar oportunidades de melhoria e implementar ações estratégicas. É fundamental que o profissional saiba lidar com dados, métricas e insights, tenha conhecimento em inteligência artificial para promover a eficiência operacional e consiga se comunicar de forma eficaz com outras áreas para promover mudanças baseadas nas necessidades e expectativas dos clientes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li><b>Otimização e Melhoria Contínua da Jornada do Cliente</b></li><ul><li>Identificar e implementar melhorias em pontos de contato críticos da jornada do cliente, aprimorando a experiência geral e reduzindo fricções ao longo de todo o processo de atendimento.</li></ul><li><b>Geração de Insights Acionáveis para Produtos e Processos</b></li><ul><li>Traduzir as dores e expectativas dos clientes em ações práticas para produtos, processos e tecnologia, com o uso estratégico de IA para otimizar a operação e aumentar a eficiência dos fluxos de trabalho.</li></ul><li><b>Desenvolvimento de Relacionamento Interdepartamental e Autonomia</b></li><ul><li>Trabalhar de forma independente com outras áreas, promovendo uma comunicação clara e proativa, para que insights do cliente sejam prontamente integrados ao desenvolvimento de estratégias.</li></ul><li><b>Eficácia na Condução de Pesquisas e Análise de Dados</b></li><ul><li>Conduzir pesquisas quantitativas e qualitativas de forma regular, resultando em relatórios mensuráveis e apresentando insights que possam guiar decisões estratégicas de CX, produto e operações.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><br /><br /><li><b>Conhecimento em Análise de Dados e Ferramentas de BI</b></li><ul><li>Familiaridade com ferramentas de análise de dados e BI (como Power BI, Tableau e Excel) para auxiliar na visualização e acompanhamento das principais métricas de experiência do cliente.</li><li>Conhecimento básico das principais métricas de experiência do cliente (NPS, CSAT, CES) e sua aplicação prática para orientar melhorias.</li></ul><li><b>Conhecimento em Inteligência Artificial para Eficiência Operacional</b></li><ul><li>Compreensão a nível de negócio de como a inteligência artificial pode ser aplicada para otimizar processos e melhorar a experiência do cliente ao longo de sua jornada.</li><li>Capacidade de identificar oportunidades de uso de IA em processos de CX, trabalhando em colaboração com equipes de TI e operações para aplicar soluções de IA que promovam eficiência e automação.</li></ul><li><b>Experiência em Pesquisa Qualitativa e Quantitativa</b></li><ul><li>Conhecimento sólido em técnicas de pesquisa quantitativa (ex.: surveys) e qualitativa (ex.: entrevistas em profundidade, grupos focais), com habilidade para desenhar e conduzir estudos que gerem insights aprofundados sobre a experiência do cliente.</li><li>Capacidade de análise e interpretação de resultados de pesquisa, transformando dados em insights estratégicos e sugestões práticas para otimização da jornada do cliente.</li></ul><li><b>Mapeamento e Melhoria da Jornada do Cliente</b></li><ul><li>Experiência em mapeamento detalhado da jornada do cliente, identificando pontos de contato e possíveis gaps ou fricções.</li><li>Habilidade para propor e implementar melhorias em processos e fluxos de trabalho de CX, com foco na eficiência e na satisfação do cliente em cada etapa da jornada.</li></ul><li><b>Habilidade em Documentação e Apresentação de Insights</b></li><ul><li>Competência para documentar as descobertas e melhorias de forma estruturada, com relatórios e apresentações que sejam claros e persuasivos para os stakeholders.</li><li>Experiência em construir apresentações impactantes e didáticas para comunicar insights, estratégias e resultados a uma audiência diversa, incluindo a liderança.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/tmb/344/analista-de-customer-experience]]></applyUrl>
-    <companyId><![CDATA[81902710]]></companyId>
-    <city><![CDATA[São José dos Campos]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[1db9c1f0-ac63-447a-9d7d-24078dcec16b]]></partnerJobId>
     <company><![CDATA[TMB - Tem Mais no Boleto]]></company>
     <title><![CDATA[Analista de Retenção Júnior]]></title>
@@ -53659,25 +53482,6 @@ Internos. </li><li>Inglês intermediário a avançado (leitura e escrita)</li></
     <posterEmail><![CDATA[patricia.rodrigues@imperio55.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Realizar a recuperação de crédito de clientes inadimplentes, através múltiplos canais de atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />1. Recuperação de crédito<br />2. Atingimento de Metas<br />3. Gestão de carteira de Inadimplentes<br />4. Disparos de Mensagens<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Perfil vendedor, com experiência em vendas/cobrança<br /><br /><br />1. Foco em Resultado<br />2. Excelente Comunicação<br />3. Persuasão<br />4. Inteligência Emocional<br />5. Colaboração<br />6. Escuta Ativa<br />7. Adaptabilidade<br /><br /><br />1. Conhecimento  em informática<br />2. Conhecimento de estratégias de comunicação<br />3. Agilidade<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/tmb/296/auxiliar-de-cobranca-multicanais]]></applyUrl>
-    <companyId><![CDATA[81902710]]></companyId>
-    <city><![CDATA[São José dos Campos]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[05fd125c-9c58-472e-9e75-d7da7e5ca5be]]></partnerJobId>
-    <company><![CDATA[TMB - Tem Mais no Boleto]]></company>
-    <title><![CDATA[Especialista em Inteligência e Prevenção a Fraudes]]></title>
-    <posterEmail><![CDATA[patricia.rodrigues@imperio55.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Missão: <br />Garantir a segurança e a integridade das operações da fintech por meio da aplicação estratégica de inteligência antifraude, com foco no nosso modelo de concessão de crédito. Essa posição tem como missão <b>identificar, antecipar e neutralizar riscos de fraude com base em padrões de comportamento, dados analíticos e conhecimento aprofundado do nosso segmento de atuação</b>. Utilizando expertise técnica e visão de negócio, essa função é responsável por implementar e aprimorar regras, mecanismos e processos que assegurem a confiabilidade das transações e a experiência do cliente, sem comprometer a eficiência operacional. O papel exige pensamento crítico, atuação proativa e capacidade de traduzir sinais e dados em ações práticas de prevenção, <b>conectando inteligência analítica com os objetivos estratégicos da empresa</b> e contribuindo para o crescimento sustentável da operação.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Resultados e Entregáveis – Especialista em Inteligência e Prevenção à Fraude</b><b></b><b><br /></b><b></b><b> 1. Estratégicos (contribuição ao negócio)</b><b></b><ul><li><b>Redução sustentável da taxa de fraude</b> (ex: chargebacks, inadimplência por autofraude, fraudes em primeira e terceira pessoa).</li><li><b>Equilíbrio entre segurança e conversão</b>: aumento da taxa de aprovação com manutenção ou redução da taxa de fraude.</li><li><b>Insights estratégicos para produto, crédito e compliance</b>, baseados em dados de comportamento e risco.</li><li><b>Minimização de perdas financeiras associadas à fraude</b>, com impacto direto na margem operacional.</li></ul><b>2. Táticos (controle e evolução contínua)</b><b></b><ul><li><b>Implementação e melhoria contínua de regras antifraude</b>, com avaliação de eficácia.</li><li><b>Criação e manutenção de dashboards de monitoramento em tempo real</b> com alertas de comportamento suspeito.</li><li><b>Geração de relatórios periódicos com análise de fraudes, tendências e recomendações acionáveis.</b></li><li><b>Revisão constante dos perfis de risco e segmentação de clientes</b>, com feedback estruturado para time de produto e crédito.</li></ul><b>3. Operacionais (execução e sustentação)</b><b></b><ul><li><b>Investigação de casos suspeitos com documentação estruturada</b> (timeline, evidências, causa raiz, ação tomada).</li><li><b>Tempo médio de resposta a incidentes reduzido e rastreável.</b></li><li><b>Atualização da base de regras e perfis de risco com base em learnings de casos reais.</b></li><li><b>Interações eficazes com atendimento, cobrança, produto e tecnologia para conter vulnerabilidades rapidamente.</b></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Competências Técnicas </b><b><br /></b><b>1. Análise de Dados e Modelagem de Risco</b><b></b><ul><li>Capacidade de identificar padrões de comportamento e sinais de fraude com base em dados.</li><li>Conhecimento em SQL, Python, R ou ferramentas similares para análises robustas.</li></ul><b>2. Gestão e Parametrização de Regras Antifraude</b><b></b><ul><li>Vivência em definição, teste e otimização de regras antifraude em motores de decisão.</li><li>Acompanhamento de KPIs como FPR (false positive rate), FNR (false negative rate), taxa de aprovação.</li></ul><b>3. Conhecimento em Fraudes Digitais</b><b></b><ul><li>Entendimento profundo dos principais tipos de fraudes no contexto de crédito digital.</li><li>Experiência com ferramentas antifraude (ClearSale, Konduto, Idwall, etc.).</li></ul><b>4. Domínio do Ciclo de Crédito</b><b></b><ul><li>Compreensão de ponta a ponta da jornada de crédito (onboarding, análise, concessão, pagamento).</li><li>Conhecimento específico de riscos relacionados a concessão de crédito.</li></ul><b>5. Visualização e Monitoramento</b><b></b><ul><li>Habilidade em construir e manter dashboards operacionais para monitoramento em tempo real.</li><li>Proficiência em ferramentas de BI (Power BI, Tableau, Looker, etc.).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/tmb/238/especialista-em-inteligencia-e-prevencao-a-fraudes]]></applyUrl>
     <companyId><![CDATA[81902710]]></companyId>
     <city><![CDATA[São José dos Campos]]></city>
     <state><![CDATA[SP]]></state>
@@ -53727,6 +53531,44 @@ Internos. </li><li>Inglês intermediário a avançado (leitura e escrita)</li></
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[93c6cf47-2dd9-4c61-9430-5163de50fce8]]></partnerJobId>
+    <company><![CDATA[Editora Aliança Divergente Ltda]]></company>
+    <title><![CDATA[Especialista de Growth Marketing (Orgânico)]]></title>
+    <posterEmail><![CDATA[bruna.rivieri@imperio55.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por estruturar a geração perpétua de demanda e a conversão da base orgânica em receita, modelando funis always-on, estratégias de inbound e reativação de leads.Essa posição exige visão estratégica de funil completo e experiência comprovada em crescimento via canais orgânicos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Estruturar funis perpétuos de aquisição e conversão;</li><li>Modelar estratégia de inbound marketing integrada a CRM;</li><li>Desenvolver estratégia de reativação de base inativa;</li><li>Definir segmentação estratégica para comunicação com prospects;</li><li>Planejar estrutura de comunicação para grupos de lançamento (visão estratégica);</li><li>Integrar canais orgânicos (site, SEO, redes sociais, captação) à lógica de monetização;</li><li>Criar plano de testes e experimentação contínua de conversão.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência comprovada em growth marketing ou inbound marketing com foco em receita;</li><li>Histórico de construção de funis orgânicos estruturados;</li><li>Experiência com geração e monetização de leads em modelo B2C;</li><li>Capacidade de análise de funil completo (lead → oportunidade → venda);</li><li>Experiência conduzindo testes estruturados de crescimento;</li><li>Forte orientação a metas financeiras.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/aliancadivergente12/426/especialista-de-growth-marketing-organico]]></applyUrl>
+    <companyId><![CDATA[105531136]]></companyId>
+    <city><![CDATA[São José dos Campos]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[c83aabda-5930-41e2-824d-b6f48541ce7f]]></partnerJobId>
+    <company><![CDATA[Editora Aliança Divergente Ltda]]></company>
+    <title><![CDATA[Especialista de CRM e Automação de Marketing]]></title>
+    <posterEmail><![CDATA[bruna.rivieri@imperio55.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por estruturar e liderar a estratégia de CRM da empresa, garantindo arquitetura de jornadas, segmentação avançada da base e eficiência operacional das automações. A posição exige capacidade de construção estrutural e liderança técnica.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Construir a arquitetura completa de lifecycle (aquisição, nutrição, conversão, onboarding, retenção e reativação);</li><li>Definir modelo de segmentação baseado em comportamento e valor de cliente;</li><li>Implementar e otimizar fluxos automatizados complexos;</li><li>Estruturar governança de dados da base (tags, regras, critérios, elegibilidade);</li><li>Criar modelo de acompanhamento de métricas de CRM por etapa do funil;</li><li>Identificar gargalos estruturais de conversão e propor melhorias sistêmicas;</li><li>Participar da definição ou migração de ferramenta de CRM.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência comprovada na estruturação de CRM ou automação de marketing em empresas digitais ou B2C;</li><li>Experiência prévia liderando equipe técnica de CRM ou automação;</li><li>Capacidade de construir jornadas complexas e segmentações avançadas;</li><li>Domínio de ferramentas de automação (HubSpot, RD, Salesforce, ActiveCampaign ou similares);</li><li>Forte capacidade analítica aplicada a receita (LTV, churn, conversão por etapa, cohort analysis);</li><li>Experiência trabalhando diretamente com metas de receita.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/aliancadivergente12/425/especialista-de-crm-e-automacao-de-marketing]]></applyUrl>
+    <companyId><![CDATA[105531136]]></companyId>
+    <city><![CDATA[São José dos Campos]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[6337d89e-8ae8-4dfd-bfc1-81d2b5fd3104]]></partnerJobId>
@@ -54356,6 +54198,55 @@ na embalagem de todos os produtos conforme destinado.</li></ul><br /><br /><b>Re
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nutrilivagas/16/promotor-a-de-vendas]]></applyUrl>
     <companyId><![CDATA[89048576]]></companyId>
     <city><![CDATA[Pouso Alegre]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[2c135df9-bc6c-46b0-ba92-387805b480db]]></partnerJobId>
+    <company><![CDATA[Fazenda São Paulo]]></company>
+    <title><![CDATA[Motorista]]></title>
+    <posterEmail><![CDATA[anamenezes@fazendasaopaulo.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional responsável e comprometido para atuar como Motorista, realizando o transporte de cargas com segurança, eficiência e dentro dos prazos estabelecidos. O profissional será responsável por conduzir veículos de diferentes portes, garantindo a integridade da carga, do veículo e das pessoas envolvidas nas operações.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Conduzir caminhões de diferentes portes, incluindo veículos articulados, respeitando as normas de trânsito e segurança.
+</li>
+<li>
+Realizar verificações preventivas no veículo, como nível de óleo, condições dos pneus, sistema de freios e combustível, reportando necessidades de manutenção.
+</li>
+<li>
+Garantir o transporte seguro da carga, preservando sua integridade durante todo o trajeto.
+</li>
+<li>
+Cumprir rotas e prazos de entrega e coleta, mantendo pontualidade nas operações.
+</li>
+<li>
+Manter comunicação constante com o coordenador e encarregado, informando status do transporte, imprevistos ou ocorrências.
+</li>
+<li>
+Contribuir para a eficiência logística, utilizando o veículo de forma responsável e colaborando para a otimização do fluxo de transporte.
+</li>
+<li>
+Cumprir legislações de trânsito, normas de descanso e regulamentações de transporte de cargas.
+</li>
+<li>
+Manter relacionamento profissional com clientes, empresas parceiras e colegas, representando a empresa com ética e responsabilidade.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>CNH categoria adequada para condução de caminhões (D ou E).
+</li>
+<li>
+Experiência prévia na condução de caminhões de médio e grande porte.
+</li>
+<li>
+Conhecimento básico de manutenção preventiva de veículos.
+</li>
+<li>
+Comprometimento com segurança, pontualidade e responsabilidade no transporte.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fazendavagas/57/motorista]]></applyUrl>
+    <companyId><![CDATA[90796031]]></companyId>
+    <city><![CDATA[Oliveira]]></city>
     <state><![CDATA[MG]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -55089,6 +54980,93 @@ Inglês fluente;</li>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[2cbfae44-f5d9-4413-86e0-3ed6fe618e0b]]></partnerJobId>
+    <company><![CDATA[GIS | ENERGIA E CONSTRUÇÃO]]></company>
+    <title><![CDATA[Gerente de Projetos Onshore e Offshore (Electric Leader)]]></title>
+    <posterEmail><![CDATA[natalie.freitas@chouest.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Gerente de Projetos Onshore e Offshore para liderar projetos estratégicos no segmento de óleo e gás, energia e/ou naval, assegurando excelência na execução contratual, técnica e operacional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Liderar a execução de projetos onshore e offshore, assegurando atendimento a escopo, prazo, custo, qualidade e segurança;
+</li>
+<li>
+Planejar e organizar mobilização e desmobilização de recursos (pessoas, equipamentos e materiais), alinhado ao cronograma do projeto;
+</li>
+<li>
+Identificar riscos, controlar desvios e implementar planos de mitigação, adotando ações corretivas;
+</li>
+<li>
+Atuar como ponto focal técnico e operacional do projeto, conduzindo alinhamentos e reuniões com clientes;
+</li>
+<li>
+Interagir com clientes, órgãos reguladores e sociedades classificadoras (ABS, DNV, BV, entre outras), garantindo conformidade normativa;
+</li>
+<li>
+Garantir integração entre áreas e alinhamento entre planejamento onshore e execução offshore;
+</li>
+<li>
+Acompanhar custos, cronogramas, caminhos críticos e variações contratuais, avaliando impactos de mudanças de escopo;
+</li>
+<li>
+Reportar status dos serviços, pendências e necessidades de materiais;
+</li>
+<li>
+Assegurar conformidade técnica, documental e de qualidade dos entregáveis;
+</li>
+<li>
+Atuar como ponto focal técnico em auditorias;
+</li>
+<li>
+Garantir cumprimento dos requisitos de segurança, promovendo cultura preventiva;
+</li>
+<li>
+Liderar, desenvolver e engajar equipes multidisciplinares onshore e/ou offshore.
+</li>
+</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino Superior completo em Engenharia Elétrica;
+</li>
+<li>
+Experiência anterior na área ou função;
+</li>
+<li>
+Sólida experiência em gestão de projetos EPC/EPCI;
+</li>
+<li>
+Vivência em projetos onshore e offshore (óleo e gás, energia e/ou naval);
+</li>
+<li>
+Experiência com contratos de grande porte e ambiente multinacional;
+</li>
+<li>
+Histórico de liderança de equipes multidisciplinares;
+</li>
+<li>
+Inglês fluente;
+</li>
+<li>
+Conhecimento em gestão de contratos EPC;
+</li>
+<li>
+Experiência com ferramentas de planejamento e controle (MS Project, Primavera ou similares);
+</li>
+<li>
+Conhecimento em metodologias de gestão de riscos, custos e cronogramas;
+</li>
+<li>
+Conhecimento de normas técnicas industriais e offshore;
+</li>
+<li>
+Leitura e interpretação de documentação de engenharia.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gis/221/gerente-de-projetos-onshore-e-offshore-electric-leader]]></applyUrl>
+    <companyId><![CDATA[107511075]]></companyId>
+    <city><![CDATA[São João da Barra]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[203539c9-627d-4297-8561-02b97ac4bd59]]></partnerJobId>
@@ -55972,6 +55950,25 @@ Apoiar análises técnicas e investigações de eventos;</li><br /><br /><b>Requ
     <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Manutenção de Superfícies: Realiza a varredura e higienização de pisos, carpetes e revestimentos diversos. Limpeza de Vidros: Executa a limpeza técnica de vidraças, espelhos e vitrines. Conservação de Áreas Sociais: Mantém a limpeza constante de salas de espera, corredores e refeitórios. Cuidado com Mobiliário: Efetua a limpeza de móveis, mesas e utensílios de escritório e loja. Gestão de Resíduos: Realiza a coleta e o descarte correto de lixo e resíduos. Controle de Insumos: Providencia a reposição de materiais de higiene, como papel toalha, sabonetes e papel higiênico. Organização de Ambientes: Zela pela ordem nos armários de materiais, no estoque da loja e nas dependências administrativas.</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE ESPERAMOS DE VOCÊ?Capacidade de trabalhar de forma autônoma e responsável.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prévia em rotinas de limpeza e conservação. Perfil atento aos detalhes, proativo e organizado. Capacidade de trabalhar de forma autônoma e responsável.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/wiler/58/auxiliar-de-limpeza]]></applyUrl>
     <companyId><![CDATA[10416057]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[8dce1878-0b90-44c0-aca0-f94259c10ddb]]></partnerJobId>
+    <company><![CDATA[Wiler | Decorar & Revestir]]></company>
+    <title><![CDATA[Analista fiscal Sênior]]></title>
+    <posterEmail><![CDATA[daniele.almeida@wiler-k.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Ei, você! <br /><br />Você é um especialista na área tributária e não abre mão de processos organizados e conformidade técnica? Se você domina os desafios fiscais da <b>Importação de Produtos</b> , essa vaga é para você! Estamos em busca de um perfil <b>Sênior</b> para ser a guarda de nossa integridade fiscal e nos ajudar a otimizar toda a operação de entradas de mercadorias internacionais. <br /> Carga: Analista de Fiscal Sr Localização: Brás, São Paulo/SP<br />⏳ Tipo de contratação: CLT<br /> Horário: segunda a sexta-feira das 8h às 17h48<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />✅ Realizar a análise e apuração mensal dos seguintes impostos indiretos: ICMS, ICMS-ST, IPI, PIS, COFINS;<br /><br /><br />✅Realizar a análise e apuração correta das retenções na fonte dos devidos impostos conforme a legislação vigente: ISS, IRRF PF e PJ, CRF;<br />✅Elaborar as seguintes obrigações acessórias: DCTF, DIRF, REINF, EFD FISCAL, EFD CONTRIBUIÇÕES, GIA, GIA-ST;<br />✅Emitir guias para recolhimento dos impostos apurados;<br />✅Preparar as conciliações contábeis mensais referentes às contas de impostos a recuperar e a pagar;<br />✅Validar todas as informações tributárias no cadastro de clientes, fornecedores, materiais e serviços;<br />✅Preparar e organizar o levantamento de gastos relacionados com projetos incentivados;<br />✅Auxiliar nos trabalhos de planejamento tributário e compliance tributário, através de análises e levantamento de documentos;<br />✅Validar as melhorias e alterações no sistema ERP relacionadas à área tributária;<br />✅Acompanhar e auxiliar nos trabalhos de auditoria externa e fiscalização dos órgãos fiscais, através de análise e levantamento de documentos;<br />✅Acompanhar as mudanças na legislação tributária e prestar suporte às outras áreas em questões tributárias.<br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ?</b><br /> Graduação Plena Completa em Ciências Contábeis; <br /> Legislações Contábeis, Fiscais e Tributárias vigentes nas esferas municipais, estaduais e federais;<br /> Conhecimento em ICMS, ICMS - ST, Naturezas de Operações (CFOP), CST, PIS, COFINS, NCM;<br /> Pacote Office com Excel Avançado<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/wkholding/100/analista-fiscal-senior]]></applyUrl>
+    <companyId><![CDATA[102197146]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
@@ -59072,6 +59069,37 @@ e de alta performance.<br /><br /><b>Responsabilidades e atribuições</b><br />
     <posterEmail><![CDATA[priscila.lopes@fazcapital.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Quer fazer parte de um ambiente dinâmico e de alto impacto? Estamos buscando um Consultor Conta Global  para se juntar à nossa equipe e contribuir ativamente para o crescimento contínuo da Faz Capital.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Responsável pela prospecção ativa e atendimento consultivo de  clientes interessados em conta global. • Apresentação e esclarecimento de produtos financeiros, incluindo  conta multimoeda, remessas internacionais e cartão internacional. • Gestão de pipeline comercial por meio de CRM,  com follow-up estruturado e foco na conversão de leads. • Monitoramento e análise de indicadores comerciais, como taxa de  conversão, volume transacionado e margem cambial.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Comunicação clara e didática.</li><li>Habilidade em negociação, sempre com foco em gerar valor para o  cliente.</li><li>Perfil consultivo, vendendo a partir do entendimento real da necessidade do cliente.</li><li>Organização e disciplina para gerenciar rotina e prioridades.</li><li>Capacidade de construir relacionamentos de longo prazo.</li><li>Adaptabilidade e aprendizado rápido em ambientes dinâmicos,  como fintechs.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fazcarreiras/33/consultor-conta-global]]></applyUrl>
+    <companyId><![CDATA[16193118]]></companyId>
+    <city><![CDATA[Porto Alegre]]></city>
+    <state><![CDATA[RS]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[805458b9-7f8b-499f-8a1e-34688a14a220]]></partnerJobId>
+    <company><![CDATA[Faz Capital]]></company>
+    <title><![CDATA[Secretário(a) Executivo(a)]]></title>
+    <posterEmail><![CDATA[priscila.lopes@fazcapital.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Quer fazer parte de um ambiente dinâmico e de alto impacto? Estamos buscando um Secretário(a) Executivo(a) para se juntar à nossa equipe e contribuir ativamente para o crescimento contínuo da Faz Capital.<br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Responsável pela gestão de agendas executivas, organizando compromissos, reuniões e eventos com precisão.<br />
+• Responsável pela coordenação de viagens nacionais e internacionais.<br />
+• Preparação de reuniões, garantindo toda a infraestrutura necessária.<br />
+• Registro de atas com precisão e suporte administrativo de alto nível.<br />
+• Elaboração e revisão de documentos, apresentações e relatórios.<br />
+• Organização e manutenção de arquivos físicos e digitais.<br />
+• Gerenciamento do fluxo de comunicações (e-mails, ligações, mensagens).<br />
+• Garantia de total confidencialidade das informações.<br /><br /><b>Requisitos e qualificações</b><br /><br />• Experiência sólida e comprovada em Secretariado Executivo, assessoria de diretoria ou suporte administrativo de alto nível.<br />
+• Domínio avançado do Pacote Office e de ferramentas de colaboração, como Microsoft Teams.<br />
+• Experiência no planejamento e coordenação de viagens.<br />
+• Excelente comunicação verbal e escrita em português.<br />
+• Alto nível de organização, proatividade, discrição e atenção aos detalhes.<br />
+• Senso de urgência e capacidade de trabalhar com múltiplas demandas.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fazcarreiras/30/secretario-a-executivo-a]]></applyUrl>
     <companyId><![CDATA[16193118]]></companyId>
     <city><![CDATA[Porto Alegre]]></city>
     <state><![CDATA[RS]]></state>
@@ -64142,107 +64170,6 @@ equipes internas e externas.</li></ul><br /><br /><b>Responsabilidades e atribui
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[fd311164-13ba-4d33-a614-9732fa878e27]]></partnerJobId>
-    <company><![CDATA[SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL]]></company>
-    <title><![CDATA[INSTRUTOR EDUCACIONAL TÉCNICO (ALIMENTOS) - SENAI STÊNIO LOPES]]></title>
-    <posterEmail><![CDATA[rodrigopedrosa@fiepb.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li><i>Ministrar aulas técnicas em cursos profissionalizantes,
-conforme sua capacitação e grade do CET/SENAI; Responder pela organização dos
-recursos a serem utilizado no aprendizado; Manter o local/ambiente de aula
-conforme as condições de utilização; Realizar atividades de orientação conforme
-especificações da Coordenação Técnica Pedagógica.</i></li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><i>Planejar e
-desenvolver situações de ensino e aprendizagem voltadas para a qualificação
-profissional de jovens e adultos orientando-os nas técnicas específicas da área
-em questão;</i></li><li><i>Avaliar o
-processo de ensino-aprendizagem;</i></li><li><i>Definir
-metodologias e técnicas de ensino;</i></li><li><i>Elaborar e
-propor cronograma de atividades pedagógicas;</i></li><li><i>Elaborar
-material pedagógico;</i></li><li><i>Sistematizar
-estudos, informações e experiências sobre a área ensinada;</i></li><li><i>Garantir
-segurança, higiene e proteção ambiental nas situações de ensino-aprendizagem;</i></li><li><i>Fazer registros
-de documentação escolar, de oficinas e de laboratórios;</i></li><li><i>Planejar metas
-e estratégias de ações educacionais;</i></li><li><i>Realizar as
-demais atividades correlatas ao cargo/função.</i></li></ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação de Nível Médio Completo com habilitação técnica em confeitaria ou panificação;</li><li><strong>Experiência mínima de 6 (seis) meses na área de formação; </strong></li><li><i><strong>Cadastro curricular completo e atualizado na plataforma (<u>Informar nome completo</u>).</strong></i></li></ul><br /><br /><ul><li>Carga horária: 40 horas semanais</li><li>Remuneração: R$ 3.634,67</li></ul><br /><br /><b>Período de Inscrições:</b> 23/02/2026 a 26/02/2026 <br /><b>Inscrições Prorrogadas:</b> 26/02/2026 a 03/03/2026 <br /><br /><br /><b>Observações:</b><br />O não preenchimento das informações obrigatórias no momento da inscrição poderá acarretar a desclassificação do candidato. Inscrições realizadas fora do período informado não serão consideradas válidas.<br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/senaipboportunidades/9/instrutor-educacional-tecnico-alimentos-senai-stenio-lopes]]></applyUrl>
-    <companyId><![CDATA[80346365]]></companyId>
-    <city><![CDATA[Campina Grande]]></city>
-    <state><![CDATA[PB]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[3634.67]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[3634.67]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[01db4f68-e108-40ef-a78c-82893b944b34]]></partnerJobId>
-    <company><![CDATA[SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL]]></company>
-    <title><![CDATA[INSTRUTOR EDUCACIONAL SUPERIOR (METALMECÂNICA) SENAI CEP ORC]]></title>
-    <posterEmail><![CDATA[veronicagarcia@fiepb.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Ministrar aula nos cursos que compõem a grade do CET/SENAI, conforme sua capacitação/formação; Planejar as aulas e desenvolver metodologias de aprendizado; Manter o local/ambiente de aula conforme as condições de utilização; Realizar atividades de orientação técnica conforme especificações da Coordenação Técnica Pedagógica; Atuar pontualmente como Consultor em determinadas situações como forma de disponibilizar e viabilizar soluções através dos serviços do SENAI.</li></ul><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar e desenvolver
-situações de ensino voltadas para a qualificação profissional específicas da
-área em questão;</li><li>Avaliar o processo de
-ensino-aprendizagem;</li><li>Definir metodologias e
-técnicas de ensino;</li><li>Elaborar e propor
-cronograma de atividades pedagógicas;</li><li>Elaborar material
-pedagógico;</li><li>Sistematizar estudos,
-informações e experiências sobre a área ensinada;</li><li>Atuar como Consultor em
-situações pontuais para viabilizar ou disponibilizar soluções técnicas dos
-Centros Técnicos, Tecnológico e Educacionais do SENAI; Garantir segurança,
-higiene e proteção ambiental nas situações de ensino-aprendizagem;</li><li>Fazer registros de
-documentação escolar, de oficinas e de laboratórios;</li><li>Ministrar provas e
-sistemas de avaliação dos alunos;</li><li>Planejar metas e estratégias
-de ações educacionais;</li><li>Realizar as demais atividades correlatas ao cargo/função.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação de Nível Superior Completo em Engenharia Mecânica/áreas correlatas ou Superior completo com curso Técnico em Mecânica/áreas correlatas;</li><li>Conhecimentos na área de Processos de Usinagem e ferramentaria, manutenção mecânica e eletromecânica, Soldagem, Sistemas hidráulicos e pneumáticos, automação e integração de processos, controle de qualidade e normas técnicas, e áreas afins.</li><li>Experiência mínima de 06 meses na área. </li></ul><br /><ul><li><i><strong>Cadastro curricular completo e atualizado na plataforma (<u>Informar nome completo</u>).</strong></i></li></ul><br /><br /><ul><li>Carga horária: 40horas semanais</li><li>Remuneração: R$ 4.140,44</li></ul><br /><br /><b>Período de Inscrições:</b> 26/02/2026 a 02/03/2026 <br /><b>Inscrições Prorrogada: </b>03/03/2026 a 10/03/2026<br /><br /><br /><b>Observações:</b><br />O não preenchimento das informações obrigatórias no momento da inscrição poderá acarretar a desclassificação do candidato. Inscrições realizadas fora do período informado não serão consideradas válidas.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/senaipboportunidades/17/instrutor-educacional-superior-metalmecanica-senai-cep-orc]]></applyUrl>
-    <companyId><![CDATA[80346365]]></companyId>
-    <city><![CDATA[João Pessoa]]></city>
-    <state><![CDATA[PB]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[4140.44]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[4140.44]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[13bbc648-1a30-41a1-9748-f6a8292c0896]]></partnerJobId>
     <company><![CDATA[SERVIÇO SOCIAL DA INDÚSTRIA]]></company>
     <title><![CDATA[APRENDIZ (DETERMINADO) - SESI CAMPINA GRANDE]]></title>
@@ -64944,54 +64871,6 @@ segurança do trabalho da empresa, utilizando os EPI’s (equipamentos de prote�
 individual) e EPC’s (equipamentos de proteção coletiva) necessários para a
 função, zelando pela sua integridade física e de todos os colaboradores.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Fundamental Completo;Mínimo de 6 meses]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasredereis/58/auxiliar-de-supermercado]]></applyUrl>
-    <companyId><![CDATA[64786094]]></companyId>
-    <city><![CDATA[Itumbiara]]></city>
-    <state><![CDATA[GO]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1e76b319-c96c-4c5f-aaae-e47ad82c7da3]]></partnerJobId>
-    <company><![CDATA[Rede Reis de Supermercados]]></company>
-    <title><![CDATA[ASSISTENTE DE COMPRAS]]></title>
-    <posterEmail><![CDATA[gerenterh@supreis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Presta suporte na aquisição de produtos e materiais para
-revenda, auxiliando na manutenção da variedade e qualidade do mix de produtos
-das lojas. O profissional atua no apoio às negociações com fornecedores,
-realiza o acompanhamento de estoques e monitora prazos de entrega, visando
-garantir o cumprimento das estratégias comerciais e o melhor custo-benefício
-para a empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Adquirir
-     mercadorias para revenda nas lojas, com base nas necessidades e demandas
-     das lojas.</li>
- <li>Garantir
-     que as compras atendam aos critérios de qualidade e quantidade, ajustando
-     as compras conforme a demanda sazonal ou campanhas promocionais.</li>
- <li>Estabelecer
-     negociações com fornecedores para garantir melhores preços, prazos de
-     pagamento, condições comerciais e descontos, buscando sempre as melhores
-     condições para a empresa.</li>
- <li>Manter
-     relacionamento contínuo com fornecedores, monitorando o desempenho e
-     garantindo o cumprimento dos acordos estabelecidos, como prazos e
-     qualidade dos produtos.</li>
- <li>Monitorar
-     os níveis de estoque e fazer a reposição de produtos de acordo com a
-     demanda e a rotatividade dos itens, evitando excessos e rupturas de
-     estoque.</li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Ensino médio completo;</li>
- <li>Conhecimentos em gestão de fornecedores, compras  e contratos;</li>
- <li>Domínio do pacote office (Word, Excel e etc.);</li>
- <li>Facilidade em comunicação e negociação.</li>
-</ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasredereis/57/assistente-de-compras]]></applyUrl>
     <companyId><![CDATA[64786094]]></companyId>
     <city><![CDATA[Itumbiara]]></city>
     <state><![CDATA[GO]]></state>
@@ -72016,29 +71895,6 @@ de qualidade e segurança estabelecidos pela empresa.<br /><br /><b>Responsabili
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[1f3690f4-d3bf-4285-bddb-909508a80380]]></partnerJobId>
-    <company><![CDATA[Monvizo Ar Condicionado]]></company>
-    <title><![CDATA[Auxiliar de Pós-vendas]]></title>
-    <posterEmail><![CDATA[rh.monvizo@gmail.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Garantir a excelência
-no atendimento ao cliente após a conclusão da venda, assegurando o
-acompanhamento eficiente dos pedidos, a resolução ágil de ocorrências e o
-fortalecimento do relacionamento, contribuindo para a fidelização e a reputação
-da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />·      - Realizar atendimento ao cliente no pós-venda, oferecendo suporte completo e esclarecimento de dúvidas.- Gerenciar e acompanhar reclamações, garantindo tratativas rápidas e eficazes.<br />- Conduzir processos de trocas, cancelamentos e tratativas de avarias.<br />- Monitorar pedidos e acompanhar fluxos logísticos até a entrega final.<br />- Manter interface constante com a área comercial e logística para alinhamento de informações.<br />- Registrar atendimentos, interações e ocorrências em sistema CRM.<br />- Atualizar status de pedidos e posicionar clientes sobre prazos e resoluções.<br />- Atuar de forma estratégica na fidelização e na manutenção do relacionamento com o cliente.<br />- Zelar pela experiência positiva do cliente e pela imagem da empresa.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Domínio de ferramentas: Pacote Office e sistemas CRM.<br />- vivência na área de logística.<br />- Boa comunicação escrita e verbal.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdemonvizoarcondicionadoclimatizacaoevendas/9/auxiliar-de-pos-vendas]]></applyUrl>
-    <companyId><![CDATA[11750439]]></companyId>
-    <city><![CDATA[Maringá]]></city>
-    <state><![CDATA[PR]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[08f51a92-cbdd-457c-ac90-d5c45bc82373]]></partnerJobId>
     <company><![CDATA[Monvizo Ar Condicionado]]></company>
     <title><![CDATA[Auxiliar de Frota]]></title>
@@ -73925,44 +73781,56 @@ comprovantes de todos os pagamentos na rede.<br /><br /><b>Requisitos e qualific
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[61280c04-8ea6-4dc7-afa3-8f01d71ea450]]></partnerJobId>
+    <partnerJobId><![CDATA[7ee180d6-fcc8-465b-be16-45ecb4fc077c]]></partnerJobId>
     <company><![CDATA[BR SAMOR LOGISTICA EXPRESS LTDA]]></company>
-    <title><![CDATA[AJUDANTE DE MOTORISTA - FILIAL SC]]></title>
+    <title><![CDATA[MOTORISTA VEICULO PESADO D - CONTAGEM MG]]></title>
     <posterEmail><![CDATA[geisiane.santos@brsamor.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas proativas e comprometidas para se juntar à nossa equipe como ajudante de motorista. Esta é uma oportunidade única para aqueles que desejam crescer em um ambiente dinâmico e colaborativo, onde o trabalho em equipe é fundamental. Se você está em busca de um desafio que promova o desenvolvimento de habilidades e o aprendizado contínuo, queremos conhecer você! Oferecemos um ambiente de trabalho acolhedor, onde cada membro é valorizado e tem a chance de contribuir ativamente para o sucesso da equipe. Aqui, a sua dedicação fará a diferença e poderá abrir portas para novas possibilidades na sua trajetória profissional. Venha fazer parte do nosso time e ajude a transformar cada jornada em uma experiência positiva.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar o motorista na carga e descarga de mercadorias, garantindo a organização e segurança dos produtos.<br /> - Acompanhar o motorista durante as entregas, assegurando que todas as paradas sejam realizadas conforme o itinerário estabelecido.<br /> - Realizar a conferência das notas fiscais e documentos de entrega, garantindo a precisão das informações.<br /> - Auxiliar na manutenção do cronograma de entregas, informando sobre possíveis atrasos ou imprevistos.<br /> - Atuar em conformidade com as normas de segurança e regulamentações do trânsito, assegurando a segurança própria e das mercadorias transportadas.<br /> - Fornecer suporte nas atividades administrativas relacionadas à logística, como registros de entregas e recebimentos.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li><strong>Ensino fundamental completo</strong> 
-</li>
-<li>
-<strong>Idade mínima de 18 anos</strong>.
-</li>
-<li>
-<strong>Disponibilidade para viagens</strong> e para atuar em horários flexíveis.
-</li>
-<li>
-<strong>Boa condição física</strong>, pois o trabalho exige esforço (carga e descarga de mercadorias).
-</li>
-<li>
-<strong>Experiência prévia como ajudante de motorista ou em funções operacionais/logísticas</strong> é desejável.
-</li>
-<li>
-<strong>Conhecimento básico de rotas e endereços</strong> da região de atuação.
-</li>
-<li>
-<strong>Noções básicas de segurança no trabalho</strong> (uso de EPIs e boas práticas de movimentação de carga).</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasbrsamor/4/ajudante-de-motorista-filial-sc]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de novos desafios e oportunidades para expandir sua carreira? Estamos à procura de profissionais motivados e dedicados que queiram fazer parte de uma equipe dinâmica e em crescimento. Oferecemos um ambiente de trabalho colaborativo, onde você poderá trazer suas habilidades e contribuir para o nosso sucesso. Valorizamos a segurança, a pontualidade e o comprometimento, e acreditamos que cada membro da equipe desempenha um papel fundamental na construção de uma trajetória de excelência. Se você está pronto para dar o próximo passo em sua vida profissional, venha se juntar a nós e faça a diferença. Venha compartilhar sua experiência e crescer conosco! Não perca a chance de se candidatar e mostrar todo o seu potencial. Estamos ansiosos para conhecê-lo(a)!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Conduzir veículos pesados de acordo com as normas de trânsito e segurança.<br /> - Realizar a inspeção diária do veículo, verificando condições de operação e conservação.<br /> - Transportar cargas conforme roteiro estabelecido, garantindo a entrega no prazo e em segurança.<br /> - Controlar a documentação relacionada ao transporte, como notas fiscais e recibos.<br /> - Manter a limpeza e organização do veículo durante e após as viagens.<br /> - Preencher relatórios de viagem e informar sobre qualquer irregularidade durante o trajeto.<br /> - Colaborar com a equipe de logística para otimizar rotas e procedimentos de transporte.<br /> - Realizar comunicando à supervisão sobre problemas mecânicos.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Possuir Carteira Nacional de Habilitação (CNH) na categoria D.<br /> - Experiência comprovada na condução de veículos pesados.<br /> - Conhecimento em mecânica básica de veículos.<br /> - Habilidades em direção defensiva.<br /> - Disponibilidade para viagens e flexibilidade de horários.<br /> - Boa comunicação e trabalho em equipe.<br /> - Conhecimento das leis de trânsito e regulamentações.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasbrsamor/25/motorista-veiculo-pesado-d-contagem-mg]]></applyUrl>
+    <companyId><![CDATA[67970146]]></companyId>
+    <city><![CDATA[Contagem]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[96de9b03-6d95-45c5-b2fc-073f234d545a]]></partnerJobId>
+    <company><![CDATA[BR SAMOR LOGISTICA EXPRESS LTDA]]></company>
+    <title><![CDATA[AJUDANTE DE MOTORISTA - CONTAGEM MG]]></title>
+    <posterEmail><![CDATA[geisiane.santos@brsamor.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade que possa impulsionar sua carreira e proporcionar um ambiente de trabalho dinâmico e colaborativo? Temos uma excelente chance que pode ser ideal para você! Estamos procurando pessoas dedicadas e proativas para se juntar à nossa equipe. Aqui, você terá a oportunidade de aprender e crescer em um contexto onde a contribuição de cada membro é valorizada. Oferecemos um ambiente acolhedor, onde o trabalho em equipe é fundamental, e as suas ideias podem fazer a diferença. Se você deseja fazer parte de um time que acredita no potencial de cada colaborador e está disposto(a) a enfrentar novos desafios, não perca tempo! Venha conhecer mais sobre nós e descubra como você pode se juntar à nossa jornada. Sua próxima grande oportunidade pode estar a um passo de distância!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar  na carga e descarga de Caminhões<br /> - Verificar a documentação necessária para o transporte das mercadorias.<br /> - Acompanhar o percurso e garantir a entrega dentro dos prazos estabelecidos.<br /> - Comunicar-se com o motorista sobre qualquer eventualidade durante a entrega.<br /> - Executar tarefas administrativas simples, como preenchimento de formulários de entrega.<br />- Organizar produtos no veículo ou no local de armazenamento.<br />- Garantir que a carga esteja bem distribuída e segura<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental completo.<br /> - Experiência anterior em funções similares.<br /> - Habilidade para trabalhar em equipe.<br /> - Boa comunicação.<br /> - Disponibilidade para viagens e horários flexíveis.<br /> - Habilidade para manusear cargas.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasbrsamor/24/ajudante-de-motorista-contagem-mg]]></applyUrl>
+    <companyId><![CDATA[67970146]]></companyId>
+    <city><![CDATA[Contagem]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b07c934c-d5c9-4a57-8dbe-6a9ef9726950]]></partnerJobId>
+    <company><![CDATA[BR SAMOR LOGISTICA EXPRESS LTDA]]></company>
+    <title><![CDATA[AJUDANTE DE MOTORISTA - PORTO BELO]]></title>
+    <posterEmail><![CDATA[geisiane.santos@brsamor.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto(a) para dar o próximo passo na sua carreira e fazer parte de uma equipe dinâmica e engajada? Temos uma oportunidade incrível para você! Estamos em busca de pessoas motivadas e com espírito de colaboração que desejam se desenvolver em um ambiente de trabalho repleto de desafios e aprendizado. Ao integrar nosso time, você terá a chance de contribuir para a realização de serviços essenciais, enquanto aprimora suas habilidades e cresce profissionalmente. Valorizamos a diversidade e acreditamos que cada indivíduo traz uma experiência única. Se você está em busca de um lugar onde poderá se sentir parte importante do processo e fazer a diferença, venha conversar conosco! Sua jornada começa aqui, e estamos ansiosos para conhecer você e discutir como podemos construir um futuro brilhante juntos. Não perca a chance de transformar sua trajetória profissional!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar o motorista nas atividades de carga e descarga de mercadorias.<br /> - Conferir os produtos a serem entregues, garantindo acuracidade na entrega.<br /> - Acompanhar o motorista durante o trajeto, ajudando na navegação quando necessário.<br /> - Controlar documentos de entrega e recebimento, assegurando que estejam devidamente preenchidos.<br /> - Auxiliar na organização do estoque e disposição dos produtos a serem transportados.<br /> - Colaborar com a equipe para garantir a eficiência das operações de transporte.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental completo.<br /> - Habilidade para seguir instruções e trabalhar em equipe.<br /> - Boa comunicação verbal.<br /> - Conduta adequada e respeitosa no atendimento a colegas e clientes.<br /> - Disponibilidade para viagens e horários flexíveis.<br /> - Conhecimento básico em localização geográfica.<br /> - Capacidade de carga e descarga de materiais.<br /> <br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasbrsamor/23/ajudante-de-motorista-porto-belo]]></applyUrl>
     <companyId><![CDATA[67970146]]></companyId>
     <city><![CDATA[Porto Belo]]></city>
     <state><![CDATA[SC]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
-        <highEnd>
-          <amount><![CDATA[2000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1800.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
