@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 12 Mar 2026 23:14:19 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 00:17:03 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3181]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3183]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[79bbfbb9-e95d-48e4-aaef-8331fcc2f698]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -834,6 +834,25 @@
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[83426333-8fb1-482c-b004-26f54e419b9f]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Especialista Sênior em Dados]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Liderar tecnicamente o time de Dados e IA, posicionando-se como um generalista técnico com visão sistêmica, capaz de transitar entre as áreas de dados, inteligência artificial e software sem barreiras. A missão central é exercer total autonomia para arquitetar soluções complexas do zero em projetos de alta escala ou missão crítica, mantendo sempre o foco na qualidade, resiliência, custo-eficiência e na excelência da experiência do usuário final.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Arquitetar e desenvolver soluções tecnológicas complexas iniciando do zero;</li><li>Atuar em projetos de alta escala e de missão crítica, garantindo a estabilidade operacional;</li><li>Liderar tecnicamente e mentorar profissionais de níveis júnior, pleno e sênior;</li><li>Garantir a qualidade, resiliência e a relação custo-benefício (custo-eficiência) das soluções entregue;</li><li>Promover a integração fluida entre as frentes de Engenharia de Dados, IA/ML e Engenharia de Software.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Processamento distribuído (Apache Spark);</li><li>Infraestrutura como Código (Terraform);</li><li>Orquestração de workflows (Apache Airflow);</li><li>Monitoramento avançado: Data Quality (Great Expectations, Soda, dbt tests), observability de pipelines (Prometheus, Grafana, ELK, OpenTelemetry), ML monitoring (drift, performance, Evidently AI) Governança de dados (Apache Ranger) Data lake/lakehouse moderno (Iceberg, PyIceberg);</li><li>Ferramentas de visualização e exploração (Metabase, Power BI) Experiência com modelos supervisionados, não-supervisionados, clustering, recomendação, forecasting;</li><li>Domínio de avaliação de modelos (métricas offline/online, precision-recall, ROC, calibration, business metrics), test A/B/n, canary, shadow deployment;</li><li>Criação e produção de IAs conversacionais (assistentes, chatbots, copilots);  </li><li>Arquitetura e implementação de sistemas RAG avançados (retrieval, reranking, chunking inteligente, hybrid search, query transformation) com Vector DBs;</li><li>Criação de Agent as a Service, orquestração de agentes, tool calling, reasoning loops;</li><li>Experiência com Model Context Protocol (MCP): implementação de MCP Clients e  MCP Servers, integração de ferramentas externas e dados proprietários em agentes;</li><li>MLOps: versionamento (MLflow, DVC), feature store, serving (Sagemaker, KServe, BentoML, vLLM), monitoring de modelos em produção</li><li>Conhecimento prático de LLMs (prompt engineering avançado, evaluation frameworks);</li><li>Familiaridade com ética em IA, bias mitigation, explainability (SHAP, LIME);</li><li>Python avançado (typing, async/await, decorators, generators, context managers, metaprogramming);</li><li>Desenvolvimento de APIs REST/GraphQL escaláveis;</li><li>(FastAPI, Django REST Framework);</li><li>Design de sistemas CRUD, microsserviços, event-driven architecture;</li><li>Testes automatizados (pytest, unittest, TDD/BDD, property-based testing, mocking);</li><li>CI/CD moderno (GitHub Actions, GitLab CI, Jenkins);</li><li>Contêineres e orquestração (Docker, Kubernetes, ECS);</li><li>Clean Code, design patterns, SOLID, DDD quando aplicável;</li><li>Segurança de aplicações (OWASP Top 10, secrets management, JWT/OAuth, rate limiting);</li><li>Performance e observabilidade (profiling, tracing distribuído, logging estruturado).</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8898/tech-especialista-senior-em-dados]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[606f2c5b-ff57-4f95-bf83-fab54ce3cf6f]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Customer Success] Analista de Customer Sucess Júnior]]></title>
@@ -1558,6 +1577,25 @@ e Projetos, Serviços, Financial Services e Hospitality)</i></b>; </li><li>Viv�
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Luís]]></city>
     <state><![CDATA[MA]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[84c6a3fc-8978-4c21-a294-90753ffdfdfd]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Analista de Negócios Pleno - Especificador(a)/Proxy PO]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado(a) por tecnologia e inovação, temos uma oportunidade incrível esperando por você! Estamos em busca de profissionais com conhecimento nas rotinas do ERP TOTVS (RM, Educacional, Backoffice ou RH) para se juntar ao time de Professional Services/CES RM.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar levantamentos de requisitos, propondo soluções, avaliando alternativas e realizando capacitações;</li><li>Estabelecer relacionamento com clientes, mantendo contato constante, efetuando o levantamento de eventuais necessidades e posicionando-se frente aos possíveis acionamentos;</li><li>Apoiar Product Owners na tomada de decisão, colaborando com insumos de negócio;</li><li>Detalhar requisitos de média complexidade por meio do contato com clientes e áreas envolvidas no projeto/atendimento, sugerindo a implementação no produto;</li><li>Realizar análise de impacto das alterações solicitadas nas outras áreas de negócio, através de simulações nos sistemas e contato com Product Owners, para assim garantir a estabilidade do sistema;</li><li>Trabalhar em conjunto com o time de desenvolvimento para encontrar soluções de negócio por meio de comunicação e troca de experiências, compartilhando conhecimento e mantendo o relacionamento com outras áreas;</li><li>Apoiar Product Owner na validação das entregas realizadas pelo DEV Team, garantindo que todas as definições e os critérios de aceite sejam atendidos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Conhecimentos em:<br /><ul><li>Lean Thinking;</li><li>Técnicas de negociação;</li><li>Gestão de Projetos;</li><li>Técnicas de concepção de produtos;</li><li>Engenharia e análise de valor;</li><li>Métodos ágeis de desenvolvimento de software (nível básico).</li><li>Superior completo em Tecnologia ou áreas afins.<br /></li><li>Residir em Belo Horizonte (vaga híbrida - presencial 2x na semana).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9102/tech-analista-de-negocios-pleno-especificador-a-proxy-po]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[MG]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -2426,7 +2464,7 @@ Garantir o alinhamento entre as demandas funcionais e as configurações técnic
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Vendas] Gerente de Contas Pleno - Hunter -Saúde]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional para garantir o cumprimento das metas através da comercialização de produtos e serviços TOTVS com um processo que permita buscar um suspect, compreender suas necessidades, apresentar produtos e serviços, gerar oportunidades, propor, adequar, vender e entregar soluções, sempre mantendo um contínuo relacionamento técnico e empresarial.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerir sua carteira de clientes e construir um relacionamento visando rentabilizar, blindar e elevar o nível de satisfação da base TOTVS em relação às responsabilidades do AR nos indicadores de NPS (Farmer); </li><li> Prospectar novos negócios na base instalada e/ou em novos clientes, visando ampliar Market Share TOTVS (Hunter); </li><li>Planejar e executar o plano tático alinhado ao planejamento estratégico da DRG e resultados de vendas no segmento/região de atuação;</li><li>Ser especialista e liderar o assunto no seu negócio, sendo capaz de estabelecer discursos e formas de atuação altamente adequadas ao perfil de cada cliente/prospect/segmento; </li><li>Assegurar o cumprimento das metas individuais e metas de venda do time do Comercial em que estiver atuando, de acordo com a estratégia da TOTVS; </li><li>Visitar e assistir a base instalada e os novos clientes, garantindo sempre a excelência do atendimento TOTVS e buscando recorrentemente novos negócios; </li><li>Atender e se relacionar com o mercado e com a base instalada, através de visitas, reuniões, contatos telefônicos e e-mails; </li><li>Planejar, executar e liderar o processo de vendas de um produto ou serviço TOTVS ao mercado; </li><li>Levantar e analisar as informações do negócio, compilar e montar um plano de trabalho apoiado pela metodologia de vendas TOTVS;</li><li>Registrar no CRM e comunicar a área de Estratégia Comercial/Operações e Segmentos, informações relevantes sobre mercado/carteira;</li><li>Atuar como facilitador para a solução das demandas dos clientes e prospects; </li><li>Realizar a interface com as áreas internas da TOTVS; </li><li>Entregar e acompanhar a entrega dos produtos e/ou serviços TOTVS, garantindo que os acordos sejam cumpridos e os objetivos atendidos; </li><li>Realizar pós-venda com o objetivo de garantir o atendimento e gerar novas oportunidades (Cross Sell e Up Sell); </li><li>Mentorar profissionais do AR com o objetivo de compartilhar conhecimento e colaborar para o desenvolvimento da equipe; </li><li>Ser referência técnica e comercial no seu segmento de atuação; </li><li>Exercer liderança informal na equipe, apoiando diretamente a gestão formal da empresa; </li><li>Atuar como multiplicador de conhecimento e auxiliar no desenvolvimento de executivos com alto nível de performance, atuando como buddy para novos TOTVERs; </li><li>Atuar de forma consultiva em abordagens comerciais por meio de soluções segmentadas conforme área de atuação, potencializando a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo, preferencialmente no segmento de atuação</li><li>Vivência com vendas B2B de software de tecnologia e ERP; </li><li>Perfil Hunter, de prospecção de novos negócios; </li><li>Familiaridade com segmento de saúde.</li><li>Atuar em Porto Alegre/RS</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <strong>um Executivo de Soluções e Negócios</strong> para atuar na comercialização de produtos e serviços TOTVS, garantindo o cumprimento das metas comerciais por meio de uma atuação consultiva e estratégica junto aos clientes. Perfil Hunter, responsável pela prospecção ativa e desenvolvimento de novos negócios no segmento de Saúde,<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li> Prospectar novos negócios e novos clientes, visando ampliar Market Share TOTVS (Hunter); </li><li>Planejar e executar o plano tático alinhado ao planejamento estratégico da DRG e resultados de vendas no segmento/região de atuação;</li><li>Ser especialista e liderar o assunto no seu negócio, sendo capaz de estabelecer discursos e formas de atuação altamente adequadas ao perfil de cada cliente/prospect/segmento; </li><li>Assegurar o cumprimento das metas individuais e metas de venda do time do Comercial em que estiver atuando, de acordo com a estratégia da TOTVS; </li><li>Visitar e assistir a base instalada e os novos clientes, garantindo sempre a excelência do atendimento TOTVS e buscando recorrentemente novos negócios; </li><li>Atender e se relacionar com o mercado e com a base instalada, através de visitas, reuniões, contatos telefônicos e e-mails; </li><li>Planejar, executar e liderar o processo de vendas de um produto ou serviço TOTVS ao mercado; </li><li>Levantar e analisar as informações do negócio, compilar e montar um plano de trabalho apoiado pela metodologia de vendas TOTVS;</li><li>Registrar no CRM e comunicar a área de Estratégia Comercial/Operações e Segmentos, informações relevantes sobre mercado/carteira;</li><li>Atuar como facilitador para a solução das demandas dos clientes e prospects; </li><li>Realizar a interface com as áreas internas da TOTVS; </li><li>Entregar e acompanhar a entrega dos produtos e/ou serviços TOTVS, garantindo que os acordos sejam cumpridos e os objetivos atendidos; </li><li>Realizar pós-venda com o objetivo de garantir o atendimento e gerar novas oportunidades (Cross Sell e Up Sell); </li><li>Mentorar profissionais do AR com o objetivo de compartilhar conhecimento e colaborar para o desenvolvimento da equipe; </li><li>Ser referência técnica e comercial no seu segmento de atuação; </li><li>Exercer liderança informal na equipe, apoiando diretamente a gestão formal da empresa; </li><li>Atuar como multiplicador de conhecimento e auxiliar no desenvolvimento de executivos com alto nível de performance, atuando como buddy para novos TOTVERs; </li><li>Atuar de forma consultiva em abordagens comerciais por meio de soluções segmentadas conforme área de atuação, potencializando a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo, preferencialmente no segmento de atuação</li><li>Vivência com vendas B2B de software de tecnologia e ERP; </li><li>Perfil Hunter, de prospecção de novos negócios; </li><li>Familiaridade com segmento de saúde.</li><li>Atuar em Porto Alegre/RS</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9030/vendas-gerente-de-contas-pleno-hunter-saude]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Porto Alegre]]></city>
@@ -3319,9 +3357,9 @@ implementado no produto de software<br /><br /><br /><b>Requisitos e qualificaç
   <job>
     <partnerJobId><![CDATA[ba6b5c99-defb-4468-8ffd-38085169ae71]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Gerente de Contas Pleno - Hunter- Saúde]]></title>
+    <title><![CDATA[[Vendas] Gerente de Contas Pleno - Hunter |Saúde]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional para garantir o cumprimento das metas através da comercialização de produtos e serviços TOTVS com um processo que permita buscar um suspect, compreender suas necessidades, apresentar produtos e serviços, gerar oportunidades, propor, adequar, vender e entregar soluções, sempre mantendo um contínuo relacionamento técnico e empresarial.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerir sua carteira de clientes e construir um relacionamento visando rentabilizar, blindar e elevar o nível de satisfação da base TOTVS em relação às responsabilidades do AR nos indicadores de NPS (Farmer); </li><li> Prospectar novos negócios na base instalada e/ou em novos clientes, visando ampliar Market Share TOTVS (Hunter); </li><li>Planejar e executar o plano tático alinhado ao planejamento estratégico da DRG e resultados de vendas no segmento/região de atuação;</li><li>Ser especialista e liderar o assunto no seu negócio, sendo capaz de estabelecer discursos e formas de atuação altamente adequadas ao perfil de cada cliente/prospect/segmento; </li><li>Assegurar o cumprimento das metas individuais e metas de venda do time do Comercial em que estiver atuando, de acordo com a estratégia da TOTVS; </li><li>Visitar e assistir a base instalada e os novos clientes, garantindo sempre a excelência do atendimento TOTVS e buscando recorrentemente novos negócios; </li><li>Atender e se relacionar com o mercado e com a base instalada, através de visitas, reuniões, contatos telefônicos e e-mails; </li><li>Planejar, executar e liderar o processo de vendas de um produto ou serviço TOTVS ao mercado; </li><li>Levantar e analisar as informações do negócio, compilar e montar um plano de trabalho apoiado pela metodologia de vendas TOTVS;</li><li>Registrar no CRM e comunicar a área de Estratégia Comercial/Operações e Segmentos, informações relevantes sobre mercado/carteira;</li><li>Atuar como facilitador para a solução das demandas dos clientes e prospects; </li><li>Realizar a interface com as áreas internas da TOTVS; </li><li>Entregar e acompanhar a entrega dos produtos e/ou serviços TOTVS, garantindo que os acordos sejam cumpridos e os objetivos atendidos; </li><li>Realizar pós-venda com o objetivo de garantir o atendimento e gerar novas oportunidades (Cross Sell e Up Sell); </li><li>Mentorar profissionais do AR com o objetivo de compartilhar conhecimento e colaborar para o desenvolvimento da equipe; </li><li>Ser referência técnica e comercial no seu segmento de atuação; </li><li>Exercer liderança informal na equipe, apoiando diretamente a gestão formal da empresa; </li><li>Atuar como multiplicador de conhecimento e auxiliar no desenvolvimento de executivos com alto nível de performance, atuando como buddy para novos TOTVERs; </li><li>Atuar de forma consultiva em abordagens comerciais por meio de soluções segmentadas conforme área de atuação, potencializando a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo, preferencialmente no segmento de atuação</li><li>Vivência com vendas B2B de software de tecnologia e ERP; </li><li>Perfil Hunter, de prospecção de novos negócios; </li><li>Familiaridade com segmento de saúde.</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <strong>um Executivo de Soluções e Negócios</strong> para atuar na comercialização de produtos e serviços TOTVS, garantindo o cumprimento das metas comerciais por meio de uma atuação consultiva e estratégica junto aos clientes. Perfil Hunter, responsável pela prospecção ativa e desenvolvimento de novos negócios no segmento de Saúde,<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><br /><br /><ul><li> Prospectar novos negócios , visando ampliar Market Share TOTVS (Hunter); </li><li>Planejar e executar o plano tático alinhado ao planejamento estratégico da DRG e resultados de vendas no segmento/região de atuação;</li><li>Ser especialista e liderar o assunto no seu negócio, sendo capaz de estabelecer discursos e formas de atuação altamente adequadas ao perfil de cada cliente/prospect/segmento; </li><li>Assegurar o cumprimento das metas individuais e metas de venda do time do Comercial em que estiver atuando, de acordo com a estratégia da TOTVS; </li><li>Visitar e assistir a base instalada e os novos clientes, garantindo sempre a excelência do atendimento TOTVS e buscando recorrentemente novos negócios; </li><li>Atender e se relacionar com o mercado e com a base instalada, através de visitas, reuniões, contatos telefônicos e e-mails; </li><li>Planejar, executar e liderar o processo de vendas de um produto ou serviço TOTVS ao mercado; </li><li>Levantar e analisar as informações do negócio, compilar e montar um plano de trabalho apoiado pela metodologia de vendas TOTVS;</li><li>Registrar no CRM e comunicar a área de Estratégia Comercial/Operações e Segmentos, informações relevantes sobre mercado/carteira;</li><li>Atuar como facilitador para a solução das demandas dos clientes e prospects; </li><li>Realizar a interface com as áreas internas da TOTVS; </li><li>Entregar e acompanhar a entrega dos produtos e/ou serviços TOTVS, garantindo que os acordos sejam cumpridos e os objetivos atendidos; </li><li>Realizar pós-venda com o objetivo de garantir o atendimento e gerar novas oportunidades (Cross Sell e Up Sell); </li><li>Mentorar profissionais do AR com o objetivo de compartilhar conhecimento e colaborar para o desenvolvimento da equipe; </li><li>Ser referência técnica e comercial no seu segmento de atuação; </li><li>Exercer liderança informal na equipe, apoiando diretamente a gestão formal da empresa; </li><li>Atuar como multiplicador de conhecimento e auxiliar no desenvolvimento de executivos com alto nível de performance, atuando como buddy para novos TOTVERs; </li><li>Atuar de forma consultiva em abordagens comerciais por meio de soluções segmentadas conforme área de atuação, potencializando a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo, preferencialmente no segmento de atuação</li><li>Vivência com vendas B2B de software de tecnologia e ERP; </li><li>Perfil Hunter, de prospecção de novos negócios; </li><li>Familiaridade com segmento de saúde.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9089/vendas-gerente-de-contas-pleno-hunter-saude]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
@@ -30852,6 +30890,33 @@ Suporte às demais demandas e rotinas do setor de RH/DP.
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[a323c0eb-9ee1-471f-bd75-8ebb73702adb]]></partnerJobId>
+    <company><![CDATA[Asscont]]></company>
+    <title><![CDATA[Auxiliar Contábil - Trainee]]></title>
+    <posterEmail><![CDATA[daniela@asscont.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você procura uma oportunidade na área contábil como trainee, ou deseja mudar para esta área, essa vaga é para você! Você é detalhista, analítico(a) e quer adquirir experiência em conciliação e análise de balanços, esta é a sua chance!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Quais serão suas atividades? Acompanhar e desenvolver atividades na área de Contabilidade, organizar, classificar, digitar e lançar no sistema os documentos recebidos pelos clientes, contabilidade de folha de pagamento, ativo imobilizado, regras (aquisição/baixa) e contabilização (taxas de depreciações, lançamentos contábeis, despesas e receitas) envolvendo a análise, lançamento e conciliação de contas, apuração de impostos, escrituração contábil e elaboração de balanços e balancete.<br /><br /><b>Requisitos e qualificações</b><br /><br />Desejável conhecimento pacote Office 365, conhecimento do conceito e teoria contábil em geral, principalmente em princípios e convenções contábeis. Conhecimento no sistema Protheus TOTVS será considerado um diferencial. Cursando técnico em contabilidade e/ou Cursando Ciências Contábeis a partir do 3º semestre.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/asscont/3/auxiliar-contabil-trainee]]></applyUrl>
+    <companyId><![CDATA[460]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2100.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[ad99873e-2a5c-4ddc-9cbf-b8255e09f37f]]></partnerJobId>
     <company><![CDATA[Asscont]]></company>
     <title><![CDATA[Auxiliar Fiscal]]></title>
@@ -30879,31 +30944,60 @@ Suporte às demais demandas e rotinas do setor de RH/DP.
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[a323c0eb-9ee1-471f-bd75-8ebb73702adb]]></partnerJobId>
-    <company><![CDATA[Asscont]]></company>
-    <title><![CDATA[Auxiliar Contábil - Trainee]]></title>
-    <posterEmail><![CDATA[daniela@asscont.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você procura uma oportunidade na área contábil como trainee, ou deseja mudar para esta área, essa vaga é para você! Você é detalhista, analítico(a) e quer adquirir experiência em conciliação e análise de balanços, esta é a sua chance!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Quais serão suas atividades? Acompanhar e desenvolver atividades na área de Contabilidade, organizar, classificar, digitar e lançar no sistema os documentos recebidos pelos clientes, contabilidade de folha de pagamento, ativo imobilizado, regras (aquisição/baixa) e contabilização (taxas de depreciações, lançamentos contábeis, despesas e receitas) envolvendo a análise, lançamento e conciliação de contas, apuração de impostos, escrituração contábil e elaboração de balanços e balancete.<br /><br /><b>Requisitos e qualificações</b><br /><br />Desejável conhecimento pacote Office 365, conhecimento do conceito e teoria contábil em geral, principalmente em princípios e convenções contábeis. Conhecimento no sistema Protheus TOTVS será considerado um diferencial. Cursando técnico em contabilidade e/ou Cursando Ciências Contábeis a partir do 3º semestre.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/asscont/3/auxiliar-contabil-trainee]]></applyUrl>
-    <companyId><![CDATA[460]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
+    <partnerJobId><![CDATA[248c3ff7-97af-4c4b-ab05-4d07486adf56]]></partnerJobId>
+    <company><![CDATA[Novarbor]]></company>
+    <title><![CDATA[Analista de Eficiência Operacional]]></title>
+    <posterEmail><![CDATA[deboraoliveira@innovatech.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar na análise, desenvolvimento e implementação de
+iniciativas que aumentem a eficiência operacional, reduzam custos e elevem a
+produtividade das operações, por meio de análise de dados, padronização de
+processos e melhoria contínua.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
+ <li>Monitorar
+     e analisar indicadores de desempenho operacional (KPIs).</li>
+ <li>Identificar
+     gargalos, desperdícios e oportunidades de melhoria nos processos.</li>
+ <li>Desenvolver
+     estudos de produtividade, capacidade operacional e custos.</li>
+ <li>Estruturar
+     relatórios gerenciais e dashboards para suporte à tomada de decisão.</li>
+ <li>Implementar
+     metodologias de melhoria contínua (Lean, PDCA, Kaizen, etc.).</li>
+ <li>Conduzir
+     análises de viabilidade técnica e econômica de novos projetos.</li>
+ <li>Apoiar
+     testes e implementação de novas tecnologias e equipamentos.</li>
+ <li>Trabalhar
+     em conjunto com áreas operacionais, manutenção e planejamento.</li>
+ <li>Mapear
+     e padronizar processos operacionais.</li>
+ <li>Treinar
+     equipes na utilização de indicadores e boas práticas operacionais.</li>
+</ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
+ <li>Graduação
+     completa em Engenharia Florestal, Engenharia de Produção, Engenharia
+     Mecânica, Agronomia ou áreas correlatas.</li>
+ <li>Vivência
+     no segmento florestal e silvicultura.</li>
+ <li>Domínio
+     avançado de Excel e Power BI (ou ferramenta
+     equivalente de análise de dados).</li>
+ <li>Experiência
+     em análise de dados e estatística aplicada; controle e análise
+     de custos operacionais; controle de qualidade e melhoria de
+     processos.</li><li>Disponibilidade para viagens frequentes às regiões de atuação da Novarbor, com foco principal no estado do Mato Grosso do Sul (MS).</li>
+</ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconosco3/37/analista-de-eficiencia-operacional]]></applyUrl>
+    <companyId><![CDATA[12345]]></companyId>
+    <city><![CDATA[Campinas]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
-        <highEnd>
-          <amount><![CDATA[2100.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
     </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[17265f6e-0aad-40a5-b9ee-43dfc4fc1b15]]></partnerJobId>
@@ -30969,62 +31063,6 @@ Conhecimento de Excel, PowerPoint, e Sistema de Gestão Florestal.</li></ul>]]><
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[248c3ff7-97af-4c4b-ab05-4d07486adf56]]></partnerJobId>
-    <company><![CDATA[Novarbor]]></company>
-    <title><![CDATA[Analista de Eficiência Operacional]]></title>
-    <posterEmail><![CDATA[deboraoliveira@innovatech.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar na análise, desenvolvimento e implementação de
-iniciativas que aumentem a eficiência operacional, reduzam custos e elevem a
-produtividade das operações, por meio de análise de dados, padronização de
-processos e melhoria contínua.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Monitorar
-     e analisar indicadores de desempenho operacional (KPIs).</li>
- <li>Identificar
-     gargalos, desperdícios e oportunidades de melhoria nos processos.</li>
- <li>Desenvolver
-     estudos de produtividade, capacidade operacional e custos.</li>
- <li>Estruturar
-     relatórios gerenciais e dashboards para suporte à tomada de decisão.</li>
- <li>Implementar
-     metodologias de melhoria contínua (Lean, PDCA, Kaizen, etc.).</li>
- <li>Conduzir
-     análises de viabilidade técnica e econômica de novos projetos.</li>
- <li>Apoiar
-     testes e implementação de novas tecnologias e equipamentos.</li>
- <li>Trabalhar
-     em conjunto com áreas operacionais, manutenção e planejamento.</li>
- <li>Mapear
-     e padronizar processos operacionais.</li>
- <li>Treinar
-     equipes na utilização de indicadores e boas práticas operacionais.</li>
-</ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Graduação
-     completa em Engenharia Florestal, Engenharia de Produção, Engenharia
-     Mecânica, Agronomia ou áreas correlatas.</li>
- <li>Vivência
-     no segmento florestal e silvicultura.</li>
- <li>Domínio
-     avançado de Excel e Power BI (ou ferramenta
-     equivalente de análise de dados).</li>
- <li>Experiência
-     em análise de dados e estatística aplicada; controle e análise
-     de custos operacionais; controle de qualidade e melhoria de
-     processos.</li><li>Disponibilidade para viagens frequentes às regiões de atuação da Novarbor, com foco principal no estado do Mato Grosso do Sul (MS).</li>
-</ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconosco3/37/analista-de-eficiencia-operacional]]></applyUrl>
-    <companyId><![CDATA[12345]]></companyId>
-    <city><![CDATA[Campinas]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[bf5d027d-0e26-432d-814d-104fbc630f7f]]></partnerJobId>
     <company><![CDATA[ERS Contabilidade]]></company>
     <title><![CDATA[Assistente Fiscal]]></title>
@@ -31047,77 +31085,12 @@ Atendimento ao cliente; </li><li>Envio de declaração com movimento; </li><li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[602d3710-77d9-4d05-9b3d-3389da16bbb0]]></partnerJobId>
+    <partnerJobId><![CDATA[53812fc6-769c-4161-a738-fbecb2817424]]></partnerJobId>
     <company><![CDATA[Bright Bee / Bright School]]></company>
-    <title><![CDATA[ESTÁGIO PEDAGÓGICO II]]></title>
-    <posterEmail><![CDATA[nathaliamiranda@brightbee.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Venha fazer parte da nossa colmeia como estagiário(a) pedagógico(a)! Se você é uma pessoa apaixonada por educação, busca aprender na prática e deseja contribuir para o desenvolvimento de crianças e adolescentes, essa é a oportunidade ideal para você!<br />Aqui, você terá a chance de vivenciar o ambiente escolar de maneira ativa, colaborando para a construção de metodologias inovadoras e participando de projetos educacionais incríveis. Venha desenvolver suas habilidades, trocar conhecimentos com profissionais experientes e fazer a diferença na vida de muitas pessoas. Vem ser Bright!✨<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na rotina pedagógica da escola;</li><li>Auxiliar o professor nas atividades pedagógicas; </li><li>Dar auxílio aos alunos em sala de aula; </li><li>Participar e efetuar atividades recreativas para os alunos; </li><li>Colaborar para o processo de entrada e saída dos alunos;</li><li> Prestar suporte em iniciativas para o desenvolvimento acadêmico e socioemocional dos alunos. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando a partir do 4° período dos cursos de Letras Inglês, Pedagogia e Licenciaturas ou áreas afins;</li><li>Boa comunicação e cordialidade;</li><li>Proatividade e interesse na área educacional;</li><li>Disponibilidade para estagiar com a carga horaria de 30 horas semanais;</li><li>Disponibilidade para estagiar no turno manhã.  </li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brightbee/40/estagio-pedagogico-ii]]></applyUrl>
-    <companyId><![CDATA[42390397]]></companyId>
-    <city><![CDATA[Teresina]]></city>
-    <state><![CDATA[PI]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1264.95]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1264.95]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e1681590-d399-4050-9929-1dca0c741f05]]></partnerJobId>
-    <company><![CDATA[Bright Bee / Bright School]]></company>
-    <title><![CDATA[AUXILIAR DE SALA - LICENCIATURAS]]></title>
-    <posterEmail><![CDATA[nathaliamiranda@brightbee.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos por profissionais comprometidos e dedicados, que estejam em busca de uma oportunidade para crescer e se desenvolver em um ambiente inclusivo e acolhedor. Aqui, na nossa equipe de Auxiliar de Sala, terá a chance de mostrar todo o seu potencial, contribuindo de forma significativa para o nosso crescimento e sucesso. Se você se identifica com esse desafio e deseja fazer parte de uma empresa que valoriza a diversidade e o talento de cada individuo, venha fazer parte do nosso time! Vem ser Bright!✨<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na rotina pedagógica da escola;</li><li>Auxiliar o professor nas atividades pedagógicas; </li><li>Dar auxílio aos alunos em sala de aula; </li><li>Participar e efetuar atividades recreativas para os alunos; </li><li>Colaborar para o processo de entrada e saída dos alunos;</li><li> Prestar suporte em iniciativas para o desenvolvimento acadêmico e socioemocional dos alunos. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Licenciaturas e Pedagogia; </li><li>Boa comunicação e cordialidade;</li><li>Proatividade e agilidade;</li><li>Capacidade de trabalhar em equipe;</li><li>Desejável ter fluência na língua inglesa; </li><li>Disponibilidade para cumprir carga horaria de 34 horas semanais;</li><li>Disponibilidade preferencialmente no turno manhã.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brightbee/41/auxiliar-de-sala-licenciaturas]]></applyUrl>
-    <companyId><![CDATA[42390397]]></companyId>
-    <city><![CDATA[Teresina]]></city>
-    <state><![CDATA[PI]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[66800c0f-b681-40c5-90ce-6fa5e390ada8]]></partnerJobId>
-    <company><![CDATA[Bright Bee / Bright School]]></company>
-    <title><![CDATA[ESTÁGIO EM MARKETING]]></title>
-    <posterEmail><![CDATA[nathaliamiranda@brightbee.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você busca uma oportunidade para desenvolver suas habilidades? Estamos em busca de candidatos entusiasmados para se juntar ao nosso time como Estagiário(a) de Marketing. Esta é sua chance de trabalhar em uma equipe dinâmica, auxiliando na  estratégia de marketing digital. Se você é proativo(a), comunicativo(a) e possui interesse em aprender mais sobre a área, essa vaga é ideal para você! Venha fazer parte de uma empresa que valoriza o crescimento profissional e o trabalho em equipe. <br />Vem ser Bright!✨<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Criar textos criativos e persuasivos para campanhas de marketing, redes sociais, e-mails e sites;</li><li>Auxiliar no desenvolvimento de slogans, headlines e calls to action impactantes;</li><li>Escrever roteiros para vídeos e materiais promocionais;</li><li>Colaborar com a equipe para alinhar mensagens e garantir consistência no tom de voz da marca;</li><li>Pesquisar tendências, palavras-chave e comportamento do público para melhorar a comunicação;</li><li>Participar de brainstorms e contribuir com ideias inovadoras para campanhas e projetos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando Marketing, Publicidade, Jornalismo ou áreas correlatas;</li><li>Disponibilidade para estagiar 30 horas semanais;</li><li>Paixão por escrita criativa e facilidade em adaptar o tom de voz para diferentes públicos;</li><li>Organização e proatividade para lidar com diferentes demandas;</li><li>Desejo de aprender, crescer e fazer a diferença com suas palavras!</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brightbee/43/estagio-em-marketing]]></applyUrl>
-    <companyId><![CDATA[42390397]]></companyId>
-    <city><![CDATA[Teresina]]></city>
-    <state><![CDATA[PI]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[d3007311-2068-4783-93a7-9515171c2856]]></partnerJobId>
-    <company><![CDATA[Bright Bee / Bright School]]></company>
-    <title><![CDATA[AUXILIAR DE SALA - EXCLUSIVO PESSOA COM DEFICIÊNCIA (PCD)]]></title>
-    <posterEmail><![CDATA[nathaliamiranda@brightbee.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos por profissionais comprometidos e dedicados, que estejam em busca de uma oportunidade para crescer e se desenvolver em um ambiente inclusivo e acolhedor. Se você se identifica com esse desafio e deseja fazer parte de uma empresa que valoriza a diversidade e o talento de cada individuo, venha fazer parte do nosso time! Vem ser Bright!✨<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na rotina pedagógica da escola;</li><li>Auxiliar o professor nas atividades pedagógicas; </li><li>Dar auxílio aos alunos em sala de aula; </li><li>Participar e efetuar atividades recreativas para os alunos; </li><li>Colaborar para o processo de entrada e saída dos alunos;</li><li> Prestar suporte em iniciativas para o desenvolvimento acadêmico e socioemocional dos alunos. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Licenciaturas e Pedagogia; </li><li>Proatividade;</li><li>Capacidade de trabalhar em equipe;</li><li>Disponibilidade para cumprir carga horaria de 34 horas semanais;</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brightbee/44/auxiliar-de-sala-exclusivo-pessoa-com-deficiencia-pcd]]></applyUrl>
+    <title><![CDATA[ESTÁGIO PEDAGÓGICO]]></title>
+    <posterEmail><![CDATA[luizasoares@brightbee.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Venha fazer parte da nossa colmeia como estagiário(a) pedagógico(a)! Se você é uma pessoa apaixonada por educação, busca aprender na prática e deseja contribuir para o desenvolvimento de crianças e jovens, essa é a oportunidade ideal para você!<br />Aqui, você terá a chance de vivenciar o ambiente escolar de maneira ativa, colaborando para a construção de metodologias inovadoras e participando de projetos educacionais incríveis. Venha desenvolver suas habilidades, trocar conhecimentos com profissionais experientes e fazer a diferença na vida de muitas pessoas. Vem ser Bright!✨<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na rotina pedagógica da escola;</li><li>Auxiliar o professor nas atividades pedagógicas; </li><li>Dar auxílio aos alunos em sala de aula; </li><li>Participar e efetuar atividades recreativas para os alunos; </li><li>Colaborar para o processo de entrada e saída dos alunos;</li><li> Prestar suporte em iniciativas para o desenvolvimento acadêmico e socioemocional dos estudantes</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando a partir do 4° período dos cursos de Pedagogia, Letras Inglês Licenciaturas ou áreas afins;</li><li>Boa comunicação e cordialidade;</li><li>Proatividade e interesse na área educacional;</li><li>Disponibilidade para estagiar pela manhã ou tarde</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brightbee/49/estagio-pedagogico]]></applyUrl>
     <companyId><![CDATA[42390397]]></companyId>
     <city><![CDATA[Teresina]]></city>
     <state><![CDATA[PI]]></state>
@@ -31205,18 +31178,83 @@ Perfil proativo, organizado e com forte disposição para aprendizado e desenvol
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[53812fc6-769c-4161-a738-fbecb2817424]]></partnerJobId>
+    <partnerJobId><![CDATA[d3007311-2068-4783-93a7-9515171c2856]]></partnerJobId>
     <company><![CDATA[Bright Bee / Bright School]]></company>
-    <title><![CDATA[ESTÁGIO PEDAGÓGICO]]></title>
-    <posterEmail><![CDATA[luizasoares@brightbee.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Venha fazer parte da nossa colmeia como estagiário(a) pedagógico(a)! Se você é uma pessoa apaixonada por educação, busca aprender na prática e deseja contribuir para o desenvolvimento de crianças e jovens, essa é a oportunidade ideal para você!<br />Aqui, você terá a chance de vivenciar o ambiente escolar de maneira ativa, colaborando para a construção de metodologias inovadoras e participando de projetos educacionais incríveis. Venha desenvolver suas habilidades, trocar conhecimentos com profissionais experientes e fazer a diferença na vida de muitas pessoas. Vem ser Bright!✨<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na rotina pedagógica da escola;</li><li>Auxiliar o professor nas atividades pedagógicas; </li><li>Dar auxílio aos alunos em sala de aula; </li><li>Participar e efetuar atividades recreativas para os alunos; </li><li>Colaborar para o processo de entrada e saída dos alunos;</li><li> Prestar suporte em iniciativas para o desenvolvimento acadêmico e socioemocional dos estudantes</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando a partir do 4° período dos cursos de Pedagogia, Letras Inglês Licenciaturas ou áreas afins;</li><li>Boa comunicação e cordialidade;</li><li>Proatividade e interesse na área educacional;</li><li>Disponibilidade para estagiar pela manhã ou tarde</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brightbee/49/estagio-pedagogico]]></applyUrl>
+    <title><![CDATA[AUXILIAR DE SALA - EXCLUSIVO PESSOA COM DEFICIÊNCIA (PCD)]]></title>
+    <posterEmail><![CDATA[nathaliamiranda@brightbee.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos por profissionais comprometidos e dedicados, que estejam em busca de uma oportunidade para crescer e se desenvolver em um ambiente inclusivo e acolhedor. Se você se identifica com esse desafio e deseja fazer parte de uma empresa que valoriza a diversidade e o talento de cada individuo, venha fazer parte do nosso time! Vem ser Bright!✨<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na rotina pedagógica da escola;</li><li>Auxiliar o professor nas atividades pedagógicas; </li><li>Dar auxílio aos alunos em sala de aula; </li><li>Participar e efetuar atividades recreativas para os alunos; </li><li>Colaborar para o processo de entrada e saída dos alunos;</li><li> Prestar suporte em iniciativas para o desenvolvimento acadêmico e socioemocional dos alunos. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Licenciaturas e Pedagogia; </li><li>Proatividade;</li><li>Capacidade de trabalhar em equipe;</li><li>Disponibilidade para cumprir carga horaria de 34 horas semanais;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brightbee/44/auxiliar-de-sala-exclusivo-pessoa-com-deficiencia-pcd]]></applyUrl>
     <companyId><![CDATA[42390397]]></companyId>
     <city><![CDATA[Teresina]]></city>
     <state><![CDATA[PI]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[66800c0f-b681-40c5-90ce-6fa5e390ada8]]></partnerJobId>
+    <company><![CDATA[Bright Bee / Bright School]]></company>
+    <title><![CDATA[ESTÁGIO EM MARKETING]]></title>
+    <posterEmail><![CDATA[nathaliamiranda@brightbee.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você busca uma oportunidade para desenvolver suas habilidades? Estamos em busca de candidatos entusiasmados para se juntar ao nosso time como Estagiário(a) de Marketing. Esta é sua chance de trabalhar em uma equipe dinâmica, auxiliando na  estratégia de marketing digital. Se você é proativo(a), comunicativo(a) e possui interesse em aprender mais sobre a área, essa vaga é ideal para você! Venha fazer parte de uma empresa que valoriza o crescimento profissional e o trabalho em equipe. <br />Vem ser Bright!✨<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Criar textos criativos e persuasivos para campanhas de marketing, redes sociais, e-mails e sites;</li><li>Auxiliar no desenvolvimento de slogans, headlines e calls to action impactantes;</li><li>Escrever roteiros para vídeos e materiais promocionais;</li><li>Colaborar com a equipe para alinhar mensagens e garantir consistência no tom de voz da marca;</li><li>Pesquisar tendências, palavras-chave e comportamento do público para melhorar a comunicação;</li><li>Participar de brainstorms e contribuir com ideias inovadoras para campanhas e projetos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando Marketing, Publicidade, Jornalismo ou áreas correlatas;</li><li>Disponibilidade para estagiar 30 horas semanais;</li><li>Paixão por escrita criativa e facilidade em adaptar o tom de voz para diferentes públicos;</li><li>Organização e proatividade para lidar com diferentes demandas;</li><li>Desejo de aprender, crescer e fazer a diferença com suas palavras!</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brightbee/43/estagio-em-marketing]]></applyUrl>
+    <companyId><![CDATA[42390397]]></companyId>
+    <city><![CDATA[Teresina]]></city>
+    <state><![CDATA[PI]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e1681590-d399-4050-9929-1dca0c741f05]]></partnerJobId>
+    <company><![CDATA[Bright Bee / Bright School]]></company>
+    <title><![CDATA[AUXILIAR DE SALA - LICENCIATURAS]]></title>
+    <posterEmail><![CDATA[nathaliamiranda@brightbee.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos por profissionais comprometidos e dedicados, que estejam em busca de uma oportunidade para crescer e se desenvolver em um ambiente inclusivo e acolhedor. Aqui, na nossa equipe de Auxiliar de Sala, terá a chance de mostrar todo o seu potencial, contribuindo de forma significativa para o nosso crescimento e sucesso. Se você se identifica com esse desafio e deseja fazer parte de uma empresa que valoriza a diversidade e o talento de cada individuo, venha fazer parte do nosso time! Vem ser Bright!✨<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na rotina pedagógica da escola;</li><li>Auxiliar o professor nas atividades pedagógicas; </li><li>Dar auxílio aos alunos em sala de aula; </li><li>Participar e efetuar atividades recreativas para os alunos; </li><li>Colaborar para o processo de entrada e saída dos alunos;</li><li> Prestar suporte em iniciativas para o desenvolvimento acadêmico e socioemocional dos alunos. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Licenciaturas e Pedagogia; </li><li>Boa comunicação e cordialidade;</li><li>Proatividade e agilidade;</li><li>Capacidade de trabalhar em equipe;</li><li>Desejável ter fluência na língua inglesa; </li><li>Disponibilidade para cumprir carga horaria de 34 horas semanais;</li><li>Disponibilidade preferencialmente no turno manhã.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brightbee/41/auxiliar-de-sala-licenciaturas]]></applyUrl>
+    <companyId><![CDATA[42390397]]></companyId>
+    <city><![CDATA[Teresina]]></city>
+    <state><![CDATA[PI]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[602d3710-77d9-4d05-9b3d-3389da16bbb0]]></partnerJobId>
+    <company><![CDATA[Bright Bee / Bright School]]></company>
+    <title><![CDATA[ESTÁGIO PEDAGÓGICO II]]></title>
+    <posterEmail><![CDATA[nathaliamiranda@brightbee.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Venha fazer parte da nossa colmeia como estagiário(a) pedagógico(a)! Se você é uma pessoa apaixonada por educação, busca aprender na prática e deseja contribuir para o desenvolvimento de crianças e adolescentes, essa é a oportunidade ideal para você!<br />Aqui, você terá a chance de vivenciar o ambiente escolar de maneira ativa, colaborando para a construção de metodologias inovadoras e participando de projetos educacionais incríveis. Venha desenvolver suas habilidades, trocar conhecimentos com profissionais experientes e fazer a diferença na vida de muitas pessoas. Vem ser Bright!✨<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na rotina pedagógica da escola;</li><li>Auxiliar o professor nas atividades pedagógicas; </li><li>Dar auxílio aos alunos em sala de aula; </li><li>Participar e efetuar atividades recreativas para os alunos; </li><li>Colaborar para o processo de entrada e saída dos alunos;</li><li> Prestar suporte em iniciativas para o desenvolvimento acadêmico e socioemocional dos alunos. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando a partir do 4° período dos cursos de Letras Inglês, Pedagogia e Licenciaturas ou áreas afins;</li><li>Boa comunicação e cordialidade;</li><li>Proatividade e interesse na área educacional;</li><li>Disponibilidade para estagiar com a carga horaria de 30 horas semanais;</li><li>Disponibilidade para estagiar no turno manhã.  </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brightbee/40/estagio-pedagogico-ii]]></applyUrl>
+    <companyId><![CDATA[42390397]]></companyId>
+    <city><![CDATA[Teresina]]></city>
+    <state><![CDATA[PI]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1264.95]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1264.95]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
