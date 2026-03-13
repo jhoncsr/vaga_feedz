@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 13 Mar 2026 21:14:13 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 22:16:58 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3184]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3186]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[79bbfbb9-e95d-48e4-aaef-8331fcc2f698]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -1242,90 +1242,6 @@ Inglês.</li></ul></li>]]></description>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Arquitetar e evoluir a infraestrutura da plataforma de IA da Cloud TOTVS de forma segura, escalável e sustentável, assegurando previsibilidade operacional, eficiência financeira e baixo acoplamento tecnológico, de modo a sustentar o crescimento contínuo dos serviços de inferência e dos produtos de IA da companhia.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Arquitetar e evoluir a infraestrutura de inferência e suporte a treinamento e fine-tuning de modelos, com abordagem <strong>GPU-first</strong>, considerando ambientes on-premises, cloud e serviços externos quando aplicável.</li><li>Definir a arquitetura do ambiente, incluindo topologias de rede, isolamento de workloads, alta disponibilidade, capacidade e resiliência.</li><li>Planejar e executar a implantação da plataforma de IA, garantindo compatibilidade entre hardware, sistema operacional, drivers, stacks CUDA (ou equivalentes), Kubernetes e plataformas de inferência.</li><li>Operar e sustentar a plataforma de inferência em produção, assegurando disponibilidade, desempenho e continuidade operacional (em escopo de arquitetura estratégica).</li><li>Apoiar o planejamento e a execução de ações de melhoria decorrentes de incidentes complexos envolvendo GPUs, Kubernetes, redes, storage e workloads de inferência.</li><li>Aplicar práticas de SRE, incluindo definição e acompanhamento de SLOs, SLIs, error budgets e gestão de incidentes.</li><li>Operar e evoluir stacks de inferência comerciais e open source (ex.: NVIDIA AI Enterprise, Triton, vLLM, KServe), garantindo portabilidade e mitigação de lock-in.</li><li>Definir e padronizar o uso de serviços de inferência quando aplicável (ex.: Triton, NIM).</li><li>Arquitetar e operar clusters Kubernetes para workloads de IA, com foco em isolamento multi-tenant, GPU scheduling, concorrência, filas, backpressure e escalabilidade.</li><li>Implementar observabilidade full stack, abrangendo infraestrutura, GPUs, Kubernetes e serviços de inferência.</li><li>Garantir visibilidade sobre consumo de recursos, capacidade, riscos operacionais e impacto financeiro das cargas de IA.</li><li>Apoiar processos de capacity planning e planejamento orçamentário, avaliando trade-offs entre soluções comerciais e open source.</li><li>Integrar práticas de DevSecOps desde a concepção até a operação da plataforma.</li><li>Garantir conformidade com políticas de segurança, auditoria, controle de acesso e segregação de ambientes.</li><li>Disseminar padrões técnicos, boas práticas e conhecimento por meio de documentação estruturada e mentorias técnicas.</li><li>Apoiar tecnicamente fóruns internos e processos decisórios relacionados à infraestrutura de IA.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Experiência </strong><ul><li>Experiência mínima de 5 anos em infraestrutura de TI, cloud ou plataformas distribuídas, com atuação em ambientes críticos.</li><li>Experiência comprovada em arquitetura e operação de sistemas distribuídos, preferencialmente com workloads de dados, analytics ou IA.</li><li>Vivência mínima de 3 anos em equipes multidisciplinares, interagindo com times de produto, dados, segurança e arquitetura.</li></ul><strong>Formação Acadêmica</strong><ul><li>Graduação em Tecnologia da Informação, Engenharia, Ciência da Computação ou áreas correlatas.</li><li>Pós-graduação ou MBA em Arquitetura de Software, Cloud Computing, Sistemas Distribuídos, Segurança da Informação ou áreas afins (desejável).</li></ul><strong>Idiomas</strong><ul><li>Inglês avançado para leitura técnica, escrita e conversação, com capacidade de participar de discussões técnicas e estratégicas.</li></ul><strong>Certificações (diferenciais)</strong><ul><li>Certificações relacionadas a Kubernetes, Cloud Pública e Infraestrutura como Código (IaC).</li></ul><strong>Conhecimentos Específicos / Habilidades</strong><ul><li>Domínio de sistemas distribuídos, incluindo concorrência, balanceamento de carga, isolamento de workloads, filas e backpressure.</li><li>Experiência sólida em Kubernetes, incluindo ambientes gerenciados (EKS, GKE, AKS), scheduling avançado e isolamento multi-tenant.</li><li>Conhecimento avançado em ambientes de missão crítica, com foco em alta disponibilidade, resiliência e continuidade operacional.</li><li>Domínio de arquitetura de redes aplicadas a cloud e Kubernetes (TCP/IP, DNS, Load Balancers, Firewalls, SDN).</li><li>Domínio na aplicação de soluções de storage para workloads I/O intensive em Kubernetes e ambientes de grande escala.</li><li>Experiência com serviços de nuvem pública (AWS, Azure e/ou GCP) e entendimento do modelo de responsabilidade compartilhada.</li><li>Domínio de observabilidade (métricas, logs e traces) aplicada a infraestrutura e plataformas de IA.</li><li>Experiência com Infraestrutura como Código (IaC) e automação.</li><li>Conhecimento aplicado em práticas de DevSecOps e SRE.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8762/infra-especialista-ii-de-infraestrutura-de-cloud]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e28f4f76-73e7-488c-85fe-cd393152312d]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Segurança da Informação] Analista Pleno De Segurança Da Iinformação - Focado em monitoramento e SIEM(Criação de regras e refinamentos)]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar no time de SIEM, uma equipe em constante crescimento e com desafios estratégicos, contribuindo para a redução de falsos positivos, criação e otimização de regras de correlação, monitoramento contínuo de alertas e execução de playbooks e runbooks definidos. O profissional também será responsável por gerar insights relevantes, apoiar a resposta a incidentes de segurança e contribuir para o amadurecimento dos processos e controles de segurança como um todo.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Monitorar e atender alertas e incidentes de segurança identificados pelo SIEM.
-</li>
-<li>
-Investigar eventos suspeitos, realizando análises detalhadas e apoiando as atividades de resposta a incidentes.
-</li>
-<li>
-Criar, ajustar e otimizar regras de correlação e detecção.
-</li>
-<li>
-Refinar o parsing e a normalização de logs, visando maior qualidade e consistência dos eventos.
-</li>
-<li>
-Desenvolver, manter e evoluir playbooks e runbooks operacionais.
-</li>
-<li>
-Criar e atualizar documentações técnicas relacionadas aos fluxos de monitoramento, regras e integrações do SIEM.
-</li>
-<li>
-Construir dashboards e painéis de visibilidade para acompanhamento e análise de eventos de segurança.
-</li>
-<li>
-Propor melhorias nos processos, integrações e na arquitetura do SIEM.
-</li>
-<li>
-Atuar em conjunto com áreas internas para levantamento de requisitos e melhoria contínua do monitoramento de segurança.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Formação:</strong>
-<ul>
-<li>
-Graduação em Ciência da Computação, Segurança da Informação, Cyber Segurança ou áreas correlatas.
-</li>
-</ul>
-<strong>Conhecimentos específicos:</strong>
-<ul>
-<li>
-Sistemas Operacionais <strong>Linux e Windows</strong> – nível intermediário.
-</li>
-<li>
-Experiência com <strong>SIEM</strong> e operações de monitoramento de segurança.
-</li>
-<li>
-Conhecimento em <strong>Incident Response e Threat Hunting</strong>.
-</li>
-<li>
-Familiaridade com frameworks e modelos de segurança, como:
-<ul>
-<li>
-<strong>MITRE ATT&amp;CK / DEFEND</strong>
-</li>
-<li>
-<strong>Cyber Kill Chain (SANS)</strong>
-</li>
-</ul>
-</li>
-</ul>
-<strong>Certificações (desejáveis):</strong>
-<ul>
-<li>
-<strong>CEH</strong>, <strong>OSCP</strong>, <strong>GIAC</strong> ou equivalentes.
-</li>
-<li>
-Cursos ou certificações <strong>SANS – Incident Response and Threat Hunting</strong>.
-</li>
-</ul>
-<strong>Idiomas:</strong>
-<ul>
-<li>
-<strong>Inglês intermediário ou avançado</strong>.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8493/seguranca-da-informacao-analista-pleno-de-seguranca-da-iinformacao-focado-em-monitoramento-e-siem-criacao-de-regras-e-refinamentos]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -5306,6 +5222,25 @@ Uso de ferramentas de IA.</li></ul>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ad7fb8ba-f9c2-4bb6-b863-eab135bbd8ce]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[Analista de Capacitação de Pré-Vendas Sênior | Sales Enablement]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Missão do Cargo: </b>Ser responsável por estruturar, acompanhar e otimizar processos de pré-vendas garantindo que o time tenha cadências, ferramentas e treinamentos eficazes. Seu papel será organizar processos, implementar ferramentas, criar materiais de apoio e treinar o time para garantir que LDRs,  SDRs e BDRs tenham as melhores condições para performar. Um diferencial importante será trazer soluções tecnológicas e automações que permitam escalar a prospecção com qualidade.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Mapear e otimizar processos do time comercial com foco em escalabilidade e eficiência;</li><li>Estruturar e revisar as etapas do funil de vendas, identificando gargalos e oportunidades;</li><li>Implantar ou melhorar o uso de ferramentas como CRM (Pipedrive, Exact Sales, HubSpot, etc);</li><li>Apoiar a liderança no acompanhamento dos indicadores de geração de demanda e conversão;</li><li>Criar e atualizar materiais de apoio: playbooks, roteiros, cadências, templates de e-mails, etc;</li><li>Treinar o time de pré-vendas (BDR) nas boas práticas de processo, abordagem e uso de ferramentas;</li><li>Acompanhar o time com escuta ativa, roleplays e feedbacks estruturados para melhoria contínua;</li><li>Atuar como ponte entre Marketing, Comercial e Produto para alinhamento estratégico.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa;</li><li>Experiência em áreas como: pré-vendas (SDR/BDR), sales ops ou CS com viés comercial;</li><li>Conhecimento do funil de vendas e suas etapas (MQL, SQL, conversão, etc);</li><li>Ter participado da estruturação ou revisão de processos comerciais em empresas anteriores;</li><li>Experiência prática com CRM (Pipedrive, Exact Sales, HubSpot ou similares);</li><li>Habilidade de comunicação clara, didática e escuta ativa — vamos te chamar para treinar time!;</li><li>Proatividade, pensamento estruturado e perfil analítico, com foco em solução;<br /></li><li>Disponibilidade de atuar os 3 primeiros meses presencial na Unidade de Florianópolis.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/5272/analista-de-capacitacao-de-pre-vendas-senior-sales-enablement]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[2878787b-cdb8-4e97-ac51-33473c835cfa]]></partnerJobId>
@@ -51151,6 +51086,38 @@ Organização e autonomia para gerir sua rotina de visitas e resultados.<br /></
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[166278b7-bb66-4cd1-a658-2da5ebb49b96]]></partnerJobId>
+    <company><![CDATA[PROS Agência de Comunicação]]></company>
+    <title><![CDATA[Assistente de Atendimento de PR]]></title>
+    <posterEmail><![CDATA[debora.soares@pros.com.vc]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa para atuar como <strong>Assistente de PR</strong>, apoiando a execução de projetos de comunicação integrada para um cliente do setor automotivo.<br /><br />Essa pessoa dará suporte às estratégias de <strong>PR e marketing de influência</strong>, colaborando com diferentes frentes do time — desde o desenvolvimento de materiais até o acompanhamento de ações com imprensa e creators.
+Procuramos alguém organizado, curioso e com vontade de aprender, que tenha interesse em comunicação, relacionamento com imprensa e construção de narrativas de marca.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O que você vai fazer:<ul><li>Apoiar no relacionamento com a imprensa, influenciadores e stakeholders;</li><li>Acompanhar o dia a dia da assessoria de imprensa: envio de press releases, follow-ups, clipping e relacionamento com jornalistas;</li><li>Participar da curadoria, negociação e gestão de parcerias com influenciadores digitais;</li><li>Colaborar com a criação de estratégias de comunicação que conectem marca e público de forma relevante;</li><li>Apoiar o time em entregas estratégicas, relatórios e apresentações.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Requisitos:<ul><li>Formação em Comunicação Social, Relações Públicas; Jornalismo, Publicidade ou áreas relacionadas (concluída ou em andamento);
+</li>
+<li>
+Interesse em assessoria de imprensa, PR e marketing de influência;
+</li>
+<li>
+Boa comunicação escrita e organização;
+</li>
+<li>
+Proatividade e vontade de aprender em um ambiente dinâmico;
+</li>
+<li>
+Experiência prévia em estágio ou projetos de comunicação será considerada um diferencial.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspros/46/assistente-de-atendimento-de-pr]]></applyUrl>
+    <companyId><![CDATA[1275512]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[9eae1aff-02be-4c5f-adc5-93d2b4d908a3]]></partnerJobId>
     <company><![CDATA[PROS Agência de Comunicação]]></company>
     <title><![CDATA[Analista de Dados Sênior – PR & Marketing de Influência]]></title>
@@ -70103,6 +70070,54 @@ Comercial ou áreas afins).</li><li>CORE ativo.</li><li>CNH ativa e veículo pr�
     <companyId><![CDATA[20475456]]></companyId>
     <city><![CDATA[Uberlândia]]></city>
     <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0bd8ff4e-7794-4067-85fa-57647b52fead]]></partnerJobId>
+    <company><![CDATA[Yosen]]></company>
+    <title><![CDATA[Líder de Marketing Digital]]></title>
+    <posterEmail><![CDATA[catharina.gil@yosen.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Liderar a operação digital da empresa, garantindo a execução das estratégias de e-commerce, performance e CRM, com foco em crescimento de tráfego, conversão e relacionamento com clientes, assegurando a eficiência das campanhas, a evolução da plataforma digital e a melhoria contínua da experiência de compra.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Responsável pela estratégia e gestão da operação digital da empresa (performance, e-commerce e CRM).</li>
+<li>
+Planejar, executar e otimizar campanhas de mídia paga (Meta Ads, Google Ads, etc.), acompanhando indicadores como ROAS, CAC, CPA e conversão.
+</li>
+<li>
+Conduzir a implantação e gestão da plataforma de e-commerce, atuando com fornecedores e áreas internas.
+</li>
+<li>
+Gerir o e-commerce (sortimento, categorias, páginas de produto, descrições, banners, usabilidade e jornada do cliente).
+</li>
+<li>
+Estruturar e gerir estratégias de CRM, incluindo réguas de relacionamento, segmentação de base e ações de recompra.
+</li>
+<li>
+Desenvolver campanhas promocionais e ações de conversão (remarketing, impulsionamentos e automações).
+</li>
+<li>
+Gerenciar agências e parceiros (performance, mídia, CRM e tecnologia), garantindo alinhamento e resultados.
+</li>
+<li>
+Monitorar indicadores de performance digital e elaborar relatórios gerenciais com análise e plano de ação.
+</li>
+<li>
+Desenvolver estratégias para aumento de tráfego, conversão e ticket médio.
+</li>
+<li>
+Propor melhorias na experiência do cliente e jornada de compra.
+</li>
+<li>
+Gerir o calendário digital de campanhas, lançamentos e ações promocionais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo em Marketing, Publicidade e Propaganda, Administração, Comunicação, Marketing Digital ou áreas correlatas.</li><li>Experiência com operações de e-commerce ou marketing digital.</li><li>Vivência em acompanhamento de campanhas de mídia paga (Meta Ads, Google Ads ou similares).</li><li>Conhecimento básico em CRM, automação de marketing ou estratégias de relacionamento com clientes.</li><li>Conhecimento em Google Analytics ou ferramentas de análise de desempenho digital.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/yosencarreiras/25/lider-de-marketing-digital]]></applyUrl>
+    <companyId><![CDATA[20475456]]></companyId>
+    <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
