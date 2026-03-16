@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Mon, 16 Mar 2026 22:14:14 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Mar 2026 23:20:54 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3203]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3200]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[79bbfbb9-e95d-48e4-aaef-8331fcc2f698]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -957,6 +957,72 @@ todas as etapas da jornada na TOTVS.<br /><br /><br /><br /><b>Responsabilidades
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8473/tech-arquitetura-de-software-net]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f31a6947-6243-4cca-9974-151065f82b6e]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Governança] Analista de Governança III Cloud (Gestão da Configuração CMDB)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por garantir as boas práticas de governança de Cloud, assegurar a execução adequada dos processos e controles de governança e manter a eficiência dos ambientes dos clientes hospedados em Cloud.  Atuará como ponto focal sênior para a integridade e confiabilidade dos Itens de Configuração (CIs), garantindo que a base BMC Helix CMDB reflita fielmente a infraestrutura para suportar a tomada de decisão e a agilidade operacional. <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li><strong>Governança de Dados:</strong> Administrar e sustentar a plataforma <strong>BMC Helix CMDB</strong>, garantindo a acuracidade dos dados e o mapeamento de dependências entre ativos de TI e serviços de negócio.
+</li>
+<li>
+<strong>Melhoria de Processos:</strong> Identificar oportunidades de melhoria nos processos de Cloud com base em frameworks de mercado (como ITIL e COBIT) e revisar políticas de governança junto aos líderes de operações.
+</li>
+<li>
+<strong>Gestão de Mudanças:</strong> Assegurar a viabilidade das mudanças nos ambientes Cloud e na CMDB por meio da participação semanal no comitê técnico de mudanças (CAB).
+</li>
+<li>
+<strong>Indicadores e Dashboards:</strong> Definir e acompanhar dashboards com KPIs de governança (Incidentes, Problemas e Mudanças) e métricas específicas de saúde da CMDB.
+</li>
+<li>
+<strong>Gestão de Riscos:</strong> Alertar a liderança sobre potenciais riscos ou crises de infraestrutura e governança, comunicando incidentes críticos pelos canais oficiais.
+</li>
+<li>
+<strong>Eficiência de Recursos:</strong> Monitorar e cobrar a qualidade dos processos implementados, com foco no consumo e otimização de licenciamento e infraestrutura (compute, storage, backup e redes).
+</li>
+<li>
+<strong>Descoberta Automatizada:</strong> Configurar e gerenciar o BMC Helix Discovery (desejável) para automatizar a atualização do inventário de ativos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li><strong>Experiência:</strong> Vivência mínima de 4 anos na área de Governança de TI.
+</li>
+<li>
+<strong>Formação:</strong> Graduação completa ou em andamento em áreas de Tecnologia da Informação ou correlatas.
+</li>
+<li>
+<strong>Ferramentas Específicas:</strong> Conhecimento sólido em <strong>BMC Helix CMDB</strong> (obrigatório) e conhecimento em <strong>BMC Helix Discovery</strong> (desejável).
+</li>
+<li>
+<strong>Conhecimentos Técnicos:</strong>
+<ul>
+<li>
+Certificação <strong>ITIL</strong> Foundation (obrigatória).
+</li>
+<li>
+ITIL Intermediário (desejável).
+</li>
+<li>
+Visão geral de nuvens públicas como <strong>Amazon Web Services</strong> e <strong>Microsoft Azure</strong>, além de conhecimentos em infraestrutura e sistemas operacionais.
+</li>
+<li>
+Conhecimento em métricas avançadas de uso e consumo de licenciamento e infraestrutura.
+</li>
+</ul>
+</li>
+<li>
+<strong>Idiomas:</strong> Inglês nível intermediário (obrigatório) e nível avançado (desejável).
+</li>
+<li>
+<strong>Frameworks:</strong> Conhecimento em <strong>COBIT</strong>, <strong>ISO/IEC 27000</strong> (ISO 27k) e metodologias ágeis como <strong>Scrum</strong>. Conhecimento avançado em <strong>BMC Helix CMDB</strong> (obrigatório).</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9028/governanca-analista-de-governanca-iii-cloud-gestao-da-configuracao-cmdb]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -3383,25 +3449,6 @@ produtos e serviços TOTVS.<br /><br /><br /><br /><b>Responsabilidades e atribu
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[79e763bc-f0b4-444f-815e-2703465c49fa]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Gerente de Contas Sênior - Hunter]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Missão do cargo<br />Buscamos um Executivo Comercial Sênior, com sólida experiência na área comercial, para atuação consultiva em vendas de soluções de ERP voltadas para supply chain, manufatura, logística e agronegócio. O profissional será responsável por conduzir o ciclo completo de vendas, desde a prospecção até o fechamento, com foco em geração de valor, construção de parcerias de longo prazo e expansão de negócios.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br /><ul><li>Conduzir o ciclo completo de vendas (prospecção, diagnóstico, proposta e fechamento)</li><li>Atuar de forma consultiva, mapeando necessidades e identificando oportunidades de negócio</li><li>Apresentar soluções alinhadas aos objetivos estratégicos do cliente</li><li>Discursar e demonstrar valor das soluções (ERP / sistemas)</li><li>Elaborar e apresentar propostas comerciais</li><li>Construir relacionamento de confiança e parcerias de longo prazo</li><li>Atuar com foco em geração de valor e resultados sustentáveis</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo; </li><li><b><i>Conhecimento e vivência no segmento (Supply, manufatura e logistica)</i></b>; </li><li>Vivência com vendas complexas e consultivas B2B de software de tecnologia e ERP;</li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li>Habilidade de vendas e negociação; </li><li>Organização e proatividade;</li><li>Disponibilidade para atuar de forma híbrida. </li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8502/vendas-gerente-de-contas-senior-hunter]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[Piracicaba]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[3789ccb4-7044-437c-adb0-eb25b90700b3]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Vendas] Gerente de Contas Sênior - Hunter]]></title>
@@ -4422,25 +4469,6 @@ proporcionar experiências positivas aos nossos clientes, nacionais e internacio
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Prestar serviços de sustentação aos nossos clientes, provendo soluções com empatia e pro atividade segundo nossa metodologia de processos. Garantir a satisfação dos clientes com os produtos e serviços TOTVS.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atividades de alta complexidade em quaisquer etapas da prestação do serviço de Suporte;</li><li>Conduzir tecnicamente os serviços de sustentação. Garantir a viabilidade técnica da solução e identificar os riscos durante a execução do serviço;</li><li>Conduzir tecnicamente os atendimentos em que atua, garantindo a viabilidade técnica da solução e identificando os riscos durante a execução do serviço;</li><li>Multiplicar o conhecimento técnico necessário para os demais Assistentes/Técnicos e Analistas da equipe em reuniões, treinamentos, capacitações e outros;</li><li>Analisar e identificar problemas (tickets, projeto, produto, processo, capacitação etc.) de maior complexidade e direcionar plano de ação para as áreas responsáveis e/ou para sua Coordenação;</li><li>Realizar o atendimento aos clientes por meio dos canais TOTVS, esclarecendo dúvidas sobre assuntos de alta complexidade referentes ao sistema. Registrar sugestões e incidentes;</li><li>Prestar o atendimento por meio de canais de abertura de tickets, de acordo com o processo definido procurando sanar questões e cumprir metas estabelecidas;</li><li>Registrar a solicitação do cliente no sistema, com todas as evidências (tickets abertos) de detalhamento necessárias para todos os impactados;</li><li>Posicionar a liderança sobre as solicitações ou incidentes que não forem evoluídos após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área;</li><li>Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e outros), quanto para o resultado e as metas da área;</li><li>Diagnosticar as necessidades da área para identificar e sugerir melhorias e/ou inovações nos processos/metodologias;</li><li>Analisar as necessidades do cliente para identificar oportunidades e oferecer novos serviços da área;</li><li>Participar de comunidades, fóruns técnicos e canais de comunicação do segmento. Acompanhar as documentações e apoiar nos retornos e soluções para clientes internos e externos;</li><li>Contribuir de forma efetiva para a melhoria dos processos, sendo referência para o time;</li><li>Apontar diariamente as ordens de serviço nos projetos em que atuou;</li><li>Registrar todas as interações realizadas durante o atendimento das demandas em sistemas de chamado, e-mails, documentações específicas e demais canais utilizados no atendimento.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo ou cursando em Tecnologia da Informação ou correlatas;</li><li>Experiência no Sistema Protheus Foco: Backoffice; </li><li>Modulos atendidos: ACD, COM, EST, FAT, FIS, EIC, MNT, OMS,GFE, TAF, CFG.</li></ul><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8698/suporte-analista-de-suporte-tecnico-pleno-protheus-materiais]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6c8800d6-7e25-4dba-b8ac-9928db710735]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Dados] Assistente Administrativo de Dados e Inteligência Artifical]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>Missão do cargo:</b> Este profissional atuará como um elo de soluções administrativo-tecnológicas. O objetivo é organizar e simplificar o dia a dia do Hub, substituindo controles manuais por processos digitais, com o apoio de ferramentas de IA disponibilizadas pela empresa. A missão é garantir que as informações estejam sempre prontas e corretas.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Diagnóstico e Estruturação:</b><br />•	Apoiar o diagnóstico de fluxos de trabalho do Hub para identificar gargalos e "zonas de esforço operacional".<br />•	Organizar e canalizar as demandas do Hub, em conjunto com as áreas de TI, IA e Dados, para converter necessidades de automação em ferramentas digitais.<br />•	Construir e alimentar indicadores e dashboards, facilitando o acompanhamento dos resultados do Hub pela liderança.<br /><br /><br /><b>Desenvolvimento e Automação:</b><br />•	Atuar na construção de soluções de automação e de IA ajudando a implementar assistentes virtuais que organizem as rotinas operacionais do Hub.<br />•	Apoiar na montagem de automações no-code/low-code conectando diferentes ferramentas da Companhia (exs: e-mail, Excel etc.).<br />•	Viabilizar a modernização das rotinas do Hub, atuando em iniciativas de evolução tecnológica, auxiliando na organização de arquivos e na transição de processos físicos para o ambiente digital.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />•	Formação Acadêmica: Cursando Graduação em Gestão de TI e afins;<br />•	Inteligência Artificial Generativa: Conhecimento prático no uso de ferramentas homologadas (Gemini, ChatGPT, Copilot, etc.) para otimização de tarefas, redação e pesquisa;<br />•	Ferramentas de Agilidade e Automação: Familiaridade com ferramentas no-code/low-code (como Power Automate) para criação de fluxos simples e organização de tarefas;<br />•	Conhecimento em Google Workspace (Drive, Docs, Sheets, Slides);<br />•	Conhecimento em Excel Avançado (fórmulas, tabelas dinâmicas e organização de dados);<br />•	Familiaridade com ferramentas de visualização de dados (Power BI ou Looker Studio);<br />•	Processos: Mapeamento de processos e organização de fluxos de trabalho.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8745/dados-assistente-administrativo-de-dados-e-inteligencia-artifical]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -13775,25 +13803,6 @@ orçamento</b> empresarial</li><li><b>Excel </b>avançado.</li></ul>]]></descrip
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/selbetti/377/motorista-pleno]]></applyUrl>
     <companyId><![CDATA[428174]]></companyId>
     <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[60237a11-a8d6-40b6-a9d5-b6ffc1766904]]></partnerJobId>
-    <company><![CDATA[Selbetti Tecnologia]]></company>
-    <title><![CDATA[Consultor Técnico]]></title>
-    <posterEmail><![CDATA[samantha.kindermann@selbetti.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na Selbetti, estamos mudando o mundo da tecnologia com soluções inovadoras! Nossa equipe é formada por criativos, pensadores fora da caixa e, claro, apaixonados por tecnologia. Se você está cansado do mesmo de sempre e procura um lugar onde possa brilhar, você está no lugar certo!<br /><br /><strong><em>TODAS AS NOSSAS VAGAS ESTÃO ABERTAS PARA PESSOAS COM DEFICIÊNCIA!</em></strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><b>Receber, avaliar e oferecer soluções para as demandas </b>dos clientes, de acordo com chamados técnicos e o SLA de atendimento;</li><li>Executar<b> atendimentos em campo</b>, assumindo a responsabilidade pela manutenção de impressoras e multifuncionais, que inclui <b>desmontagem, limpeza, troca de peças e insumos</b>, além da remontagem dos equipamentos;</li><li>Realizar <b>testes funcionais</b> para assegurar o correto funcionamento dos dispositivos;</li><li>Atualizar o status do atendimento até a sua finalização;</li><li>Manter <b>comunicação </b>contínua com o cliente.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Ensino Médio </b>Completo ou cursando técnico.</li><li><b>Experiência técnica</b> em manutenção de impressoras e T.I.</li><li>Possuir <b>CNH</b> ativa com categoria B.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/selbetti/503/consultor-tecnico]]></applyUrl>
-    <companyId><![CDATA[428174]]></companyId>
-    <city><![CDATA[Mafra]]></city>
     <state><![CDATA[SC]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -73605,69 +73614,6 @@ Noções de atendimento, exposição de produtos e mercado varejista.</li></ul>]
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/jeitocaseiro/65/tecnico-de-panificacao-i]]></applyUrl>
     <companyId><![CDATA[11249464]]></companyId>
     <city><![CDATA[Nova Friburgo]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[5c137fff-440a-41f2-8cdb-f43e5904cc1a]]></partnerJobId>
-    <company><![CDATA[Jeito Caseiro]]></company>
-    <title><![CDATA[Assistente Administrativo]]></title>
-    <posterEmail><![CDATA[marcela.ribeiro@jeitocaseiro.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um <strong>Assistente Administrativo</strong> para atuar em nossa <strong>indústria de panificação</strong>, sendo responsável por apoiar as rotinas administrativas da unidade e atuar como elo entre a filial e os departamentos da matriz, como <strong>Financeiro, Recursos Humanos, Departamento Pessoal e Compras</strong>.
-Esse profissional terá papel fundamental na <strong>organização das informações, realização de lançamentos e acompanhamento das demandas administrativas</strong>, garantindo que todas as solicitações da unidade sejam direcionadas corretamente e acompanhadas junto às áreas responsáveis na matriz.
-Buscamos uma pessoa <strong>organizada, proativa e com boa comunicação</strong>, que tenha facilidade em lidar com diferentes demandas administrativas e que contribua para o bom funcionamento das rotinas da unidade.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Rotinas Administrativas</b>
-<ul>
-<li>
-Apoiar as rotinas administrativas da filial.
-</li>
-<li>
-Realizar lançamentos de notas fiscais e encaminhar boletos ao Financeiro da matriz.
-</li>
-<li>
-Solicitar compras de materiais e acompanhar pedidos junto à matriz.
-</li>
-</ul>
-<b>Controle Operacional</b>
-<ul>
-<li>
-Apoiar o controle de estoque e inventários, realizando registros e conferências.
-</li>
-<li>
-Acompanhar e organizar informações administrativas da unidade.
-</li>
-</ul>
-<b>Apoio a RH e Departamento Pessoal</b>
-<ul>
-<li>
-Organizar e encaminhar documentações de RH e Departamento Pessoal.
-</li>
-<li>
-Auxiliar no processo de integração de novos colaboradores.
-</li>
-<li>
-Apoiar o controle de ponto e o envio de informações trabalhistas e de segurança do trabalho.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino médio completo e/ou cursando Administração ou áreas a fins.</li><li>Conhecimento intermediário ou avançado em Excel.</li><li>Organização e atenção aos detalhes, garantindo controle e acompanhamento das rotinas administrativas.
-</li>
-<li>
-Proatividade, com capacidade de antecipar demandas e apoiar diferentes áreas da empresa.
-</li>
-<li>
-Responsabilidade e comprometimento com prazos e qualidade das informações.
-</li>
-<li>
-Discrição e ética, principalmente no tratamento de informações relacionadas a RH e Departamento Pessoal.
-</li>
-<li>
-Capacidade de lidar com múltiplas demandas, mantendo organização e priorização das atividades.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/jeitocaseiro/71/assistente-administrativo]]></applyUrl>
-    <companyId><![CDATA[11249464]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[RJ]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
