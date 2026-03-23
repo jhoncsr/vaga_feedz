@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Mon, 23 Mar 2026 22:17:00 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Mar 2026 23:13:57 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3223]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3222]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[79bbfbb9-e95d-48e4-aaef-8331fcc2f698]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -2420,206 +2420,6 @@ Idioma: Inglês ou espanhol intermediário.<b></b><br />]]></description>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[d80090e7-c649-41cc-93df-8f6188fc26fc]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Serviço] Analista Pleno De Serviços Cloud]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Realizar o atendimento de suporte à infraestrutura dos ambientes dos clientes, contribuindo para a satisfação dos clientes atendidos pela operação de Cloud.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar atendimento aos ambientes Cloud dos clientes por meio dos canais TOTVS, solucionando demandas de média complexidade relacionadas à infraestrutura.
-</li>
-<li>
-Revisar e classificar tickets, quando necessário, aplicando a categorização adequada e seguindo os processos definidos para atendimento das metas estabelecidas.
-</li>
-<li>
-Registrar solicitações dos clientes no sistema de atendimento, incluindo todas as evidências e detalhamentos necessários para acompanhamento pelos envolvidos.
-</li>
-<li>
-Escalonar solicitações ou incidentes para o próximo nível quando não houver evolução dentro do tempo estimado, registrando as ações realizadas e os resultados obtidos para continuidade da solução.
-</li>
-<li>
-Avaliar tickets abertos pelos clientes e realizar reclassificação ou categorização quando necessário, conforme os processos documentados pela área.
-</li>
-<li>
-Fornecer status das demandas em andamento quando solicitado por clientes ou equipes internas, utilizando os canais de atendimento disponíveis (telefone, e-mail ou sistema).
-</li>
-<li>
-Contribuir para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação, entre outros) e para os resultados da área, executando as demandas conforme os procedimentos definidos pela operação Cloud.
-</li>
-<li>
-Alertar coordenação e liderança sobre potenciais riscos ou crises em clientes, registrando tickets conforme os procedimentos internos estabelecidos.
-</li>
-<li>
-Manter atualizados os FAQs e a base de conhecimento com soluções aplicadas aos clientes, documentando artigos KCS de nível 1 a partir de demandas recorrentes.
-</li>
-<li>
-Apoiar processos de melhoria contínua, identificando problemas, propondo soluções e sugerindo ações para otimização das atividades.
-</li>
-<li>
-Apoiar o desenvolvimento de analistas mais juniores por meio da disseminação de conhecimento e compartilhamento de boas práticas.
-</li>
-<li>
-Realizar instalações e migrações de média complexidade de produtos TOTVS e/ou de mercado no ambiente Cloud, a partir de demandas registradas pelos clientes.
-</li>
-<li>
-Diagnosticar problemas nos ambientes dos clientes de forma proativa, utilizando ferramentas de monitoramento para antecipar possíveis incidentes.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li><strong>Formação Acadêmica</strong>
-<ul>
-<li>
-Graduação em Tecnologia da Informação ou áreas correlatas.
-</li>
-</ul>
-</li>
-<li>
-<strong>Conhecimentos Específicos</strong>
-<ul>
-<li>
-Administração de ambientes relacionados ao produto TOTVS – nível intermediário.
-</li>
-<li>
-Infraestrutura e Datacenter – nível intermediário.
-</li>
-<li>
-Infraestrutura de nuvens públicas – nível básico.
-</li>
-<li>
-Ferramentas de automação – nível básico.
-</li>
-</ul>
-</li>
-<li>
-<strong>Certificações</strong>
-<ul>
-<li>
-ITIL Foundation (Information Technology Infrastructure Library).
-</li>
-<li>
-Certificações em sistemas operacionais ou banco de dados – desejável.
-</li>
-</ul>
-</li>
-<li>
-<strong>Idioma</strong>
-<ul>
-<li>
-Inglês – nível básico.
-</li>
-</ul>
-</li>
-<li>
-<strong>Conhecimento no ERP Datasul</strong>
-<ul>
-<li>
-Conhecimento da arquitetura básica do Datasul (AppServer, banco de dados e camadas da aplicação).
-</li>
-<li>
-Compreensão da estrutura de ambientes de produção, homologação e desenvolvimento.
-</li>
-<li>
-Experiência em processos de atualização de pacotes, patches e fixes do Datasul.
-</li>
-<li>
-Instalação e configuração de componentes do ambiente Datasul.
-</li>
-<li>
-Noções de troubleshooting funcional e técnico do ERP.
-</li>
-<li>
-Leitura e análise de logs do Datasul para identificação e diagnóstico de erros.
-</li>
-<li>
-Conhecimento em integrações do Datasul com outras soluções TOTVS ou sistemas externos.
-</li>
-<li>
-Conhecimento básico da linguagem Progress 4GL/ABL, especialmente para interpretação e análise de erros.
-</li>
-</ul>
-</li>
-<li>
-<strong>Banco de Dados (Progress / OpenEdge)</strong>
-<ul>
-<li>
-Administração básica do Progress OpenEdge.
-</li>
-<li>
-Conhecimento da estrutura de banco de dados do Datasul.
-</li>
-<li>
-Execução de comandos administrativos do banco de dados.
-</li>
-<li>
-Inicialização e parada do banco de dados (start/stop).
-</li>
-<li>
-Verificação de estado do banco de dados.
-</li>
-<li>
-Análise de sessões conectadas.
-</li>
-<li>
-Análise de locks, transações e concorrência.
-</li>
-<li>
-Monitoramento de uso de recursos do banco (memória, disco e I/O).
-</li>
-<li>
-Execução de rotinas de manutenção, como rebuild de índices.
-</li>
-<li>
-Análise de logs e verificação de inconsistências.
-</li>
-<li>
-Noções de performance tuning básico.
-</li>
-</ul>
-</li>
-<li>
-<strong>Sistemas Operacionais</strong>
-<strong>Linux (principal)</strong>
-<ul>
-<li>
-Utilização de comandos essenciais: top, htop, ps, df, du, free, iostat, vmstat.
-</li>
-<li>
-Gerenciamento de serviços.
-</li>
-<li>
-Análise de consumo de CPU, memória e disco.
-</li>
-<li>
-Manipulação de arquivos e análise de logs.
-</li>
-<li>
-Gerenciamento de permissões e usuários.
-</li>
-<li>
-Configuração de tarefas agendadas (crontab) e automações simples.
-</li>
-</ul>
-<strong>Windows Server (quando aplicável)</strong>
-<ul>
-<li>
-Administração básica do sistema.
-</li>
-<li>
-Análise e gerenciamento de serviços.
-</li>
-<li>
-Utilização do Event Viewer para análise de eventos e erros.
-</li>
-<li>
-Monitoramento e gerenciamento de recursos do sistema.</li></ul></li><br /><br /><br /><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8991/servico-analista-pleno-de-servicos-cloud]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[4cc5cb8d-21af-4ac6-b522-078da67fc889]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Tech] Engenharia de Software Fullstack Senior - Progress | Datasul]]></title>
@@ -3522,99 +3322,6 @@ práticas disponíveis para o produto e tecnologia utilizados; </li><li>Utiliza
 Conhecimentos específicos: </li><li>Lógica de Programação;</li><li> Banco de Dados – nível básico; </li><li>Linguagem de programação utilizada pelo time: ADVLP, C#, Progress,
 4GL, Java, outros) </li><li>Fundamento em testes unitários; </li><li>Arquitetura web </li><li>Métodos ágeis de desenvolvimento de software </li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9128/tech-engenharia-de-software-junior-advpl-protheus]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[9b86db5e-26a6-4e21-9a95-5db4299c986f]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[DevOps] Analista Sênior DevOps - Produto RM - Windows]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Participar e sustentar a cultura DevOps através da disseminação de valores, princípios, ferramentas e práticas DevOps, com o objetivo de impulsionar a excelência operacional e maximizar a entrega de valor para os produtos do ecossistema RM, PVI, TReports e SmartView da TOTVS em uma nuvem de propósito específico.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
-<li>
-Desenvolver, testar e sustentar funcionalidades de DevOps relacionadas às tecnologias da TOTVS Cloud, garantindo valor, satisfação do cliente e sustentabilidade das soluções
-</li>
-<li>
-Utilizar IA + IH (Inteligência Artificial + Inteligência Humana) para acelerar e elevar a qualidade das entregas de DevOps
-</li>
-<li>
-Compartilhar padrões, conhecimentos e boas práticas de DevOps com os times por meio de documentação, comunicação e reuniões (presenciais ou online)
-</li>
-<li>
-Participar de dailys, plannings e reviews de sprint dentro do método ágil, reportando demandas, bloqueios e evolução das tarefas
-</li>
-<li>
-Estudar a estrutura da TOTVS Cloud e contribuir, com o tempo, para a evolução da arquitetura DevOps dos produtos RM, PVI, TReports e SmartView</li></ul><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Cerca de 5 anos de experiência total, sendo pelo menos 3 anos como ponto focal técnico em DevOps ou 5 anos como desenvolvedor de software
-</li>
-<li>
-Ensino superior completo em áreas de Tecnologia
-</li>
-<li>
-Domínio avançado em Git para versionamento de código, via linha de comando ou interface gráfica
-</li>
-<li>
-Experiência avançada com VS Code, utilizando extensões e agentes de IA para acelerar o desenvolvimento e melhorar a qualidade das entregas
-</li>
-<li>
-Conhecimento intermediário em testes automatizados com Pester (PowerShell) e Pytest (Python)
-</li>
-<li>
-Experiência avançada com Google Cloud Platform (GCP), incluindo pipelines com triggers, Storage, Artifact Registry e gestão de secrets
-</li>
-<li>
-Conhecimento intermediário em GitLab / GitHub Actions para integração e entrega contínua
-</li>
-<li>
-Noções básicas de GitOps
-</li>
-<li>
-Experiência básica com AWS S3 (criação e manutenção de buckets)
-</li>
-<li>
-Conhecimento básico em Infraestrutura como Código (IaC) utilizando Packer e Ansible
-</li>
-<li>
-Domínio avançado de PowerShell e conhecimento intermediário em Python
-</li>
-<li>
-Experiência com estruturas de dados e metadados: JSON, YAML, XML e Properties — avançado
-</li>
-<li>
-Administração intermediária de Windows Server 2016+, incluindo Nginx, rede, firewall, gestão de usuários, registro do Windows e variáveis de ambiente
-</li>
-<li>
-Compreensão intermediária de arquiteturas escaláveis, de alta disponibilidade e microserviços
-</li>
-<li>
-Domínio na leitura e análise de logs (.json e .log)
-</li>
-<li>
-Habilidade avançada em troubleshooting e resolução de problemas em ambientes Windows Server
-</li>
-<li>
-Experiência avançada em monitoramento e otimização contínua de performance de sistemas
-</li>
-<li>
-Compreensão sólida da cultura e práticas DevOps
-</li>
-<li>
-Experiência intermediária com pelo menos duas plataformas de cloud (AWS, Azure ou GCP)
-</li>
-<li>
-Certificação DevOps Professional obrigatória
-</li>
-<li>
-Inglês em nível básico</li><br /><br /><br /><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8949/devops-analista-senior-devops-produto-rm-windows]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -20396,6 +20103,27 @@ Vivência em ambiente corporativo estruturado.]]></description>
     <companyId><![CDATA[1]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b066069a-b5c1-4f9c-9cbb-2a819a5cd5f9]]></partnerJobId>
+    <company><![CDATA[Fundação Oswaldo Aranha]]></company>
+    <title><![CDATA[Técnico em Análises Clínicas]]></title>
+    <posterEmail><![CDATA[debora.cyrne@foa.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos profissionais que desejam desenvolver sua carreira na área de análises clínicas, em um ambiente que valoriza a excelência, a inovação e o trabalho em equipe.
+Oferecemos um espaço de aprendizado contínuo, com oportunidades de crescimento e desenvolvimento profissional, contribuindo diretamente para a saúde e o bem-estar da comunidade.
+Se você é apaixonado(a) pela área da saúde e busca novos desafios, venha fazer parte do nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar a coleta, análise e processamento de amostras biológicas, incluindo sangue, urina e outros fluidos corporais.<br /> - Executar testes laboratoriais seguindo protocolos estabelecidos e garantindo a precisão dos resultados.<br /> - Manter a organização e a limpeza do laboratório, assegurando condições adequadas de trabalho.<br /> - Calibrar e realizar manutenções preventivas e corretivas em equipamentos e instrumentais utilizados.<br /> - Atualizar e registrar dados e resultados de exames em sistemas de informação laboratoriais.<br /> - Colaborar com a equipe técnica e demais profissionais da saúde para a interpretação de resultados e suporte ao diagnóstico.<br /> - Seguir as normas de biossegurança e garantir o correto descarte de materiais biológicos e químicos.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação técnica em Análises Clínicas.<br /> - Registro ativo no conselho de classe pertinente.<br /> - Conhecimento em práticas de coleta de material biológico.<br /> - Familiaridade com equipamentos e técnicas laboratoriais.<br /> - Habilidade em realizar análises e interpretar resultados.<br /> - Atenção a detalhes e precisão nas atividades.<br /> - Capacidade de trabalhar em equipe e boa comunicação.<br /> - Noções de biossegurança e ética no laboratório.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/centraldorecrutador/62/tecnico-em-analises-clinicas]]></applyUrl>
+    <companyId><![CDATA[1324688]]></companyId>
+    <city><![CDATA[Volta Redonda]]></city>
+    <state><![CDATA[RJ]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
