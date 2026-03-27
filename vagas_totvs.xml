@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 27 Mar 2026 20:14:30 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Mar 2026 21:19:49 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3218]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3221]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[79bbfbb9-e95d-48e4-aaef-8331fcc2f698]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -1679,10 +1679,10 @@ clientes e áreas envolvidas no projeto/atendimento; </li><li>Utiliza framework
   <job>
     <partnerJobId><![CDATA[19f37e55-fd42-4080-a810-4a60efc9c744]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Infra] Especialista II De Infraestrutura De Cloud]]></title>
+    <title><![CDATA[Especialista I de Infraestrutura de Cloud (IA OPS)]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Arquitetar e evoluir a infraestrutura da plataforma de IA da Cloud TOTVS de forma segura, escalável e sustentável, assegurando previsibilidade operacional, eficiência financeira e baixo acoplamento tecnológico, de modo a sustentar o crescimento contínuo dos serviços de inferência e dos produtos de IA da companhia.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Arquitetar e evoluir a infraestrutura de inferência e suporte a treinamento e fine-tuning de modelos, com abordagem <strong>GPU-first</strong>, considerando ambientes on-premises, cloud e serviços externos quando aplicável.</li><li>Definir a arquitetura do ambiente, incluindo topologias de rede, isolamento de workloads, alta disponibilidade, capacidade e resiliência.</li><li>Planejar e executar a implantação da plataforma de IA, garantindo compatibilidade entre hardware, sistema operacional, drivers, stacks CUDA (ou equivalentes), Kubernetes e plataformas de inferência.</li><li>Operar e sustentar a plataforma de inferência em produção, assegurando disponibilidade, desempenho e continuidade operacional (em escopo de arquitetura estratégica).</li><li>Apoiar o planejamento e a execução de ações de melhoria decorrentes de incidentes complexos envolvendo GPUs, Kubernetes, redes, storage e workloads de inferência.</li><li>Aplicar práticas de SRE, incluindo definição e acompanhamento de SLOs, SLIs, error budgets e gestão de incidentes.</li><li>Operar e evoluir stacks de inferência comerciais e open source (ex.: NVIDIA AI Enterprise, Triton, vLLM, KServe), garantindo portabilidade e mitigação de lock-in.</li><li>Definir e padronizar o uso de serviços de inferência quando aplicável (ex.: Triton, NIM).</li><li>Arquitetar e operar clusters Kubernetes para workloads de IA, com foco em isolamento multi-tenant, GPU scheduling, concorrência, filas, backpressure e escalabilidade.</li><li>Implementar observabilidade full stack, abrangendo infraestrutura, GPUs, Kubernetes e serviços de inferência.</li><li>Garantir visibilidade sobre consumo de recursos, capacidade, riscos operacionais e impacto financeiro das cargas de IA.</li><li>Apoiar processos de capacity planning e planejamento orçamentário, avaliando trade-offs entre soluções comerciais e open source.</li><li>Integrar práticas de DevSecOps desde a concepção até a operação da plataforma.</li><li>Garantir conformidade com políticas de segurança, auditoria, controle de acesso e segregação de ambientes.</li><li>Disseminar padrões técnicos, boas práticas e conhecimento por meio de documentação estruturada e mentorias técnicas.</li><li>Apoiar tecnicamente fóruns internos e processos decisórios relacionados à infraestrutura de IA.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Experiência </strong><ul><li>Experiência mínima de 5 anos em infraestrutura de TI, cloud ou plataformas distribuídas, com atuação em ambientes críticos.</li><li>Experiência comprovada em arquitetura e operação de sistemas distribuídos, preferencialmente com workloads de dados, analytics ou IA.</li><li>Vivência mínima de 3 anos em equipes multidisciplinares, interagindo com times de produto, dados, segurança e arquitetura.</li></ul><strong>Formação Acadêmica</strong><ul><li>Graduação em Tecnologia da Informação, Engenharia, Ciência da Computação ou áreas correlatas.</li><li>Pós-graduação ou MBA em Arquitetura de Software, Cloud Computing, Sistemas Distribuídos, Segurança da Informação ou áreas afins (desejável).</li></ul><strong>Idiomas</strong><ul><li>Inglês avançado para leitura técnica, escrita e conversação, com capacidade de participar de discussões técnicas e estratégicas.</li></ul><strong>Certificações (diferenciais)</strong><ul><li>Certificações relacionadas a Kubernetes, Cloud Pública e Infraestrutura como Código (IaC).</li></ul><strong>Conhecimentos Específicos / Habilidades</strong><ul><li>Domínio de sistemas distribuídos, incluindo concorrência, balanceamento de carga, isolamento de workloads, filas e backpressure.</li><li>Experiência sólida em Kubernetes, incluindo ambientes gerenciados (EKS, GKE, AKS), scheduling avançado e isolamento multi-tenant.</li><li>Conhecimento avançado em ambientes de missão crítica, com foco em alta disponibilidade, resiliência e continuidade operacional.</li><li>Domínio de arquitetura de redes aplicadas a cloud e Kubernetes (TCP/IP, DNS, Load Balancers, Firewalls, SDN).</li><li>Domínio na aplicação de soluções de storage para workloads I/O intensive em Kubernetes e ambientes de grande escala.</li><li>Experiência com serviços de nuvem pública (AWS, Azure e/ou GCP) e entendimento do modelo de responsabilidade compartilhada.</li><li>Domínio de observabilidade (métricas, logs e traces) aplicada a infraestrutura e plataformas de IA.</li><li>Experiência com Infraestrutura como Código (IaC) e automação.</li><li>Conhecimento aplicado em práticas de DevSecOps e SRE.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8762/infra-especialista-ii-de-infraestrutura-de-cloud]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Desenhar, automatizar e operar os pipelines de ciclo de vida de IA da Cloud TOTVS,<br />garantindo execução confiável, reprodutível e escalável dos processos de dados, treinamento,<br />deploy e inferência, com eficiência operacional e alinhamento às práticas de DevOps, MLOps e<br />LLMOps.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Projetar e implementar pipelines de IA (dados, treinamento, avaliação, deploy e<br />inferência)<br />● Orquestrar workflows distribuídos garantindo execução, dependências e recuperação de<br />falhas<br />● Automatizar o ciclo de vida de modelos com práticas de CI/CD (MLOps / LLMOps)<br />● Implementar versionamento de dados, modelos e experimentos<br />Separar e gerenciar pipelines de treino, inferência e avaliação contínua<br />● Integrar pipelines com ambientes Kubernetes, plataformas de inferência e serviços<br />externos<br />● Garantir reprodutibilidade dos processos de treinamento e deploy<br />● Implementar gatilhos baseados em eventos (ex.: novos dados, mudanças de modelo)<br />● Monitorar execução dos pipelines, identificando falhas, gargalos e oportunidades de<br />otimização<br />● Integrar pipelines com práticas de observabilidade (logs, métricas, tracing)<br />● Apoiar a construção de pipelines para LLMs (RAG, agentes, uso de tools e APIs)<br />● Trabalhar em conjunto com times de dados e produto para operacionalizar modelos em<br />produção<br />● Aplicar práticas de DevSecOps ao longo dos pipelines<br />● Documentar fluxos, padrões e boas práticas de orquestração<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>● Experiência mínima de 3 a 5 anos em tecnologia da informação, com atuação em</b><br /><b>automação, DevOps, engenharia de dados ou plataformas distribuídas</b><br /><b>● Experiência prática na construção e operação de pipelines (CI/CD, dados ou modelos),</b><br /><b>com foco em automação e reprodutibilidade</b><br /><b>● Vivência com orquestração de workflows e integração entre sistemas (APIs, serviços,</b><br /><b>eventos)</b><br /><b>● Experiência em ambientes com containers e Kubernetes</b><br /><b>● Atuação em times multidisciplinares, interagindo com áreas de desenvolvimento, dados,</b><br /><b>infraestrutura e produto</b><br /><b><br /></b><br /><b>Formação Acadêmica</b><br /><b>● Graduação em Tecnologia da Informação, Ciência da Computação, Engenharia da</b><br /><b>Computação, Sistemas de Informação ou áreas correlatas</b><br /><b>● Pós-graduação ou especialização em áreas como: Engenharia de Dados, Inteligência</b><br /><b>Artificial ou Machine Learning, Cloud Computing, Sistemas Distribuídos e DevOps /</b><br /><b>Engenharia de Plataforma (desejável)</b><br /><b><br /></b><br /><b>Idiomas:</b><br /><b>● Inglês avançado para leitura técnica, escrita e conversação, com capacidade de participar</b><br /><b>de discussões técnicas e estratégicas.</b><br /><b><br /></b><br /><b>Certificações Desejáveis:</b><br /><b><br /></b><br /><b>● Kubernetes (CKA, CKAD ou CKS)</b><br /><b>● NVIDIA Certified - NVIDIA Certified Professional – AI Infrastructure (NCP-AI)</b><br /><b>● Linux (LPIC-3, RHCE ou equivalente)</b><br /><b>● Devops em Cloud Providers:</b><br /><b>○ Amazon Web Services Certified DevOps Engineer – Professional</b><br /><b>○ Google Cloud Professional Cloud DevOps Engineer</b><br /><b>○ Oracle Cloud Infrastructure DevOps Professional</b><br /><b>○ AZ-400 – Azure DevOps Engineer Expert</b><br /><b>● Docker Docker Certified Associate (DCA)</b><br /><b>● GitHub Actions Certification (GitHub Certified: GitHub Actions)</b><br /><b>● Certificações em Segurança, DevSecOps ou Arquitetura (CISSP, CCSK, TOGAF –</b><br /><b>diferenciais)</b><br /><b>● Cloud (AWS, Azure, GCP e OCI)</b><br /><b>○ AWS Certified Solutions Architect</b><br /><b>○ GCP Professional Cloud Architect</b><br /><b>○ Microsoft Azure Solutions Architect Expert (AZ-305)</b><br /><b>○ Oracle Cloud Infrastructure Architect Professional</b><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8762/especialista-i-de-infraestrutura-de-cloud-ia-ops]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -1947,10 +1947,10 @@ e Projetos, Serviços, Financial Services e Hospitality)</i></b>; </li><li>Viv�
   <job>
     <partnerJobId><![CDATA[58f32faa-015b-42ed-896f-0fba3252d54c]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Inside Sales -  Hunter | Segmento do Setor Público]]></title>
+    <title><![CDATA[[Vendas] Analista Comercial Júnior - Inside Sales | Setor Público]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Gerir  a carteira de clientes sob sua responsabilidade e construir relacionamento visando reter, desenvolver e rentabilizar através da geração de novos negócios, elevando o nível de satisfação da base de clientes TOTVS.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br /><ul><li>Mapear possíveis leads no mercado e estreitar o relacionamento de forma a gerar oportunidades no sistema S;</li><li>Desenvolver estratégias detalhadas de prospecção e gestão de pipeline, garantindo a qualificação contínua de oportunidades;</li><li>Se manter atento às tendências de mercado e estratégia da companhia de forma a apoiar nas estratégias de prospecção;</li><li>Conduzir o processo comercial de vendas de forma consultiva; </li><li>Elaborar questionamentos a fim de levantar oportunidades de trabalho dentro do prospect e gerir a carteira de cliente a ser construído;</li><li>Se manter atento às atualizações de produtos TOTVS e ter curiosidade na busca de aprendizado constante; </li><li>Conduzir o processo comercial de vendas de forma consultiva; </li><li>Assertividade na gestão de forecast. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo; </li><li><b><i>Conhecimento e vivência no segmento Setor Público</i></b>; </li><li>Vivência com vendas complexas e consultivas B2B de software de tecnologia e ERP;</li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li>Habilidade de negociação, comunicação e gestão de relacionamento com decisores;</li><li>Perfil organizado, proativo, resiliente e orientado a resultados;</li><li>Alta autonomia, disciplina e senso de responsabilidade para gerenciar carteira, pipeline e agenda;</li><li>Disponibilidade para viagens e atuação em modelo híbrido.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9236/vendas-inside-sales-hunter-segmento-do-setor-publico]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9236/vendas-analista-comercial-junior-inside-sales-setor-publico]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
     <state><![CDATA[MG]]></state>
@@ -2381,10 +2381,10 @@ problemas; <br />Realizar o pós-venda junto aos clientes TOTVS, garantindo a s
   <job>
     <partnerJobId><![CDATA[799af661-bb10-4794-ba79-f56614f5475c]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Gerente de Contas RH Pleno - Cross (Híbrido)]]></title>
+    <title><![CDATA[[Vendas] Gerente de Contas Pleno - Hunter e Farmer | Segmento de RH]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional para garantir o cumprimento das metas através da comercialização de produtos TOTVS vocacionados para o RH, tais como, admissão digital, atração de talentos, folha, ponto entre outros.<br />Atuar no processo de tal forma que permita buscar um suspect, compreender suas necessidades, apresentar produtos e serviços, gerar oportunidades, propor, adequar, vender e entregar soluções, sempre mantendo um contínuo relacionamento técnico e empresarial.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br /><ul><li>Construir relacionamento visando rentabilizar, blindar e elevar o nível de satisfação dos clientes TOTVS em relação às responsabilidades do AR nos indicadores de NPS<br /></li><li>Prospectar novos negócios na base instalada e/ou em novos clientes, visando ampliar Market Share TOTVS. <br /></li><li>Planejar e executar o plano tático alinhado ao planejamento estratégico da DRG e resultados de vendas no segmento/região de atuação;<br /></li><li>Ser especialista e liderar o assunto no seu negócio, sendo capaz de estabelecer discursos e formas de atuação altamente adequadas ao perfil de cada cliente/prospect/segmento; <br /></li><li>Assegurar o cumprimento das metas individuais e metas de venda do time do Comercial em que estiver atuando, de acordo com a estratégia da TOTVS; <br /></li><li>Visitar e assistir a base instalada e os novos clientes, garantindo sempre a excelência do atendimento TOTVS e buscando recorrentemente novos negócios; <br /></li><li>Atender e se relacionar com o mercado e com a base instalada, através de visitas, reuniões, contatos telefônicos e e-mails; <br /></li><li>Planejar, executar e liderar o processo de vendas de um produto ou serviço TOTVS ao mercado; <br /></li><li>Levantar e analisar as informações do negócio, compilar e montar um plano de trabalho apoiado pela metodologia de vendas TOTVS;<br /></li><li>Registrar no CRM e comunicar a área de Estratégia Comercial/Operações e Segmentos, informações relevantes sobre mercado/carteira;<br /></li><li>Atuar como facilitador para a solução das demandas dos clientes e prospects; <br /></li><li>Realizar a interface com as áreas internas da TOTVS; <br /></li><li>Acompanhar a entrega dos produtos e/ou serviços TOTVS, garantindo que os acordos sejam cumpridos e os objetivos atendidos; <br /></li><li>Mentorar profissionais do AR com o objetivo de compartilhar conhecimento e colaborar para o desenvolvimento da equipe; <br /></li><li>Ser referência técnica e comercial no seu segmento de atuação; <br /></li><li>Atuar de forma consultiva em abordagens comerciais por meio de soluções segmentadas conforme área de atuação, potencializando a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo;  </li><li>Vivência com vendas complexas e consultivas B2B de software de tecnologia e ERP;</li><li>Perfil Cross (Híbrido), de prospecção de novos negócios e gestão de carteira.</li><li>Habilidade de negociação, comunicação e gestão de relacionamento com decisores;</li><li>Perfil organizado, proativo, resiliente e orientado a resultados;</li><li>Alta autonomia, disciplina e senso de responsabilidade para gerenciar carteira, pipeline e agenda;</li><li>Disponibilidade para viagens e atuação em modelo híbrido.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8972/vendas-gerente-de-contas-rh-pleno-cross-hibrido]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8972/vendas-gerente-de-contas-pleno-hunter-e-farmer-segmento-de-rh]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[RJ]]></state>
@@ -3455,10 +3455,10 @@ repassadas aos clientes.</li></ul><br /><br /><b>Requisitos e qualificações</b
   <job>
     <partnerJobId><![CDATA[ec663fca-8739-4709-8a8d-236cf58875e9]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Gerente de Contas Especialistas - Farmer | Parcerias Estratégicas]]></title>
+    <title><![CDATA[[Vendas] Especialista em Gestão de Contas - Parcerias Estratégicas]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Atuar como o elo estratégico entre a TOTVS e os parceiros e canais da TOTVS. Sua missão é construir e sustentar alianças de longo prazo, posicionando-se como um conselheiro de confiança para que esses parceiros gerem oportunidades qualificadas, garantindo que a TOTVS seja a escolha natural. <br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br />•  Lidar diretamente com sócios e diretores de grandes consultorias e canais, entendendo o modelo de negócio dessas empresas para gerar sinergia;<br />• Focar na estratégia de influência onde o parceiro indica o cliente e você sustenta a construção da venda, sem competir com o canal;<br />• Atuar de forma consultiva, ajudando o parceiro a vender valor e garantindo que o "ponto de conexão" entre O Parceiro e a TOTVS seja fluido;<br />• Mapear perfis, entender a instabilidade das empresas e antecipar movimentos do mercado para blindar a parceria;<br />• Contribuir para a cultura do time, compartilhando conhecimento e ajudando na aceleração da estratégia comercial; <br />Atuar como facilitador para a solução das demandas dos clientes e prospects;<br />• Realizar a interface com as áreas internas da TOTVS;<br />• Entregar e acompanhar a entrega dos produtos e/ou serviços TOTVS, garantindo que os acordos sejam cumpridos e os objetivos atendidos;<br />• Realizar pós-venda com o objetivo de garantir o atendimento e gerar novas oportunidades (Cross Sell e Up Sell);<br />• Mentorar profissionais do AR com o objetivo de compartilhar conhecimento e colaborar para o desenvolvimento da equipe;<br />• Ser referência técnica e comercial no seu segmento de atuação;<br />• Exercer liderança informal na equipe, apoiando diretamente a gestão formal da empresa;<br />• Atuar como multiplicador de conhecimento e auxiliar no desenvolvimento de executivos com alto nível de performance, atuando como buddy para novos TOTVERs;<br />• Atuar de forma consultiva em abordagens comerciais por meio de soluções segmentadas conforme  área de atuação potencializando a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo; </li><li><b><i>Conhecimento e vivência no segmento em Parcerias Estratégicas e Canais;</i></b> </li><li>Vivência com vendas para grandes contas (Large Enterprise);</li><li>Vivência com vendas complexas e consultivas B2B de software de tecnologia e ERP;</li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li>Habilidade de negociação, comunicação e gestão de relacionamento com decisores;</li><li>Perfil organizado, proativo, resiliente e orientado a resultados;</li><li>Alta autonomia, disciplina e senso de responsabilidade para gerenciar carteira, pipeline e agenda;</li><li>Disponibilidade para viagens e atuação em modelo híbrido.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9241/vendas-gerente-de-contas-especialistas-farmer-parcerias-estrategicas]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9241/vendas-especialista-em-gestao-de-contas-parcerias-estrategicas]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -3493,10 +3493,10 @@ repassadas aos clientes.</li></ul><br /><br /><b>Requisitos e qualificações</b
   <job>
     <partnerJobId><![CDATA[d3632c25-fc0b-470c-b431-a622b712e283]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Assistente Comercial | Segmento do Setor Público]]></title>
+    <title><![CDATA[[Vendas] Assistente Comercial | Setor Público]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Garantir o suporte de alto nível aos executivos de vendas do Setor Público, atuando como apoio na elaboração de propostas, organização de processos no CRM Protheus e acompanhamento de metas.<br /><br /><br />Sua missão é trazer agilidade e organização para que o time backoffice comercial assegurando que o fluxo administrativo e o relacionamento com o cliente (interno e externo) de alto nível de excelência. <br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br /><ul><li>Apoiar os executivos de vendas na elaboração de propostas comerciais e no upload de arquivos/documentação no sistema e CRM Protheus;</li><li>Realizar o acompanhamento do Forecast (Previsão de Vendas) x Realizado, gerando relatórios comerciais precisos para a tomada de decisão;</li><li>Inserir e atualizar informações no Protheus (CRM próprio), garantindo a integridade dos dados da área;</li><li>Atender clientes internos (telefone, presencial ou virtual), esclarecendo dúvidas e direcionando demandas com agilidade;</li><li>Participar de reuniões comerciais e de estratégia (CST), auxiliando na criação de apresentações em G Suite/PowerPoint.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Cursando Graduação em Administração, Contabilidade ou áreas correlatas de Negócios;</li><li>Excel Avançado e domínio do G Suite (Google Drive, Docs, Sheets);</li><li>Ser uma pessoa comunicativa, com excelente comunicação e trabalho em equipe;</li><li>Alta energia, proatividade, agilidade e, acima de tudo, pontualidade e compromisso com prazos; </li><li>Disponibilidade para o modelo híbrido (3x presencial durante a semana).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9254/vendas-assistente-comercial-segmento-do-setor-publico]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9254/vendas-assistente-comercial-setor-publico]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -33543,6 +33543,99 @@ análise de propostas comerciais.</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[8aa9fe49-c18d-450d-be59-468a19dfd6e9]]></partnerJobId>
+    <company><![CDATA[Grupo Braga]]></company>
+    <title><![CDATA[ASSISTENTE DE COMPRAS]]></title>
+    <posterEmail><![CDATA[assistente.rh2@grupobraga.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de um novo desafio profissional e deseja fazer parte de uma equipe dinâmica e inovadora? Temos uma oportunidade empolgante que pode ser exatamente o que você procura! Neste ambiente de trabalho colaborativo, valorizamos o talento e a dedicação de nossos colaboradores, oferecendo um espaço onde suas ideias podem florescer e ser reconhecidas. Aqui, investimos no desenvolvimento contínuo de nossas equipes, proporcionando treinamentos e oportunidades para crescimento. Se você tem paixão por organização e busca contribuir para o sucesso de um time, gostaríamos de conhecer você. Venha se conectar conosco e descobrir como sua trajetória pode se alinhar à nossa missão. Não perca a chance de dar o próximo passo na sua carreira. Estamos ansiosos para receber sua candidatura!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Auxiliar no processo de cotação de preços junto a fornecedores
+</li>
+<li>
+Realizar negociações básicas, buscando melhores condições comerciais
+</li>
+<li>
+Emitir pedidos de compra e acompanhar todo o fluxo até a entrega
+</li>
+<li>
+Controlar prazos de entrega e garantir o cumprimento dos acordos
+</li>
+<li>
+Atualizar e manter o cadastro de fornecedores e produtos
+</li>
+<li>
+Conferir notas fiscais e pedidos, garantindo conformidade com o solicitado
+</li>
+<li>
+Apoiar no controle de estoque, evitando faltas ou excessos de materiais
+</li>
+<li>
+Elaborar relatórios e planilhas de controle de compras
+</li>
+<li>
+Manter contato com fornecedores para alinhamentos e follow-ups
+</li>
+<li>
+Dar suporte administrativo às demandas do setor</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino médio completo ou superior cursando</li>
+<li>
+Experiência prévia na área de compras, administrativa ou áreas relacionadas (diferencial)
+</li>
+<li>
+Conhecimento básico em processos de compras e negociação com fornecedores
+</li>
+<li>
+Habilidade com pacote Office, especialmente Excel
+</li><li>
+Noções de controle de estoque e conferência de notas fiscais</li><li>Experiência com sistemas ERP
+</li><li>
+Vivência em contato direto com fornecedores</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupobraga/119/assistente-de-compras]]></applyUrl>
+    <companyId><![CDATA[102365992]]></companyId>
+    <city><![CDATA[Manaus]]></city>
+    <state><![CDATA[AM]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[7e2ded48-6857-409e-8a22-cc9fefff7c82]]></partnerJobId>
+    <company><![CDATA[Grupo Braga]]></company>
+    <title><![CDATA[AUDITOR DE ESTOQUE]]></title>
+    <posterEmail><![CDATA[assistente.rh2@grupobraga.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade que valorize seu potencial e contribua para o seu crescimento profissional? Temos um espaço em nossa equipe que pode ser o que você procura! Aqui, você encontrará um ambiente dinâmico e acolhedor, onde a sua dedicação e habilidades serão reconhecidas e desenvolvidas. Valorizamos a diversidade de experiências e, acima de tudo, a vontade de aprender. Se você é apaixonado(a) pela organização, tem um olhar atento aos detalhes e deseja fazer a diferença em um time colaborativo, convidamos você a se candidatar. Junte-se a nós e faça parte de uma jornada que pode transformar sua carreira. Estamos ansiosos para conhecer seu talento e explorar como você pode contribuir com nosso sucesso! Não perca essa chance de brilhar!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />
+
+
+ 
+  
+  <ul><li>Realizar auditorias periódicas nas
+       unidades </li><li>Executar inventários físicos </li><li>Conferir estoque físico x sistema </li><li>Identificar e registrar divergências </li><li>Investigar causas de perdas </li><li>Validar movimentações (entrada, saída e
+       transferências) </li><li>Emitir relatórios de auditoria </li><li>Apoiar na padronização de processos </li></ul>
+  
+ 
+
+
+<br /><ul><li>
+
+Orientar equipes das unidade</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo (mínimo). Desejável ensino
+superior em Logística, Administração ou áreas correlatas.</li><li>Controle de estoque, inventários e sistemas ERP.</li><li>Excel intermediário, indicadores e processos
+logísticos.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupobraga/120/auditor-de-estoque]]></applyUrl>
+    <companyId><![CDATA[102365992]]></companyId>
+    <city><![CDATA[Manaus]]></city>
+    <state><![CDATA[AM]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[b1a7b29c-3f8d-4daa-bdef-52647f35a369]]></partnerJobId>
     <company><![CDATA[Grupo Braga]]></company>
     <title><![CDATA[ASSISTENTE DE E-COMMERCE]]></title>
@@ -40841,28 +40934,6 @@ análises e relatórios;</li><li>Inglês avançado.</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[418fc81a-06e7-48ac-a5b1-ddc662bbce0f]]></partnerJobId>
-    <company><![CDATA[Prolind Alumínio]]></company>
-    <title><![CDATA[Estágio de Comunicação Interna]]></title>
-    <posterEmail><![CDATA[ana.redua@prolind.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na Prolind, como <b>Estagiário(a) de Comunicação Interna</b><b>,</b> você terá a oportunidade de auxiliar nas rotinas Comunicação Interna
-por meio da produção de conteúdos, atualização de canais e suporte na
-organização de campanhas e ações institucionais, contribuindo para uma
-comunicação clara, integrada e alinhada à cultura organizacional.<br /><br /><b>Se você quer fazer parte de um time que valoriza protagonismo, sinergia e resultados, este desafio é para você!</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar a produção de conteúdo para os canais internos da empresa (newsletter, comunicados, campanhas entre outras);</li><li>Contribuir com a atualização periódica dos canais internos de comunicação;</li><li>Apoiar a criação e execução de campanhas e ações internas voltadas à cultura organizacional, clima e engajamento dos colaboradores;</li><li>Auxiliar na elaboração de apresentações, materiais institucionais e pautas de comunicação;</li><li>Apoiar a organização de eventos e iniciativas promovidas pela área;</li><li>Apoiar registros e conteúdos relacionados ao dia a dia da operação (fotos, entrevistas rápidas e relatos de boas práticas);</li><li>Dar suporte à atividades administrativas relacionadas à rotina da área de Comunicação Interna e Gente e Gestão.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando Comunicação Social, Jornalismo, Publicidade e Propaganda, Relações Publicas ou áreas correlatas;</li><li>Familiaridade com Pacote Office (Power point, excel, word, Outlook, etc);</li><li>Boa comunicação;</li><li>Organização e atenção aos detalhes;</li><li>Proatividade e curiosidade para aprender;</li><li>Boa gestão do tempo;</li><li>Interesse em atuar com Comunicação Interna e marca empregadora.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasprolind/62/estagio-de-comunicacao-interna]]></applyUrl>
-    <companyId><![CDATA[529116]]></companyId>
-    <city><![CDATA[São José dos Campos]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[a0a05537-e24c-413e-b1f0-c35445e375f9]]></partnerJobId>
     <company><![CDATA[TOTVS Leste]]></company>
     <title><![CDATA[Analista de Projetos]]></title>
@@ -44390,43 +44461,6 @@ informática básica<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/383/vendedor-limoeiro]]></applyUrl>
     <companyId><![CDATA[11322443]]></companyId>
     <city><![CDATA[Limoeiro]]></city>
-    <state><![CDATA[PE]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[262d108e-c8f5-4bd4-b24e-ee85275ad8a3]]></partnerJobId>
-    <company><![CDATA[Cardeal Distribuidora]]></company>
-    <title><![CDATA[VENDEDOR LABORATÓRIO VETERINÁRIO- ZONA DA MATA E LITORAL]]></title>
-    <posterEmail><![CDATA[rodrigo.queiroz@cardealdistribuidora.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Garantir por meio da execução de rotina básica do PDV, o
-cumprimento das metas de vendas de acordo com métricas de sell-out e cobertura;
-Prospectar novos clientes; e apoiar o financeiro no controle da inadimplência.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />1- Planejar as atividades que serão desempenhadas no dia.
-
-2- Verificar no PDV o estoque disponível e a correta
-exposição dos produtos
-
-3- Identificar oportunidades de negócios (ponto extra,
-ampliação de participação e mix ).
-
-4- Tomar a iniciativa de venda.
-
-5- Prospectar novos clientes.
-
-6- Apoiar o financeiro no controle da inadimplência.
-
-7- Participar de reuniões<br /><br /><b>Requisitos e qualificações</b><br /><br />* Ensino médio completo *  Experiência prévia com atendimento
-ao cliente e reposição de mercadoria <br />* Residir na região <br />* Disponibilidade para viagens <br />* CNH<br />* Transporte Próprio<br />* Conhecimento em
-informática básica<br />* Formação superior em medicina veterinária completa ou incompleta será um diferencial.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/348/vendedor-laboratorio-veterinario-zona-da-mata-e-litoral]]></applyUrl>
-    <companyId><![CDATA[11322443]]></companyId>
-    <city><![CDATA[Palmares]]></city>
     <state><![CDATA[PE]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -52894,6 +52928,25 @@ estratégicas e desenvolvimento de estudos/projetos de diversas naturezas.<br />
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[8d9af9a9-ed46-40c6-a14b-59a74cdce638]]></partnerJobId>
+    <company><![CDATA[GS Inima Brasil]]></company>
+    <title><![CDATA[Estágio (Engenharia / Projetos de Saneamento)]]></title>
+    <posterEmail><![CDATA[ricardo.jovenato@gsinima.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />❇️ Esta oportunidade tem como propósito proporcionar aprendizado prático e desenvolvimento profissional, por meio do apoio às rotinas administrativas e operacionais da área, contribuindo para a organização de informações, controle de documentos e suporte à tomada de decisão. A atuação tem foco analítico, estruturado e colaborativo, permitindo a aplicação dos conhecimentos acadêmicos no contexto real do negócio, com acompanhamento e orientação constante.<br /><br /><br />⏱️ <b>Horário:</b> De segunda a sexta-feira, das 08:00 às 15:30 com 1h30 de intervalo<br /><br /><br />️ <b>Vale Alimentação / Refeição</b> – apoio para suas refeições diárias;<br /> <b>Cesta de Natal</b> – um carinho especial no fim do ano;<br />️ <b>Seguro Contra Acidentes Pessoais</b> – proteção e segurança durante o estágio;<br /><b> Auxílio Medicamento</b> – suporte financeiro para tratamentos e prescrições;<br /> <b>Pluxee Cuida</b> – apoio psicológico, social, nutricional e consultorias;<br /> <b>Auxílio Transporte</b> – facilidade no deslocamento diário;<br />️ <b>Wellhub</b> – acesso a academias e atividades físicas.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /> Auxiliar na elaboração e emissão de relatórios de controles internos da área;<br /> Apoiar a organização, arquivamento físico e digital e a manutenção de documentos;<br /> Realizar o cadastro e a atualização de informações em sistemas corporativos;<br /> Emitir documentos sob orientação, providenciando fluxos internos de assinatura;<br /> Prestar apoio na conferência, protocolo e distribuição de documentos;<br /> Auxiliar no controle de correspondências, malotes e materiais internos e externos;<br /> Apoiar a elaboração de planilhas de controle e acompanhamento de informações;<br /> Inserir dados operacionais e administrativos conforme rotinas pré-estabelecidas;<br /> Auxiliar na realização de cálculos estatísticos simples e consolidação de dados;<br /> Apoiar a organização de relatórios periódicos da área;<br /> Contribuir para a padronização de arquivos e informações;<br /> Prestar suporte às demandas administrativas da equipe, conforme orientação;<br /> Apoiar fluxos internos de informação entre áreas, quando solicitado; <br /> Auxiliar no controle de prazos e registros documentais;;<br /> Executar outras atividades correlatas de apoio, compatíveis com o Programa de estágio.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /> <b>Formação:</b> Ensino Superior (Cursando)<br /> <b>Áreas:</b> Engenharia Ambiental e Sanitária, Engenharia Química, Engenharia Civil, Química Industrial ou áreas correlatas<br /><br /><br />*️⃣ Conhecimentos básicos em Pacote Office (Word, Excel, PowerPoint e Outlook);<br />*️⃣ Perfil analítico, organizado e com interesse em atividades administrativas e de controle;<br />*️⃣ Disponibilidade para atuar em rotina de estágio conforme carga horária estabelecida;<br />*️⃣ Facilidade para lidar com sistemas e registros de informações.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/403/estagio-engenharia-projetos-de-saneamento]]></applyUrl>
+    <companyId><![CDATA[36870042]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[e9cbe9e5-1b49-4a15-8fc7-43a81ca51042]]></partnerJobId>
     <company><![CDATA[GS Inima Brasil]]></company>
     <title><![CDATA[Estágio (Área Administrativa - Facilities)]]></title>
@@ -59635,6 +59688,88 @@ Atuar de forma integrada com Marketing, Aplicação, Vendas e Pós-Vendas para m
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[bd33930c-9280-4e53-9c22-d07937974232]]></partnerJobId>
+    <company><![CDATA[Faz Capital]]></company>
+    <title><![CDATA[Estagiário de Suporte em TI]]></title>
+    <posterEmail><![CDATA[priscila.lopes@fazcapital.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Quer fazer parte de um ambiente dinâmico e de aprendizado constante? Estamos em busca de um(a) Estagiário(a) de Suporte em TI para integrar nossa equipe e contribuir ativamente com a rotina tecnológica da Faz Capital. Essa é uma excelente oportunidade para desenvolver suas habilidades, ganhar experiência prática e crescer profissionalmente em um time colaborativo e orientado a resultados.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Atendimento de chamados de colaboradores via sistema de helpdesk;
+</li>
+<li>
+Suporte técnico para resolução de problemas simples de TI (remoto e presencial);
+</li>
+<li>
+Auxílio na instalação de programas e aplicativos;
+</li>
+<li>
+Configuração de e-mails;
+</li>
+<li>
+Preparação e formatação de computadores;
+</li>
+<li>
+Suporte básico em sistema operacional Windows;
+</li>
+<li>
+Apoio em questões relacionadas a impressoras, internet e Wi-Fi;
+</li>
+<li>
+Registro e atualização de chamados no sistema;
+</li>
+<li>
+Acompanhamento das solicitações até a resolução;
+</li>
+<li>
+Apoio no controle e organização dos equipamentos de TI.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Estar cursando ensino superior na área de Tecnologia da Informação ou correlatas;
+</li>
+<li>
+Boa comunicação verbal e escrita;
+</li>
+<li>
+Perfil comunicativo, paciente e proativo;
+</li>
+<li>
+Facilidade para lidar com usuários;
+</li>
+<li>
+Capacidade de resolver demandas de forma ágil e eficiente;
+</li>
+<li>
+Interesse em aprender e se desenvolver na área de TI;
+</li>
+<li>
+Noções de Microsoft 365 (especialmente Outlook);
+</li>
+<li>
+Conhecimento em suporte técnico básico (remoto e presencial);
+</li>
+<li>
+Experiência com instalação de programas;
+</li>
+<li>
+Noções de redes (internet, Wi-Fi e impressoras);
+</li>
+<li>
+Familiaridade com ferramentas de chamados (helpdesk);
+</li>
+<li>
+Noções de formatação de máquinas;
+</li>
+<li>
+Conhecimento em inventário de equipamentos;</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fazcarreiras/48/estagiario-de-suporte-em-ti]]></applyUrl>
+    <companyId><![CDATA[16193118]]></companyId>
+    <city><![CDATA[Porto Alegre]]></city>
+    <state><![CDATA[RS]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[9c5643eb-5a54-45d7-b0e3-9886ff6c0b18]]></partnerJobId>
     <company><![CDATA[Faz Capital]]></company>
     <title><![CDATA[Analista de Infraestrutura]]></title>
@@ -63004,6 +63139,25 @@ com organização de eventos corporativos.]]></description>
     <companyId><![CDATA[34574563]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0e3c2cba-1f82-4522-91c1-56e4e93f762d]]></partnerJobId>
+    <company><![CDATA[Bap Condomínios e Imóveis]]></company>
+    <title><![CDATA[Pessoa Assistente de Relacionamento - Condomínio]]></title>
+    <posterEmail><![CDATA[leonardo.lunz@bap.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Assistente de Relacionamento</strong> para atuar no suporte operacional e no atendimento a condôminos, síndicos e fornecedores, garantindo a correta execução dos processos administrativos, financeiros e documentais, bem como o cumprimento de prazos legais e operacionais dos condomínios sob gestão.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Acompanhar pagamentos e realizar verificações de estornos, inconsistências e tratativas com fornecedores, mediante Ordem de Serviço (OS);</li><li>Realizar contato telefônico com fornecedores;</li><li>Acompanhar e tratar e-mails internos e externos;</li><li>Prestar atendimento a clientes (condôminos);</li><li>Realizar atendimentos aos síndicos, auxiliando os Consultores;</li><li>Imputar pagamentos e efetuar correções de lançamentos no sistema;</li><li>Enviar 2ª via de boletos;</li><li>Enviar extratos, balancetes e demais demonstrativos financeiros;</li><li>Realizar correção de dados de mandatos;</li><li>Controlar concessionárias (verificação de débitos, cobrança aos clientes e reporte aos gerentes/consultores quando necessário);</li><li>Inserir documentos no site/sistema;</li><li>Acompanhar prazos de mandatos, incluindo lista de proprietários, inadimplência, livro de atas (quando necessário), CNDs e convenção;</li><li>Preparar Kit Assembleia;</li><li>Convocar assembleias e solicitar editais (atividade secundária);</li><li>Verificar atas, confirmar dados e encaminhar para registro;</li><li>Acompanhar a expedição de editais e documentos, confirmando entregas conforme prazo da convenção;</li><li>Solicitar CNDs para assembleias;</li><li>Controlar o retorno das atas registradas, colar as atas e encaminhar para certificação;</li><li>Emitir boletos avulsos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino médio completo;</li><li>Experiência com atendimento ao cliente;</li><li>Conhecimentos básicos em rotinas administrativas e financeiras;</li><li>Organização, atenção aos detalhes e boa comunicação verbal e escrita;</li><li>Facilidade para lidar com múltiplas demandas e prazos.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemserbap/28/pessoa-assistente-de-relacionamento-condominio]]></applyUrl>
+    <companyId><![CDATA[2458540]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[RJ]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
