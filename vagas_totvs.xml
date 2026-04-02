@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 02 Apr 2026 18:14:13 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 02 Apr 2026 19:17:19 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3187]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3175]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -1164,6 +1164,25 @@ distribuído, logging estruturado).</li></ul><br />]]></description>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ea18aa07-042d-428a-9a88-27303c961b5d]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Especialista de Sustentação Cloud | Protheus]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você será uma das nossas referências técnicas no atendimento a clientes Protheus no Cloud TOTVS, atuando em ambientes de missão crítica. Como Especialista, seu foco será garantir performance, disponibilidade e a evolução contínua da nossa plataforma (T-Cloud), além da resolução de incidentes de alta complexidade em infraestrutura Cloud para o ecossistema TOTVS Protheus.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><b>Resolução de Elite:</b><b> </b>Atuar como o último nível de suporte para incidentes complexos de ERP Protheus em nuvem.</li><li><b>Análise de Causa Raiz (RCA):</b> Liderar investigações técnicas estruturadas para evitar a recorrência de falhas críticas.</li><li><b>Observabilidade e Performance:</b> Monitorar a saúde dos ambientes via Grafana e outras ferramentas de monitoramento e atuar com base em dados observados.</li><li><b>Mentoria Técnica:</b> Apoiar o desenvolvimento de analistas Junior e Pleno, disseminando conhecimento e boas práticas.</li><li><b>Interface Multidisciplinar:</b> Colaborar com times de Produto, Segurança, DevOps, Redes, entre outros, para evolução da arquitetura T-Cloud e solução de incidentes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Domínio de TOTVS Protheus:</b> Experiência profunda em funcional ou infraestrutura do ERP, Schedule, integrações REST e SOAP, TSS etc. Avaliação de console logs, logprofiler, dbtrace além de rastrear threads para identificar possíveis falhas e gargalos.</li><li><b>Sólido conhecimento em Linux:</b><b> </b>Conforto com linha de comando.</li><li><b>Experiência em Bancos de Dados:</b> Vivência com SQL Server, Oracle ou PostgreSQL - Facilidade para execução de queries</li><li><b>Redes e Latência:</b><b> </b>Habilidade para diagnosticar problemas de rota e performance através de ferramentas como TCPing e WinMTR, diagnosticando que a latência esteja dentro dos padrões adequados.</li><li><b>Metodologia:</b> Familiaridade com práticas de ITSM (ITIL) e gestão de SLAs/SLOs.</li><li><b>Atendimento ao Cliente:</b> Experiência em suporte consultivo para clientes de grande porte, com habilidade em gestão de crises e capacidade de traduzir problemas técnicos complexos em uma linguagem executiva e clara.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9387/tech-especialista-de-sustentacao-cloud-protheus]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -3061,6 +3080,25 @@ implementado no produto de software<br /><br /><br /><b>Requisitos e qualificaç
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9113/suporte-analista-de-suporte-junior]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São José dos Campos]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[082112ea-18e6-4659-8c67-50c82203166d]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Jurídico] Analista de Riscos e Compliance]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Assegurar a integridade através da investigação técnica de denúncias e da mitigação de riscos éticos e legais.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Avaliação e triagem das denúncias recebidas pelo canal de ética e conduta;</li><li>Elaboração do plano de investigação das denúncias do escopo de compliance;</li><li>Condução de entrevistas e elaboração de parecer técnico quanto a sua procedência;</li><li>Documentação do processo e elaboração de materiais de reporte à Comissão de Ética e Conduta;</li><li>Atuação em outras atividades do programa de integridade (políticas, pareceres consultivos, due diligence, entre outros).</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Administração, Direito ou áreas correlatas.</li><li>Conhecimento e experiência prévia em condução de investigações corporativas (entrevistas, análise de documentação/dados e formalização);</li><li>Conhecimento em legislação anticorrupção e programas de integridade.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9475/juridico-analista-de-riscos-e-compliance]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -22876,25 +22914,6 @@ Contatar clientes que importaram apenas 1x para entender a experiência e identi
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[a6478add-1e91-4537-85eb-91da11b5bd3d]]></partnerJobId>
-    <company><![CDATA[Halsten Incorporadora]]></company>
-    <title><![CDATA[Engenheiro Residente]]></title>
-    <posterEmail><![CDATA[joao.amaral@halsten.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um Engenheiro Residente para atuar em um grande empreendimento de alto padrão na cidade de Joinville/SC. Procuramos um profissional com experiência consolidada em obras verticais e capacidade de liderar a execução com foco em qualidade, prazos, custos e segurança.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar e acompanhar a execução da obra em campo, garantindo o cumprimento do planejamento físico.</li><li>Supervisionar as equipes e frentes de trabalho, orientando tecnicamente conforme os projetos e especificações;</li><li>Coordenar os contratos de empreiteiros e fornecedores;</li><li>Realizar controle de qualidade, segurança e meio ambiente na obra;</li><li>Participar de reuniões com áreas técnicas e administrativas;</li><li>Acompanhar medições, controle de insumos e interface com orçamento;</li><li>Elaborar relatórios de acompanhamento da obra</li><li>Ser o responsável pelas rotinas do Lean Construction dentro do canteiro.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação completa em Engenharia Civil;</li><li>Experiência comprovada como Engenheiro Residente em obras verticais;</li><li>Sólido conhecimento em execução de obras de médio ou grande porte;</li><li>Domínio em leitura e interpretação de projetos executivos;</li><li>Conhecimento em planejamento físico de obras;</li><li>Registro ativo no CREA.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreiras/216/engenheiro-residente]]></applyUrl>
-    <companyId><![CDATA[32120252]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[efc276ca-2ad2-41ff-adef-a782ffb3b862]]></partnerJobId>
     <company><![CDATA[Deltapoint]]></company>
     <title><![CDATA[Analista de Testes e Qualidade]]></title>
@@ -31268,7 +31287,7 @@ de relacionamento com fornecedores e equipes técnicas.
   <job>
     <partnerJobId><![CDATA[977d8238-1c9b-45ec-be11-4a5027495c43]]></partnerJobId>
     <company><![CDATA[Clube Unir]]></company>
-    <title><![CDATA[Assistente de departamento pessoal]]></title>
+    <title><![CDATA[Assistente de Departamento Pessoal]]></title>
     <posterEmail><![CDATA[izabelly@clubeunir.org.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Assistente de Departamento Pessoal para apoiar as rotinas administrativas relacionadas à gestão de colaboradores, garantindo o cumprimento da legislação trabalhista e a organização dos processos internos. Essa pessoa terá papel fundamental no suporte às demandas do setor e no atendimento aos colaboradores.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Controle e fechamento de ponto eletrônico</li><li>Apoiar na folha de pagamento e encargos trabalhistas</li><li>Gestão de benefícios (vale transporte, vale alimentação, plano de saúde, etc.)</li><li>Organização e atualização de documentos dos colaboradores</li><li>Atendimento aos funcionários para esclarecimento de dúvidas trabalhistas</li><li>Controle de férias, afastamentos e licenças</li><li>Apoio em auditorias e cumprimento da legislação trabalhista</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo ou superior em andamento em Administração, RH ou áreas relacionadas</li><li>Experiência anterior com rotinas de Departamento Pessoal</li><li>Conhecimento básico em legislação trabalhista</li><li>Domínio do pacote Office, especialmente Excel</li><li>Organização, atenção aos detalhes e boa comunicação</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasunir/89/assistente-de-departamento-pessoal]]></applyUrl>
@@ -31340,25 +31359,6 @@ Estamos buscando um(a) profissional de Endomarketing para fortalecer a comunica�
     <posterEmail><![CDATA[izabelly@clubeunir.org.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você tem espírito empreendedor, gosta de desafios e quer atuar em um ambiente que valoriza o relacionamento com o cliente, essa pode ser a sua chance.  Aqui, o comercial vai além de vender — é sobre <strong>conectar pessoas, gerar confiança e entregar soluções com propósito</strong>. Buscamos alguém comunicativo, engajado e com sede de resultados!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Ser o primeiro contato entre o cliente e o Clube Unir, garantindo um atendimento consultivo e acolhedor.</li><li>Apresentar nossos planos e benefícios de forma clara e envolvente.</li><li>Conduzir negociações com transparência e foco na melhor solução para o associado.</li><li>Realizar prospecção ativa, desenvolver novos negócios e fortalecer o relacionamento com clientes.</li><li>Gerenciar a carteira de associados, garantindo acompanhamento e pós-venda de excelência.</li><li>Cumprir metas e contribuir com ideias para o crescimento do setor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino técnico ou superior completo (ou em andamento).</li><li>Experiência com atendimento e relacionamento com o público.</li><li>Boa comunicação oral e escrita.</li><li>Conhecimento em CRM e funil de vendas.</li><li>Organização e controle de processos comerciais.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasunir/86/consultor-comercial]]></applyUrl>
-    <companyId><![CDATA[78744433]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[9907c013-9048-462d-bdba-1a216d2a646f]]></partnerJobId>
-    <company><![CDATA[Clube Unir]]></company>
-    <title><![CDATA[Assistente Administrativo]]></title>
-    <posterEmail><![CDATA[izabelly@clubeunir.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é detalhista, analítico(a) e gosta de garantir que tudo saia perfeito? <br />Estamos em busca de um(a) profissional para atuar na validação e análise de dados de instalação de rastreadores, garantindo que cada serviço atenda aos padrões de qualidade, segurança e eficiência. Você será o elo entre a operação e os prestadores, ajudando a identificar falhas, orientar soluções e manter o padrão de excelência da nossa empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li> Operar diferentes sistemas internos (SGA, SGR, REDE, Chatbot).</li><li> Controlar, acompanhar e analisar planilhas setoriais diariamente.</li><li> Realizar testes, conferências e liberar serviços com segurança e qualidade.</li><li> Identificar e orientar sobre possíveis falhas técnicas.</li><li> Localizar e validar equipamentos na plataforma de monitoramento.</li><li> Analisar e cadastrar documentações necessárias para liberação de instalação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.</li><li> Conhecimento básico de informática e Pacote Office.</li><li> Boa capacidade de comunicação oral e escrita.</li><li> Organização e gestão de tempo.</li><li> Habilidade para identificar e solucionar problemas com agilidade.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasunir/80/assistente-administrativo]]></applyUrl>
     <companyId><![CDATA[78744433]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[RJ]]></state>
@@ -33736,6 +33736,25 @@ Monitorar o estoque, realizando inventários e controle de movimentação de pe�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[f2371341-97e0-4e40-96fb-aca9a275c025]]></partnerJobId>
+    <company><![CDATA[Grupo Canopus]]></company>
+    <title><![CDATA[AUXILIAR ADMINISTRATIVO - APRENDIZ]]></title>
+    <posterEmail><![CDATA[tainara.abreu@grupocanopus.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar nas atividades administrativas;Acompanhar as demandas dos departamentos administrativos, vendas e pós-vendas;Realizar atendimento telefônico;Realizar atendimento na recepção de vendas e pós-vendas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar nas atividades administrativas;Acompanhar as demandas dos departamentos administrativos, vendas e pós-vendas;Realizar atendimento telefônico;Realizar atendimento na recepção de vendas e pós-vendas.<br /><br /><b>Requisitos e qualificações</b><br /><br />Estar cursando o ensino médio; <br />Disponibilidade para o horário matutino;<br />Será um diferencial ter conhecimento no pacote office.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/1058/auxiliar-administrativo-aprendiz]]></applyUrl>
+    <companyId><![CDATA[2073549]]></companyId>
+    <city><![CDATA[Cuiabá]]></city>
+    <state><![CDATA[MT]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[d810e0d6-7337-4600-96a5-5d268a290bce]]></partnerJobId>
     <company><![CDATA[Grupo Canopus]]></company>
     <title><![CDATA[CONSULTOR DE VENDAS]]></title>
@@ -36070,25 +36089,6 @@ aplicar com qualidade e eficiência;</li><li>Conhecimento sobre máquinas e impl
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[bae3bf4d-1bc6-4fd2-af02-be5db703b5ab]]></partnerJobId>
-    <company><![CDATA[Grupo Luiz Höhl]]></company>
-    <title><![CDATA[Consultor de Peças]]></title>
-    <posterEmail><![CDATA[sthanley.santos@grupoluizhohl.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Consultor(a) de Vendas de Peças</strong> apaixonado(a) por atender bem, que tenha olhar atento às necessidades dos nossos clientes e seja comprometido com a melhor experiência possível, desde a escolha da peça até o pós-venda. Venha fazer parte do nosso Time de Vianópolis/GO<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Realizar atendimento direto ao cliente na loja, com empatia e agilidade; • Prestar apoio técnico na escolha das peças, garantindo a melhor solução; <br />• Realizar o pós-venda e ações de relacionamento, fortalecendo a conexão com o cliente; <br />• Prospectar novos clientes e manter um bom relacionamento com a base atual; <br />• Participar de treinamentos contínuos sobre produtos e técnicas de vendas;<br /><ul><li>Realizar negociações com argumentação técnica.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo; </li><li>Conhecimento em pacote office básico;</li><li>Desejável experiência técnica com peças de máquinas e implementos agrícolas;</li></ul><ul><li>É um diferencial ter noções de logística de reposição.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenoglh/135/consultor-de-pecas]]></applyUrl>
-    <companyId><![CDATA[20091464]]></companyId>
-    <city><![CDATA[Vianópolis]]></city>
-    <state><![CDATA[GO]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[92e7a4d1-6e30-4355-8a43-99abf3d94336]]></partnerJobId>
     <company><![CDATA[Grupo Luiz Höhl]]></company>
     <title><![CDATA[Operador de Guindaste (Munck)]]></title>
@@ -37330,25 +37330,6 @@ O objetivo principal da função é <strong>auxiliar na instalação, manutenç�
     <posterEmail><![CDATA[fl.marin@ppc.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><strong>Vem ser PP&amp;C! Faça parte do time de Labor</strong> e tenha acesso à um ambiente com suporte para desenvolvimento e crescimento de sua carreira, com oportunidades iguais no emprego, independentemente de raça, cor, religião, sexo, orientação sexual, nacionalidade, estado civil ou deficiência. A PP&amp;C acredita que um ambiente que valoriza as diferenças individuais e que encoraja a contribuição total de cada pessoa profissional, cria uma empresa mais forte.<br /><br /><b>Confira abaixo os detalhes da oportunidade: </b><br /><ul><li>Horário de trabalho: segunda a sexta das 08h30 às 18h00;</li><li>Modelo: híbrido; </li><li>Local: Região da Avenida Paulista.</li></ul><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Organizar e consolidar informações para suporte às análises técnicas de auditoria;</li><li>Revisar encargos sociais e obrigações trabalhistas dos clientes;</li><li>Analisar e recalcular folha de pagamento, rescisões contratuais e férias;</li><li>Avaliar política de benefícios, remuneração variável e convenções coletivas;</li><li>Analisar jornadas de trabalho e controles de ponto;</li><li>Conferir obrigações trabalhistas e previdenciárias mensais e anuais;</li><li>Realizar análise de prestadores de serviços (PJs, autônomos, temporários, entre outros);</li><li>Identificar potenciais riscos trabalhistas e previdenciários;</li><li>Apoiar no cálculo de exposição trabalhista e impactos financeiros;</li><li>Validar saldos contábeis das contas trabalhistas e previdenciárias.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa ou cursando em Administração, Gestão de Recursos Humanos, Ciências Contábeis, Direito ou áreas correlatas;</li><li>Vivência na área de auditoria trabalhista e previdenciária;</li><li>Pacote Office intermediário;</li><li>Comunicação tempestiva;</li><li>Proativo(a);</li><li>Organizado(a);</li><li>Dinâmico(a);</li><li>Trabalho em equipe.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreiranappc/78/assistente-de-auditoria-e-consultoria-trabalhista-e-previdenciaria-labor]]></applyUrl>
-    <companyId><![CDATA[1013280]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[5d8d5ab9-9578-42d9-9785-b66bc88a9ca6]]></partnerJobId>
-    <company><![CDATA[PP&C]]></company>
-    <title><![CDATA[Consultor(a) Sênior de Due Diligence - São Paulo]]></title>
-    <posterEmail><![CDATA[fl.marin@ppc.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><strong>Vem ser PP&amp;C! Faça parte do time de Transaction Services</strong> e tenha acesso à um ambiente com suporte para desenvolvimento e crescimento de sua carreira, com oportunidades iguais no emprego, independentemente de raça, cor, religião, sexo, orientação sexual, nacionalidade, estado civil ou deficiência. A PP&amp;C acredita que um ambiente que valoriza as diferenças individuais e que encoraja a contribuição total de cada pessoa profissional, cria uma empresa mais forte.<br /><br /><b>Confira abaixo os detalhes da oportunidade: </b><br /><ul><li>Horário de trabalho: segunda a sexta das 08h30 às 18h00;</li><li>Modelo: híbrido; </li><li>Local: Região da Avenida Paulista.</li></ul><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Elaboração e revisão de análises financeiras, incluindo montagem de balanço e DRE;</li><li>Classificação dos balancetes para contas de capital de giro, endividamento e EBITDA;</li><li>Estruturar análises de EBITDA, Net Debt e Normalized Working Capital;</li><li>Identificar ajustes de EBITDA, capital de giro recorrente e endividamento líquido;</li><li>Realizar análises de receitas, custos e margens;</li><li>Analisar a qualidade dos resultados, variações relevantes e drivers financeiros;</li><li>Revisar contratos, reconciliações, análises de tendências e validação de premissas críticas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa ou cursando em Ciências Contábeis, Administração ou Economia;</li><li>Inglês intermediário;</li><li>Vivência no processo de Due Diligence Financeira;</li><li>Domínio em demonstrações financeiras (BRGAAP e IFRS);</li><li>Sólidos conhecimentos nas práticas contábeis (receitas, custos, provisões, contingências, entre outros);</li><li>Vivência na análise de EBITDA, Net Debt e Normalized Working Capital;</li><li>Excel e PowerPoint avançados (tabelas dinâmicas e fórmulas complexas);</li><li>Domínio da comunicação oral e escrita;</li><li>Organizado(a);</li><li>Dinâmico(a);</li><li>Comprometido(a);</li><li>Trabalho em equipe.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreiranappc/77/consultor-a-senior-de-due-diligence-sao-paulo]]></applyUrl>
     <companyId><![CDATA[1013280]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -42791,7 +42772,7 @@ e em constante evolução.   Aguardamos sua candidatura!<br /><br /><b>Respons
 </ul><br /><br /><b>COMO FAZ?</b><br /><br /><br />1- Verificando a validade dos produtos, utilizando o  processo FIFO (o primeiro produto que entra é o primeiro que sai)<br />2- Alocando os produtos armazenados em estoque para a área de vendas do PDV <br />3- Garantindo que os materiais de merchandising estejam em boas condições e com seu ciclo de campanha em dia <br />4- Oferecendo a proposta de venda ao cliente, destacando as oportunidades identificadas <br />5- Recebendo carteira de clientes em compras e Identificando as oportunidades existentes no mercado <br />6- Identificando a inadimplência no ato da visita e direcionando para o financeiro<br />7- Através de orientações da liderança <br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo</li><li>Experiência prévia com atendimento
 ao cliente e reposição de mercadoria Residir na região </li><li>Disponibilidade para
 trabalhar de segunda a sábado</li><li>Disponibilidade para viagens </li><li>Conhecimento em
-informática básica</li><li>CNH B</li></ul>]]></description>
+informática básica</li><li>CNH B</li><li>Carro próprio</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/381/promotor-lider-caruaru]]></applyUrl>
     <companyId><![CDATA[11322443]]></companyId>
     <city><![CDATA[Caruaru]]></city>
@@ -57050,6 +57031,25 @@ Assegurar a correta recepção, armazenagem e expedição de peças e acessório
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[d012128e-1197-4378-afce-4c8f53a82a69]]></partnerJobId>
+    <company><![CDATA[Grupo PMZ]]></company>
+    <title><![CDATA[PA03 | JOVEM APRENDIZ]]></title>
+    <posterEmail><![CDATA[mariane.gomes@grupopmz.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por assegurar a correta recepção de peças e acessórios, o devido acondicionamento e uma eficiente expedição das peças, garantindo a organização e limpeza da área de estoque.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Alocar as peças que chegam de rota, transferências, devoluções, em seus respectivos endereços, e realocar quando necessário;</li><li>Separar peças para vendas e transferências conforme o controle de separação na tela do celular;</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior;  </li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade;</li><li>Cumprir os procedimentos de estoque da loja;</li><li>Cumprir com os horários e jornadas de trabalho determinada pela loja;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Cursando</li><li>Boa capacidade de organização e controle de estoque</li><li>Agilidade e facilidade no manuseio de mercadorias</li><li>Proatividade e disposição para o trabalho em equipe.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/288/pa03-jovem-aprendiz]]></applyUrl>
+    <companyId><![CDATA[22287656]]></companyId>
+    <city><![CDATA[Ananindeua]]></city>
+    <state><![CDATA[PA]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[bc43ebcb-0f0f-458b-9392-e9898814721c]]></partnerJobId>
     <company><![CDATA[Grupo PMZ]]></company>
     <title><![CDATA[PA03 | AUXILIAR DE ESTOQUE (PCD)]]></title>
@@ -57504,86 +57504,6 @@ diferentes necessidades pedagógicas e rotinas diárias.<br />]]></description>
     <companyId><![CDATA[35627156]]></companyId>
     <city><![CDATA[Juazeiro do Norte]]></city>
     <state><![CDATA[CE]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[63ba79bc-b551-4760-bad3-53ad7436be11]]></partnerJobId>
-    <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
-    <title><![CDATA[ARTÍFICE DE MANUTENCAO]]></title>
-    <posterEmail><![CDATA[viviane.sherry@labcmi.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional para integrar nossa equipe
-de manutenção. Se você gosta de desafios, valoriza organização e trabalho em
-equipe, e tem experiência com manutenção preventiva e corretiva em instalações
-elétricas, hidráulicas e civis, essa oportunidade é para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar manutenção preventiva e corretiva em instalações elétricas,
-hidráulicas e civis, monitorando e substituindo componentes quando necessário,
-além de identificar falhas em equipamentos e propor soluções adequadas; deve
-manter registros das atividades realizadas, apoiar demandas emergenciais e
-zelar pela organização e conservação de ferramentas e equipamentos. Auxiliar na
-instalação de novos sistemas e colabora com a equipe em tarefas mais complexas,
-incluindo inspeção, reparo e substituição de válvulas e componentes da rede de
-gases medicinais, garantindo sua distribuição conforme normas de segurança.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino
-Médio Completo.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmi/3502/artifice-de-manutencao]]></applyUrl>
-    <companyId><![CDATA[24910672]]></companyId>
-    <city><![CDATA[Feira de Santana]]></city>
-    <state><![CDATA[BA]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e4615c4e-9deb-41d4-aa72-bc80a78fb793]]></partnerJobId>
-    <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
-    <title><![CDATA[FONOAUDIOLÓGO]]></title>
-    <posterEmail><![CDATA[viviane.sherry@labcmi.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos Fonoaudiólogo(a) para compor nossa equipe no Hospital Estadual da Criança, em Feira de Santana (BA). Procuramos um profissional comprometido, humanizado e dedicado à excelência no cuidado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar
-atendimento especializado em pediatria e neonatologia; avaliar, diagnosticar e
-elaborar plano terapêutico para o tratamento das desordens relacionadas à
-fisiopatologia da deglutição e disfagia orofaríngea; acompanhar a evolução dos
-pacientes e ajustar intervenções de acordo com as necessidades individuais;
-elaborar programas e ações de educação continuada para equipe multidisciplinar,
-cuidadores, familiares e clientes; realizar teste da orelhinha e teste da
-linguinha.<br /><br /><b>Requisitos e qualificações</b><br /><br />Bacharelado
-em Fonoaudiologia.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmi/3501/fonoaudiologo]]></applyUrl>
-    <companyId><![CDATA[24910672]]></companyId>
-    <city><![CDATA[Feira de Santana]]></city>
-    <state><![CDATA[BA]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[64120524-2108-44c5-ac2d-106743fb727f]]></partnerJobId>
-    <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
-    <title><![CDATA[TERAPEUTA OCUPACIONAL]]></title>
-    <posterEmail><![CDATA[viviane.sherry@labcmi.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Terapeuta Ocupacional para atuar no Hospital
-Estadual da Criança, em Feira de Santana (BA). O profissional será responsável
-pela aplicação de técnicas terapêuticas e recreativas, visando à promoção,
-reabilitação, desenvolvimento e manutenção da motricidade de nossos pacientes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Executar métodos e técnicas terapêuticas e recreativas com o objetivo de restaurar, desenvolver e preservar a motricidade dos pacientes, realizar diagnósticos, intervenções e tratamentos por meio de procedimentos específicos de terapia ocupacional; orientar pacientes, familiares e cuidadores quanto às atividades de vida diária (AVDs) e atuar no desenvolvimento e organização de programas voltados à prevenção, promoção da saúde e melhoria da qualidade de vida dos nossos pacientes.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino
-superior completo em Terapia Ocupacional.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmi/3500/terapeuta-ocupacional]]></applyUrl>
-    <companyId><![CDATA[24910672]]></companyId>
-    <city><![CDATA[Feira de Santana]]></city>
-    <state><![CDATA[BA]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -58254,6 +58174,25 @@ Atuar de forma integrada com Marketing, Aplicação, Vendas e Pós-Vendas para m
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f52c9d0c-46b1-4981-bd40-29183c1a34e6]]></partnerJobId>
+    <company><![CDATA[Pensalab]]></company>
+    <title><![CDATA[Aprendiz - Logistica]]></title>
+    <posterEmail><![CDATA[janaina.mattos@pensalab.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Jovem Aprendiz para atuar na área de logística, com foco em atividades de expedição e separação de pedidos. Essa é uma excelente oportunidade para quem deseja iniciar a carreira, desenvolver habilidades operacionais e adquirir conhecimento sobre processos logísticos em um ambiente dinâmico e colaborativo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na separação de produtos conforme pedidos;</li><li>Apoiar na organização e identificação de mercadorias no estoque;</li><li>Conferir itens separados, garantindo quantidade e integridade dos produtos;</li><li>Dar suporte no processo de embalagem e preparação de pedidos para envio;</li><li>Auxiliar na movimentação e armazenamento de materiais;</li><li>Apoiar na organização da área de expedição, mantendo o ambiente limpo e organizado;</li><li>Preencher controles simples e registros de movimentação de mercadorias;</li><li>Seguir normas de segurança e procedimentos internos da empresa;</li><li>Apoiar a equipe de logística em atividades gerais do setor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Idade mínima de 18 anos e máxima de 22 anos.- Ensino médio concluído;<br />- Conhecimentos básicos de informática;<br />- Boa comunicação verbal e escrita;<br />- Interesse em aprender e desenvolver habilidades práticas;<br />- Comprometimento e responsabilidade.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/pensalab/84/aprendiz-logistica]]></applyUrl>
+    <companyId><![CDATA[1204811]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[9b4abec2-c9a4-4d38-8ec9-7b57d407004d]]></partnerJobId>
@@ -64735,6 +64674,53 @@ Conhecimento de análise de sistemas e ciclo de desenvolvimento de sistemas: lev
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[e6827fd6-0858-42e4-9007-024a400bc40a]]></partnerJobId>
+    <company><![CDATA[eCOMEX]]></company>
+    <title><![CDATA[Gestor(a) de Mídias Digitais]]></title>
+    <posterEmail><![CDATA[lucas.olivato@ecomex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um Gestor (a) de Mídias Digitais para planejar, executar e otimizar campanhas em SEO, redes sociais e anúncios pagos (Google Ads, Meta Ads e LinkedIn Ads).
+O profissional será responsável por aumentar a visibilidade online, gerar leads qualificados e garantir a melhor performance das campanhas. É importante gostar de analisar métricas, otimizar resultados e trabalhar em equipe.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Planejar, criar e gerenciar campanhas pagas em Google Ads, Meta Ads (Facebook/Instagram) e LinkedIn Ads.
+</li>
+<li>
+Monitorar e otimizar a presença da empresa em mídias sociais, incluindo estratégias de conteúdo e engajamento.
+</li>
+<li>
+Gerenciar estratégias de SEO para melhorar o posicionamento orgânico da marca.
+</li>
+<li>
+Analisar métricas de performance e gerar relatórios com insights para otimização contínua.
+</li>
+<li>
+Realizar testes A/B e ajustes para maximizar resultados.
+</li>
+<li>
+Trabalhar em conjunto com equipes de marketing, design e conteúdo para alinhar estratégias e resultados.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência comprovada em gestão de campanhas digitais: SEO, Google Ads, Meta Ads e LinkedIn Ads.
+</li>
+<li>
+Conhecimento em estratégias de mídias sociais e marketing de conteúdo.
+</li>
+<li>
+Habilidade com análise de métricas e ferramentas de monitoramento (Google Analytics, Data Studio ou similares).
+</li>
+<li>
+Capacidade de planejamento estratégico e execução de campanhas com foco em resultados.
+</li>
+<li>
+Boa comunicação e trabalho em equipe</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasecomex/32/gestor-a-de-midias-digitais]]></applyUrl>
+    <companyId><![CDATA[147154]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[5008bba9-20d5-44e0-9f9f-0796bdd50f5b]]></partnerJobId>
     <company><![CDATA[eCOMEX]]></company>
     <title><![CDATA[Executivo de Vendas (SaaS) – eCOMEX]]></title>
@@ -68335,25 +68321,6 @@ Gerir o calendário digital de campanhas, lançamentos e ações promocionais.</
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[9923cbb0-5338-4134-8f34-a629d8b6eaea]]></partnerJobId>
-    <company><![CDATA[Yosen]]></company>
-    <title><![CDATA[Coordenador Administrativo | Financeiro]]></title>
-    <posterEmail><![CDATA[catharina.gil@yosen.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por coordenar e acompanhar as rotinas administrativas e financeiras da empresa, garantindo a execução dos processos orçamentários, tributários e de gestão de recursos financeiros. Atua no controle das atividades da área, relacionamento com instituições financeiras e parceiros externos, além de apoiar a direção em análises e estudos de viabilidade econômico-financeira para tomada de decisão. Também assegura o cumprimento dos planos de ação e a eficiência dos processos sob sua responsabilidade.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Coordenar as atividades da área financeira, garantindo a execução eficiente dos processos de contas a pagar, contas a receber, crédito e gestão de caixa.</li><li>Atuar como ponto de integração entre as áreas financeira, contábil e fiscal, e também com parceiros externos relacionados às áreas citadas, assegurando o alinhamento das informações e o correto fluxo de dados entre os setores.</li><li>Planejar, organizar e controlar as rotinas financeiras da empresa, acompanhando resultados e indicadores da área.</li><li>Elaborar, acompanhar e analisar o fluxo de caixa, monitorando o previsto versus realizado.</li><li>Acompanhar e controlar movimentações bancárias, conciliações, saldos e aplicações financeiras.</li><li>Coordenar processos relacionados ao relacionamento com instituições financeiras, incluindo operações bancárias e gestão de crédito.</li><li>Supervisionar as atividades de contas a receber, incluindo controle de inadimplência, cobrança de títulos vencidos, aplicação de juros e negociação de prazos.</li><li>Supervisionar as atividades de contas a pagar, garantindo a correta análise de documentos fiscais, liberação de pagamentos e cumprimento das obrigações financeiras.</li><li>Analisar e autorizar solicitações de abatimentos, renegociações e prorrogações de títulos, conforme políticas da empresa.</li><li>Realizar a programação e controle do caixa, acompanhando entradas e saídas de recursos.</li><li>Elaborar relatórios gerenciais sobre faturamento, endividamento e posição financeira da empresa.</li><li>Participar do desenvolvimento de estudos de viabilidade econômico-financeira para projetos e investimentos.</li><li>Apoiar a diretoria em análises relacionadas ao planejamento financeiro, orçamento e definições tributárias e fiscais.</li><li>Manter relacionamento com instituições financeiras, órgãos públicos e parceiros externos.</li><li>Prestar suporte às demandas de auditorias internas e externas, além de atender áreas internas da empresa, como Comercial e demais departamentos.</li><li>Liderar e orientar a equipe da área financeira, garantindo o cumprimento dos processos e a melhoria contínua das rotinas.</li><li>Manter relacionamento com instituições financeiras, órgãos públicos e parceiros externos.</li><li>Elaborar relatórios periódicos sobre faturamento, endividamento e posição financeira da empresa.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo em Administração, Ciências Contábeis, Economia ou áreas correlatas.</li><li>Experiência na área financeira, com atuação na gestão de processos e interface com as áreas contábil e fiscal. </li><li>Conhecimento em fluxo de caixa, contas a pagar e a receber, crédito e planejamento financeiro. </li><li>Vivência no relacionamento com instituições bancárias e condução de operações financeiras, além de análise financeira e controle orçamentário. </li><li>Domínio de Excel e familiaridade com sistemas de gestão, sendo desejável experiência com o ERP Protheus.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/yosencarreiras/24/coordenador-administrativo-financeiro]]></applyUrl>
-    <companyId><![CDATA[20475456]]></companyId>
-    <city><![CDATA[Ribeirão Preto]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[e8adfb54-5555-4e0d-ac91-26c899d2c6ac]]></partnerJobId>
     <company><![CDATA[Yosen]]></company>
     <title><![CDATA[Propagandista - Campinas]]></title>
@@ -71934,6 +71901,25 @@ vendas.<br />]]></description>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[ef7cd6ad-0b3c-4a92-bdc0-c913af5300bf]]></partnerJobId>
+    <company><![CDATA[Bullla]]></company>
+    <title><![CDATA[Especialista em Agilidade]]></title>
+    <posterEmail><![CDATA[gabrielle.cardim@bullla.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Precisamos de um(a) Agilista com forte visão de negócios para atuar lado a lado com a nossa área de Gestão de Portfólio de Projetos. Seu papel principal será padronizar a estrutura de acompanhamento das nossas iniciativas, garantindo o alinhamento estratégico entre as áreas de tecnologia e negócios. Mais do que facilitar processos, buscamos alguém capaz de atuar ativamente no resgate de projetos em crise, que mergulhe a fundo na nossa realidade de negócio e que tenha a clareza e influência necessárias para construir e conduzir apresentações executivas de alto nível. Você será um verdadeiro agente de mudança cultural, conectando a estratégia tática à execução.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Gestão de Portfólio e Estratégia Executiva</b><ul><li>Padronizar a estrutura de acompanhamento dos projetos da empresa, dando visibilidade clara do andamento em diferentes camadas (desde os times até a executiva);</li><li>Orquestrar e compartilhar a visão de Gestão de Portfólio a nível tático dos programas em que atua;</li><li>Mergulhar profundamente no modelo de negócios da empresa para garantir que a estratégia de Agilidade e o roadmap estejam alinhados às reais necessidades da companhia;</li><li>Apoiar ativamente na construção de reports e apresentações executivas claras e assertivas;</li><li>Facilitar cerimônias de planejamento trimestral (Quarterly Planning) junto às equipes de tecnologia e negócios, incluindo a construção de OKRs e revisão de estratégias;</li><li>Gerar e consolidar reports executivos trazendo análises comparativas de ferramentas/processos e aprendizados sobre o uso de Inteligência Artificial (IA) no dia a dia.</li></ul><br /><br /><b>Atuação em Crises e Eficiência Operacional</b><ul><li>Atuar diretamente no resgate e coordenação de projetos em crise, diagnosticando gargalos, elaborando planos de ação e removendo impedimentos críticos;</li><li>Garantir o acompanhamento ativo de riscos e das necessidades estruturais de tecnologia (infraestrutura, plataforma, etc.) que impactam as entregas;</li><li>Levantamento e acompanhamento de métricas de desempenho e de negócio, trazendo benchmarks do mercado para impulsionar o ganho de eficiência operacional;</li><li>Acompanhar as solicitações feitas, garantindo alinhamento de prioridade e cumprimento de prazos entre todas as partes.</li></ul><br /><br /><b>Cultura Ágil e Liderança de Times</b><ul><li>Fomentar valores, princípios e práticas Lean-Agile, implementando métodos ágeis em diferentes cenários e provocando constantemente a evolução da nossa cultura;</li><li>Estar no dia a dia dos times, orientando outros agilistas e Lideranças de Programas em seus papéis, responsabilidades e na aplicação de frameworks;</li><li>Aplicar técnicas de ágil escalado, ajudando os Programas a se auto-organizarem e a reduzirem dependências cruzadas;</li><li>Facilitar cerimônias do Scrum e/ou Kanban (Dailies, Reviews, Retrospectivas, Plannings, Replenishments e Refinamentos);</li><li>Garantir o melhor ambiente possível para as pessoas, realizando análises motivacionais, mediação de conflitos, cultura de feedback contínuo e reuniões de 1:1;</li><li>Estimular o aprendizado interno conduzindo dinâmicas, workshops e treinamentos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Liderança Ágil e Gestão de Portfólio</b><ul><li>Sólida experiência em gestão de portfólio de programas e de produtos;</li><li>Experiência comprovada com coaching e mentoring de times multidisciplinares na aplicação de métodos ágeis (Kanban, Scrum) e técnicas de facilitação de dinâmicas;</li><li>Conhecimento e vivência prática na adoção de frameworks de ágil escalado;</li><li>Vivência sólida na definição, desdobramento e acompanhamento de OKRs;</li><li>Atuação consolidada com Business Agility.</li></ul><br /><br /><b>Visão de Negócios e Soft Skills</b><ul><li>Comunicação clara, concisa e adaptável, sabendo se comunicar, influenciar e apresentar resultados de forma impecável entre as diversas camadas executivas;</li><li>Habilidade analítica para se aprofundar nos negócios da empresa e conectar soluções ágeis a resultados reais;</li><li>Experiência sólida em mediação de conflitos e gestão sob pressão (projetos em crise);</li><li>Alto nível de resiliência e capacidade de responder rapidamente às mudanças (agente facilitador de fluxo).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadesbullla/36/especialista-em-agilidade]]></applyUrl>
+    <companyId><![CDATA[16198904]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[8901f96d-754d-494b-9a55-bfe081e6b9b0]]></partnerJobId>
     <company><![CDATA[Bullla]]></company>
     <title><![CDATA[Tech Leader | Java]]></title>
@@ -73692,6 +73678,55 @@ Organização e domínio de ferramentas de CRM;</li></ul>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[cced9046-948c-49c9-98d6-a2ec4f8d7419]]></partnerJobId>
+    <company><![CDATA[Universo E-commerce]]></company>
+    <title><![CDATA[Analista de Mídia Sênior]]></title>
+    <posterEmail><![CDATA[lorena.domingues@universoecommerce.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos uma pessoa <strong>Analista de Mídia Sênior</strong> com forte visão de negócio, foco em resultado e capacidade analítica para gerenciar e escalar operações de mídia paga.
+Essa posição é responsável por conduzir estratégias de performance ponta a ponta, atuando com autonomia na gestão de contas, relacionamento com clientes e tomada de decisão orientada por dados.
+Se você gosta de testar, otimizar e transformar dados em crescimento real de negócio, essa vaga é para você.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar uma carteira de aproximadamente 7 clientes com diferentes níveis de complexidade.
+</li><li>
+Planejar, executar e otimizar campanhas em <strong>Meta Ads, Google Ads</strong> e outros canais relevantes.
+</li><li>
+Realizar rotinas de otimização diária e semanal com foco em priorização por impacto.
+</li><li>
+Gerenciar orçamento, estrutura de contas e garantir governança e qualidade (nomenclatura, consistência e histórico de decisões).
+</li><li>
+Diagnosticar quedas ou estagnações de performance considerando criativos, oferta, público, funil, landing page, catálogo, tracking, concorrência e sazonalidade.
+</li><li>
+Estruturar e conduzir planos de experimentos (hipótese → teste → análise → decisão → documentação).
+</li><li>
+Conduzir alinhamentos e apresentações de resultados com comunicação clara, objetiva e orientada a negócio.
+</li><li>
+Antecipar riscos e propor planos de ação de forma proativa.
+</li><li>
+Liderar e desenvolver estagiário(a) de mídia.
+</li><li>
+Mentorar profissionais plenos e juniores, garantindo qualidade técnica e boas práticas nas contas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida com gestão de mídia paga e campanhas de performance.
+</li><li>
+Domínio das principais plataformas de anúncios (Meta Ads, Google Ads, TikTok Ads, Pinterest Ads).
+</li><li>
+Experiência com contas de diferentes níveis de investimento e complexidade.
+</li><li>
+Conhecimento em plataformas de e-commerce.
+</li><li>
+Capacidade avançada de análise de dados e tomada de decisão baseada em métricas.
+</li><li>
+Visão estratégica e de negócio, conectando mídia com resultados reais.<br /><br /></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/universoecommerce/17/analista-de-midia-senior]]></applyUrl>
+    <companyId><![CDATA[26195840]]></companyId>
+    <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[494b113d-6714-4094-8ec5-52e33bcee610]]></partnerJobId>
@@ -79984,25 +80019,6 @@ Boas práticas de performance em HANA </li><li>SAP RAP</li><li>Clean Core minds
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[9b641ebf-4219-4bda-af5b-4f62439d41a8]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Supervisor Operacional]]></title>
-    <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Supervisionar as atividades operacionais da empresa, garantindo eficiência e qualidade nos processos.</li><li>Planejar e distribuir tarefas entre a equipe, assegurando cumprimento de prazos e metas.</li><li>Monitorar indicadores de desempenho (produtividade, custos, qualidade, segurança).</li><li>Implementar melhorias contínuas nos processos operacionais.</li><li>Garantir conformidade com normas internas, regulamentos e políticas de segurança.</li><li>Apoiar a integração entre áreas como logística, produção, manutenção e atendimento ao cliente.</li><li>Treinar e desenvolver colaboradores, promovendo engajamento e capacitação.</li><li>Elaborar relatórios gerenciais e apoiar a tomada de decisão da coordenação/gerência.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Administração, Engenharia de Produção, Logística ou áreas correlatas (ou técnico com experiência sólida).</li><li>Experiência prévia em supervisão de operações ou liderança de equipes.</li><li>Conhecimento em indicadores de performance e ferramentas de gestão.</li><li>Organização, atenção aos detalhes e responsabilidade.</li><li>Excel Avançado.</li><li>Boa comunicação e habilidade de liderança.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/55/supervisor-operacional]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Feira de Santana]]></city>
-    <state><![CDATA[BA]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[7898328b-1512-4f45-9ac7-f5cb70fb55de]]></partnerJobId>
     <company><![CDATA[L'auto Cargo]]></company>
     <title><![CDATA[Consultor de Vendas]]></title>
@@ -80060,44 +80076,6 @@ Boas práticas de performance em HANA </li><li>SAP RAP</li><li>Clean Core minds
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6cf6cd2b-c4df-4fa8-87a1-83ed74692798]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Gerente Operacional]]></title>
-    <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Planejar, coordenar e supervisionar as operações diárias da empresa, garantindo eficiência e qualidade.</li><li>Implementar processos e políticas operacionais alinhados às metas estratégicas da organização.</li><li>Monitorar indicadores de desempenho (KPIs) e propor melhorias contínuas.</li><li>Controlar custos operacionais e otimizar recursos.</li><li>Negociar com fornecedores e parceiros para garantir prazos e padrões de qualidade.</li><li>Liderar equipes de supervisores e coordenadores, promovendo desenvolvimento e engajamento.</li><li>Elaborar relatórios gerenciais e apresentar resultados à diretoria.</li><li>Garantir conformidade com normas de segurança, qualidade e regulamentações aplicáveis.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação superior em Administração, Engenharia de Produção, Logística ou áreas correlatas.</li><li>Experiência sólida em gestão operacional e liderança de equipes.</li><li>Conhecimento em processos operacionais, indicadores de desempenho e gestão estratégica.</li><li>Domínio de sistemas e ferramentas de gestão logística.</li><li>Excel Avançado, conhecimento em Power BI.</li><li>Boa comunicação, liderança e capacidade de negociação.</li><li>Organização e foco em resultados.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/61/gerente-operacional]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[CE]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[10f0cfc0-ca8e-4b18-a61b-dff8be760e65]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Supervisor Operacional]]></title>
-    <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Supervisionar as atividades operacionais da empresa, garantindo eficiência e qualidade nos processos.</li><li>Planejar e distribuir tarefas entre a equipe, assegurando cumprimento de prazos e metas.</li><li>Monitorar indicadores de desempenho (produtividade, custos, qualidade, segurança).</li><li>Implementar melhorias contínuas nos processos operacionais.</li><li>Garantir conformidade com normas internas, regulamentos e políticas de segurança.</li><li>Apoiar a integração entre áreas como logística, produção, manutenção e atendimento ao cliente.</li><li>Treinar e desenvolver colaboradores, promovendo engajamento e capacitação.</li><li>Elaborar relatórios gerenciais e apoiar a tomada de decisão da coordenação/gerência.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Administração, Engenharia de Produção, Logística ou áreas correlatas (ou técnico com experiência sólida).</li><li>Experiência prévia em supervisão de operações ou liderança de equipes.</li><li>Conhecimento em indicadores de performance e ferramentas de gestão.</li><li>Organização, atenção aos detalhes e responsabilidade.</li><li>Excel Avançado.</li><li>Boa comunicação e habilidade de liderança.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/60/supervisor-operacional]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[CE]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[805df08a-9791-4751-827b-d443608bfe38]]></partnerJobId>
     <company><![CDATA[L'auto Cargo]]></company>
     <title><![CDATA[Motorista de Caminhão]]></title>
@@ -80106,25 +80084,6 @@ Boas práticas de performance em HANA </li><li>SAP RAP</li><li>Clean Core minds
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/51/motorista-de-caminhao]]></applyUrl>
     <companyId><![CDATA[11691971]]></companyId>
     <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[CE]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[5b88266e-6e7a-46cf-a2ce-159b0b9ca51e]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Supervisor Operacional]]></title>
-    <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Supervisionar as atividades operacionais da empresa, garantindo eficiência e qualidade nos processos.</li><li>Planejar e distribuir tarefas entre a equipe, assegurando cumprimento de prazos e metas.</li><li>Monitorar indicadores de desempenho (produtividade, custos, qualidade, segurança).</li><li>Implementar melhorias contínuas nos processos operacionais.</li><li>Garantir conformidade com normas internas, regulamentos e políticas de segurança.</li><li>Apoiar a integração entre áreas como logística, produção, manutenção e atendimento ao cliente.</li><li>Treinar e desenvolver colaboradores, promovendo engajamento e capacitação.</li><li>Elaborar relatórios gerenciais e apoiar a tomada de decisão da coordenação/gerência.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Administração, Engenharia de Produção, Logística ou áreas correlatas (ou técnico com experiência sólida).</li><li>Experiência prévia em supervisão de operações ou liderança de equipes.</li><li>Conhecimento em indicadores de performance e ferramentas de gestão.</li><li>Organização, atenção aos detalhes e responsabilidade.</li><li>Excel Avançado.</li><li>Boa comunicação e habilidade de liderança.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/109/supervisor-operacional]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Juazeiro do Norte]]></city>
     <state><![CDATA[CE]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -80202,63 +80161,6 @@ Boas práticas de performance em HANA </li><li>SAP RAP</li><li>Clean Core minds
     <companyId><![CDATA[11691971]]></companyId>
     <city><![CDATA[São Luís]]></city>
     <state><![CDATA[MA]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3f332e73-1f51-442a-807a-1ed87e3de6e8]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Motorista de Caminhão]]></title>
-    <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Conduzir caminhões em rotas nacionais, garantindo segurança e pontualidade.</li><li>Realizar o transporte de cargas conforme normas de trânsito e legislação vigente.</li><li>Conferir documentação da carga e do veículo antes das viagens.</li><li>Zelar pela conservação do veículo, realizando verificações básicas de manutenção.</li><li>Cumprir rotas e prazos estabelecidos pela empresa.</li><li>Reportar ocorrências durante o transporte.</li><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo.</li><li>Carteira Nacional de Habilitação (CNH) categoria <b>D</b> válida.</li><li>Experiência comprovada como motorista de caminhão.</li><li>Conhecimento das leis de trânsito e normas de transporte de cargas.</li><li>Disponibilidade para viagens longas e horários flexíveis.</li><li>Responsabilidade, disciplina e comprometimento com segurança.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/128/motorista-de-caminhao]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Contagem]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1485edb6-19fc-4feb-9045-254e56393495]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Coordenador Operacional]]></title>
-    <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Coordenar e supervisionar as atividades operacionais da empresa, garantindo eficiência e qualidade nos processos.</li><li>Planejar e controlar operação, materiais e equipamentos necessários para execução das operações.</li><li>Monitorar indicadores de desempenho (produtividade, custos, prazos, qualidade).</li><li>Implementar melhorias contínuas nos processos operacionais.</li><li>Garantir cumprimento de normas de segurança, qualidade e regulamentos internos.</li><li>Apoiar a integração entre áreas como logística, produção, manutenção e atendimento ao cliente.</li><li>Liderar e desenvolver equipes operacionais, promovendo engajamento e capacitação.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação superior em Administração, Engenharia de Produção, Logística ou áreas correlatas.</li><li>Experiência prévia em gestão de operações ou liderança de equipes.</li><li>Conhecimento em indicadores de performance e ferramentas de gestão.</li><li>Organização, atenção aos detalhes e responsabilidade.</li><li>Boa comunicação e habilidade de liderança.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/127/coordenador-operacional]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Contagem]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[94fc45fa-6ce2-4add-bd43-74c26217c113]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Farmacêutico RT]]></title>
-    <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar como Responsável Técnico em operações logísticas de medicamentos e produtos para saúde.</li><li>Garantir conformidade com normas da ANVISA, legislação sanitária e boas práticas de armazenagem e distribuição.</li><li>Supervisionar recebimento, armazenagem, transporte e expedição de medicamentos.</li><li>Elaborar e revisar procedimentos operacionais padrão (POPs) relacionados à logística farmacêutica.</li><li>Monitorar condições de armazenamento (temperatura, umidade, validade) e assegurar rastreabilidade dos produtos.</li><li>Apoiar auditorias internas e externas, além de inspeções sanitárias.</li><li>Treinar e orientar equipes operacionais sobre normas técnicas e regulatórias.</li><li>Emitir relatórios técnicos e responder por exigências legais junto aos órgãos competentes.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação superior em Farmácia.</li><li>Registro ativo no Conselho Regional de Farmácia (CRF).</li><li>Experiência em logística farmacêutica ou distribuição de medicamentos.</li><li>Conhecimento em legislação sanitária e regulatória aplicável.</li><li>Organização, responsabilidade e atenção aos detalhes.</li><li>Boa comunicação e habilidade para liderança técnica.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/101/farmaceutico-rt]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Contagem]]></city>
-    <state><![CDATA[MG]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -80611,69 +80513,12 @@ Boas práticas de performance em HANA </li><li>SAP RAP</li><li>Clean Core minds
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[d900afe1-67ce-43a2-b46d-676877ce5bd1]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Analista de Prevenção e Perdas]]></title>
-    <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Acompanhar o fluxo de cargas (embarque, transporte e entrega), garantindo prazos e qualidade.</li><li>Emitir e conferir documentos de transporte e logística (CT-e, notas fiscais, relatórios).</li><li>Controlar indicadores e dados operacionais (tempo de entrega, custos, avarias).</li><li>Gerenciar relacionamento com transportadoras e prestadores de serviços terceirizados.</li><li>Monitorar sistemas de rastreamento e atualizar status das cargas.</li><li>Propor melhorias nos processos logísticos para aumentar eficiência e reduzir custos.</li><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação superior em Logística, Administração, Engenharia de Produção ou áreas correlatas.</li><li>Experiência prévia em operações logísticas e transporte de cargas.</li><li>Domínio de sistemas de gestão logística e Excel.</li><li>Organização, atenção aos detalhes e capacidade analítica.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/126/analista-de-prevencao-e-perdas]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Natal]]></city>
-    <state><![CDATA[RN]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[1c12f852-8252-46c2-bbd6-2db742b7d460]]></partnerJobId>
     <company><![CDATA[L'auto Cargo]]></company>
     <title><![CDATA[Supervisor Regional Comercial - Nível Brasil]]></title>
     <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Planejar e executar estratégias de vendas para serviços de transporte e logística.</li><li>Gerenciar e desenvolver a equipe regional de vendas, acompanhando metas, indicadores e desempenho individual.</li><li>Prospectar novos clientes estratégicos e fortalecer o relacionamento com clientes da carteira.</li><li>Negociar contratos, preços e condições comerciais dentro das políticas da empresa.</li><li>Acompanhar indicadores comerciais.</li><li>Trabalhar em conjunto com as áreas de Operações, Logística, CEP e Financeiro para viabilizar soluções adequadas aos clientes.</li><li>Garantir o cumprimento das metas de vendas, rentabilidade e crescimento regional.</li><li>Elaborar relatórios gerenciais e apresentar resultados à diretoria.</li><li>Monitorar o mercado, concorrência e tendências do setor logístico.</li><li>Assegurar o cumprimento das políticas comerciais, éticas e de compliance da empresa.</li><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino superior completo em Administração, Engenharia, Gestão Comercial ou áreas correlatas.</li><li>Experiência comprovada em <strong>gestão comercial no setor de transporte e/ou logística</strong>.</li><li>Experiência com liderança de equipes de vendas externas.</li><li>Conhecimento sólido em negociação, formação de preços e contratos logísticos.</li><li>Capacidade de análise de indicadores e gestão por resultados.</li><li>Domínio do pacote Office, especialmente Excel.</li><li>Disponibilidade para viagens frequentes.</li><li>CNH válida.</li><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/96/supervisor-regional-comercial-nivel-brasil]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Natal]]></city>
-    <state><![CDATA[RN]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[7e718712-60b9-4c8b-b450-58f796ce648b]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Eletricista Automotivo]]></title>
-    <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar manutenção preventiva e corretiva nos sistemas elétricos de veículos automotivos.</li><li>Diagnosticar falhas elétricas e propor soluções técnicas adequadas.</li><li>Executar reparos e substituição de componentes elétricos e eletrônicos.</li><li>Garantir o funcionamento eficiente de sistemas de iluminação, ignição, refrigeração e acessórios elétricos.</li><li>Cumprir normas de segurança e qualidade durante os serviços.</li><li>Registrar serviços realizados e manter controle de peças e ferramentas.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Curso técnico em <strong>Eletromecânica, Eletricidade Automotiva ou áreas correlatas</strong>.</li><li>Experiência mínima de <strong>2 anos</strong> como eletricista automotivo.</li><li>Conhecimento em <strong>sistemas de refrigeração automotiva</strong>.</li><li>Habilidade em leitura e interpretação de esquemas elétricos.</li><li>Ensino médio completo.</li><li>Comprometimento com prazos e qualidade dos serviço</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/90/eletricista-automotivo]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Natal]]></city>
-    <state><![CDATA[RN]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[7d49a811-a931-4750-8adb-d980186d014f]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Mecânico automotivo]]></title>
-    <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar manutenção preventiva e corretiva em veículos automotivos.</li><li>Diagnosticar falhas mecânicas e propor soluções técnicas adequadas.</li><li>Garantir a segurança e o bom funcionamento dos sistemas de freios, suspensão e pneumáticos.</li><li>Executar reparos básicos em motores a diesel.</li><li>Cumprir normas de segurança e qualidade durante os serviços.</li><li>Manter registros atualizados de serviços realizados e peças utilizadas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência mínima de <strong>2 anos</strong> como mecânico automotivo.</li><li>Conhecimento comprovado em:<ul><li>Sistemas <strong>pneumáticos</strong></li><li><strong>Freios</strong></li><li><strong>Suspensão</strong></li><li>Noções básicas de <strong>motor a diesel</strong></li></ul></li><li>Ensino técnico completo em mecânica automotiva.</li><li>Capacidade de trabalhar em equipe e sob pressão.</li><li>Comprometimento com prazos e qualidade dos serviços.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/89/mecanico-automotivo]]></applyUrl>
     <companyId><![CDATA[11691971]]></companyId>
     <city><![CDATA[Natal]]></city>
     <state><![CDATA[RN]]></state>
@@ -80725,25 +80570,6 @@ Boas práticas de performance em HANA </li><li>SAP RAP</li><li>Clean Core minds
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[a928fc83-113e-4269-a542-7db8f17da670]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Operador de Empilhadeira]]></title>
-    <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Operar empilhadeiras para movimentação, carga e descarga de materiais em armazéns, centros de distribuição ou áreas de produção.</li><li>Garantir o correto armazenamento e organização dos produtos, respeitando normas de segurança.</li><li>Realizar inspeções diárias na empilhadeira (nível de óleo, combustível, pneus, freios).</li><li>Cumprir procedimentos internos e normas de segurança do trabalho.</li><li>Apoiar atividades logísticas, como separação e conferência de mercadorias.</li><li>Reportar ocorrências, avarias ou necessidades de manutenção ao setor responsável.</li><li>Zelar pela conservação e limpeza da empilhadeira.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental ou médio completo.</li><li>Carteira Nacional de Habilitação (CNH) válida.</li><li>Curso de <strong>Operador de Empilhadeira</strong> reconhecido e certificado.</li><li>Experiência prévia na operação de empilhadeiras.</li><li>Conhecimento em normas de segurança e movimentação de cargas.</li><li>Atenção, responsabilidade e comprometimento.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/54/operador-de-empilhadeira]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Natal]]></city>
-    <state><![CDATA[RN]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[802bcb6e-4c5b-46fa-9199-3e3f0c9aefe3]]></partnerJobId>
     <company><![CDATA[L'auto Cargo]]></company>
     <title><![CDATA[Estagiário]]></title>
@@ -80771,25 +80597,6 @@ Boas práticas de performance em HANA </li><li>SAP RAP</li><li>Clean Core minds
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/78/motorista-de-caminhao]]></applyUrl>
     <companyId><![CDATA[11691971]]></companyId>
     <city><![CDATA[Parnamirim]]></city>
-    <state><![CDATA[RN]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[821078b2-eb10-428d-9274-b0f6a786dd00]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Jovem Aprendiz]]></title>
-    <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o primeiro passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Apoiar atividades administrativas e operacionais da área designada.</li><li>Organizar documentos, arquivos e materiais de apoio.</li><li>Auxiliar no atendimento interno e externo (presencial, telefone ou e-mail).</li><li>Dar suporte em rotinas de logística, estoque ou escritório, conforme necessidade.</li><li>Cumprir normas e procedimentos da empresa.</li><li>Participar de treinamentos e capacitações oferecidos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Idade entre 18 e 23 anos.</li><li>Estar cursando ou ter concluído o ensino médio ou nível superior.</li><li>Disponibilidade de horário (manhã/tarde), contrato de 30 horas semanais.</li><li>Interesse em aprender e se desenvolver profissionalmente.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/148/jovem-aprendiz]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[São Gonçalo do Amarante]]></city>
     <state><![CDATA[RN]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -80883,25 +80690,6 @@ Boas práticas de performance em HANA </li><li>SAP RAP</li><li>Clean Core minds
     <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Executar serviços de limpeza e conservação de ambientes internos e externos.</li><li>Realizar higienização de banheiros, salas, escritórios e áreas comuns.</li><li>Apoiar na organização de materiais e equipamentos de limpeza.</li><li>Auxiliar em pequenas manutenções e serviços gerais quando necessário.</li><li>Recolher lixo e manter a correta destinação dos resíduos.</li><li>Garantir o cumprimento das normas de segurança e higiene.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo.</li><li>Experiência prévia em serviços de limpeza ou conservação.</li><li>Conhecimento básico em uso de produtos e equipamentos de limpeza.</li><li>Responsabilidade, disciplina e atenção aos detalhes.</li><li>Capacidade de trabalho em equipe.</li><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/83/auxiliar-de-servicos-gerais-asg]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[424e089d-1bde-4fb2-9fd3-8dd34faf86ab]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Gerente Regional de Operações]]></title>
-    <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Planejar, coordenar e supervisionar as operações diárias da empresa, garantindo eficiência e qualidade.</li><li>Implementar processos e políticas operacionais alinhados às metas estratégicas da organização.</li><li>Monitorar indicadores de desempenho (KPIs) e propor melhorias contínuas.</li><li>Controlar custos operacionais e otimizar recursos.</li><li>Negociar com fornecedores e parceiros para garantir prazos e padrões de qualidade.</li><li>Liderar equipes de supervisores e coordenadores, promovendo desenvolvimento e engajamento.</li><li>Elaborar relatórios gerenciais e apresentar resultados à diretoria.</li><li>Garantir eficiência das operações da sua regional.</li><li>Garantir conformidade com normas de segurança, qualidade e regulamentações aplicáveis.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação superior em Administração, Engenharia de Produção, Logística ou áreas correlatas.</li><li>Experiência sólida em gestão operacional e liderança de equipes.</li><li>Conhecimento em processos operacionais, indicadores de desempenho e gestão estratégica.</li><li>Domínio de sistemas e ferramentas de gestão logística.</li><li>Excel Avançado, conhecimento em Power BI.</li><li>Boa comunicação, liderança e capacidade de negociação.</li><li>Organização e foco em resultados.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/28/gerente-regional-de-operacoes]]></applyUrl>
     <companyId><![CDATA[11691971]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -81824,6 +81612,25 @@ atuação em equipe;</li><li>Organização de atividades e controle das tarefas;
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[8f4fb52a-398e-4ccb-b5ce-88b891f4e527]]></partnerJobId>
+    <company><![CDATA[ISQ Brasil]]></company>
+    <title><![CDATA[Inspetor de Recebimento]]></title>
+    <posterEmail><![CDATA[iwcarvalho@isqbrasil.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está buscando uma oportunidade que permita crescer e se desenvolver em um ambiente dinâmico e colaborativo? Temos uma posição aberta, ideal para quem deseja fazer parte de uma equipe comprometida com a excelência. Aqui, você encontrará um espaço para aplicar suas habilidades, contribuir com soluções e participar ativamente de um processo que impacta diretamente na qualidade dos produtos e serviços oferecidos. Valorizamos o potencial de cada colaborador e incentivamos o aprendizado contínuo, proporcionando a chance de se destacar e conquistar novos desafios. Se você tem interesse em atuar em um time que preza pela qualidade e pela inovação, não deixe essa oportunidade passar. Venha fazer parte de um ambiente estimulante, onde suas contribuições serão reconhecidas e valorizadas. Junte-se a nós e inicie uma nova etapa na sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Recebimento, desembalarem e identificação dos materiais com código VSB;</li><li>Movimentação dos materiais a serem inspecionados da área de recebimento até a área reservada para a inspeção (a VSB disponibilizará o equipamento necessário para esta atividade);</li><li>Reembalagem dos materiais inspecionados e cintamento nos paletes;</li><li>Inspeção e recebimento dos materiais em conformidade com os desenhos e documentos técnicos;</li><li>Definição dos equipamentos de medição adequados para as diversas inspeções;</li><li>Verificação da documentação técnica recebida junta com o material;</li><li>Avaliação dos resultados das inspeções visuais e dimensionais;</li><li>Identificação e rastreabilidade dos materiais inspecionados (número SAP - EMAT)</li><li>Disponibilidade, calibração e rastreabilidade dos equipamentos de medição;</li><li>Conformidade da identificação e rastreabilidade dos materiais inspecionados;</li><li>Elaboração de relatório de conformidade das inspeções;</li><li>Elaboração dos relatórios de não conformidades identificadas;</li><li>Emissão de "back-up" dos relatórios de inspeção;</li><li>Outras atividades relacionadas com a inspeção.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimentos de metrologia;</li><li>Conhecimentos em interpretação, leitura e análise de desenhos técnicos;</li><li>Conhecimentos sabre o manuseio e formas de medição para os diversos tipos de instrumentos de medição;</li><li>Conhecimento de materiais mecânicos, hidráulicos e pneumáticos;</li><li>Conhecimento das normas técnicas aplicáveis;</li><li>Habilitação B.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/isqbrasilcarreiras/81/inspetor-de-recebimento]]></applyUrl>
+    <companyId><![CDATA[9424481]]></companyId>
+    <city><![CDATA[Jeceaba]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[7f57c3e4-7264-4f93-a702-ddd21c52896a]]></partnerJobId>
     <company><![CDATA[ISQ Brasil]]></company>
     <title><![CDATA[Coordenador de Contrato]]></title>
@@ -81968,25 +81775,6 @@ responsabilidade.<br /></li></ul>]]></description>
           <amount><![CDATA[1800.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[658bdd07-7c3a-4a3e-80b7-9dddbf8d915a]]></partnerJobId>
-    <company><![CDATA[ISQ Brasil]]></company>
-    <title><![CDATA[Assistente Administrativo - Vaga para  São Paulo]]></title>
-    <posterEmail><![CDATA[evsilva@isqbrasil.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está buscando uma oportunidade que permita crescer e se desenvolver em um ambiente dinâmico e colaborativo? Temos uma posição aberta, ideal para quem deseja fazer parte de uma equipe comprometida com a excelência. Aqui, você encontrará um espaço para aplicar suas habilidades, contribuir com soluções e participar ativamente de um processo que impacta diretamente na qualidade dos produtos e serviços oferecidos. Valorizamos o potencial de cada colaborador e incentivamos o aprendizado contínuo, proporcionando a chance de se destacar e conquistar novos desafios. Se você tem interesse em atuar em um time que preza pela qualidade e pela inovação, não deixe essa oportunidade passar. Venha fazer parte de um ambiente estimulante, onde suas contribuições serão reconhecidas e valorizadas. Junte-se a nós e inicie uma nova etapa na sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar as rotinas administrativas do contrato de Acompanhamento de Obras</li><li>Realizar controle e organização de documentos, relatórios e registros do contrato</li><li>Auxiliar na elaboração, conferência e envio de boletins de medição e controles operacionais</li><li>Acompanhar prazos, demandas e solicitações do cliente, garantindo o correto fluxo das informações</li><li>Dar suporte às equipes de campo, coordenação e supervisão nas atividades administrativas</li><li>Atualizar planilhas, sistemas e controles internos relacionados ao contrato</li><li>Apoiar na organização de reuniões, relatórios gerenciais e apresentações</li><li>Controlar envio e recebimento de documentos, evidências e registros exigidos pelo cliente</li><li>Auxiliar no acompanhamento de mobilização, programação e execução das atividades do contrato</li><li>Garantir o cumprimento dos procedimentos internos e diretrizes administrativas da empresa.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo</li><li>Organização e controle de documentos e informações administrativas</li><li>Conhecimento em rotinas administrativas e apoio operacional</li><li>Habilidade para utilização de sistemas corporativos, planilhas e controles gerenciais</li><li>Boa comunicação para interface com equipe de campo, coordenação e cliente</li><li>Capacidade de acompanhamento de prazos, demandas e fluxos internos</li><li>Atenção a detalhes, conferência de dados e controle de registros</li><li>Proatividade para apoio às demandas do contrato e resolução de pendências administrativas</li><li>Facilidade para trabalhar em equipe e atender múltiplas solicitações simultaneamente</li><li>Responsabilidade, comprometimento e sigilo com informações do contrato.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/isqbrasilcarreiras/63/assistente-administrativo-vaga-para-sao-paulo]]></applyUrl>
-    <companyId><![CDATA[9424481]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -82465,6 +82253,42 @@ Disponibilidade para cumprir carga horária do programa.</li></ul>]]></descripti
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscosantacasa/30/tecnico-em-laboratorio-hospital-regional-piemonte-do-paraguacu]]></applyUrl>
     <companyId><![CDATA[97350692]]></companyId>
     <city><![CDATA[Itaberaba]]></city>
+    <state><![CDATA[BA]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[637e9958-e47e-45a9-a835-88c9ff6c1176]]></partnerJobId>
+    <company><![CDATA[Santa Casa Ruy Barbosa]]></company>
+    <title><![CDATA[Cozinheiro (a) | Hospital Metropolitano]]></title>
+    <posterEmail><![CDATA[psiorg.rhcsc2@scrb.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável pelo preparo de refeições hospitalares, seguindo cardápios e orientações da equipe de nutrição, garantindo qualidade, segurança alimentar e adequação às necessidades dos pacientes, colaboradores e acompanhantes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Preparar refeições conforme cardápio estabelecido;
+</li><li>
+Realizar pré-preparo e preparo dos alimentos;
+</li><li>
+Seguir dietas específicas conforme prescrição nutricional;
+</li><li>
+Controlar tempo, temperatura e armazenamento dos alimentos;
+</li><li>
+Manter a organização, limpeza e higienização da cozinha e utensílios;
+</li><li>
+Cumprir normas de boas práticas de manipulação de alimentos;
+</li><li>
+Auxiliar na distribuição das refeições;
+</li><li>
+Contribuir para o controle de insumos e redução de desperdícios</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo <br /></li><li>Experiência como cozinheiro(a), preferencialmente em ambiente hospitalar ou UAN;
+</li>
+<li>
+Conhecimento em boas práticas de manipulação de alimentos.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscosantacasa/67/cozinheiro-a-hospital-metropolitano]]></applyUrl>
+    <companyId><![CDATA[97350692]]></companyId>
+    <city><![CDATA[Lauro de Freitas]]></city>
     <state><![CDATA[BA]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
