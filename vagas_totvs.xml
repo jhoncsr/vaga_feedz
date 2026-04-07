@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 07 Apr 2026 21:17:23 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 07 Apr 2026 22:16:58 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
   <expectedJobCount><![CDATA[3187]]></expectedJobCount>
@@ -1164,6 +1164,138 @@ distribuído, logging estruturado).</li></ul><br />]]></description>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0ed10d32-6641-4f85-bfe0-9a9957213e50]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Cibersegurança] Analista III de Resposta a Incidentes - DFIR]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável pela prevenção, tratamento e elucidação de Incidentes de Segurança, a
+fim de proporcionar uma estrutura computacional resiliente a ameaças em todos
+ambientes Cloud.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Elaboração e envio de relatórios de investigação de incidentes, seguindo as diretrizes de tempo da LGPD e da ISO 27001
+</li>
+<li>
+Análise e tratamento de alertas de segurança, com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute, utilizando ferramentas de resposta a incidentes
+</li>
+<li>
+Condução de atividades de investigação e threat hunting, com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute, utilizando ferramentas de resposta a incidentes
+</li>
+<li>
+Implementação de processos e tecnologias do Centro de Detecção (Preparação, Identificação, Contenção, Erradicação, Recuperação e Lições Aprendidas), com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute
+</li>
+<li>
+Desenvolvimento de automações para coleta e investigação de segurança, utilizando frameworks NIST Cybersecurity Framework e/ou SANS Institute, por meio de linguagens de programação ou scripts
+</li>
+<li>
+Acompanhamento e garantia da evolução de planos de ação preventivos e corretivos para vulnerabilidades e incidentes (Purple Team), com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute
+</li>
+<li>
+Condução de testes de invasão (pentest) e elaboração de relatórios técnicos e executivos, com base nos frameworks PTES, OWASP e/ou NIST Cybersecurity Framework
+</li>
+<li>
+Definição de controles e processos operacionais para todas as etapas do modelo Cyber Kill Chain, com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute
+</li>
+<li>
+Definição de diretrizes operacionais e padrões de relatório para análise forense digital, com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute
+</li>
+<li>
+Desenvolvimento de automações para coleta e investigação de segurança (atividade repetida no descritivo), com uso de scripts ou linguagens de programação
+</li>
+<li>
+Definição de eventos de segurança a serem centralizados em SIEM, incluindo priorização e tratamento, com base nos frameworks MITRE ATT&amp;CK, NIST Cybersecurity Framework e/ou SANS Institute
+</li>
+<li>
+Garantia da comunicação adequada de incidentes em cloud e mensagens para clientes, com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute
+</li>
+<li>
+Definição de ferramentas para prevenção e resposta a incidentes, com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Graduação em:
+<ul>
+<li>
+Ciência da Computação
+</li>
+<li>
+Cyber Segurança
+</li>
+<li>
+Ou áreas correlatas
+</li>
+</ul>
+</li>
+<li>
+Sistemas Operacionais:
+<ul>
+<li>
+Linux – nível intermediário
+</li>
+<li>
+Windows – nível intermediário
+</li>
+</ul>
+</li>
+<li>
+Conhecimento em:
+<ul>
+<li>
+SANS Institute – Incident Response and Threat Hunting
+</li>
+<li>
+SIEM (Security Information and Event Management)
+</li>
+</ul>
+</li>
+<li>
+Certificações desejadas:
+<ul>
+<li>
+CEH
+</li>
+<li>
+OSCP
+</li>
+<li>
+GIAC
+</li>
+</ul>
+</li>
+<li>
+Frameworks e modelos:
+<ul>
+<li>
+MITRE ATT&amp;CK / MITRE Defend
+</li>
+<li>
+Cyber Kill Chain
+</li>
+<li>
+SANS Institute
+</li>
+</ul>
+</li>
+<li>
+Idiomas:
+<ul>
+<li>
+Inglês – nível intermediário
+</li>
+</ul>
+</li>
+<li>
+Experiência:
+<ul>
+<li>
+Mínimo de 3 anos na área</li></ul></li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9506/ciberseguranca-analista-iii-de-resposta-a-incidentes-dfir]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -7248,37 +7380,6 @@ Disponibilidade para estagiar <strong>30 horas semanais</strong>.</li>]]></descr
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[cf0ecfbb-2c8e-4f14-9348-3539170e9e1a]]></partnerJobId>
-    <company><![CDATA[Vibe Tecnologia]]></company>
-    <title><![CDATA[Product Owner - Pleno]]></title>
-    <posterEmail><![CDATA[robertson.bandeira@vibetecnologia.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Como Product Owner, você irá atuar no nosso time de desenvolvimento de software e sua principal missão será ajudar o time a construir produtos incríveis!
-
-Você será um Product Owner em um ambiente ágil e dinâmico, com múltiplos projetos e produtos em diferentes Es. Procuramos alguém que resolva problemas complexos de forma prática, compreenda diferentes públicos e comunique-se com clareza com eles, saiba mediar conflitos e que auxilie o time de desenvolvimento na construção, desenvolvimento, testes, lançamento e sustentação do produto, além de auxiliar na condução dos projetos. Esperamos que você seja adaptável, lógico, e capaz de gerenciar produtos e projetos com eficiência.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />•	Gerenciar múltiplos produtos e projetos, transformando necessidades de negócio em soluções eficazes.
-•	Priorizar backlog e roadmap em colaboração com clientes, alinhando expectativas.
-•	Definir e validar funcionalidades com o time (UX e desenvolvimento) e clientes.
-•	Conduzir todo o ciclo de desenvolvimento: planejamento, homologação, lançamento e sustentação.
-•	Apoiar stakeholders e time de desenvolvimento na sustentação de produtos.
-•	Realizar cerimônias ágeis (Planning, Review, Retrospective, Daily).
-•	Manter-se atualizado sobre o mercado, identificando novas oportunidades.<br /><br /><b>Requisitos e qualificações</b><br /><br />•	Proatividade e habilidade para resolver problemas complexos.
-•	Experiência em metodologias ágeis e desenvolvimento de software.
-•	Conhecimento em Kanban, lógica de programação e criação de protótipos.
-•	Habilidade de comunicação e negociação com clientes e equipe.
-•	Experiência com cenários e requisitos de testes.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupovibe/123/product-owner-pleno]]></applyUrl>
-    <companyId><![CDATA[18879332]]></companyId>
-    <city><![CDATA[Belém]]></city>
-    <state><![CDATA[PA]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[6bae9f07-7246-42e2-abb1-3025a1bc708c]]></partnerJobId>
