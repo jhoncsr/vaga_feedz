@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 08 Apr 2026 17:20:17 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 08 Apr 2026 18:17:42 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3200]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3202]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -556,6 +556,33 @@
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[2337409d-0912-4314-84ef-6a8ea87871e5]]></partnerJobId>
+    <company><![CDATA[Credi Shop]]></company>
+    <title><![CDATA[ATENDENTE COMERCIAL - PETROLINA]]></title>
+    <posterEmail><![CDATA[laianedamasceno@credishop.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade que permita expressar sua habilidade de comunicação e relacionamento? Temos o prazer de convidá-lo(a) a fazer parte de uma equipe dinâmica e inovadora, onde a sua capacidade de engajar e conquistar pessoas será valorizada. Aqui, cada dia é uma nova chance de fazer a diferença e impactar positivamente a vida de nossos clientes. Queremos pessoas proativas e apaixonadas pelo que fazem, dispostas a criar conexões significativas e trazer soluções que atendam às necessidades do mercado. Se você busca um ambiente motivador, com espaço para crescimento e desenvolvimento profissional, esta é a sua chance de brilhar. Venha contribuir para o nosso sucesso e descobrir como sua energia e talento podem transformar a experiência de vendas. Junte-se a nós e construa uma trajetória de realizações com uma equipe que funciona como uma verdadeira parceira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar prospecção de clientes;</li><li>Prestar atendimento técnico aos estabelecimentos;</li><li>Oferecer suporte e orientações sobre nossos produtos e serviços;</li><li>Fortalecer o relacionamento com a carteira de clientes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />CNH (Categoria A);<br />Veiculo próprio (Moto);<br />Disponibilidade para viagens; <br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/credishop/195/atendente-comercial-petrolina]]></applyUrl>
+    <companyId><![CDATA[1089858]]></companyId>
+    <city><![CDATA[Petrolina]]></city>
+    <state><![CDATA[PE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[3000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -4850,25 +4877,6 @@ Conhecimento em Excel (nível básico a intermediário).</li>]]></description>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Venha fazer parte da maior empresa de tecnologia do Brasil como Especialista em Desenvolvimento Backend (Java)<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<br /><ul><li>Desenvolver soluções on premises e SaaS, através do desenvolvimento de requisitos de softwares, utilizando-se das tecnologias envolvidas no Identity; </li><li>Conhecer arquitetura de software e boas práticas de mercado; </li><li>Criação de testes automatizados que cubram o comportamento desejado dos componentes técnicos desenvolvidos, utilizando os requisitos e ferramentas de testes;</li><li>Manter a qualidade do software verificando processos, ferramentas e boas práticas disponíveis para produto e tecnologia;</li><li>Detalhar requisitos de média e alta complexidade através do contato com áreas envolvidas;</li><li>Orientar desenvolvedores de menor senioridade apoiando suas dúvidas, disseminando seu conhecimento, desenhando e arquitetando soluções ou indicando documentação de apoio.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Java 11+;</li><li>Spring Boot;</li><li>Arquitetura SaaS;</li><li>Testes automatizados;</li><li>Maven e Git;</li><li>Bancos não relacionais;</li><li>Mensageria;</li><li>Restful.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8250/tech-especialista-em-engenharia-de-software-backend-java]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6ee8979a-d397-493b-952a-36c0a5a314bf]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Pré-vendas] Engenharia de Vendas Sênior - Sales Engineer | Cloud]]></title>
-    <posterEmail><![CDATA[rodrigo.gguimaraes@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável pelas definições de arquitetura das soluções Cloud, realiza as precificações de projetos e levantamento de custos de ambientes, contribuindo assim para os resultados da área.  <br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar a área de Sales Specialists na definição da arquitetura e escopo técnico das propostas de Cloud.</li><li>Manter-se atualizado em relação as ofertas e regras do negócio Cloud TOTVS.</li><li>Realizar a precificação de novos projetos de acordo com as demandas dos Sales Specialists.</li><li>Responsável pelo envio de projetos técnicos para ativação de novos ambientes.</li><li>Apoiar no levantamento de custos de ambientes para renegociação da área de Customer Success.</li><li>Interagir com as áreas de Cloud para se atualizar sobre alterações implementadas.</li><li>Tratar dúvidas técnicas sobre projetos junto ao time de Implantação de Cloud.</li><li>Atender demandas registradas via ticket na ferramenta Zendesk.</li><li>Responsável pelo desenho das topologias dos projetos entregues.</li><li>Responsável por sugerir e implementar ações de melhoria nos processos da área.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação: Graduação nas áreas de Tecnologia da Informação ou afins.<br /><br /><br />Conhecimentos:<br />Arquitetura do Cloud TOTVS <br />Produtos TOTVS.<br />Noções de Nuvens Públicas (Azure, AWS, Google, entre outros).<br />Pacote Office - Básico.<br />Segurança da Informação <br />Boa comunicação verbal e escrita.<br /><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/6586/pre-vendas-engenharia-de-vendas-senior-sales-engineer-cloud]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -11093,25 +11101,6 @@ Noções de redes </li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[9cfece55-7b48-4403-b70b-acf20a24e255]]></partnerJobId>
-    <company><![CDATA[SMAR APD]]></company>
-    <title><![CDATA[Analista de Suporte  Pleno| SMARTB]]></title>
-    <posterEmail><![CDATA[fabiana.dacanal@smarapd.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Se você é um profissional que gosta de trabalhar com pessoas, é pró-ativo e busca se desenvolver em uma área em constante crescimento, aqui é o seu lugar. #vemserSMARAPDteam</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento ao cliente para esclarecimento de duvidas e abertura de chamados para solução de problemas</li><li>Realizar treinamento de usuários do sistema</li><li>Elaboração de manuais</li><li>Acompanhar implantações</li><li>Realizar testes para identificação de falhas e erros do sistema</li><li>Viagens para treinamenot/atendimento de clientes</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Superior Cursando ou Completo em Administração,  Contabilidade ou qualquer área de T.I .</strong><b><br /></b><strong>Diferenciais:</strong><br /><ul><li>Técnicas de Atendimento ao Cliente</li><li>Boa comunicação</li><li>Necessário disponibilidade para viagens</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/smarapdvagas/110/analista-de-suporte-pleno-smartb]]></applyUrl>
-    <companyId><![CDATA[2563455]]></companyId>
-    <city><![CDATA[Ribeirão Preto]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[e9c8c0ad-d186-4fea-8e44-c01344d54c08]]></partnerJobId>
     <company><![CDATA[SMAR APD]]></company>
     <title><![CDATA[Analista de Suporte Pleno | Folha de Pagamento Pública]]></title>
@@ -11148,61 +11137,6 @@ Noções de redes </li>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[d0e7b545-a243-4dce-965b-767b89f3e8aa]]></partnerJobId>
-    <company><![CDATA[SMAR APD]]></company>
-    <title><![CDATA[Desenvolvedor Full Stack Sênior | SmarTB]]></title>
-    <posterEmail><![CDATA[jessica.pavan@smarapd.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Se você é um profissional apaixonado por tecnologia e inovação, possui conhecimento e experiência na área de RH, e que prioriza o trabalho em equipe, aqui é o seu lugar! <strong>#vempraSMARAPD</strong></li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><br /><ul><li>Desenvolver sistemas e aplicações;</li><li>Escrever códigos limpos e funcionais no front-end e no banck-end;</li><li>Participar do projeto e criação de softwares escaláveis, criando definições de segurança e proteção de dados;</li><li>Determinar interface gráfica, critérios ergonômicos de navegação, montar a estrutura de banco de dados, codificar e testar sistemas e aplicações;</li><li>Projetar, implantar e realizar manutenção de sistemas e aplicações, diagnosticando, depurando e atualizando softwares;</li><li>Testar softwares para assegurar capacidade de resposta e eficiência, corrigindo erros ou outros problemas de codificação;</li><li>Redigir documentação técnica clara e detalhada;</li><li>Apoiar a equipe com as demandas e dúvidas</li></ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Requisitos:</b><br />
-Ensino Superior Completo;<br />
-Experiência de 3 anos<br />
-Experiência com desenvolvimento front-end (React);<br />
-Experiência com desenvolvimento back-end (.NET);<br />
-Conhecimento em bancos de dados SQL;<br />
-Experiência com versionamento de código (Git);<br />
-Familiaridade com metodologias ágeis (Scrum, Kanban); <b>Diferenciais:</b><br />
-Experiência com desenvolvimento front-end (angular);<br />
-Conhecimento em bancos de dados no SQL;<br />
-Conhecimento em Azure DevOps para versionamento, integração contínua e automação de deploys.<br />
-Experiência com testes automatizados (unitários e de integração).<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/smarapdvagas/94/desenvolvedor-full-stack-senior-smartb]]></applyUrl>
-    <companyId><![CDATA[2563455]]></companyId>
-    <city><![CDATA[Ribeirão Preto]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[e8578968-900d-43fc-9d17-d933bc7542b4]]></partnerJobId>
@@ -20045,25 +19979,6 @@ Boa comunicação para interface com áreas internas.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[45f1a034-832e-4b42-bf73-f51d897824de]]></partnerJobId>
-    <company><![CDATA[Grupo Guaraves]]></company>
-    <title><![CDATA[Repositor de Mercadorias]]></title>
-    <posterEmail><![CDATA[anderson.oliveira@guaraves.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa proativa, com habilidades de organização e atenção aos detalhes? Gosta de ambientes dinâmicos e busca por novos desafios? Então esta oportunidade é para você! Estamos em busca de profissionais que desejam fazer a diferença, contribuindo para a organização e exposição de produtos de forma estratégica. Se você se identifica com estas características e busca por um ambiente de trabalho colaborativo e repleto de oportunidades de crescimento, venha fazer parte da nossa equipe como Repositor de Mercadorias. Junte-se a nós e faça parte do nosso time de talentos!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar reposição de mercadorias nas prateleiras.<br /> - Verificar datas de validade dos produtos.<br /> - Manter a organização do setor.<br /> - Atender solicitações de clientes e fornecer informações sobre produtos.<br /> - Auxiliar na precificação dos itens.<br /> - Zelar pela limpeza do ambiente de trabalho.<br /> - Colaborar na conferência de estoque.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- <b>Ensino médio completo.</b><br />- <b>CNH A ou B.</b><br /> - Boa comunicação.<br /> - Capacidade para trabalhar em equipe.<br /> - Organização e atenção aos detalhes.<br /> - Agilidade e disposição para atividades físicas.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasguaraves/31/repositor-de-mercadorias]]></applyUrl>
-    <companyId><![CDATA[6994713]]></companyId>
-    <city><![CDATA[Campina Grande]]></city>
-    <state><![CDATA[PB]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[174ac672-7742-4ccd-ad8b-1a27b9673865]]></partnerJobId>
     <company><![CDATA[Grupo Guaraves]]></company>
     <title><![CDATA[Assistente Administrativo I]]></title>
@@ -22783,27 +22698,6 @@ Facilidade para atendimento ao cliente</li></ul>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a2d4d8c9-8990-4b59-a2e7-b99954363188]]></partnerJobId>
-    <company><![CDATA[Stefanini IHM]]></company>
-    <title><![CDATA[Estagiário de Suporte Técnico TI]]></title>
-    <posterEmail><![CDATA[smfriedrich@ihm.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade que realmente contribua para o seu desenvolvimento profissional? Temos o prazer de te convidar para conhecer uma experiência única na vaga de <strong>Estagiário(a) de Suporte Técnico em TI</strong>, em um ambiente dinâmico, colaborativo e acolhedor.
-Ao se juntar à nossa equipe, você fará parte de um time que valoriza a inovação, o aprendizado contínuo e a troca de conhecimentos. Acreditamos no crescimento conjunto e oferecemos um espaço onde a criatividade é incentivada e novas ideias são sempre bem-vindas.
-<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento ao Usuário (Help Desk): Prestar suporte via telefone, chat ou acesso remoto (TeamViewer, AnyDesk);</li><li>Manutenção de Hardware e Software: Instalar e configurar sistemas operacionais (Windows/Linux), impressoras, periféricos e softwares de escritório;</li><li>Gestão de Chamados: Abrir, monitorar e fechar chamados técnicos, garantindo o cumprimento dos prazos (SLA);</li><li>Manutenção Preventiva: Realizar checklists em máquinas, limpeza física de computadores e atualização de antivírus;</li><li>Documentação: Auxiliar na criação de manuais técnicos e procedimentos operacionais;</li><li>Suporte de Rede: Auxiliar na configuração básica de redes locais e internet. </li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando Técnico em Informática, Superior em Redes, Ciência da Computação ou áreas afins;</li><li>Conhecimento básico em Windows, Pacote Office e hardware;</li><li>Boa comunicação, proatividade e foco no cliente.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ihmstefanini/114/estagiario-de-suporte-tecnico-ti]]></applyUrl>
-    <companyId><![CDATA[1306131]]></companyId>
-    <city><![CDATA[Belo Horizonte]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[5e1294c1-5412-41ac-a113-d49dbe6731e1]]></partnerJobId>
@@ -28224,77 +28118,6 @@ Conhecimento em antropometria (proporções do corpo feminino).</li></ul>]]></de
 </li><li>Noções básicas de informática.</li>
 <li>Desejável noções de costura, conhecimento em inspeção, em técnicas de inspeção para identificação de defeitos, e em malhas e tecidos.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscoobjetobrasil/71/inspetor-a-de-qualidade-interno]]></applyUrl>
-    <companyId><![CDATA[9252532]]></companyId>
-    <city><![CDATA[Pomerode]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[fd69a787-e54d-46bf-a846-9acd6d1684db]]></partnerJobId>
-    <company><![CDATA[Objeto Brasil]]></company>
-    <title><![CDATA[Analista de Engenharia de Produto (Moda)]]></title>
-    <posterEmail><![CDATA[gp.selecao@objetobr.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Analista de Engenharia de Produto (Moda) para fortalecer nosso time e apoiar no desenvolvimento das nossas coleções. Procuramos alguém organizado, com visão de processo e paixão por transformar ideias em produtos.<br />Se você gosta de acompanhar todo o processo de desenvolvimento de produto e quer fazer parte de um ambiente colaborativo, essa oportunidade pode ser para você.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Principais responsabilidades:<ul><li>Desenvolver e acompanhar coleções, cápsulas, pronta entrega, uniformes e brindes</li><li>Apoiar no desenvolvimento de coleção</li><li>Elaborar croquis e descritivos técnicos</li><li>Realizar cadastro de produtos e referências no sistema</li><li>Definir sequência operacional e realizar cronometragem</li><li>Acompanhar desenvolvimento de protótipos</li><li>Analisar viabilidade de produtos e processos de produção</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Requisitos:<ul><li>Ensino superior completo em Moda ou áreas relacionadas</li><li>Experiência mínima de 2 anos na área</li><li>Conhecimento em processos de desenvolvimento de produto no setor de moda</li></ul><br />Competências que buscamos:<ul><li>Iniciativa e dinamismo</li><li>Autogestão e organização</li><li>Capacidade de negociação</li><li>Foco em metas e resultados</li><li>Trabalho em equipe e gestão do tempo</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscoobjetobrasil/70/analista-de-engenharia-de-produto-moda]]></applyUrl>
-    <companyId><![CDATA[9252532]]></companyId>
-    <city><![CDATA[Pomerode]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[48750051-65d4-4bfa-a5e4-aa23b8134cb2]]></partnerJobId>
-    <company><![CDATA[Objeto Brasil]]></company>
-    <title><![CDATA[Consultor de Vendas B2B]]></title>
-    <posterEmail><![CDATA[gp.selecao2@objetobr.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de de um(a) Consultor(a) de Vendas B2B que vá além da venda. Queremos uma pessoa que construa relações, entenda o negócio do cliente e atue como parceiro estratégico.
-Aqui, vender é gerar valor. É ouvir, analisar, propor e acompanhar. É ter olhar de dono e pensar no crescimento conjunto.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Atuar de forma estratégica na prospecção e expansão de mercado
-</li>
-<li>
-Mapear oportunidades de mercado</li><li>Negociação de valores, prazos e condições
-</li><li>
-Gestão de carteira e pós-venda
-</li>
-
-<li>
-Acompanhamento de metas e indicadores</li>
-<li>
-Diagnosticar necessidades e construir soluções personalizadas
-</li>
-<li>
-Conduzir negociações com foco em resultado e rentabilidade
-</li>
-<li>
-Gerenciar carteira de clientes com visão de longo prazo
-</li>
-<li>
-Acompanhar indicadores, metas e funil de vendas</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência com vendas  (ciclo consultivo)
-</li>
-<li>
-Forte habilidade de negociação e argumentação
-</li>
-<li>
-Capacidade analítica para leitura de mercado e indicadores
-</li>
-<li>
-Organização e disciplina na gestão de pipeline
-</li>
-<li>
-Postura profissional e foco em relacionamento</li><li>Disponibilidade para trabalhar das <b>07:45 as 17:33 hrs </b></li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscoobjetobrasil/68/consultor-de-vendas-b2b]]></applyUrl>
     <companyId><![CDATA[9252532]]></companyId>
     <city><![CDATA[Pomerode]]></city>
     <state><![CDATA[SC]]></state>
@@ -36729,6 +36552,90 @@ equipe.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>M
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[83959d28-a061-4642-9688-c4c457a9a39c]]></partnerJobId>
+    <company><![CDATA[Forship]]></company>
+    <title><![CDATA[INSPETOR DE SOLDA ESCALADOR N1 - OFFSHORE - CEARÁ]]></title>
+    <posterEmail><![CDATA[amanda.figueiredo@forship.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Venha fazer parte da nossa equipe!</b> Estamos em busca de <b>Inspetor de Solda Escalador N1</b> para integrar nosso time em grande projeto do setor de O&amp;G. Essa é a sua oportunidade de atuar em serviços de descomissionamento nas plataformas fixas da Petrobras, localizadas em <b>Guamaré – RN</b> e <b>Paracuru – CE</b>, contribuindo para operações estratégicas e desafiadoras. Se você gosta de desafios e quer fazer parte de um projeto de grande porte, essa vaga é para você. Venha construir o futuro com a gente!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li><ul>Efetuar <strong>ensaio de líquidos penetrantes (LP)</strong>.
+<li>Realizar <strong>medição de espessura (ME)</strong>.</li>
+<li>Inspecionar, avaliar e emitir relatório de <strong>consumíveis, soldas prontas e suas dimensões</strong>.</li>
+<li>Verificar se os <strong>ensaios não destrutivos</strong> foram executados por profissional qualificado.</li>
+<li>Determinar a <strong>dureza</strong> por meio de medidores portáteis.</li>
+<li>Verificar a <strong>qualificação e certificado dos soldadores</strong>.</li>
+<li>Conferir se o <strong>armazenamento, secagem, ressecagem e manuseio dos consumíveis</strong> estão corretos.</li>
+<li>Apoiar o <strong>planejamento das atividades operacionais</strong>.</li>
+</ul></li><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Formação:</strong><br /><ul><li>Certificado de ensino médio emitido por instituição reconhecida pelo MEC.</li></ul><strong>Experiência:</strong><br /><ul><li>Experiência em inspeção de soldagem na área de petróleo e gás </li></ul><strong>Certificações obrigatórias:</strong><br /><ul><li>Qualificação conforme <strong>ABNT NBR 14842</strong> – Soldagem (inspetores para petróleo e gás, petroquímico, fertilizantes, naval e termogeração, exceto nuclear).</li><li>Certificação para realização de <strong>ensaios não destrutivos (LP)</strong></li><li>Certificação em <strong>acesso por cordas</strong> (IRATA, ABENDI ou ANEAC) </li></ul><br /><ul><li>CBSP</li><li>T-HUET (OPITO)</li><li>NR-13 (40h)</li></ul><br /><br /><ul><li>NR-33 (16h)</li></ul><ul><li>NR-35</li><li>NR-37 (Básico)</li><li>NR-37 (Avançado)</li></ul><br /><strong><br /></strong><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/forshipvagas/177/inspetor-de-solda-escalador-n1-offshore-ceara]]></applyUrl>
+    <companyId><![CDATA[312237]]></companyId>
+    <city><![CDATA[Paracuru]]></city>
+    <state><![CDATA[CE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e46cbce6-ad9d-4871-afa2-db2d6b7babc6]]></partnerJobId>
+    <company><![CDATA[Forship]]></company>
+    <title><![CDATA[ENFERMEIRO DO TRABALHO - OFFSHORE - CEARÁ]]></title>
+    <posterEmail><![CDATA[amanda.figueiredo@forship.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Venha fazer parte da nossa equipe!</b> Estamos em busca de <b>Enfermeiro do Trabalho</b> para integrar nosso time em grande projeto do setor de O&amp;G. Essa é a sua oportunidade de atuar em serviços de descomissionamento nas plataformas fixas da Petrobras, localizadas em <b>Guamaré – RN</b> e <b>Paracuru – CE</b>, contribuindo para operações estratégicas e desafiadoras. Se você gosta de desafios e quer fazer parte de um projeto de grande porte, essa vaga é para você. Venha construir o futuro com a gente!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Cuidar da <strong>saúde global dos trabalhadores</strong> por meio de avaliações e programas de saúde.</li></ul><ul><li>Desenvolver ações de <strong>prevenção de doenças e patologias gerais e relacionadas ao trabalho</strong>.</li><li>Participar de <strong>auditorias</strong> relacionadas à saúde ocupacional.</li><li>Realizar o <strong>controle e disponibilização de documentos de saúde</strong>.</li><li>Interagir com a <strong>equipe de regulação médica do cliente</strong> e com a <strong>médica do trabalho</strong>.</li><li>Apoiar o <strong>planejamento das atividades operacionais</strong> ligadas à saúde e segurança.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Formação:</strong><ul><li><strong>Curso Superior em Enfermagem</strong> com diploma registrado e reconhecido pelo MEC.</li><li>Situação regularizada no <strong>Conselho Regional de Enfermagem (COREN)</strong> da respectiva localidade de atuação.</li></ul><strong>Experiência:</strong><br /><ul><li>Atendimento pré-hospitalar móvel;</li><li>Atendimento em setor de urgência e emergência de hospitais de média ou alta complexidade;</li><li>Unidade de Terapia Intensiva (UTI).</li></ul><strong>Certificações obrigatórias:</strong><br /><ul><li>CBSP</li><li>T-HUET (OPITO)</li><li>NR-32 (Biossegurança)</li><li>NR-37 (Básico)</li><li>NR-37 (Avançado)</li><li>ACLS – Suporte Avançado de Vida em Cardiologia (16h)</li><li>PHTLS – Suporte Avançado de Vida em Trauma (20h)</li><li>Curso Nacional de Normatização de Atendimento ao Queimado</li><li>Curso na Área de Vigilância Sanitária (40h)</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/forshipvagas/181/enfermeiro-do-trabalho-offshore-ceara]]></applyUrl>
+    <companyId><![CDATA[312237]]></companyId>
+    <city><![CDATA[Paracuru]]></city>
+    <state><![CDATA[CE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[167fcbc0-0521-4d7d-b0f7-ac86c56af81d]]></partnerJobId>
+    <company><![CDATA[Forship]]></company>
+    <title><![CDATA[ELETRICISTA ESCALADOR N1 - OFFSHORE - CEARÁ]]></title>
+    <posterEmail><![CDATA[amanda.figueiredo@forship.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <b>Eletricista Escalador N1</b> para integrar nosso time em grande projeto do setor de O&amp;G. Essa é a sua oportunidade de atuar em serviços de descomissionamento nas plataformas fixas da Petrobras, localizadas em <b>Guamaré – RN</b> e <b>Paracuru – CE</b>, contribuindo para operações estratégicas e desafiadoras. Se você gosta de desafios e quer fazer parte de um projeto de grande porte, essa vaga é para você. Venha construir o futuro com a gente!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>Executar <strong>manutenção preventiva e corretiva</strong> em sistemas elétricos e equipamentos de plataformas e guindastes marítimos.<li>Realizar <strong>remoção do processo, limpeza e inspeção</strong> de componentes elétricos.</li><li>Efetuar <strong>desmontagem, recuperação e montagem</strong> de componentes elétricos.</li><li>Executar <strong>aferição, calibração, instalação e colocação em operação</strong> de sistemas elétricos.</li><li>Realizar <strong>sintonização e ajustes</strong> em equipamentos e instalações elétricas.</li><li>Executar manutenção da <strong>parte elétrica de equipamentos e instalações</strong>.</li><li>Apoiar o <strong>planejamento das atividades operacionais</strong> relacionadas à manutenção elétrica.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação:</b>Ensino Médio completo com Curso Profissionalizante em Elétrica fornecido por entidade reconhecida pelo MEC<br /><strong>Experiência:</strong><ul><li>Experiência na área de manutenção elétrica.</li></ul><b>Vivência em:</b><br /><ul><li>Motores elétricos.</li><li>Operação e sincronismo de <strong>moto-geradores</strong>.</li></ul><ul><li><strong>Transformadores</strong> e <strong>subestações de alta tensão</strong> (até 34,5 kV).</li><li><strong>Painéis</strong> e demais componentes elétricos.</li><li><strong>Instrumentos de medição</strong>: multiteste, alicate amperímetro, megômetro, reflectômetro no domínio do tempo (TDR), micro-ohmímetro, etc.</li><li><strong>Instalações elétricas automotivas</strong> e de máquinas girantes (guindastes, etc.).</li><li><strong>Montagem de muflas de alta tensão</strong>.</li><li><strong>Projetos elétricos</strong> e <strong>proteções elétricas</strong> (incluindo calibração e testes com mala de injeção de corrente e/ou tensão).</li><li><strong>Disjuntores eletromecânicos e microprocessados</strong>.</li><li>Uso de <strong>analisador/teste de bancos de baterias</strong>.</li><li><strong>Termovisão</strong> para inspeção elétrica.</li></ul><strong>Certificações obrigatórias:</strong><br /><ul><li>Certificação em Acesso por Cordas (IRATA, ABENDI ou ANEAC</li><li>CBSP</li><li> T-HUET (OPITO)</li><li>NR-10 (Básico)</li><li>NR-10 (SEP)</li><li>NR-10 (ATEX)</li><li> NR-12</li><li>NR-35</li><li>NR-37 (Básico)</li><li>NR-37 (Avançado)</li><li>NR-37 (Complementar para Serviços em Instalações Elétricas AT)</li><li>CESS</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/forshipvagas/183/eletricista-escalador-n1-offshore-ceara]]></applyUrl>
+    <companyId><![CDATA[312237]]></companyId>
+    <city><![CDATA[Paracuru]]></city>
+    <state><![CDATA[CE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e9ff82e4-bc5b-4fca-b2e3-64b4cb10f723]]></partnerJobId>
+    <company><![CDATA[Forship]]></company>
+    <title><![CDATA[OPERADOR DE GUINDASTE TRAINEE - OFFSHORE - CEARÁ]]></title>
+    <posterEmail><![CDATA[aryane.pacheco@forship.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Venha fazer parte da nossa equipe!</b>  Estamos em busca de <b>Operador de Guindaste Trainee </b>para integrar nosso time em grande projeto do setor de O&amp;G. Essa é a sua oportunidade de atuar em serviços de descomissionamento nas plataformas fixas da Petrobras, localizadas em <b>Guamaré – RN</b> e <b>Paracuru – CE</b>, contribuindo para operações estratégicas e desafiadoras. Se você gosta de desafios e quer fazer parte de um projeto de grande porte, essa vaga é para você. Venha construir o futuro com a gente!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar a movimentação de cargas entre plataformas e embarcações, e vice-versa.</li><li>Utilizar guindastes fixos sobre pedestais, de forma planejada e controlada.</li><li>Seguir rigorosamente os requisitos estabelecidos em documentos técnicos, padrões e procedimentos internos.</li><li>Apoiar o planejamento das atividades operacionais, contribuindo para a organização e execução das operações.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação:</b><ul><li>Ensino Fundamental completo com diploma emitido por instituição de ensino reconhecida pelo MEC.</li><li>Curso de Formação Específico para Operação de Guindastes nível 1, oferecido por escolas técnicas ou centros de treinamento profissional em movimentação de cargas.</li></ul><b>Experiência:</b> Experiência na atividade de operação de guindaste. <b>Certificações / Treinamentos Obrigatórios:</b><br /><ul><li>CBSP</li><li>T-HUET (OPITO)</li><li>NR-12</li><li>NR-35</li><li>NR-37 (Básico)</li><li> NR-37 (Avançado)</li><li>NR 37 (Mov. Cargas/Transp. Pessoas)</li><li>NR 37 - (Complementar para Operador de Guindastes) </li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/forshipvagas/184/operador-de-guindaste-trainee-offshore-ceara]]></applyUrl>
+    <companyId><![CDATA[312237]]></companyId>
+    <city><![CDATA[Paracuru]]></city>
+    <state><![CDATA[CE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[442e0c55-4f60-4083-be59-d7f68fbe8ab7]]></partnerJobId>
     <company><![CDATA[Forship]]></company>
     <title><![CDATA[TÉCNICO DE ELÉTRICA - OFFSHORE - CEARÁ]]></title>
@@ -37127,6 +37034,144 @@ Básico e avançado</li></ul>]]></description>
     <companyId><![CDATA[312237]]></companyId>
     <city><![CDATA[Macaé]]></city>
     <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[45e52bd7-3e18-41b6-b806-9c65823454b8]]></partnerJobId>
+    <company><![CDATA[Forship]]></company>
+    <title><![CDATA[ELETRICISTA ESCALADOR N1 - OFFSHORE - RIO GRANDE DO NORTE]]></title>
+    <posterEmail><![CDATA[amanda.figueiredo@forship.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <b>Eletricista Escalador N1</b> para integrar nosso time em grande projeto do setor de O&amp;G. Essa é a sua oportunidade de atuar em serviços de descomissionamento nas plataformas fixas da Petrobras, localizadas em <b>Guamaré – RN</b> e <b>Paracuru – CE</b>, contribuindo para operações estratégicas e desafiadoras. Se você gosta de desafios e quer fazer parte de um projeto de grande porte, essa vaga é para você. Venha construir o futuro com a gente!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li><ul>Executar <strong>manutenção preventiva e corretiva</strong> em sistemas elétricos e equipamentos de plataformas e guindastes marítimos.
+<li>Realizar <strong>remoção do processo, limpeza e inspeção</strong> de componentes elétricos.</li>
+<li>Efetuar <strong>desmontagem, recuperação e montagem</strong> de componentes elétricos.</li>
+<li>Executar <strong>aferição, calibração, instalação e colocação em operação</strong> de sistemas elétricos.</li>
+<li>Realizar <strong>sintonização e ajustes</strong> em equipamentos e instalações elétricas.</li>
+<li>Executar manutenção da <strong>parte elétrica de equipamentos e instalações</strong>.</li>
+<li>Apoiar o <strong>planejamento das atividades operacionais</strong> relacionadas à manutenção elétrica.</li>
+</ul></li><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação:</b>Ensino Médio
+completo com Curso Profissionalizante em Elétrica fornecido por entidade
+reconhecida pelo MEC<br /><strong>Experiência:</strong><ul><li>Experiência na área de manutenção elétrica.</li></ul><b>Vivência em:</b><br /><ul><li>Motores elétricos.</li><li>Operação e sincronismo de <strong>moto-geradores</strong>.</li></ul><ul><li><strong>Transformadores</strong> e <strong>subestações de alta tensão</strong> (até 34,5 kV).</li><li><strong>Painéis</strong> e demais componentes elétricos.</li><li><strong>Instrumentos de medição</strong>: multiteste, alicate amperímetro, megômetro, reflectômetro no domínio do tempo (TDR), micro-ohmímetro, etc.</li><li><strong>Instalações elétricas automotivas</strong> e de máquinas girantes (guindastes, etc.).</li><li><strong>Montagem de muflas de alta tensão</strong>.</li><li><strong>Projetos elétricos</strong> e <strong>proteções elétricas</strong> (incluindo calibração e testes com mala de injeção de corrente e/ou tensão).</li><li><strong>Disjuntores eletromecânicos e microprocessados</strong>.</li><li>Uso de <strong>analisador/teste de bancos de baterias</strong>.</li><li><strong>Termovisão</strong> para inspeção elétrica.</li></ul><strong>Certificações obrigatórias:</strong><br /><ul><li>Certificação
+em Acesso por Cordas (IRATA, ABENDI ou ANEAC</li><li>CBSP</li><li> T-HUET (OPITO)</li><li>NR-10
+(Básico)</li><li>NR-10 (SEP)</li><li>NR-10 (ATEX)</li><li> NR-12</li><li>NR-35</li><li>NR-37
+(Básico)</li><li>NR-37
+(Avançado)</li><li>NR-37
+(Complementar para Serviços em Instalações Elétricas AT)</li><li>CESS</li></ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/forshipvagas/182/eletricista-escalador-n1-offshore-rio-grande-do-norte]]></applyUrl>
+    <companyId><![CDATA[312237]]></companyId>
+    <city><![CDATA[Guamaré]]></city>
+    <state><![CDATA[RN]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[8ca8a52b-46cb-426f-83a3-768db1858467]]></partnerJobId>
+    <company><![CDATA[Forship]]></company>
+    <title><![CDATA[ENFERMEIRO DO TRABALHO - OFFSHORE - RIO GRANDE DO NORTE]]></title>
+    <posterEmail><![CDATA[amanda.figueiredo@forship.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Venha fazer parte da nossa equipe!</b> Estamos em busca de <b>Enfermeiro do Trabalho</b> para integrar nosso time em grande projeto do setor de O&amp;G. Essa é a sua oportunidade de atuar em serviços de descomissionamento nas plataformas fixas da Petrobras, localizadas em <b>Guamaré – RN</b> e <b>Paracuru – CE</b>, contribuindo para operações estratégicas e desafiadoras. Se você gosta de desafios e quer fazer parte de um projeto de grande porte, essa vaga é para você. Venha construir o futuro com a gente!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Cuidar da <strong>saúde global dos trabalhadores</strong> por meio de avaliações e programas de saúde.</li></ul><ul><li>Desenvolver ações de <strong>prevenção de doenças e patologias gerais e relacionadas ao trabalho</strong>.</li><li>Participar de <strong>auditorias</strong> relacionadas à saúde ocupacional.</li><li>Realizar o <strong>controle e disponibilização de documentos de saúde</strong>.</li><li>Interagir com a <strong>equipe de regulação médica do cliente</strong> e com a <strong>médica do trabalho</strong>.</li><li>Apoiar o <strong>planejamento das atividades operacionais</strong> ligadas à saúde e segurança.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Formação:</strong><ul><li><strong>Curso Superior em Enfermagem</strong> com diploma registrado e reconhecido pelo MEC.</li><li>Situação regularizada no <strong>Conselho Regional de Enfermagem (COREN)</strong> da respectiva localidade de atuação.</li></ul><strong>Experiência:</strong><br /><ul><li>Atendimento pré-hospitalar móvel;</li><li>Atendimento em setor de urgência e emergência de hospitais de média ou alta complexidade;</li><li>Unidade de Terapia Intensiva (UTI).</li></ul><strong>Certificações obrigatórias:</strong><br /><ul><li>CBSP</li><li>T-HUET (OPITO)</li><li>NR-32 (Biossegurança)</li><li>NR-37 (Básico)</li><li>NR-37 (Avançado)</li><li>ACLS – Suporte Avançado de Vida em Cardiologia (16h)</li><li>PHTLS – Suporte Avançado de Vida em Trauma (20h)</li><li>Curso Nacional de Normatização de Atendimento ao Queimado</li><li>Curso na Área de Vigilância Sanitária (40h)</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/forshipvagas/180/enfermeiro-do-trabalho-offshore-rio-grande-do-norte]]></applyUrl>
+    <companyId><![CDATA[312237]]></companyId>
+    <city><![CDATA[Guamaré]]></city>
+    <state><![CDATA[RN]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[704c02f0-dd25-4999-9001-9db559354e1a]]></partnerJobId>
+    <company><![CDATA[Forship]]></company>
+    <title><![CDATA[COORDENADOR DE OPERAÇÃO - RIO GRANDE DO NORTE]]></title>
+    <posterEmail><![CDATA[marcelle.rosas@forship.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Venha fazer parte da nossa equipe!</b> Estamos em busca de <b>Coordenador de Operação</b> para integrar nosso time em grande projeto do setor de O&amp;G. Essa é a sua oportunidade de atuar na Coordenação da Operação de serviços de descomissionamento nas plataformas fixas da Petrobras, localizadas em <b>Guamaré – RN</b> e <b>Paracuru – CE</b>, contribuindo para operações estratégicas e desafiadoras. Se você gosta de desafios e quer fazer parte de um projeto de grande porte, essa vaga é para você. Venha construir o futuro com a gente!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Coordenação de equipes multidisciplinares de operação, limpeza industrial e apoio offshore, assegurando integração e eficiência entre áreas.</li></ul><br />• 	Planejamento, organização e controle de atividades, contratos e recursos, garantindo execução de obras dentro dos padrões de custo, qualidade, segurança e prazo estabelecidos.<br />• 	Gestão de equipes de trabalho, promovendo desenvolvimento, engajamento e cumprimento de metas operacionais.<br />• 	Supervisão da execução de projetos e serviços, assegurando aderência às normas técnicas e regulatórias.<br />• 	Otimização de processos e recursos, com foco em produtividade, redução de riscos e melhoria contínua.<br />• 	Atuação estratégica na gestão de contratos, assegurando conformidade legal e eficiência financeira.<br />• 	Compromisso com segurança e qualidade, implementando práticas que fortalecem a cultura organizacional e garantem resultados sustentáveis.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação:</b><br />Diploma em Engenharia de Petróleo ou qualquer Engenharia com Pós Graduação em Engenharia de Petróleo.<br /><br /><br /><b>Experiência:</b><br />Na área de petróleo e gás, comprovada em carteira de trabalho ou declarações de experiências das empresas empregadoras anteriores. <br /><br /><br /><strong>Certificações obrigatórias:</strong><br />CBSP + T-HUET (OPITO) + NR-37 (Básico).<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/forshipvagas/153/coordenador-de-operacao-rio-grande-do-norte]]></applyUrl>
+    <companyId><![CDATA[312237]]></companyId>
+    <city><![CDATA[Guamaré]]></city>
+    <state><![CDATA[RN]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3c349eaa-003b-43be-b5eb-6e5f95519ae5]]></partnerJobId>
+    <company><![CDATA[Forship]]></company>
+    <title><![CDATA[COORDENADOR DE MECÂNICA - RIO GRANDE DO NORTE]]></title>
+    <posterEmail><![CDATA[marcelle.rosas@forship.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Venha fazer parte da nossa equipe!</b> Estamos em busca de <b>Coordenador de Mecânica</b> para integrar nosso time em grande projeto do setor de O&amp;G. Essa é a sua oportunidade de atuar na Coordenação de Mecânica de serviços de descomissionamento nas plataformas fixas da Petrobras, localizadas em <b>Guamaré – RN</b> e <b>Paracuru – CE</b>, contribuindo para operações estratégicas e desafiadoras. Se você gosta de desafios e quer fazer parte de um projeto de grande porte, essa vaga é para você. Venha construir o futuro com a gente!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li><ul><strong>Coordenação de equipes</strong> de movimentação de cargas, manutenção de guindastes e planejamento, assegurando integração e eficiência operacional.
+<li><strong>Acompanhamento da execução de serviços de manutenção</strong>, garantindo qualidade, segurança e cumprimento dos prazos estabelecidos.</li>
+<li><strong>Elaboração, revisão e atualização</strong> de planos de manutenção preventiva e corretiva, além de rotinas de verificação operacional.</li>
+<li><strong>Participação em análises de riscos</strong>, propondo medidas mitigadoras e fortalecendo a cultura de segurança.</li>
+<li><strong>Atendimento a auditorias de órgãos regulamentadores</strong>, com atuação direta no tratamento de pendências, especialmente relacionadas à <strong>NR-10</strong>.</li>
+<li><strong>Análise crítica de procedimentos, planos e ordens de manutenção</strong>, promovendo melhorias contínuas e conformidade técnica.</li>
+<li><strong>Gestão da documentação técnica das instalações</strong>, assegurando rastreabilidade, padronização e atualização constante.</li>
+</ul></li><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação:</b><br />Diploma em Engenharia Mecânica. <br /><br /><br /><b>Experiência: </b><br />Em manutenção de equipamentos mecânicos offshore (guindastes HR, Liebherr, Pelegrini e American e CEC), <br /><br /><br /><strong>Certificações obrigatórias:</strong><br />CBSP + T-HUET (OPITO) + NR-13 (40h) + NR-37 (Básico).<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/forshipvagas/154/coordenador-de-mecanica-rio-grande-do-norte]]></applyUrl>
+    <companyId><![CDATA[312237]]></companyId>
+    <city><![CDATA[Guamaré]]></city>
+    <state><![CDATA[RN]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[72466417-b59c-432b-ae41-8919d852c46c]]></partnerJobId>
+    <company><![CDATA[Forship]]></company>
+    <title><![CDATA[COORDENADOR DE SMS - ONSHORE - NATAL - RIO GRANDE DO NORTE]]></title>
+    <posterEmail><![CDATA[aryane.pacheco@forship.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Venha fazer parte da nossa equipe!</b> Estamos em busca de <b>Coordenador de SMS</b> para integrar nosso time em grande projeto do setor de O&amp;G. Essa é a sua oportunidade de atuar no Planejamento de serviços de descomissionamento nas plataformas fixas da Petrobras, localizadas em <b>Guamaré – RN</b> e <b>Paracuru – CE</b>, contribuindo para operações estratégicas e desafiadoras. Se você gosta de desafios e quer fazer parte de um projeto de grande porte, essa vaga é para você. Venha construir o futuro com a gente!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Coordenar as equipes de SMS (Segurança, Meio Ambiente e Saúde), salvatagem, enfermagem e meio ambiente, garantindo integração, alinhamento operacional e cumprimento das normas aplicáveis.</li><li>Planejar, acompanhar e supervisionar as atividades das equipes sob sua responsabilidade.</li><li>Organizar e estruturar administrativamente o setor de SMS, assegurando o correto fluxo de documentos, registros e controles.</li><li>Garantir o atendimento aos requisitos do <strong>Programa PADSC</strong>, bem como às exigências de auditorias internas e externas.</li><li>Acompanhar inspeções, auditorias e ações corretivas, assegurando a conformidade legal e organizacional.</li><li>Promover a melhoria contínua dos processos de SMS e o cumprimento das políticas internas da empresa.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Formação:</strong><ul><li>Superior em Engenharia, com Pós-Graduação em Engenharia de Segurança do Trabalho, emitido por instituição reconhecida pelo MEC.</li></ul><strong>Experiência:</strong><ul><li>Experiência na área de SMS (Segurança, Meio Ambiente e Saúde), comprovada em Carteira de Trabalho.</li></ul><strong>Certificações / Treinamentos Obrigatórios:</strong><ul><li>CBSP</li><li>T-HUET (OPITO)</li><li>NR-37 – Básica</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/forshipvagas/185/coordenador-de-sms-onshore-natal-rio-grande-do-norte]]></applyUrl>
+    <companyId><![CDATA[312237]]></companyId>
+    <city><![CDATA[Guamaré]]></city>
+    <state><![CDATA[RN]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -43177,6 +43222,43 @@ informática básica</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[2be4fe46-0b5d-49fa-a2d8-cb5cd869d503]]></partnerJobId>
+    <company><![CDATA[Cardeal Distribuidora]]></company>
+    <title><![CDATA[VENDEDOR - CARUARU]]></title>
+    <posterEmail><![CDATA[rodrigo.queiroz@cardealdistribuidora.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Garantir por meio da execução de rotina básica do PDV, o
+cumprimento das metas de vendas de acordo com métricas de sell-out e cobertura;
+Prospectar novos clientes; e apoiar o financeiro no controle da inadimplência.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />1- Planejar as atividades que serão desempenhadas no dia.
+
+2- Verificar no PDV o estoque disponível e a correta
+exposição dos produtos
+
+3- Identificar oportunidades de negócios (ponto extra,
+ampliação de participação e mix ).
+
+4- Tomar a iniciativa de venda.
+
+5- Prospectar novos clientes.
+
+6- Apoiar o financeiro no controle da inadimplência.
+
+7- Participar de reuniões<br /><br /><b>Requisitos e qualificações</b><br /><br />* Ensino médio completo *  Experiência prévia com atendimento
+ao cliente e reposição de mercadoria <br />* Residir na região <br />* Disponibilidade para viagens <br />* CNH<br />* Transporte Próprio<br />* Conhecimento em
+informática básica<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/399/vendedor-caruaru]]></applyUrl>
+    <companyId><![CDATA[11322443]]></companyId>
+    <city><![CDATA[Caruaru]]></city>
+    <state><![CDATA[PE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[ad4b0081-1755-4029-b508-0cd6a71d945e]]></partnerJobId>
     <company><![CDATA[Cardeal Distribuidora]]></company>
     <title><![CDATA[TECNICO DE SEGURANÇA DO TRABALHO- CARUARU]]></title>
@@ -43557,6 +43639,51 @@ informática básica</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/303/promotor-de-vendas-palmares]]></applyUrl>
     <companyId><![CDATA[11322443]]></companyId>
     <city><![CDATA[Palmares]]></city>
+    <state><![CDATA[PE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f70e449f-5c35-46bb-8803-c78edcd0519e]]></partnerJobId>
+    <company><![CDATA[Cardeal Distribuidora]]></company>
+    <title><![CDATA[PROMOTOR DE VENDAS- PETROLINA]]></title>
+    <posterEmail><![CDATA[rodrigo.queiroz@cardealdistribuidora.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é comunicativo(a), proativo(a) e está em busca de
+crescimento profissional, essa é a sua chance de se unir a uma equipe inovadora
+e em constante evolução.   Aguardamos sua candidatura!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
+ <li>Realizar
+     abordagem a clientes em potencial para promover produtos e serviços.</li>
+ <li>Apresentar
+     e demonstrar produtos de maneira atraente e informativa.</li>
+ <li>Participar
+     de eventos para divulgação da marca e produtos.</li>
+ <li>Colaborar
+     com a equipe de vendas para atingir metas estabelecidas.</li>
+ <li>Levantar
+     as necessidades de abastecimento;</li>
+ <li>Realizar
+     o rodizio do estoque;</li>
+ <li>Fazer
+     o abastecimento das gôndolas.</li>
+ <li>Garantir
+     a correta exposição dos produtos.</li>
+ <li>Garantir
+     que todos os itens expostos no PDV estejam precificados corretamente;</li>
+ <li>Fazer
+     a manutenção dos materiais de merchandising.</li>
+</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo</li><li>Experiência prévia com atendimento
+ao cliente e reposição de mercadoria Residir na região </li><li>Disponibilidade para
+trabalhar de segunda a sábado</li><li>Disponibilidade para viagens </li><li>Conhecimento em
+informática básica</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/400/promotor-de-vendas-petrolina]]></applyUrl>
+    <companyId><![CDATA[11322443]]></companyId>
+    <city><![CDATA[Petrolina]]></city>
     <state><![CDATA[PE]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -48888,25 +49015,6 @@ empresa.<br />• Educação (Escolaridade/Qualificação): Pós-graduação/MB
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6ac39d64-814e-4e11-b1e0-e642bd1f8d45]]></partnerJobId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[OPERADOR DE MOVIMENTAÇÃO DE CARGA]]></title>
-    <posterEmail><![CDATA[alessandra.cea@triunfologistica.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar na funções de movimentações de cargas através de equipamentos, içamento e guindastes. O profissional realizará processo de movimentação da carga será feito. Sob as determinações inseridas no plano de rigging, verificar as condições da carga, o melhor modo para que ela seja amarrada e presta o auxílio ao operador de guindaste dando as sinalizações necessárias.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar na funções de movimentações de cargas através de equipamentos, içamento e guindastes. O profissional realizará processo de movimentação da carga será feito. Sob as determinações inseridas no plano de rigging, verificar as condições da carga, o melhor modo para que ela seja amarrada e presta o auxílio ao operador de guindaste dando as sinalizações necessárias.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/230/operador-de-movimentacao-de-carga]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[ca68cfa0-6077-4869-9412-1beaebdfe2a0]]></partnerJobId>
     <company><![CDATA[TRIUNFO LOGISTICA]]></company>
     <title><![CDATA[Operador de Barco]]></title>
@@ -51809,10 +51917,10 @@ Experiência prévia em estágio ou projetos de comunicação será considerada 
   <job>
     <partnerJobId><![CDATA[442a512e-db64-4f08-be73-9ac95c0627b1]]></partnerJobId>
     <company><![CDATA[GS Inima Brasil]]></company>
-    <title><![CDATA[Auxiliar de Manutenção Predial]]></title>
+    <title><![CDATA[Auxiliar de Manutenção Predial (Jardinagem e Serviços Gerais)]]></title>
     <posterEmail><![CDATA[ricardo.jovenato@gsinima.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />❇️ Responsável por apoiar na montagem de pequenos equipamentos, auxiliar na troca de peças, controlar estoque e preparar materiais, realizar serviços gerais de limpeza e manutenção básica, cuidar da implantação e conservação de jardins e áreas verdes, além de executar reparos simples em carpintaria e alvenaria, sempre seguindo normas de segurança e utilizando EPIs.<br /><br />⏱️ <b>Horário:</b> <br />• De segunda a sexta-feira, das 07h00 às 16h30, com 1h30 de intervalo / refeição;<br />• Aos sábados, das 07h00 às 11h00.<br /><br /><br />️ <b>Vale Alimentação / Refeição</b> – apoio para suas refeições diárias;<br /> <b>Cesta de Natal </b>– um carinho especial no fim do ano;<br /> <b>Plano de Saúde</b> – cuidado completo para você;<br /> <b>Plano Odontológico</b> – saúde bucal sempre em dia;<br />️ <b>Seguro de Vida sem custo</b> – proteção para você e sua família;<br /> <b>Vale Transporte</b> – facilidade no deslocamento diário;<br /> <b>Auxílio Medicamento</b> – suporte financeiro para tratamentos e prescrições;<br />️ <b>Wellhub</b> – acesso a academias e atividades físicas;<br /> <b>Pluxee Cuida</b> – apoio psicológico, social, nutricional e consultorias jurídica e financeira;<br /> <b>Previdência Privada</b> – com 100% de contribuição no aporte da empresa;<br /><b> Participação nos Lucros e Resultados (PLR)</b> – reconhecimento pelo seu desempenho.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /> Realizar manutenção preventiva e corretiva em sistemas mecânicos, hidráulicos, elétricos e civis, incluindo pequenos reparos;<br /> Executar serviços de pintura e manutenção em peças metálicas, equipamentos e áreas prediais;<br /> Montar pequenos equipamentos e auxiliar na troca e ajuste de peças e componentes de máquinas;<br /> Controlar o estoque, verificar validade e qualidade de produtos químicos e de limpeza, e preparar materiais para uso;<br /> Efetuar limpeza básica e manutenção de equipamentos e executar serviços gerais de limpeza em áreas internas e externas;<br /> Implantar, criar e manter jardins e áreas verdes, incluindo o uso de defensivos agrícolas;<br /> Realizar manutenção em carpintaria e alvenaria, incluindo reparo de trincas, substituição e ajuste de portas e janelas;<br /> Seguir procedimentos de segurança no trabalho, usar EPIs e operar equipamentos necessários para as atividades.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /> <b>Formação:</b> Ensino Fundamental Completo;<br />Carteira de habilitação, categoria "B", vigente.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/404/auxiliar-de-manutencao-predial]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />❇️ Responsável por apoiar na montagem de pequenos equipamentos, auxiliar na troca de peças, controlar estoque e preparar materiais, realizar serviços gerais de limpeza e manutenção básica, cuidar da implantação e conservação de jardins e áreas verdes, além de executar reparos simples em carpintaria e alvenaria, sempre seguindo normas de segurança e utilizando EPIs.<br /><br />⏱️ <b>Horário:</b> <br />• De segunda a sexta-feira, das 07h00 às 16h30, com 1h30 de intervalo / refeição;<br />• Aos sábados, das 07h00 às 11h00.<br /><br /><br />️ <b>Vale Alimentação / Refeição</b> – apoio para suas refeições diárias;<br /> <b>Cesta de Natal </b>– um carinho especial no fim do ano;<br /> <b>Plano de Saúde</b> – cuidado completo para você;<br /> <b>Plano Odontológico</b> – saúde bucal sempre em dia;<br />️ <b>Seguro de Vida sem custo</b> – proteção para você e sua família;<br /> <b>Vale Transporte</b> – facilidade no deslocamento diário;<br /> <b>Auxílio Medicamento</b> – suporte financeiro para tratamentos e prescrições;<br />️ <b>Wellhub</b> – acesso a academias e atividades físicas;<br /> <b>Pluxee Cuida</b> – apoio psicológico, social, nutricional e consultorias jurídica e financeira;<br /> <b>Previdência Privada</b> – com 100% de contribuição no aporte da empresa;<br /><b> Participação nos Lucros e Resultados (PLR)</b> – reconhecimento pelo seu desempenho.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /> Realizar manutenção preventiva e corretiva em sistemas mecânicos, hidráulicos, elétricos e civis, incluindo pequenos reparos;<br /> Executar serviços de pintura e manutenção em peças metálicas, equipamentos e áreas prediais;<br /> Montar pequenos equipamentos e auxiliar na troca e ajuste de peças e componentes de máquinas;<br /> Controlar o estoque, verificar validade e qualidade de produtos químicos e de limpeza, e preparar materiais para uso;<br /> Efetuar limpeza básica e manutenção de equipamentos e executar serviços gerais de limpeza em áreas internas e externas;<br /> Implantar, criar e manter jardins e áreas verdes, incluindo o uso de defensivos agrícolas;<br /> Realizar manutenção em carpintaria e alvenaria, incluindo reparo de trincas, substituição e ajuste de portas e janelas;<br /> Seguir procedimentos de segurança no trabalho, usar EPIs e operar equipamentos necessários para as atividades.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /> <b>Formação:</b> Ensino Fundamental Completo;<br />Carteira de habilitação, categoria "B", vigente.<br /><br />*️⃣ Conhecimento em atividade relacionadas com serviços gerais, limpeza e jardinagem;<br />*️⃣ Habilidade com máquinas roçadeiras / jardinagem em geral.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/404/auxiliar-de-manutencao-predial-jardinagem-e-servicos-gerais]]></applyUrl>
     <companyId><![CDATA[36870042]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
     <state><![CDATA[SP]]></state>
@@ -70587,6 +70695,25 @@ Apoiar a evolução de padrões de experiência e boas práticas de usabilidade 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[7632d276-5dff-42f7-9ba5-521febd39d48]]></partnerJobId>
+    <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
+    <title><![CDATA[Banco de Talentos - Técnico de Segurança do Trabalho]]></title>
+    <posterEmail><![CDATA[thiago.montanholli@foxconn.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Técnico(a) de Segurança do Trabalho para atuar na gestão de EHS (Saúde, Segurança Ocupacional e Meio Ambiente), contribuindo para a prevenção de riscos, conformidade legal e promoção de um ambiente de trabalho seguro e saudável.<br />Suas principais atividades<br /><ul><li>Inspecionar atividades operacionais, áreas e equipamentos, assegurando o cumprimento das normas de Segurança do Trabalho e Meio Ambiente;</li><li>Elaborar pareceres técnicos sobre riscos identificados e propor medidas para eliminação, neutralização ou redução dos mesmos;</li><li>Conduzir treinamentos obrigatórios, palestras e demais ações de conscientização com equipes internas e terceiros;</li><li>Atuar na análise de normas de segurança em novos projetos, ampliações, reformas e arranjos físicos;</li><li>Elaborar demonstrativos, gráficos estatísticos e relatórios técnicos da área;</li><li>Investigar e analisar acidentes, propondo ações corretivas e preventivas;</li><li>Conduzir atividades da CIPA e apoiar rotinas administrativas, incluindo documentação junto a INSS, Ministério do Trabalho e sindicato;</li><li>Realizar auditorias internas e dar suporte em auditorias externas;</li><li>Participar das rotinas e melhorias contínuas dos sistemas de gestão de segurança;</li><li>Acompanhar legislações atualizadas de SST e garantir sua aplicação.</li></ul><br /><br />#VemserFoxconn<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar inspeções de segurança em ambientes de trabalho, identificando potenciais riscos e propondo medidas corretivas.<br /> - Elaborar e implementar procedimentos e normas de segurança no trabalho, visando a prevenção de acidentes.<br /> - Promover treinamentos e palestras sobre segurança do trabalho para equipe e colaboradores.<br /> - Acompanhar e registrar acidentes e incidentes, realizando análises para identificar causas e evitar recorrências.<br /> - Colaborar na elaboração de relatórios e estatísticas relacionadas à segurança do trabalho.<br /> - Realizar auditorias internas e externas para garantir conformidade com normas regulamentadoras.<br /> - Assistir na manutenção de equipamentos de proteção individual (EPIs) e coletivos (EPCs) e garantir seu uso adequado.<br /> - Apoiar a equipe nas ações de prevenção e controle de saúde ocupacional.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação técnica em Segurança do Trabalho ou áreas correlatas.<br /> - Registro no Ministério do Trabalho e Emprego (MTE).<br /> - Conhecimento em normas regulamentadoras (NRs).<br /> - Noções de primeiros socorros.<br /> - Habilidade para trabalhar em equipe.<br /> - Capacidade de comunicação clara e objetiva.<br /> - Disponibilidade para atuar em campo e em diferentes turnos.<br /> - Familiaridade com programas de prevenção de acidentes.<br /> - Conhecimento em PCMSO e PPRA.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasbandeirantes/33/banco-de-talentos-tecnico-de-seguranca-do-trabalho]]></applyUrl>
+    <companyId><![CDATA[83475091]]></companyId>
+    <city><![CDATA[Jundiaí]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[82de096c-0418-471c-8539-171b152ec05d]]></partnerJobId>
     <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
     <title><![CDATA[ANALISTA DE COMÉRCIO EXTERIOR JR]]></title>
@@ -75081,25 +75208,6 @@ Preencher e acompanhar planilhas de controle relacionadas a projetos e ações p
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[03df24d3-c2fa-4b27-b29e-3b5dee210030]]></partnerJobId>
-    <company><![CDATA[300 Franchising]]></company>
-    <title><![CDATA[Diretor(a) de Marketing]]></title>
-    <posterEmail><![CDATA[guisela.briesemeister@300f.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>Na 300, marketing não é suporte.</b><br /><b>É motor direto de receita.</b><br /><br /><br />Estamos buscando um(a)<b> Diretor(a) de Marketing</b> com perfil executivo, orientado(a) a resultado, capaz de liderar uma operação complexa e acelerar o crescimento de um dos maiores ecossistemas de franquias da América Latina.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Liderança de líderes: gerir diretamente Heads de Conteúdo, Criação, Social, Performance, CS e Eventos, elevando o nível de execução e accountability do time</li><li>Gestão por receita: acompanhar e otimizar indicadores como CAC, ROI, conversão de funil e volume de pipeline — sem espaço para métricas de vaidade</li><li>Estratégia integrada: conectar branding, performance e comercial em uma única lógica de crescimento</li><li>Tomada de decisão rápida: priorizar alavancas que geram resultado no curto e médio prazo, com base em dados</li><li>Governança de marketing: estruturar rituais, indicadores e cadência de gestão para sustentar escala</li><li>Atuação executiva: trabalhar em proximidade direta com CEO e COO, influenciando decisões estratégicas do negócio</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência comprovada liderando estruturas de marketing com <b>impacto direto em receita</b></li><li>Vivência na gestão de <b>times complexos e líderes (líderes de líderes)</b></li><li>Forte domínio de <b>growth, performance, funil e métricas de negócio</b></li><li>Experiência em ambientes de alta velocidade, pressão e crescimento acelerado</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/300franchising/32/diretor-a-de-marketing]]></applyUrl>
-    <companyId><![CDATA[64698944]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[dd82335a-91e0-4ae5-9872-172496cf7f97]]></partnerJobId>
     <company><![CDATA[300 Franchising]]></company>
     <title><![CDATA[Gerente de Contas]]></title>
@@ -75163,25 +75271,6 @@ Preencher e acompanhar planilhas de controle relacionadas a projetos e ações p
     <posterEmail><![CDATA[vitor.santos@300f.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Como <strong>Vendedor(a)</strong>, você será fundamental para o fluxo do funil de vendas, que é o coração do nosso negócio.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar prospecção e qualificar leads provenientes do marketing.</li><li>Executar scripts de abordagem de forma natural, adaptando a comunicação para gerar conexão e autoridade.</li><li>Enviar e apresentar conteúdos sobre o modelo de negócio, garantindo que o lead compreenda o valor da marca e o potencial de retorno.</li><li>Gerenciar o funil de vendas com rigor, conduzindo o candidato por todas as etapas.</li><li>Manter o lead seguro e engajado durante todo o processo decisório, sanando dúvidas técnicas e comerciais.</li><li>Manter o CRM atualizado para garantir previsibilidade de vendas e bater metas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prévia em vendas B2B ou atividades de pré-vendas;</li><li>Habilidades excepcionais de comunicação, persuasão e negociação;</li><li>Perfil resiliente, com mentalidade hunter e capacidade de superar objeções;</li><li>Organização e disciplina para gerenciar alto volume de atividades simultâneas;</li><li>Capacidade analítica para entender o mercado e antecipar oportunidade.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/300franchising/28/vendedor-a]]></applyUrl>
-    <companyId><![CDATA[64698944]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[19ed2875-aecb-43c1-bdc2-bdcaed4f9d60]]></partnerJobId>
-    <company><![CDATA[300 Franchising]]></company>
-    <title><![CDATA[Analista Financeiro]]></title>
-    <posterEmail><![CDATA[guisela.briesemeister@300f.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Analista Financeiro</strong> para apoiar as rotinas do setor financeiro, garantindo organização, controle e cumprimento dos processos internos da empresa.<br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Responsabilidades e atribuições<br /><br /><li>Executar atividades de <strong>contas a pagar e contas a receber</strong></li><li>Conferir, lançar e controlar <strong>notas fiscais</strong> no sistema</li><li>Realizar <strong>conciliações bancárias</strong></li><li>Controlar <strong>pagamentos, recebimentos e vencimentos</strong></li><li>Atualizar e acompanhar o <strong>fluxo de caixa diário</strong></li><li>Apoiar na elaboração de <strong>relatórios financeiros básicos</strong></li><li>Organizar informações para o <strong>fechamento financeiro mensal</strong></li><li>Conferir <strong>contratos e condições de pagamento</strong></li><li>Apoiar o <strong>fechamento financeiro mensal</strong></li><li>Enviar informações e documentos para a <strong>contabilidade</strong></li><li>Alimentar e operar <strong>ERP financeiro</strong></li><li>Utilizar <strong>Excel/Google Sheets</strong> para controles financeiros</li><li>Seguir <strong>procedimentos e políticas financeiras</strong> da empresa</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação completa ou em andamento em <strong>Administração, Ciências Contábeis, Economia ou áreas correlatas</strong><strong><br /></strong><br /><br /><br /><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/300franchising/27/analista-financeiro]]></applyUrl>
     <companyId><![CDATA[64698944]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[SC]]></state>
@@ -76923,7 +77012,7 @@ O profissional será responsável por:
     <company><![CDATA[Grupo Orizonti]]></company>
     <title><![CDATA[REQ 10242 ANALISTA DE CONTROLADORIA JUNIOR]]></title>
     <posterEmail><![CDATA[warley.santos@grupooncomed.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por acompanhar o orçamento de despesas administrativas, orçamento de produção e elaboração do resultado gerencial.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Elaboração de relatórios gerenciais e análises financeiras para suporte à tomada de decisões.<br /> - Condução de trabalhos de controle orçamentário, monitorando o cumprimento das metas estabelecidas.<br /> - Apoio na revisão e análise de processos internos, visando a melhoria contínua e a eficiência operacional.<br /> - Assiduidade na realização de conciliações contábeis e financeiras, assegurando a precisão dos dados.<br /> - Colaboração na identificação de oportunidades de redução de custos e otimização de recursos.<br /> - Participação em auditorias internas, fornecendo informações e suporte necessário aos auditores.<br /> - Atualização e manutenção de indicadores de performance, contribuindo para o planejamento estratégico da empresa.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Superior Completo em Administração, Economia , Ciências Contábeis ou áreas afins.<br />Desejável Pós Graduação em andamento em áreas afins.<br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por acompanhar o orçamento de despesas administrativas, orçamento de produção e elaboração do resultado gerencial.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Elaboração de modelagens financeiras;<br />Análises de viabilidade econômica de projetos ;<br />Projeções consolidadas do grupo;<br />Relacionamento com credores e assessores;<br />Acompanhamento e análise das demonstrações financeiras das empresas;Preparar apresentações de resultados e desenvolver análises de mercado;<br />Condução de trabalhos de controle orçamentário, monitorando o cumprimento das metas estabelecidas;<br />Colaboração na identificação de oportunidades de redução de custos e otimização de recursos.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Superior Completo em Administração, Economia , Ciências Contábeis ou áreas afins.<br />Desejável Pós Graduação em andamento em áreas afins.<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupoorizonti/296/req-10242-analista-de-controladoria-junior]]></applyUrl>
     <companyId><![CDATA[102963763]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
@@ -76942,7 +77031,7 @@ O profissional será responsável por:
     <company><![CDATA[Grupo Orizonti]]></company>
     <title><![CDATA[REQ 10241 ASSISTENTE FINANCEIRO]]></title>
     <posterEmail><![CDATA[warley.santos@grupooncomed.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Emitir relatórios de controles apoiando a apuração dos indicadores financeiros.<br /><br /><br />Manter o banco de dados atualizados, repassando as informações de suporte para análise dos indicadores, apoiando diretamente na análise deles.<br /><br /><br />Executar o controle do contas a receber, acompanhando o faturamento e validando os valores a fim de garantir o cumprimento do cronograma de recebimentos.<br /><br /><br />Acompanhar a liquidação de títulos a receber e vencimentos, bem como as projeções de recebimento realizando o acompanhamento do fluxo de caixa, sempre observando a qualidade das informações, a temporalidade das obrigações e com foco na redução de custos.<br /><br /><br />Fazer o recebimento, a conferência e o lançamento (validação e correção) de documentos quanto a legislação fiscal, tributária e procedimentos internos da empresa.<br /><br /><br />Atuar junto aos fornecedores para melhoria dos prazos quando necessário.<br /><br /><br />Responsável pela retenção de impostos (IR, PIS, COFINS, INSS e ISS) atuando na sua identificação, classificação e controle.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Emitir relatórios de controles apoiando a apuração dos indicadores financeiros.<br /><br /><br />Manter o banco de dados atualizados, repassando as informações de suporte para análise dos indicadores, apoiando diretamente na análise deles.<br /><br /><br />Executar o controle do contas a receber, acompanhando o faturamento e validando os valores a fim de garantir o cumprimento do cronograma de recebimentos.<br /><br /><br />Acompanhar a liquidação de títulos a receber e vencimentos, bem como as projeções de recebimento realizando o acompanhamento do fluxo de caixa, sempre observando a qualidade das informações, a temporalidade das obrigações e com foco na redução de custos.<br /><br /><br />Fazer o recebimento, a conferência e o lançamento (validação e correção) de documentos quanto a legislação fiscal, tributária e procedimentos internos da empresa.<br /><br /><br />Atuar junto aos fornecedores para melhoria dos prazos quando necessário.<br /><br /><br />Responsável pela retenção de impostos (IR, PIS, COFINS, INSS e ISS) atuando na sua identificação, classificação e controle.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo<br />Sistema Tasy<br />Sistema Protheus<br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Fazer o recebimento, a conferência e o lançamento (validação e correção) de documentos quanto a legislação fiscal, tributária e procedimentos internos da empresa.<br /><br />Atuar junto aos fornecedores para melhoria dos prazos quando necessário.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Fazer o recebimento, a conferência e o lançamento (validação e correção) de documentos quanto a legislação fiscal, tributária e procedimentos internos da empresa.<br /><br />Atuar junto aos fornecedores para melhoria dos prazos quando necessário.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo<br />Sistema Tasy<br />Sistema Protheus<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupoorizonti/295/req-10241-assistente-financeiro]]></applyUrl>
     <companyId><![CDATA[102963763]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
@@ -82361,25 +82450,6 @@ Elaborar e preencher propostas, planilhas e documentações técnicas e comercia
     <posterEmail><![CDATA[camilarafasky@fucape.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Estagiário(a) Inovação com foco em Inteligência Artificial para atuar de forma transversal nas áreas acadêmicas e administrativas, apoiando a identificação de oportunidades de melhoria, automação de processos e aumento de produtividade. <br /><br /><br />Esse(a) profissional terá papel ativo na disseminação de uma cultura orientada à inovação, contribuindo diretamente para ganhos de eficiência operacional, redução de erros e geração de valor para a instituição.<br /><br /><br />A posição é ideal para alguém com perfil proativo, curioso, com familiaridade com ferramentas digitais e interesse em aplicar IA de forma prática no dia a dia organizacional.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Mapear processos administrativos e acadêmicos, identificando gargalos e oportunidades de melhoria;<br /></li><li>Apoiar na proposição e implementação de soluções de automação utilizando ferramentas de IA (ex.: LLMs, automações simples, integrações com sistemas);<br /></li><li>Apoiar líderes e equipes na utilização de ferramentas como GPT/Claude/Gemini para aumento de produtividade;<br /></li><li>Desenvolver prompts, fluxos e rotinas que otimizem tarefas operacionais e analíticas;<br /></li><li>Criar relatórios simples de ganhos gerados pelas melhorias implementadas (eficiência, redução de erros, tempo economizado, etc.);<br /></li><li>Atuar de forma rotativa entre áreas (coordenações acadêmicas, secretaria de pesquisa, áreas administrativas), apoiando diferentes demandas;<br /></li><li>Apoiar a estruturação e documentação de processos otimizados;<br /></li><li>Apoiar a disseminação da cultura de inovação e melhoria contínua entre os times;<br /></li><li>Testar novas ferramentas e soluções digitais que possam ser aplicadas na rotina institucional;<br /></li><li>Auxiliar na integração de sistemas e melhor uso de plataformas já existentes (ex.: TOTVS, Microsoft 365, etc.).<br /></li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação em andamento em Administração, Economia, Contabilidade, Engenharia, Sistemas de Informação, Ciência de Dados, ou áreas correlatas.<br /></li></ul><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fucapecarreiras/14/estagiario-a-de-inovacao]]></applyUrl>
-    <companyId><![CDATA[819269]]></companyId>
-    <city><![CDATA[Vitória]]></city>
-    <state><![CDATA[ES]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3bad5450-a671-4200-b7e4-a8db29d865f3]]></partnerJobId>
-    <company><![CDATA[Fucape Business School]]></company>
-    <title><![CDATA[Supervisor de CSC]]></title>
-    <posterEmail><![CDATA[camilarafasky@fucape.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Supervisor(a) de CSC para atuar na supervisão das rotinas financeiras, administrativas e de controladoria, garantindo eficiência operacional, conformidade e qualidade nas entregas.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Supervisionar as rotinas de tesouraria, incluindo conciliações bancárias, faturamento e fluxo de caixa- Garantir o cumprimento de prazos de pagamentos e recebimentos<br />- Apoiar a consolidação de informações orçamentárias e assegurar a conformidade contábil e fiscal<br />- Acompanhar e fiscalizar contratos, processos de compras, manutenção predial e gestão de estoque<br />- Auxiliar nas demandas relacionadas à folha de pagamento e contratos de pessoal (PF/PJ)<br />- Elaborar e acompanhar indicadores de desempenho (KPIs) para suporte à gestão<br />- Liderar, orientar e desenvolver a equipe, promovendo um ambiente de melhoria contínua<br />- Atuar de forma estratégica na identificação de oportunidades de otimização de processos<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino superior completo em Ciências Contábeis, Administração ou Economia- Experiência na área financeira e em posição de liderança<br />- Excel avançado- Sólida expertise em gestão de fluxo de caixa, análise de rentabilidade e tomada de decisão financeira<br />- Conhecimento em operações financeiras, como aplicações, captação de recursos e gestão de empréstimos<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fucapecarreiras/16/supervisor-de-csc]]></applyUrl>
     <companyId><![CDATA[819269]]></companyId>
     <city><![CDATA[Vitória]]></city>
     <state><![CDATA[ES]]></state>
