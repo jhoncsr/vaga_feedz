@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 09 Apr 2026 06:14:09 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 09 Apr 2026 07:20:32 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3258]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3260]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -23915,6 +23915,25 @@ sustentação.</li><li>Vivência em ambientes críticos de produção, atuando n
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[ba8a5a7a-cb5f-4f6a-aed9-5d83197700a8]]></partnerJobId>
+    <company><![CDATA[V8.Tech]]></company>
+    <title><![CDATA[SRE Pleno]]></title>
+    <posterEmail><![CDATA[renan.alves@v8.tech]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional com perfil <strong>SRE (Site Reliability Engineering)</strong> para atuar na sustentação de ambientes críticos, garantindo alta disponibilidade, confiabilidade e performance das aplicações.O profissional será responsável por atuar nos períodos mais sensíveis da operação, com foco em resolução de incidentes e estabilidade do ambiente. Além disso, terá papel ativo na <strong>evolução da plataforma</strong>, participando de iniciativas de melhoria contínua e automação.A atuação combina <strong>sustentação operacional com projetos de evolução</strong>, exigindo postura proativa, senso de dono e foco em geração de valor.<strong>Horário de atuação:</strong> 06:00 às 15:00<br /><strong>Modelo:</strong> Remoto<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar na <strong>sustentação de ambientes produtivos críticos</strong>, garantindo disponibilidade e estabilidade</li><li>Monitorar e responder a incidentes utilizando ferramentas como <strong>Datadog, Prometheus e Grafana</strong></li><li>Realizar <strong>análise de causa raiz (RCA)</strong> e propor ações corretivas e preventivas</li><li>Apoiar na resolução de problemas relacionados a <strong>infraestrutura e aplicações (SRE)</strong></li><li>Trabalhar em conjunto com times de N1/N2 para escalonamento e resolução eficiente de incidentes</li><li>Implementar <strong>melhorias contínuas e automações</strong> no ambiente</li><li>Atuar em projetos de evolução da plataforma fora dos horários de maior criticidade</li><li>Contribuir para a melhoria de <strong>pipelines e processos DevOps</strong>, quando necessário</li><li>Garantir boas práticas de observabilidade, confiabilidade e performance </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência prévia como <strong>SRE, DevOps ou áreas correlatas</strong></li><li>Conhecimento em ferramentas de observabilidade:<ul><li><strong>Prometheus</strong></li><li><strong>Grafana</strong></li><li><strong>Datadog</strong></li></ul></li><li>Experiência com ambientes em <strong>Kubernetes (AKS - Azure Kubernetes Service)</strong></li><li>Vivência com <strong>sustentação de ambientes produtivos</strong> e resposta a incidentes</li><li>Conhecimento em análise de logs, métricas e monitoramento</li><li>Capacidade de atuar em ambientes críticos com <strong>alta demanda operacional</strong></li><li>Perfil <strong>proativo</strong>, com foco em solução de problemas e melhoria contínua</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/563/sre-pleno]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[50393591-bcc9-4c23-a433-be2d93b09414]]></partnerJobId>
     <company><![CDATA[V8.Tech]]></company>
     <title><![CDATA[Product Owner SR (Data Analytics)]]></title>
@@ -24615,6 +24634,47 @@ distribuídos de alta complexidade.<br /><br /><b>Responsabilidades e atribuiç�
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e55de762-55f1-4836-9439-f1d0533045ae]]></partnerJobId>
+    <company><![CDATA[V8.Tech]]></company>
+    <title><![CDATA[Engenheiro de Dados SR (Data Analytics)]]></title>
+    <posterEmail><![CDATA[marcelo.chacon@v8.tech]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <b>Engenheiro de Dados SR</b> para atuar na construção, evolução e sustentação de pipelines de dados robustos, escaláveis e confiáveis, suportando iniciativas estratégicas de dados e analytics da organização.<br />Esse(a) profissional será responsável por projetar e implementar soluções modernas de ingestão, transformação e disponibilização de dados, garantindo qualidade, governança e performance em todo o ciclo de vida da informação.<br />O desafio envolve trabalhar com grandes volumes de dados em ambientes cloud, com foco em GCP, integrando múltiplas fontes, incluindo dados transacionais e fluxos em streaming, e viabilizando o consumo por áreas como Analytics, BI e Data Science. Buscamos alguém com forte base técnica, pensamento analítico e foco em engenharia de dados de ponta a ponta.<br />Como Engenheiro de Dados SR, você atuará em conjunto com times multidisciplinares, contribuindo para a construção de uma plataforma de dados moderna, orientada a eventos e preparada para suportar crescimento e novos casos de uso.<br />Se você gosta de resolver problemas complexos, trabalhar com dados em escala e construir soluções eficientes e confiáveis, essa oportunidade é para você.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Projetar, construir e manter pipelines de dados, batch e streaming, garantindo eficiência, escalabilidade e confiabilidade.</li><li>
+Desenvolver processos de ingestão, transformação e carga de dados, ETL e ELT, integrando diferentes fontes de dados.</li><li>
+Modelar dados para consumo analítico, garantindo consistência, qualidade e performance.</li><li>
+Atuar na construção e evolução de data lakes, data warehouses e ou lakehouses em ambiente cloud, preferencialmente GCP, como BigQuery, Cloud Storage e Dataflow.</li><li>
+Garantir a qualidade dos dados por meio de validações, monitoramento e observabilidade de pipelines.</li><li>
+Trabalhar com processamento de dados em larga escala e arquiteturas orientadas a eventos.</li><li>
+Atuar com ingestão e processamento de dados em streaming, utilizando tecnologias como Kafka ou similares.</li><li>
+Colaborar com times de Data Science, BI e Engenharia de Software para viabilizar o uso dos dados.</li><li>
+Implementar boas práticas de governança, segurança e catalogação de dados.</li><li>
+Otimizar consultas, processos e pipelines para melhor performance e custo.</li><li>
+Contribuir com a evolução da plataforma de dados e automação de processos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida como Data Engineer ou em funções similares.</li><li>
+Conhecimento em modelagem de dados, dimensional e ou orientada a domínio.</li><li>
+Experiência com desenvolvimento de pipelines de dados, ETL e ELT.</li><li>
+Domínio em linguagem de programação para dados, como Python, SQL ou similar.</li><li>
+Experiência com bancos de dados relacionais e não relacionais.</li><li>
+Vivência com plataformas de dados em cloud, preferencialmente GCP.</li><li>
+Conhecimento em ferramentas de processamento distribuído e ou streaming de dados.</li><li>
+Experiência com orquestração de pipelines de dados.</li><li>
+Familiaridade com conceitos de Data Lake, Data Warehouse e Lakehouse.</li><li>
+Conhecimento em versionamento de código e boas práticas de engenharia.</li><li>
+Vivência com metodologias ágeis, como Scrum e Kanban.</li><li>
+Capacidade de documentação técnica clara e organizada.</li><li>
+Conhecimento em governança, qualidade e segurança de dados.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/561/engenheiro-de-dados-sr-data-analytics]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[4556c712-61dd-40c8-b2b2-942b4fcf3eed]]></partnerJobId>
