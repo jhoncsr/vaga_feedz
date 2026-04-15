@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 15 Apr 2026 17:18:26 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Apr 2026 18:14:48 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3358]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3354]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -1165,10 +1165,10 @@ Executar outras atividades correlatas à função.</li></ul><br /><br /><b>Requi
   <job>
     <partnerJobId><![CDATA[402f97a0-4441-40d8-b4c3-2875b2b12ccb]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Dados] Engenharia de Dados Sênior - Inteligência Artificial LLM | Produto RH (Remoto)]]></title>
+    <title><![CDATA[[Dados] Engenharia de Dados Especialista - Inteligência Artificial LLM | Produto RH (Remoto)]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A missão do Especialista em Engenharia de Dados será atuar na arquitetura, construção e evolução do Data Lake e dos produtos de dados desenvolvidos pelo time, incluindo soluções de Analytics, agentes e modelos de machine learning.<br /><br /><br /> Trabalhará em conjunto com outro especialista de engenharia de dados na definição e implementação de arquiteturas, modelagem e disponibilização de dados em ambientes distribuídos, utilizando tecnologias como AWS, Spark, Trino e Athena, além de viabilizar o consumo eficiente dessas informações por ferramentas como o Metabase. <br /><br /><br />Será responsável por desenvolver e otimizar pipelines de dados, garantindo performance, escalabilidade, qualidade e governança das informações. Espera-se que o profissional atue com alta autonomia técnica, contribuindo para decisões de arquitetura e para a evolução contínua do ecossistema de dados, assegurando que as soluções atendam às necessidades analíticas e de inteligência dos produtos com robustez e confiabilidade.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Atuar na construção e evolução da arquitetura do Data Lake e dos produtos de dados do time (Analytics, agentes e modelos);</li><li>Desenvolver, otimizar e manter pipelines de dados escaláveis e confiáveis em ambiente AWS;</li><li>Modelar e estruturar dados para consumo analítico e operacional, garantindo qualidade, performance e governança;</li><li>Definir padrões, arquiteturas e boas práticas de dados;</li><li>Implementar e otimizar consultas e camadas de acesso a dados utilizando Athena e Trino;</li><li>Processar e transformar grandes volumes de dados utilizando Spark;</li><li>Garantir a disponibilização eficiente de datasets para consumo em ferramentas analíticas como Metabase;</li><li>Monitorar, diagnosticar e otimizar o desempenho de pipelines, queries e tabelas no Data Lake;</li><li>Assegurar qualidade, integridade e rastreabilidade dos dados ao longo de todo o pipeline;</li><li>Apoiar a definição de estratégias de particionamento, versionamento e organização de dados;</li><li>Contribuir com a documentação técnica e evolução das boas práticas de engenharia de dados;</li><li>Acompanhar tendências e propor melhorias contínuas no ecossistema de dados e nas tecnologias</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Graduação completa em Engenharia, Ciência da Computação, Sistemas de Informação ou áreas correlatas;</li><li>Experiência sólida em engenharia de dados, construção e manutenção de pipelines de dados em larga escala;</li><li>Domínio de SQL avançado para manipulação e otimização de grandes volumes de dados;</li><li>Experiência prática com processamento distribuído utilizando Spark;</li><li>Experiência com serviços de dados na AWS (ex: S3, Glue, Athena, IAM, entre outros);</li><li>Experiência com engines de consulta distribuída, como Athena e/ou Trino;</li><li>Conhecimento em infraestrutura como Código (Terraform)</li><li>Experiência em streaming de dados em tempo real (Apache Kafka)</li><li>Conhecimento em bancos relacionais (PostgreSQL), não relacionais (MongoDB) e vetoriais (Milvus, Pinecone, S3 Vector)</li><li>Experiência em governança de dados (Apache Ranger)</li><li>Conhecimento em Data lake/lakehouse moderno (Iceberg, PyIceberg)</li><li>Conhecimento em boas práticas de qualidade, governança e organização de dados;</li><li>Experiência trabalhando em conjunto com times multidisciplinares (dados, produto e engenharia);</li><li>Capacidade de estruturar soluções de dados escaláveis e de alta performance.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8678/dados-engenharia-de-dados-senior-inteligencia-artificial-llm-produto-rh-remoto]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8678/dados-engenharia-de-dados-especialista-inteligencia-artificial-llm-produto-rh-remoto]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Florianópolis]]></city>
     <state><![CDATA[SC]]></state>
@@ -3728,6 +3728,25 @@ implementado no produto de software<br /><br /><br /><b>Requisitos e qualificaç
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9113/suporte-analista-de-suporte-junior]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São José dos Campos]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[59289375-98f5-4656-acad-555acbe1487e]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Dados] Especialista em Engenharia de Dados - Python]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Como Especialista em Engenharia de Dados você terá como missão principal projetar, construir e manter a infraestrutura de dados robusta e escalável da área de Geração de Demanda. Será responsável por desenvolver e otimizar pipelines de dados que garantam a coleta, integração, tratamento e disponibilização de dados que possam se tornar informações para insights, tomada de decisão e definição de acionáveis. Seu foco estratégico será a criação e o enriquecimento de uma base de dados unificada sobre leads e clientes, incorporando dados das empresas, de suas personas decisoras ou influenciadores de compra, informações de contato e outros dados que possam alimentar lógicas e scores de propensão de compra, além de sustentar a gestão por indicadores de performance. Tudo isso visando capacitar análises avançadas e a tomada de decisões estratégicas de crescimento<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><br /><ul><li>Projetar, desenvolver e implementar estruturas de dados eficientes e escaláveis para sistemas de gestão de indicadores de performance;</li><li>Criar, manter e otimizar pipelines de ETL para integrar dados provenientes de diversas fontes internas e externas;</li><li>Arquitetar e construir um banco de dados centralizado e robusto para cadastro, enriquecimento e monitoramento contínuo de leads (prospects e clientes);</li><li>Garantir a qualidade, integridade, segurança e governança dos dados em todo o ciclo de vida;</li><li>Implementar processos de validação e limpeza de dados para assegurar a confiabilidade das informações;</li><li>Preparar e disponibilizar conjuntos de dados limpos e estruturados para equipes de Business Intelligence e Gestão de Geração de Demanda, viabilizando análises avançadas, construção de modelos preditivos e relatórios de performance,</li><li>Avaliar e implementar ferramentas e tecnologias para a gestão, processamento e disponibilização de dados, incluindo aquelas que suportam soluções de Inteligência Artificial.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:<br /></b><b><br /></b><ul><li>Formação superior completa em Tecnologia;</li><li>Sólida vivência com processo de ETL e análise de dados;</li><li>Conhecimento e usabilidade em ferramentas de visualização de dados (Locker, Power BI, Tableau, entre outras);</li><li>Manipulação de dados em Python e SQL;</li><li>Vivência com as plataformas AWS, Azure ou GCP, </li><li>Experiência com ferramentas e frameworks de Big Data (Apache, Hadoop).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9580/dados-especialista-em-engenharia-de-dados-python]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -7963,25 +7982,6 @@ Boa comunicação, negociação e visão sistêmica.]]></description>
     <posterEmail><![CDATA[vanessa.barreto@sicoob.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um Analista de Negócios Pessoa Física, para atuar na área de negócios, apoiando o gerente com gestão de carteiras e prospecção de novos cooperados.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atender cooperados;</li><li>Realizar venda de produtos e serviços;</li><li>Prospectar novos cooperados;</li><li>Prestar suporte aos gerentes de relacionamentos e gerente de agência, realizar processo de abertura de contas, organização documental de propostas de crédito; </li><li>Realizar visitas externas a cooperados;</li><li>Realizar a gestão da carteira de cooperado sob supervisão dos gerentes. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo em Administração, Ciências Contábeis, Ciências Econômicas, Gestão Comercial ou áreas afins;</li><li>Pós-graduação relacionada a área de atuação;</li><li>Certificação ANBIMA CPA;</li><li>Domínio do Pacote office;</li><li>Carteira de Habilitação Categoria B; Carro próprio; </li><li>Disponibilidade para viagem;</li><li>Residir em Rio Verde GO.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sicoobunicidades/190/analista-de-negocios-pessoa-fisica-pa-10]]></applyUrl>
-    <companyId><![CDATA[74199914]]></companyId>
-    <city><![CDATA[Rio Verde]]></city>
-    <state><![CDATA[GO]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[87d1a67a-3ed3-44bf-bfbc-b7cf4d15da07]]></partnerJobId>
-    <company><![CDATA[Sicoob Unicidades]]></company>
-    <title><![CDATA[Gerente de Agência - Rio Verde e Região]]></title>
-    <posterEmail><![CDATA[vanessa.barreto@sicoob.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Esta é uma oportunidade para gerenciar equipe e administrar  uma agência na Cooperativa de Crédito Sicoob Unicidades.</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar da elaboração do orçamento financeiro da agência, apresentando os dados e relatórios inerentes e necessários para o entendimento e desdobramento do mesmo, com vistas a contribuir com a rentabilidade do negócio, anualmente.</li><li>Gerir os indicadores de serviços da agência como abertura de contas, comercialização de produtos e serviços, captação de recursos e vendas de crédito, controle de inadimplência e provisão da carteira, gerando relatórios diários, analisando a necessidade de novas estratégias, implantando melhorias, acompanhando e executando as operações, com o intuito de atingir a meta anual da agência, diariamente, entre outras atividades correlatas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo em Administração de Empresas; Economia; Ciências Contábeis; Gestão Comercial; Matemática ou áreas afins; </li><li>Pós-graduação relacionado a área de atuação;</li><li>Certificação Profissional ANBIMA CPRO-R;</li><li>CNH B;</li><li>Carro próprio; </li><li>Disponibilidade para Viagens.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sicoobunicidades/188/gerente-de-agencia-rio-verde-e-regiao]]></applyUrl>
     <companyId><![CDATA[74199914]]></companyId>
     <city><![CDATA[Rio Verde]]></city>
     <state><![CDATA[GO]]></state>
@@ -17085,25 +17085,6 @@ e estão prontos para crescer junto conosco.<br /><br /><br /><b>Responsabilidad
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[142fa75c-2cdc-4634-be39-3970ae6e345a]]></partnerJobId>
-    <company><![CDATA[Unimarka Distribuidora]]></company>
-    <title><![CDATA[Estagiário Ensino Superior]]></title>
-    <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Essa vaga é para você que quer crescer profissionalmente e fazer carreira em uma empresa que está entre as 10 maiores do Brasil no segmento atacadista.<br /><b>Venha e participe da nossa seleção!</b><br /><br /><br />Temos oportunidades nos setores de Recursos Humanos, Departamento Pessoal, Financeiro e Trade Marketing.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar na realização de atividades diversas de arquivo e levanta informações; </li><li>Elaborar e confere relatórios;</li><li>Realizar atendimento, cadastros e lançamentos no sistema.<br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando ensino superior em Administração, Logística, Ciências Contábeis ou áreas afins.</li></ul><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/827/estagiario-ensino-superior]]></applyUrl>
-    <companyId><![CDATA[65466539]]></companyId>
-    <city><![CDATA[Feira de Santana]]></city>
-    <state><![CDATA[BA]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[697ad8b4-da8b-4054-89a8-9a6cb34e57c5]]></partnerJobId>
     <company><![CDATA[Unimarka Distribuidora]]></company>
     <title><![CDATA[Operador de Logística]]></title>
@@ -19601,44 +19582,6 @@ postura de dono da operação.]]></description>
 Oferecemos um espaço de aprendizado contínuo, com oportunidades de crescimento e desenvolvimento profissional, contribuindo diretamente para a saúde e o bem-estar da comunidade.
 Se você é apaixonado(a) pela área da saúde e busca novos desafios, venha fazer parte do nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar a coleta, análise e processamento de amostras biológicas, incluindo sangue, urina e outros fluidos corporais.<br /> - Executar testes laboratoriais seguindo protocolos estabelecidos e garantindo a precisão dos resultados.<br /> - Manter a organização e a limpeza do laboratório, assegurando condições adequadas de trabalho.<br /> - Calibrar e realizar manutenções preventivas e corretivas em equipamentos e instrumentais utilizados.<br /> - Atualizar e registrar dados e resultados de exames em sistemas de informação laboratoriais.<br /> - Colaborar com a equipe técnica e demais profissionais da saúde para a interpretação de resultados e suporte ao diagnóstico.<br /> - Seguir as normas de biossegurança e garantir o correto descarte de materiais biológicos e químicos.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação técnica em Análises Clínicas.<br /> - Registro ativo no conselho de classe pertinente.<br /> - Conhecimento em práticas de coleta de material biológico.<br /> - Familiaridade com equipamentos e técnicas laboratoriais.<br /> - Habilidade em realizar análises e interpretar resultados.<br /> - Atenção a detalhes e precisão nas atividades.<br /> - Capacidade de trabalhar em equipe e boa comunicação.<br /> - Noções de biossegurança e ética no laboratório.<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/centraldorecrutador/62/tecnico-em-analises-clinicas]]></applyUrl>
-    <companyId><![CDATA[1324688]]></companyId>
-    <city><![CDATA[Volta Redonda]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[06add851-784e-4ba3-a5f7-3990200fca67]]></partnerJobId>
-    <company><![CDATA[Fundação Oswaldo Aranha]]></company>
-    <title><![CDATA[Técnico de Suporte]]></title>
-    <posterEmail><![CDATA[debora.cyrne@foa.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade que desafie suas habilidades e impulsione sua carreira? Estamos à procura de profissionais dedicados e apaixonados pela área de tecnologia, que queiram fazer a diferença em uma empresa em crescimento. Aqui, você terá a chance de atuar em um ambiente dinâmico, onde a colaboração e o aprendizado são valorizados. Junte-se a uma equipe que prioriza a inovação e o desenvolvimento contínuo, oferecendo suporte essencial que impacta diretamente a experiência de nossos clientes. Se você é proativo(a) e tem o desejo de contribuir para o sucesso de uma organização que valoriza cada colaborador, não perca a chance de se inscrever e mostrar seu potencial. Venha crescer conosco e trilhar um caminho repleto de oportunidades!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Atender e resolver solicitações de suporte técnico de usuários, por meio de diferentes canais (telefone, e-mail, chat).<br /> - Diagnosticar e solucionar problemas relacionados a hardware e software.<br /> - Instalar e configurar equipamentos de informática, como computadores, impressoras e periféricos.<br /> - Manter a documentação dos processos e procedimentos técnicos atualizada.<br /> - Realizar testes e atualizações de sistemas e aplicativos.<br /> - Auxiliar na implementação de projetos de tecnologia e na manutenção da infraestrutura de TI.<br /> - Identificar oportunidades de melhoria nos processos de suporte e sugerir soluções eficazes.<br /> - Garantir a satisfação dos usuários, fornecendo orientações e treinamentos básicos sobre o uso de sistemas e equipamentos.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação técnica em áreas relacionadas à Tecnologia da Informação ou áreas afins.<br /> - Conhecimento em hardware e software.<br /> - Familiaridade com sistemas operacionais Windows e Linux.<br /> - Noções de redes e protocolos de comunicação.<br /> - Habilidade em solucionar problemas de forma eficaz.<br /> - Boa comunicação verbal e escrita.<br /> - Capacidade de trabalhar em equipe.<br /> - Disponibilidade para atender demandas em horários variados.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/centraldorecrutador/59/tecnico-de-suporte]]></applyUrl>
-    <companyId><![CDATA[1324688]]></companyId>
-    <city><![CDATA[Volta Redonda]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a87689c4-270c-41f2-a674-4e9e521ef419]]></partnerJobId>
-    <company><![CDATA[Fundação Oswaldo Aranha]]></company>
-    <title><![CDATA[Auxiliar de Saúde Bucal]]></title>
-    <posterEmail><![CDATA[debora.cyrne@foa.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade que possa transformar sua trajetória profissional? Temos uma posição enriquecedora à sua espera! Junte-se a uma equipe comprometida com a excelência no atendimento e na promoção da saúde bucal, onde seu trabalho fará a diferença na vida das pessoas. Aqui, você terá a chance de crescer, aprender e desenvolver suas habilidades em um ambiente colaborativo e estimulante. Valorizamos a dedicação, a empatia e a vontade de fazer parte de uma missão que realmente importa: cuidar da saúde e do bem-estar da comunidade. Se você é uma pessoa proativa, com vontade de se especializar e contribuir para um futuro mais saudável, essa é sua chance. Venha construir conosco uma trajetória de sucesso e contribuir para a transformação na saúde das pessoas. Estamos ansiosos para conhecer você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar na execução de procedimentos clínicos em consultórios dentários, conforme orientações do cirurgião-dentista.<br /> - Preparar materiais e instrumentos necessários para atendimentos e procedimentos odontológicos.<br /> - Atender os pacientes de maneira acolhedora, esclarecendo dúvidas e garantindo uma experiência positiva.<br /> - Manter a limpeza e a organização da área de trabalho e dos equipamentos utilizados.<br /> - Realizar o controle de estoque de materiais e insumos odontológicos.<br /> - Auxiliar na realização de triagens e no registro das informações dos pacientes.<br /> - Contribuir para a promoção da saúde bucal por meio de orientações a pacientes sobre cuidados e prevenção.<br /> - Participar de treinamentos e capacitações para aprimorar conhecimentos e habilidades na área.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo<br /> - Curso de Auxiliar de Saúde Bucal reconhecido<br /> - Registro no Conselho Regional de Odontologia (CRO)<br /> - Conhecimento básico em procedimentos odontológicos<br /> - Habilidade em comunicação e atendimento ao público<br /> - Capacidade de trabalhar em equipe<br /> - Organização e responsabilidade<br /> - Noções de higiene e biossegurança<br /> - Disponibilidade para trabalhar em diferentes turnos<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/centraldorecrutador/49/auxiliar-de-saude-bucal]]></applyUrl>
     <companyId><![CDATA[1324688]]></companyId>
     <city><![CDATA[Volta Redonda]]></city>
     <state><![CDATA[RJ]]></state>
@@ -32624,64 +32567,6 @@ similares</li><li>Ferramentas de CAD/ VCAD</li><li>Pacote office - avançado</li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[298b4947-df1d-4a7a-9224-d291fc96d232]]></partnerJobId>
-    <company><![CDATA[LTM]]></company>
-    <title><![CDATA[Soldador(a)]]></title>
-    <posterEmail><![CDATA[valeria.jorge@ltmchicotes.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais dedicados e comprometidos para compor nossa equipe. Se você é uma pessoa proativa, gosta de trabalhar em equipe e busca constantemente por aprendizado e crescimento profissional, essa pode ser a oportunidade perfeita para você! Aqui você terá a chance de fazer parte de um ambiente dinâmico e desafiador, contribuindo para o sucesso de projetos e para o desenvolvimento de produtos de qualidade. Venha fazer parte do nosso time e crescer conosco! Se você se identifica com o perfil, não perca essa chance e candidate-se agora mesmo! Estamos ansiosos para receber sua candidatura e contar com a sua energia e vontade de fazer a diferença em nossa equipe!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar soldagem em peças e estruturas metálicas conforme
-desenho técnico ou orientação do superior.</li><li>Realizar montagem e fabricação de gabaritos para apoio na
-produção.</li><li>Fazer reparos e retrabalhos em peças com defeitos ou
-avarias.</li><li>Confeccionar peças metálicas sob medida, utilizando
-processos de solda adequados (MIG, TIG, eletrodo, conforme necessidade).</li><li>Preparar materiais para soldagem (corte, lixamento, limpeza
-e ajuste).</li><li>Operar equipamentos de solda e ferramentas manuais.</li><li>Garantir a qualidade da solda, verificando acabamento e
-resistência.</li><li>Cumprir normas de segurança e utilizar corretamente os EPIs.</li><li>Manter organização e limpeza do posto de trabalho.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo, </li><li>Curso de Soldagem (MIG, MAG, TIG, Eletrodo Revestido).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaltm/65/soldador-a]]></applyUrl>
-    <companyId><![CDATA[34651872]]></companyId>
-    <city><![CDATA[Botucatu]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[192c3579-1020-4cf4-a876-0a4ec2e1cd42]]></partnerJobId>
-    <company><![CDATA[LTM]]></company>
-    <title><![CDATA[Analista de Comércio Exterior - COMEX]]></title>
-    <posterEmail><![CDATA[valeria.jorge@ltmchicotes.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais dedicados e comprometidos para compor nossa equipe. Se você é uma pessoa proativa, gosta de trabalhar em equipe e busca constantemente por aprendizado e crescimento profissional, essa pode ser a oportunidade perfeita para você! Aqui você terá a chance de fazer parte de um ambiente dinâmico e desafiador, contribuindo para o sucesso de projetos e para o desenvolvimento de produtos de qualidade. Venha fazer parte do nosso time e crescer conosco! Se você se identifica com o perfil, não perca essa chance e candidate-se agora mesmo! Estamos ansiosos para receber sua candidatura e contar com a sua energia e vontade de fazer a diferença em nossa equipe!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prospectar e desenvolver clientes e fornecedores no mercado
-internacional.</li><li>Realizar contatos, negociações e elaborar propostas
-comerciais para o exterior.</li><li>Acompanhar processos de importação e exportação do início ao
-fim.</li><li>Conferir e organizar documentos de comércio exterior.</li><li>Garantir o cumprimento das normas aduaneiras, fiscais e
-cambiais.</li><li>Acompanhar embarques, prazos, custos logísticos e
-desembaraço aduaneiro.</li><li>Atuar junto a despachantes, agentes de carga e demais
-parceiros logísticos.</li><li>Apoiar as áreas internas com informações técnicas e
-contratuais.</li><li>Monitorar câmbio, custos e indicadores das operações
-internacionais.</li><li>Representar a empresa em feiras e eventos do setor, quando
-necessário.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação em Comércio Exterior, Relações Internacionais,
-Administração, Economia ou áreas correlatas.</li><li>Pacote Office avançado.</li><li>Inglês avançado.</li><li>Experiência com elaboração e análise de propostas
-comerciais.</li></ul><ul><li>
-
-Conhecimento legislação aduaneira e fiscal aplicada à
-importação e exportação.</li><li>Classificação fiscal (NCM).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaltm/63/analista-de-comercio-exterior-comex]]></applyUrl>
-    <companyId><![CDATA[34651872]]></companyId>
-    <city><![CDATA[Botucatu]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[cf952160-7864-47b1-a7af-edf463f6fa9d]]></partnerJobId>
     <company><![CDATA[LTM]]></company>
     <title><![CDATA[Analista de Manutenção]]></title>
@@ -32758,40 +32643,6 @@ Eletromecânica, Mecatrônica ou áreas correlatas.</li><li>Excel intermediário
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[bad6eaab-f430-4410-a25e-93cf8e473a70]]></partnerJobId>
-    <company><![CDATA[LTM]]></company>
-    <title><![CDATA[Analista Fiscal]]></title>
-    <posterEmail><![CDATA[valeria.jorge@ltmchicotes.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais dedicados e comprometidos para compor nossa equipe. Se você é uma pessoa proativa, gosta de trabalhar em equipe e busca constantemente por aprendizado e crescimento profissional, essa pode ser a oportunidade perfeita para você! Aqui você terá a chance de fazer parte de um ambiente dinâmico e desafiador, contribuindo para o sucesso de projetos e para o desenvolvimento de produtos de qualidade. Venha fazer parte do nosso time e crescer conosco! Se você se identifica com o perfil, não perca essa chance e candidate-se agora mesmo! Estamos ansiosos para receber sua candidatura e contar com a sua energia e vontade de fazer a diferença em nossa equipe!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar lançamentos e conferência de notas fiscais de
-entrada e saída, assegurando a correta tributação e classificação fiscal;</li><li>Executar a escrituração fiscal conforme a legislação
-vigente.</li><li>Apurar tributos diretos e indiretos (ICMS, IPI, PIS, COFINS,
-IRPJ, CSLL, entre outros);</li><li>Preparar, conferir e transmitir obrigações acessórias (DCTF,
-DIRF, SPED Fiscal, GIA, DAPI, entre outras);</li><li>Analisar e aplicar corretamente CFOP, CST, NCM e alíquotas;</li><li>Controlar créditos fiscais, benefícios, incentivos e regimes
-especiais, quando aplicável;</li><li>Elaborar e conferir relatórios e documentos mensais e anuais
-relativos às obrigações acessórias exigidas pela legislação fiscal estadual e
-federal;</li><li>Monitorar alterações na legislação tributária, avaliando
-impactos e orientando as áreas envolvidas;</li><li>Atender fiscalizações e auditorias, fornecendo informações e
-documentos solicitados;</li><li>Organizar, controlar e arquivar documentos fiscais, conforme
-exigências legais, fiscalizações, controles internos e processos de
-contabilização;</li><li>Participar de treinamentos, palestras e reuniões indicados
-pela empresa;</li><li>Executar outras atividades correlatas ao cargo, conforme
-necessidade do serviço ou orientação superior.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino
-superior completo ou em andamento em Ciências Contábeis, Administração,
-Economia ou áreas correlatas</li><li>Excel intermediário</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaltm/54/analista-fiscal]]></applyUrl>
-    <companyId><![CDATA[34651872]]></companyId>
-    <city><![CDATA[Botucatu]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[69b4f8dc-075e-4fa8-a96b-bf80321a3fe5]]></partnerJobId>
     <company><![CDATA[LTM]]></company>
     <title><![CDATA[Supervisor(a) Controladoria]]></title>
@@ -32810,33 +32661,6 @@ econômica;</li><li>Executar outras tarefas correlatas, conforme necessidade do
 serviço ou orientação superior.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Ciências Contábeis,
 Administração, Economia ou áreas correlatas.</li><li>Noções sólidas de contabilidade, fiscal e financeiro.</li><li>Experiência em sistemas ERP;</li><li>Excel avançado.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaltm/53/supervisor-a-controladoria]]></applyUrl>
-    <companyId><![CDATA[34651872]]></companyId>
-    <city><![CDATA[Botucatu]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[5dda3eec-a8e1-485e-be82-0377ac51ba65]]></partnerJobId>
-    <company><![CDATA[LTM]]></company>
-    <title><![CDATA[Assistente Financeiro]]></title>
-    <posterEmail><![CDATA[valeria.jorge@ltmchicotes.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais dedicados e comprometidos para compor nossa equipe. Se você é uma pessoa proativa, gosta de trabalhar em equipe e busca constantemente por aprendizado e crescimento profissional, essa pode ser a oportunidade perfeita para você! Aqui você terá a chance de fazer parte de um ambiente dinâmico e desafiador, contribuindo para o sucesso de projetos e para o desenvolvimento de produtos de qualidade. Venha fazer parte do nosso time e crescer conosco! Se você se identifica com o perfil, não perca essa chance e candidate-se agora mesmo! Estamos ansiosos para receber sua candidatura e contar com a sua energia e vontade de fazer a diferença em nossa equipe!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Receber, conferir e lançar boletos e Notas Fiscais no
-sistema;</li><li>Controlar contas a pagar, registrando dados de fornecedores,
-valores e vencimentos;</li><li>Conferir documentos originais e encaminhar à Contabilidade;</li><li>Analisar extratos bancários e conciliar movimentações
-financeiras;</li><li>Acompanhar liberações de pagamentos junto a operadores
-financeiros;</li><li>Elaborar planilhas de controle financeiro (pagamentos,
-recebimentos e investimentos);</li><li>Preparar e executar pagamentos de prestadores de serviço,
-com cálculo de impostos;</li><li>Avaliar e atualizar cadastro de fornecedores;</li><li>Apoiar em demais rotinas financeiras.</li><li>Executa outras tarefas relacionadas com o cargo, a critério
-do superior.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior/técnico completo ou cursando em
-Administração, Contabilidade, Gestão Financeira ou áreas correlatas;</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaltm/55/assistente-financeiro]]></applyUrl>
     <companyId><![CDATA[34651872]]></companyId>
     <city><![CDATA[Botucatu]]></city>
     <state><![CDATA[SP]]></state>
@@ -44722,6 +44546,41 @@ informática básica<br />]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[3e7de291-8a98-4a80-ad10-deaea2953749]]></partnerJobId>
+    <company><![CDATA[Cardeal Distribuidora]]></company>
+    <title><![CDATA[SUPERVISOR DE VENDAS - CARUARU E REGIÃO]]></title>
+    <posterEmail><![CDATA[rodrigo.queiroz@cardealdistribuidora.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Coordenar, acompanhar, capacitar e desenvolver o time de
+vendas  para o atingimento das metas nas métricas de sell-out, positivação
+e cobertura, inadimplência, devolução e prospecção de novos clientes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />* Analisar relatórios de performance dos vendedores.
+
+* Realizar reuniões periódicas com o time de vendas
+
+* Capacitar o time de vendas para cumprimento da rotina básica
+
+* Desdobrar e acompanhar os objetivos de sell out, positivação
+e cobertura
+
+* Monitorar os índices de inadimplência e devolução de sua
+equipe
+
+* Direcionar e acompanhar a prospecção de novos clientes<br /><br /><b>Requisitos e qualificações</b><br /><br />* Ensino Superior Completo ou cursando em Administração,
+Marketing, Economia e áreas afins  * Conhecimento do mercado varejista da região;  * Conhecimento com gerenciamento de metas e equipes;  <br /> * Residir na região; <br /> * Habilidade para analisar dados de vendas e desenvolver
+estratégias; <br /> * Habilidade no pacote Office.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/409/supervisor-de-vendas-caruaru-e-regiao]]></applyUrl>
+    <companyId><![CDATA[11322443]]></companyId>
+    <city><![CDATA[Caruaru]]></city>
+    <state><![CDATA[PE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[83f6c93a-f8c2-4ff9-bec4-f095108c3d6b]]></partnerJobId>
     <company><![CDATA[Cardeal Distribuidora]]></company>
     <title><![CDATA[JOVEM APRENDIZ]]></title>
@@ -50522,6 +50381,33 @@ desempenho da operação.<br /><br /><br /><br /><b>Requisitos e qualificações
     <posterEmail><![CDATA[alessandra.cea@triunfologistica.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Acompanhar e/ou implementar os programas de segurança, proteção e meio ambiente, seguindo ou produzindo os seguintes processos: PGR, CIPA, CAT, DDS etc., fiscalizando e acompanhando o uso dos EPI ́s, controlando a data de expiração dos equipamentos e materiais, elaborando relatórios fotográficos, além de palestras e integrações de novos funcionários.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />•Distribuir diariamente aos colaboradores, os EPI`s que serão usados, recolhendo aqueles danificados e separando-os, anotando na ficha pessoal de cada colaborador o que foi retirado e qual a data do trâmite, para fins de enviar uma notificação ao Auxiliar Administrativo para posterior compra, cumprimento da legislação e preservação da integridade física do colaborador;<br />•Fazer levantamento diário do estoque de todo o material de segurança do trabalho (entradas e saídas), anotando em planilha manual a relação dos materiais que faltam, repassando ao Administrativo, para fins de reposição de estoque;<br />•Visitar diariamente as áreas operacionais, para fins de inspecionar a segurança nas áreas;<br />•Fazer vistoria de veículos mensalmente, verificando pessoalmente os freios, faróis e etc., informando aos Terceirizados caso haja necessidade de algum reparo, lançando em planilha feita no Word os problemas relacionados ao veículo e enviando ao Gerente de Filial os problemas encontrados, para fins de manter os veículos em boas condições e segurança dos colaboradores;<br />•Fazer análise de risco baseando-se nas atividades que serão feitas pelas equipes, definindo qual será o EPI usado, qual o processo mais seguro para a realização da atividade, enumerando os possíveis riscos, para fins de preservar a integridade física dos colaboradores;<br />•Fazer diariamente a inspeção de segurança, especificando as não conformidades existentes nos locais, fazendo um relatório e encaminhando ao Gerente de Filial ou à empresa responsável, para fins de preservar a integridade física do colaborador e do Meio Ambiente;<br />•Responsável por elaborar todo trâmite relacionado à eleição da CIPA e os documentos, exigidos pelo Ministério do Trabalho e Emprego, para fins de atender a fiscalização trabalhista;<br />•Fazer cumprir as ações da CIPA em acordo com o SMS, identificar necessidades, planejar, executar e avaliar programas de treinamento de segurança industrial e meio ambiente;<br />•Controlar mensalmente o SESMT, número de acidentes ocorridos em cada setor, através de notificação do ocorrido, reunindo as CATS, análise de levantamento de acidentes, fazendo um parâmetro e calculando as horas perdidas, total de cada setor, enviando as cópias ao Gerente de Filial e a empresa CSN, para fins de controle do número de acidentes e as horas perdidas;<br />•Notificar eventualmente, através de comunicado feito em planilha Excel, uma análise do acidente ocorrido através de simulações ou depoimentos, traçando medidas corretivas, enviando ao Supervisor de área em que ocorreu o acidente, para fins de prevenir acidentes com a mesma proporção;<br />•Preencher eventualmente no site do INSS, uma CAT no prazo máximo de quarenta e oito horas após o acidente, informando a lesão ocorrida, o local e a hora, o agente causador, a situação causadora, imprimindo uma cópia e arquivando, fornecendo cópia ao colaborador, e enviando através do site do INSS, para fins de comunicar ao INSS, preservar o colaborador de possíveis dificuldades trabalhistas e a empresa de possíveis processos trabalhistas;<br />•Coordenar eventualmente a troca ou efetiva recarga de extintores, inspecionando um a um, mantendo contato direto com a empresa responsável pela manutenção dos extintores para fins da Triunfo estar preparada caso ocorra algum incêndio;<br />•Promover eventualmente a integração dos novos colaboradores, apresentando os riscos a que estão expostos, ensinando os procedimentos e análises de riscos, fazendo um treinamento total, apresentação através de Power Point, dando palestras em sala de reuniões, apresentando-os aos seus Supervisores, para fins de mostrar os riscos aos novos colaboradores, apresentar-lhes as responsabilidades e obrigações dentro da empresa;<br />•Elaborar mensalmente no Word, gerando cópias e distribuindo em locais de livre acesso aos colaboradores um jornal interno, imputando informações preventivas e atualidades, para fins de fornecer informações e gerar uma integração;<br />•Fiscalizar diariamente as Unidades, com o intuito de assegurar que o DDS (Diálogo Diário de Segurança) está sendo cumprido, arquivando e assinando o DDS, para fins de promover a conscientização e prevenção de acidentes entre os colaboradores;<br />•Preencher eventualmente uma planilha enviada pelo Porto de Itaguaí, constando a entrada e a saída de resíduos da oficina, entregando ao Chefe de Oficina, que é responsável pelo recolhimento, para fins de conformidades junto à FEEMA;<br />•Representar eventualmente, a empresa na CPATP (Comissão de Prevenção de Acidentes de Trabalhadores;<br />•Portuários), participando de reuniões ordinárias e semestrais para fins de justificar problemas e tomar as devidas providências;<br />•Planejar, coordenar, orientar tecnicamente, avaliar e realizar estudos, avaliações e inspeções das condições de trabalho, quanto aos aspectos de higiene industrial, segurança industrial e meio ambiente, em áreas, equipamentos, instalações.<br />•Elaborar documentação necessária para a abertura da Comunicação de Acidente de Trabalho e encaminhar para o Setor de Recursos Humanos para que seja emitida;<br />•Orientar os membros da CIPA para os assuntos ligados a saúde e higiene, através da participação em reuniões e da realização de palestras na semana de prevenção da empresa, visando prevenir doenças e acidentes do trabalho;<br />•Indicar e orientar a implementação de medidas preventivas de segurança em toda área industrial, administrativa e proteção ao meio ambiente;<br />•Fazer cumprir as ações da CIPA em acordo com o SMS, identificar necessidades, planejar, executar e avaliar programas de treinamento de segurança industrial e meio ambiente;<br />•Fazer plano de ação para cumprimento do Anexo SMS escopo do Contrato, apresentando evidências para PETROBRAS;<br />•Participar de programas de auditorias de SMS, segurança industrial e de meio ambiente, acompanhar as atividades operacionais nas áreas contratuais, visando à segurança do profissional envolvido, bem patrimonial e meio ambiente;<br />•Investigar a analisar acidentes e ocorrências anormais, planejando e executando Plano de Ação trazendo segurança nas operações; <br />•Elaborar planos de contingência e coordenar atividades de controle de emergências para todas as áreas contratuais, proceder de acordo com os padrões técnicos e normas operacionais;<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo; </li><li>Curso Técnico em Segurança do Trabalho;</li><li>Registro MTE.</li><li>Atuação anterior na função de Técnico de Segurança do Trabalho.</li><li>Jornada: escala 12x36 (diurno ou noturno)</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/259/tecnico-de-seguranca-do-trabalho-sms]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[RJ]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[3331.03]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[3331.03]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ba32b104-ae21-46ca-9b93-fe9cfae9b6e6]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[TECNICO DE SEGURANÇA DO TRABALHO - SMS]]></title>
+    <posterEmail><![CDATA[alessandra.cea@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Acompanhar e/ou implementar os programas de segurança, proteção e meio ambiente, seguindo ou produzindo os seguintes processos: PGR, CIPA, CAT, DDS etc., fiscalizando e acompanhando o uso dos EPI ́s, controlando a data de expiração dos equipamentos e materiais, elaborando relatórios fotográficos, além de palestras e integrações de novos funcionários.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />•Distribuir diariamente aos colaboradores, os EPI`s que serão usados, recolhendo aqueles danificados e separando-os, anotando na ficha pessoal de cada colaborador o que foi retirado e qual a data do trâmite, para fins de enviar uma notificação ao Auxiliar Administrativo para posterior compra, cumprimento da legislação e preservação da integridade física do colaborador;<br />•Fazer levantamento diário do estoque de todo o material de segurança do trabalho (entradas e saídas), anotando em planilha manual a relação dos materiais que faltam, repassando ao Administrativo, para fins de reposição de estoque;<br />•Visitar diariamente as áreas operacionais, para fins de inspecionar a segurança nas áreas;<br />•Fazer vistoria de veículos mensalmente, verificando pessoalmente os freios, faróis e etc., informando aos Terceirizados caso haja necessidade de algum reparo, lançando em planilha feita no Word os problemas relacionados ao veículo e enviando ao Gerente de Filial os problemas encontrados, para fins de manter os veículos em boas condições e segurança dos colaboradores;<br />•Fazer análise de risco baseando-se nas atividades que serão feitas pelas equipes, definindo qual será o EPI usado, qual o processo mais seguro para a realização da atividade, enumerando os possíveis riscos, para fins de preservar a integridade física dos colaboradores;<br />•Fazer diariamente a inspeção de segurança, especificando as não conformidades existentes nos locais, fazendo um relatório e encaminhando ao Gerente de Filial ou à empresa responsável, para fins de preservar a integridade física do colaborador e do Meio Ambiente;<br />•Responsável por elaborar todo trâmite relacionado à eleição da CIPA e os documentos, exigidos pelo Ministério do Trabalho e Emprego, para fins de atender a fiscalização trabalhista;<br />•Fazer cumprir as ações da CIPA em acordo com o SMS, identificar necessidades, planejar, executar e avaliar programas de treinamento de segurança industrial e meio ambiente;<br />•Controlar mensalmente o SESMT, número de acidentes ocorridos em cada setor, através de notificação do ocorrido, reunindo as CATS, análise de levantamento de acidentes, fazendo um parâmetro e calculando as horas perdidas, total de cada setor, enviando as cópias ao Gerente de Filial e a empresa CSN, para fins de controle do número de acidentes e as horas perdidas;<br />•Notificar eventualmente, através de comunicado feito em planilha Excel, uma análise do acidente ocorrido através de simulações ou depoimentos, traçando medidas corretivas, enviando ao Supervisor de área em que ocorreu o acidente, para fins de prevenir acidentes com a mesma proporção;<br />•Preencher eventualmente no site do INSS, uma CAT no prazo máximo de quarenta e oito horas após o acidente, informando a lesão ocorrida, o local e a hora, o agente causador, a situação causadora, imprimindo uma cópia e arquivando, fornecendo cópia ao colaborador, e enviando através do site do INSS, para fins de comunicar ao INSS, preservar o colaborador de possíveis dificuldades trabalhistas e a empresa de possíveis processos trabalhistas;<br />•Coordenar eventualmente a troca ou efetiva recarga de extintores, inspecionando um a um, mantendo contato direto com a empresa responsável pela manutenção dos extintores para fins da Triunfo estar preparada caso ocorra algum incêndio;<br />•Promover eventualmente a integração dos novos colaboradores, apresentando os riscos a que estão expostos, ensinando os procedimentos e análises de riscos, fazendo um treinamento total, apresentação através de Power Point, dando palestras em sala de reuniões, apresentando-os aos seus Supervisores, para fins de mostrar os riscos aos novos colaboradores, apresentar-lhes as responsabilidades e obrigações dentro da empresa;<br />•Elaborar mensalmente no Word, gerando cópias e distribuindo em locais de livre acesso aos colaboradores um jornal interno, imputando informações preventivas e atualidades, para fins de fornecer informações e gerar uma integração;<br />•Fiscalizar diariamente as Unidades, com o intuito de assegurar que o DDS (Diálogo Diário de Segurança) está sendo cumprido, arquivando e assinando o DDS, para fins de promover a conscientização e prevenção de acidentes entre os colaboradores;<br />•Preencher eventualmente uma planilha enviada pelo Porto de Itaguaí, constando a entrada e a saída de resíduos da oficina, entregando ao Chefe de Oficina, que é responsável pelo recolhimento, para fins de conformidades junto à FEEMA;<br />•Representar eventualmente, a empresa na CPATP (Comissão de Prevenção de Acidentes de Trabalhadores;<br />•Portuários), participando de reuniões ordinárias e semestrais para fins de justificar problemas e tomar as devidas providências;<br />•Planejar, coordenar, orientar tecnicamente, avaliar e realizar estudos, avaliações e inspeções das condições de trabalho, quanto aos aspectos de higiene industrial, segurança industrial e meio ambiente, em áreas, equipamentos, instalações.<br />•Elaborar documentação necessária para a abertura da Comunicação de Acidente de Trabalho e encaminhar para o Setor de Recursos Humanos para que seja emitida;<br />•Orientar os membros da CIPA para os assuntos ligados a saúde e higiene, através da participação em reuniões e da realização de palestras na semana de prevenção da empresa, visando prevenir doenças e acidentes do trabalho;<br />•Indicar e orientar a implementação de medidas preventivas de segurança em toda área industrial, administrativa e proteção ao meio ambiente;<br />•Fazer cumprir as ações da CIPA em acordo com o SMS, identificar necessidades, planejar, executar e avaliar programas de treinamento de segurança industrial e meio ambiente;<br />•Fazer plano de ação para cumprimento do Anexo SMS escopo do Contrato, apresentando evidências para PETROBRAS;<br />•Participar de programas de auditorias de SMS, segurança industrial e de meio ambiente, acompanhar as atividades operacionais nas áreas contratuais, visando à segurança do profissional envolvido, bem patrimonial e meio ambiente;<br />•Investigar a analisar acidentes e ocorrências anormais, planejando e executando Plano de Ação trazendo segurança nas operações; <br />•Elaborar planos de contingência e coordenar atividades de controle de emergências para todas as áreas contratuais, proceder de acordo com os padrões técnicos e normas operacionais;<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo; </li><li>Curso Técnico em Segurança do Trabalho;</li><li>Registro MTE.</li><li>Atuação anterior na função de Técnico de Segurança do Trabalho.</li><li>Jornada: escala 12x36 (diurno ou noturno)</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/260/tecnico-de-seguranca-do-trabalho-sms]]></applyUrl>
     <companyId><![CDATA[3089272]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[RJ]]></state>
@@ -77486,6 +77372,26 @@ Facilidade para trabalho em equipe</li></ul>
     <posterEmail><![CDATA[maria.heemann@vstransportes.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Analista</strong> para integrar nosso time e contribuir com as rotinas que garantem o bom funcionamento das nossas operações logísticas. Procuramos alguém organizado(a), com boa comunicação, senso de responsabilidade e vontade de aprender em um ambiente dinâmico e colaborativo.<br /><br />Se você é movido por desafios, gosta de trabalhar com pessoas e quer crescer em uma empresa sólida e em expansão, <strong>essa vaga é pra você!</strong><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Efetuar lançamentos de entrada e saída de mercadorias no sistema;</li><li> Acompanhar e-mails com solicitações de clientes;</li><li> Realizar rotinas de inventário de estoque/ controle de estoque;</li><li>Expedir NFs de retorno de mercadorias;</li><li>Expedir NFSe / boletos de cobranças;</li><li>Realizar os lançamentos de despesas no sistema;</li><li>Checklist de entrada e saída;</li><li>Atendimento ao cliente;</li><li>Demais rotinas administrativas;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em armazém;</li><li>Experiência em emissão de NF / NFSe; </li><li> Pró-atividade;</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vsoperadorlogistico/28/analista-administrativo-de-armazem]]></applyUrl>
+    <companyId><![CDATA[14070563]]></companyId>
+    <city><![CDATA[Itajaí]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d3fc99e4-2dcb-485d-b222-0b6ee0500ba0]]></partnerJobId>
+    <company><![CDATA[VS Operador Logístico]]></company>
+    <title><![CDATA[Assistente de Transporte]]></title>
+    <posterEmail><![CDATA[maria.heemann@vstransportes.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Assistente</strong> para integrar nosso time e contribuir com as rotinas que garantem o bom funcionamento das nossas operações logísticas. Procuramos alguém organizado(a), com boa comunicação, senso de responsabilidade e vontade de aprender em um ambiente dinâmico e colaborativo. Se você é movido por desafios, gosta de trabalhar com pessoas e quer crescer em uma empresa sólida e em expansão, <strong>essa vaga é pra você! </strong><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Controlar e acompanhar a movimentação de vazios nos terminais portuários.</li>
+<li>Emitir e conferir RICs (Recibo de Intercâmbio de Contêiner), garantindo a correta devolução e retirada dos equipamentos.</li><li>Atualizar sistemas e planilhas de controle com informações de movimentação.</li><li>Prestar suporte às demais atividades do setor conforme necessidade.</li><li>Auxiliar na organização e controle de demandas operacionais do transporte rodoviário.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimento básico em rotinas de contêiner;</li><li>Boa comunicação para interface com motoristas, terminais e equipe interna;</li><li>Organização e atenção aos detalhes, especialmente na conferência de documentos;</li><li>Proatividade e senso de responsabilidade;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vsoperadorlogistico/27/assistente-de-transporte]]></applyUrl>
     <companyId><![CDATA[14070563]]></companyId>
     <city><![CDATA[Itajaí]]></city>
     <state><![CDATA[SC]]></state>
