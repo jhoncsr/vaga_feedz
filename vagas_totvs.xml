@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 24 Apr 2026 17:14:53 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 24 Apr 2026 18:15:38 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3390]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3391]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -1344,92 +1344,41 @@ todas as etapas da jornada na TOTVS.<br /><br /><br /><br /><b>Responsabilidades
   <job>
     <partnerJobId><![CDATA[879af017-15b5-4ddf-82df-31fa7ffb2d76]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Devops/Cloud]  Analista Sênior De Cloud Devops]]></title>
+    <title><![CDATA[[Cloud]  Analista Sênior De Desenvolvimento (Cloud / Serverless AWS)]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar no desenvolvimento e na evolução de soluções voltadas ao ecossistema de bancos de dados em ambiente cloud, participando de projetos estratégicos e desafiadores da área. O profissional será responsável por desenhar, implementar e otimizar soluções com foco em performance, escalabilidade e confiabilidade, além de contribuir para a resolução de incidentes e a melhoria contínua das plataformas. Espera-se uma atuação colaborativa com diferentes times, apoiando a evolução técnica e a geração de valor para o negócio.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Desenvolver artefatos que compõem soluções em Cloud, utilizando tecnologias, ferramentas, métricas e processos da área
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Analista Sênior de Desenvolvimento Cloud</strong> para atuar na definição, arquitetura e evolução de sistemas serverless na AWS, dentro das stacks da T-Cloud Plataforma, garantindo soluções escaláveis, resilientes e alinhadas às necessidades do negócio.
+Essa pessoa terá papel-chave na tomada de decisões técnicas, na liderança de iniciativas e na evolução das práticas de engenharia do time.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Definir e liderar a arquitetura de soluções serverless na AWS, garantindo escalabilidade, resiliência e alta disponibilidade
 </li>
 <li>
-Compreender o funcionamento das soluções Cloud relacionadas às suas atividades e projetos, por meio da análise de código e/ou documentações públicas e privadas
+Desenvolver aplicações backend em Python, com foco em APIs e microsserviços distribuídos
 </li>
 <li>
-Atuar em conjunto com outras equipes de Cloud na identificação e resolução de bugs ligados às suas entregas
+Conduzir decisões técnicas e apoiar a definição de padrões de arquitetura, desenvolvimento e boas práticas
 </li>
 <li>
-Garantir e elevar a qualidade das entregas por meio da criação de testes (unitários, funcionais e de integração)
+Liderar tecnicamente projetos e iniciativas, assegurando a qualidade das entregas e a aderência aos padrões estabelecidos
 </li>
 <li>
-Acompanhar a evolução de serviços de nuvens públicas e privadas, orquestração de contêineres, produtos TOTVS e tecnologias relacionadas, por meio de eventos, palestras e documentações
+Projetar e evoluir fluxos orquestrados com Step Functions e arquiteturas orientadas a eventos
 </li>
 <li>
-Compartilhar conhecimento com o time, promovendo a disseminação técnica e a evolução coletiva
+Garantir boas práticas de observabilidade, incluindo logs, métricas e tracing em ambientes distribuídos
 </li>
 <li>
-Assegurar que o software atenda aos requisitos de qualidade, segurança, modificabilidade e extensibilidade, utilizando práticas modernas de desenvolvimento
+Atuar de forma proativa na identificação e resolução de problemas complexos em produção (troubleshooting avançado)
 </li>
 <li>
-Implementar soluções técnicas com excelência, considerando custo-benefício e prazo, criando componentes cloud-native alinhados às melhores práticas
+Evoluir e otimizar pipelines de CI/CD, promovendo automação, segurança e confiabilidade nos deploys
 </li>
 <li>
-Avaliar diferentes SGBDs e definir a melhor opção para cada cenário
+Apoiar e mentorar desenvolvedores do time, incentivando o crescimento técnico e a disseminação de conhecimento
 </li>
 <li>
-Desenvolver aplicações em arquiteturas monolíticas e de microserviços, compreendendo seus conceitos e aplicabilidades
+Contribuir para a definição e evolução de práticas de segurança em aplicações cloud (IAM, políticas e segregação de acesso)
 </li>
 <li>
-Gerenciar as próprias atividades para cumprir prazos e apoiar os demais membros da equipe
-</li>
-<li>
-Compreender as necessidades e regras de negócio relacionadas aos sistemas desenvolvidos
-</li>
-<li>
-Contribuir para o crescimento do time, apoiando tecnicamente e compartilhando conhecimento de negócio
-</li>
-<li>
-Resolver problemas em ambientes produtivos de forma eficiente, minimizando impactos ao cliente com agilidade</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><br /><ul>
-<li> Desenvolvimento de software – nível avançado
-</li>
-<li>
-Conhecimento em bancos de dados relacionais (SQL Server, Oracle, MySQL) – nível avançado
-</li>
-<li>
-Arquitetura de software – nível avançado
-</li>
-<li>
-Nuvens públicas – nível intermediário
-</li>
-<li>
-Orquestração de contêineres – nível intermediário
-</li>
-<li>
-Ferramentas de automação e integração contínua (CI/CD) – nível avançado
-</li>
-<li>
-Segurança de infraestrutura e aplicações – nível básico
-</li>
-<li>
-Sistemas operacionais (Windows e Linux) – nível intermediário
-</li>
-<li>
-Redes e infraestrutura – nível básico
-</li>
-<li>
-Linguagem de programação (.NET Core com C#) – nível avançado
-</li>
-<li>
-Desenvolvimento seguro – nível intermediário
-</li>
-<li>
-Inteligência relacional – nível intermediário
-</li>
-<li>
-Tomada de decisão – nível intermediário
-</li>
-<li>
-Gestão do tempo – nível intermediário
-</li>
-<li>
-Troubleshooting – nível avançado</li></ul><br /><br /><br /><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9647/devops-cloud-analista-senior-de-cloud-devops]]></applyUrl>
+Colaborar com áreas de produto e negócio na definição de soluções técnicas alinhadas às necessidades</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Ciência da Computação, Engenharia de Software, Sistemas de Informação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas ou áreas correlatas</li><li>Sólida experiência em desenvolvimento backend com Python, especialmente na construção de APIs e serviços distribuídos</li><li>Experiência avançada com arquitetura serverless na AWS</li><li>Forte conhecimento em sistemas distribuídos, incluindo escalabilidade, resiliência e tolerância a falhas</li><li>Experiência prática com a stack serverless da AWS (Lambda, Step Functions, API Gateway e DynamoDB)</li><li>Vivência com práticas DevOps, automação de deploys e construção de pipelines de CI/CD</li><li>Experiência com observabilidade (logs, métricas e tracing), utilizando ferramentas como CloudWatch, X-Ray ou similares</li><li>Conhecimento sólido em segurança de aplicações cloud, incluindo IAM, roles, políticas e boas práticas</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9647/cloud-analista-senior-de-desenvolvimento-cloud-serverless-aws]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -22912,7 +22861,7 @@ Contatar clientes que importaram apenas 1x para entender a experiência e identi
     <company><![CDATA[Starbem]]></company>
     <title><![CDATA[Product Manager (AI-Driven & Hands-on)]]></title>
     <posterEmail><![CDATA[ivone.granadeiro@starbem.app]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Product Manager com mentalidade de construtor(a). Você liderará a squad focada na Experiência dos Profissionais, com a missão de criar ferramentas que elevem o patamar do atendimento médico.Nesta posição, o diferencial é a mentalidade de testes. Não buscamos apenas quem gerencia um backlog, mas quem tem o "sangue no olho" para colocar a mão na massa, construir versões funcionais de produtos baseados em IA e testá-las rapidamente com o usuário final.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Construir e Iterar: Utilizar ferramentas de vibe-coding para criar MVPs, testar novas funcionalidades de IA e validar hipóteses sem depender 100% da fila de engenharia para provas de conceito iniciais.</li><li>Liderança Transversal: Articular com fluidez entre o time técnico (Engenharia e Dados) e a alta liderança (C-Level), traduzindo visão estratégica em execução tática.</li><li>Cultura de Experimentos: Implementar uma mentalidade de testes constantes, aprendendo rápido com os erros e escalando os acertos.</li><li>Data-Informed: Analisar o comportamento dos profissionais na plataforma para identificar gargalos e oportunidades de automação via IA.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Construir e Iterar: Utilizar ferramentas de vibe-coding para criar MVPs, testar novas funcionalidades de IA e validar hipóteses sem depender 100% da fila de engenharia para provas de conceito iniciais.</li><li>Liderança Transversal: Articular com fluidez entre o time técnico (Engenharia e Dados) e a alta liderança (C-Level), traduzindo visão estratégica em execução tática.</li><li>Cultura de Experimentos: Implementar uma mentalidade de testes constantes, aprendendo rápido com os erros e escalando os acertos.</li><li>Data-Informed: Analisar o comportamento dos profissionais na plataforma para identificar gargalos e oportunidades de automação via IA.</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Desafio: Menos Slides, Mais Protótipos.<br />Estamos em busca de um(a) Product Manager com mentalidade de construtor(a). Você irá liderar uma das nossas squads, focada na construção de soluções digitais e IA, pensando em escalar o acesso a serviços de saúde.<br />Nesta posição, o diferencial é a mentalidade de testes. Não buscamos apenas quem gerencia um backlog, mas quem tem o "sangue no olho" para colocar a mão na massa, construir versões funcionais de produtos baseados em IA e testá-las rapidamente com o usuário final.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Construir e Iterar: Utilizar ferramentas de vibe-coding para criar MVPs, testar novas funcionalidades de IA e validar hipóteses sem depender 100% da fila de engenharia para provas de conceito iniciais.</li><li>Liderança Transversal: Articular com fluidez entre o time técnico (Engenharia e Dados) e a alta liderança (C-Level), traduzindo visão estratégica em execução tática.</li><li>Cultura de Experimentos: Implementar uma mentalidade de testes constantes, aprendendo rápido com os erros e escalando os acertos.</li><li>Data-Informed: Analisar o comportamento dos profissionais na plataforma para identificar gargalos e oportunidades de automação via IA.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Construir e Iterar: Utilizar ferramentas de vibe-coding para criar MVPs, testar novas funcionalidades de IA e validar hipóteses sem depender 100% da fila de engenharia para provas de conceito iniciais.</li><li>Liderança Transversal: Articular com fluidez entre o time técnico (Engenharia e Dados) e a alta liderança (C-Level), traduzindo visão estratégica em execução tática.</li><li>Cultura de Experimentos: Implementar uma mentalidade de testes constantes, aprendendo rápido com os erros e escalando os acertos.</li><li>Data-Informed: Analisar o comportamento dos profissionais na plataforma para identificar gargalos e oportunidades de automação via IA.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/starbem/48/product-manager-ai-driven-hands-on]]></applyUrl>
     <companyId><![CDATA[1]]></companyId>
     <city><![CDATA[São Paulo]]></city>
@@ -27687,7 +27636,7 @@ deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b>
     <company><![CDATA[Fundação Educacional Serra dos Órgãos]]></company>
     <title><![CDATA[Auxiliar de Higienização - Campus Quinta]]></title>
     <posterEmail><![CDATA[gloriaalves@feso.edu.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você tem agilidade, organização e gosta de manter tudo limpo e em ordem? Então essa oportunidade é pra você! Estamos contratando Auxiliar de Higienização para atuar no Campus Quinta do Paraíso do Unifeso. Buscamos uma pessoa comprometida, com atenção aos detalhes e disposição para colaborar com a limpeza e conservação de diferentes ambientes internos e externos, contribuindo para um espaço mais seguro, agradável e bem cuidado para todos. Se você atende aos requisitos, candidate-se e venha fazer parte da Feso!<b></b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar serviços de higienização em ambientes internos e externos do campus;</li><li>Limpar e higienizar banheiros, vestiários, pista de corrida, campo de futebol, depósitos de materiais de limpeza e demais áreas comuns do complexo esportivo;</li><li>Realizar varrição de folhas e limpeza do pátio externo;</li><li>Lavar fachadas e remover resíduos de superfícies, vidros e pichações;</li><li>Limpar móveis e equipamentos, movimentando-os quando necessário;</li><li>Aspirar pó, varrer, lavar, passar pano e secar pisos;</li><li>Limpar cortinas e persianas;</li><li>Recolher e descartar resíduos de forma adequada;</li><li>Controlar o estoque de materiais de limpeza e utensílios de trabalho, informando a necessidade de reposição;</li><li>Verificar validade e armazenamento correto dos produtos de limpeza;</li><li>Manipular produtos de limpeza, realizando preparo e diluição conforme as instruções;</li><li>Seguir normas técnicas de segurança, higiene, qualidade e preservação ambiental;</li><li>Acender e apagar as luzes das quadras e demais ambientes;</li><li>Espalhar e varrer a areia da quadra de areia;</li><li>Manter a área gourmet limpa diariamente; </li><li>Executar demais tarefas correlatas à função, conforme orientação da liderança.</li></ul><br /><br /><br /><br /><br /><b>Horário de Trabalho:</b> Segunda a Sexta das 12:00 às 22:00<br /><b>Local de Trabalho:</b> Campus Quinta do Paraíso, Estr. Venceslau José de Medeiros, 1045 - Prata - Teresópolis.<br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo;</li><li>Noções básicas sobre produtos e equipamentos de limpeza;</li><li>Adequação às orientações e rotinas operacionais;</li><li>Residir em Teresópolis;</li><li>Disponibilidade de horário para trabalhar de segunda a sábado.</li></ul><br /><br /><br /><b>A Feso valoriza a diversidade e promove a inclusão de Pessoas com Deficiência (PcD). Caso você seja um profissional com deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b><br /><br /><br /><br /><br /><br /><br /><br /><br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você tem agilidade, organização e gosta de manter tudo limpo e em ordem? Então essa oportunidade é pra você! Estamos contratando Auxiliar de Higienização para atuar no Campus Quinta do Paraíso com atenção aos detalhes e disposição para colaborar com a limpeza e conservação de diferentes ambientes internos e externos, contribuindo para um espaço mais seguro, agradável e bem cuidado para todos. Se você atende aos requisitos, candidate-se e venha fazer parte da Feso!<b></b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar limpeza e conservação de ambientes (pisos, paredes, móveis, vidros e fachadas);</li><li>Varrer, aspirar, lavar, secar e encerar pisos;</li><li>Recolher lixo e garantir o descarte adequado;</li><li>Limpar cortinas, persianas e remover resíduos ou sujeiras diversas;</li><li>Utilizar produtos e equipamentos de limpeza de forma correta;</li><li>Controlar materiais de limpeza e apoiar na organização do estoque;</li><li>Auxiliar na movimentação de móveis, cargas e materiais quando necessário;</li><li>Prestar apoio em atividades da copa;</li><li>Seguir normas de segurança, utilizando EPIs e respeitando os procedimentos da empresa.</li><li>Executar demais tarefas correlatas à função, conforme orientação da liderança.</li></ul><br /><br /><br /><br /><br /><b>Horário de Trabalho: Segunda a Sábado</b><br /><ul><li>Segunda à Sexta das 12h às 22h e Sábado  das 12h às 21h</li></ul><br /><b>Local de Trabalho:</b> Campus Quinta do Paraíso, Estr. Venceslau José de Medeiros, 1045 - Prata - Teresópolis.<br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo;</li><li>Noções básicas sobre produtos e equipamentos de limpeza;</li><li>Adequação às orientações e rotinas operacionais;</li><li>Residir em Teresópolis - vaga 100% presencial;</li><li>Disponibilidade de horário para trabalhar de segunda a sábado.</li><li>Atuação anterior em atividades de limpeza e higienização.</li></ul><br /><br /><br /><b>A Feso valoriza a diversidade e promove a inclusão de Pessoas com Deficiência (PcD). Caso você seja um profissional com deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b><br /><br /><br /><br /><br /><br /><br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenafeso/55/auxiliar-de-higienizacao-campus-quinta]]></applyUrl>
     <companyId><![CDATA[1251323]]></companyId>
     <city><![CDATA[Teresópolis]]></city>
@@ -59313,6 +59262,31 @@ em Fonoaudiologia.]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[bfbc7d91-ceff-4016-8dd4-adb9c271d9b3]]></partnerJobId>
+    <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
+    <title><![CDATA[AUXILIAR DE SERVIÇOS DIVERSOS | CADASTRO RESERVA]]></title>
+    <posterEmail><![CDATA[michelle.gomes@labcmi.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Esta vaga destina-se à formação de cadastro reserva para Auxiliar de Serviços Diversos. Buscamos profissionais com perfil proativo, organizado e com foco no apoio às rotinas operacionais, contribuindo para a organização e o bom funcionamento dos setores.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a limpeza e organização de áreas, garantindo condições adequadas de uso
+</li><li>Repor materiais de higiene, assegurando abastecimento dos setores
+</li><li>Transportar materiais e insumos entre setores de forma segura
+</li><li>Auxiliar na distribuição e organização do enxoval hospitalar
+</li><li>Recolher resíduos comuns conforme orientações de descarte
+</li><li>Organizar salas antes e após atendimentos ou procedimentos
+</li><li>Apoiar equipes em demandas operacionais do dia a dia</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Fundamental Completo]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmicarreira/3964/auxiliar-de-servicos-diversos-cadastro-reserva]]></applyUrl>
+    <companyId><![CDATA[24910672]]></companyId>
+    <city><![CDATA[Salvador]]></city>
+    <state><![CDATA[BA]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[3eb341d3-557f-47b4-8eec-8e5188bb47d2]]></partnerJobId>
     <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
     <title><![CDATA[ENFERMEIRO DA QUALIDADE | HMG]]></title>
@@ -72833,109 +72807,6 @@ Domínio básico do <strong>Pacote Office</strong>.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[279f0148-df20-4366-9406-83cfc149726d]]></partnerJobId>
-    <company><![CDATA[Itaminas]]></company>
-    <title><![CDATA[ANALISTA DE OPERAÇÃO DE USINA SENIOR]]></title>
-    <posterEmail><![CDATA[thatielly.moreira@itaminas.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O Analista de Operação de Usina será responsável por realizar atividades relacionadas ao controle e gestão operacional das usinas, elaborando planilhas de controle de produção, qualidade e indicadores operacionais. Atuará na elaboração de relatórios técnicos e apresentações gerenciais, além de acompanhar o desempenho da produção e apoiar o planejamento operacional das plantas.
-Também será responsável pelo fechamento de produção diário, mensal e anual, planejamento de produção conforme orçamento e plano de lavra, controle de estoques e análise de performance do sistema produtivo. O profissional atuará no desenvolvimento e acompanhamento de sistemas de controle e gestão de dados, como Power BI e ERP de produção (TOTVS), além de apoiar áreas técnicas, operacionais e administrativas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar tratamento e análise de dados para suporte à tomada de decisão.
-</li>
-<li>
-Elaborar relatórios técnicos e apresentações gerenciais da área.
-</li>
-<li>
-Controlar indicadores de desempenho (KPIs) e realizar lançamentos no sistema <strong>Stratws</strong>.
-</li>
-<li>
-Acompanhar a execução dos programas de produção, avaliando desempenho operacional, qualidade e custos.
-</li>
-<li>
-Participar de reuniões operacionais, contribuindo para elaboração de planos de ação e melhoria de processos.
-</li>
-<li>
-Monitorar a aderência às metas de produção e qualidade.
-</li>
-<li>
-Desenvolver e manter planilhas, relatórios e controles operacionais da área.
-</li>
-<li>
-Auxiliar nos controles e medições de contratos relacionados à operação.
-</li>
-<li>
-Participar de projetos de melhoria contínua da área e acompanhar a implementação de ações.
-</li>
-<li>
-Apoiar o fechamento e gestão de custos da operação, elaborando demonstrativos mensais.
-</li>
-<li>
-Dar suporte às áreas administrativas e operacionais da empresa (RH, almoxarifado, financeiro, segurança e medicina do trabalho).
-</li>
-<li>
-Garantir a confiabilidade das informações e dos dados operacionais da área.
-</li>
-<li>
-Apoiar as áreas técnicas, de processos e operacionais em demandas relacionadas à produção.
-</li>
-<li>
-Auxiliar em testes, desenvolvimento e análises relacionadas aos processos da usina.
-</li>
-<li>
-Realizar fechamento de produção diário, mensal e anual.
-</li>
-<li>
-Elaborar planejamento de produção diarizado conforme orçamento e plano de lavra.
-</li>
-<li>
-Analisar a performance operacional do sistema produtivo, avaliando perfis de perdas.
-</li>
-<li>
-Desenvolver e acompanhar sistemas de gestão de dados como <strong>Power BI e ERP de produção (TOTVS)</strong>.
-</li>
-<li>
-Realizar interface com a área de manutenção para planejamento de paradas.
-</li>
-<li>
-Elaborar e acompanhar controles de estoques da operação.
-</li>
-<li>
-Elaborar e revisar procedimentos operacionais da área.
-</li>
-<li>
-Conferir e corrigir apontamentos de paradas e ajustar indicadores físicos (DF, UF, RO, taxa, RM, entre outros).</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino superior completo em:
-<ul>
-<li>
-Engenharia (Produção, Minas, Metalúrgica ou áreas correlatas)
-</li>
-<li>
-Administração ou áreas afins
-</li>
-</ul>
-</li>
-<li>
-Experiência <strong>em operação ou controle de produção de usinas industriais</strong>.
-</li>
-<li>
-Experiência em <strong>análise de dados operacionais e indicadores de produção</strong>.
-</li>
-<li>
-Conhecimento em <strong>planilhas de controle e elaboração de relatórios técnicos</strong>.
-</li>
-<li>
-Conhecimento em <strong>processos industriais ou beneficiamento mineral</strong>.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasitaminas/92/analista-de-operacao-de-usina-senior]]></applyUrl>
-    <companyId><![CDATA[72685309]]></companyId>
-    <city><![CDATA[Sarzedo]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[fcc10d64-70ea-4904-bebd-39cbded09507]]></partnerJobId>
     <company><![CDATA[Itaminas]]></company>
     <title><![CDATA[ANALISTA DE AUTOMAÇÃO JUNIOR]]></title>
@@ -84351,25 +84222,6 @@ Não precisa saber tudo sobre SAP, você vai aprender com a gente ]]></descripti
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6cba6331-3c4b-4cfa-8cb3-095837beba5e]]></partnerJobId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Jovem Aprendiz]]></title>
-    <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o primeiro passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Apoiar atividades administrativas e operacionais da área designada.</li><li>Organizar documentos, arquivos e materiais de apoio.</li><li>Auxiliar no atendimento interno e externo (presencial, telefone ou e-mail).</li><li>Dar suporte em rotinas de logística, estoque ou escritório, conforme necessidade.</li><li>Cumprir normas e procedimentos da empresa.</li><li>Participar de treinamentos e capacitações oferecidos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Idade entre 18 e 23 anos.</li><li>Estar cursando ou ter concluído o ensino médio ou nível superior.</li><li>Disponibilidade de horário (manhã/tarde), contrato de 30 horas semanais.</li><li>Interesse em aprender e se desenvolver profissionalmente.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/156/jovem-aprendiz]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Maceió]]></city>
-    <state><![CDATA[AL]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[84124a07-3fe3-4574-9a12-695b31d98ed8]]></partnerJobId>
     <company><![CDATA[L'auto Cargo]]></company>
     <title><![CDATA[Motorista de Caminhão]]></title>
@@ -84492,6 +84344,25 @@ Não precisa saber tudo sobre SAP, você vai aprender com a gente ]]></descripti
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/113/supervisor-operacional]]></applyUrl>
     <companyId><![CDATA[11691971]]></companyId>
     <city><![CDATA[Aquiraz]]></city>
+    <state><![CDATA[CE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[a19fc7d2-4ba6-443b-8a6d-9b1eb1c85c49]]></partnerJobId>
+    <company><![CDATA[L'auto Cargo]]></company>
+    <title><![CDATA[Estagiário]]></title>
+    <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar inicio a sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar atividades administrativas, operacionais ou técnicas da área de atuação.</li><li>Auxiliar na organização de documentos, relatórios e planilhas.</li><li>Participar de projetos e tarefas sob supervisão de gestores e analistas.</li><li>Contribuir com ideias e soluções para melhoria de processos.</li><li>Aprender e aplicar conhecimentos adquiridos na formação acadêmica.</li><li>Apoiar no atendimento interno e externo, conforme necessidade.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Estar regularmente matriculado em um curso superior.</li><li>Disponibilidade para cumprir carga horária de estágio (6 horas diárias).</li><li>Conhecimento em informática (Pacote Office, e-mails, internet, Power BI).</li><li>Interesse em aprender e desenvolver competências profissionais.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/163/estagiario]]></applyUrl>
+    <companyId><![CDATA[11691971]]></companyId>
+    <city><![CDATA[Fortaleza]]></city>
     <state><![CDATA[CE]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -84644,6 +84515,25 @@ Não precisa saber tudo sobre SAP, você vai aprender com a gente ]]></descripti
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/144/motorista-de-caminhao]]></applyUrl>
     <companyId><![CDATA[11691971]]></companyId>
     <city><![CDATA[Conde]]></city>
+    <state><![CDATA[PB]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f272a87d-3011-48e3-a0ac-88243d0fad71]]></partnerJobId>
+    <company><![CDATA[L'auto Cargo]]></company>
+    <title><![CDATA[Ajudante de Cargas]]></title>
+    <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Auxiliar na carga e descarga de mercadorias em caminhões, armazéns e aeroportos.</li><li>Organizar e movimentar volumes conforme orientações da equipe de logística.</li><li>Conferir mercadorias recebidas e expedidas, garantindo integridade e quantidade correta.</li><li>Apoiar na separação e armazenagem de produtos.</li><li>Cumprir normas de segurança e procedimentos operacionais.</li><li>Manter o ambiente de trabalho limpo e organizado.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo.</li><li>Disponibilidade para atuar em regime de escala e horários flexíveis.</li><li>Comprometimento, disciplina e responsabilidade.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/162/ajudante-de-cargas]]></applyUrl>
+    <companyId><![CDATA[11691971]]></companyId>
+    <city><![CDATA[João Pessoa]]></city>
     <state><![CDATA[PB]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -88135,6 +88025,92 @@ Executar outras atividades correlatas.</li><br /><br /><b>Requisitos e qualifica
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[3c1f7885-4a21-43f7-b2fe-4f2454b675a9]]></partnerJobId>
+    <company><![CDATA[VMI Security]]></company>
+    <title><![CDATA[Inspetor Técnico]]></title>
+    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Executar a manutenção nos componentes
+  eletrônicos, visando a garantir sua integridade e adequado funcionamento,
+  dentro das normas e procedimentos estabelecidos. Realizar inspeção da
+  qualidade de componentes/ materiais e produtos, a fim de avaliá-los de acordo
+  com os procedimentos estabelecidos, realizar tratativa de não conformidades,
+  a fim de gerar análises que busquem a tratativa e melhoria dos produtos e
+  processos para garantia dos padrões de segurança, qualidade, produtividade e
+  satisfação dos clientes internos e externos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar reparos e testes em placas eletrônicas, equipamentos de raio-X e componentes eletroeletrônicos.
+</li>
+<li>
+Inspecionar materiais e produtos (recebimento e produto acabado), garantindo conformidade.
+</li>
+<li>
+Registrar inspeções e emitir relatórios técnicos de não conformidades e melhorias.
+</li>
+<li>
+Avaliar e tratar itens não conformes (reparo, garantia ou fornecedores).
+</li>
+<li>
+Executar ensaios, medições e testes de qualidade conforme especificações técnicas.
+</li>
+<li>
+Elaborar relatórios técnicos com diagnóstico e solução de falhas.
+</li>
+<li>
+Interagir com fornecedores para resolução de problemas e acompanhamento de reparos.
+</li>
+<li>
+Controlar estoque de materiais não conformes (físico e sistêmico).
+</li>
+<li>
+Realizar cadastros e movimentações no sistema (compras, vendas e tratativas).
+</li>
+<li>
+Criar e revisar documentos, procedimentos e controles da área.
+</li>
+<li>
+Realizar calibração e validação de equipamentos para venda/locação.
+</li>
+<li>
+Garantir organização, limpeza e conservação do ambiente e equipamentos.
+</li>
+<li>
+Cumprir normas de qualidade, segurança do trabalho, meio ambiente e compliance.
+</li>
+<li>
+Apoiar a liderança e executar atividades correlatas conforme necessidade.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Técnico em Eletrônica, Técnico Mecatrônica ou Técnico em Elétrica e áreas afins.<br /></li></ul><br /><br />Conhecimentos técnicos essenciais
+<ul>
+<li>
+Reparo de placas eletrônicas
+</li>
+<li>
+Eletrônica intermediária
+</li>
+<li>
+Leitura e interpretação de esquemas elétricos
+</li>
+<li>
+Informática (instalação e configuração de softwares)
+</li>
+<li>
+Pacote Office intermediário
+</li>
+<li>
+NR-10
+</li>
+<li>
+Inglês técnico</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/25/inspetor-tecnico]]></applyUrl>
+    <companyId><![CDATA[2693346]]></companyId>
+    <city><![CDATA[Lagoa Santa]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4539cccb-8638-430d-b754-32d454a95859]]></partnerJobId>
     <company><![CDATA[VMI Security]]></company>
     <title><![CDATA[Operador de Linha de Montagem Elétrica]]></title>
@@ -90467,25 +90443,6 @@ ativa de clientes (B2B e varejo), técnicas de vendas consultivas, planejamento 
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1ecd3a3e-0bc2-4ad9-a6a2-fb7ebb07485b]]></partnerJobId>
-    <company><![CDATA[Pagsmile]]></company>
-    <title><![CDATA[Analista Contábil PL]]></title>
-    <posterEmail><![CDATA[aline.barbosa@pagsmile.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Elaborar, analisar e validar reporte de lançamentos contábeis para o BPO;Auxiliar na análise e reclassificações contábeis;Monitorar o envio de documentos para contabilização mensal;Auxiliar nas reconciliações das contas contábeis;Analisar balancetes e razões contábeis e apurar se os saldos estão corretos;Conferir a depreciação mensal dos ativos;Colaborar com outros departamentos para garantir exatidão nas informações;Preparar e apresentar conciliação contábil mensal e anual;Auxiliar nas demandas contábeis do Grupo Pagsmile;Atender as demandas e fornecer suporte a auditoria;Garantir toda a documentação suporte para cada linha dos balancetes e;Resolver quaisquer demandas ou atividades inerentes ao cargo.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Habilidades organizacionais e de gestão de tempo;Atenção aos detalhes;Capacidade de trabalhar em equipe e de forma independente e cumprir prazos.Forte domínio de rotinas contábeis de ponta a ponta (classificação, conciliação, análise e fechamento);Capacidade de realizar reclassificações e análises de balancetes e razão contábil;Habilidade em executar conciliações contábeis mensais e anuais;Conhecimento em controle e conferência de depreciação de ativos;Experiência em atendimento a auditorias internas e externas;Conhecimento para garantir documentação suporte de todas as linhas dos balancetes;<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação em Ciências Contábeis (com CRC ativo);Experiência comprovada na área;<br />Experiência comprovada em elaboração, análise e validação de lançamentos contábeis;Proficiência em MS Office (principalmente em Excel) e familiaridade com Google Drive.<br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasabertaspagsmilebr/8/analista-contabil-pl]]></applyUrl>
-    <companyId><![CDATA[14374967]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[547f2f8d-e498-4c1b-8532-99e1e4a5dbb9]]></partnerJobId>
