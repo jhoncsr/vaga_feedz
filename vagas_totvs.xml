@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Mon, 27 Apr 2026 11:14:11 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 27 Apr 2026 12:17:31 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3352]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3359]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -6684,6 +6684,33 @@ Manter o posto de trabalho limpo e organizado.</li></ul><br /><br /><b>Requisito
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[67c4b143-bdd0-47ed-b002-65f84ad13a53]]></partnerJobId>
+    <company><![CDATA[SENAC]]></company>
+    <title><![CDATA[2026.02.02 - Instrutor Horista Intermitente - Segmento Beleza (Manicure e Pedicure) - Teresina/Pi]]></title>
+    <posterEmail><![CDATA[anaclarabarbosa@pi.senac.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Instrutor Horista - Modalidade Intermitente (Cadastro de Reserva) - Segmento Beleza (Manicure e Pedicure) - Teresina/Pi<br /><br /><b>Etapas do processo seletivo</b>Triagem de currículos;<br />Entrevista por competências;<br />Avaliação didática pedagógica.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar na elaboração do planejamento escolar e preparar a matéria a ser ministrada em sala de aula; </li><li>Prever estratégias e recursos didáticos necessários ao desenvolvimento dos trabalhos pedagógicos;</li><li> Conduzir o processo ensino-aprendizagem e promover a avaliação pedagógica da aprendizagem do corpo discente;</li><li> Documentar a prática pedagógica; </li><li>Participar de reuniões e grupos de estudos; analisar, interpretar normas e procedimentos; </li><li>Participar da elaboração e realização de projetos especiais; </li><li>Executar outras tarefas compatíveis com o cargo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo, desejável ensino superior em andamento, formação ou cursos complementares na área. Experiência comprovada na função. Residir na cidade de atuação. Necessário disponibilidade no turno da manhã.<br /><br /><br /><b>Requisito desejável</b><br /><br /><br />Experiência em docência. <br /><br /><br /><b>Período de inscrição</b>: 19/03/2026 a 30/04/2026<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivoinstrutorsenacpi/256/2026-02-02-instrutor-horista-intermitente-segmento-beleza-manicure-e-pedicure-teresina-pi]]></applyUrl>
+    <companyId><![CDATA[30120764]]></companyId>
+    <city><![CDATA[Teresina]]></city>
+    <state><![CDATA[PI]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[33.88]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[33.88]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -14396,25 +14423,6 @@ Atender demandas de bancos, fornecedores e demais stakeholders. </li>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[f59c0a10-40da-4a17-b1ed-7422195d6b25]]></partnerJobId>
-    <company><![CDATA[ATS Interno]]></company>
-    <title><![CDATA[Teste Luiz - DIVERSIDADE]]></title>
-    <posterEmail><![CDATA[la.junior@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste<br /><br /><b>Responsabilidades e atribuições</b><br /><br />teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste<br /><br /><b>Requisitos e qualificações</b><br /><br />teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/atsinterno/95/teste-luiz-diversidade]]></applyUrl>
-    <companyId><![CDATA[1234]]></companyId>
-    <city><![CDATA[Belo Horizonte]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[45ee16d2-407f-43bb-9fbe-57dd0cd3677d]]></partnerJobId>
     <company><![CDATA[Linked Tech]]></company>
     <title><![CDATA[Consultor(a) de vendas]]></title>
@@ -21864,26 +21872,6 @@ Contatar clientes que importaram apenas 1x para entender a experiência e identi
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreiras/201/coordenador-comercial]]></applyUrl>
     <companyId><![CDATA[32120252]]></companyId>
     <city><![CDATA[Balneário Piçarras]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[d8fbceaf-f8a7-4743-bb48-dad0f72c3f6e]]></partnerJobId>
-    <company><![CDATA[Halsten Incorporadora]]></company>
-    <title><![CDATA[Engenheiro de Planejamento Lean]]></title>
-    <posterEmail><![CDATA[vanessa.oliveira@halsten.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um Engenheiro(a) de Planejamento Lean para integrar nosso time e contribuir com a excelência na gestão e execução de obras. Este profissional será responsável por implementar e disseminar a cultura Lean Construction, promovendo maior eficiência, redução de desperdícios e cumprimento de prazos nos empreendimentos.
-<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Entre suas principais atividades está a manutenção da implantação do Lean Construction na Halsten, atuando como um multiplicador dos conceitos, treinamentos e padronização dos processos. Atuará na aplicação de ferramentas como Last Planner System (LPS), análise de indicadores de desempenho, identificação de gargalos e proposição de melhorias contínuas nos processos construtivos. Também atuará de forma colaborativa com as equipes de obra, suprimentos e projetos, garantindo alinhamento e fluidez nas operações.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Buscamos um profissional com formação em Engenharia Civil, experiência prévia em planejamento e controle de obras e conhecimento em metodologias Lean. Perfil analítico, proatividade, boa comunicação e habilidade para trabalhar em equipe são essenciais.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreiras/222/engenheiro-de-planejamento-lean]]></applyUrl>
-    <companyId><![CDATA[32120252]]></companyId>
-    <city><![CDATA[Joinville]]></city>
     <state><![CDATA[SC]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -39213,6 +39201,51 @@ alta performance, esta vaga é para você! Vamos conversar? <br /><br /><b>Resp
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[f0757fc1-a3ab-4616-a864-8e915affcddf]]></partnerJobId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Técnico de Automação Agrícola]]></title>
+    <posterEmail><![CDATA[raiane.pereira@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia
+está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe!
+Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um
+ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal
+para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Efetuar instalações, configurações, parametrização e formatações dos equipamentos de tecnologia embarcada (Bordo, Piloto, Radio comunicador, Rep´s, taxas variáveis, câmeras de fadiga, Starlink etc.)</li><li>
+Realizar a manutenção corretiva e preventiva, internamente ou no campo, em componentes de automação agrícola, recebendo ordem de serviço (serviços internos) ou abrindo a ordem de serviço, avaliando o desgaste de peças e de componentes, realizando a troca caso necessário, aumentando a disponibilidade dos equipamentos.</li><li>
+Realizar coleta dos dados dos equipamentos com tecnologia embarcada.</li><li>
+Substituir periféricos dos equipamentos com tecnologia embarcada.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Disponibilidade para trabalhar em regime de turnos.</li><li>Possuir habilitação categoria B.</li><li>Morar em Conceição das Alagoas ou Uberaba.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1617/tecnico-de-automacao-agricola]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Conceição das Alagoas]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[6301a5e4-f639-4539-b845-1ff12f4d1eaa]]></partnerJobId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Auxiliar de Processo Agrícola - Laboratório de Fungos]]></title>
+    <posterEmail><![CDATA[raiane.pereira@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na produção de biológicos e no controle de qualidade.</li></ul><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.</li><li> Residir em Uberaba- MG ou Conceição das Alagoas - MG.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1613/auxiliar-de-processo-agricola-laboratorio-de-fungos]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Conceição das Alagoas]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[bec36b3a-367f-44f0-a4bf-736217131290]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
     <title><![CDATA[Analista Controle de Qualidade]]></title>
@@ -39407,6 +39440,25 @@ campo com auxílio de ferramentas agrícolas.</li><li>Realizar tratos culturais 
 ensaios, bem como: controle de pragas, doenças e daninhas.</li><li>Cumprir com as normas de segurança do trabalho e
 preservação ambiental.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Residir em Conceição das Alagoas. </li><li>Ensino fundamental completo.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1559/auxiliar-de-processo-agricola-desenvolvimento-agronomico]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Conceição das Alagoas]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[5b101872-238c-4e69-9ea3-075de7f37e83]]></partnerJobId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Auxiliar de Processo Agrícola – Herbicida]]></title>
+    <posterEmail><![CDATA[raiane.pereira@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />-<br /><br /><b>Requisitos e qualificações</b><br /><br />-]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1548/auxiliar-de-processo-agricola-herbicida]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Conceição das Alagoas]]></city>
     <state><![CDATA[MG]]></state>
@@ -39886,6 +39938,25 @@ para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><b
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1132/mecanico-automotivo-campo-mecanica-de-colhedora-uberaba]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Conceição das Alagoas]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[451c9c7c-e58b-48b0-b0cf-1ca2b954ed0c]]></partnerJobId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Motorista II - Preparo]]></title>
+    <posterEmail><![CDATA[maria.batista@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li> Realizar o abastecimento, aplicação e descarregamento conforme programação operacional.</li><li> Inspecionar o veículo diariamente (checklist), verificando condições mecânicas, elétricas e de segurança.</li><li> Zelar pela conservação e limpeza do caminhão e equipamentos acoplados.</li><li> Cumprir rotas, horários e orientações operacionais estabelecidas pela liderança.</li><li> Seguir rigorosamente as normas de segurança do trabalho, meio ambiente e direção defensiva.</li><li> Apoiar a equipe de campo nas atividades relacionadas ao preparo e aplicação.</li><li> Comunicar imediatamente qualquer irregularidade, falha mecânica ou situação de risco.</li><li> Preencher relatórios operacionais e apontamentos de atividades.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>CNH categoria D ou E (obrigatório).</li><li>Experiência prévia como motorista de veículos pesados (diferencial experiência com caminhão OTA ou atividades agrícolas).</li><li>Conhecimento básico de mecânica e manutenção preventiva.</li><li>Noções de segurança do trabalho e direção defensiva.</li><li>Disponibilidade para trabalhar em turnos e escala.</li><li>Comprometimento, responsabilidade e trabalho em equipe.<br /></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1614/motorista-ii-preparo]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Delta]]></city>
     <state><![CDATA[MG]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -46273,25 +46344,6 @@ Capacidade de análise técnica, organização e tomada de decisão com foco em 
           <amount><![CDATA[7000.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1c15f1a7-200a-4e37-a2b0-f3d078f9367b]]></partnerJobId>
-    <company><![CDATA[Bianchini]]></company>
-    <title><![CDATA[Jovem Aprendiz  Eletromecânica]]></title>
-    <posterEmail><![CDATA[recrutamento.rg@bianchinisa.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><strong>Processo Seletivo Aberto – Jovem Aprendiz Técnico em Eletromecânica</strong><strong>Bianchini S.A. – Unidade Rio Grande</strong><br /><strong>Parceiro Educacional: SENAI Rio Grande</strong> A Bianchini S.A. está com inscrições abertas para o Programa Jovem Aprendiz na área Técnica!<br />Se você tem entre <strong>18 e 21 anos</strong>, está cursando ou já concluiu o ensino médio e deseja iniciar sua carreira em <strong>manutenção industrial</strong>, esta é uma grande oportunidade de desenvolver conhecimento técnico enquanto estuda com <strong>bolsa-auxílio atrativa</strong> e curso totalmente custeado pela empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Interesse em aprender e se desenvolver profissionalmente.<br />- Boa comunicação verbal e escrita.<br />- Habilidade para trabalhar em equipe.<br />- Proatividade e espírito de colaboração.<br />- Conhecimento básico em informática.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Idade entre <strong>18 e 21 anos</strong></li><li>Interesse em cursar <strong> Eletromecânica</strong></li><li>Interesse na área de <strong>manutenção industrial</strong></li><li>Disponibilidade para curso presencial no <strong>SENAI Rio Grande </strong></li><li>Ensino médio cursando ou concluído</li><li>Não pode ser Jovem Aprendiz em outra empresa simultaneamente</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bianchinivagas/182/jovem-aprendiz-eletromecanica]]></applyUrl>
-    <companyId><![CDATA[1352906]]></companyId>
-    <city><![CDATA[Rio Grande]]></city>
-    <state><![CDATA[RS]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -56816,25 +56868,6 @@ Conhecimento básico em informática (pacote Office)</li><li>Disponibilidade par
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[20bb117c-ac98-41c7-8505-752422030ea1]]></partnerJobId>
-    <company><![CDATA[Grupo Vow]]></company>
-    <title><![CDATA[Analista de Dados]]></title>
-    <posterEmail><![CDATA[simone.britto@grupovow.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional para estruturar e consolidar uma base de dados unificada, adotando boas práticas de engenharia de dados — como a arquitetura em camadas baseada no princípio de medalhão de dados (Bronze, Silver e Gold) — garantindo qualidade, governança e escalabilidade para suportar análises avançadas e iniciativas de inteligência artificial.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Estruturar, consolidar e organizar dados provenientes de múltiplas fontes (sistemas internos, APIs, bancos SQL/NoSQL e arquivos);</li><li>Projetar e implementar pipelines de dados (ETL/ELT), garantindo qualidade, rastreabilidade e consistência das informações;</li><li>Desenvolver e manter modelos de dados relacionais e analíticos, alinhados às necessidades do negócio;</li><li>Atuar na construção de uma arquitetura de dados escalável baseada no conceito de medalhão (camadas Bronze, Silver e Gold);</li><li>Coletar, tratar e analisar grandes volumes de dados estruturados e não estruturados;</li><li>Desenvolver modelos de inteligência artificial e machine learning (classificação, regressão, NLP, clustering, entre outros);</li><li>Construir dashboards, relatórios e visualizações para apoiar a tomada de decisão;</li><li>Automatizar processos e fluxos de dados utilizando scripts, APIs e orquestradores;</li><li>Monitorar a performance e a acurácia dos modelos, promovendo melhorias contínuas;</li><li>Implementar e garantir boas práticas de governança, segurança e qualidade de dados;</li><li>Documentar processos, pipelines, modelos e métricas;</li><li>Atuar em parceria com áreas de negócio para identificar oportunidades de uso de dados e IA;</li><li>Participar de iniciativas de inovação e transformação digital;</li><li>Utilizar ferramentas de apoio baseadas em inteligência artificial, como Claude e Manus, para suporte na análise de dados, automação de tarefas, geração de documentação e apoio ao desenvolvimento de soluções;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Ciência de Dados, Estatística, Engenharia, Sistemas de Informação ou áreas correlatas;</li><li>Experiência com análise de dados, modelagem estatística ou machine learning;</li><li>Domínio de Python aplicado a dados (Pandas, NumPy, Scikit-Learn, entre outros);</li><li>Sólido conhecimento em modelagem de dados relacional;</li><li>Experiência com SQL e manipulação de grandes volumes de dados;</li><li>Experiência na construção de pipelines de dados (ETL/ELT);</li><li>Vivência com ferramentas de visualização de dados (Power BI, Tableau ou Looker).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupovow/25/analista-de-dados]]></applyUrl>
-    <companyId><![CDATA[93390432]]></companyId>
-    <city><![CDATA[Porto Alegre]]></city>
-    <state><![CDATA[RS]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[1b5a607e-7bc5-4d2f-bb17-6321d86027b0]]></partnerJobId>
     <company><![CDATA[Grupo Vow]]></company>
     <title><![CDATA[Analista Administrativo]]></title>
@@ -61117,6 +61150,27 @@ trade marketing<br />
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[b5d126d2-10ba-4237-a52f-853e4689663b]]></partnerJobId>
+    <company><![CDATA[WR Engenharia]]></company>
+    <title><![CDATA[Analista de Marketing]]></title>
+    <posterEmail><![CDATA[clara.braga@wrengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos com uma oportunidade aberta para <strong>Analista de Marketing</strong> e buscamos um profissional criativo, estratégico e orientado a resultados. Procuramos alguém organizado, com olhar analítico e que goste de trabalhar em equipe, sempre em busca de inovação e melhoria contínua.
+Valorizamos profissionais que tenham iniciativa, curiosidade para acompanhar tendências de mercado e que estejam prontos para contribuir com estratégias que fortaleçam a marca e impulsionem resultados. Aqui, você encontrará um ambiente colaborativo, dinâmico e com espaço para desenvolvimento profissional.
+Se você quer fazer parte de uma empresa que reconhece talentos, incentiva o crescimento e acredita no poder das ideias, essa oportunidade é para você. Venha fazer parte do nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Desenvolver e implementar estratégias de marketing para promover produtos e serviços.<br /> - Realizar pesquisas de mercado para identificar tendências e oportunidades.<br /> - Analisar o desempenho de campanhas de marketing e elaborar relatórios de resultados.<br /> - Gerenciar as redes sociais e criar conteúdo engajador para as plataformas digitais.<br /> - Colaborar com a equipe de vendas para alinhar as estratégias de marketing e aumentar a conversão.<br /> - Monitorar a concorrência e o mercado para ajustar as ações de marketing.<br /> - Participar do planejamento e execução de eventos e ações promocionais.<br /> - Contribuir para o desenvolvimento e atualização de materiais de comunicação e marketing.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação em Marketing, Publicidade e Propaganda, Comunicação ou áreas correlatas.<br /> - Experiência prévia na área de marketing, preferencialmente em funções similares.<br /> - Conhecimento em ferramentas de marketing digital, como SEO, SEM, e redes sociais.<br /> - Habilidade em análise de dados e métricas de desempenho.<br /> - Domínio de Pacote Office, especialmente Excel e PowerPoint.<br /> - Boa comunicação escrita e verbal.<br /> - Capacidade de trabalhar em equipe e lidar com prazos.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/wrengenharia/50/analista-de-marketing]]></applyUrl>
+    <companyId><![CDATA[24773223]]></companyId>
+    <city><![CDATA[Juazeiro do Norte]]></city>
+    <state><![CDATA[CE]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4d2778b1-fa59-4e55-b931-97113c642c62]]></partnerJobId>
     <company><![CDATA[WR Engenharia]]></company>
     <title><![CDATA[Técnico(a) de Segurança do Trabalho]]></title>
@@ -62999,6 +63053,25 @@ Valorizamos a diversidade e acreditamos no potencial de cada pessoa. Caso necess
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/xmobotscarreiras/82/analista-de-expedicao-jr]]></applyUrl>
     <companyId><![CDATA[5048086]]></companyId>
     <city><![CDATA[Diamantino]]></city>
+    <state><![CDATA[MT]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[786a9719-f2c5-40ed-8e3a-e8c9d5ca0453]]></partnerJobId>
+    <company><![CDATA[Xmobots]]></company>
+    <title><![CDATA[Executivo de Contas II - Vendas Agricultura (Norte/MT)]]></title>
+    <posterEmail><![CDATA[tamires.silva@xmobots.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gestão da carteira de revendas, garantindo relacionamento contínuo, profissional e orientado a resultados;</li><li>Desenvolvimento de novos parceiros comerciais dentro da região de atuação;</li><li>Planejamento e execução de estratégias de sell-in e sell-out junto às revendas;</li><li>Apoio técnico comercial às revendas em negociações, propostas, demonstrações e fechamento de vendas;</li><li>Atuação em conjunto com marketing, pós-venda e áreas internas para garantir a melhor experiência ao parceiro;</li><li>Acompanhamento de indicadores de performance (vendas, pipeline, conversão, estoque, ativação);</li><li>Participação em eventos, feiras, treinamentos e ações comerciais;</li><li>Elaboração de relatórios, previsões de vendas e gestão do funil comercial no CRM.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa em Administração, Medicina Veterinária, Zootecnia, Agronomia, Engenharia ou áreas correlatas;</li><li>Vivência com processos comerciais: funil de vendas, forecast, negociação e gestão de carteira;</li><li>Habilidade para leitura de indicadores e uso de CRM;</li><li>Conhecimento com pacote Office (Excel, PowerPoint, Word);</li><li>Disponibilidade de viagens;</li><li>Possuir CNH B ativa;</li></ul><br /><ul><li>Residir em Cáceres, Cuiabá, Tangará da Serra - MT.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/xmobotscarreiras/85/executivo-de-contas-ii-vendas-agricultura-norte-mt]]></applyUrl>
+    <companyId><![CDATA[5048086]]></companyId>
+    <city><![CDATA[Tangará da Serra]]></city>
     <state><![CDATA[MT]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -78156,6 +78229,45 @@ análise e organização de dados acadêmicos.]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[9ece6433-a1cc-4ae8-bf69-fd9e722cdb64]]></partnerJobId>
+    <company><![CDATA[TRATON Financial Services Brasil]]></company>
+    <title><![CDATA[Analista de Dados]]></title>
+    <posterEmail><![CDATA[jennifer.amaral@tratonfs.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Garantir a integridade, disponibilidade e governança dos dados corporativos, atuando no desenho e operação de soluções analíticas baseadas em Data Lake, Snowflake, Power BI e Inteligência Artificial, enquanto conduz também atividades de administração de banco de dados (DBA) em ambientes SQL. A missão é assegurar que os dados fluam com qualidade pelas camadas da organização, suportando decisões estratégicas e iniciativas de transformação digital.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
+ <li>Gestão e Arquitetura de
+     Dados</li>
+ <li>Definir e garantir
+     padrões de modelagem, segurança, privacidade, classificação e governança
+     dos dados em ambientes corporativos.</li>
+ <li>Desenvolver dashboards
+     analíticos de alta performance no <b>Power BI</b>.</li>
+ <li>Realizar levantamento de
+     requisitos com áreas de negócio e traduzir necessidades em indicadores
+     estratégicos.</li>
+ <li>Preparar bases e
+     features para modelos de IA e Machine Learning.</li>
+ <li>Suportar devs e times
+     funcionais na análise de erros, logs, locking e rotinas críticas do
+     ambiente SQL.</li>
+ <li>Criação e manutenção de
+     estruturas (tabelas, índices, visões, constraints),</li>
+ <li>Tunning de consultas,
+     planos de execução e otimização de performance.</li>
+</ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo em TI, Engenharia, Ciência de Dados, Administração ou áreas correlatas.</li><li>Inglês fluente.</li><li>Experiência sólida com Snowflake: warehouses, micro particionamento, RBAC, time-travel, data sharing, otimização de custo e performance.</li><li>Domínio de Data Lake e pipelines ETL/ELT.</li><li>Perfil DBA SQL com experiência em: </li><li>Administração de SQL Server,</li><li>Criação e manutenção de bancos e objetos,</li><li>Tuning e otimização de consultas,</li><li>Backups, restores, replicação e HA/DR,</li><li>Segurança e permissões (RBAC).</li><li>Power BI (DAX, Power Query, modelagem dimensional e governança).</li><li>Experiência com Python, JSON e ferramentas de automação</li><li>Comunicação clara e objetiva com stakeholders técnicos e de negócio.</li><li>Capacidade analítica elevada e pensamento estruturado.</li><li>Organização, proatividade e visão de melhoria contínua.</li></ul><br /><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/tratonfsbrasil/8/analista-de-dados]]></applyUrl>
+    <companyId><![CDATA[107919700]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[a25a9bba-125f-4c02-8f03-a7f987e8f119]]></partnerJobId>
     <company><![CDATA[ENTREGA JÁ]]></company>
     <title><![CDATA[Estágio comercial]]></title>
@@ -83484,6 +83596,25 @@ Não precisa saber tudo sobre SAP, você vai aprender com a gente ]]></descripti
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[d409ace5-bb8d-45c3-8d13-f9680e601597]]></partnerJobId>
+    <company><![CDATA[L'auto Cargo]]></company>
+    <title><![CDATA[Assistente de DP]]></title>
+    <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Apoiar nas rotinas de admissão, demissão e manutenção de registros de colaboradores.</li><li>Auxiliar na elaboração da folha de pagamento, férias, 13º salário e rescisões.</li><li>Controlar ponto eletrônico, banco de horas e horas extras.</li><li>Organizar e atualizar documentos trabalhistas e previdenciários.</li><li>Apoiar na administração de benefícios (vale transporte, vale refeição, plano de saúde).</li><li>Emitir relatórios e dar suporte em auditorias e fiscalizações.</li><li>Garantir conformidade com a legislação trabalhista e normas internas.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino médio completo (desejável superior em andamento em Administração, Contabilidade ou Recursos Humanos).</li><li>Experiência prévia em rotinas de Departamento Pessoal.</li><li>Conhecimento básico em legislação trabalhista e previdenciária.</li><li>Domínio de informática (Pacote Office) e sistemas de folha/ponto.</li><li>Organização, atenção aos detalhes e responsabilidade.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/115/assistente-de-dp]]></applyUrl>
+    <companyId><![CDATA[11691971]]></companyId>
+    <city><![CDATA[São Luís]]></city>
+    <state><![CDATA[MA]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[1dbc78c7-0025-4cf9-9b68-a06ddbc81948]]></partnerJobId>
     <company><![CDATA[L'auto Cargo]]></company>
     <title><![CDATA[Auxiliar de Logística]]></title>
@@ -85269,6 +85400,25 @@ otimização de processos.</li></ul><br /><br /><b>Requisitos e qualificações<
     <companyId><![CDATA[685095]]></companyId>
     <city><![CDATA[Três Lagoas]]></city>
     <state><![CDATA[MS]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[a95a0239-3bf4-45ca-a72c-4569c697c190]]></partnerJobId>
+    <company><![CDATA[Enfil SA Controle Ambiental]]></company>
+    <title><![CDATA[Analista de R&S]]></title>
+    <posterEmail><![CDATA[recrusoshumanos@enfilsacontroleambiental.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está convidado(a) a fazer parte de uma equipe dinâmica e inovadora, onde seu talento e esforço serão valorizados. Em um ambiente que promove a colaboração e o desenvolvimento profissional, você terá a oportunidade de contribuir para o nosso crescimento, tornando-se uma peça fundamental na operação do dia a dia. Procuramos pessoas comprometidas, proativas e com vontade de aprender para se juntarem a nós e enfrentarem juntos os desafios que nos aguardam. Se você busca um local onde possa potencializar suas habilidades e fazer a diferença, esta é a sua chance.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir processos seletivos completos (alinhamento de perfil, divulgação, triagem, entrevistas e proposta);</li><li>Atuar com vagas de diferentes níveis (operacionais, administrativos e estratégicos);</li><li>Alinhar requisitos e expectativas com gestores;</li><li>Realizar entrevistas por competência e elaboração de pareceres;</li><li>Acompanhar indicadores de recrutamento (tempo de fechamento, qualidade da contratação, etc.);</li><li>Aplicar feedbacks aos candidatos;</li><li>Sugerir melhorias nos processos de atração e seleção;</li><li>Conferir documentação dos candidatos aprovados no processo seletivo; </li><li>Apoiar na elaboração de descrições de cargo; </li><li>Realizar interface com áreas internas para processos de admissão e onboarding.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimento em entrevista por competência;</li><li>Conhecimento em elaboração de descrições de cargos;</li><li>Familiaridade com ferramentas de recrutamento (ATS, LinkedIn, etc.);</li><li>Conhecimento em indicadores de RH.</li></ul><br /><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/enfil/22/analista-de-r-s]]></applyUrl>
+    <companyId><![CDATA[685095]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
@@ -88111,25 +88261,6 @@ Conhecimento das Normas Regulamentadoras (NRs) aplicáveis à construção civil
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[ed5a5cd1-9c78-448e-b441-9fab08d173a1]]></partnerJobId>
-    <company><![CDATA[CR Duarte Engenharia]]></company>
-    <title><![CDATA[Social Media]]></title>
-    <posterEmail><![CDATA[lcavalcante@crduarte.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Social Media freelancer com olhar estratégico, criatividade e foco em resultados, capaz de transformar a presença digital em valor para o negócio. Procuramos alguém que vá além da execução, entendendo o papel do conteúdo dentro da estratégia, identificando oportunidades e contribuindo ativamente para o crescimento da marca. Valorizamos profissionais organizados, com senso estético apurado e que tenham consistência na entrega, sempre conectando criatividade com resultado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejamento e criação de conteúdo (posts, reels e stories)</li><li>Captação e edição de vídeos</li><li>Agendamento de postagens</li><li>Gestão de calendário editorial</li><li>Acompanhamento de tendências e oportunidades</li><li>Interação com a audiência (comentários e directs)</li><li>Apoio em campanhas e ações estratégicas</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com gestão de redes sociais</li><li>Boa escrita e senso estético</li><li>Organização e cumprimento de prazos</li><li>Olhar estratégico para conteúdo (não apenas operacional)</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirascrduarte/14/social-media]]></applyUrl>
-    <companyId><![CDATA[11497262]]></companyId>
-    <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[CE]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[373007ff-0e7f-44de-949f-75ac59870781]]></partnerJobId>
     <company><![CDATA[Grupo Disal]]></company>
     <title><![CDATA[Coordenador Comercial de Seguros]]></title>
@@ -88743,10 +88874,10 @@ Na VMZ Viagens, vender não é empurrar produto — é entender o cliente, const
   <job>
     <partnerJobId><![CDATA[ebd8bd05-2b32-44f8-b00b-1d8429900c59]]></partnerJobId>
     <company><![CDATA[Empório Alex]]></company>
-    <title><![CDATA[AUXILIAR DE LOJA -  GUARULHOS]]></title>
+    <title><![CDATA[Auxiliar de loja - Loja 01]]></title>
     <posterEmail><![CDATA[ea.rh1@emporioalex.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/20/auxiliar-de-loja-guarulhos]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/20/auxiliar-de-loja-loja-01]]></applyUrl>
     <companyId><![CDATA[101451561]]></companyId>
     <city><![CDATA[Guarulhos]]></city>
     <state><![CDATA[SP]]></state>
@@ -88762,10 +88893,10 @@ Na VMZ Viagens, vender não é empurrar produto — é entender o cliente, const
   <job>
     <partnerJobId><![CDATA[99d75abc-f20a-4636-8ed8-6ec0e64f25a1]]></partnerJobId>
     <company><![CDATA[Empório Alex]]></company>
-    <title><![CDATA[AUXILIAR DE LOJA - ABC]]></title>
+    <title><![CDATA[Auxiliar de loja - Loja 30]]></title>
     <posterEmail><![CDATA[ea.rh1@emporioalex.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/18/auxiliar-de-loja-abc]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/18/auxiliar-de-loja-loja-30]]></applyUrl>
     <companyId><![CDATA[101451561]]></companyId>
     <city><![CDATA[São Bernardo do Campo]]></city>
     <state><![CDATA[SP]]></state>
@@ -88779,12 +88910,50 @@ Na VMZ Viagens, vender não é empurrar produto — é entender o cliente, const
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[b506e437-8300-444d-b6e5-0993c284536f]]></partnerJobId>
+    <company><![CDATA[Empório Alex]]></company>
+    <title><![CDATA[Auxiliar de loja - Loja 19]]></title>
+    <posterEmail><![CDATA[ea.rh1@emporioalex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/16/auxiliar-de-loja-loja-19]]></applyUrl>
+    <companyId><![CDATA[101451561]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[84d68e33-4a66-443a-bea0-15cff3844a5a]]></partnerJobId>
+    <company><![CDATA[Empório Alex]]></company>
+    <title><![CDATA[Auxiliar de loja - Loja 72]]></title>
+    <posterEmail><![CDATA[ea.rh1@emporioalex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/17/auxiliar-de-loja-loja-72]]></applyUrl>
+    <companyId><![CDATA[101451561]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[14c2b9fa-f040-467e-97a5-1c618ff35f0b]]></partnerJobId>
     <company><![CDATA[Empório Alex]]></company>
-    <title><![CDATA[CONFERENTE]]></title>
+    <title><![CDATA[Conferente de Confecção]]></title>
     <posterEmail><![CDATA[ea.rh1@emporioalex.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade que ofereça crescimento e aprendizado em um ambiente dinâmico? Temos uma vaga que pode ser exatamente o que você procura! Estamos em busca de pessoas motivadas, que desejam fazer parte de uma equipe integrada e colaborativa, onde o trabalho em conjunto é valorizado. Aqui, cada dia representa uma nova chance de adquirir experiências valiosas e contribuir para o sucesso coletivo. Se você é alguém que aprecia um ambiente movimentado, onde a disposição para aprender é fundamental, queremos conhecer você. Venha fazer parte de uma empresa que investe no desenvolvimento de suas pessoas e oferece um ambiente acolhedor e respeitoso. Sua jornada profissional pode começar aqui! Não perca essa chance de transformar o seu futuro. Candidate-se agora e dê o primeiro passo rumo a uma nova experiência!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Conferir e validar a qualidade e quantidade dos produtos recebidos e despachados.<br /> - Identificar e relatar divergências ou irregularidades nos pedidos.<br /> - Colaborar com a equipe da Fábrica<br />-Colocar peças na gaiola para a liberação do caminhão<br />-Cadastrar notas no Excel  <br />-Conferir peças de roupas das Fábricas Externas<br /> - Seguir normas de segurança e procedimentos internos da empresa.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo<br /> - Experiência anterior na função ou em atividades relacionadas<br /> - Conhecimento em processos de conferência de produtos<br /> - Atenção a detalhes e capacidade de organização<br /> - Boa comunicação e trabalho em equipe<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/14/conferente]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/14/conferente-de-confeccao]]></applyUrl>
     <companyId><![CDATA[101451561]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -88800,10 +88969,10 @@ Na VMZ Viagens, vender não é empurrar produto — é entender o cliente, const
   <job>
     <partnerJobId><![CDATA[92a2982d-310b-47a8-acf0-1a48dc1326ea]]></partnerJobId>
     <company><![CDATA[Empório Alex]]></company>
-    <title><![CDATA[AUXILIAR DE LOJA - CENTRO]]></title>
+    <title><![CDATA[Auxiliar de loja - Loja 58]]></title>
     <posterEmail><![CDATA[ea.rh1@emporioalex.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/19/auxiliar-de-loja-centro]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/19/auxiliar-de-loja-loja-58]]></applyUrl>
     <companyId><![CDATA[101451561]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
