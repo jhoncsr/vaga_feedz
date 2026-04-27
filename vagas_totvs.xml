@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Mon, 27 Apr 2026 15:17:36 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 27 Apr 2026 16:14:39 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3369]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3374]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -11828,6 +11828,25 @@ metodologias ágeis (Scrum/Kanban.</li></ul>]]></description>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[753d6371-64fc-464e-867f-eb488ddc2ee8]]></partnerJobId>
+    <company><![CDATA[AFIN Assessoria Fiscal e Contábil]]></company>
+    <title><![CDATA[Analista Contábil - Atuação em São José da Lapa]]></title>
+    <posterEmail><![CDATA[assantos@afin.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Fundada em 1995, a <b>AFIN</b> é especializada na prestação de serviços contábeis, fiscais e de gestão de pessoal, com foco em qualidade, integridade, precisão e compromisso com os resultados de nossos clientes.<br /><br />Estamos em busca de <b>Analista Contábil</b> para compor nosso time! Se você busca desenvolvimento profissional e deseja atuar em uma empresa sólida, com foco em qualidade, tecnologia e atendimento personalizado, essa vaga é para você!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar em área contábil, realizando conciliações, relatórios, atendimento a clientes e demais rotinas pertinentes ao setor.</li><li>Conciliação contábil, custos, análise de contas contábeis e rotinas de fechamento.</li><li>Atendimento a auditorias externas e internas, entrega das declarações (ECF e ECD)</li><li>Preparação e análise do imposto de renda e contribuição social de empresas no Lucro Real e Presumido.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Ciências Contábeis;</li><li>CRC Ativo;</li><li>Excel e sistema integrado;</li><li>Conhecimento nas normas contábeis (CPCs)</li><li>Conhecimento no sistema TOTVS e SAP será considerado um diferencial;</li></ul><br /><br />Benefícios<br /><br /><ul><li>Salário compatível com o mercado</li><li>Vale-transporte</li><li>Vale-refeição e alimentação</li><li>Plano de saúde Unimed com extensão nacional para você e seus dependentes diretos</li><li>Plano Odontológico Uniodonto para você e seus dependentes diretos</li><li>Seguro de Vida</li><li>Convênio Farmácia e subsídio</li><li>Wellwub</li><li>Apoio jurídico, financeiro, social e psicológico</li><li>Parceria com universidades e escolas de inglês</li></ul><b><br /></b><b>Interessou? Candidate-se agora mesmo aqui pelo LinkedIn ou envie seu currículo para recrutar.99@gmail.com</b><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/afin/29/analista-contabil-atuacao-em-sao-jose-da-lapa]]></applyUrl>
+    <companyId><![CDATA[11313560]]></companyId>
+    <city><![CDATA[São José da Lapa]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[930227d6-bc6d-4e2f-8c59-a70f00106670]]></partnerJobId>
     <company><![CDATA[Gestus]]></company>
     <title><![CDATA[Analista Fiscal]]></title>
@@ -22501,7 +22520,7 @@ sustentação.</li><li>Vivência em ambientes críticos de produção, atuando n
     <company><![CDATA[V8.Tech]]></company>
     <title><![CDATA[Desenvolvedor(a) Engenheiro(a) de IA SR]]></title>
     <posterEmail><![CDATA[fabricio.francisco@v8.tech]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Engenheiro(a) de IA para atuar em um projeto de automação de processos internos com IA generativa, composto por um pipeline multiagente em produção com modelos de última geração, integrações com sistemas<br />corporativos e observabilidade ponta a ponta em GCP.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Evoluir e manter agentes de IA generativa orquestrados com Google ADK.</li><li>Projetar, otimizar e iterar prompts e structured outputs dos agentes,balanceando qualidade, custo e latência.</li><li>Ajustar parâmetros de modelos (thinking level, temperatura, estratégias de retry) a partir de observações em produção.</li><li>Desenvolver e manter serviços FastAPI que recebem eventos, aplicam filtros e despacham o pipeline de forma assíncrona com controle de concorrência.</li><li>Manter integrações com bases de dados corporativas e APIs externas, com validação de input, circuit breaker e pool de conexões. Operar e evoluir a observabilidade: logs estruturados (structlog/JSON), tracing distribuído com OpenTelemetry, métricas de tokens e latência por agente.</li><li>Contribuir com o pipeline de CI/CD: lint, testes automatizados com cobertura mínima, análise de segurança e deploy seletivo em Cloud Run.</li><li>Investigar falhas em produção e aplicar correções cirúrgicas,</li><li> priorizando solução de causa raiz sobre paliativos.</li><li>Colaborar na definição de novos agentes, tools e validadores determinísticos conforme novas demandas de automação surgirem.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida em Python 3.12+ em ambiente de produção.</li><li>Experiência com FastAPI (rotas, dependências, middleware, background tasks, async/await).</li><li>Conhecimento em IA generativa com LLMs: prompt engineering, structured outputs, tool calling, controle de parâmetros de inferência.</li><li>Experiência com frameworks de orquestração de agentes — Google ADK preferencialmente, ou equivalentes (LangChain, LangGraph, CrewAI) com disposição para migrar.</li><li>Experiência prática com Google Cloud Platform, especificamente: Cloud Run (deploy, scaling, VPC Connector, Workload Identity).</li><li>   * Cloud Pub/Sub (tópicos, subscriptions, publicação).</li><li>   * BigQuery (ingestão e consultas analíticas).</li><li>   * Cloud Storage.</li><li>   * Cloud Logging e práticas de observabilidade (logs estruturados, tracing distribuído).</li><li>Domínio de Pydantic v2 para validação de schemas e structured outputs.</li><li>Experiência com observabilidade estruturada: logs JSON (structlog ou similar), OpenTelemetry (traces, spans, contextvars), propagação de trace_id.</li><li>Experiência com testes automatizados em Python (pytest, pytest-asyncio cobertura).</li><li>Domínio de Git e fluxos de CI/CD.</li><li>Capacidade de escrever código cirúrgico: priorizar correções pontuais evitar refatorações não solicitadas e respeitar convenções existentes no projeto.</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Engenheiro(a) de IA para atuar em um projeto de automação de processos internos com IA generativa, composto por um pipeline multiagente em produção com modelos de última geração, integrações com sistemas<br />corporativos e observabilidade ponta a ponta em GCP.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Evoluir e manter agentes de IA generativa orquestrados com Google ADK.</li><li>Projetar, otimizar e iterar prompts e structured outputs dos agentes,balanceando qualidade, custo e latência.</li><li>Ajustar parâmetros de modelos (thinking level, temperatura, estratégias de retry) a partir de observações em produção.</li><li>Desenvolver e manter serviços FastAPI que recebem eventos, aplicam filtros e despacham o pipeline de forma assíncrona com controle de concorrência.</li><li>Manter integrações com bases de dados corporativas e APIs externas, com validação de input, circuit breaker e pool de conexões. Operar e evoluir a observabilidade: logs estruturados (structlog/JSON), tracing distribuído com OpenTelemetry, métricas de tokens e latência por agente.</li><li>Contribuir com o pipeline de CI/CD: lint, testes automatizados com cobertura mínima, análise de segurança e deploy seletivo em Cloud Run.</li><li>Investigar falhas em produção e aplicar correções cirúrgicas,</li><li> priorizando solução de causa raiz sobre paliativos.</li><li>Colaborar na definição de novos agentes, tools e validadores determinísticos conforme novas demandas de automação surgirem.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida em Python 3.12+ em ambiente de produção.</li><li>Experiência com FastAPI (rotas, dependências, middleware, background tasks, async/await).</li><li>Conhecimento em IA generativa com LLMs: prompt engineering, structured outputs, tool calling, controle de parâmetros de inferência.</li><li>Experiência com frameworks de orquestração de agentes — Google ADK preferencialmente, ou equivalentes (LangChain, LangGraph, CrewAI) com disposição para migrar.</li><li>Domínio de Pydantic v2 para validação de schemas e structured outputs.</li><li>Experiência com observabilidade estruturada: logs JSON (structlog ou similar), OpenTelemetry (traces, spans, contextvars), propagação de trace_id.</li><li>Experiência com testes automatizados em Python (pytest, pytest-asyncio cobertura).</li><li>Domínio de Git e fluxos de CI/CD.</li><li>Capacidade de escrever código cirúrgico: priorizar correções pontuais evitar refatorações não solicitadas e respeitar convenções existentes no projeto.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/582/desenvolvedor-a-engenheiro-a-de-ia-sr]]></applyUrl>
     <companyId><![CDATA[1]]></companyId>
     <city><![CDATA[São Paulo]]></city>
@@ -42324,6 +42343,87 @@ relacionais e não relacionais</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[4443c4cd-69f4-429b-97d0-193bc75ea735]]></partnerJobId>
+    <company><![CDATA[SD INFORMÁTICA]]></company>
+    <title><![CDATA[Vendedor Trainee]]></title>
+    <posterEmail><![CDATA[rh@sdinformatica.net]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Vendedor
+é responsável por identificar, prospectar e fechar negócios relacionados à
+venda de soluções tecnológicas. Ele atua como intermediário entre a empresa e
+os clientes, compreendendo suas necessidades e oferecendo produtos ou serviços
+que atendam às suas demandas, enquanto gera valor para o cliente e resultados
+para a organização.<ul>
+ <li>Conduzir
+     reuniões consultivas e demonstrações técnicas personalizadas dos
+     softwares.</li>
+ <li>Elaborar
+     e apresentar propostas comerciais detalhadas e adaptadas às demandas dos
+     clientes.</li>
+ <li>Negociar
+     prazos, preços e condições contratuais com clientes de médio e grande
+     porte.</li>
+ <li>Garantir
+     o acompanhamento contínuo de leads e clientes, utilizando ferramentas de
+     CRM para manter o pipeline atualizado.</li>
+ <li>Participar
+     no desenvolvimento de estratégias comerciais para atingir metas e explorar
+     novos mercados.</li>
+</ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><br /><ul>
+ <li>  Desenvolver relacionamentos estratégicos com clientes em potencial</li><li> Realizar apresentações detalhadas do software, adaptando soluções para as demandas dos clientes.</li><li> Conduzir negociações complexas e lidar com objeções técnicas ou comerciais.</li><li>Elaborar propostas comerciais personalizadas e contratos.</li><li>Conduzir
+     reuniões consultivas e demonstrações técnicas personalizadas dos
+     softwares.</li>
+ <li>Elaborar
+     e apresentar propostas comerciais detalhadas e adaptadas às demandas dos
+     clientes.</li>
+ <li>Negociar
+     prazos, preços e condições contratuais com clientes de médio e grande
+     porte.</li>
+ <li>Garantir
+     o acompanhamento contínuo de leads e clientes, utilizando ferramentas de
+     CRM para manter o pipeline atualizado.</li>
+ <li>Participar
+     no desenvolvimento de estratégias comerciais para atingir metas e explorar
+     novos mercados</li>
+</ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Ø <b> </b><b>Ensino Superior completo em alguma das formações:</b>
+
+·        
+Administração
+
+·        
+Marketing
+
+·        
+Tecnologia da Informação
+
+·        
+Ciências Econômicas ou áreas correlatas.Ø  <b>Competências Técnicas:</b>·        
+Conhecimento avançado de vendas consultivas e técnicas
+de persuasão.·        
+Capacidade de interpretar requisitos técnicos
+básicos e traduzi-los em soluções de software.
+
+
+
+
+
+·        
+Proficiência no uso de ferramentas para analisar
+leads e resultados.<br /><br /><ul>
+</ul><b><u>CNH:B<br /></u></b><b><u>Disponibilidade de Viagens Interestaduais</u></b><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sdinformatica/17/vendedor-trainee]]></applyUrl>
+    <companyId><![CDATA[91058713]]></companyId>
+    <city><![CDATA[Goiânia]]></city>
+    <state><![CDATA[GO]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[46566f20-5ffb-49e1-8be3-c9fc85e889d5]]></partnerJobId>
     <company><![CDATA[SD INFORMÁTICA]]></company>
     <title><![CDATA[Gestor de Suporte ao Cliente]]></title>
@@ -50008,25 +50108,6 @@ equipamentos similares.<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/271/encarregado-de-operacoes]]></applyUrl>
     <companyId><![CDATA[3089272]]></companyId>
     <city><![CDATA[Duque de Caxias]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[df447177-4e0f-4904-b645-10a599045002]]></partnerJobId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[AUXILIAR DE PRESERVAÇÃO]]></title>
-    <posterEmail><![CDATA[alessandra.cea@triunfologistica.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar na manutenção, conservação e preservação de equipamentos, instalações e áreas<br />operacionais, garantindo a funcionalidade, segurança e integridade do patrimônio da<br />empresa<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Realizar manutenção preventiva e corretiva de equipamentos e instalações, conforme<br />orientação do supervisor;<br />• Auxiliar na inspeção e conservação de máquinas, ferramentas e materiais;<br />• Apoiar em serviços de limpeza, organização e preservação das áreas de operação;<br />• Registrar informações sobre condições de equipamentos, materiais e instalações;<br />• Zelar pelo cumprimento das normas de segurança, meio ambiente e boas práticas de<br />operação;<br />• Acompanhar equipes técnicas durante manutenções ou reparos, fornecendo suporte quando<br />necessário;<br />• Transportar materiais e equipamentos para locais de manutenção ou operação;<br />• Auxiliar na implementação de procedimentos de preservação e controle de ativos;<br />• Comunicar imediatamente ao superior qualquer irregularidade ou situação de risco;<br />• Executar outras atividades compatíveis com a função, conforme orientação do gestor.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Escolaridade/Qualificação: Ensino médio completo]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/344/auxiliar-de-preservacao]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[RJ]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -71152,55 +71233,6 @@ Manter o ambiente de trabalho limpo, seguro e organizado, seguindo as normas de 
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[99c4df33-d125-4160-a0cd-11852d9d5610]]></partnerJobId>
-    <company><![CDATA[MB Labs]]></company>
-    <title><![CDATA[Desenvolvedor Back End - .NET PL]]></title>
-    <posterEmail><![CDATA[emily.maia@mblabs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado por tecnologia e busca uma oportunidade onde possa realmente fazer a diferença, temos uma proposta que pode ser ideal para você!<br />Estamos em busca de profissionais criativos e dedicados, que desejam se juntar a uma equipe inovadora e dinâmica, voltada para o desenvolvimento de soluções que impactam diretamente no sucesso de nossos projetos. <br /><br /><br />Aqui, você terá a chance de colaborar em um ambiente estimulante, onde suas ideias serão valorizadas e suas habilidades, potencializadas. Este é o momento de integrar um time que acredita no crescimento mútuo e na busca constante pela excelência. Se você está pronto para um novo desafio em sua carreira, venha fazer parte da nossa jornada e contribuir para a construção de um futuro mais tecnológico e eficiente!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Analisar documentações técnicas e, quando necessário, refinar requisitos com o cliente e área de negócio
-</li><li>
-Estimar e planejar atividades junto ao time
-</li><li>
-Desenvolver e manter APIs REST para aplicações web e mobile
-</li><li>
-Atuar na identificação e correção de bugs em produção
-</li><li>
-Implementar melhorias contínuas nas aplicações
-</li><li>
-Participar de code reviews, contribuindo com a qualidade do código
-</li><li>
-Colaborar com o time no suporte técnico e troca de conhecimento</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com C# e .NET (Core / .NET 6+)
-</li><li>
-Conhecimento em construção de APIs REST
-</li><li>
-Bons conhecimentos em Programação Orientada a Objetos (POO)
-</li><li>
-Conhecimento em Entity Framework Core
-</li><li>
-Experiência com SQL Server ou Postgres
-</li><li>
-Conhecimento em Git para controle de versão
-</li><li>
-Experiência com testes unitários (ex: xUnit)
-</li><li>
-Noções de CI/CD (Azure DevOps é um diferencial)
-</li><li>
-Familiaridade com Docker
-</li><li>
-Conhecimento em boas práticas de código (Clean Code e princípios SOLID)</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mblabs/62/desenvolvedor-back-end-net-pl]]></applyUrl>
-    <companyId><![CDATA[9311532]]></companyId>
-    <city><![CDATA[Campinas]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[50360542-48fa-4aa1-8672-852c6fdb64e7]]></partnerJobId>
     <company><![CDATA[MB Labs]]></company>
     <title><![CDATA[Quality Assurance Lead]]></title>
@@ -80974,6 +81006,33 @@ Disponibilidade para atuar presencialmente.</li>]]></description>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[34d23485-9602-41db-86c7-9b0af69fe7fe]]></partnerJobId>
+    <company><![CDATA[Escola Beit Yaacov]]></company>
+    <title><![CDATA[JOVEM APRENDIZ INSPETORIA (MANHÃ/TARDE)]]></title>
+    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Jovem Aprendiz para integrar nossa equipe de Inspetoria! Se você é responsável, proativo(a), gosta de trabalhar em equipe e deseja iniciar sua trajetória profissional em um ambiente educacional, essa pode ser a sua oportunidade. O(a) aprendiz irá apoiar a rotina escolar, contribuindo para a organização dos espaços, orientação dos alunos e suporte às demandas do dia a dia, desenvolvendo habilidades profissionais em um ambiente acolhedor e formativo. Venha aprender e crescer com a gente! <br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Ajudar na entrada dos alunos, recepcionando e encaminhando os mesmos às salas de aula;Ajudar na saída dos alunos, encaminhando os mesmos aos pais ou responsáveis;<br />Inspecionar corredores e orientar os alunos na ida ao banheiro, troca de salas e aulas específicas;<br />Encaminhar os alunos, quando saem antecipadamente, aos respectivos responsáveis;<br />Acompanhar os alunos nos lanches e almoço, no refeitório;<br />Acompanhar os alunos à enfermaria;<br />Ajudar na organização das recreações dos plays e almoços;<br />Ajudar nas entregas para alunos e professores, vindo dos pais, secretaria e outros.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/63/jovem-aprendiz-inspetoria-manha-tarde]]></applyUrl>
+    <companyId><![CDATA[1336374]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1142.33]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1142.33]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[d46ac572-f971-454c-a71f-d4131e9e0380]]></partnerJobId>
     <company><![CDATA[Escola Beit Yaacov]]></company>
     <title><![CDATA[ASSISTENTE DE ENSINO - ENSINO FUNDAMENTAL II (MATEMÁTICA) - 40 Horas]]></title>
@@ -86764,53 +86823,6 @@ Pacote Office intermediário</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[a537d4f1-e73d-4254-be23-48f6192f2a67]]></partnerJobId>
-    <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Supervisor de produção Noturno]]></title>
-    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar no monitoramento e apoio ao gerente de produção, garantindo que os processos de fabricação cumpram as metas de produção, qualidade e prazos estabelecidos; orientar as equipes; controlar atividades; registrar dados SCF; e assegurar que os padrões da empresa sejam seguidos, promovendo a melhoria contínua.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Dar suporte ao Gerente de Produção (Fluxo de produção e direcionamento de mão de obra, controle de materiais, ferramentas e orientações gerais);</li><li>Dar suporte ao setor (Treinamento, Controle de ferramentas e EPI, disponibilidade de documento e segurança);</li><li>Garantir produtividade (Orientar equipe pelo tempo previsto da tarefa e cobrar entrega controlando gargalos);</li><li>Garantir o processo (Controle de SCF, realização do procedimento e padrão de qualidade);</li><li>Orientar conduta do colaborador (Orientar sobre horários, ambiente de trabalho e motivação);</li><li>Realizar atividades operacionais/produtiva - Pode eventualmente na ausência do operadores ou sempre que necessário, assumir as atividades do setor, bem como executar as atividades junto aos colaboradores em função de acumulo de trabalhos, remanejamentos, faltas ou atrasos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />..]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/57/supervisor-de-producao-noturno]]></applyUrl>
-    <companyId><![CDATA[2693346]]></companyId>
-    <city><![CDATA[Lagoa Santa]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[fca23a25-f91f-4555-93a2-7f5f26fbaf3f]]></partnerJobId>
-    <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Coordenador de Compras e comex]]></title>
-    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Coordenador(a) para liderar as estratégias de compras e operações internacionais, garantindo eficiência, competitividade e compliance na cadeia de suprimentos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Liderar sourcing estratégico e negociações com fornecedores nacionais e internacionais<br />
-• Coordenar operações de importação e exportação<br />
-• Desenvolver estratégias de redução de custos e mitigação de riscos<br />
-• Gerenciar fornecedores, parceiros logísticos e processos aduaneiros<br />
-• Monitorar KPIs de procurement e performance logística<br />
-• Atuar de forma integrada com áreas internas (engenharia, operações, financeiro, etc.)<br /><br /><b>Requisitos e qualificações</b><br /><br />✔ Ensino superior em áreas correlatas<br />
-✔ Experiência sólida em Procurement e Comércio Exterior<br />
-✔ Conhecimento em Incoterms e logística internacional<br />
-✔ Inglês avançado<br />
-✔ Experiência com ERP]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/54/coordenador-de-compras-e-comex]]></applyUrl>
-    <companyId><![CDATA[2693346]]></companyId>
-    <city><![CDATA[Lagoa Santa]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[ff4ca3a7-0e33-43b5-921a-8a5b328e4d2c]]></partnerJobId>
     <company><![CDATA[VMI Security]]></company>
     <title><![CDATA[Analista de inteligência de compras]]></title>
@@ -87137,6 +87149,25 @@ Inglês intermediário.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[14fae825-1cf4-4830-9959-27a9285de109]]></partnerJobId>
+    <company><![CDATA[VMI Security]]></company>
+    <title><![CDATA[Analista de Inteligência de Mercado II (Bilíngue)]]></title>
+    <posterEmail><![CDATA[rizia.paula@vmis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por coletar, estruturar e interpretar dados de mercado, clientes e oportunidades, apoiando as áreas Comercial, Marketing e Produto na geração de leads qualificados, expansão de mercado e aumento de performance nos cenários nacional e internacional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir análises de mercado, concorrência, segmentos e clientes potenciais</li><li>Extrair, tratar e integrar dados de múltiplas fontes (ZoomInfo, bases públicas, associações setoriais, CRM, etc.)</li><li>Construir listas segmentadas com empresas-alvo, decisores e influenciadores técnicos</li><li>Aplicar critérios de qualificação (ICP – Ideal Customer Profile) e desenvolver lead scoring</li><li>Estruturar estudos de mercado (TAM, SAM, SOM)</li><li>Desenvolver dashboards executivos, relatórios gerenciais e análises estratégicas</li><li>Garantir governança, qualidade e integridade das bases de dados</li><li>Preparar e manter dados no CRM (Zoho CRM)</li><li>Apoiar SDRs na correta utilização dos dados e estruturar padrões/taxonomias no CRM</li><li>Monitorar tendências de mercado e movimentos da concorrência</li><li>Participar de projetos estratégicos multidisciplinares</li><li>Construir e acompanhar KPIs comerciais</li><li>Apresentar análises e recomendações para liderança</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação completa em: Administração, Engenharia, Estatística, Economia, Marketing ou áreas correlatas.</li></ul><br /><br /><br />Necessário:<br /><ul><li>Excel ou Google Sheets avançado</li><li>Análise e manipulação de dados</li><li>Construção de relatórios gerenciais</li><li>Conceitos de funil de vendas e jornada do cliente</li><li>Inglês avançado ou fluente</li><li>Experiência com CRM (preferencialmente CRM de vendas) Ex: Zoho.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/40/analista-de-inteligencia-de-mercado-ii-bilingue]]></applyUrl>
+    <companyId><![CDATA[2693346]]></companyId>
+    <city><![CDATA[Lagoa Santa]]></city>
+    <state><![CDATA[MG]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[3f2e4506-f8ca-4ce8-a398-2c038d15089f]]></partnerJobId>
     <company><![CDATA[VMI Security]]></company>
     <title><![CDATA[Analista de Processos de Controles Internos II]]></title>
@@ -87232,92 +87263,6 @@ Executar as atividades conforme normas, procedimentos internos, políticas de qu
 <li>
 Executar outras atividades correlatas.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo ou cursando Administração, Direito, Comércio Exterior e afins;</li><li>Legislação relativa a licitação;			</li><li>Pacote Office nível intermediário;</li><li>Inglês avançado ou fluente.	</li></ul><br />	<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/31/analista-de-licitacao-ii-bilingue]]></applyUrl>
-    <companyId><![CDATA[2693346]]></companyId>
-    <city><![CDATA[Lagoa Santa]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3c1f7885-4a21-43f7-b2fe-4f2454b675a9]]></partnerJobId>
-    <company><![CDATA[VMI Security]]></company>
-    <title><![CDATA[Inspetor Técnico]]></title>
-    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Executar a manutenção nos componentes
-  eletrônicos, visando a garantir sua integridade e adequado funcionamento,
-  dentro das normas e procedimentos estabelecidos. Realizar inspeção da
-  qualidade de componentes/ materiais e produtos, a fim de avaliá-los de acordo
-  com os procedimentos estabelecidos, realizar tratativa de não conformidades,
-  a fim de gerar análises que busquem a tratativa e melhoria dos produtos e
-  processos para garantia dos padrões de segurança, qualidade, produtividade e
-  satisfação dos clientes internos e externos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar reparos e testes em placas eletrônicas, equipamentos de raio-X e componentes eletroeletrônicos.
-</li>
-<li>
-Inspecionar materiais e produtos (recebimento e produto acabado), garantindo conformidade.
-</li>
-<li>
-Registrar inspeções e emitir relatórios técnicos de não conformidades e melhorias.
-</li>
-<li>
-Avaliar e tratar itens não conformes (reparo, garantia ou fornecedores).
-</li>
-<li>
-Executar ensaios, medições e testes de qualidade conforme especificações técnicas.
-</li>
-<li>
-Elaborar relatórios técnicos com diagnóstico e solução de falhas.
-</li>
-<li>
-Interagir com fornecedores para resolução de problemas e acompanhamento de reparos.
-</li>
-<li>
-Controlar estoque de materiais não conformes (físico e sistêmico).
-</li>
-<li>
-Realizar cadastros e movimentações no sistema (compras, vendas e tratativas).
-</li>
-<li>
-Criar e revisar documentos, procedimentos e controles da área.
-</li>
-<li>
-Realizar calibração e validação de equipamentos para venda/locação.
-</li>
-<li>
-Garantir organização, limpeza e conservação do ambiente e equipamentos.
-</li>
-<li>
-Cumprir normas de qualidade, segurança do trabalho, meio ambiente e compliance.
-</li>
-<li>
-Apoiar a liderança e executar atividades correlatas conforme necessidade.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Técnico em Eletrônica, Técnico Mecatrônica ou Técnico em Elétrica e áreas afins.<br /></li></ul><br /><br />Conhecimentos técnicos essenciais
-<ul>
-<li>
-Reparo de placas eletrônicas
-</li>
-<li>
-Eletrônica intermediária
-</li>
-<li>
-Leitura e interpretação de esquemas elétricos
-</li>
-<li>
-Informática (instalação e configuração de softwares)
-</li>
-<li>
-Pacote Office intermediário
-</li>
-<li>
-NR-10
-</li>
-<li>
-Inglês técnico</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/25/inspetor-tecnico]]></applyUrl>
     <companyId><![CDATA[2693346]]></companyId>
     <city><![CDATA[Lagoa Santa]]></city>
     <state><![CDATA[MG]]></state>
@@ -88974,6 +88919,25 @@ Na VMZ Viagens, vender não é empurrar produto — é entender o cliente, const
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[86a836e9-101e-4ec3-b0e6-b55a57b59275]]></partnerJobId>
+    <company><![CDATA[Empório Alex]]></company>
+    <title><![CDATA[Auxiliar de loja - Loja 21 Corinthians]]></title>
+    <posterEmail><![CDATA[ea.rh1@emporioalex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conosco<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/31/auxiliar-de-loja-loja-21-corinthians]]></applyUrl>
+    <companyId><![CDATA[101451561]]></companyId>
+    <city><![CDATA[Campinas]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4984a94f-eae9-4892-ae59-bdac0a6e7c69]]></partnerJobId>
     <company><![CDATA[Empório Alex]]></company>
     <title><![CDATA[Auxiliar de Loja - Loja 16 Corinthians]]></title>
@@ -89050,6 +89014,25 @@ Na VMZ Viagens, vender não é empurrar produto — é entender o cliente, const
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[28dfbd86-1a85-4d4b-b7fa-ba0bdb6d1e88]]></partnerJobId>
+    <company><![CDATA[Empório Alex]]></company>
+    <title><![CDATA[Auxiliar de loja - Loja 64]]></title>
+    <posterEmail><![CDATA[ea.rh1@emporioalex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conosco<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/35/auxiliar-de-loja-loja-64]]></applyUrl>
+    <companyId><![CDATA[101451561]]></companyId>
+    <city><![CDATA[Sorocaba]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[99d75abc-f20a-4636-8ed8-6ec0e64f25a1]]></partnerJobId>
     <company><![CDATA[Empório Alex]]></company>
     <title><![CDATA[Auxiliar de loja - Loja 30]]></title>
@@ -89069,11 +89052,49 @@ Na VMZ Viagens, vender não é empurrar produto — é entender o cliente, const
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[e8a3e22f-0538-4d10-b879-6e5a545febf5]]></partnerJobId>
+    <company><![CDATA[Empório Alex]]></company>
+    <title><![CDATA[Auxiliar de loja - Loja 66]]></title>
+    <posterEmail><![CDATA[ea.rh1@emporioalex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conosco<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/36/auxiliar-de-loja-loja-66]]></applyUrl>
+    <companyId><![CDATA[101451561]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[75ec4744-8197-4e7f-af1a-01bf7298ee51]]></partnerJobId>
+    <company><![CDATA[Empório Alex]]></company>
+    <title><![CDATA[Auxiliar de loja - Loja 62]]></title>
+    <posterEmail><![CDATA[ea.rh1@emporioalex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conosco<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/34/auxiliar-de-loja-loja-62]]></applyUrl>
+    <companyId><![CDATA[101451561]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[edb182c1-ffc6-4b45-b76c-e7f1c3a5cd22]]></partnerJobId>
     <company><![CDATA[Empório Alex]]></company>
     <title><![CDATA[Auxiliar de loja - Loja 17 Corinthians]]></title>
     <posterEmail><![CDATA[ea.rh1@emporioalex.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conos<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conosco<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/30/auxiliar-de-loja-loja-17-corinthians]]></applyUrl>
     <companyId><![CDATA[101451561]]></companyId>
     <city><![CDATA[São Paulo]]></city>
@@ -89322,6 +89343,44 @@ Na VMZ Viagens, vender não é empurrar produto — é entender o cliente, const
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/26/auxiliar-de-loja-loja-06-corinthians]]></applyUrl>
     <companyId><![CDATA[101451561]]></companyId>
     <city><![CDATA[Guarulhos]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[8316244c-77e8-4ca9-9db0-824e8b668598]]></partnerJobId>
+    <company><![CDATA[Empório Alex]]></company>
+    <title><![CDATA[Auxiliar de loja - Loja 18]]></title>
+    <posterEmail><![CDATA[ea.rh1@emporioalex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conosco<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/33/auxiliar-de-loja-loja-18]]></applyUrl>
+    <companyId><![CDATA[101451561]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b6f61fa7-503d-444f-a742-e86b9690a247]]></partnerJobId>
+    <company><![CDATA[Empório Alex]]></company>
+    <title><![CDATA[Auxiliar de vaga - Loja 26 Corinthians]]></title>
+    <posterEmail><![CDATA[ea.rh1@emporioalex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conosco<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/32/auxiliar-de-vaga-loja-26-corinthians]]></applyUrl>
+    <companyId><![CDATA[101451561]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
