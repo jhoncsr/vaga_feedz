@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Mon, 27 Apr 2026 16:14:39 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 27 Apr 2026 17:14:34 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3374]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3364]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -10760,25 +10760,6 @@ Com foco em qualidade de código, colaboração e inovação. Buscamos alguém c
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a967977a-f1db-420c-921f-7e6d57b56eaf]]></partnerJobId>
-    <company><![CDATA[SMAR APD]]></company>
-    <title><![CDATA[Analista de Suporte Junior | PM Cubatão]]></title>
-    <posterEmail><![CDATA[jessica.pavan@smarapd.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Se você é um profissional que gosta de trabalhar com pessoas, é pró-ativo e busca se desenvolver em uma área em constante crescimento, aqui é o seu lugar. #vemserSMARAPDteam</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento ao cliente para esclarecimento de dúvidas e abertura de chamados para solução de problemas</li><li>Realizar treinamento de usuários do sistema</li><li>Elaboração de manuais</li><li>Acompanhar implantações</li><li>Realizar testes para identificação de falhas e erros do sistema</li><li>Atuação presencial (in loco) no cliente – <b>Prefeitura de Cubatão-SP</b></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Superior Cursando ou Completo em Administração, Recursos Humanos, Contabilidade.</strong><ul><li>Conhecimento em calculo de Folha de Pagamento</li><li>Rotinas de Departamento Pessoal </li></ul><b><br /></b><strong>Diferenciais:</strong><ul><li>Técnicas de Atendimento ao Cliente</li><li>Boa comunicação</li></ul><br /><br /><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/smarapdvagas/112/analista-de-suporte-junior-pm-cubatao]]></applyUrl>
-    <companyId><![CDATA[2563455]]></companyId>
-    <city><![CDATA[Cubatão]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[334ee181-a5a5-457b-a965-0775348cca7b]]></partnerJobId>
@@ -22495,27 +22476,6 @@ Proatividade, agilidade, atenção à segurança e capacidade para trabalho em e
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[3e9a75dd-d88c-4c13-b108-d2249743eacc]]></partnerJobId>
-    <company><![CDATA[V8.Tech]]></company>
-    <title><![CDATA[Especialista em Control-M]]></title>
-    <posterEmail><![CDATA[jonatas.ribeiro@v8.tech]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Especialista em Control-M, apaixonado(a) por tecnologia e desafios, para liderar um assessment detalhado da malha de automação batch e event-driven, identificando riscos, oportunidades de melhoria e pontos de atenção. Além do assessment, você será responsável por propor, implementar e apoiar continuamente práticas robustas de sustentação, atuando lado a lado com o time de Negócios na evolução e na estabilidade do ambiente. Se você deseja contribuir de forma significativa, acredita no poder da colaboração e quer garantir a confiabilidade e a continuidade dos fluxos automatizados, essa oportunidade é para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Revisar e diagnosticar a malha de jobs batch e event-driven, avaliando agendamentos, calendários, dependências, janelas batch, SLAs, integrações e governança.</li><li>Conduzir assessment técnico e de processo fim-a-fim, com documentação detalhada, recomendações de melhorias e plano de ação priorizado.</li><li>Mapear e inventariar todos os jobs nos ambientes de Produção, Homologação e Desenvolvimento, reunindo informações essenciais (nome, domínio, sistema, responsável, frequência, duração, SLA etc.).</li><li>Levantar e analisar estrutura de dependências (condições IN/OUT, dependências cruzadas, variáveis, recursos).</li><li>Identificar e documentar os componentes técnicos associados: scripts (Shell, Python, SQL), pacotes ETL, pipelines CI/CD, repositórios e versionamento.</li><li>Avaliar a integração e orquestração entre Control-M, ETL, Data Lake, APIs, mensageria/event triggers e eventuais outros schedulers.</li><li>Analisar histórico operacional, falhas, reprocessamentos, jobs long-running e incidentes.</li><li>Avaliar e propor melhorias em mecanismos de resiliência, incluindo estratégias de retry, backoff, compensação e políticas automáticas de correção.</li><li>Propor boas práticas e ajustes para sustentação do ambiente: monitoração pró-ativa, tratamento de incidentes, definição de runbooks, automação de processos de suporte e gestão de capacity.</li><li>Mapear arquitetura e topologia da solução, incluindo distribuição dos agents e arquitetura dos componentes Control-M (Server, EM).</li><li>Avaliar capacidade, performance, throughput da malha e identificar pontos de contenção.</li><li>Analisar políticas de alerta e escalonamento técnico, automação de correção e estratégias de continuidade (DR/BCP).</li><li>Avaliar segurança operacional: segregação de funções, gestão de credenciais, Vault de Secrets, trilha de auditoria, aderência a políticas (incluindo LGPD).</li><li>Apoiar a melhoria contínua da sustentação, sugerindo ações para redução de incidentes, padronização, versionamento e atualização contínua dos artefatos de suporte.</li><li>Avaliar governança: CAB, nomenclatura, ownership de jobs, runbooks, processos ITIL/SRE.</li><li>Avaliar observabilidade: métricas, logs, tracing, dashboards, baseline de execução, alertas de SLA/SLO.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Sólida experiência comprovada em <b>Control-M (on-prem ou Cloud-SaaS)</b>, 
-abrangendo administração, troubleshooting, integração, automação e 
-sustentação.</li><li>Vivência em ambientes críticos de produção, atuando na sustentação da saúde operacional e suporte de segundo/terceiro nível.</li><li>Experiência em diagnóstico e assessment de malhas complexas, performance, arquitetura e estabilidade.</li><li>Domínio em scripts (Shell, Python, SQL), integração com ETL, CI/CD, Data Lake, APIs.</li><li>Conhecimento em práticas SRE/ITIL, gestão de incidentes, capacity planning e automação de processos operacionais.</li><li>Experiência na análise e documentação de cenários complexos e proposição estruturada de melhorias.</li><li>Capacidade de liderar reuniões técnicas e interações de sustentação com times multidisciplinares.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/545/especialista-em-control-m]]></applyUrl>
-    <companyId><![CDATA[1]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[a9b091d6-589b-4f0c-b47e-17686765cf5c]]></partnerJobId>
     <company><![CDATA[V8.Tech]]></company>
     <title><![CDATA[Desenvolvedor(a) Engenheiro(a) de IA SR]]></title>
@@ -22712,25 +22672,6 @@ Conhecimento em governança, qualidade e segurança de dados.</li></ul>]]></desc
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[50393591-bcc9-4c23-a433-be2d93b09414]]></partnerJobId>
-    <company><![CDATA[V8.Tech]]></company>
-    <title><![CDATA[Product Owner SR (Data Analytics)]]></title>
-    <posterEmail><![CDATA[marcelo.chacon@v8.tech]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você atuará estrategicamente como Product Owner da Squad de Data Analytics. Seu foco será transformar as necessidades de negócio em produtos de dados reais: pipelines de dados escaláveis, modelos analíticos precisos e dashboards confiáveis. Trabalhando sobre uma infraestrutura em nuvem (Google), seu desafio é garantir que a alta volumetria de dados gerado pelo cliente e relacionado ao mercado musical (direitos autorais, arrecadação, distribuição) seja processada com qualidade, gerando inteligência e resultados concretos para a organização.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gestão do Backlog de Analytics: Gerenciar e priorizar o backlog da Squad de Analytics, focando na construção de pipelines de dados, modelos analíticos, métricas padronizadas e dashboards.</li><li>Facilitação Negócio vs. Engenharia: Atuar como a principal ponte entre as áreas de negócio e o time de Engenharia de Dados/Analytics.</li><li>Definição de Produtos de Dados: Escrever épicos e histórias de usuário detalhadas, traduzindo regras complexas de negócio em requisitos claros para o processamento de dados.</li><li>Garantia de Qualidade e Confiabilidade: Garantir que os dados disponibilizados em produção sejam íntegros, confiáveis e prontos para consumo, sabendo que a precisão é fundamental para o repasse correto de direitos autorais.</li><li>Gestão de Dependências Técnicas: Atuar em forte parceria com a Squad de Arquitetura/Plataforma, alinhando e solicitando os recursos de infraestrutura e padrões técnicos necessários para que sua squad possa desenvolver e escalar as soluções.</li><li>Discovery de Dados Contínuo: Entender a fundo os problemas dos usuários internos, investigando como os dados podem resolver dores de negócio (ex: redução de retenção de valores, identificação mais rápida de músicas tocadas nas plataformas de áudio/vídeo).</li><li>Métricas e Adoção: Definir e acompanhar as métricas de sucesso dos produtos de dados entregues (engajamento de dashboards, tempo de processamento, índice de qualidade de dados), garantindo a evolução contínua da plataforma de consumo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência mínima de 5 anos como Product Owner, atuando diretamente com Engenharia de Dados, Analytics ou Produtos de Dados.</li><li>Domínio de metodologias ágeis e frameworks de priorização, com foco em entregas iterativas e incremento de valor.</li><li>Conhecimento conceitual prático em Engenharia de Dados e Big Data: entendimento de pipelines, modelagem de dados, bancos de dados relacionais/não relacionais, e ferramentas de visualização.</li><li>Familiaridade com o ecossistema analítico do Google Cloud Platform (GCP) (ex: BigQuery, Dataflow, Looker, Vertex AI), compreendendo o que a tecnologia pode oferecer para solucionar problemas de negócio.</li><li>Excelente capacidade de comunicação para negociar dependências técnicas com times de infraestrutura e traduzir termos técnicos para executivos de negócio.</li><li>Vivência com métricas de produto e tomada de decisão orientada por dados.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/560/product-owner-sr-data-analytics]]></applyUrl>
-    <companyId><![CDATA[1]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[26bc807a-92d0-4cf8-a1b5-0f5979d386ff]]></partnerJobId>
     <company><![CDATA[V8.Tech]]></company>
     <title><![CDATA[SRE Senior]]></title>
@@ -22908,25 +22849,6 @@ liderança para conduzir equipes em jornadas de transformação digital.<br /><b
      da Computação, Engenharia de Software ou áreas correlatas.</li>
 </ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/552/tech-lead-net-modernizacao]]></applyUrl>
-    <companyId><![CDATA[1]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[16de31b7-a62b-4175-928f-9975a7322ef1]]></partnerJobId>
-    <company><![CDATA[V8.Tech]]></company>
-    <title><![CDATA[Desenvolvedor(a) Front-end PL (React)]]></title>
-    <posterEmail><![CDATA[marcelo.chacon@v8.tech]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Desenvolvedor(a) Front-end SR com foco em <strong>React 18+</strong>, que tenha sólida experiência em projetos escaláveis, modernos e de alta performance. Se você é apaixonado(a) por tecnologia, tem visão de produto, gosta de trabalhar em equipe e está sempre em busca de inovação, essa vaga é pra você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Experiência comprovada em desenvolvimento front-end, com atuação em arquitetura de micro-frontends.</li><li>Desenvolver interfaces modernas, reutilizáveis e performáticas com React 18+, Hooks e Context API.</li><li>Escrever código limpo, escalável e bem documentado utilizando <strong>TypeScript</strong> em nível avançado.</li><li>Trabalhar com equipes ágeis (Scrum/Kanban), contribuindo para entregas contínuas e colaborativas.</li><li>Garantir a integração eficiente com APIs RESTful, incluindo autenticação via <strong>MSAL (Microsoft Authentication Library)</strong>.</li><li>Aplicar boas práticas de versionamento usando Git com Git Flow e convenções de branches.</li><li>Configurar e manter ambientes de build e deploy, especialmente via <strong>Azure Artifacts</strong>.</li><li>Aplicar padrões de linting, formatação e scaffolding utilizando ferramentas como <strong>ESLint</strong>, <strong>Prettier</strong> e <strong>react-scaffolding</strong>.</li><li>Contribuir com a documentação e versionamento do Design System.</li><li>Colaborar na implementação de testes automatizados com <strong>Jest</strong>, <strong>Testing Library</strong> e <strong>Cypress</strong> (desejável).</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><strong>Linguagens e Frameworks:</strong></li><li>React 18+ (com Hooks e Context API)</li><li>TypeScript (nível avançado)</li><li>HTML5, CSS3, JavaScript (ES6+)</li></ul><strong>Gerenciamento de Pacotes:</strong><br /><ul><li>yarn (para desenvolvimento)</li><li>npm (para publicação, especialmente via Azure Artifacts)</li></ul><strong>Integração com APIs:</strong><br /><ul><li>APIs RESTful</li><li>MSAL (Microsoft Authentication Library)</li></ul><strong>Controle de Versão:</strong><br /><ul><li>Git com Git Flow</li><li>Nomeação de branches (feat/, bug/, fix/, etc.)</li><li>Husky para hooks de commit</li></ul><strong>Build e Deploy:</strong><br /><ul><li>Publicação via Azure Artifacts</li><li>Configuração de .npmrc e variáveis de ambiente (ex: NPM_CONFIG_NPMRC_PASSWORD)</li></ul><strong>Ferramentas e Convenções:</strong><br /><ul><li>react-scaffolding</li><li>ESLint e Prettier</li><li>Documentação e versionamento do Design System</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/v8carreira/542/desenvolvedor-a-front-end-pl-react]]></applyUrl>
     <companyId><![CDATA[1]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -38753,25 +38675,6 @@ O objetivo principal da função é <strong>auxiliar na instalação, manutenç�
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[11b2053f-aafd-4b6e-9001-e1f598540f15]]></partnerJobId>
-    <company><![CDATA[PP&C]]></company>
-    <title><![CDATA[Assistente Contábil - São Paulo]]></title>
-    <posterEmail><![CDATA[fl.marin@ppc.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><strong>Vem ser PP&amp;C! Faça parte do time Contábil - BPO</strong> e tenha acesso à um ambiente com suporte para desenvolvimento e crescimento de sua carreira, com oportunidades iguais no emprego, independentemente de raça, cor, religião, sexo, orientação sexual, nacionalidade, estado civil ou deficiência. A PP&amp;C acredita que um ambiente que valoriza as diferenças individuais e que encoraja a contribuição total de cada pessoa profissional, cria uma empresa mais forte.<br /><br /><b>Confira abaixo os detalhes da oportunidade: </b><br /><ul><li>Horário de trabalho: segunda a quinta das 08h00 às 18h00 e sexta-feira das 08h00 às 17h00; </li><li>Modelo: híbrido; </li><li>Local: Região da Barra Funda.</li></ul><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Elaboração de books de conciliações;</li><li>Conciliações de contas patrimoniais;</li><li>Análise vertical x horizontal de resultados;</li><li>Elaboração das obrigações acessórias; e</li><li>Atendimento ao cliente.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo ou cursando em Ciências Contábeis;</li><li>Sólidos conhecimentos nas rotinas contábeis;</li><li>Conhecimento intermediário em Excel;</li><li>Proativo(a);</li><li>Dinâmico(a); e</li><li>Estar em busca de novos desafios.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreiranappc/43/assistente-contabil-sao-paulo]]></applyUrl>
-    <companyId><![CDATA[1013280]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[52a0a6ca-4eb2-4187-8177-c200df52171a]]></partnerJobId>
     <company><![CDATA[PP&C]]></company>
     <title><![CDATA[Consultor(a) Sênior - Auditoria Interna, Gestão de Riscos e Compliance - São Paulo]]></title>
@@ -48161,32 +48064,6 @@ em mecânica ou áreas correlatas.<br /><br />]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[fb60842a-4d75-48bb-bb59-7b78921ae58f]]></partnerJobId>
-    <company><![CDATA[Cerradão]]></company>
-    <title><![CDATA[Analista de Qualidade]]></title>
-    <posterEmail><![CDATA[lmacedo@usinacerradao.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa apaixonada por garantir a excelência em processos e produtos? Temos uma oportunidade empolgante esperando por você! Nossa equipe valoriza a dedicação e o comprometimento, oferecendo um ambiente colaborativo, onde ideias são sempre bem-vindas e o aprendizado é contínuo. Ao integrar nosso time, você terá a chance de participar de projetos desafiadores que impactam diretamente a qualidade dos nossos serviços. Valorizamos a inovação e a criatividade, proporcionando um espaço onde cada contribuição é reconhecida. Se você está em busca de desenvolver sua carreira em uma empresa que investe no crescimento profissional e na valorização de talentos, venha nos conhecer. Junte-se a nós e faça parte de uma trajetória de sucesso e crescimento!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Apoiar na execução e monitoramento de atividades
-relacionadas à garantia da qualidade , assegurando o cumprimento de normas, indicadores e ações
-estratégicas estabelecidas. Contribuir na implementação e controle de sistemas
-de qualidade, auditorias, avaliação de clientes e gerenciamento de desvios,
-promovendo a conformidade com padrões internacionais, como ISO 9001, FSSC
-(Açúcar), GMP+ (Levedura) e BONSUCRO.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino
-superior em Engenharia de Produção, Engenharia de Alimentos, Administração ou
-áreas correlatas (completo ou em andamento).]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cerradaovagas/302/analista-de-qualidade]]></applyUrl>
-    <companyId><![CDATA[3364231]]></companyId>
-    <city><![CDATA[Frutal]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[1adc97cd-6456-4478-9852-8337ed29ca8c]]></partnerJobId>
     <company><![CDATA[Cerradão]]></company>
     <title><![CDATA[Técnico de Automação Agricola]]></title>
@@ -56823,59 +56700,6 @@ Registro ativo na OAB.</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[3ce44f45-2404-4fb6-ab21-8a144e0d0ad7]]></partnerJobId>
-    <company><![CDATA[BRAM OFFSHORE]]></company>
-    <title><![CDATA[Técnico em Automação III]]></title>
-    <posterEmail><![CDATA[natalie.freitas@chouest.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Técnico(a) em Automação III para atuar na manutenção e confiabilidade dos sistemas de automação, assegurando o correto funcionamento de máquinas, equipamentos e processos industriais em ambiente operacional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Manutenção de sistemas de automação e supervisório de máquinas;</li>
-<li>
-Diagnóstico e investigação de falhas e eventos;</li>
-<li>
-Parametrização de máquinas, inversores e válvulas;</li>
-<li>
-Atuação em sistemas de instrumentação e acionamentos;</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Técnico em Automação ou Superior Completo em Engenharia de Automação;</li><li>Inglês Intermediário (técnico);</li><li>Disponibilidade para trabalhar presencialmente no Porto do Açú;</li><li>Disponibilidade para viagens;</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/183/tecnico-em-automacao-iii]]></applyUrl>
-    <companyId><![CDATA[5672510]]></companyId>
-    <city><![CDATA[São João da Barra]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b6284c16-26d8-4915-be5f-44a3b4fdb41b]]></partnerJobId>
-    <company><![CDATA[BRAM OFFSHORE]]></company>
-    <title><![CDATA[Técnico em Eletrônica III]]></title>
-    <posterEmail><![CDATA[natalie.freitas@chouest.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Técnico(a) em Eletrônica III para atuar na manutenção e suporte técnico de sistemas eletrônicos críticos, especialmente sistemas de navegação, contribuindo para a segurança e eficiência das operações.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Executar manutenção corretiva e preventiva em sistemas eletrônicos;
-</li>
-<li>
-Atuar em sistemas de navegação e Posicionamento Dinâmico (DP);
-</li>
-<li>
-Diagnosticar falhas em sensores e sistemas integrados;
-</li>
-<li>
-Apoiar análises técnicas e investigações de eventos;</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Técnico em Eletrônica ou Superior Completo em Engenharia Eletrônica;</li><li>Inglês Intermediário (técnico);</li><li>Disponibilidade para trabalhar presencialmente no Porto do Açú/RJ;</li><li>Disponibilidade para viagens;</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/184/tecnico-em-eletronica-iii]]></applyUrl>
-    <companyId><![CDATA[5672510]]></companyId>
-    <city><![CDATA[São João da Barra]]></city>
-    <state><![CDATA[RJ]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[646fcc53-b142-4654-875e-f35cd5f6d4fb]]></partnerJobId>
     <company><![CDATA[BRAM OFFSHORE]]></company>
     <title><![CDATA[Técnico em Segurança do Trabalho II]]></title>
@@ -60673,10 +60497,10 @@ Apoiar rotinas administrativas e operacionais do setor.</li><br /><br /><b>Requi
   <job>
     <partnerJobId><![CDATA[373a2479-aff6-4bb5-b891-97ba839a198d]]></partnerJobId>
     <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
-    <title><![CDATA[SUPERVISOR DE AUDITORIA | CADASTRO RESERVA]]></title>
+    <title><![CDATA[COORDENADOR DE FATURAMENTO | CADASTRO RESERVA]]></title>
     <posterEmail><![CDATA[talita.cerqueira@labcmi.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><br />Estamos com oportunidade de cadastro reserva aberta para <b>Supervisor(a) de Auditoria</b> e buscamos um(a) profissional com perfil analítico e de liderança para atuar na gestão das atividades e processos de auditoria. Se você tem foco em resultados, habilidade na condução de equipes, organização e boa comunicação, essa pode ser a oportunidade ideal para você.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Supervisionar as auditorias internas de faturamento, assegurando a efetividade dos processos de verificação;</li><li>Estabelecer cronogramas e metodologias de auditoria, definindo as áreas e os processos a serem auditados;</li><li>Avaliar a conformidade dos registros de faturamento com as normas e diretrizes internas e externas;</li><li>Identificar inconsistências, fraudes e oportunidades de melhoria nos processos de faturamento;</li><li>Elaborar relatórios detalhados sobre os resultados das auditorias, apresentando não conformidades e recomendações para melhorias;</li><li>Apresentar os resultados das auditorias para a alta administração e propor planos de ação corretivos.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Superior em Enfermagem.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmicarreira/3877/supervisor-de-auditoria-cadastro-reserva]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br /><br />Estamos com oportunidade de cadastro reserva aberta para <b>Coordenador de Faturamento</b> e buscamos um(a) profissional com perfil analítico e de liderança para atuar na gestão das atividades e processos de auditoria. Se você tem foco em resultados, habilidade na condução de equipes, organização e boa comunicação, essa pode ser a oportunidade ideal para você.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Coordenar as auditorias internas de faturamento, assegurando a efetividade dos processos de verificação;</li><li>Estabelecer cronogramas e metodologias de auditoria, definindo as áreas e os processos a serem auditados;</li><li>Avaliar a conformidade dos registros de faturamento com as normas e diretrizes internas e externas;</li><li>Identificar inconsistências, fraudes e oportunidades de melhoria nos processos de faturamento;</li><li>Elaborar relatórios detalhados sobre os resultados das auditorias, apresentando não conformidades e recomendações para melhorias;</li><li>Apresentar os resultados das auditorias para a alta administração e propor planos de ação corretivos.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Superior em Enfermagem.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmicarreira/3877/coordenador-de-faturamento-cadastro-reserva]]></applyUrl>
     <companyId><![CDATA[24910672]]></companyId>
     <city><![CDATA[Salvador]]></city>
     <state><![CDATA[BA]]></state>
@@ -61883,6 +61707,25 @@ Atuar de forma integrada com Marketing, Aplicação, Vendas e Pós-Vendas para m
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f52c9d0c-46b1-4981-bd40-29183c1a34e6]]></partnerJobId>
+    <company><![CDATA[Pensalab]]></company>
+    <title><![CDATA[Aprendiz - Logistica]]></title>
+    <posterEmail><![CDATA[janaina.mattos@pensalab.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Jovem Aprendiz para atuar na área de logística, com foco em atividades de expedição e separação de pedidos. Essa é uma excelente oportunidade para quem deseja iniciar a carreira, desenvolver habilidades operacionais e adquirir conhecimento sobre processos logísticos em um ambiente dinâmico e colaborativo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na separação de produtos conforme pedidos;</li><li>Apoiar na organização e identificação de mercadorias no estoque;</li><li>Conferir itens separados, garantindo quantidade e integridade dos produtos;</li><li>Dar suporte no processo de embalagem e preparação de pedidos para envio;</li><li>Auxiliar na movimentação e armazenamento de materiais;</li><li>Apoiar na organização da área de expedição, mantendo o ambiente limpo e organizado;</li><li>Preencher controles simples e registros de movimentação de mercadorias;</li><li>Seguir normas de segurança e procedimentos internos da empresa;</li><li>Apoiar a equipe de logística em atividades gerais do setor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Idade mínima de 18 anos e máxima de 22 anos.- Ensino médio concluído;<br />- Conhecimentos básicos de informática;<br />- Boa comunicação verbal e escrita;<br />- Interesse em aprender e desenvolver habilidades práticas;<br />- Comprometimento e responsabilidade.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/pensalab/84/aprendiz-logistica]]></applyUrl>
+    <companyId><![CDATA[1204811]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[9b4abec2-c9a4-4d38-8ec9-7b57d407004d]]></partnerJobId>
@@ -68036,49 +67879,6 @@ Boa comunicação e trabalho em equipe</li>]]></description>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[5008bba9-20d5-44e0-9f9f-0796bdd50f5b]]></partnerJobId>
-    <company><![CDATA[eCOMEX]]></company>
-    <title><![CDATA[Executivo de Vendas (SaaS) – eCOMEX]]></title>
-    <posterEmail><![CDATA[lucas.olivato@ecomex.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos buscando um <strong>Executivo de Vendas (SaaS)</strong> para se juntar ao time da eCOMEX. O profissional será responsável por prospectar, qualificar e fechar negócios de soluções tecnológicas voltadas para comércio exterior, trabalhando com clientes corporativos<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Conduzir o ciclo completo de vendas de soluções SaaS;
-</li>
-<li>
-Prospectar e qualificar leads de forma estratégica;
-</li>
-<li>
-Apresentar soluções da eCOMEX e demonstrar valor aos clientes;
-</li>
-<li>
-Negociar contratos e atingir metas comerciais;
-</li>
-<li>
-Colaborar com marketing e Customer Success para maximizar resultados.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência sólida em vendas de soluções SaaS;
-</li>
-<li>
-Habilidade em negociação e relacionamento com clientes B2B;
-</li>
-<li>
-Orientação a resultados e foco em metas;
-</li>
-<li>
-Desejável conhecimento em ferramentas de CRM e prospecção (ex.: LinkedIn, HubSpot, Salesforce);
-</li>
-<li>
-Diferenciais: experiência no setor de comércio exterior ou tecnologia, fluência em inglês ou espanhol, experiência em vendas complexas B2B</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasecomex/31/executivo-de-vendas-saas-ecomex]]></applyUrl>
-    <companyId><![CDATA[147154]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[72fe5555-ee9c-406d-a919-f276f3cd06eb]]></partnerJobId>
     <company><![CDATA[eCOMEX]]></company>
     <title><![CDATA[Programa de Estágio eComex 2026 | Vagas Remotas]]></title>
@@ -69713,7 +69513,7 @@ experiencia em obras rodoviárias;<br />
     <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
     <title><![CDATA[ADMINISTRADOR]]></title>
     <posterEmail><![CDATA[joyce.rh@ctaengenharia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Serviços de acompanhamento de licenças, alvarás, demandas de órgãos públicos, auditorias internas e externas, campanhas de responsabilidade social e planos de comunicação, de acompanhamento às atividades de contratação de bens e serviços e de acompanhamento de ações de Conformidade.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Apoiar as auditorias internas e externas, bem como alimentar sistemas relacionados à conformidade legal; • Apoiar a emissão de alvarás e licenças das Unidades de Tratamento de Gás, tais como Alvarás de Funcionamento emitidos pelas Prefeituras, pela Polícia Federal, dentre outros; • Apoiar e diligenciar o atendimento a demandas relacionadas aos órgãos públicos, bem como demandas internas da Petrobras para pleno atendimento à conformidade legal e aos padrões e normas da Companhia; • Acompanhar, em parceria com a área de integração regional de responsabilidade social da Petrobras, os projetos sociais patrocinados pela Petrobras nas áreas de influência das Unidades de Tratamento de Gás, bem como consolidar e enviar informações solicitadas pela Petrobras relativas à responsabilidade social;<br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><br /><br /><ul><li>Formação: Administração, Ciências Contábeis, Economia, Gestão financeira, Logística, com registro no respectivo Conselho de Classe<br /></li></ul><br /><br /><b>Requisitos:</b><br /><ul><li>Experiência com setor de óleo e gás.</li><li>Conhecimentos intermediários em sistemas integrados de gestão empresarial (SAP ERP e/ou SAP/4 HANA)</li></ul><br /><br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Serviços de acompanhamento de licenças, alvarás, demandas de órgãos públicos, auditorias internas e externas, campanhas de responsabilidade social e planos de comunicação, de acompanhamento às atividades de contratação de bens e serviços e de acompanhamento de ações de Conformidade.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Apoiar as auditorias internas e externas, bem como alimentar sistemas relacionados à conformidade legal; • Apoiar a emissão de alvarás e licenças das Unidades de Tratamento de Gás, tais como Alvarás de Funcionamento emitidos pelas Prefeituras, pela Polícia Federal, dentre outros; • Apoiar e diligenciar o atendimento a demandas relacionadas aos órgãos públicos, bem como demandas internas da Petrobras para pleno atendimento à conformidade legal e aos padrões e normas da Companhia; • Acompanhar, em parceria com a área de integração regional de responsabilidade social da Petrobras, os projetos sociais patrocinados pela Petrobras nas áreas de influência das Unidades de Tratamento de Gás, bem como consolidar e enviar informações solicitadas pela Petrobras relativas à responsabilidade social;<br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação: Administração, Ciências Contábeis, Economia, Gestão financeira, Logística, com registro no respectivo Conselho de Classe<br /></li></ul><br /><br /><b>Requisitos:</b><br /><ul><li>Experiência com setor de óleo e gás.</li><li>Conhecimentos intermediários em sistemas integrados de gestão empresarial (SAP ERP e/ou SAP/4 HANA)</li></ul><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/225/administrador]]></applyUrl>
     <companyId><![CDATA[14023532]]></companyId>
     <city><![CDATA[Linhares]]></city>
@@ -70258,25 +70058,6 @@ documentos técnicos dos equipamentos das novas instalações;</li><li>Auxiliar 
 tubulações para medição de espessura;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação:</b> <ul><li>Nível Técnico Mecânica, Eletromecânica, Eletrotécnica, Metálurgia, Mecatrônica, Instrumentação, Caldeiraria e Química, a critério da fiscalização Petrobras;<br /></li><li>Com registro no respectivo Conselho de Classe. <b> </b></li></ul><b><br /></b><br /><b> Requisitos
 Necessários: </b><br /><ul><li>Curso de formação em Inspeção de Equipamentos, conforme Anexo B da Portaria 537/2015 INMETRO ou legislação vigente, ou Certificado de inspetor de equipamentos emitido pela ABENDI</li><li>Conhecimentos em Informática, pacote MS e SAP ERP Módulo PM;</li><li>Experiência na função.</li></ul><br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/214/inspetor-de-equipamentos]]></applyUrl>
-    <companyId><![CDATA[14023532]]></companyId>
-    <city><![CDATA[Linhares]]></city>
-    <state><![CDATA[ES]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[8b4b398c-e0f3-4bfe-86d4-d95b8aed2efd]]></partnerJobId>
-    <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
-    <title><![CDATA[ENGENHEIRO MECÂNICO]]></title>
-    <posterEmail><![CDATA[joyce.rh@ctaengenharia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Suporte à atividade de Engenharia de Construção e Montagem, Manutenção de Estáticos e Paradas, gerindo indicadores, elaborando planos de ação, fazendo o acompanhamento físico x financeiro dos contratos de serviço e projetos, realizando análises de falhas, elaborando planos de manutenção e pintura, emitindo pareceres e fornecendo suportes técnicos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Fornecer suporte técnico à execução de serviços e inspeção de equipamentos estáticos; </li><li>Apoiar na definição de estratégias de manutenção e controle; </li><li> Realizar análise de abrangência e integração de serviços; </li><li> Elaborar plano de manutenção preventiva; </li><li>Gerir plano de melhoria contínua e lições aprendidas; </li><li> Realizar cálculo e projetos de reparos provisórios em tubulações; </li><li>Emitir relatórios e pareceres técnicos</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação:</b> <ul><li>Grau de instrução: Nível Superior em : Engenharia mecânica, com registro no respectivo Conselho de Classe;</li></ul><br /><ul><li><b>Conhecimentos:</b> MS-Project, Pacote MS-Office, Interpretação de diagramas de instrumentação, elétrico mecânico, hidráulico e Software SAP/PM e SAP/MM.</li> </ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/208/engenheiro-mecanico]]></applyUrl>
     <companyId><![CDATA[14023532]]></companyId>
     <city><![CDATA[Linhares]]></city>
     <state><![CDATA[ES]]></state>
@@ -84783,29 +84564,6 @@ Compreender a importância de suas atividades para o atendimento de metas da ár
     <country><![CDATA[BR]]></country>
     <salaries>
       <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[85cdc579-1dcd-41a1-9232-da1a4a623794]]></partnerJobId>
-    <company><![CDATA[Facil Resultado]]></company>
-    <title><![CDATA[Atendente de SAC]]></title>
-    <posterEmail><![CDATA[renata.henrique@facilresultado.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade para atuar na área de <strong>Atendimento e Suporte ao Cliente (SAC)</strong>, temos uma excelente chance para você! Procuramos profissionais comunicativos, empáticos e comprometidos, que gostem de lidar com pessoas e solucionar demandas em um ambiente dinâmico e desafiador. Aqui, valorizamos o trabalho em equipe, o aprendizado contínuo e o desenvolvimento profissional, oferecendo espaço para crescer e fazer a diferença na experiência dos nossos clientes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Central de atendimento (SAC, Ouvidoria, suporte técnico);</b><br /><b>Atendimento especializado para fraudes e contestação de transações;</b><br /><b>Suporte para solicitação, ativação e cancelamento de cartões;</b><br /><b>Retenção e fidelização de clientes.</b><br /><b><br /></b><br /><b>Horário:</b><br /><b>Das </b>10:00 às 16:20 (40 minutos de intervalo)<br />Escala 6x1 – Atuação de segunda a domingo, com 1 folga semanal (de segunda á sexta) e 2 domingos no mês.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio completo.Boa comunicação verbal e escrita.<br />Experiência com atendimento ao cliente.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/facilresultadovagas/16/atendente-de-sac]]></applyUrl>
-    <companyId><![CDATA[77310751]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[SC]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <lowEnd>
-          <amount><![CDATA[1792.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
