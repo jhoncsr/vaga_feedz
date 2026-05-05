@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 05 May 2026 16:17:27 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 05 May 2026 17:15:31 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3437]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3423]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -9891,337 +9891,6 @@ Familiaridade com arquitetura de dados moderna
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[7b61ea71-f110-42b5-8348-ba65c3db2da8]]></partnerJobId>
-    <company><![CDATA[Bridger]]></company>
-    <title><![CDATA[Engenheiro de Dados Sênior]]></title>
-    <posterEmail><![CDATA[paula.simoes@grupobridger.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos uma pessoa Engenheira de Dados Sênior para liderar a construção de pipelines, arquiteturas e plataformas de dados escaláveis. O foco será garantir qualidade, disponibilidade e governança dos dados, apoiando decisões estratégicas e produtos data-driven.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Projetar, desenvolver e manter pipelines de dados (ingestão, transformação e carga)<br />
-• Definir e evoluir arquiteturas de dados (Data Lake, Data Warehouse, Lakehouse)<br />
-• Otimizar performance de consultas e processamento em grandes volumes de dados<br />
-• Implementar boas práticas de qualidade, segurança e governança de dados<br />
-• Trabalhar em conjunto com times de Data Science, Analytics e Produto<br />
-• Apoiar decisões de stack e ferramentas do ecossistema de dados<br />
-• Atuar como referência técnica e mentorar profissionais do time<br /><br /><b>Requisitos e qualificações</b><br /><br />• Experiência sólida com Python, Scala ou Java<br />
-• SQL avançado (modelagem, otimização e tuning de queries)
-<strong>Experiência prática com:</strong><br />
-• ETL/ELT e orquestração de pipelines (Airflow, Luigi, dbt ou similares)<br />
-• Processamento distribuído (Spark, Hadoop ou equivalente)<br />
-• Streaming/mensageria (Kafka, Kinesis – diferencial)
-<strong>Cloud &amp; plataformas de dados:</strong><br />
-• Experiência com pelo menos uma:
-<ul>
-<li>
-AWS (S3, Glue, EMR, Redshift, Athena)
-</li>
-<li>
-GCP (BigQuery, Dataflow, Dataproc)
-</li>
-<li>
-Azure (Databricks, Synapse, Data Factory)
-</li>
-</ul>
-<strong>Modelagem e boas práticas:</strong><br />
-• Modelagem de dados (dimensional, relacional, Data Vault)<br />
-• Versionamento com Git<br />
-• Noções de CI/CD aplicadas a dados (diferencial)<br />
-• Conhecimento em segurança, governança e catálogo de dados]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupobridger/118/engenheiro-de-dados-senior]]></applyUrl>
-    <companyId><![CDATA[101050810]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3ce36cdd-8905-40c6-94f1-f687e161e93e]]></partnerJobId>
-    <company><![CDATA[Bridger]]></company>
-    <title><![CDATA[Cientista de Dados Sênior]]></title>
-    <posterEmail><![CDATA[paula.simoes@grupobridger.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa Cientista de Dados Sênior para liderar iniciativas de modelagem, experimentação e uso estratégico de dados. Você terá papel essencial na geração de insights e na construção de soluções que impactam diretamente o negócio e produtos de dados.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Traduzir problemas de negócio em soluções analíticas e de modelagem<br />
-• Explorar, tratar e analisar grandes volumes de dados (EDA)<br />
-• Desenvolver modelos de Machine Learning e estatística (predição, classificação, segmentação, recomendação, etc.)<br />
-• Conduzir experimentos e testes A/B para validação de hipóteses<br />
-• Trabalhar com Engenharia de Dados para colocar modelos em produção<br />
-• Comunicar insights de forma clara (dashboards, relatórios e apresentações)<br />
-• Apoiar na definição de métricas, KPIs e estratégias orientadas a dados<br />
-• Mentorar profissionais menos experientes<br /><br /><b>Requisitos e qualificações</b><br /><br />• Forte experiência com Python (pandas, NumPy, scikit-learn, etc.)
-<strong>Conhecimentos essenciais:</strong><br />
-• Estatística (inferência, testes de hipótese, intervalos de confiança)<br />
-• Machine Learning clássico (regressão, classificação, clustering, árvores, ensembles)<br />
-• SQL para análise e extração de dados<br />
-• Experiência com Jupyter Notebook ou similares
-<strong>Ferramentas e ambientes:</strong><br />
-• Experiência com frameworks como TensorFlow, Keras ou PyTorch (para deep learning)<br />
-• Conhecimento em processamento distribuído (Spark, Databricks – diferencial)<br />
-• Ferramentas de orquestração (Airflow – diferencial)<br />
-• Versionamento com Git
-<strong>Produção de modelos:</strong><br />
-• Experiência em colocar modelos em produção (batch, APIs ou streaming)<br />
-• Trabalho em conjunto com times de engenharia]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupobridger/117/cientista-de-dados-senior]]></applyUrl>
-    <companyId><![CDATA[101050810]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[86e0cadf-09f6-4a7a-94b2-60f2c13ccf58]]></partnerJobId>
-    <company><![CDATA[Bridger]]></company>
-    <title><![CDATA[Desenvolvedor Back-end Sênior]]></title>
-    <posterEmail><![CDATA[paula.simoes@grupobridger.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa Desenvolvedora Back-end Sênior para atuar na construção e evolução de APIs e serviços escaláveis. Procuramos alguém com olhar técnico apurado, foco em qualidade e que goste de contribuir com decisões de arquitetura e evolução contínua dos sistemas.Esta é uma vaga inclusiva e aberta à diversidade e também para pessoas com deficiência (PCD).<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Projetar, desenvolver e manter APIs e serviços back-end de alta disponibilidade<br />
-• Definir e implementar arquiteturas (microserviços, eventos, mensageria, etc.)<br />
-• Garantir qualidade de código (testes automatizados, code review e boas práticas)<br />
-• Otimizar performance, segurança e escalabilidade das aplicações<br />
-• Integrar sistemas internos e externos (REST, gRPC, filas, webhooks)<br />
-• Apoiar decisões técnicas e propor melhorias de arquitetura e stack<br />
-• Atuar como referência técnica e mentorar pessoas desenvolvedoras<br />
-• Colaborar com times de Front-end, Produto, QA, DevOps e Dados<br /><br /><b>Requisitos e qualificações</b><br /><br />• Experiência sólida em desenvolvimento Back-end<br />
-• Conhecimento em pelo menos uma linguagem: Java, Kotlin, C#, .NET, Node.js, Python ou Go<br />
-• Experiência com frameworks modernos (Spring Boot, .NET Core, Express, Django, Flask, etc.)
-<strong>Conhecimentos essenciais:</strong><br />
-• APIs RESTful (design, versionamento e documentação – Swagger/OpenAPI)<br />
-• Banco de dados relacionais (PostgreSQL, MySQL, SQL Server, Oracle) e NoSQL (MongoDB, Redis)<br />
-• Modelagem de dados e otimização de consultas
-<strong>Arquitetura e engenharia:</strong><br />
-• Microserviços e arquitetura distribuída<br />
-• Mensageria (Kafka, RabbitMQ, SQS, etc.)<br />
-• Boas práticas: SOLID, Clean Code, Clean Architecture (DDD é diferencial)<br />
-• Testes automatizados (unitários e integração)<br />
-• CI/CD e pipelines de deploy<br />
-• Cloud (AWS, Azure ou GCP)<br />
-• Containers (Docker e Kubernetes – diferencial)<br />
-• Versionamento com Git e fluxo colaborativo (PRs, Code Review)]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupobridger/116/desenvolvedor-back-end-senior]]></applyUrl>
-    <companyId><![CDATA[101050810]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a890f18a-5215-4805-8e73-22af32e3272a]]></partnerJobId>
-    <company><![CDATA[Bridger]]></company>
-    <title><![CDATA[Desenvolvedor(a) Mobile Pleno/ Sênior]]></title>
-    <posterEmail><![CDATA[paula.simoes@grupobridger.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos uma pessoaDesenvolvedor(a) Mobile para atuar na construção e evolução de aplicações móveis robustas, seguras e escaláveis, com forte integração a serviços em nuvem, APIs e dispositivos conectados (IoT).<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Desenvolver e manter aplicações mobile utilizando React Native e Android nativo.
-</li>
-<li>
-Atuar no desenvolvimento de soluções com integração a Bluetooth, NFC, sensores e dispositivos IoT.
-</li>
-<li>
-Integrar aplicações mobile com APIs REST e GraphQL.
-</li>
-<li>
-Garantir qualidade de código por meio de testes unitários, de regressão e boas práticas.
-</li>
-<li>
-Trabalhar em conjunto com times de produto, backend e UX/UI.
-</li>
-<li>
-Participar ativamente de times ágeis (Scrum, Kanban).
-</li>
-<li>
-Realizar publicação, manutenção e atualização de aplicativos na Google Play Store.
-</li>
-<li>
-Integrar e gerenciar serviços do Firebase (Auth, Push Notifications, Analytics, etc.).
-</li>
-<li>
-Atuar em pipelines de CI/CD para apps mobile.
-</li>
-<li>
-Utilizar serviços de AWS para integração e backend (S3, DynamoDB, Lambda, SNS/SQS, etc.).</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência sólida com React Native.
-</li>
-<li>
-Conhecimento em Kotlin.
-</li>
-<li>
-Experiência prática com Android SDK.
-</li>
-<li>
-Vivência em metodologias ágeis (Scrum, Kanban).
-</li>
-<li>
-Experiência com AWS (S3, DynamoDB, Lambda, SNS/SQS).
-</li>
-<li>
-Desenvolvimento de apps que utilizam Bluetooth, NFC, sensores ou IoT.
-</li>
-<li>
-Conhecimento em testes unitários e de regressão, incluindo TDD e BDD.
-</li>
-<li>
-Experiência com Git e versionamento de código.
-</li>
-<li>
-Atuação com CI/CD para aplicações mobile.
-</li>
-<li>
-Experiência em publicação e manutenção de apps na Google Play Store.
-</li>
-<li>
-Integração com serviços do Firebase.
-</li>
-<li>
-Consumo de APIs REST e GraphQL.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupobridger/109/desenvolvedor-a-mobile-pleno-senior]]></applyUrl>
-    <companyId><![CDATA[101050810]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[36b27e9e-78f0-4077-b5a2-1a7a0dc7f1a9]]></partnerJobId>
-    <company><![CDATA[Bridger]]></company>
-    <title><![CDATA[Analista Desenvolvedor(a) Frontend Sênior]]></title>
-    <posterEmail><![CDATA[paula.simoes@grupobridger.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos uma pessoa Desenvolvedora Front-end Sênior para liderar tecnicamente a construção de interfaces modernas, responsivas e de alta performance. Você atuará em parceria próxima com times de UX/UI e Produto, garantindo experiências digitais de alto nível.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>• Desenvolver interfaces web escaláveis, responsivas e acessíveis<br />
-• Definir e evoluir a arquitetura front-end (estrutura, padrões e bibliotecas)<br />
-• Criar e manter componentes reutilizáveis (design system)<br />
-• Garantir qualidade de código (testes, boas práticas e code review)<br />
-• Otimizar performance (bundle, lazy loading, caching)<br />
-• Traduzir protótipos de UX/UI em interfaces fiéis e bem construídas<br />
-• Atuar como referência técnica e apoiar desenvolvedores do time</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>• Experiência sólida com JavaScript e TypeScript<br />
-• Domínio em pelo menos um framework moderno:
-<ul>
-<li>
-React (Hooks, Context, etc.), ou
-</li>
-<li>
-Vue.js, ou
-</li>
-<li>
-Angular
-</li>
-</ul>
-<strong>Conhecimentos essenciais:</strong><br />
-• HTML5, CSS3 e bibliotecas/estilização (SASS/SCSS, Styled Components, Tailwind, Material UI, Bootstrap)<br />
-• SPA e, se aplicável, SSR (Next.js, Nuxt, etc.)<br />
-• Consumo de APIs REST e/ou GraphQL<br />
-• Gerenciamento de estado (Redux, Zustand, Vuex, NgRx, Context API)
-<strong>Testes e qualidade:</strong><br />
-• Testes unitários e de interface (Jest, Testing Library, Cypress ou similares)<br />
-• Boas práticas de acessibilidade (a11y), SEO básico e performance (Core Web Vitals)<br />
-• Versionamento com Git e atuação em times ágeis</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupobridger/108/analista-desenvolvedor-a-frontend-senior]]></applyUrl>
-    <companyId><![CDATA[101050810]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6d739ed7-0436-4431-a67c-46cb6ebb6f97]]></partnerJobId>
-    <company><![CDATA[Bridger]]></company>
-    <title><![CDATA[Desenvolvedor Salesforce Sr – Health Cloud]]></title>
-    <posterEmail><![CDATA[paula.simoes@grupobridger.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Desenvolvedor Salesforce Sênior com foco em Health Cloud, capaz de desenvolver soluções escaláveis, customizar funcionalidades da plataforma e integrar sistemas complexos, garantindo eficiência e aderência às boas práticas de Salesforce.<br /><br />Híbrido – 1x por semana no escritório (Faria Lima – São Paulo/SP)<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li></li><li>Desenvolver e customizar funcionalidades na plataforma Salesforce com foco em Health Cloud
-</li><li>
-Implementar componentes usando Apex, Aura, Lightning Web Components (LWC) e Flows
-</li><li>
-Configurar e evoluir recursos específicos do Health Cloud, incluindo:
-<ul>
-<li>
-Patient 360
-</li>
-<li>
-Care Management
-</li>
-<li>
-Care Plans
-</li>
-<li>
-Utilization Management
-</li>
-<li>
-Clinical Data Models
-</li>
-</ul>
-</li><li>
-Integrar Salesforce com sistemas internos e externos via APIs REST/SOAP, Middleware e Event-Driven Architecture
-</li><li>
-Participar da análise técnica e funcional, propondo soluções escaláveis e aderentes às melhores práticas da plataforma
-</li><li>
-Conduzir correções, otimizações e refatorações no código existente
-</li><li>
-Colaborar com squads multifuncionais, apoiando testes, homologação e deployments
-</li><li>
-Manter documentação técnica atualizada e clara
-</li>
-
-
-
-
-
-
-
-<li>
-Trabalhar alinhado às práticas de DevOps, CI/CD e versionamento (Git)</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li><b>Experiência mínima de 4 a 6 anos em desenvolvimento Salesforce, com atuação em projetos de Health Cloud</b>
-</li>
-<li>
-<b>Sólido conhecimento em Apex, Lightning Web Components (LWC), Aura Components e Flows</b>
-</li>
-<li>
-<b>Experiência em integração via APIs REST/SOAP e middleware</b>
-</li>
-<li>
-<b>Familiaridade com event-driven architecture e integração de sistemas</b>
-</li>
-<li>
-<b>Conhecimento de DevOps, CI/CD e versionamento de código (Git)</b>
-</li>
-<li>
-<b>Capacidade de trabalhar em squads ágeis e propor soluções técnicas</b>
-</li>
-<li>
-<b>Experiência com documentação técnica e boas práticas de desenvolvimento Salesforce</b></li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupobridger/114/desenvolvedor-salesforce-sr-health-cloud]]></applyUrl>
-    <companyId><![CDATA[101050810]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[88c2bd1b-8d1e-4152-ba50-5012841c8357]]></partnerJobId>
     <company><![CDATA[Bridger]]></company>
     <title><![CDATA[Analista QA Salesforce – Pleno]]></title>
@@ -10315,64 +9984,6 @@ Análise de impacto de novas funcionalidades e hotfixes
 <li>
 Validação de relatórios, dashboards e Einstein Analytics, quando aplicável</li><br /><br /><b>Requisitos e qualificações</b><br /><br />5 anos de experiência em testes de software, com atuação prática em Salesforce.<br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupobridger/113/analista-qa-salesforce-pleno]]></applyUrl>
-    <companyId><![CDATA[101050810]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[ac08a3d2-6575-43d0-9163-0fa273ba1335]]></partnerJobId>
-    <company><![CDATA[Bridger]]></company>
-    <title><![CDATA[Analista UX/UI Designer Pleno]]></title>
-    <posterEmail><![CDATA[paula.simoes@grupobridger.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você gosta de investigar o comportamento do usuário, organizar insights e transformar dados em decisões estratégicas de produto, essa oportunidade é para você.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Atuar ativamente em processos de discovery (mapeamento de dores, hipóteses e oportunidades).
-</li>
-<li>
-Estruturar pesquisas e organizar aprendizados no Miro.
-</li>
-<li>
-Conduzir ou apoiar entrevistas e testes de usabilidade.
-</li>
-<li>
-Analisar mapas de calor, gravações de sessão e comportamento do usuário via Hotjar.
-</li>
-<li>
-Criar fluxos, wireframes e protótipos no Figma.
-</li>
-<li>
-Trabalhar próximo a PMs e engenharia para alinhar soluções aos objetivos do negócio.
-</li>
-<li>
-Apoiar na priorização de melhorias com base em dados e feedbacks reais.
-</li>
-<li>
-Garantir organização e consistência nas entregas de design.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>2 a 4 anos de experiência em UX/UI ou Product Design.
-</li>
-<li>
-Portfólio com cases que demonstrem processo estruturado (problema → hipótese → validação → solução).
-</li>
-<li>
-Experiência prática com discovery e testes de usabilidade.
-</li>
-<li>
-Domínio de Figma.
-</li>
-<li>
-Experiência com Miro para organização de fluxos e workshops.
-</li>
-<li>
-Familiaridade com análise de dados comportamentais (Hotjar será um diferencial).
-</li>
-<li>
-Conhecimento em princípios de usabilidade (heurísticas de Nielsen).</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupobridger/111/analista-ux-ui-designer-pleno]]></applyUrl>
     <companyId><![CDATA[101050810]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[SP]]></state>
@@ -11024,25 +10635,6 @@ preferencialmente no setor de transportes, locação ou máquinas pesadas.</li><
     <posterEmail><![CDATA[micheli.negreiro@ex.addiante.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Atuar na gestão da carteira de clientes, garantindo a execução eficiente dos contratos ao longo do seu ciclo de vida, assegurando o cumprimento dos acordos estabelecidos, a satisfação do cliente e a rentabilidade do negócio. Será responsável por conduzir uma atuação consultiva, identificando oportunidades de expansão, retenção e melhoria contínua da operação.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar como ponto focal do cliente, garantindo comunicação clara e resolução ágil de demandas junto às áreas internas;</li><li>Garantir o cumprimento dos SLAs contratuais, acompanhando indicadores e níveis de serviço;</li><li>Monitorar a rentabilidade dos contratos, analisando previsto x realizado e propondo ações corretivas quando necessário;</li><li>Conduzir reuniões periódicas com clientes para apresentação de resultados e planos de melhoria;</li><li>Identificar oportunidades de crescimento na carteira (cross sell, upsell e aditivos contratuais).</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em atendimento ao cliente B2B</li><li>Vivência em gestão de contratos e acompanhamento de SLA;</li><li>Conhecimento em indicadores (KPIs), análise de desempenho e construção de relatórios;</li><li>Experiência na apresentação de resultados para clientes</li><li>Perfil consultivo com foco em relacionamento e geração de valor</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/addiante/98/analista-de-relacionamento-pl]]></applyUrl>
-    <companyId><![CDATA[82974389]]></companyId>
-    <city><![CDATA[Curitiba]]></city>
-    <state><![CDATA[PR]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[0e608018-c173-4d91-89f8-5bc95d0f9761]]></partnerJobId>
-    <company><![CDATA[Addiante]]></company>
-    <title><![CDATA[Analista de Seminovos PL]]></title>
-    <posterEmail><![CDATA[weldson.batista@addiante.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar como o elo estratégico e operacional da área de venda de Seminovos. Garantir a excelência e agilidade na esteira administrativa de vendas (do faturamento à entrega) e atuar com inteligência de mercado, gerando dados, monitorando preços e otimizando processos para maximizar a rentabilidade e o giro do estoque dos ativos<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhar de ponta a ponta o processo de pagamento, faturamento e emissão de contratos de compra e venda.</li><li>Acompanhar, controlar e auditar a emissão e tramitação dos ATPVEs, garantindo conformidade legal e prazos.</li><li>Organizar as rotinas de liberação de acesso aos pátios para que clientes e parceiros visitem os produtos.</li><li>Acompanhar o status de preparação física dos ativos junto à operação, garantindo as condições negociadas.</li><li>Monitorar o preço de mercado e a Tabela FIPE/SOMOS, sugerindo táticas de venda e reprecificações estratégicas.</li><li>Contribuir ativamente para a precificação de novos lotes de desmobilização e apoio à rentabilidade.</li><li>Realizar a gestão de ponta a ponta dos anúncios nos canais de venda e vitrine digital.</li><li>Acompanhar o mercado de seminovos pesados e comerciais, mapeando a concorrência e novas tendências.</li><li>Mapear a jornada atual de venda e desenvolver planos de ação para melhoria contínua dos processos.</li><li>Criar, desenvolver e monitorar os indicadores estratégicos (KPIs) da área (ex: tempo de estoque, Ticket Médio, Giro, etc.).</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação em Administração, Engenharia de Produção, Economia ou áreas correlatas.</li><li>Vivência prévia no mercado automotivo, locadoras, gestão de frotas ou concessionárias (experiência com pesados/implementos é diferencial).</li><li>Familiaridade com rotinas de documentação veicular (Detran, despachantes, trâmites de transferência).</li><li>Pacote Office Avançado (principalmente Excel para manipulação de dados de precificação e KPIs).</li><li>Conhecimento em Power BI </li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/addiante/95/analista-de-seminovos-pl]]></applyUrl>
     <companyId><![CDATA[82974389]]></companyId>
     <city><![CDATA[Curitiba]]></city>
     <state><![CDATA[PR]]></state>
@@ -16909,55 +16501,6 @@ Preencher registros operacionais, documentando indicadores, condições e interv
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[725acc49-fa6b-4884-a258-5399903f0fba]]></partnerJobId>
-    <company><![CDATA[Dana Cosméticos]]></company>
-    <title><![CDATA[Analista de Transporte Sênior]]></title>
-    <posterEmail><![CDATA[thayna.pinheiro@danacosmeticos.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />No Grupo Dana, o Analista de Transportes Sênior será responsável por garantir a eficiência e a acuracidade das operações logísticas, atuando na gestão de devoluções, pendências e transportadoras, assegurando conformidade fiscal, controle de custos e excelência nos processos, além de contribuir ativamente para a melhoria contínua e a evolução da operação.<br /><br />Reporte ao Coordenador de Transportes<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Controlar o fluxo de devoluções, pedidos retidos com transportadoras e divergências operacionais, atuando na solução imediata e escalonando casos críticos ou recorrentes.
-</li><li>
-Desenvolver e monitorar indicadores de desempenho da área, identificando desvios de performance e reportando resultados e riscos ao Coordenador.
-</li><li>
-Assegurar a correta atualização dos sistemas de transporte (TMS), garantindo a integridade das informações operacionais.
-</li><li>
-Validar documentação fiscal e operacional (NF, comprovantes de entrega e protocolos), assegurando conformidade com normas internas e exigências legais.
-</li><li>
-Conferir faturas e DACTEs das transportadoras, validar dados no sistema, acompanhar prazos de pagamento e atuar na resolução de divergências junto ao Financeiro.
-</li><li>
-Analisar solicitações de custos extras, validar conformidade com políticas internas, realizar lançamentos e garantir correta alocação nos centros de custos.
-</li><li>
-Realizar agendamento de devoluções de clientes junto às transportadoras e ao CD, acompanhando prazos e condições de coleta e retorno.
-</li><li>
-Identificar e tratar divergências entre valores contratados, faturados e realizados, levantando dados e históricos para análise de causa raiz com o Analista Pleno.
-</li><li>
-Apoiar a condução de melhorias na área, incluindo projetos com inteligência artificial e desenvolvimento de aplicações em Power Apps, visando ganho de eficiência.
-</li><li>
-Controlar ativos logísticos (pallets CHEP), realizando cobrança de devoluções e alinhamento de débitos por perdas e avarias, além de auditar pagamentos de frete conforme políticas internas e valores de mercado.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimento em rotinas logísticas (Transportes e Centro de Distribuição);
-</li><li>
-Excel avançado, Power BI e demais ferramentas do pacote Office;
-</li><li>
-Experiência com sistemas SAP, ERP e TMS;
-</li><li>
-Boa comunicação e relacionamento interpessoal;
-</li><li>
-Forte habilidade analítica e visão crítica.</li></ul>
-
-
-
-<br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale refeição.</li><li>Vale alimentação.</li><li>Vale transporte (opcional).</li><li>Estacionamento no local.</li><li>Convênio médico Porto Seguro.</li><li>Programa Saúde Emocional -  Orienteme.</li><li>Seguro de Vida.</li><li>PLR anual (de acordo com política interna da Empresa).</li><li>Gympass.</li><li>Desconto de 30% nas compras em nosso E-commerce.</li><li>Auxílio Educacional.</li><li>Auxílio Inglês. </li><li>Ambiente de descompressão.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsertimedana/98/analista-de-transporte-senior]]></applyUrl>
-    <companyId><![CDATA[1097927]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[00a82921-71a8-4a5c-ba76-cdb8900b1592]]></partnerJobId>
     <company><![CDATA[Dana Cosméticos]]></company>
     <title><![CDATA[Promotor(a) de Vendas - Salvador/Bahia]]></title>
@@ -21614,7 +21157,7 @@ Oferecemos um ambiente colaborativo, com incentivo ao aprendizado prático e ao 
     <company><![CDATA[Stefanini IHM]]></company>
     <title><![CDATA[Estagiário Comercial Técnico - Mogi das Cruzes/SP]]></title>
     <posterEmail><![CDATA[smfriedrich@ihm.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você busca uma oportunidade para desenvolver suas habilidades e iniciar sua carreira em um ambiente dinâmico? Estamos em busca de um estudante com interesse em aprender e crescer profissionalmente, que esteja cursando Engenharia, Controle e Automação, Elétrica, Computação (ou áreas correlatas), para atuar como Estagiário Comercial Técnico. Esta é a sua chance de dar um passo à frente na carreira, adquirindo experiência real e desenvolvendo habilidades valorizadas pelo mercado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar na prospecção e desenvolvimento de oportunidades comerciais junto a clientes industriais;</li><li>Auxiliar na elaboração de propostas técnicas e comerciais;</li><li>Levantar informações de mercado, concorrência e oportunidades de negócios;</li><li>Realizar suporte no relacionamento com clientes e agendamento de reuniões comerciais;</li><li>Apoiar no acompanhamento de pipeline de vendas e atualização de CRM;</li><li>Realizar interface com áreas técnicas (automação, elétrica, TI industrial, analytics e engenharia) para construção de soluções aderentes ao cliente;</li><li>Apoiar na elaboração de apresentações executivas, relatórios gerenciais e materiais comerciais;</li><li>Realizar análise de escopo técnico de projetos e apoio em processos de precificação;</li><li>Dar suporte em estratégias de contas-chave e planejamento comercial.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando Engenharia (Controle e Automação, Elétrica, Computação, Industrial) .</li><li>Perfil analítico e organizado;</li><li>Conhecimento intermediário em Excel e PowerPoint;</li><li>Facilidade para relacionamento interpessoal e trabalho em equipe;</li><li>Interesse pela área comercial consultiva e vendas técnicas B2B;</li><li>Desejável conhecimento básico em processos industriais e automação.</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você busca uma oportunidade para desenvolver suas habilidades e iniciar sua carreira em um ambiente dinâmico? Estamos em busca de um estudante com interesse em aprender e crescer profissionalmente, que esteja cursando Engenharia, Controle e Automação, Elétrica, Computação (ou áreas correlatas), para atuar como Estagiário Comercial Técnico. Esta é a sua chance de dar um passo à frente na carreira, adquirindo experiência real e desenvolvendo habilidades valorizadas pelo mercado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar na prospecção e desenvolvimento de oportunidades comerciais junto a clientes industriais;</li><li>Auxiliar na elaboração de propostas técnicas e comerciais;</li><li>Levantar informações de mercado, concorrência e oportunidades de negócios;</li><li>Realizar suporte no relacionamento com clientes e agendamento de reuniões comerciais;</li><li>Apoiar no acompanhamento de pipeline de vendas e atualização de CRM;</li><li>Realizar interface com áreas técnicas (automação, elétrica, TI industrial, analytics e engenharia) para construção de soluções aderentes ao cliente;</li><li>Apoiar na elaboração de apresentações executivas, relatórios gerenciais e materiais comerciais;</li><li>Realizar análise de escopo técnico de projetos e apoio em processos de precificação;</li><li>Dar suporte em estratégias de contas-chave e planejamento comercial.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando Engenharia (Controle e Automação, Elétrica, Computação, Industrial) .</li><li>Perfil analítico e organizado;</li><li>Conhecimento intermediário em Pacote Office;</li><li>Facilidade para relacionamento interpessoal e trabalho em equipe;</li><li>Interesse pela área comercial consultiva e vendas técnicas B2B;</li><li>Desejável conhecimento básico em processos industriais e automação.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ihmstefanini/119/estagiario-comercial-tecnico-mogi-das-cruzes-sp]]></applyUrl>
     <companyId><![CDATA[1306131]]></companyId>
     <city><![CDATA[Mogi das Cruzes]]></city>
@@ -24574,10 +24117,10 @@ completo]]></description>
   <job>
     <partnerJobId><![CDATA[77dac819-239f-4acc-9d0e-74b8594380f6]]></partnerJobId>
     <company><![CDATA[Grupo Ferroeste]]></company>
-    <title><![CDATA[ASSITENTE ADMINISTRATIVO]]></title>
+    <title><![CDATA[ASSISTENTE ADMINISTRATIVO]]></title>
     <posterEmail><![CDATA[gabriela.pereira@ferroeste.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais que desejam fazer parte de uma equipe dinâmica e que valorizam a excelência no atendimento. Se você é uma pessoa comunicativa, organizada e está pronta para contribuir com um ambiente acolhedor e profissional, esta é a sua chance de transformar sua carreira. Aqui, você terá a oportunidade de dar boas-vindas a visitantes, auxiliar na organização do cotidiano e ser uma peça-chave no funcionamento do nosso time. Oferecemos um ambiente de trabalho estimulante, onde você poderá aprimorar suas habilidades e crescer junto conosco. Se você está em busca de um lugar onde seu talento será reconhecido e onde sua dedicação faz a diferença, venha nos conhecer e descubra como você pode brilhar na nossa equipe!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Receber e cumprimentar os visitantes de forma cordial e profissional.<br /> - Atender chamadas telefônicas, direcionando-as para os departamentos adequados.<br /> - Manter a organização e limpeza da área de recepção.<br /> - Gerenciar agendas, agendando reuniões e compromissos conforme necessário.<br /> - Processar e encaminhar correspondências e documentos recebidos.<br /> - Fornecer informações sobre os serviços da empresa aos visitantes e clientes.<br /> - Auxiliar na gestão de reservas e controle de salas de reuniões.<br /> - Prestar suporte administrativo ao departamento conforme necessário.<br /> - Registrar e gerenciar entradas e saídas de visitantes.<br /> - Colaborar com outros setores para garantir um fluxo de trabalho eficiente.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo<br /> - Experiência anterior na função ou em atendimento ao cliente<br /> - Habilidade em comunicação verbal e escrita<br /> - Conhecimento em informática, especialmente em Pacote Office<br /> - Boa apresentação pessoal<br /> - Capacidade de organização e trabalho em equipe<br /> - Proatividade e habilidades interpessoais<br /> - Disponibilidade para trabalhar em horários flexíveis<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ferroeste/728/assitente-administrativo]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ferroeste/728/assistente-administrativo]]></applyUrl>
     <companyId><![CDATA[28210388]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
     <state><![CDATA[MG]]></state>
@@ -39951,32 +39494,6 @@ turno</li><li>Residir em Conceição das Alagoas - MG. </li></ul>]]></descripti
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[f0757fc1-a3ab-4616-a864-8e915affcddf]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Técnico de Automação Agrícola]]></title>
-    <posterEmail><![CDATA[raiane.pereira@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia
-está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe!
-Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um
-ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal
-para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Efetuar instalações, configurações, parametrização e formatações dos equipamentos de tecnologia embarcada (Bordo, Piloto, Radio comunicador, Rep´s, taxas variáveis, câmeras de fadiga, Starlink etc.)</li><li>
-Realizar a manutenção corretiva e preventiva, internamente ou no campo, em componentes de automação agrícola, recebendo ordem de serviço (serviços internos) ou abrindo a ordem de serviço, avaliando o desgaste de peças e de componentes, realizando a troca caso necessário, aumentando a disponibilidade dos equipamentos.</li><li>
-Realizar coleta dos dados dos equipamentos com tecnologia embarcada.</li><li>
-Substituir periféricos dos equipamentos com tecnologia embarcada.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Disponibilidade para trabalhar em regime de turnos.</li><li>Possuir habilitação categoria B.</li><li>Morar em Conceição das Alagoas ou Uberaba.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1617/tecnico-de-automacao-agricola]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[bec36b3a-367f-44f0-a4bf-736217131290]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
     <title><![CDATA[Analista Controle de Qualidade]]></title>
@@ -40321,43 +39838,6 @@ para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[5949d8e8-adec-4b64-b662-a8ff3d3fa1f7]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Auxiliar de Processo Industrial - Recepção de Cana]]></title>
-    <posterEmail><![CDATA[raiane.pereira@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Recepcionar
-     os caminhões com cana, direcionando-os  para o local de descarga e
-     auxiliando na operação do hilo. </li>
- <li>Recolher
-     e descartar resíduos de cana, palha e terra que possam acumular no sistema
-     de recepção. </li>
- <li>Monitorar
-     e registrar dados como volume de moagem, extração e índice de preparo,
-     buscando otimizar o processo.</li>
- <li>Realizar
-     inspeções e manutenções básicas em equipamentos, garantindo seu bom
-     funcionamento.</li>
-</ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Residir em Conceição
-     das Alagoas- MG.</li>
- <li>Disponibilidade para
-     trabalhar em regime de turnos.</li>
-</ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1390/auxiliar-de-processo-industrial-recepcao-de-cana]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[6a1ee937-64a3-4ef1-acf4-4a4d068d679b]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
     <title><![CDATA[Líder de Processo Agrícola - CTT]]></title>
@@ -40573,25 +40053,6 @@ para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><b
     <posterEmail><![CDATA[kauane.silva@deltasucroenergia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar diagnósticos de problemas mecânicos em caminhões.</li><li>Executar reparos e manutenções preventivas e corretivas em sistemas mecânicos.</li><li>Substituir peças e componentes conforme necessidade.</li><li>Interpretar manuais técnicos e esquemas elétricos para execução dos serviços.</li><li>Manter a organização e limpeza do ambiente de trabalho.</li><li>Auxiliar na gestão de estoque de peças e insumos.</li><li>Registrar os serviços realizados e atualizar informações no sistema.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo.</li><li>Formação técnica em Mecânica Automotiva ou áreas afins.</li><li>Experiência com manutenção de máquinas pesadas.</li><li>Conhecimento em diagnóstico e reparo de sistemas mecânicos e eletrônicos.</li><li>Habilidade em leitura e interpretação de manuais técnicos.</li><li>Disponibilidade para trabalhar em turnos e horas extras, se necessário.</li></ul><br />      <br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1291/mecanico-automotivo-ii-equipamentos-rodoviarios]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[2e59139c-2026-473f-bfa2-ebd4a880d5a6]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Eletricista Automotivo - Mecânica de Colhedora]]></title>
-    <posterEmail><![CDATA[raiane.pereira@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Instalar e reparar sistemas elétricos nas máquinas leves e pesadas.</li><li>Realizar análises de falhas e causas raiz. </li><li>Verificar carga elétrica de baterias. </li><li>Ajustar sistemas de controle do motor e o sincronismo. </li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Residir em Uberaba- MG ou em Conceição das Alagoas- MG.</li><li>Experiência técnica em manutenção elétrica de máquinas agrícolas.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1232/eletricista-automotivo-mecanica-de-colhedora]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Conceição das Alagoas]]></city>
     <state><![CDATA[MG]]></state>
@@ -64455,28 +63916,6 @@ Nosso objetivo é conectar talentos a oportunidades, promovendo um ambiente incl
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6604f175-18dc-42ed-b0b5-fa58fe26850b]]></partnerJobId>
-    <company><![CDATA[Xmobots]]></company>
-    <title><![CDATA[Analista Administrativo (Mandarim) Pleno]]></title>
-    <posterEmail><![CDATA[mayrla.suprinyak@xmobots.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar e acompanhar rotinas administrativas de média complexidade;</li><li>Analisar e controlar documentos, contratos, relatórios e indicadores administrativos;</li><li>Apoiar a gestão orçamentária, controle de custos e acompanhamento de despesas;</li><li>Atuar no interface com áreas internas (financeiro, compras, RH, operações) e fornecedores externos;</li><li>Garantir o cumprimento de políticas, procedimentos internos e prazos estabelecidos;</li><li>Identificar oportunidades de melhoria nos processos administrativos, propondo padronizações e otimizações.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior completa ou em andamento em Administração ou áreas correlatas.</li><li>Mandarim (imprescindível) – devido à necessidade frequente de interação com o time da DJI.</li><li>Vivência prévia em rotinas administrativas e controles operacionais.
-</li>
-<li>
-Conhecimento intermediário a avançado em Pacote Office, com ênfase em Excel.</li></ul><br /><ul><li>Residir em São Carlos-SP</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/xmobotscarreiras/61/analista-administrativo-mandarim-pleno]]></applyUrl>
-    <companyId><![CDATA[5048086]]></companyId>
-    <city><![CDATA[São Carlos]]></city>
-    <state><![CDATA[SP]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[34028c81-b87b-44e2-a92f-93848875fdd0]]></partnerJobId>
     <company><![CDATA[Xmobots]]></company>
     <title><![CDATA[Projetista Mecânico Pl]]></title>
@@ -71559,25 +70998,6 @@ Essa pessoa terá papel fundamental na conexão entre estratégia, operação e 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[1cf6ba08-981e-4326-afc2-0bd53d0cb8eb]]></partnerJobId>
-    <company><![CDATA[Itaminas]]></company>
-    <title><![CDATA[ANALISTA FINANCEIRO]]></title>
-    <posterEmail><![CDATA[joao.rezende@itaminas.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Executar e controlar as rotinas financeiras de contas a pagar, contas a receber e tesouraria, garantindo a correta execução dos processos, o cumprimento de prazos, a qualidade das informações e o suporte às análises financeiras. Atuar com autonomia operacional, contribuindo para a padronização de processos e melhoria contínua da área.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Contas a pagar:</strong> Executar e controlar os processos de contas a pagar, assegurando aderência a contratos, políticas internas e centros de custo; realizar conferência documental e validação de lançamentos no ERP; Apoiar a elaboração e aplicação de políticas de adiantamentos, reembolsos e despesas; atuar no atendimento a auditorias, fornecendo informações e evidências sob orientação.<strong>Contas a receber:</strong> Executar o acompanhamento do ciclo de faturamento e recebimentos; realizar cobranças ativas e acompanhamento da inadimplência; apoiar a aplicação da régua de cobrança definida; executar conciliações financeiras e identificar divergências, propondo correções.<strong>Tesouraria:</strong> Atualizar e acompanhar o fluxo de caixa diário e projetado de curto prazo; executar conciliações bancárias e controles de saldos; apoiar o relacionamento operacional com bancos; elaborar relatórios e indicadores financeiros para acompanhamento da gestão.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso: Administração, Economia, Contabilidade;</li><li>Vivência com fluxo de caixa;</li><li>Conciliações bancárias;</li><li>Experiência com ERP financeiro (preferencialmente TOTVS Protheus);</li><li>Conhecimento de políticas e procedimentos financeiros. </li></ul><br />      <br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasitaminas/111/analista-financeiro]]></applyUrl>
-    <companyId><![CDATA[72685309]]></companyId>
-    <city><![CDATA[Sarzedo]]></city>
-    <state><![CDATA[MG]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[bd384826-2eec-4447-8feb-c2c2c68f333f]]></partnerJobId>
     <company><![CDATA[Itaminas]]></company>
     <title><![CDATA[TECNICO DE PROCESSOS II]]></title>
@@ -77671,33 +77091,6 @@ Fazer o acompanhamento contínuo do desempenho dos alunos, oferecendo suporte in
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[aad7be31-3845-4031-8171-7e135ac2569a]]></partnerJobId>
-    <company><![CDATA[Colégio GGE]]></company>
-    <title><![CDATA[MONITOR (A) HISTÓRIA]]></title>
-    <posterEmail><![CDATA[selecaorh3@ggeweb.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O monitor deve atuar como facilitador do processo de aprendizagem, oferecendo suporte técnico e acadêmico aos alunos, além de colaborar com a equipe docente em questões práticas e de conteúdo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar os alunos com dúvidas sobre o conteúdo das disciplinas exigidas no vestibular do ITA (Historia).
-Revisar e corrigir exercícios e simulados, oferecendo feedback construtivo.
-Promover grupos de estudos e sessões de revisão antes de provas e simulados.
-Auxiliar na elaboração de material complementar (apostilas, listas de exercícios).
-Colaborar com os professores no planejamento de aulas, revisões e simulados.
-Auxiliar na organização de atividades extracurriculares voltadas à preparação específica para o ITA.
-Manter um canal de comunicação eficiente entre professores e alunos, reportando dificuldades ou pontos de melhoria.
-Organizar simulados semanais ou mensais, cuidando da logística e correção das provas.
-Fazer o acompanhamento contínuo do desempenho dos alunos, oferecendo suporte individual quando necessário.<br /><br /><b>Requisitos e qualificações</b><br /><br />Educação Superior incompleta ou completa. <br />Estar cursando graduação em História ou áreas relacionadas.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgge/109/monitor-a-historia]]></applyUrl>
-    <companyId><![CDATA[84804947]]></companyId>
-    <city><![CDATA[Caruaru]]></city>
-    <state><![CDATA[PE]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[0864ad19-3cb5-4539-ac64-6e4bb23cb362]]></partnerJobId>
     <company><![CDATA[Colégio GGE]]></company>
     <title><![CDATA[ESTÁGIO PEDAGOGIA]]></title>
@@ -77885,25 +77278,6 @@ familiares e alunos nas questões pedagógicas.<br /><br /><b>Responsabilidades 
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgge/9/auxiliar-de-coordenacao]]></applyUrl>
     <companyId><![CDATA[84804947]]></companyId>
     <city><![CDATA[Petrolina]]></city>
-    <state><![CDATA[PE]]></state>
-    <country><![CDATA[BR]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[60b50f71-29d8-434b-9e16-76ad63c4962f]]></partnerJobId>
-    <company><![CDATA[Colégio GGE]]></company>
-    <title><![CDATA[MONITOR HISTÓRIA]]></title>
-    <posterEmail><![CDATA[selecaorh3@ggeweb.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A vaga é para atuação na unidade GGE Boa Viagem. O monitor atuará como facilitador do processo de aprendizagem, oferecendo suporte técnico e acadêmico aos alunos, além de colaborar com a equipe docente em atividades práticas e no desenvolvimento dos conteúdos.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar os alunos com dúvidas sobre o conteúdo das disciplinas exigidas no vestibular do ITA (Historia). Revisar e corrigir exercícios e simulados, oferecendo feedback construtivo. Promover grupos de estudos e sessões de revisão antes de provas e simulados. Auxiliar na elaboração de material complementar (apostilas, listas de exercícios). Colaborar com os professores no planejamento de aulas, revisões e simulados. Auxiliar na organização de atividades extracurriculares voltadas à preparação específica para o ITA. Manter um canal de comunicação eficiente entre professores e alunos, reportando dificuldades ou pontos de melhoria. Organizar simulados semanais ou mensais, cuidando da logística e correção das provas. Fazer o acompanhamento contínuo do desempenho dos alunos, oferecendo suporte individual quando necessário.<br /><br /><b>Requisitos e qualificações</b><br /><br />Educação Superior incompleta ou completa. <br />Estar cursando graduação em História ou áreas relacionadas.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgge/139/monitor-historia]]></applyUrl>
-    <companyId><![CDATA[84804947]]></companyId>
-    <city><![CDATA[Recife]]></city>
     <state><![CDATA[PE]]></state>
     <country><![CDATA[BR]]></country>
     <salaries>
@@ -91760,6 +91134,33 @@ Facilidade para trabalhar em equipe e se adaptar a diferentes desafios.</li>]]><
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[08af9a90-b66f-485b-9459-199b2788e5e9]]></partnerJobId>
+    <company><![CDATA[Growth Supplements Carreiras]]></company>
+    <title><![CDATA[Especialista em Planejamento de Vestuário]]></title>
+    <posterEmail><![CDATA[dienifer.marques@grwt.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <b>Especialista em Planejamento de Vestuário </b>para integrar no nosso time. Se você tem paixão por excelência, domínio técnico na sua área e busca um ambiente onde o sucesso coletivo é prioridade, essa oportunidade é para você.<br />Aqui você terá o espaço para Planejar e monitorar o ciclo de vida dos produtos, equilibrando os níveis de estoque e o orçamento de compras (OTB) para 
+maximizar as vendas e a rentabilidade. Atuar na interface entre a estratégia da gerência e a execução da modelagem, 
+garantindo que o mix de produtos respeite as metas de margem e os prazos de lançamento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Elaborar  orçamento de compras, sugerindo a distribuição do investimento por categoria de roupas e acessórios com base 
+no histórico e metas de crescimento;</li><li> Analisar a cobertura de estoque e realizar ações imediatas para corrigir rupturas ou excessos, equilibrando o fluxo entre as 
+categorias; </li><li>Realizar o acompanhamento semanal crítico, identificando tendências de comportamento do consumidor e sugerindo 
+ajustes no mix durante a temporada;</li><li> Validar o plano de sortimento junto ao gestor imediato, garantindo que a coleção respeite a pirâmide de produtos (básicos, 
+fashion e imagem);</li><li> Definir preços de venda e  estratégias de liquidação pontuais para categorias de baixo giro, visando proteger a margem de 
+contribuição; </li><li>Definir metas por categoria e desenvolver análises que sustentem decisões estratégicas de produtos;</li><li> Preparar e apresentar relatórios gerenciais de planejamento para tomada de decisão;</li><li> Realizar outras atividades pertinentes à função, conforme a necessidade da área e/ou orientação do superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li> Superior Completo em Administração, Economia, Moda, ou áreas correlatas;</li><li>Inglês Intermediário; Conhecimento de métricas de Giro e cálculo de margem; 
+Conhecimento em CMV; Excel  Avançado; Gestão de Projetos;</li><li> Entre 3 a 5 anos em funções de planejamento de produtos ou Merchandsing;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/growthtalentos/13/especialista-em-planejamento-de-vestuario]]></applyUrl>
+    <companyId><![CDATA[112227475]]></companyId>
+    <city><![CDATA[Tijucas]]></city>
+    <state><![CDATA[SC]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[271464a2-06bf-4dae-bf3d-2f8a7e95c3d8]]></partnerJobId>
     <company><![CDATA[Growth Supplements Carreiras]]></company>
     <title><![CDATA[Especialista em Controles Internos]]></title>
@@ -92065,6 +91466,40 @@ de leitura e interpretação de documentos em inglês]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[7e7ac1f6-8200-4159-ae6c-672946ca803a]]></partnerJobId>
+    <company><![CDATA[Pagsmile]]></company>
+    <title><![CDATA[Analista de Marketing JR]]></title>
+    <posterEmail><![CDATA[aline.barbosa@pagsmile.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Analista de Marketing Júnior criativo(a), organizado(a) e conectado(a) às tendências do ambiente digital para apoiar as estratégias de comunicação e posicionamento da marca. Esse(a) profissional atuará no planejamento, criação e execução de conteúdos para redes sociais, apoio em campanhas de e-mail marketing, acompanhamento de métricas e interação com comunidades digitais, contribuindo para fortalecer o relacionamento com nosso público e ampliar nossa presença online. Procuramos alguém com boa comunicação, facilidade para escrita, interesse em copywriting, olhar analítico e forte identificação com o universo gamer, geek, esports e cultura digital, acompanhando tendências, lançamentos e movimentos desse mercado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Apoio na gestão das redes sociais, colaborando no planejamento, criação de conteúdo, copywriting e execução das postagens;
+Suporte no desenvolvimento e disparo de campanhas de e-mail marketing, seguindo estratégias e orientações do time;
+Apoio no planejamento e na criação de conteúdos para as redes sociais da marca e da equipe, garantindo alinhamento com o tom de voz;
+Auxílio no gerenciamento de postagens, interações e atendimento ao público nas redes sociais;
+Apoio no contato com parceiros e jogadores, contribuindo para o alinhamento de demandas e necessidades operacionais;
+Acompanhamento de métricas básicas e apoio na análise de desempenho de conteúdos e campanhas;
+Apoio nas postagens imediatas nas redes sociais, para cobertura de jogos, quando necessário;
+Suporte na participação, representação e cobertura de eventos presenciais, quando necessário (ex: Brasil Game Show);<br /><br /><b>Requisitos e qualificações</b><br /><br />Formação em Marketing, Publicidade, Comunicação, Jornalismo ou áreas correlatas;
+Noções básicas em ferramentas de marketing digital (ex: Meta Business, plataformas de e-mail marketing, ferramentas de agendamento ou analytics);
+Forte interesse pelo universo gamer e geek, com familiaridade com jogos, esports, campeonatos, streamers e cultura digital;
+Ter contato ativo com esse meio e acompanhar novidades, tendências e lançamentos do setor;
+Boa comunicação escrita e verbal, com interesse em desenvolver habilidades em copywriting;
+Perfil organizado, colaborativo e com vontade de aprender;
+Interesse por redes sociais e formatos de conteúdo digital (Instagram, TikTok, X/Twitter, Discord, etc.);
+Estar sempre antenado(a) em tendências de redes sociais e comportamento digital;
+Disponibilidade para participar de eventos anuais, representando a empresa em eventos do setor (como a Brasil Game Show).]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasabertaspagsmilebr/9/analista-de-marketing-jr]]></applyUrl>
+    <companyId><![CDATA[14374967]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[SP]]></state>
+    <country><![CDATA[BR]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[2d0805ce-d5a2-4605-9de7-99341a5a8c29]]></partnerJobId>
