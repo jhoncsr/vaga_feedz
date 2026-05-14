@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 14 May 2026 17:17:53 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 14 May 2026 18:15:10 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3389]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3397]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -437,33 +437,6 @@
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[71ae9c6a-90e8-46ab-9d74-c36592139145]]></partnerJobId>
-    <company><![CDATA[Credi Shop]]></company>
-    <title><![CDATA[PROMOTOR DE VENDAS - PINHEIRO]]></title>
-    <posterEmail><![CDATA[elmamachado@credishop.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Abordagem externa ao público para oferta do cartão Credi-Shop e serviços financeiros;</li><li>Organização de materiais de apoio.</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a abordagem e atendimento ao cliente em pontos de venda;</li><li>Promover os produtos, destacando suas qualidades e vantagens;</li><li>Informar sobre promoções e campanhas em curso;</li><li>Registrar vendas e reportar resultados.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursos ou experiência com atendimento ao público e/ou vendas;</li><li>Boa comunicação;</li><li>Habilidade de negociação;</li><li>Capacidade de trabalho em equipe;</li><li>Foco em resultados.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/credishop/118/promotor-de-vendas-pinheiro]]></applyUrl>
-    <companyId><![CDATA[1089858]]></companyId>
-    <city><![CDATA[Pinheiro]]></city>
-    <state><![CDATA[Maranhão]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1787.30]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1787.30]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -1133,6 +1106,51 @@ distribuído, logging estruturado).</li></ul><br />]]></description>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d55da365-e107-4039-98bc-05873a235986]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Cyber] Especialista em Segurança]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O especialista de Segurança fará parte do coração do time de
+operações de aplicações cloud native, atuando transversalmente na plataforma
+**TOTVS Apps**. Sua missão é garantir que a agilidade do DevOps caminhe junto
+com a resiliência, implementando controles de segurança diretamente nas
+esteiras de automação e na infraestrutura de serviços. Você será a referência
+técnica para disseminar a cultura de **Shift-Left Security**, garantindo que a
+plataforma, utilizada por centenas de desenvolvedores, cresça de forma
+sustentável, segura e em conformidade.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Implementar e gerenciar ferramentas de segurança (**SAST,
+DAST, SCA e Secret Scanning**) integradas nativamente ao ciclo de CI/CD;</li><li>Garantir a sustentabilidade e segurança dos ambientes através
+da orientação dos demais integrantes do time no uso de boas práticas de
+segurança em nuvem e containers;</li><li>Realizar revisões arquiteturais e técnicas periódicas com
+foco em segurança, identificando vulnerabilidades em infraestrutura e código;</li><li>Atuar na triagem e priorização de vulnerabilidades
+reportadas, categorizando riscos e estipulando prazos para mitigação junto aos
+times de engenharia;</li><li>Pesquisar e avaliar novas tecnologias de segurança
+(**Cloud Native Security, Zero Trust, Service Mesh**) para aprimorar a
+resiliência e escalabilidade da plataforma;</li><li>Disseminar a cultura de segurança por meio de mentorias,
+guias de boas práticas e participação ativa em fóruns técnicos internos e
+externos;</li><li>Identificar riscos e promover a melhoria contínua através
+da participação ativa das cerimônias ágeis (Dailies, Reviews e Retrospectivas).</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação: </b>Superior completo em Segurança da Informação, Engenharia,
+Ciência da Computação ou áreas de Exatas.
+
+<b>Conhecimento:</b><ul><li><b>Metodologia Ágil</b> – nível domínio;</li><li><b>Kubernetes e Containers</b> (Segurança de Runtime,
+Network Policies, RBAC) – nível avançado;</li><li><b>Cloud Pública (AWS ou GCP)</b> – nível intermediário;</li><li><b>CI/CD e Automação</b> (Azure DevOps, GitHub Actions ou
+similares) – nível avançado;</li><li><b>Arquitetura Cloud Native</b> (Microserviços, API
+Gateway, Service Mesh) – nível intermediário;</li><li><b>Linux e Scripting</b> (Bash, Python ou Go) – nível
+avançado;</li><li><b>Segurança e Conformidade</b> (Práticas de governança e
+compliance em Cloud) – nível intermediário.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10043/cyber-especialista-em-seguranca]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -2115,6 +2133,25 @@ clientes e áreas envolvidas no projeto/atendimento; </li><li>Utiliza framework
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[2bd16412-41d2-46bf-b453-c7c719834f80]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de Software Backend Pleno - .NET / C#]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Aqui no Backoffice RM, desenvolvemos software para a gestão das operações internas de  empresas (como financeiro, contábil, fiscal, etc.), para que nossos clientes trabalhem de forma otimizada e sem complicações. <br />Estamos em busca de uma pessoa desenvolvedora de software,  criativa, ágil e colaborativa, que esteja pronta para enfrentar desafios e contribuir para o desenvolvimento de produtos robustos e inovadores.<br />Se você tem domínio em C# e Angular, e deseja atuar na maior empresa de tecnologia da América Latina, num ambiente dinâmico e repleto de oportunidades, venha fazer parte do nosso time!<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver soluções técnicas de média e alta complexidade, conhecendo a fundo a arquitetura do software e sendo capaz de atuar nela através da análise de seus componentes, organização e funcionalidades; </li><li>Criar testes de alta complexidade, (manuais e/ou automatizados), que cubram o comportamento desejado dos componentes técnicos desenvolvidos, utilizando os requisitos e ferramentas de testes; </li><li>Documentar as etapas de desenvolvimento e realizar seu registro nas ferramentas de versionamento e documentação; </li><li>Orientar e trabalhar com o time de desenvolvimento para encontrar soluções de negócio, arquitetura e desenho através da comunicação e trocas de conhecimento, inclusive orientar desenvolvedores de menor senioridade;</li><li>Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados; </li><li>Detalhar requisitos de média e alta complexidade através do contato com clientes e/ou áreas envolvidas no projeto ou atendimento; </li><li>Utilizar frameworks já definidos para o desenvolvimento de soluções. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li> Lógica de Programação;</li><li>Boas práticas de desenvolvimento de software ;</li><li>Métodos ágeis de desenvolvimento de software;</li><li>Arquitetura de Software;</li><li>Testes unitários;</li><li>Linguagem de programação C# e Angular; </li><li>Banco de Dados (SQL e Oracle) – nível avançado para consultas e performance.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10136/tech-engenharia-de-software-backend-pleno-net-c]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[f907d256-3255-47a3-b0e1-e46454a8909b]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Tech] Engenharia de Software Fullstack Pleno - .Net | Angular]]></title>
@@ -2160,25 +2197,6 @@ clientes e áreas envolvidas no projeto/atendimento; </li><li>Utiliza framework
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Desenvolver soluções customizadas aos clientes, garantindo qualidade e entrega de<br />valor ao cliente. Atuação também na sustentação das soluções entregues ao cliente.<br />Buscamos profissionais que trabalhem de forma colaborativa, que prezem pela<br />qualidade na atuação que fazem no dia-a-dia, que tenham atenção aos prazos e<br />testes realizados e que prezem pela inovação em suas entregas.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Desenvolvimento Full Stack, inclusive testes e documentação<br />técnica de softwares da linha TOTVS RM C#.Net Winform/Webform e Angular;<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Graduação (completa ou em curso) em cursos relacionados a área de TI;</b><br /><b> Experiência de atuação como back-end em .NET / C#;</b><br /><b> Experiência em banco de dados (SQL Server, Oracle);</b><br /><b> Sólidos conhecimentos sobre Orientação a Objetos;</b><br /><b> Experiência na construção e utilização de APIs Rest e testes unitários.</b><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9898/tech-engenharia-de-software-junior-net-c]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[Belo Horizonte]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[eff7bc5c-639f-44f1-9743-122fcf84433a]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Engenharia de Software Pleno | .Net  & C#]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>Missão do cargo</b><br /><br />Você será responsável por desenvolver e sustentar funcionalidades de software, que agreguem valor ao produto referente ao usuário final, garantindo a satisfação do cliente dentro da área de atuação.<b></b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER</b><br /><ul><li>Desenvolver soluções técnicas através do desenvolvimento de requisitos de softwares, com nível de supervisão e apoio moderado, utilizando-se das tecnologias front-end envolvidas no projeto com foco na usabilidade do produto;</li><li>Compreender a arquitetura front-end do software e ser capaz de atuar nela através da análise de seus componentes, organização e funcionalidades;</li><li>Criar testes, sejam estes manuais ou automatizados, que cubram o comportamento desejado</li><li>dos componentes técnicos desenvolvidos utilizando os requisitos e ferramentas de testes;</li><li>Documentar as etapas de desenvolvimento realizando o registro do desenvolvimento nas ferramentas de versionamento e documentação;</li><li>Trabalhar com o time de desenvolvimento para encontrar soluções de negócio, arquitetura e desenho através da comunicação e trocas de conhecimento;</li><li>Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b>No mínimo 3 anos de experiência com desenvolvimento;<br />Conhecimento em desenvolvimento .Net / C#;<br />Conhecimento em desenvolvimento web;<br />Conhecimento em desenvolvimento windows forms;<br />Conhecimento em banco de dados SQL Server e Oracle;<br />Conhecimento em metodologia ágil;<br />Conhecimento em Angular;<br />Conhecimento em Segurança em desenvolvimento Web;<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9601/tech-engenharia-de-software-pleno-net-c]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
     <state><![CDATA[Minas Gerais]]></state>
@@ -3821,6 +3839,25 @@ Robotização, etc.; <br /><br /><br />]]></description>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Atuar no apoio ao executivo de contas na gestão do ciclo comercial, organizar as rotinas operacionais, assegurar o registro, acompanhamento e qualidade das informações e propostas comerciais no CRM, além de contribuir para a eficiência das interações com clientes e áreas interna.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar como principal responsável pela elaboração, organização e registro de propostas comerciais no CRM da companhia;</li><li>Garantir a atualização e integridade das informações no CRM, incluindo pipeline, oportunidades, atividades e histórico de interações;</li><li>Registrar atas das reuniões e agendas com clientes e áreas internas, assegurando clareza nos próximos passos e responsabilidades;</li><li>Apoiar o executivo comercial em demandas operacionais, tanto com clientes quanto com áreas internas (financeiro, jurídico, operações, etc.);</li><li>Realizar follow-ups com clientes e stakeholders internos para garantir o andamento das oportunidades;</li><li>Apoiar na preparação de apresentações comerciais, relatórios e materiais de apoio;</li><li>Monitorar prazos, propostas em andamento e etapas do funil de vendas;</li><li>Contribuir para a padronização e melhoria contínua dos processos comerciais;</li><li>Apoiar na organização de agendas, reuniões e eventos com clientes;</li><li>Auxiliar na análise de dados comerciais e geração de relatórios de performance.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Ensino superior completo ou em andamento </b></li><li><b>Experiência prévia em áreas comerciais, pré-vendas, atendimento ou suporte comercial;</b></li><li><b>Familiaridade com sistemas de CRM </b></li><li><b>Organização, atenção a detalhes e capacidade de priorização;</b></li><li><b>Proatividade e capacidade de trabalhar em equipe;</b></li></ul><br /><ul><li><b>Habilidade de negociação, comunicação e gestão de relacionamento com decisores;</b></li><li><b>Perfil organizado, proativo, resiliente e orientado a resultados;</b></li><li><b>Alta autonomia, disciplina e senso de responsabilidade para gerenciar carteira, pipeline e agenda.</b></li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10009/vendas-analista-comercial-junior-setor-publico-afirmativa-para-pessoas-com-deficiencia]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b0e1f909-73ca-403c-aee2-389480c6609c]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Analista de Segurança da Informação Júnior]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia.<br />#VemPraTOTVS #SomosTOTVS<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar no monitoramento de alertas de segurança, com criação e ajuste de regras, além da elaboração de playbooks e runbooks para resposta a incidentes;</li><li>Realizar atividades de hunting em ferramentas de segurança, conduzindo investigações e análises de possíveis ameaças;</li><li>Abrir e gerenciar chamados, além de conduzir salas de crise em conjunto com outros times para tratamento de incidentes;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Sistemas da Informação, Ciência da Computação ou áreas correlatas.</li><li>Vivência em ambientes proativos de segurança, como SOC e times de resposta a incidentes.</li><li>Conhecimento em frameworks de mercado voltados à resposta a incidentes e construção de documentações.</li><li>Interesse contínuo em aprendizado e evolução na área de segurança da informação.</li><li>Conhecimento em resposta a incidentes e monitoramento de alertas, atuando na identificação e tratamento de eventos de segurança.</li><li>Experiência com SIEM e ferramentas de monitoramento de segurança, atuando na análise e resposta a eventos;</li><li>Conhecimento em ELK como solução de SIEM, apoiando na correlação e visualização de logs;</li><li>Experiência com CrowdStrike (EDR), contribuindo para detecção e resposta a ameaças;</li><li>Capacidade de elaboração e manutenção de documentação técnica, incluindo playbooks e runbooks;</li><li>Experiência com ferramentas de gestão de tickets (ITSM), garantindo organização e rastreabilidade dos atendimentos;</li><li>Atuação em tuning de regras com base em análises e observações do dia a dia, buscando maior assertividade na detecção;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9961/tech-analista-de-seguranca-da-informacao-junior]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -9150,6 +9187,25 @@ Capacidade de trabalhar em equipe e lidar com rotinas dinâmicas.</li>]]></descr
     <companyId><![CDATA[27222659]]></companyId>
     <city><![CDATA[Goiânia]]></city>
     <state><![CDATA[Goiás]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[a355d46e-ef26-439a-8081-f3c56042abb3]]></partnerJobId>
+    <company><![CDATA[IBRAMED]]></company>
+    <title><![CDATA[Operador(a) de Produção Jr]]></title>
+    <posterEmail><![CDATA[la.andrade@ibramed.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><strong>Buscamos novos talentos para integrar nossa área produtiva.</strong><br />Se você se identifica com a nossa empresa e deseja fazer parte da nossa equipe, cadastre-se e venha construir sua carreira conosco.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a montagem de acessórios, placas e sub itens dos equipamentos eletrônicos;</li><li>Realizar a pré formatação de componentes e placas eletrônicas;</li><li>Realizar a soldagem e acabamento das placas eletrônicas;</li><li>Auxiliar a equipe nas demais atividades da área.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo;</li><li>Ter disponibilidade para trabalhar na cidade de Amparo/SP em horário comercial de segunda à sexta-feira.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ibramed/46/operador-a-de-producao-jr]]></applyUrl>
+    <companyId><![CDATA[3856170]]></companyId>
+    <city><![CDATA[Amparo]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -19539,6 +19595,25 @@ de prensas ou máquinas industriais (desejável).</li></ul><br /><br /><b>Requis
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[6bb8feae-977e-43c9-8812-3e7454db27f9]]></partnerJobId>
+    <company><![CDATA[HSystem]]></company>
+    <title><![CDATA[Analista de CS Onboarding JR]]></title>
+    <posterEmail><![CDATA[maria.melo@hsystem.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você será responsável por conduzir toda a jornada inicial dos clientes com as soluções HSystem, garantindo uma experiência de entrada fluida, organizada e estratégica desde o kickoff até a entrega final dos produtos e serviços contratados. Atuando de forma técnica e consultiva, irá liderar o processo de implementação da plataforma, realizando configurações, orientando boas práticas e capacitando os usuários para que utilizem a solução com segurança e autonomia.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir todo o processo de implementação das soluções HSystem com os clientes, desde a configuração inicial até a liberação, garantindo garantindo uma experiência fluida e bem-sucedida;</li><li>Realizar diagnósticos e mapeamento de processos para entender as necessidades específicas de cada propriedade e adequar a abordagem de acordo com o perfil do cliente;</li><li>Oferecer suporte consultivo e técnico durante todo o processo de onboarding, atuando como parceiro estratégico do cliente;</li><li>Trabalhar em colaboração estreita com equipes internas e clientes para garantir alinhamento de expectativas e superação de resultados;</li><li>Treinar e capacitar usuários finais para assegurar a adoção completa da plataforma e autonomia operacional;</li><li>Documentar processos e boas práticas de onboarding para melhoria contínua da experiência do cliente;</li><li>Acompanhar métricas de sucesso do onboarding e identificar oportunidades de otimização da jornada do cliente.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Excelentes habilidades de comunicação verbal e escrita, com capacidade de explicar conceitos técnicos de forma clara e didática;</li><li>Orientação para resultados e foco na experiência do cliente, com mindset de Customer Success;</li><li>Capacidade analítica para resolver problemas rapidamente e propor soluções eficazes;</li><li>Gestão de projetos com habilidade para gerenciar múltiplos onboardings simultaneamente, respeitando prazos e garantindo qualidade;</li><li>Conhecimentos técnicos em integração de sistemas, configuração e personalização de software SaaS;</li><li>Facilidade para trabalho colaborativo e construção de relacionamentos sólidos com clientes e stakeholders internos.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hsystem/62/analista-de-cs-onboarding-jr]]></applyUrl>
+    <companyId><![CDATA[3190262]]></companyId>
+    <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[e3d3fe20-01b2-429c-a877-f00ad6cb243d]]></partnerJobId>
     <company><![CDATA[HSystem]]></company>
     <title><![CDATA[Web Designer JR]]></title>
@@ -19580,25 +19655,6 @@ Facilidade para atendimento ao cliente</li></ul>]]></description>
     <posterEmail><![CDATA[maria.melo@hsystem.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você será responsável por prestar o primeiro nível de suporte aos clientes do software hoteleiro da HSystem, realizando atendimentos por telefone, e mail e chat. Atuará no esclarecimento de dúvidas, registro de solicitações e resolução de problemas técnicos, seguindo processos e garantindo agilidade nos retornos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prestar suporte técnico aos clientes do software da HSystem por telefone, e-mail e chat online</li><li>Fornecer informações de forma clara e assertiva aos usuários</li><li>Atuar com eficiência na resolução de problemas, incluindo casos complexos</li><li>Intermediar alterações e configurações nos módulos do sistema</li><li>Registrar e documentar todos os atendimentos realizados no Moveidesk</li><li>Trabalhar sob orientação de profissionais mais experientes, com abertura para desenvolvimento técnico contínuo</li><li>Apoiar a área em outras atividades relacionadas ao suporte.  </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em atendimento ao cliente, telemarketing ou hotelaria (central de reservas/ recepção)</li><li>Boa comunicação verbal e escrita, com habilidades interpessoais desenvolvidas</li><li>Proatividade e facilidade para trabalhar em equipe</li><li>Organização e capacidade de gerenciar o tempo de forma eficiente</li><li>Familiaridade e facilidade no uso de tecnologias</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hsystem/60/assistente-de-suporte-tecnico]]></applyUrl>
-    <companyId><![CDATA[3190262]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[0505aba9-f901-49c9-a672-31314c0b3d4c]]></partnerJobId>
-    <company><![CDATA[HSystem]]></company>
-    <title><![CDATA[Pré-Vendas (SDR) JR]]></title>
-    <posterEmail><![CDATA[maria.melo@hsystem.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você será responsável por prospectar e qualificar novos leads, atuando na primeira etapa do processo comercial da HSystem. Conduzirá conversas de maneira consultiva e estratégica, identificando oportunidades de negócio, entendendo as necessidades das pessoas interessadas em nossas soluções e preparando o caminho para o time de vendas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Identificar e prospectar novos clientes no setor hoteleiro, incluindo hotéis, pousadas e similares.  </li><li>Executar cadências de prospecção, utilizando estratégias eficazes para engajar potenciais clientes.  </li><li>Mapear dores e necessidades dos leads, apresentando soluções personalizadas.  </li><li>Agendar reuniões entre leads e especialistas de vendas, assegurando uma transição fluida e organizada.  </li><li>Manter o CRM atualizado com todas as interações, garantindo um pipeline organizado e eficiente. </li><li>Trabalhar com metas claras, focando no alcance de agendamentos e conversões. </li><li>Acompanhar métricas de desempenho individual e sugerir melhorias nos processos de prospecção. </li><li>Contribuir para a evolução da equipe, compartilhando boas práticas e aprendizados em reuniões e treinamentos. </li><li>Representar a HSystem de forma profissional, priorizando a satisfação e experiência do cliente. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Excelente comunicação verbal e escrita</b>, com clareza, empatia e poder de persuasão. </li><li><b>Capacidade analítica</b> para identificar necessidades e propor soluções personalizadas. </li><li><b>Proatividade</b>, com disposição para aprender, sugerir melhorias e se adaptar rapidamente. </li><li><b>Boa organização</b>, para gerenciar cadências de prospecção e manter o CRM atualizado. </li><li><b>Resiliência</b>, para lidar com objeções sem perder o foco nos resultados. </li><li><b>Conhecimento em vendas consultivas</b>, como SPIN Selling (diferencial). </li><li><b>Colaboração</b>, com facilidade para atuar em conjunto com os times de marketing e vendas. </li><li><b>Curiosidade e interesse</b> pelo mercado hoteleiro e pelas soluções da HSystem</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hsystem/59/pre-vendas-sdr-jr]]></applyUrl>
     <companyId><![CDATA[3190262]]></companyId>
     <city><![CDATA[Florianópolis]]></city>
     <state><![CDATA[Santa Catarina]]></state>
@@ -20287,6 +20343,25 @@ Domínio de Excel e sistemas financeiros/ERP - Ter trabalhado com Sienge será u
     <companyId><![CDATA[35618127]]></companyId>
     <city><![CDATA[Recife]]></city>
     <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3b92d984-8b00-4176-acc9-7213a68b3205]]></partnerJobId>
+    <company><![CDATA[Starbem]]></company>
+    <title><![CDATA[Analista de Implantação e Onboarding (Pleno/Sênior)]]></title>
+    <posterEmail><![CDATA[ivone.granadeiro@starbem.app]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você será responsável por conduzir o processo de implantação e onboarding de clientes Mid-Market e Enterprise, garantindo uma experiência consultiva, estratégica e eficiente desde o kick-off até a ativação operacional.A posição terá forte atuação na gestão de projetos de implantação complexos, relacionamento com stakeholders estratégicos e construção de processos escaláveis. Também será responsável por apoiar a automação e otimização do fluxo de onboarding SMB, garantindo ganho de eficiência operacional e escalabilidade da área.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir projetos de implantação end-to-end para clientes Mid-Market e Enterprise;</li><li>Liderar reuniões de kick-off, discovery e alinhamento executivo;</li><li>Mapear processos, necessidades operacionais e requisitos técnicos dos clientes;</li><li>Acompanhar entregas da implantação;</li><li>Garantir alinhamento entre cliente e áreas internas;</li><li>Atuar de forma consultiva durante toda a jornada de onboarding;</li><li>Realizar treinamentos e capacitação de usuários;</li><li>Gerenciar stakeholders internos e externos;</li><li>Antecipar riscos e propor planos de mitigação;</li><li>Garantir ativação, adoção e sucesso inicial do clientes;</li><li>Estruturar fluxos automatizados de onboarding para clientes SMB;</li><li>Identificar oportunidades de ganho operacional e redução de atividades manuais;</li><li>Apoiar implementação de automações, playbooks e jornadas digitais;</li><li><b>Criar materiais escaláveis de onboarding:</b></li></ul><ul><li>FAQs</li><li>Base de conhecimento</li><li>Templates</li><li>Fluxos automatizados</li><li>Comunicação automatizada</li></ul>Trabalhar em parceria com Produto, CSM e Tecnologia para otimização da jornada SMB;<br />Apoiar definição de segmentação de clientes e modelos de atendimento.<br /><b>Acompanhar indicadores, como:</b><br /><ul><li>SLA de implantação;</li><li>Tempo médio de onboarding;</li><li>Taxa de ativação;</li><li>Adoção da plataforma/produto;</li><li>NPS de onboarding;</li><li>Engajamento do cliente;</li><li>Churn early-stage;</li><li>Volume de implantações concluídas;</li><li>Redução de esforço operacional manual;</li><li>% de automação do fluxo SMB;</li><li>Eficiência operacional do onboarding.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com implantação, onboarding, customer success ou gestão de projetos;</li><li>Vivência com clientes B2B;</li><li>Boa capacidade de comunicação e condução de reuniões;</li><li>Organização e gestão de múltiplos projetos simultaneamente;</li><li>Perfil analítico e orientado a processos;</li><li>Experiência com ferramentas de CRM e gestão de projetos;</li><li>Capacidade de atuar em ambientes dinâmicos e de crescimento acelerado.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/starbem/62/analista-de-implantacao-e-onboarding-pleno-senior]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -22342,10 +22417,10 @@ Contábeis Completo;<br />Informática básica; <br />Experiência comprovada e
   <job>
     <partnerJobId><![CDATA[ab58c22a-3374-46e7-aaca-944cefa4b41b]]></partnerJobId>
     <company><![CDATA[Veredas Agroindustrial]]></company>
-    <title><![CDATA[MOTORISTA CAMINHÃO PIPA]]></title>
+    <title><![CDATA[MOTORISTA VEICULOS PESADOS I E II ( PIPA)]]></title>
     <posterEmail><![CDATA[gabriela.pereira@ferroeste.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma oportunidade que combine desafios e a chance de fazer a diferença no dia a dia, convidamos você a se juntar à nossa equipe como Motorista de Caminhão Pipa. Estamos em busca de profissionais dedicados e comprometidos, que desejam contribuir para um ambiente dinâmico e de crescimento. Aqui, você encontrará um espaço onde suas habilidades serão valorizadas e sua segurança e bem-estar são prioridade. Pensamos em um futuro em que a sua experiência e expertise possam ser parte essencial do nosso sucesso. Se você está pronto para embarcar em uma nova jornada, venha conversar conosco e descubra como pode fazer parte de uma equipe que se destaca pela excelência e pelo respeito. Sua próxima grande oportunidade pode estar a um passo de distância!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Conduzir caminhão pipa para transporte de água ou outros líquidos conforme a demanda.<br /> - Realizar a carga e descarga de água em locais pré-determinados, garantindo que os procedimentos de segurança sejam seguidos.<br /> - Manter a limpeza e conservação do veículo, realizando verificações periódicas e comunicando necessidades de manutenção.<br /> - Preencher relatórios de abastecimento e movimentação de carga, registrando informações necessárias para controle interno.<br /> - Respeitar as leis de trânsito e normas de segurança durante a condução do veículo.<br /> - Auxiliar na orientação de equipes durante a descarga em obras ou eventos, assegurando a correta distribuição do líquido transportado.<br /> - Colaborar com a equipe de logística para planejar rotas e horários, buscando eficiência no transporte.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Experiência comprovada na condução de caminhão pipa.<br /> - Habilitação categoria C ou E.<br /> - Conhecimento em mecânica básica de veículos pesados.<br /> - Noções de segurança no trânsito e transporte de líquidos.<br /> - Disponibilidade para viagens e horários variados.<br /> - Capacidade de trabalho em equipe.<br /> - Ensino fundamental completo.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/destilariaveredas/768/motorista-caminhao-pipa]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/destilariaveredas/768/motorista-veiculos-pesados-i-e-ii-pipa]]></applyUrl>
     <companyId><![CDATA[105088396]]></companyId>
     <city><![CDATA[João Pinheiro]]></city>
     <state><![CDATA[Minas Gerais]]></state>
@@ -33017,25 +33092,6 @@ Boa comunicação e relacionamento interpessoal.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[87e903ca-2cc2-4b7d-af69-af49bbe4bb86]]></partnerJobId>
-    <company><![CDATA[Grupo Canopus]]></company>
-    <title><![CDATA[SUPERVISOR DE PEÇAS]]></title>
-    <posterEmail><![CDATA[yohana.jesus@grupocanopus.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais apaixonados por desafios e com um espírito inovador para integrar nossa equipe de sucesso. Se você deseja fazer parte de uma empresa que valoriza o crescimento, o trabalho em equipe e o desenvolvimento contínuo, essa é a sua chance! Aqui, cada colaborador tem a oportunidade de contribuir ativamente para o nosso ambiente dinâmico e colaborativo. Oferecemos um espaço onde suas ideias podem florescer e seu potencial pode ser plenamente explorado. Se você busca um ambiente que estimula a criatividade e promove o aprendizado constante, convidamos você a se inscrever e descobrir um novo caminho em sua carreira. Venha fazer parte de uma equipe que acredita no poder da colaboração e da excelência! Seu futuro profissional pode começar aqui.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Supervisionar a equipe de atendimento ao cliente, garantindo a excelência no serviço prestado.<br /> - Controlar o estoque de peças, realizando inventários periódicos e otimizando a reposição de produtos.<br /> - Analisar e acompanhar o desempenho das vendas, propondo estratégias para aumento da produtividade.<br /> - Garantir a adequada apresentação e organização do setor de peças, seguindo as normas da empresa.<br /> - Treinar e capacitar a equipe de colaboradores, orientando quanto aos processos e produtos.<br /> - Estabelecer e manter um bom relacionamento com fornecedores, negociando condições e prazos.<br /> - Atender clientes e resolver problemas relacionados a pedidos, devoluções e garantias dos produtos.<br /> - Elaborar relatórios de desempenho e indicadores de resultados, apresentando à gerência.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Experiência prévia na supervisão de equipes de vendas ou atendimento ao cliente.<br /> - Conhecimento técnico sobre peças e acessórios.<br /> - Capacidade de liderar e motivar equipe.<br /> - Proficiente em sistemas de gestão e controle de estoque.<br /> - Habilidade em comunicação e negociação.<br /> - Formação acadêmica em Administração, Engenharia ou áreas correlatas.<br /> - Disponibilidade para trabalho em horários flexíveis.<br /> - Conhecimentos em logística e cadeia de suprimentos.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/914/supervisor-de-pecas]]></applyUrl>
-    <companyId><![CDATA[2073549]]></companyId>
-    <city><![CDATA[Várzea Grande]]></city>
-    <state><![CDATA[Mato Grosso]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[3027b43d-4582-47cd-82eb-c5079eacf979]]></partnerJobId>
     <company><![CDATA[Grupo Canopus]]></company>
     <title><![CDATA[CONSULTOR DE VENDAS]]></title>
@@ -38195,6 +38251,25 @@ para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><b
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1313/coordenador-de-processos-agricolas-preparo-de-solo-e-plantio]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Conceição das Alagoas]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[33690129-11d9-4dd8-aa3c-730329ad4a75]]></partnerJobId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Auxiliar de Processo Industrial]]></title>
+    <posterEmail><![CDATA[kauany.cardoso@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Efetuar Atividades de limpeza no Setor. </li><li>Realizar Limpeza De trocadores de Calor. </li><li>Realizar 5S e Manter Organização no Setor  de Trabalho. </li><li>Realizar Checklist  Sistema das Torres de Vinhaça. </li><li>Realizar a Conferencia e Apoiar no Descarregamento e Dosagem de Produtos Químicos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Residir em Delta, Igarapava ou conquista.</li><li>Grau de Instrução. </li><li>Ensino médio completo. </li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1675/auxiliar-de-processo-industrial]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Delta]]></city>
     <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -50221,12 +50296,51 @@ Essa posição terá atuação integrada entre assessoria de imprensa, influênc
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[1d1165d2-da5a-4076-a37d-861d7c24489e]]></partnerJobId>
+    <company><![CDATA[GS Inima Brasil]]></company>
+    <title><![CDATA[Técnico(a) em Segurança do Trabalho PL (Obras)]]></title>
+    <posterEmail><![CDATA[ricardo.jovenato@gsinima.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />❇️ Esta posição atua como referência técnica em Segurança do Trabalho no ambiente de obras, garantindo a aplicação das Normas Regulamentadoras, o cumprimento dos Programas de SST e a integridade das condições operacionais. Como profissional nível Pleno, você será responsável por conduzir análises, inspeções e validações técnicas com autonomia, apoiando equipes internas e subcontratadas, assegurando conformidade legal, prevenção de riscos e padronização dos processos de segurança. O papel envolve forte atuação em campo, interface com diversas áreas, gestão de documentos e EPI’s, além de participação ativa na melhoria contínua das práticas de saúde e segurança ocupacional.<br /><b><br /></b><b>⏱️</b><b>Horário:</b> De segunda a sexta-feira, das 08h00 às 18h00, com 1h12 de intervalo.<br /><br />️ <b>Vale Alimentação / Refeição</b> – apoio para suas refeições diárias;<br /> <b>Cesta de Natal </b>– um carinho especial no fim do ano;<br /> <b>Plano de Saúde</b> – cuidado completo para você;<br /> <b>Plano Odontológico </b>– saúde bucal sempre em dia;<br />️ <b>Seguro de Vida sem custo</b> – proteção para você e sua família;<br /> <b>Vale Transporte</b> – facilidade no deslocamento diário;<br /> <b>Auxílio Medicamento</b> – suporte financeiro para tratamentos e prescrições;<br />️ <b>Wellhub</b> – acesso a academias e atividades físicas;<br /> <b>Pluxee Cuida</b> – apoio psicológico, social, nutricional e consultorias jurídica e financeira;<br /> <b>Previdência Privada</b> – com 100% de contribuição no aporte da empresa;<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Verificar condições de trabalho, procedimentos executivos e documentos técnicos, assegurando conformidade com Normas Regulamentadoras e Programas de SST;<br />Realizar registros, elaboração e preenchimento de documentos técnicos pertinentes à segurança;<br />Inspecionar equipamentos, estruturas móveis e estacionárias;<br />Conduzir inspeções em canteiros de obras e alojamentos, avaliando condições e atendimento às NR’s;<br />Analisar e validar documentos de SST de colaboradores próprios e subcontratados;<br />Gerenciar aquisição, estoque, entrega e controle de EPI’s;<br />Realizar análise e gestão dos Programas de Segurança do Trabalho e Saúde Ocupacional;<br />Apoiar equipes de obra na implementação de medidas preventivas e corretivas;<br />Contribuir para a melhoria contínua dos processos de segurança e cultura preventiva.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /> <strong>Formação:</strong> Ensino Técnico.<br />
+ <strong>Curso:</strong> Técnico em Segurança do Trabalho.<br /><br />#️⃣Habilitação Cat. "B", vigente;#️⃣Conhecimentos em rotinas de obras e fiscalização de campo;<br />#️⃣Aplicação de treinamentos de Normas Regulamentadoras;<br />#️⃣Análise e validação de documentos de SST;<br />#️⃣ Gestão de EPI’s e programas de segurança.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/344/tecnico-a-em-seguranca-do-trabalho-pl-obras]]></applyUrl>
+    <companyId><![CDATA[36870042]]></companyId>
+    <city><![CDATA[Vitória]]></city>
+    <state><![CDATA[Espírito Santo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4cdc2cb0-55a8-48d3-9199-ba23082ea87f]]></partnerJobId>
     <company><![CDATA[GS Inima Brasil]]></company>
     <title><![CDATA[Assistente Executivo]]></title>
     <posterEmail><![CDATA[ricardo.jovenato@gsinima.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />❇️Este cargo responde por oferecer suporte executivo direto ao Diretor Técnico, garantindo organização, fluidez e priorização de demandas estratégicas. Atua como ponto de contato central entre diversos stakeholders internos e externos, filtrando informações, estruturando agendas, acompanhando solicitações e coordenando atividades administrativas essenciais. Além disso, mantém o funcionamento diário da Diretoria, organizando documentos, comunicações, viagens e rotinas administrativas, assegurando eficiência e regularidade nas operações da empresa.<br /><br /><br /><b>⏱️</b><b>Horário:</b> De segunda a sexta-feira, das 08h00 às 18h00, com 1h12 de intervalo.<br /><br /><br />️ <b>Vale Alimentação / Refeição</b> – apoio para suas refeições diárias;<br /> <b>Cesta de Natal </b>– um carinho especial no fim do ano;<br /> <b>Plano de Saúde</b> – cuidado completo para você;<br /> <b>Plano Odontológico </b>– saúde bucal sempre em dia;<br />️ <b>Seguro de Vida sem custo</b> – proteção para você e sua família;<br /> <b>Vale Transporte</b> – facilidade no deslocamento diário;<br /> <b>Auxílio Medicamento</b> – suporte financeiro para tratamentos e prescrições;<br />️ <b>Wellhub</b> – acesso a academias e atividades físicas;<br /> <b>Pluxee Cuida</b> – apoio psicológico, social, nutricional e consultorias jurídica e financeira;<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /> Organizar, controlar e atualizar a agenda do Diretor, gerenciando compromissos, reuniões, deslocamentos e prioridades;<br /> Filtrar demandas recebidas, realizando triagens para garantir que apenas assuntos pertinentes e priorizados cheguem ao Diretor;<br /> Preparar documentos, apresentações, comunicados e atas de reunião, garantindo clareza e alinhamento estratégico;<br /> Controlar serviços gerais do escritório: manutenção, limpeza, facilities, controle de estoque e pequenos equipamentos;<br /> Realizar solicitações de compras, acompanhar ordens de serviço e conferir notas fiscais no sistema ERP;<br /> Monitorar contas a pagar do escritório (água, luz, condomínio, telefonia etc.) e encaminhá-las ao Financeiro dentro dos prazos;<br /> Receber, direcionar e acompanhar demandas de stakeholders (municípios, parceiros, fornecedores e órgãos reguladores);<br /> Triar correspondências e malotes da Diretoria, encaminhando assuntos às áreas responsáveis;<br /> Realizar atendimentos telefônicos e presenciais, com postura profissional e comunicação clara;<br /> Controlar documentos físicos e digitais da Diretoria, organizando arquivos e garantindo rápida rastreabilidade.<br /> Administrar solicitações de viagens, hospedagens, combustíveis e reembolsos, realizando controles mensais;<br /> Manter a sala da Diretoria preparada, funcional e organizada para reuniões e atendimentos.<br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /> <b>Formação: </b>Ensino Superior<b> </b> <b>Áreas: </b>Administração, Gestão Empresarial, Processos Gerenciais, Secretariado Executivo ou áreas correlatas.<br /><br /><br />#️⃣Pacote Office em nível intermediário (com foco em Excel, Outlook e PowerPoint);<br />#️⃣Vivência com sistemas ERP (preferencialmente, SAP);<br />#️⃣Noções de rotinas administrativas e facility management;<br />#️⃣Capacidade de redigir textos, memorandos e comunicações formais;<br />#️⃣Desejável conhecimento básico em inglês para leitura e tradução de documentos simples.<br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/347/assistente-executivo]]></applyUrl>
+    <companyId><![CDATA[36870042]]></companyId>
+    <city><![CDATA[Vitória]]></city>
+    <state><![CDATA[Espírito Santo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d56007af-8ddc-42f9-afc5-fa219e9d73b0]]></partnerJobId>
+    <company><![CDATA[GS Inima Brasil]]></company>
+    <title><![CDATA[Supervisor(a) de Obras]]></title>
+    <posterEmail><![CDATA[ricardo.jovenato@gsinima.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por garantir a execução integral das obras sob sua responsabilidade, assegurando que cada etapa seja realizada conforme o planejamento técnico, os requisitos de qualidade, segurança e meio ambiente, além das especificações do projeto. Atua como referência técnica no canteiro, promovendo a integração entre equipes, fornecedores e subcontratados, antecipando necessidades, solucionando desafios operacionais e assegurando que os recursos sejam aplicados de forma eficiente para o cumprimento dos prazos e metas estabelecidas.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Programar as atividades de obra e planejar a execução dos serviços junto às equipes de campo, subcontratados e fornecedores;<br />• Analisar tecnicamente as condições de execução e definir métodos construtivos e executivos adequados;<br />• Realizar a interface entre projeto e execução, garantindo alinhamento técnico e operacional;<br />• Supervisionar a execução de obras de infraestrutura e saneamento;<br />• Validar tecnicamente os serviços executados e assegurar a conformidade com o projeto e padrões de qualidade;<br />• Garantir o atendimento às normas de segurança do trabalho, qualidade e meio ambiente.<br />• Gerir mão de obra, materiais, equipamentos, ferramentas e insumos, assegurando disponibilidade conforme especificações, prazos e quantidades;<br />• Acompanhar o desempenho das equipes e subcontratados, promovendo integração e eficiência nas atividades.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação:</b> Ensino Superior.<b>Área:</b> Engenharia Civil.<br /><b><br />Conhecimentos específicos:</b><br />• Experiência na execução de obras de Saneamento; • Vivência em gestão de contratos de obras; <br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/294/supervisor-a-de-obras]]></applyUrl>
     <companyId><![CDATA[36870042]]></companyId>
     <city><![CDATA[Vitória]]></city>
     <state><![CDATA[Espírito Santo]]></state>
@@ -50382,6 +50496,76 @@ Essa posição terá atuação integrada entre assessoria de imprensa, influênc
     <companyId><![CDATA[36870042]]></companyId>
     <city><![CDATA[Vitória]]></city>
     <state><![CDATA[Espírito Santo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[09dcf5c1-3794-4bf9-8f84-510b20ee7bc2]]></partnerJobId>
+    <company><![CDATA[GS Inima Brasil]]></company>
+    <title><![CDATA[Supervisor(a) de Manutenção Eletromecânica]]></title>
+    <posterEmail><![CDATA[ricardo.jovenato@gsinima.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />❇️ Atuar na supervisão de manutenção eletromecânica, assegurando a execução eficiente das atividades em campo, a qualidade dos serviços, a segurança das equipes e a continuidade operacional dos sistemas. Esta posição tem como desafio garantir o cumprimento dos planos de manutenção, otimizar recursos, elevar indicadores de desempenho (KPIs) e fortalecer a cultura de segurança e eficiência energética, gerando impacto direto na confiabilidade dos ativos e na sustentabilidade das operações.<br />⏱️<b>Horário:</b> De segunda a sexta-feira, das 07h30 às 17h30. Sexta - feira, das 07h30 às 16h30, com 1h00 intervalo / refeição.<br />️ <b>Vale Alimentação / Refeição</b> – apoio para suas refeições diárias;<br /> <b>Cesta de Natal</b> – um carinho especial no fim do ano;<br /> <b>Plano de Saúde</b> – cuidado completo para você;<br /> <b>Plano Odontológico</b> – saúde bucal sempre em dia;<br />️ <b>Seguro de Vida sem custo</b> – proteção para você e sua família;<br /> <b>Vale Transporte</b> – facilidade no deslocamento diário;<br /> <b>Auxílio Medicamento</b> – suporte financeiro para tratamentos e prescrições;<br />️ <b>Wellhub</b> – acesso a academias e atividades físicas;<br /> <b>Pluxee Cuida</b> – apoio psicológico, social, nutricional e consultorias;<br /> <b>Previdência Privada</b> – com 100% de contribuição no aporte da empresa<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Supervisionar equipes de
+manutenção eletromecânica em campo, assegurando alinhamento às diretrizes
+operacionais e de segurança;<br />
+•
+Elaborar programações de atividades e distribuir ordens de serviço
+conforme prioridades e criticidade dos ativos;<br />
+•
+Acompanhar a execução das atividades, verificando prazos, qualidade e
+aderência aos procedimentos estabelecidos;<br />
+•
+Monitorar indicadores de desempenho (KPIs) de manutenção, analisando
+resultados e propondo melhorias;<br />
+•
+Realizar análise de falhas recorrentes em equipamentos e sistemas,
+contribuindo com planos de ação corretivos e preventivos;<br />
+•
+Apoiar tecnicamente as equipes por meio da análise de dados e condições
+operacionais de sistemas eletromecânicos;<br />
+•
+Acompanhar atividades em campo, garantindo correta execução técnica sem
+caracterizar responsabilidade técnica formal;<br />
+•
+Contribuir com a análise de projetos e melhorias operacionais junto às
+áreas técnicas e de engenharia;<br />
+•
+Participar do desenvolvimento e aprimoramento de processos de manutenção;<br />
+•
+Realizar inspeções e vistorias em equipamentos e instalações após
+intervenções realizadas;<br />
+•
+Verificar condições de segurança dos equipamentos e ambientes de
+trabalho, identificando riscos e necessidades de manutenção;<br />
+•
+Assegurar o cumprimento das normas regulamentadoras (NRs), políticas
+internas e padrões de segurança;<br />
+•
+Orientar quanto ao uso adequado de EPIs e práticas seguras de trabalho;<br />
+•
+Acompanhar contratos operacionais sob sua responsabilidade, verificando
+conformidade com escopo e prazos;<br />
+•
+Controlar o uso de insumos e recursos aplicados nas atividades de
+manutenção;<br />
+•
+Elaborar relatórios técnicos e operacionais sobre desempenho, falhas e
+execução dos serviços;<br />
+•
+Promover rotinas de diálogo de segurança e qualidade (DDQSMS) junto às
+equipes;<br />
+•
+Estimular o engajamento e desenvolvimento das equipes, contribuindo para
+um ambiente produtivo e colaborativo.<br /><br /><b>Requisitos e qualificações</b><br /><br /> <b>Formação:</b> Ensino Superior.<br /> <b>Áreas:</b> Engenharia Elétrica, Engenharia Mecânica, Engenharia Eletromecânica, Engenharia de Manutenção, Engenharia de Produção ou áreas correlatas.<br />*️⃣ Experiência prática em supervisão de equipes de manutenção eletromecânica;<br />*️⃣ Conhecimento em manutenção preventiva e preditiva de sistemas eletromecânicos;<br />*️⃣ Capacidade de interpretar diagramas elétricos, desenhos técnicos e esquemas mecânicos;<br />*️⃣ Conhecimento em operação e manutenção de sistemas elétricos de baixa e média tensão (sem exigência de responsabilidade técnica formal);<br />*️⃣ Experiência em planejamento e controle de manutenção;<br />*️⃣ Vivência com análise de falhas e definição de ações corretivas;<br />*️⃣ Conhecimento em normas de segurança (NR-10, NR-12) e boas práticas operacionais;<br />*️⃣ Conhecimento em ferramentas de gestão de manutenção (SAP PM ou similar);<br />*️⃣ Domínio intermediário do Pacote Office (Excel, Word, PowerPoint);<br />*️⃣ Conhecimento em leitura de dados de consumo e eficiência energética;<br />*️⃣ Vivência com rotinas de segurança do trabalho e inspeções operacionais;<br />*️⃣ Habilidade para elaboração de relatórios técnicos e operacionais.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/463/supervisor-a-de-manutencao-eletromecanica]]></applyUrl>
+    <companyId><![CDATA[36870042]]></companyId>
+    <city><![CDATA[Ouro Preto]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -50943,6 +51127,25 @@ Essa posição terá atuação integrada entre assessoria de imprensa, influênc
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/256/analista-de-planejamento-e-controle]]></applyUrl>
     <companyId><![CDATA[36870042]]></companyId>
     <city><![CDATA[Ourinhos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[cc59d921-88fd-42d1-9b7e-0ac0a6b502e6]]></partnerJobId>
+    <company><![CDATA[GS Inima Brasil]]></company>
+    <title><![CDATA[Agente Comercial]]></title>
+    <posterEmail><![CDATA[ricardo.jovenato@gsinima.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />❇️ Realizar atividades de campo relacionadas à leitura e entrega de contas, identificação de irregularidades e apoio a projetos de otimização de rotas. Executa vistorias, coletas de dados manuais e por telemetria, conferência de medidores, entrega de documentos aos clientes e preenchimento de fichas de irregularidades. Atua também na verificação e teste de equipamentos, cumprimento de ordens de serviço via mobile, e condução de veículos da empresa. <br /><br />⏱️ <b>Horário:</b> Das 08:00 às 18:00 com 1h12 Refeição. Sábado Compensado.<br /><br />️ <b>Vale Alimentação / Refeição</b> – apoio para suas refeições diárias;<br /> <b>Cesta de Natal</b> – um carinho especial no fim do ano;<br /> <b>Plano de Saúde</b> – cuidado completo para você;<br /> <b>Plano Odontológico</b> – saúde bucal sempre em dia;<br />️ <b>Seguro de Vida sem custo</b> – proteção para você e sua família;<br /> <b>Vale Transporte</b> – facilidade no deslocamento diário;<br /> <b>Auxílio Medicamento</b> – suporte financeiro para tratamentos e prescrições;<br />️ <b>Wellhub</b> – acesso a academias e atividades físicas;<br /> <b>Pluxee Cuida </b>– apoio psicológico, social, nutricional e consultorias jurídica e financeira;<br /> <b>Previdência Privada</b> – com 100% de contribuição no aporte da empresa;<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Efetuar leitura de hidrômetros e entregar faturas;<br />• Identificar situações que contribuem para desvios de consumo;<br />• Prestar esclarecimento e orientação aos clientes;<br />• Coletar informações sobre rotas de leitura;<br />• Entregar contas e avisos aos clientes;<br />• Identificar vazamentos e irregularidades;<br />• Preencher fichas de irregularidades;<br />• Realizar conferência do número dos hidrômetros;<br />• Realizar leitura manual ou por telemetria;<br />• Realizar pesquisa de levantamento de informações em campo;<br />• Realizar vistorias;<br />• Zelar pelo uniforme, equipamentos e materiais.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /> <b>Formação:</b> Ensino Fundamental.<br /><br />*️⃣ Carteira de Habilitação, categoria "B", vigente;<br />*️⃣ Conhecimento básico em tecnologia;<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/461/agente-comercial]]></applyUrl>
+    <companyId><![CDATA[36870042]]></companyId>
+    <city><![CDATA[Paraibuna]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -54869,6 +55072,25 @@ Registro ativo na OAB.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/105/advogado-ii]]></applyUrl>
     <companyId><![CDATA[5672510]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[a5a5f200-ee78-455b-b135-6e4ea2ffdfd9]]></partnerJobId>
+    <company><![CDATA[BRAM OFFSHORE]]></company>
+    <title><![CDATA[Coordenador de Manutenção]]></title>
+    <posterEmail><![CDATA[vanessa.pavone@chouest.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Para a posição de Coordenador de Manutenção, a atuação será voltada ao suporte das operações, com foco no acompanhamento de rotinas administrativas e operacionais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar, programar e controlar as atividades de manutenção e grandes paradas de acordo com o programa de manutenção e com as prioridades operacionais; </li><li>Coordenar e garantir recursos humanos, materiais, peças, ferramentas e insumos necessários para a execução das tarefas de manutenção que necessitam do suporte de terra; </li><li>Ler e interpretar desenhos, esboços, tabelas, especificações técnicas, manuais ou instruções para validar ajustes, normas, tolerâncias e tudo que for necessário para execução do seu trabalho; Levantar fatos e dados relacionados a eventos para investigação (RCA); </li><li>Revisar e aprovar os serviços executados pelos fornecedores; </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Ensino Superior Completo</b> em Engenharia de Produção, Mecânica, Automação, Elétrica, Eletrônica, Mecatrônica ou Naval;</li><li>Inglês Avançado;</li><li>Experiência com gestão de equipes;</li><li><b>Experiência no setor marítimo ou offshore.</b></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/295/coordenador-de-manutencao]]></applyUrl>
+    <companyId><![CDATA[5672510]]></companyId>
+    <city><![CDATA[São João da Barra]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -60618,6 +60840,25 @@ Start up e comissionamento de equipamentos na linha de processo;<ul>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[8e262078-3907-4401-95ff-9d015784d1c6]]></partnerJobId>
+    <company><![CDATA[Faz Capital]]></company>
+    <title><![CDATA[Analista de Performance e Experiência do Cliente]]></title>
+    <posterEmail><![CDATA[priscila.lopes@fazcapital.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Faz Capital, reconhecida pela XP Investimentos, está em busca de um(a) Analista de Performance e Experiência do Cliente para integrar o nosso time. Se você possui perfil analítico, visão estratégica, foco em melhoria contínua e paixão por proporcionar uma excelente experiência ao cliente, essa pode ser a oportunidade ideal para o seu desenvolvimento profissional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitoramento de indicadores de NPS e performance;</li><li>Identificação de gargalos e oportunidades de melhoria nos processos;</li><li>Apoio em iniciativas de onboarding e relacionamento com clientes;</li><li>Atuação integrada com áreas comercial, operacional, BI e tecnologia;</li><li>Suporte ao programa Voz do Cliente (VoC);</li><li>Acompanhamento de tratativas e contato com clientes;</li><li>Desenvolvimento de ações para melhoria contínua e eficiência operacional.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Boa comunicação e escuta ativa;</li><li>Facilidade de relacionamento interpessoal;</li><li>Perfil colaborativo e trabalho em equipe;</li><li>Organização e senso de prioridade;</li><li>Perfil analítico e olhar crítico;</li><li>Proatividade e senso de dono;</li><li>Empatia e foco na experiência do cliente;</li><li>Capacidade de resolução de problemas;</li><li>Adaptabilidade e flexibilidade;</li><li>Visão estratégica e foco em melhoria contínua;</li><li>Orientação para resultados e indicadores.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fazcarreiras/56/analista-de-performance-e-experiencia-do-cliente]]></applyUrl>
+    <companyId><![CDATA[16193118]]></companyId>
+    <city><![CDATA[Porto Alegre]]></city>
+    <state><![CDATA[Rio Grande do Sul]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[8b53e383-5efb-4344-b3ac-2fc7a8a7b92b]]></partnerJobId>
     <company><![CDATA[Faz Capital]]></company>
     <title><![CDATA[Analista Fundos e Renda Fixa]]></title>
@@ -62284,7 +62525,7 @@ Familiaridade com CRM (preferencialmente HubSpot CRM) e ferramentas de automaç�
     <company><![CDATA[Xmobots]]></company>
     <title><![CDATA[Técnico Operacional Jr]]></title>
     <posterEmail><![CDATA[barbara.souza@xmobots.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar com a logística e preparação dos ensaios em voo, para atividades de desenvolvimento, qualidade, validação de sistemas pós-manutenção, estudos de novos conceitos e identificação de problemas;</li><li>Atuar realizando manutenções nos níveis iniciais dos sistemas e produtos;</li><li>Realizar investigações dos problemas nos sistemas durante os ensaios, apoiando a engenharia;</li><li>Atuar e/ou acompanhar operações com clientes externos, em diferentes regiões do país;</li><li>Atuar nas operações de demonstração para potenciais clientes, em diferentes regiões do país;</li><li>Executar ensaios em solo nos sistemas e equipamentos dos produtos.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação técnica concluída em Mecânica, Elétrica ou Mecatrônica;         </li><li>Conhecimento em Pacote Office;</li><li>Disponibilidade para realizar viagens ao longo do país;</li><li>Residir em São Carlos/SP. </li></ul><br /><br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar com a logística e preparação dos ensaios em voo, para atividades de desenvolvimento, qualidade, validação de sistemas pós-manutenção, estudos de novos conceitos e identificação de problemas;</li><li>Atuar realizando manutenções nos níveis iniciais dos sistemas e produtos;</li><li>Realizar investigações dos problemas nos sistemas durante os ensaios, apoiando a engenharia;</li><li>Atuar e/ou acompanhar operações com clientes externos, em diferentes regiões do país;</li><li>Atuar nas operações de demonstração para potenciais clientes, em diferentes regiões do país;</li><li>Executar ensaios em solo nos sistemas e equipamentos dos produtos.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação técnica concluída em Mecânica, Elétrica ou Mecatrônica;         </li><li>Conhecimento em Pacote Office;</li><li>Disponibilidade para realizar viagens ao longo do país;</li><li>Possuir CNH B ativa;</li><li>Residir em São Carlos/SP. </li></ul><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/xmobotscarreiras/84/tecnico-operacional-jr]]></applyUrl>
     <companyId><![CDATA[5048086]]></companyId>
     <city><![CDATA[São Carlos]]></city>
@@ -62303,7 +62544,7 @@ Familiaridade com CRM (preferencialmente HubSpot CRM) e ferramentas de automaç�
     <company><![CDATA[Xmobots]]></company>
     <title><![CDATA[Assistente Técnico Operacional]]></title>
     <posterEmail><![CDATA[barbara.souza@xmobots.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar com a logística e preparação dos ensaios em voo, para atividades de desenvolvimento, qualidade, validação de sistemas pós-manutenção, estudos de novos conceitos e identificação de problemas;</li><li>Atuar realizando manutenções nos níveis iniciais dos sistemas e produtos;</li><li>Realizar investigações dos problemas nos sistemas durante os ensaios, apoiando a engenharia;</li><li>Atuar e/ou acompanhar operações com clientes externos, em diferentes regiões do país;</li><li>Atuar nas operações de demonstração para potenciais clientes, em diferentes regiões do país;</li><li>Executar ensaios em solo nos sistemas e equipamentos dos produtos.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação técnica em andamento em Mecânica, Elétrica ou Mecatrônica;               </li><li>Conhecimento em Pacote Office;</li><li>Disponibilidade para realizar viagens ao longo do país;</li></ul><br /><ul><li>Residir em São Carlos/SP. </li></ul><br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar com a logística e preparação dos ensaios em voo, para atividades de desenvolvimento, qualidade, validação de sistemas pós-manutenção, estudos de novos conceitos e identificação de problemas;</li><li>Atuar realizando manutenções nos níveis iniciais dos sistemas e produtos;</li><li>Realizar investigações dos problemas nos sistemas durante os ensaios, apoiando a engenharia;</li><li>Atuar e/ou acompanhar operações com clientes externos, em diferentes regiões do país;</li><li>Atuar nas operações de demonstração para potenciais clientes, em diferentes regiões do país;</li><li>Executar ensaios em solo nos sistemas e equipamentos dos produtos.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação técnica em andamento em Mecânica, Elétrica ou Mecatrônica;               </li><li>Conhecimento em Pacote Office;</li><li>Disponibilidade para realizar viagens ao longo do país;</li><li>Possuir CNH B ativa;</li></ul><br /><ul><li>Residir em São Carlos/SP. </li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/xmobotscarreiras/83/assistente-tecnico-operacional]]></applyUrl>
     <companyId><![CDATA[5048086]]></companyId>
     <city><![CDATA[São Carlos]]></city>
@@ -64415,55 +64656,6 @@ Inglês avançado para leitura, escrita e comunicação técnica</li></ul>]]></d
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6b41c6fc-df49-4415-b35c-19f97d14f503]]></partnerJobId>
-    <company><![CDATA[Oplium Cyber For Life]]></company>
-    <title><![CDATA[CONSULTOR DE GESTÃO DE VULNERABILIDADE]]></title>
-    <posterEmail><![CDATA[julio.santo@oplium.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Consultor de Gestão de Vulnerabilidades para atuar de forma estratégica na identificação, priorização e acompanhamento de riscos de segurança em ambientes tecnológicos diversos. Este profissional terá papel fundamental na conexão entre as ferramentas de segurança, os times técnicos e as lideranças, garantindo visibilidade executiva, direcionamento de riscos e evolução contínua do programa de Vulnerability Management. A atuação será focada em governança, priorização baseada em risco e consultoria técnica, apoiando as áreas responsáveis na tomada de decisão e no tratamento eficaz das vulnerabilidades.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar e coordenar varreduras de vulnerabilidades em sistemas, aplicações, infraestrutura e ambientes cloud
-</li><li>
-Atuar como referência técnica no processo de Gestão de Vulnerabilidades
-</li><li>
-Analisar e priorizar vulnerabilidades com base em risco (CVSS, EPSS, contexto do ativo e impacto no negócio)
-</li><li>
-Consolidar e interpretar dados de ferramentas como Qualys, Tenable, Rapid7, Wiz, entre outras
-</li><li>
-Apoiar times de infraestrutura, cloud e desenvolvimento na definição de estratégias de remediação
-</li><li>
-Garantir o correto acompanhamento das vulnerabilidades em ferramentas como Jira, ServiceNow, etc.
-</li><li>
-Produzir relatórios executivos, dashboards e indicadores de risco e maturidade
-</li><li>
-Evoluir processos de Vulnerability Management, com foco em automação e integração entre ferramentas
-</li><li>
-Atuar na conscientização e alinhamento de segurança com áreas técnicas e de negócio</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida com Gestão de Vulnerabilidades
-</li><li>
-Vivência com ferramentas como Qualys, Tenable, Rapid7, Nexpose, Wiz ou similares
-</li><li>
-Conhecimento em análise de risco e priorização (CVSS, EPSS)
-</li><li>
-Experiência com ambientes Windows, Linux, containers e cloud (AWS, Azure ou GCP)
-</li><li>
-Bom entendimento de arquitetura de sistemas, redes e segurança de aplicações
-</li><li>
-Familiaridade com CI/CD e práticas de DevSecOps
-</li><li>
-Experiência com ferramentas de gestão de tickets e acompanhamento de SLAs
-</li><li>
-Capacidade de traduzir temas técnicos para uma visão executiva</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/opliumcybercarreiras/62/consultor-de-gestao-de-vulnerabilidade]]></applyUrl>
-    <companyId><![CDATA[65405460]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[19dad4d6-9c9b-4d86-9dd2-eb8b1fc1c082]]></partnerJobId>
     <company><![CDATA[Oplium Cyber For Life]]></company>
     <title><![CDATA[Analista de Contabilidade]]></title>
@@ -64589,6 +64781,55 @@ Redes e aplicações
 </li><li>
 Experiência prévia em <strong>SOC ou operações de segurança</strong></li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/opliumcybercarreiras/63/consultor-de-automacao]]></applyUrl>
+    <companyId><![CDATA[65405460]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[6b41c6fc-df49-4415-b35c-19f97d14f503]]></partnerJobId>
+    <company><![CDATA[Oplium Cyber For Life]]></company>
+    <title><![CDATA[CONSULTOR DE GESTÃO DE VULNERABILIDADE]]></title>
+    <posterEmail><![CDATA[julio.santo@oplium.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Consultor de Gestão de Vulnerabilidades para atuar de forma estratégica na identificação, priorização e acompanhamento de riscos de segurança em ambientes tecnológicos diversos. Este profissional terá papel fundamental na conexão entre as ferramentas de segurança, os times técnicos e as lideranças, garantindo visibilidade executiva, direcionamento de riscos e evolução contínua do programa de Vulnerability Management. A atuação será focada em governança, priorização baseada em risco e consultoria técnica, apoiando as áreas responsáveis na tomada de decisão e no tratamento eficaz das vulnerabilidades.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar e coordenar varreduras de vulnerabilidades em sistemas, aplicações, infraestrutura e ambientes cloud
+</li><li>
+Atuar como referência técnica no processo de Gestão de Vulnerabilidades
+</li><li>
+Analisar e priorizar vulnerabilidades com base em risco (CVSS, EPSS, contexto do ativo e impacto no negócio)
+</li><li>
+Consolidar e interpretar dados de ferramentas como Qualys, Tenable, Rapid7, Wiz, entre outras
+</li><li>
+Apoiar times de infraestrutura, cloud e desenvolvimento na definição de estratégias de remediação
+</li><li>
+Garantir o correto acompanhamento das vulnerabilidades em ferramentas como Jira, ServiceNow, etc.
+</li><li>
+Produzir relatórios executivos, dashboards e indicadores de risco e maturidade
+</li><li>
+Evoluir processos de Vulnerability Management, com foco em automação e integração entre ferramentas
+</li><li>
+Atuar na conscientização e alinhamento de segurança com áreas técnicas e de negócio</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida com Gestão de Vulnerabilidades
+</li><li>
+Vivência com ferramentas como Qualys, Tenable, Rapid7, Nexpose, Wiz ou similares
+</li><li>
+Conhecimento em análise de risco e priorização (CVSS, EPSS)
+</li><li>
+Experiência com ambientes Windows, Linux, containers e cloud (AWS, Azure ou GCP)
+</li><li>
+Bom entendimento de arquitetura de sistemas, redes e segurança de aplicações
+</li><li>
+Familiaridade com CI/CD e práticas de DevSecOps
+</li><li>
+Experiência com ferramentas de gestão de tickets e acompanhamento de SLAs
+</li><li>
+Capacidade de traduzir temas técnicos para uma visão executiva</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/opliumcybercarreiras/62/consultor-de-gestao-de-vulnerabilidade]]></applyUrl>
     <companyId><![CDATA[65405460]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -65390,6 +65631,45 @@ ciência de dados e Machine Learning.]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b92ca0c9-df31-48ac-99e8-5301071a2402]]></partnerJobId>
+    <company><![CDATA[SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL]]></company>
+    <title><![CDATA[ANALISTA DE INFORMÁTICA - SENAI DR]]></title>
+    <posterEmail><![CDATA[swianetavares@fiepb.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Controlar atendimentos e ordens de serviços, dimensionando requisitos e funcionalidade das solicitações; Estabelecer e desenvolver a manutenção dos diversos sistemas web do SENAI e FIEPB; Desenvolver recursos informatizados como sites e programas, ferramentas de apoio ao usuário; Acompanhar o treinamento dos usuários nos sistemas web desenvolvidos; Emitir proposta de soluções e apoio às suas implantações, visando transformar os objetivos estratégicos da Instituição em soluções competitivas de negócios. </li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><i>Estudar as regras de
+funcionamento do negócio/atividade solicitado e adequar os sistemas web
+desenvolvidos para alcançar os objetivos;</i>;</li><li><i>Dimensionar requisitos e
+funcionalidade de comunicação adequando às necessidades das áreas e da empresa;</i></li><li><i>Escolher ferramentas de
+desenvolvimento mensurando sua otimização e facilidade de aplicação/ resultados obtidos;</i></li><li><i>Definir alternativas físicas de implantação e especificar o layout e
+configurações interativas da web;</i></li><li><i>Monitorar desempenho do
+site e desempenho monitorando suas falhas ou necessidades de aprimoramento;</i></li><li><i>Prever taxa de crescimento
+de acesso ao site com base nas informações e análises;</i></li><li><i>Executar procedimentos para
+melhoria de desempenho do site;</i></li><li><i>Auxiliar as áreas em
+desenhos e atividades multimídia avançados;</i></li><li><i>Sugerir e definir em conjunto com Coordenador e Gerente as ferramentas e
+recursos necessários ao pleno funcionamento da comunicação interna;</i></li><li><i>Analisar resultados das
+suas atividades e emitir parecer quanto aos resultados;</i></li><li><i>Realizar demais atividades
+correlatas ao cargo/função.</i></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação de Nível Superior Completo em Bacharelado em Sistemas de Informação, Ciências da Computação, Engenharia da Computação, Software;</li><li>Desejável experiência mínima de 06 (seis) meses comprovada na função. </li></ul><br /><ul><li><i><strong>Cadastro curricular completo e atualizado na plataforma (<u>Informar nome completo</u>).</strong></i></li></ul><br /><br /><ul><li>Carga horária: 40 horas semanais</li><li>Remuneração: R$ 4.781,74</li></ul><br /><br /><b>Período de Inscrições:</b> 14/05/2026 a 18/05/2026<br /><br /><br /><b>Observações:</b><br />O não preenchimento das informações obrigatórias no momento da inscrição poderá acarretar a desclassificação do candidato. Inscrições realizadas fora do período informado não serão consideradas válidas.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/senaipboportunidades/43/analista-de-informatica-senai-dr]]></applyUrl>
+    <companyId><![CDATA[80346365]]></companyId>
+    <city><![CDATA[Campina Grande]]></city>
+    <state><![CDATA[Paraíba]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[4781.74]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[4781.74]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[20c8113d-2f2a-4cec-939f-a6429a6bddcd]]></partnerJobId>
@@ -67651,9 +67931,9 @@ Boa capacidade de liderança, organização e resolução de problemas.</li><br 
   <job>
     <partnerJobId><![CDATA[1db90e82-35d2-409b-b4b7-edba5dadd284]]></partnerJobId>
     <company><![CDATA[DONIZETE DISTRIBUIDORA S/A]]></company>
-    <title><![CDATA[CONSULTOR(A) DE VENDAS - LIMOEIRO DO NORTE - BATURITÉ - PACAJUS - BOA VIAGEM - ARACOIABA - PENTECOSTE - QUIXADÁ - MORADA NOVA - PARACURU]]></title>
+    <title><![CDATA[CONSULTOR(A) DE VENDAS - LIMOEIRO DO NORTE - BATURITÉ - PACAJUS - BOA VIAGEM - ARACOIABA - PENTECOSTE - QUIXADÁ - MORADA NOVA]]></title>
     <posterEmail><![CDATA[kelly.lopes@donizete.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>TEMOS VAGAS DISPONIVEIS PARA AS REGIÕES: <br /></b><ul><li><b>LIMOEIRO DO NORTE </b></li><li><b>BATURITÉ</b></li><li><b>PACAJUS </b></li><li><b>BOA VIAGEM </b></li><li><b>ARACOIABA</b></li><li><b>PENTECOSTE </b></li><li><b>QUIXADÁ</b></li><li><b>MORADA NOVA</b></li><li><b>PARACURU</b></li></ul><b></b><b></b><br />Visitar clientes com planilhas preenchidas para
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>TEMOS VAGAS DISPONIVEIS PARA AS REGIÕES: <br /></b><ul><li><b>LIMOEIRO DO NORTE </b></li><li><b>BATURITÉ</b></li><li><b>PACAJUS </b></li><li><b>BOA VIAGEM </b></li><li><b>ARACOIABA</b></li><li><b>PENTECOSTE </b></li><li><b>QUIXADÁ</b></li><li><b>MORADA NOVA</b></li></ul><b></b><b></b><br />Visitar clientes com planilhas preenchidas para
 negociar de maneira assertiva, realizar levantamento de estoque e otimizar as
 condições de preço. Orientar promotores sobre os projetos dos clientes,
 acompanhar as entregas para evitar atrasos, e planejar a base de clientes
@@ -67667,7 +67947,7 @@ base nos relatórios do supervisor, sempre visando a boa negociação e a
 fidelização dos clientes. Acompanhar a logística e a limpeza dos freezers, pois
 são essenciais para manter o bom estado dos produtos e aumentar a satisfação do
 cliente<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar atividades comerciais conforme o roteiro de visitas e a rotina básica de vendas, com foco no alcance das metas;<br />Construir e manter relacionamento com os clientes por meio de visitas frequentes e presença constante no mercado;<br />Levantar e acompanhar informações de estoque a partir de dados coletados nos pontos de venda;<br />Cadastrar novos clientes e apoiar a divulgação dos produtos, contribuindo para o aumento do volume de vendas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo;<br />CNH A;<br /><br />Conhecimento no Pacote Office.<br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/donizetevagas/15/consultor-a-de-vendas-limoeiro-do-norte-baturite-pacajus-boa-viagem-aracoiaba-pentecoste-quixada-morada-nova-paracuru]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/donizetevagas/15/consultor-a-de-vendas-limoeiro-do-norte-baturite-pacajus-boa-viagem-aracoiaba-pentecoste-quixada-morada-nova]]></applyUrl>
     <companyId><![CDATA[22184004]]></companyId>
     <city><![CDATA[Itaitinga]]></city>
     <state><![CDATA[Ceará]]></state>
@@ -72808,6 +73088,25 @@ Conhecimentos básicos pacote Office;</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[a14293a9-51cb-4bcc-9695-8da649391542]]></partnerJobId>
+    <company><![CDATA[Spark]]></company>
+    <title><![CDATA[Business Solutions Manager - São Paulo]]></title>
+    <posterEmail><![CDATA[sara.ramos@spark.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas que desejam se desafiar e que sejam incansáveis em busca do aprendizado.<br /><br /><br />Essa posição será responsável por <strong>estruturar propostas, desenvolver modelos de solução e apoiar iniciativas comerciais</strong>, garantindo consistência, viabilidade e impacto nos resultados.<br /><br /><br />Quer fazer parte da Spark e desbravar todo o potencial do Marketing de Influência? <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver e estruturar <strong>soluções estratégicas e comerciais</strong>, alinhadas aos objetivos da empresa e às necessidades dos clientes.</li><li>Traduzir demandas de clientes e áreas internas em <strong>propostas claras, viáveis e orientadas a resultado</strong>.</li><li>Atuar em parceria com times de new business e business para <strong>construção de soluções integradas</strong>.</li><li>Apoiar a elaboração de <strong>propostas comerciais, apresentações e modelos de negócio</strong>.</li><li>Garantir a <strong>viabilidade financeira</strong> das soluções, considerando custos, margens e retorno esperado.</li><li>Identificar oportunidades de <strong>novos produtos, formatos e iniciativas comerciais</strong>.</li><li>Participar de reuniões estratégicas com clientes, apoiando a apresentação e defesa das soluções propostas.</li><li>Estruturar e evoluir <strong>modelos e processos</strong> para ganho de eficiência na construção de soluções.</li><li>Acompanhar tendências de mercado, identificando oportunidades de inovação e diferenciação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><strong>Ensino superior completo</strong> em Administração, Marketing, Comunicação, ou áreas correlatas.</li><li>Experiência em <strong>agências de marketing digital, marketing de influência ou ecossistema de comunicação</strong>.</li><li>Experiência em <strong>estratégia, planejamento, consultoria, vendas consultivas ou desenvolvimento de soluções</strong>.</li><li>Experiência na construção de <strong>propostas comerciais e modelos de negócio</strong>.</li><li>Capacidade de estruturar soluções considerando <strong>objetivos estratégicos e financeiros</strong>.</li><li>Experiência em interface com <strong>múltiplas áreas e stakeholders</strong>.</li><li>Boa capacidade analítica e de <strong>estruturação de problemas e oportunidades</strong>.</li><li>Excel avançado e experiência com <strong>construção de apresentações executivas</strong>.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsersparker/238/business-solutions-manager-sao-paulo]]></applyUrl>
+    <companyId><![CDATA[22297150]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[ee653c91-c798-47cf-974c-a12903784c70]]></partnerJobId>
     <company><![CDATA[Spark]]></company>
     <title><![CDATA[Account Analyst]]></title>
@@ -77837,25 +78136,6 @@ clara de soluções e fechamento com segurança
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[92ed9cbd-ef8a-4471-85d8-48444901c7cf]]></partnerJobId>
-    <company><![CDATA[IGREJA BATISTA ATITUDE]]></company>
-    <title><![CDATA[AUXILIAR FINANCEIRO]]></title>
-    <posterEmail><![CDATA[gabriela.araujo@ibatitude.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma oportunidade que traga propósito e satisfação profissional, convidamos você a conhecer uma posição que pode ser sua chance de transformar vidas e impactar a comunidade. Acreditamos que cada colaborador(a) tem um papel fundamental na construção de um espaço onde todos se sentem parte importante de um projeto coletivo.Buscamos um profissional organizado, detalhista e comprometido, com habilidade para lidar com rotinas administrativas e financeiras. Deve possuir capacidade de controle, conferência de documentos e apoio às atividades do setor financeiro, garantindo precisão nas informações e cumprimento de prazos.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar nos lançamentos de contas a pagar e a receber.<br /> - Controlar e conciliar extratos bancários.<br /> - Auxiliar na elaboração de relatórios financeiros.<br /> - Organizar e arquivar documentos financeiros.<br /> - Prestar suporte nas atividades do departamento financeiro.<br /> - Auxiliar na gestão de fluxo de caixa.<br /> - Comunicar-se com fornecedores e clientes para tratar de pendências financeiras.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação superior completa ou em andamento em Administração, Contabilidade, Economia ou áreas correlatas;<br />Conhecimento em rotinas financeiras e contábeis;<br />Conhecimento em Excel e de software de gestão financeira;<br /><br />Conhecimento em sistemas financeiros ou ERP (TOTVS);<br /><br />Experiência prévia na área financeira ou administrativa;<br />Vivência com controle de documentos financeiros e relatório<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasiba/19/auxiliar-financeiro]]></applyUrl>
-    <companyId><![CDATA[13985838]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[4eac55c5-0c68-45cc-8ca4-e730b3741e52]]></partnerJobId>
     <company><![CDATA[IGREJA BATISTA ATITUDE]]></company>
     <title><![CDATA[AUXILIAR DE SERVIÇOS GERAIS]]></title>
@@ -81195,56 +81475,6 @@ empresas-alvo e na geração de relatórios e melhorias do processo comercial.<b
     <companyId><![CDATA[1641340]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6284e2e5-f027-4169-bdac-63914d2ad8d5]]></partnerJobId>
-    <company><![CDATA[Fábrica Carioca de Catalisadores S.A.]]></company>
-    <title><![CDATA[Engenheiro de Automação Sênior]]></title>
-    <posterEmail><![CDATA[joiceribeiro@fccsa.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar na condução de projetos de automação e instrumentação em um ambiente com alto volume de demandas simultâneas, garantindo a confiabilidade dos sistemas de controle, integração entre campo e sistema e qualidade das soluções implementadas.<br />O profissional terá como desafio estruturar e padronizar as soluções de automação e instrumentação, contribuindo para melhoria dos processos, aumento da eficiência operacional e maior estabilidade dos sistemas de controle.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Responsável pela execução de projetos e gestão de processos nas áreas de automação e instrumentação industrial, aplicados aos Sistemas Digitais de Controle Distribuído (SDCD), PLCs, sistemas supervisórios (SCADA) e demais sistemas de controle e automação do processo produtivo e de informação industrial da fábrica.Atua na especificação, dimensionamento, instalação, comissionamento e manutenção de instrumentos de medição e controle (pressão, vazão, temperatura, nível, analisadores de processo, válvulas de controle, entre outros), assegurando a confiabilidade, precisão e disponibilidade das variáveis de processo.Responsável por integrar sistemas de instrumentação aos sistemas de automação, garantindo a correta aquisição de dados, intertravamentos, estratégias de controle e segurança operacional.Contribuir para a implementação de projetos, testes, melhorias contínuas e otimizações do processo produtivo, visando aumento de eficiência, confiabilidade operacional e atendimento às necessidades da planta industrial.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação: Superior completo em Engenharia Automação, Elétrica,
-  Eletrônica, Química, Mecatrônica, Produção e/ou áreas afins.            
-  -
-  Desejável: MBA em automação ou gestão de projetos em automação. 
-  -
-  Experiência mínima desejável de 7 anos na área.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasfccsa/4/engenheiro-de-automacao-senior]]></applyUrl>
-    <companyId><![CDATA[56464614]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b9a17941-da6b-4e88-bc78-e657017c0abe]]></partnerJobId>
-    <company><![CDATA[Fábrica Carioca de Catalisadores S.A.]]></company>
-    <title><![CDATA[Engenheiro Civil Pleno]]></title>
-    <posterEmail><![CDATA[joiceribeiro@fccsa.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar na condução de projetos de engenharia civil em um ambiente com alto volume de demandas simultâneas, garantindo qualidade técnica, cumprimento de prazos e integração com as demais disciplinas.<br />O profissional terá como desafio estruturar e organizar as entregas da disciplina dentro de um contexto de reestruturação da área, contribuindo para melhoria dos processos, aumento de eficiência e maior previsibilidade dos projetos.Será responsável pela elaboração e execução dos projetos de engenharia, preparando especificações, desenhos e técnicas de execução.
-Apoiar as demais áreas na especialidade e nos pedidos de investimentos em civil.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Assegurar o desenvolvimento da engenharia, utilizando seus conhecimentos para garantir qualidade, cumprimento de prazo e custo na implantação de projetos industriais e obras civis sob sua responsabilidade, buscando minimizar tempo de parada / perda de produção.<br /> Apoiar tecnicamente a equipe multidisciplinar responsável pela partida de novos projetos, e verificando a montagem e os testes. <br />Definir, validar ou apoiar na elaboração do escopo dos projetos com as diversas partes interessadas, apresentando alternativas para a execução de projetos, visando garantir a melhor relação custo benefício.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação: Superior
-completo em Engenharia Civil – com CREA
-
--
-Desejável:  MBA em Gestão de Projetos
-
-- Experiência mínima de 5 anos na área.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasfccsa/3/engenheiro-civil-pleno]]></applyUrl>
-    <companyId><![CDATA[56464614]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -88614,7 +88844,7 @@ habilidade para lidar com diferentes níveis hierárquicos.]]></description>
     <company><![CDATA[GMTRACK]]></company>
     <title><![CDATA[Consultora Comercial - Unidade João Pessoa]]></title>
     <posterEmail><![CDATA[dayane@gmtrack.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa apaixonada por desafios e busca um ambiente dinâmico para expandir suas habilidades? Temos uma oportunidade incrível para você! Em nossa equipe, valorizamos a inovação e a proatividade, proporcionando um espaço onde suas ideias podem florescer e fazer a diferença. O que mais nos motiva é ver nossos colaboradores crescerem e alcançarem seu potencial máximo. Aqui, você encontrará um time colaborativo, que celebra conquistas e apoia o desenvolvimento profissional a cada passo. Se você deseja fazer parte de um projeto inspirador e contribuir para o sucesso de uma empresa em constante evolução, queremos conhecer você! Venha compartilhar sua energia e visão conosco, e ajude-nos a construir relações duradouras com nossos clientes. Junte-se a nós nessa jornada enriquecedora!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Mapear e identificar oportunidades de vendas no mercado;<br /> - Estabelecer e manter relacionamentos com clientes potenciais e existentes;<br /> - Apresentar produtos e serviços de forma clara e persuasiva;<br /> - Realizar atendimento e suporte aos clientes durante o processo de vendas;<br /> - Negociar propostas comerciais, visando o fechamento de vendas;<br /> - Monitorar e analisar o desempenho de vendas e elaborar relatórios;<br /> - Participar de eventos e feiras do setor para promover os produtos;<br /> - Trabalhar em colaboração com as equipes de marketing e atendimento ao cliente;<br /> - Atualizar informações no sistema de gestão de clientes;<br /> - Cumprir metas e objetivos estabelecidos pela empresa.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior completa em áreas correlatas ou experiência equivalente.<br /> - Habilidade em comunicação e relacionamento interpessoal.<br /> - Conhecimento em técnicas de vendas e negociação.<br /> - Experiência prévia em vendas, preferencialmente no setor relacionado.<br /> - Capacidade de análise de mercado e identificação de oportunidades.<br /> - Proatividade e orientação para resultados.<br /> - Domínio de ferramentas de informática e software de CRM.<br /> - Disponibilidade para viagens, se necessário.<br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa apaixonada por desafios e busca um ambiente dinâmico para expandir suas habilidades? Temos uma oportunidade incrível para você! Em nossa equipe, valorizamos a inovação e a proatividade, proporcionando um espaço onde suas ideias podem florescer e fazer a diferença. O que mais nos motiva é ver nossos colaboradores crescerem e alcançarem seu potencial máximo. Aqui, você encontrará um time colaborativo, que celebra conquistas e apoia o desenvolvimento profissional a cada passo. Se você deseja fazer parte de um projeto inspirador e contribuir para o sucesso de uma empresa em constante evolução, queremos conhecer você! Venha compartilhar sua energia e visão conosco, e ajude-nos a construir relações duradouras com nossos clientes. Junte-se a nós nessa jornada enriquecedora!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Mapear e identificar oportunidades de vendas no mercado;<br /> - Estabelecer e manter relacionamentos com clientes potenciais e existentes;<br /> - Apresentar produtos e serviços de forma clara e persuasiva;<br /> - Realizar atendimento e suporte aos clientes durante o processo de vendas;<br /> - Negociar propostas comerciais, visando o fechamento de vendas;<br /> - Monitorar e analisar o desempenho de vendas e elaborar relatórios;<br /> - Participar de eventos e feiras do setor para promover os produtos;<br /> - Trabalhar em colaboração com as equipes de marketing e atendimento ao cliente;<br /> - Atualizar informações no sistema de gestão de clientes;<br /> - Cumprir metas e objetivos estabelecidos pela empresa.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Perfil Feminino<br /> - Habilidade em comunicação e relacionamento interpessoal.<br /> - Conhecimento em técnicas de vendas e negociação.<br /> - Experiência prévia em vendas, preferencialmente no setor relacionado.<br /> - Capacidade de análise de mercado e identificação de oportunidades.<br /> - Proatividade e orientação para resultados.<br /> - Domínio de ferramentas de informática e software de CRM.<br /> - Disponibilidade para viagens, se necessário.<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgmtrack/5/consultora-comercial-unidade-joao-pessoa]]></applyUrl>
     <companyId><![CDATA[94188001]]></companyId>
     <city><![CDATA[João Pessoa]]></city>
