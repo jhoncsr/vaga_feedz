@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 15 May 2026 16:17:46 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 17:14:20 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3417]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3410]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c4b49592-fdd4-47d6-af45-a84f3529ab1d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -1397,138 +1397,6 @@ Inglês básico.</li></ul>]]></description>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Desenvolver softwares que apoiem os produtos no Cloud, propondo soluções inovadoras através da visão do Cloud como um todo. Apoiar tecnicamente a equipe, garantindo a satisfação do cliente e a sustentabilidade das soluções dentro da área de Cloud;<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Desenvolver artefatos que irão compor parte das soluções de Cloud, por meio de tecnologias e ferramentas de mercado, e metricas e processos da área~</li><li>Compreender o funcionamento das soluções de Cloud que estejam relacionadas à suas atividades e projetos, através de análise de código e/ou documentações públicas ou privadas</li><li>Atuar diretamente com as demais equipes de Cloud na resolução de bugs que estejam relacionadas à suas atividades</li><li>Garantir e elevar a qualidade de suas entregas por meio do desenvolvimento de testes (unitários, funcionais, integração)</li><li>Acompanhar a evolução dos serviços das nuvens públicas, privadas, dos serviços de orquestração de contêineres, dos produtos TOTVS e das tecnologias envolvidas por meio de eventos, palestras ou documentações</li><li>Compartilhar conhecimento com os demais membros do time, buscando a equalização de conhecimento e a evolução da equipe como um todo</li><li>Garantir que o software atenda a todos os requisitos de qualidade, segurança, modificabilidade e extensibilidade, através de técnicas modernas de desenvolvimento</li><li>Garantir a implementação de soluções técnicas com excelência, considerando custo x benefício e tempo, criando componentes cloud-native de acordo com técnicas modernas de desenvolvimento para nuvem</li><li>Compreender as variadas opções de SGBDs e definir qual melhor banco para cada cenário</li><li>Desenvolver aplicações tanto em arquitetura monolito quanto microserviço, compreendendo seus conceitos e caso de uso de cada cenário</li><li>Controlar as atividades de sua responsabilidade para entrega-las dentro do prazo acordado e apoiar os demais membros da equipe com suas atividades</li><li>Compreender as necessidades e regras de negócio relacionadas aos softwares desenvolvidos</li><li>Participar ativamente do crescimento dos demais membros da equipe, apoiando com conhecimento técnico e das regras de negócio</li><li>Solucionar problemas decorrentes em ambientes produtivos de maneira eficiente, reduzindo o impacto para o cliente da maneira ágil</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Desenvolvimento de software nível Avançado. </li><li>Conhecimento em bancos relacionais nível Avançado (Sqlserver, Oracle, Mysql). </li><li>Arquitetura de software nível Avançado. </li><li>Nuvens públicas nível Intermediário. </li><li>Orquestração de contêineres nível Intermediário. </li><li>Ferramentas de automação e integração contínua nível Avançado. </li><li>Segurança de Infraestrutura e aplicações nível Básico. </li><li>Sistema operacional nível Intermediário (Windows e Linux). </li><li>Redes e infraestrutura nível Básico. </li><li>Linguagem de programação nível Avançado .Net Core com C# </li><li>Desenvolvimento seguro nível Intermediário. </li><li>Troubleshooting – nível Avançado</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9495/tech-engenharia-de-software-senior-net-core]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[0ed10d32-6641-4f85-bfe0-9a9957213e50]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Cyber] Analista de Resposta a Incidentes Sênior - DFIR]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável pela prevenção, tratamento e elucidação de Incidentes de Segurança, a
-fim de proporcionar uma estrutura computacional resiliente a ameaças em todos
-ambientes Cloud.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Elaboração e envio de relatórios de investigação de incidentes, seguindo as diretrizes de tempo da LGPD e da ISO 27001
-</li>
-<li>
-Análise e tratamento de alertas de segurança, com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute, utilizando ferramentas de resposta a incidentes
-</li>
-<li>
-Condução de atividades de investigação e threat hunting, com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute, utilizando ferramentas de resposta a incidentes
-</li>
-<li>
-Implementação de processos e tecnologias do Centro de Detecção (Preparação, Identificação, Contenção, Erradicação, Recuperação e Lições Aprendidas), com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute
-</li>
-<li>
-Desenvolvimento de automações para coleta e investigação de segurança, utilizando frameworks NIST Cybersecurity Framework e/ou SANS Institute, por meio de linguagens de programação ou scripts
-</li>
-<li>
-Acompanhamento e garantia da evolução de planos de ação preventivos e corretivos para vulnerabilidades e incidentes (Purple Team), com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute
-</li>
-<li>
-Condução de testes de invasão (pentest) e elaboração de relatórios técnicos e executivos, com base nos frameworks PTES, OWASP e/ou NIST Cybersecurity Framework
-</li>
-<li>
-Definição de controles e processos operacionais para todas as etapas do modelo Cyber Kill Chain, com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute
-</li>
-<li>
-Definição de diretrizes operacionais e padrões de relatório para análise forense digital, com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute
-</li>
-<li>
-Desenvolvimento de automações para coleta e investigação de segurança (atividade repetida no descritivo), com uso de scripts ou linguagens de programação
-</li>
-<li>
-Definição de eventos de segurança a serem centralizados em SIEM, incluindo priorização e tratamento, com base nos frameworks MITRE ATT&amp;CK, NIST Cybersecurity Framework e/ou SANS Institute
-</li>
-<li>
-Garantia da comunicação adequada de incidentes em cloud e mensagens para clientes, com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute
-</li>
-<li>
-Definição de ferramentas para prevenção e resposta a incidentes, com base nos frameworks NIST Cybersecurity Framework e/ou SANS Institute</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Graduação em:
-<ul>
-<li>
-Ciência da Computação
-</li>
-<li>
-Cyber Segurança
-</li>
-<li>
-Ou áreas correlatas
-</li>
-</ul>
-</li>
-<li>
-Sistemas Operacionais:
-<ul>
-<li>
-Linux – nível intermediário
-</li>
-<li>
-Windows – nível intermediário
-</li>
-</ul>
-</li>
-<li>
-Conhecimento em:
-<ul>
-<li>
-SANS Institute – Incident Response and Threat Hunting
-</li>
-<li>
-SIEM (Security Information and Event Management)
-</li>
-</ul>
-</li>
-<li>
-Certificações desejadas:
-<ul>
-<li>
-CEH
-</li>
-<li>
-OSCP
-</li>
-<li>
-GIAC
-</li>
-</ul>
-</li>
-<li>
-Frameworks e modelos:
-<ul>
-<li>
-MITRE ATT&amp;CK / MITRE Defend
-</li>
-<li>
-Cyber Kill Chain
-</li>
-<li>
-SANS Institute
-</li>
-</ul>
-</li>
-<li>
-Idiomas:
-<ul>
-<li>
-Inglês – nível intermediário
-</li>
-</ul>
-</li>
-<li>
-Experiência:
-<ul>
-<li>
-Mínimo de 3 anos na área</li></ul></li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9506/cyber-analista-de-resposta-a-incidentes-senior-dfir]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -3319,7 +3187,7 @@ repassadas aos clientes. <br /><br /><br /><b>Requisitos e qualificações</b><
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Vendas] Gerência Comercial | SMB]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Garantir o cumprimento das metas estabelecidas pela TOTVS por intermédio de uma eficiente prospecção de mercado e domínio na gestão de sua carteira de clientes, buscando seu maior nível de satisfação.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>• Elaborar e executar o plano tático alinhado ao planejamento estratégico da DRG e dos resultados de vendas no segmento/região de atuação; </b><br /><b>• Elaborar propostas no CRM, negociando e fechando os contratos com o cliente/prospect;</b><br /><b> • Gerir o funil de vendas, identificando e qualificando oportunidades de negócio, a fim de garantir o atingimento das metas estabelecidas pela TOTVS; </b><br /><b>• Acompanhar e manter todos os dados relativos à trajetória dos clientes (empresas/oportunidades) atualizados no CRM, tais como: registro de visitas comerciais, follow up de atividades e fatos relevantes;</b><br /><b> • Antecipar e diagnosticar demandas de clientes e prospects, conhecendo as necessidades e tendências do mercado/segmento;</b><br /><b> • Facilitar a resolução de demandas dos clientes e prospects, articulando com profissionais ou áreas internas responsáveis; </b><br /><b>• Atender os leads gerados pela área de Negócios e Prospecção no ciclo completo de vendas; </b><br /><b>• Registar no CRM e comunicar a área de Estratégia Comercial/Operações e Segmentos, informações relevantes sobre mercado/carteira;</b><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo; </li><li><b><i>Conhecimento e vivência no segmento (de acordo com o segmento da vaga)</i></b>; </li><li>Vivência com vendas complexas e consultivas B2B de software de tecnologia e ERP;</li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li>Habilidade de negociação, comunicação e gestão de relacionamento com decisores;</li><li>Perfil organizado, proativo, resiliente e orientado a resultados;</li><li>Alta autonomia, disciplina e senso de responsabilidade para gerenciar carteira, pipeline e agenda;</li><li>Disponibilidade para viagens e atuação em modelo híbrido.</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Gerente Comercial Hunter – Varejo, Distribuição e Logística.<br /><br /><br />A região de Campinas (SP) possui um ecossistema pujante de empresas em fase de expansão e profissionalização, especialmente nos setores de Varejo, Distribuição e Logística. O foco desta posição é atacar o "motor" da economia local: o mercado SMB (Small and Medium Businesses) e Mid-Market, mirando empresas com faturamento anual entre R$ 50 milhões e R$ 1,5 bilhão.<br /><br /><br />A missão deste Gerente Comercial Hunter é liderar a abertura deste mercado, conquistando novas contas (new logos) e apoiando empresas que estão em transição de maturidade — saindo de sistemas caseiros ou de menor porte para uma plataforma de gestão robusta. Mais do que fornecer software, a TOTVS será posicionada como a parceira estratégica que viabiliza o crescimento estruturado e a governança dessas companhias.<br /><br /><br />O desafio central é estruturar uma operação comercial regional ágil e de alto volume, formando um time "do zero" capaz de mapear o território, engajar donos de negócios e líderes de tecnologia, e acelerar o ciclo de vendas neste segmento dinâmico.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Estruturação da operação comercial SMB/Mid-Market em Campinas</b><br /><b>* Desenho do Go-to-Market: Mapear o amplo território de Campinas, identificando o volume de empresas na faixa de R$ 50M a R$ 1,5B e definindo a priorização de prospecção nos segmentos-alvo.</b><br /><b>* Design Organizacional: Estruturar um time comercial com perfil de alta tração (Executivos de Vendas rápidos)</b><br /><b>* Gestão de Alta Cadência: Executar  rotinas comerciais que suportem um funil de vendas mais volumoso e de ciclo médio (pipeline dinâmico, revisões semanais de forecast e acompanhamento diário de métricas de prospecção).</b><br /><b><br /></b><br /><b>Gestão e liderança de equipe</b><br /><b>* Team Building: Recrutar, treinar e reter um time de vendas com perfil hunter agressivo, focado em volume e eficiência.</b><br /><b>* Capacitação Híbrida: Treinar a equipe para adaptar o discurso: saber vender "valor e negócio" para o dono da empresa, e "arquitetura e segurança" para o gerente de TI.</b><br /><b>* Liderança Tática: Atuar lado a lado com a equipe (no field e em reuniões remotas), destravando negociações e acelerando o tempo de fechamento (time-to-close).</b><br /><b>Atuação comercial consultiva (Foco no Dono e na TI)</b><br /><b>* Relacionamento Multinível: Conduzir reuniões com os Donos/Fundadores (focando em sucessão, profissionalização, redução de custos e crescimento) e com as Estruturas de TI/Negócios (focando em integração, suporte, cloud e usabilidade).</b><br /><b>* Diagnóstico de Maturidade: Identificar o momento da empresa (ex: dores de crescimento, problemas fiscais, falta de controle de estoque, necessidade de governança para auditorias).</b><br /><b>* Posicionamento de Valor Pragmático: Demonstrar como o ERP TOTVS e as soluções complementares de todo o nosso portfólio resolvem as dores imediatas da operação e preparam a empresa para o próximo salto de faturamento.</b><br /><b><br /></b><br /><b>Gestão de funil e resultados</b><br /><b>* Velocidade de Pipeline: Gerir um funil com maior volume de oportunidades, garantindo fluidez e evitando que negócios fiquem parados.</b><br /><b>* Entrega de Metas: Garantir o atingimento das metas de novos clientes (New Business), receita, margem e penetração de produtos paralelos (ex: Techfin, RH, etc).</b><br /><b>* Disciplina e Dados: Uso intensivo do CRM para garantir previsibilidade em um cenário de múltiplas transações simultâneas.</b><br /><b><br /></b><br /><b>Integração interna e colaboração</b><br /><b>* Orquestração de Recursos Ágeis: Alinhar com as equipes de Pré-vendas e Implantação pacotes e projetos que façam sentido para a realidade de tempo e orçamento do mercado SMB.</b><br /><b>* Inteligência Local: Retroalimentar o Marketing e Produto com as objeções e necessidades específicas dos empresários da região de Campinas.</b><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo; </li><li>Experiência comprovada em gestão de vendas B2B no segmento SMB ou Mid-Market, preferencialmente em tecnologia, ERPs ou soluções aderentes (Varejo, Distribuição, Logística).</li><li>Histórico de sucesso lidando diretamente com empresas familiares, fundadores e diretorias em processo de profissionalização.</li><li>Experiência na formação e gestão de times comerciais (Executivos e SDRs) com foco em volume de geração de leads e taxas de conversão.</li><li>Compreensão profunda das dores das empresas na faixa de R$ 50M a R$ 1,5B (ex: transição tributária, desafios de escalar o estoque/centro de distribuição, omnicanalidade no varejo regional).</li><li>Entendimento da cultura empresarial do interior paulista, com capacidade de criar empatia e confiança rápida com empresários locais.</li><li>Domínio de metodologias de vendas consultivas e qualificação rápida (ex: BANT, SPIN) para não desperdiçar o tempo da equipe técnica em oportunidades sem orçamento ou maturidade.</li><li>Uso de CRM como bússola de gestão diária.</li><li>Conhecimento (ou rápida assimilação) do portfólio TOTVS, especialmente os pacotes e ofertas mais aderentes e de rápida implantação para o Mid-Market.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10138/vendas-gerencia-comercial-smb]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Campinas]]></city>
@@ -4001,25 +3869,6 @@ Conhecimentos específicos: ● Conhecimentos avançados em Projetos FAST Analy
 ● Plataformas de Automação: MIRO, Evernote, MindMap; <br />● Plataformas de Inovação: Carol (IA); Mobilidade (Apps); Vtex/CRM; Marketplaces, Process Mining;
 Robotização, etc.; <br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9692/pre-vendas-especialista-de-pre-vendas-pleno-protheus]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[8cb666d4-4e09-460b-83ee-fbed2f125b52]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Pré-Vendas] Analista de Negócios Sênior]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A pessoa Analista Comercial atua de forma estratégica e operacional em todo o ciclo de oportunidades comerciais, garantindo fluidez no funil de vendas e eficiência na execução de novos negócios. Esta posição é peça-chave para acelerar a geração de receita dos produtos Fluig, Analytics e iPaaS, conectando estratégia, operação e execução comercial, além de apoiar ativamente os ESNs (Executivos de Soluções de Negócio) no processo de vendas.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar e dar visibilidade ao pipeline de oportunidades de Fluig, Analytics e iPaaS, mantendo qualidade, consistência, atualização e confiabilidade;<br /></li><li>Apoiar executivos, BizDev e ESNs na elaboração, negociação, acompanhamento e fechamento de propostas comerciais e de serviços;<br /></li><li>Construir visão de valor para clientes, traduzindo benefícios das soluções em impacto real de negócio;<br /></li><li>Atuar em negociações, conduzindo reuniões, respondendo objeções e garantindo o fechamento de contratos;<br /></li><li>Levantar e distribuir agendas para especialistas, arquitetos de soluções e negócios, assegurando alocação adequada de recursos;<br /></li><li>Prestar apoio consultivo aos ESNs em todas as etapas do processo comercial, aumentando a efetividade do ciclo de vendas;<br /></li><li>Monitorar métricas de conversão e performance de pipeline, sugerindo melhorias nos processos;<br /></li><li>Garantir a organização e atualização do CRM, assegurando dados confiáveis para a gestão;<br /></li><li>Apoiar na padronização de propostas comerciais e alinhamento de políticas de preços/condições;<br /></li><li>Identificar riscos e gargalos no funil de vendas e propor soluções práticas para acelerar ciclos comerciais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em negociação e fechamento de vendas B2B (preferencialmente SaaS);<br /></li><li>Vivência em Sales Operations, Sales Support ou funções correlatas;<br /></li><li>Experiência na elaboração de propostas comerciais e de serviços;<br /></li><li>Conhecimento de processos comerciais complexos e de gestão de pipeline em CRM;<br /></li><li>Boa comunicação oral e escrita, com perfil consultivo e habilidade de lidar com executivos, ESNs e decisores;<br /></li><li>Capacidade analítica para interpretar métricas de vendas e propor melhorias;<br /></li><li>Organização, atenção a detalhes e visão estratégica.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9957/pre-vendas-analista-de-negocios-senior]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -4863,25 +4712,6 @@ como G Suite e PowerPoint, com orientações diretas da liderança imediata.<br 
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Atuar na geração, desenvolvimento e fechamento de novos negócios no segmento Setor Público (New Name e expansão) em soluções de software B2B, conduzindo vendas consultivas de ciclo completo, atuando como o especialista de referência em soluções de <b>HXM</b>, focando na venda cruzada (Cross-Sell) e na expansão da jornada do colaborador em novos clientes e clientes da base.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><b>Prospecção ativa e qualificada (Outbound estruturado)</b><br /></li><li><b>Gestão de pipeline com cobertura mínima de 4x a 5x a meta mensal</b><br /></li><li><b>Condução de reuniões executivas com C-Level, diretores e proprietários</b><br /></li><li><b>Diagnóstico consultivo (mapeamento de dores, ROI, payback e TCO)</b><br /></li><li><b>Construção e apresentação de propostas comerciais complexas (Capex + Opex)</b><br /></li><li><b>Condução de negociações estruturadas (BATNA, concessões estratégicas)</b><br /></li><li><b>Gestão do ciclo completo: prospecção → diagnóstico → proposta → fechamento →<br /></b></li></ul><b>     handover</b><br /><ul><li><b>Atualização rigorosa de CRM (forecast, probabilidade, etapas, próximos passos)</b><br /></li><li><b>Entrega de metas de: Receita Recorrente, Receita de Implantação e Novos Logos (New<br /></b></li></ul><b>     Name)</b><br /><ul><li><b>Participação ativa em eventos, ações regionais e geração de demanda</b><br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><ul><li>Ensino Superior Completo; </li><li><b><i>Conhecimento e vivência no segmento HXM - SETOR PÚBLICO</i></b></li></ul><br /><ul><li>Vivência com vendas complexas e consultivas B2B de software de tecnologia e ERP;</li><li>Perfil Consultivo: Capacidade de traduzir "funcionalidades de sistema"</li></ul>em "ganhos de retenção e cultura"<br /><ul><li>Conhecimento em soluções que compõem a jornada ponta a ponta do colaborador (ex:</li></ul>portais de RH, People Analytics e ferramentas de engajamento).<br /><ul><li>Habilidade de negociação, comunicação e gestão de relacionamento com decisores;</li><li>Perfil organizado, proativo, resiliente e orientado a resultados;</li><li>Alta autonomia, disciplina e senso de responsabilidade para gerenciar carteira,</li></ul>pipeline e agenda;<br /><ul><li>Disponibilidade para viagens e atuação em modelo híbrido</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9244/vendas-gerente-de-contas-pleno-hunter-hxm-setor-publico]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[082112ea-18e6-4659-8c67-50c82203166d]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Compliance] Analista de Riscos e Compliance Pleno]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Assegurar a integridade através da investigação técnica de denúncias e da mitigação de riscos éticos e legais.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Avaliação e triagem das denúncias recebidas pelo canal de ética e conduta;</li><li>Elaboração do plano de investigação das denúncias do escopo de compliance;</li><li>Condução de entrevistas e elaboração de parecer técnico quanto a sua procedência;</li><li>Documentação do processo e elaboração de materiais de reporte à Comissão de Ética e Conduta;</li><li>Atuação em outras atividades do programa de integridade (políticas, pareceres consultivos, due diligence, entre outros).</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Administração, Direito ou áreas correlatas.</li><li>Conhecimento e experiência prévia em condução de investigações corporativas (entrevistas, análise de documentação/dados e formalização);</li><li>Conhecimento em legislação anticorrupção e programas de integridade.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9475/compliance-analista-de-riscos-e-compliance-pleno]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -6196,34 +6026,6 @@ Manter o posto de trabalho limpo e organizado.</li></ul><br /><br /><b>Requisito
     <posterEmail><![CDATA[anaclarabarbosa@pi.senac.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Instrutor Horista Intermitente - Segmento Saúde (Educação Inclusiva) - Teresina/Pi<br /><br /><br /><b>Etapas do processo seletivo</b>Triagem de currículos;<br />Entrevista por competências;<br />Avaliação didática pedagógica.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar na elaboração do planejamento escolar e preparar a matéria a ser ministrada em sala de aula;</li><li>Prever estratégias e recursos didáticos necessários ao desenvolvimento dos trabalhos pedagógicos;</li><li>Conduzir o processo ensino-aprendizagem e promover a avaliação pedagógica da aprendizagem do corpo discente; </li><li>Documentar a prática pedagógica; </li><li>Participar de reuniões e grupos de estudos; analisar, interpretar normas e procedimentos; </li><li>Participar da elaboração e realização de projetos especiais;</li><li>Executar outras tarefas compatíveis com o cargo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação superior em Pedagogia e/ou Terapia Ocupacional, preferencialmente com especialização em Psicopedagogia. Experiência profissional comprovada no acompanhamento de pessoas com Transtorno do Espectro Autista (TEA).<br /><br /><b>Requisitos desejáveis:</b><br />Experiência em docência. Morar na cidade de atuação.<br /><br /><br /><b>Período de inscrição: </b>30/04/2026 a 18/05/2026<br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivoinstrutorsenacpi/266/2026-02-05-instrutor-horista-intermitente-segmento-saude-educacao-inclusiva-teresina-pi]]></applyUrl>
-    <companyId><![CDATA[30120764]]></companyId>
-    <city><![CDATA[Teresina]]></city>
-    <state><![CDATA[Piauí]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[33.88]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[33.88]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[19a51732-0f4d-47e1-b520-84e712e04937]]></partnerJobId>
-    <company><![CDATA[SENAC]]></company>
-    <title><![CDATA[2026.02.04 - Instrutor Horista Intermitente - Segmento Design (Peças Artesanais) - Teresina/Pi]]></title>
-    <posterEmail><![CDATA[anaclarabarbosa@pi.senac.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Instrutor Horista Intermitente - Segmento Design (Peças Artesanais) - Teresina/Pi<br /><br /><b>Etapas do processo seletivo</b>Triagem de currículos;<br />Entrevista por competências;<br />Avaliação didática pedagógica.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar na elaboração do planejamento escolar e preparar a matéria a ser ministrada em sala de aula; </li><li>Prever estratégias e recursos didáticos necessários ao desenvolvimento dos trabalhos pedagógicos;</li><li> Conduzir o processo ensino-aprendizagem e promover a avaliação pedagógica da aprendizagem do corpo discente;</li><li> Documentar a prática pedagógica; </li><li>Participar de reuniões e grupos de estudos; analisar, interpretar normas e procedimentos; </li><li>Participar da elaboração e realização de projetos especiais; </li><li>Executar outras tarefas compatíveis com o cargo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Profissional com ensino superior completo, experiência com leitura e execução de desenhos
-técnicos de peças artesanais.<br /><br /><br /><b>Requisito desejável:</b><br />Experiência em docência.<br /><br /><br /><br /><b>Período de inscrição</b>: 31/03/2026 a 13/05/2026<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivoinstrutorsenacpi/259/2026-02-04-instrutor-horista-intermitente-segmento-design-pecas-artesanais-teresina-pi]]></applyUrl>
     <companyId><![CDATA[30120764]]></companyId>
     <city><![CDATA[Teresina]]></city>
     <state><![CDATA[Piauí]]></state>
@@ -17884,12 +17686,15 @@ produção.<br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Requisi
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[571adac6-aa2e-4bf6-b41a-d592bedac916]]></partnerJobId>
+    <partnerJobId><![CDATA[1b63aa6d-f022-4f1b-aeb3-203cf1aa61b1]]></partnerJobId>
     <company><![CDATA[weai.tecnologia]]></company>
-    <title><![CDATA[Analista de Governança]]></title>
+    <title><![CDATA[Analista de Field Service Jr. / Pleno – Suporte Presencial e Remoto | Cliente do Segmento Financeiro]]></title>
     <posterEmail><![CDATA[ricardo.peixe@weai.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Analista de Governança Operacional (Júnior/Pleno) para atuar no suporte à organização e consolidação de dados da operação, contribuindo para a construção de relatórios e acompanhamento de indicadores.Esse profissional terá papel importante no apoio à governança, garantindo qualidade das informações, organização dos dados e suporte na rotina de acompanhamento de SLAs e resultados operacionais.<br />Você atuará em um ambiente dinâmico, com múltiplas demandas e constante evolução dos processos. Será importante ter organização, capacidade de adaptação e atenção a detalhes para lidar com diferentes atividades simultaneamente.A posição envolve interação com áreas internas e apoio na estruturação de informações utilizadas na gestão da operação.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar a construção e atualização do book mensal da operação</li><li>Consolidar dados provenientes de diferentes fontes</li><li>Atualizar relatórios e dashboards operacionais</li><li>Acompanhar indicadores e apoiar o monitoramento de SLAs</li><li>Identificar inconsistências ou desvios nos dados</li><li>Apoiar na organização de informações para auditorias e controles</li><li>Sugerir melhorias simples nos processos e rotinas operacionais</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência inicial em operações, governança ou áreas administrativas</li><li>Excel intermediário (tabelas, fórmulas, PROCV/PROCX, etc.)</li><li>Organização e atenção a detalhes</li><li>Boa comunicação e capacidade de trabalho em equipe</li></ul><br /><br />Competências comportamentais:<br /><ul><li>Organização e disciplina</li><li>Proatividade</li><li>Facilidade de aprendizado</li><li>Adaptabilidade a mudanças</li><li>Compromisso com qualidade das entregas</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/jobsweai/68/analista-de-governanca]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos profissionais para atuar como Analista de Field Service Jr. / Pleno em um grande cliente do segmento financeiro, com foco em suporte técnico presencial e remoto aos colaboradores da instituição. A posição envolve atendimento a hardware, software, Microsoft 365, dispositivos móveis, videoconferência, salas de reunião, rede, VPN, Netskope, além de conhecimentos em Active Directory, Intune, Entra ID e Jamf. Procuramos pessoas com boa comunicação, proatividade, organização e perfil aderente às boas práticas de ITIL.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimento técnico <strong>presencial e remoto</strong> aos colaboradores da instituição financeira;</li><li>Atuar no diagnóstico, análise e resolução de incidentes e requisições relacionados a hardware, software, conectividade e ferramentas corporativas;</li><li>Prestar suporte a:
+<ul><li>notebooks;</li><li>desktops;</li><li>MacBooks;</li><li>impressoras;</li><li>celulares Android e iOS;</li><li>equipamentos de videoconferência;</li><li>recursos tecnológicos de salas de reunião;</li></ul></li><li>Apoiar usuários em demandas relacionadas ao ambiente <strong>Microsoft 365</strong>, incluindo Outlook, Teams, OneDrive, Word, Excel e PowerPoint;</li><li>Atuar em chamados envolvendo conectividade de rede, Wi-Fi, acesso remoto, <strong>VPN</strong>, <strong>Netskope</strong> e demais ferramentas corporativas;</li><li>Realizar atividades relacionadas a <strong>Active Directory</strong>, <strong>Microsoft Intune</strong>, <strong>Microsoft Entra ID</strong> e <strong>Jamf</strong>, conforme a necessidade do ambiente;</li><li>Executar instalação, configuração, atualização e troubleshooting de sistemas operacionais, aplicativos, drivers e periféricos;</li><li>Registrar, classificar, atualizar e encerrar chamados em ferramenta de ITSM, garantindo rastreabilidade e qualidade das informações;</li><li>Assegurar o cumprimento dos <strong>SLAs</strong> e a priorização adequada dos atendimentos de acordo com criticidade e impacto;</li><li>Prestar suporte técnico a salas de reunião e recursos audiovisuais, garantindo disponibilidade e bom funcionamento dos equipamentos;</li><li>Apoiar atividades de inventário, movimentação, substituição e controle de ativos de TI;</li><li>Orientar usuários sobre uso correto dos recursos tecnológicos e boas práticas de segurança da informação;</li><li>Atuar em conformidade com processos, procedimentos operacionais e boas práticas baseadas em <strong>ITIL</strong>;</li><li>Identificar oportunidades de melhoria contínua nos processos de suporte e atendimento.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com <strong>suporte técnico presencial e remoto</strong> em ambiente corporativo;</li><li>Vivência em atividades de <strong>Field Service</strong>, Suporte de Microinformática, Service Desk ou Suporte ao Usuário;</li><li>Experiência com suporte e troubleshooting em:
+<ul><li>Notebooks;</li><li>Desktops;</li><li>MacBooks;</li><li>Impressoras;</li><li>Smartphones Android e iOS;</li></ul></li><li>Experiência com suporte a <strong>equipamentos de videoconferência</strong> e tecnologia para <strong>salas de reunião</strong>;</li><li>Conhecimento em <strong>Microsoft Office 365 / Microsoft 365</strong>;</li><li>Noções ou experiência com:
+<ul><li>redes de computadores;</li><li>LAN/Wi-Fi;</li><li>acesso remoto;</li><li><strong>VPN</strong>;</li><li><strong>Netskope</strong>;</li></ul></li><li>Conhecimentos em <strong>Active Directory</strong>, <strong>Microsoft Intune</strong>, <strong>Microsoft Entra ID</strong> e <strong>Jamf</strong>;</li><li>Experiência com ferramenta de abertura e gestão de chamados (ITSM);</li><li>Vivência com rotinas orientadas a <strong>SLA</strong>, documentação e controle de atendimento;</li><li>Boa capacidade de análise e resolução de problemas técnicos.</li></ul><br /><br /><strong>Perfil comportamental</strong><ul><li>Boa comunicação verbal e escrita;</li><li>Proatividade e senso de urgência;</li><li>Organização e atenção aos detalhes;</li><li>Perfil analítico e foco em solução;</li><li>Facilidade para trabalhar em equipe;</li><li>Bom relacionamento interpessoal;</li><li>Foco na experiência do usuário;</li><li>Postura profissional e aderência a processos;</li><li>Perfil alinhado às boas práticas de <strong>ITIL</strong>.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/jobsweai/71/analista-de-field-service-jr-pleno-suporte-presencial-e-remoto-cliente-do-segmento-financeiro]]></applyUrl>
     <companyId><![CDATA[1]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -17903,12 +17708,12 @@ produção.<br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Requisi
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[d7a4480b-89d0-4040-9420-5b3e25815d6d]]></partnerJobId>
+    <partnerJobId><![CDATA[571adac6-aa2e-4bf6-b41a-d592bedac916]]></partnerJobId>
     <company><![CDATA[weai.tecnologia]]></company>
-    <title><![CDATA[Analista de Field Service Jr]]></title>
+    <title><![CDATA[Analista de Governança]]></title>
     <posterEmail><![CDATA[ricardo.peixe@weai.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Realizar atendimentos técnicos em campo, incluindo instalação, manutenção preventiva e corretiva de equipamentos. Diagnosticar e resolver problemas técnicos de hardware e software. Assegurar o cumprimento dos prazos estabelecidos nos contratos de serviço (SLAs). Documentar todas as atividades realizadas em sistemas de gestão de chamados. Identificar oportunidades de melhorias nos processos de suporte. Fornecer treinamentos básicos aos usuários sobre o funcionamento dos equipamentos e sistemas. Garantir que todos os serviços sigam as políticas de segurança da informação e boas práticas da empresa. Colaborar com a equipe de suporte remoto para solução de problemas complexos. Gerar relatórios periódicos com indicadores de atendimento e performance. Manter-se atualizado(a) sobre novas tecnologias e melhores práticas do mercado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Comunicação Clara: Habilidade para interagir com usuários de forma compreensiva e eficaz.</li><li>Resolução de Problemas: Proatividade para identificar e solucionar falhas de forma eficiente.</li><li>Organização: Gerenciamento eficaz de atividades e recursos no campo.</li><li>Trabalho sob Pressão: Capacidade de atender a demandas urgentes com qualidade.</li><li>Adaptabilidade: Flexibilidade para lidar com diferentes cenários e tecnologias.</li><li>Empatia: Sensibilidade para entender as necessidades e dificuldades dos usuários.</li><li>Gestão de Tempo: Priorização de atendimentos para cumprir SLAs e prazos.</li><li>Trabalho em Equipe: Colaboração com outras áreas para solucionar problemas complexos.</li><li>Orientação a Resultados: Foco em resolver chamados com rapidez e eficiência.</li><li>Foco no Cliente: Compromisso com a satisfação e experiência positiva dos usuários atendidos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Suporte Técnico Presencial: Experiência em diagnóstico e resolução de problemas no local.</li><li>Conhecimentos em Hardware: Reparos e manutenção de desktops, laptops, impressoras e dispositivos móveis.</li><li>Redes e Infraestrutura: Configuração básica de redes LAN/WAN, Wi-Fi e cabeamento estruturado.Instalação de Softwares: Habilidade em instalar, atualizar e configurar sistemas operacionais e aplicativos.</li><li>Administração de Ferramentas ITSM: Uso de plataformas como Freshservice, ServiceNow ou similares para gerenciamento de chamados.</li><li>Gestão de Chamados: Organização e priorização de tickets para atendimento eficiente.</li><li>Monitoramento de Equipamentos: Habilidade para implementar soluções de monitoramento remoto.</li><li>Gerenciamento de Inventário: Controle e atualização de ativos no campo.</li><li>Diagnóstico de Problemas: Capacidade de identificar e solucionar falhas em hardware e software.</li><li>Automação de Processos: Uso de ferramentas para automatizar atividades de manutenção e suporte.</li><li>Conhecimentos em Segurança da Informação: Práticas básicas para proteger dispositivos e redes.</li><li>Manutenção Preventiva: Planejamento e execução de ações para evitar falhas futuras.</li><li>Treinamento de Usuários: Capacidade de orientar usuários sobre o uso correto de equipamentos e sistemas.</li><li>Documentação Técnica: Registro de procedimentos e relatórios de atendimentos.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/jobsweai/63/analista-de-field-service-jr]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Analista de Governança Operacional (Júnior/Pleno) para atuar no suporte à organização e consolidação de dados da operação, contribuindo para a construção de relatórios e acompanhamento de indicadores.Esse profissional terá papel importante no apoio à governança, garantindo qualidade das informações, organização dos dados e suporte na rotina de acompanhamento de SLAs e resultados operacionais.<br />Você atuará em um ambiente dinâmico, com múltiplas demandas e constante evolução dos processos. Será importante ter organização, capacidade de adaptação e atenção a detalhes para lidar com diferentes atividades simultaneamente.A posição envolve interação com áreas internas e apoio na estruturação de informações utilizadas na gestão da operação.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar a construção e atualização do book mensal da operação</li><li>Consolidar dados provenientes de diferentes fontes</li><li>Atualizar relatórios e dashboards operacionais</li><li>Acompanhar indicadores e apoiar o monitoramento de SLAs</li><li>Identificar inconsistências ou desvios nos dados</li><li>Apoiar na organização de informações para auditorias e controles</li><li>Sugerir melhorias simples nos processos e rotinas operacionais</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência inicial em operações, governança ou áreas administrativas</li><li>Excel intermediário (tabelas, fórmulas, PROCV/PROCX, etc.)</li><li>Organização e atenção a detalhes</li><li>Boa comunicação e capacidade de trabalho em equipe</li></ul><br /><br />Competências comportamentais:<br /><ul><li>Organização e disciplina</li><li>Proatividade</li><li>Facilidade de aprendizado</li><li>Adaptabilidade a mudanças</li><li>Compromisso com qualidade das entregas</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/jobsweai/68/analista-de-governanca]]></applyUrl>
     <companyId><![CDATA[1]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -47006,45 +46811,6 @@ Interesse em negócio, tecnologia e experiência do usuário;</li></ul>]]></desc
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[3d303367-af2b-4d4b-8f2e-5f910757300a]]></partnerJobId>
-    <company><![CDATA[Gooxxy]]></company>
-    <title><![CDATA[Estagiário de Product Manager (Lavras)]]></title>
-    <posterEmail><![CDATA[marina.vicente@gooxxy.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é curioso(a), gosta de entender problemas, conectar dados e transformar necessidades de negócio em soluções de produto? Na Gooxxy, buscamos uma pessoa estagiária para atuar como Product Manager (PM), apoiando a evolução das nossas soluções digitais junto ao time de GoTech.<br />
-Aqui, você vai aprender na prática como funciona o desenvolvimento de produtos digitais, participando das etapas de discovery e delivery, ajudando a organizar ideias, priorizar iniciativas e acompanhar o impacto das soluções no negócio.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar com suporte às etapas de discovery e delivery, colaborando com times de produto, engenharia e design para evoluir funcionalidades de forma incremental;</li><li>Ajudar na coleta e organização de feedbacks, análise de uso do produto, priorização de backlog e escrita de histórias de usuário;</li><li>Participar de rituais de time (plannings, reviews, refinamentos), aprendendo a conectar dados e necessidades de negócio a decisões de produto;</li><li>Contribuir para a clareza da comunicação entre áreas, garantindo que informações relevantes estejam visíveis, bem documentadas e acessíveis aos stakeholders;</li><li>Evoluir na aplicação de métodos de descoberta, mapeamento de jornada do usuário, análise de métricas e priorização de iniciativas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando Ensino Superior em Ciência da Computação, Sistemas de Informação, Engenharia, Estatística, Matemática ou áreas relacionadas;</li><li>Vontade de crescer na carreira como PM, desenvolvendo senso de dono, mentalidade analítica e visão centrada no usuário;</li><li>Curiosidade para aprender ferramentas de produto (como Notion, Figma, Jira, Amplitude, Hotjar, etc.) e metodologias ágeis;</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gooxytalentos/43/estagiario-de-product-manager-lavras]]></applyUrl>
-    <companyId><![CDATA[10974324]]></companyId>
-    <city><![CDATA[Lavras]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[7d14e5bb-b0f0-41b2-abf3-d48ebdf6c5cd]]></partnerJobId>
-    <company><![CDATA[Gooxxy]]></company>
-    <title><![CDATA[Estágio de Software Engineer I Back-End (Lavras)]]></title>
-    <posterEmail><![CDATA[marina.vicente@gooxxy.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é curioso(a), gosta de transformar regras de negócio e dados em soluções robustas e quer colocar em prática tudo o que vem aprendendo na faculdade? Na Gooxxy, buscamos uma pessoa estagiária para atuar como Desenvolvedor(a) Back-End no time GoTech, ajudando a construir e evoluir APIs, integrações e serviços que sustentam nossas soluções tecnológicas. Aqui, você vai aprender de verdade, participando de projetos que impactam diretamente nossos parceiros e impulsionam um futuro de consumo mais responsável.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolvimento e manutenção das soluções de back-end da nossa plataforma, envolvendo o código e as soluções arquiteturais, como banco de dados e a infraestrutura em cloud;</li><li> Participar da modelagem e organização de dados em bancos relacionais e/ou não relacionais;</li></ul> Trabalhar em conjunto com os times de produto e front-end para implementar e evoluir funcionalidades;<br /><ul><li> Participar de reuniões de equipe e trocas de conhecimento para aprender na prática boas práticas de desenvolvimento, arquitetura e o fluxo de desenvolvimento ágil;</li><li> Buscar evolução contínua com apoio do time, desenvolvendo autonomia.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li> Estar cursando ensino superior área de Tecnologia da Informação, Engenharia, Ciência da Computação ou cursos relacionados;</li><li>Ter interesse em atuar com desenvolvimento back-end e aprender sobre linguagens consolidadas;</li><li> Conhecimentos básicos de lógica de programação e algoritmos;</li><li>Vontade de aprender, boa comunicação e interesse em trabalhar em equipe com foco em evolução técnica contínua.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gooxytalentos/42/estagio-de-software-engineer-i-back-end-lavras]]></applyUrl>
-    <companyId><![CDATA[10974324]]></companyId>
-    <city><![CDATA[Lavras]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[711140a2-2a53-4aad-9349-26533dd6e03f]]></partnerJobId>
     <company><![CDATA[Gooxxy]]></company>
     <title><![CDATA[Estágio de Software Engineer I Front-End (Lavras)]]></title>
@@ -57524,6 +57290,34 @@ diferentes necessidades pedagógicas e rotinas diárias.<br />]]></description>
     <companyId><![CDATA[35627156]]></companyId>
     <city><![CDATA[Juazeiro do Norte]]></city>
     <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[218c8423-1580-4abe-ad04-1d8d1d44ed71]]></partnerJobId>
+    <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
+    <title><![CDATA[ANALISTA DE COMUNICAÇÃO | HEC]]></title>
+    <posterEmail><![CDATA[viviane.sherry@labcmi.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos Jornalista(a) para compor nossa equipe no Hospital Estadual da Criança, em Feira de Santana (BA). Procuramos um profissional comprometido, humanizado e dedicado à excelência no cuidado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Criar
+materiais institucionais;</li><li>Produzir conteúdos
+internos e externos; </li><li>Apurar informações junto aos gestores;</li><li>Cobertura
+fotográfica de ações e eventos </li><li>Prestar suporte
+às demandas de imprensa;</li><li>Apoiar à
+divulgação das atividades da instituição </li><li>Apoiar às
+demandas de comunicação visual da unidade;</li><li>Produzir conteúdo
+para redes sociais e canais institucionais;</li><li>Acompanhar entrevistas e visitas
+institucionais, quando necessário.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino superior completo em comunicação social
+(jornalismo).]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmicarreira/3970/analista-de-comunicacao-hec]]></applyUrl>
+    <companyId><![CDATA[24910672]]></companyId>
+    <city><![CDATA[Feira de Santana]]></city>
+    <state><![CDATA[Bahia]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -85165,58 +84959,12 @@ responsabilidade;<br /></li><li>Conhecimento em pacote office (word, excel);</li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[2a473ad8-8532-4f44-9b55-0316e9f1eadb]]></partnerJobId>
-    <company><![CDATA[Fucape Business School]]></company>
-    <title><![CDATA[Técnico de TI]]></title>
-    <posterEmail><![CDATA[camilarafasky@fucape.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional de Técnico de TI para integrar nosso time de tecnologia. O profissional será responsável por garantir a estabilidade, segurança e eficiência da infraestrutura tecnológica da organização, prestando suporte técnico de qualidade e contribuindo ativamente para a melhoria contínua dos nossos ambientes e processos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Instalar, configurar e realizar manutenção de cabeamento estruturado, equipamentos de rede e telefonia</li><li>Realizar testes de conectividade e desempenho, garantindo a estabilidade dos ambientes</li><li>Executar manutenção preventiva e corretiva de hardware e software, incluindo substituição de peças, remoção de vírus e formatação de máquinas</li><li>Instalar e configurar sistemas operacionais, programas e aplicativos nos computadores</li><li>Monitorar online os equipamentos e redes, assegurando o perfeito funcionamento e a segurança da operação</li><li>Oferecer suporte técnico aos usuários, realizando diagnósticos, recomendando soluções e orientando sobre o uso de tecnologias</li><li>Registrar e acompanhar chamados via sistema de tickets (help desk)</li><li>Controlar o inventário de ativos de TI: equipamentos, licenças e acessos</li><li>Apoiar a área de sistemas (ERP, CRM, plataformas acadêmicas e similares) em troubleshooting</li><li>Preparar e gerenciar envio de equipamentos e atender demandas relacionadas a impressoras</li><li>Desenvolver e manter documentações técnicas, manuais e procedimentos operacionais</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo</li><li>Manutenção de hardware e software</li><li>Sistemas operacionais e configuração de redes</li><li>Instalação e configuração de softwares</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fucapecarreiras/22/tecnico-de-ti]]></applyUrl>
-    <companyId><![CDATA[819269]]></companyId>
-    <city><![CDATA[Vitória]]></city>
-    <state><![CDATA[Espírito Santo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[2380.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2380.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[2bb8cbc0-0bce-4ee6-a14c-d0a1e653d7ae]]></partnerJobId>
     <company><![CDATA[Fucape Business School]]></company>
     <title><![CDATA[Gerente Comercial e de Marketing]]></title>
     <posterEmail><![CDATA[camilarafasky@fucape.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Fucape Business School, em Vitória/ES, busca um gerente com perfil estratégico, forte liderança e foco em resultados para impulsionar crescimento de receita e captação.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Principais desafios:<br /><ul><li>Liderar estratégias comerciais e de marketing (on/offline)</li><li>Estruturar funis, metas e indicadores (KPIs)</li><li>Gerir e desenvolver equipes de alta performance</li><li>Atuar junto à diretoria em decisões estratégicas</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Buscamos alguém com:<br /><ul><li>Experiência sólida em liderança comercial e marketing</li><li>Histórico comprovado de crescimento de resultados</li><li>Perfil analítico, orientado a dados e performance</li><li>Forte capacidade de estruturação e desenvolvimento de times</li></ul><br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fucapecarreiras/19/gerente-comercial-e-de-marketing]]></applyUrl>
-    <companyId><![CDATA[819269]]></companyId>
-    <city><![CDATA[Vitória]]></city>
-    <state><![CDATA[Espírito Santo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[4adf3ba0-bb2c-464e-b533-d46f2be8bb6a]]></partnerJobId>
-    <company><![CDATA[Fucape Business School]]></company>
-    <title><![CDATA[Assistente Executivo]]></title>
-    <posterEmail><![CDATA[camilarafasky@fucape.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você é uma pessoa altamente organizada, ágil e com forte capacidade de priorização, essa oportunidade pode ser para você.<br /><br /><br />Buscamos alguém para atuar como braço direito do CEO, apoiando diretamente na gestão da agenda, organização de prioridades e suporte às decisões estratégicas da instituição.<br /><br /><br />Procuramos alguém que não apenas execute, mas que pense junto, organize o caos e traga clareza para a rotina.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar e otimizar a agenda do CEO, garantindo foco no que é mais relevante</li><li>Preparar materiais, pautas e briefings para reuniões</li><li>Acompanhar desdobramentos e garantir execução dos encaminhamentos</li><li>Atuar como interface com stakeholders internos e externos</li><li>Organizar informações e apoiar na tomada de decisão</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo</li><li>Experiência prévia como assistente executivo(a) ou função similar</li><li>Vivência com alta liderança será um diferencial</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fucapecarreiras/21/assistente-executivo]]></applyUrl>
     <companyId><![CDATA[819269]]></companyId>
     <city><![CDATA[Vitória]]></city>
     <state><![CDATA[Espírito Santo]]></state>
@@ -88678,10 +88426,36 @@ Segurança da informação</li></ul></li>]]></description>
   <job>
     <partnerJobId><![CDATA[041a9c07-a31d-4c31-be6a-e401bfc359a4]]></partnerJobId>
     <company><![CDATA[Info Tecnologia e Sistemas]]></company>
-    <title><![CDATA[Analista de RH Generalista Pleno (com forte vivência em DP e perfil de liderança)]]></title>
+    <title><![CDATA[Analista de Recursos Humanos PLENO (Foco em Processos e DP)]]></title>
     <posterEmail><![CDATA[luciana.carvalho@infosistemas.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Vaga Afirmativa.<br /><br /> Belo Horizonte/MG | Inicialmente presencial (com possibilidade futura de híbrido) - Bairro Belvedere.<br /><br />Se você é uma pessoa de RH que gosta de <strong>organizar, estruturar processos e garantir que tudo funcione com qualidade e eficiência</strong>, essa oportunidade pode ser pra você.<br />Buscamos alguém com perfil <strong>mão na massa</strong>, que tenha <strong>domínio de Departamento Pessoal dentro do RH (não contábil)</strong> e que também atue com <strong>Recrutamento e Seleção</strong>, apoiando o crescimento da empresa.<br />Essa posição é estratégica-operacional: você será responsável por <strong>organizar rotinas, validar processos e coordenar o dia a dia do time de RH</strong>.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />✔ Garantir o <strong>fechamento de ponto e controle de horas extras</strong>, com validação antes do envio à contabilidade<br />✔ Atuar como ponte entre <strong>RH e contabilidade</strong>, assegurando qualidade e prazos<br />✔ Organizar e estruturar as <strong>rotinas administrativas de RH</strong><br />✔ <strong>Coordenar as assistentes de RH</strong>, distribuindo e acompanhando demandas<br />✔ Gerir <strong>benefícios e fornecedores</strong> (controle, uso e contratos)<br />✔ Acompanhar <strong>férias e rotinas de DP</strong><br />✔ Garantir qualidade no <strong>atendimento aos colaboradores</strong><br />✔ Conduzir e/ou apoiar <strong>Recrutamento e Seleção</strong><br />✔ Atuar na <strong>melhoria contínua dos processos de RH</strong><br />✔ Apoiar a liderança em momentos e demandas estratégicas<br /><br /><b>Requisitos e qualificações</b><br /><br />✔ Experiência sólida como <strong>Analista de RH Generalista</strong><br />✔ Vivência com <strong>Departamento Pessoal (interface com contabilidade)</strong><br />✔ Experiência com <strong>Recrutamento e Seleção</strong><br />✔ <strong>Mínimo de 3 anos em RH</strong><br />✔ <strong>Mínimo de 2 anos com liderança ou coordenação de equipe</strong><br />✔ Conhecimento em <strong>legislação trabalhista (CLT)</strong><br />✔ Perfil organizado, analítico e com visão de processos<br />✔ Boa comunicação e capacidade de relacionamento<br /> <strong>Formação:</strong><br /><ul><li>Recursos Humanos</li><li>Administração</li><li>Processos Gerenciais</li><li>Ou áreas afins</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasinfotecnologia/18/analista-de-rh-generalista-pleno-com-forte-vivencia-em-dp-e-perfil-de-lideranca]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Vaga Afirmativa.<br /><br /> Belo Horizonte/MG | Inicialmente presencial (com possibilidade futura de híbrido) - Bairro Belvedere.<br /><br />Se você é uma pessoa de RH que gosta de <strong>organizar, estruturar processos e garantir que tudo funcione com qualidade e eficiência</strong>, essa oportunidade pode ser pra você.<br /><br />Buscamos um(a) <strong>Analista de RH Pleno</strong> com perfil técnico-operacional, organizado, dinâmico e com forte atuação prática nas rotinas de RH e Departamento Pessoal interno (não contábil). Essa pessoa será a principal referência operacional da área, responsável por garantir a organização, fluidez e qualidade das rotinas administrativas de RH, atuando diretamente com fechamento de ponto, controle de horas extras, férias, benefícios, interface com a contabilidade e apoio aos processos de Recrutamento e Seleção.<br /><br />
+Procuramos alguém com <b>perfil de liderança operacional</b>, capaz de organizar o fluxo de trabalho das assistentes de RH, direcionar demandas, acompanhar entregas e garantir o bom funcionamento da rotina do setor, com visão de processo, atenção a detalhes, senso de responsabilidade e foco em melhoria contínua. <br /><br />É essencial ter boa capacidade de execução, organização, comunicação e interesse em crescer junto com a empresa de forma estável e consistente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />✔ Organizar, estruturar e acompanhar as rotinas administrativas e operacionais de RH<br />✔ Direcionar, distribuir e acompanhar as atividades das assistentes de RH, garantindo fluidez e organização da operação do setor<br />✔ Atuar diretamente na interface entre RH e contabilidade, assegurando qualidade, prazos e alinhamento das informações trabalhistas<br />✔ Garantir a organização e conferência do fechamento de ponto, banco de horas e horas extras, realizando validações antes do envio das informações à contabilidade<br />✔ Realizar controle e acompanhamento de benefícios corporativos, incluindo movimentações, conferências e contato com fornecedores<br />
+✔ Acompanhar processos de férias, admissões, desligamentos e demais rotinas de Departamento Pessoal interno<br />
+✔ Garantir organização, qualidade e acompanhamento dos atendimentos realizados aos colaboradores<br />
+✔ Apoiar e conduzir etapas operacionais de Recrutamento e Seleção<br />
+✔ Atuar na padronização, melhoria contínua e otimização dos processos internos de RH<br />
+✔ Monitorar controles, prazos e fluxos administrativos da área, garantindo maior eficiência e redução de retrabalho<br />
+✔ Apoiar a liderança do RH na organização da operação e em demandas estratégicas da área quando necessário<br /><br /><b>Requisitos e qualificações</b><br /><br />✔ Experiência prática como Analista de RH Generalista, com forte atuação em rotinas operacionais e administrativas de RH<br />
+✔ Vivência consistente com Departamento Pessoal interno, incluindo fechamento de ponto, banco de horas, férias e interface com contabilidade<br />
+✔ Experiência com processos de Recrutamento e Seleção<br />
+✔ Mínimo de 3 anos de atuação na área de RH<br />
+✔ Vivência com coordenação de atividades, direcionamento de demandas ou apoio à liderança de equipe<br />
+✔ Conhecimento em legislação trabalhista (CLT) aplicada à rotina de RH<br />
+✔ Perfil organizado, analítico, proativo e com boa capacidade de execução e acompanhamento de processos<br />
+✔ Boa comunicação, senso de responsabilidade e facilidade de relacionamento interpessoal<br /><br />
+ <strong>Formação:</strong>
+<ul>
+<li>
+Recursos Humanos
+</li>
+<li>
+Administração
+</li>
+<li>
+Processos Gerenciais</li>
+<li>
+Ou áreas afins</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasinfotecnologia/18/analista-de-recursos-humanos-pleno-foco-em-processos-e-dp]]></applyUrl>
     <companyId><![CDATA[5114901]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
     <state><![CDATA[Minas Gerais]]></state>
