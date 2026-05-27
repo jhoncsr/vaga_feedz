@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 27 May 2026 19:18:08 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 20:20:44 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3530]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3570]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[a309514f-a24c-472e-98ef-d551fd86a1c5]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -834,6 +834,25 @@ distribuído, logging estruturado).</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8898/tech-especialista-senior-em-dados]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0b762b0b-f30a-4b3a-9e0a-8264be3483fe]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Especialista em Engenharia de Software - Java]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos profissionais com visão sistêmica, inquietos e apaixonados por resolver problemas complexos com elegância técnica. <br />Se você é referência técnica, gosta de mentorar e quer construir o futuro de aplicações Cloud Native em alta escala, venha ser um TOTVER!  Neste nível, esperamos que você não apenas execute, mas direcione a evolução tecnológica de nossos produtos.   <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li> Arquitetura e Design: Projetar e implementar sistemas distribuídos, resilientes e escaláveis, garantindo que a arquitetura suporte o crescimento do negócio.    </li><li>Liderança Técnica: Atuar como referência técnica (Staff/Especialista), garantindo que os padrões de código, segurança e performance sejam seguidos e evoluídos por todo o time.   </li><li>Code Review Consultivo: Realizar revisões de código críticas, focando não apenas em sintaxe, mas em design de sistema, segurança e impactos colaterais.  </li><li>Gestão de Dívida Técnica: Identificar proativamente impedimentos à eficiência da engenharia, propondo e liderando a implementação de soluções estruturais.     </li><li> Influência Cross-Team: Colaborar com Product Managers, UX e Stakeholders para viabilizar soluções técnicas complexas em ambientes de entrega contínua.      </li><li>Mentoria e Cultura: Potencializar o crescimento de engenheiros menos experientes, fomentando uma cultura de excelência técnica e aprendizado constante.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><ul><li>Profundo domínio de Java (versões 17+) e do ecossistema Spring (Boot, </li><li>Cloud, Security, Data, Batch).  </li><li>Persistência e Performance: Experiência avançada com Hibernate/JPA e otimização de queries em larga escala.  </li><li>Sistemas Distribuídos: Experiência real com mensageria/streaming (RabbitMQ e Kafka) e padrões de microserviços (Saga, Circuit Breaker, API Gateway).  </li><li>Cloud &amp; Infra: Domínio de Docker e Kubernetes (gerenciamento de pods, configurações de recursos, monitoramento).  </li><li>Qualidade: Experiência em estratégias de testes (Unitários, Integração, Contrato, Carga).  </li><li>Arquitetura: Conhecimento profundo em CQRS, Event Sourcing, DDD (Domain-Driven Design) e Clean Architecture.  </li><li>DevOps: Domínio de pipelines de CI/CD e cultura de observabilidade (Logs,Tracing, Metrics)</li><li>Utilização de IA no processo de desenvolvimento (Cursor, Claude ou Kiro)</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10439/tech-especialista-em-engenharia-de-software-java]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Joinville]]></city>
     <state><![CDATA[Santa Catarina]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -3094,6 +3113,25 @@ Conhecimentos específicos: <br />● Pacote Office - Excel | nível avançado.
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[e16c61f8-20de-432b-a7f0-0fd52e94301b]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de Software Fullstack Senior - Java / Spring Boot / Angular]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Faça parte da construção de soluções que impulsionam a comercialização de commodities em larga escala no time Agro Comercialização da TOTVS.<br />Nesta posição, você irá desenvolver e sustentar funcionalidades de software em um produto estratégico, atuando de forma full stack (FrontEnd e BackEnd).<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver soluções técnicas de média e alta complexidade, através do desenvolvimento de requisitos de softwares, utilizando-se das tecnologias envolvidas no projeto;</li><li>Conhecer a fundo a arquitetura do software e ser capaz de atuar nela através da análise de seus componentes, organização e funcionalidades;</li><li>Criar testes de alta complexidade, sejam estes manuais ou automatizados, que cubram o comportamento desejado dos componentes técnicos desenvolvidos utilizando os requisitos e ferramentas de testes;</li><li>Documentar as etapas de desenvolvimento realizando o registro do desenvolvimento nas ferramentas de versionamento e documentação;</li><li>Orientar e trabalhar com o time de desenvolvimento para encontrar soluções de negócio, arquitetura e desenho através da comunicação e trocas de conhecimento;</li><li>Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados;</li><li>Orientar desenvolvedores de menor senioridade apoiando suas dúvidas, disseminando seu conhecimento, desenhando e arquitetando soluções ou indicando documentação de apoio;</li><li>Detalhar requisitos de média e alta complexidade através do contato com clientes e áreas envolvidas no projeto/atendimento;</li><li>Utiliza frameworks já definidos para o desenvolvimento de soluções.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo em tecnologia e afins.</li><li>Java 17+</li><li>Spring Framework (Core, Boot, Data, Web)</li><li>Flyway</li><li>Arquitetura SaaS</li><li>Testes automatizados</li><li>Maven e Git</li><li>Bancos não relacionais</li><li>Mensageria</li><li>Postgresql</li><li>Restful</li><li>Angular 15+</li><li>Junit</li><li>Mockito</li><li>Design Pattern</li><li>Boas práticas de desenvolvimento: <br />Clean Code<br />SOLID<br />Teste Unitários</li><li>Residir em Assis (SP) e região <b>ou</b> Joinville (SC) e região - Vaga híbrida com 2x na semana presencial. </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9530/tech-engenharia-de-software-fullstack-senior-java-spring-boot-angular]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Assis]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[d29546f0-e19f-45a2-841f-15efb9406957]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Tech] Engenharia de Software Júnior - Java]]></title>
@@ -3495,6 +3533,25 @@ percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS.�
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10101/vendas-gerente-de-contas-especialista-hunter]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[8895feaa-0c56-4e24-b6fc-bb5201dedee1]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de Software Sênior - Protheus]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Analista de Desenvolvimento Sênior III com sólido domínio no ecossistema TOTVS Protheus para atuar em projetos estratégicos de alta complexidade. Este profissional será responsável por desenhar e implementar soluções robustas, garantindo a performance, escalabilidade e integridade do ERP, além de atuar como referência técnica para o time.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver, sustentar e otimizar rotinas complexas utilizando ADVPL e TLPP.</li><li>Arquitetar, implementar e sustentar integrações via APIs REST e Web Services para comunicação com sistemas externos, processos automáticos complexos JOBS e SCHEDULES.</li><li>Garantir a qualidade do código através de práticas de Code Review e aplicação de padrões de projeto (MVC, Orientação a Objetos).</li><li>Colaborar estrategicamente com as áreas de negócio para traduzir necessidades funcionais (Financeiro, Fiscal, Faturamento, etc.) em soluções técnicas eficientes.</li><li>Promover a mentoria técnica de desenvolvedores Plenos e Juniores, disseminando boas práticas e novos conhecimentos.</li><li>Participar ativamente de cerimônias em Metodologias Ágeis (Scrum/Kanban).</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Linguagens : Domínio avançado em ADVPL e TLPP (Ênfase em classes e REST).</li><li>Arquitetura: Experiência sólida em Orientação a Objetos e integrações REST/SOAP.</li><li>Ambiente escalável de alta demanda (Jobs/Schedules com multi-thread)</li><li>Banco de Dados: Conhecimento profundo em SQL Server ou Oracle (Queries, Procedures e Tuning).</li><li>Gestão de Código: Experiência com ferramentas de controle de versão (Git, GitLab ou Azure DevOps).</li><li>Testes Unitários / TDD: Criar testes de alta complexidade, sejam estes manuais ou automatizados. </li></ul><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10077/tech-engenharia-de-software-senior-protheus]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -14060,6 +14117,25 @@ transformar desafios em conquistas conosco!<br /><br /><br /><b>Responsabilidade
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[f6861031-e2e8-42ba-9091-c3329f5f2527]]></partnerJobId>
+    <company><![CDATA[Universidade Tiradentes]]></company>
+    <title><![CDATA[TÉCNICO  DE SEGURANÇA DO TRABALHO SR.]]></title>
+    <posterEmail><![CDATA[dulce_gomes@grupotiradentes.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <b>Técnico(a)</b> de <b>Segurança do Trabalho Sr</b>. para atuar de forma estratégica e preventiva na promoção da saúde e segurança dos colaboradores, garantindo o cumprimento das normas regulamentadoras e das diretrizes institucionais. Esse(a) profissional será responsável por realizar inspeções, treinamentos e ações preventivas, contribuindo para a manutenção de um ambiente seguro e saudável.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar inspeções nos ambientes de trabalho, identificando riscos e propondo ações preventivas;</li><li>Orientar e treinar colaboradores sobre normas e práticas de segurança;</li><li>Controlar e inspecionar EPIs e equipamentos de combate a incêndio;</li><li>Acompanhar programas e ações de segurança, como CIPA e SIPAT;</li><li>Investigar acidentes de trabalho e apoiar ações corretivas e preventivas;</li><li>Apoiar programas de prevenção de riscos ambientais e normas de segurança;</li><li>Acompanhar empresas terceirizadas quanto ao cumprimento das normas internas;</li><li>Elaborar relatórios e controles relacionados às atividades da área.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso Técnico Completo em Segurança do Trabalho com registro ativo;</li><li>Conhecimento em Normas Regulamentadoras (NRs), CIPA e SIPAT;</li><li>Informática intermediária e Pacote Office;</li><li>Noções de biossegurança;</li><li>Boa comunicação, organização e perfil proativo.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasunit/141/tecnico-de-seguranca-do-trabalho-sr]]></applyUrl>
+    <companyId><![CDATA[963717]]></companyId>
+    <city><![CDATA[Aracaju]]></city>
+    <state><![CDATA[Sergipe]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[59160c6f-ce47-4459-b97c-acfec8ebe409]]></partnerJobId>
     <company><![CDATA[Universidade Tiradentes]]></company>
     <title><![CDATA[ASSISTENTE DE COLETA E LOGISTICA]]></title>
@@ -15252,6 +15328,25 @@ Preencher registros operacionais, documentando indicadores, condições e interv
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[17106fc3-a91d-4d06-870c-fec0af9423f6]]></partnerJobId>
+    <company><![CDATA[Tarea]]></company>
+    <title><![CDATA[Engenheiro de Dados]]></title>
+    <posterEmail><![CDATA[julia.basso@tarea.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Engenheiro(a) de Dados para reforçar o nosso time de Operações! <b> </b><br /><br />Essa é uma oportunidade <b>Remote First!</b> Se você é apaixonado(a) por arquitetura, análise e visualização de dados, essa pode ser a oportunidade perfeita pra você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Traduzir requisitos de negócios em arquiteturas de dados robustas;</li><li>Projetar e implementar pipelines de dados escaláveis usando plataformas de gerenciamento de dados, juntamente com ecossistemas de nuvem;</li><li>Desenvolver o pipeline de dados de projetos de analyticsm BI e Data Science;</li><li>Desenvolver modelos de dados estruturados e não estruturados; </li><li>Desenvolver as atividades de ingestão, exploração, tratamento, análise e visualização de dados em soluções de Big Data ou Data Lake.</li></ul><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa na área de Tecnologia;</li><li>Experiência em tecnologias de SQL/ETL/Data warehousing/Integração de Dados/Gestão de Dados;</li><li>Sólido conhecimento de SQL e bom domínio da teoria e prática de gerenciamento de bancos de dados relacionais e analíticos;</li><li>Conhecimento e experiência com sistemas e serviços hospedados nos principais fornecedores de nuvem (AWS, Azure, GCP ou OCI).</li></ul><br /> <br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirastarea/69/engenheiro-de-dados]]></applyUrl>
+    <companyId><![CDATA[910135]]></companyId>
+    <city><![CDATA[Fortaleza]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[9b6234d4-2d6d-43dd-aff5-8d3eb1e59113]]></partnerJobId>
@@ -19514,6 +19609,83 @@ Comprometimento com prazos e qualidade.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/totvsoeste/238/executivo-de-solucoes-de-negocios-hunter]]></applyUrl>
     <companyId><![CDATA[75581059]]></companyId>
     <city><![CDATA[Presidente Prudente]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0e211a33-6344-4271-8a5a-49096e799a5b]]></partnerJobId>
+    <company><![CDATA[TOTVS Oeste]]></company>
+    <title><![CDATA[Analista de Eventos]]></title>
+    <posterEmail><![CDATA[vitoria.correia@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Assistente de Eventos Sênior para apoiar a organização, operação e execução de eventos corporativos presenciais e online. Essa pessoa será responsável por garantir o bom andamento das demandas operacionais da área, atuando diretamente com fornecedores, parceiros, clientes e equipes internas.
+Buscamos um perfil organizado, ágil, proativo e com senso de urgência, que goste de ambientes dinâmicos e tenha facilidade para lidar com múltiplas demandas simultaneamente. A posição é fundamental para apoiar a realização de mais de 100 eventos anuais, contribuindo para a eficiência operacional da área e para a experiência dos participantes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Apoiar a operação logística de eventos presenciais e online;
+</li>
+<li>
+Realizar contato com fornecedores, hotéis, espaços, buffet e parceiros;
+</li>
+<li>
+Controlar cronogramas, checklists e prazos operacionais;
+</li>
+<li>
+Fazer gestão de inscrições e listas de convidados;
+</li>
+<li>
+Apoiar presencialmente a execução dos eventos;
+</li>
+<li>
+Solicitar orçamentos e acompanhar aprovações internas;
+</li>
+<li>
+Auxiliar no controle financeiro da área, incluindo notas fiscais, pagamentos, contratos e pedidos;
+</li>
+<li>
+Atualizar planilhas e relatórios de acompanhamento;
+</li>
+<li>
+Apoiar ações de comunicação relacionadas aos eventos;
+</li>
+<li>
+Realizar interface com áreas internas, comerciais e agências;
+</li>
+<li>
+Garantir organização operacional no pré, durante e pós-evento;
+</li>
+<li>
+Apoiar ações de relacionamento com clientes e patrocinadores.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino superior cursando ou completo em Marketing, Eventos, Publicidade, Administração, Relações Públicas ou áreas correlatas;
+</li>
+<li>
+Experiência anterior com organização e operação de eventos;
+</li>
+<li>
+Boa organização e capacidade de priorização;
+</li>
+<li>
+Excelente comunicação verbal e escrita;
+</li>
+<li>
+Perfil executor e “mão na massa”;
+</li>
+<li>
+Conhecimento intermediário em Excel e/ou Google Sheets;
+</li>
+<li>
+Facilidade para trabalhar com múltiplas demandas simultaneamente;
+</li>
+<li>
+Disponibilidade para viagens pontuais e apoio em eventos presenciais;
+</li>
+<li>
+CNH categoria B.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/totvsoeste/267/analista-de-eventos]]></applyUrl>
+    <companyId><![CDATA[75581059]]></companyId>
+    <city><![CDATA[São José do Rio Preto]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -23871,6 +24043,25 @@ Contábeis Completo;<br />Informática básica; <br />Experiência comprovada e
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[215e12db-a8e1-452b-be5e-7bbfe9331f35]]></partnerJobId>
+    <company><![CDATA[Grupo Ferroeste]]></company>
+    <title><![CDATA[ANALISTA DE DEPARTAMENTO PESSOAL]]></title>
+    <posterEmail><![CDATA[gabriela.pereira@ferroeste.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de um novo desafio profissional e deseja fazer parte de uma equipe dinâmica e engajada, esta é a sua oportunidade! Estamos em busca de pessoas apaixonadas por atuar na área de gestão de pessoas, que entendam a importância do capital humano para o sucesso de uma organização. Em nosso grupo, valorizamos a criatividade e a proatividade, promovendo um ambiente onde cada ideia conta e onde o desenvolvimento profissional é uma prioridade. Junte-se a nós para contribuir com um ambiente de trabalho positivo, onde a colaboração e o respeito estão sempre em primeiro lugar. Se você deseja crescer e impactar a vida de outros colaboradores, convidamos você a descobrir como pode se tornar parte da nossa missão. Venha fazer a diferença conosco e trazer sua experiência e visão para um time que acredita no potencial de cada indivíduo!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar a administração de folha de pagamento, garantindo o cumprimento das obrigações legais e prazos estabelecidos.<br /> - Controlar e registrar as admissões, demissões e movimentações de colaboradores.<br /> - Gerir benefícios oferecidos pela empresa, incluindo auxílio na escolha e gestão de planos de saúde e vales.<br /> - Elaborar e manter atualizados os documentos e registros de funcionários, incluindo contratos e fichas de ponto.<br /> - Realizar conferência e atualização de dados no sistema de gestão de recursos humanos.<br /> - Apoiar na contabilidade e no cumprimento de obrigações acessórias, como GFIP e SEFIP.<br /> - Prestar suporte às áreas administrativas e financeiras nas questões relacionadas às relações trabalhistas.<br /> - Atender às demandas de colaboradores sobre questões de payroll, benefícios e outros assuntos relacionados.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação em Recursos Humanos, Administração ou áreas correlatas.<br /> - Experiência anterior em departamento pessoal.<br /> - Conhecimento em legislação trabalhista e previdenciária.<br /> - Familiaridade com processos de admissão, demissão e folha de pagamento.<br /> - Habilidade com softwares de gestão de pessoal.<br /> - Boa comunicação e trabalho em equipe.<br /> - Organização e atenção aos detalhes.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ferroeste/796/analista-de-departamento-pessoal]]></applyUrl>
+    <companyId><![CDATA[28210388]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[58080f2b-58eb-4aa8-a5f4-c68e3b888ef0]]></partnerJobId>
     <company><![CDATA[Grupo Ferroeste]]></company>
     <title><![CDATA[ESTAGIÁRIO RECURSOS HUMANOS]]></title>
@@ -26051,25 +26242,6 @@ Se você deseja contribuir para um ambiente educacional eficiente e fazer a dife
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[8bc45baf-c13b-4196-b5a9-4b0e79f9ec3b]]></partnerJobId>
-    <company><![CDATA[Fundação Educacional Serra dos Órgãos]]></company>
-    <title><![CDATA[Auxiliar de Manutenção]]></title>
-    <posterEmail><![CDATA[gloriaalves@feso.edu.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos profissional para contrato temporário na clínica-escola de Odontologia. Oferecemos ambiente acolhedor e colaborativo, com oportunidades de aprendizado e desenvolvimento. Valorizamos proatividade, dedicação e trabalho em equipe. Se você é comprometido e busca novos desafios, venha fazer parte do nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />	Realizar serviços de manutenção, substituindo, trocando, reparando e instalando peças, componentes e equipamentos; <br />	Realizar serviços gerais de manutenção, como reparos em alvenaria, hidráulica, elétrica e outros relacionados à conservação da estrutura; <br />	Zelar pela conservação predial e de equipamentos; <br />	Trabalhar seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente; <br />	Executar as demais atividades inerentes à função.<br /><br /><br /><b>Horário de Trabalho:</b>  Segunda a Sexta das 8h às 17h – vaga 100% presencial<br /><div style="text-align:justify"><b>Local de Trabalho: </b>Clínica Escola de Odontologia - Av. Alberto Torres, 111 - Alto - Teresópolis<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />	Ensino fundamental completo;<br />	Curso NR 10;<br />	Noções básicas de elétrica, hidráulica, alvenaria.<br />	Conhecimento no uso de ferramentas manuais elétricas;<br />	Residir em Teresópolis – vaga 100% presencial.<br /><br /><br /><b>A Feso valoriza a diversidade e promove a inclusão de Pessoas com Deficiência (PcD). Caso você seja um profissional com deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenafeso/96/auxiliar-de-manutencao]]></applyUrl>
-    <companyId><![CDATA[1251323]]></companyId>
-    <city><![CDATA[Teresópolis]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[4b79f3d7-1a0d-4276-8dfb-4759e389c60b]]></partnerJobId>
     <company><![CDATA[Fundação Educacional Serra dos Órgãos]]></company>
     <title><![CDATA[Copeiro(a) - Banco de Talentos]]></title>
@@ -26077,25 +26249,6 @@ Se você deseja contribuir para um ambiente educacional eficiente e fazer a dife
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional dedicado(a) e comprometido(a), que queira fazer parte de uma equipe focada na excelência e na satisfação dos nossos clientes. Aqui, cada detalhe é fundamental, e sua atuação terá impacto direto na organização, no cuidado e na experiência de todos.
 Oferecemos um ambiente de trabalho organizado, colaborativo e respeitoso. Se você aprecia trabalhar em equipe, com responsabilidade, atenção e paixão pelo que faz, esta pode ser a sua oportunidade de se juntar a nós. Venha fazer a diferença. Estamos esperando por você!<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Preparar, distribuir e recolher café no âmbito da Instituição;<br /></li><li>Preparar, distribuir e recolher refeições dos bebês conforme prescrições pediátricas e/ou nutricionais, cuidando de sua correta nutrição;</li><li>Manusear e preparar alimentos (café, leite, achocolatados, vitaminas, chá, sucos, torradas, lanches e outros);</li><li>Armazenar alimentos;</li><li>Higienizar e esterilizar materiais utilizados no preparo e alimentação;</li><li>Controlar diariamente o suprimento de mantimentos e materiais da copa;</li><li>Zelar pela organização, conservação e limpeza do ambiente e utensílios;</li><li>Zelar pelo armazenamento e conservação dos alimentos;</li><li>Atender ao público interno e externo, servindo lanches, cafés e refeições conforme necessidade;</li><li>Arrumar bandejas, bufês e mesas, servir em coffee breaks e organizar estruturas de apoio (montar mise-en-place);</li><li>Realizar reposição de materiais de apoio, aparadores, guéridons, bebidas e alimentos em eventos e ambientes;</li><li>Desmontar carrinhos e ambientes, organizando-os e recolhendo, limpando e higienizando toalhas, louças,talheres, copos, bandejas, pratarias e outros;</li><li>Separar e destinar o lixo corretamente;</li><li>Cumprir normas e procedimentos sanitários;</li><li>Executar demais atividades inerentes à função.<br /><br /></li></ul>HORÁRIO DE TRABALHO: Disponibilidade de horário para plantão 12 x 36 e/ou diarista<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo;<br /><br /></li><li>Atenção concentrada, proatividade, bom relacionamento interpessoal e empatia.<br /><br /></li><li>Disponibilidade de horário;<br /><br /></li><li>Residir em Teresópolis.</li></ul><br /><br /><b>A Feso valoriza a diversidade e promove a inclusão de Pessoas com Deficiência (PcD). Caso você seja um profissional com deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenafeso/94/copeiro-a-banco-de-talentos]]></applyUrl>
-    <companyId><![CDATA[1251323]]></companyId>
-    <city><![CDATA[Teresópolis]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6ac003c2-0037-4eaf-b6eb-6537adbfda25]]></partnerJobId>
-    <company><![CDATA[Fundação Educacional Serra dos Órgãos]]></company>
-    <title><![CDATA[Auxiliar de Manutenção Predial]]></title>
-    <posterEmail><![CDATA[suelemsouza@feso.edu.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Temos uma excelente oportunidade para você! Estamos em busca de pessoas dedicadas e proativas que desejam fazer parte de uma equipe comprometida com a excelência em serviços. Aqui, valorizamos a contribuição de cada indivíduo e acreditamos que o sucesso é construído através do trabalho em equipe e do respeito mútuo. Se você é alguém que aprecia desafios e tem vontade de aprender, convidamos você a se juntar a nós!  Se identifique com nossa missão e venha construir o futuro ao nosso lado!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar serviços de manutenção predial, elétrica, hidráulica, e equipamentos substituindo, trocando, limpando no que se refere à conservação dos mesmos e na remodelagem dos espaços físicos;</li><li>Realizar a limpeza de resíduos na Estação de Tratamento de Esgoto (ETE), garantindo sua conservação;</li><li>Utilizar os EPIs necessários para realização das atividades, seguindo normas de segurança e NRs aplicáveis;</li><li>Alvenaria (quebra de parede para conserto de tubulação, reboco e assentamento de azulejo do local quebrado,rejuntamento);</li><li>Instalações em geral (desentupimento de vasos, pias e ralos, de rede de esgoto e rede pluvial, desentupimento e limpeza de caixa de gordura e inspeção);</li><li>Trabalhar seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente;</li><li>Executar demais atividades inerentes à função.</li></ul><br /><br /><b>Horário de Trabalho:</b> de Segunda-feira à sexta-feira das 08:00h às 17:00h e sábado de 08:00h às 12:00h<br /><br /><br /><b>Local de Trabalho:</b> Setor de Manutenção - Campus Sede - Av. Alberto Torres,111 Alto , Teresópolis - RJ.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo;</li><li>Curso NR10;</li><li>Proatividade, agilidade, bom relacionamento interpessoal, trabalho em equipe, empatia e ética;</li><li>Residir em Teresópolis – vaga 100% presencial<br /><br /></li></ul><b>A Feso valoriza a diversidade e promove a inclusão de Pessoas com Deficiência (PcD). Caso você seja um profissional com deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenafeso/89/auxiliar-de-manutencao-predial]]></applyUrl>
     <companyId><![CDATA[1251323]]></companyId>
     <city><![CDATA[Teresópolis]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
@@ -40035,25 +40188,6 @@ correlatas</li><li>Residir em Conceição das Alagoas. </li><li>CNH B. </li></
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[ff2ca611-6ce7-4229-8d96-4505747f7ede]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Líder de Processo Agrícola I - Controle de Pragas]]></title>
-    <posterEmail><![CDATA[kauany.cardoso@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Liderar equipes de aplicação e monitoramento de pragas</li><li>Organizar e otimizar rotas de trabalho diárias e semanais</li><li>Acompanhar e analisar índices de infestação</li><li>Direcionar equipes para avaliação de índices de infestação das áreas</li><li>Garantir cumprimento do plano de aplicação (ex: inseticidas – broca, cigarrinha etc.)</li><li>Assegurar uso correto de EPIs e cumprimento das normas de segurança</li><li>Monitorar produtividade da equipe</li><li>Reportar resultados e indicadores ao superior imediato</li><li>Apoiar no treinamento técnico da equipe</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Técnico Agrícola, Agronomia em andamento ou áreas correlatas</li><li>CNH categoria B</li><li>Disponibilidade para trabalho em campo</li><li>Conhecimento básico de pragas da cana</li><li> Vivência em operações agrícolas</li><li>Experiência com liderança de equipe em campo</li></ul> <br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1656/lider-de-processo-agricola-i-controle-de-pragas]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[e67d9024-bc1d-4732-b89c-75fcbd003070]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
     <title><![CDATA[Líder de manutenção Automotiva - Mecânica Volante]]></title>
@@ -40352,6 +40486,85 @@ para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><b
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1341/banco-de-talentos-agua-comprida]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Conceição das Alagoas]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1034463d-78d3-447a-a8b7-ca214086289e]]></partnerJobId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Analista Comercial - Logística e Transportes]]></title>
+    <posterEmail><![CDATA[isabelam@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Operacionalização de
+Contratos</b>
+
+<ul>
+ <li>Gerar
+     dados e informações D-1 dos contratos atendidos para análise de
+     atendimento, identificação e tratamento de desvios.</li>
+ <li>Informar
+     clientes sobre os carregamentos executados e status do atendimento.</li>
+ <li>Manter
+     contato com transportadoras para tratar desvios identificados em
+     carregamentos, escalonando casos críticos para liderança quando
+     necessário.</li>
+</ul>
+
+ 
+
+<b>Pagamento de Fretes</b>
+
+<ul>
+ <li>Providenciar
+     o pagamento dos fretes conforme contrato, garantindo a
+     conferência/amarração do transporte no sistema e acompanhar o fluxo até a
+     efetivação do pagamento</li>
+ <li>Atender
+     solicitações das transportadoras sobre status/efetivação de pagamentos
+     dentro do período vigente.</li>
+ <li>Elaborar
+     relatórios analíticos com dados das transportadoras (fretes realizados e
+     custos), demonstrando evolução e controle.</li>
+</ul>
+
+ 
+
+<b>Armazenagem e Operação</b>
+
+<ul>
+ <li>Acompanhar
+     e monitorar processos de carregamento e armazenagem nas unidades,
+     assegurando cumprimento dos procedimentos e padrões definidos.</li>
+</ul>
+
+ 
+
+<b>Indicadores e Rotina de
+Gestão</b>
+
+<ul>
+ <li>Gerar e
+     analisar indicadores pré-definidos da área de Logística e Transporte (ex.:
+     tempo de carregamento, atendimento de contratos, acompanhamento
+     produção/safra).</li>
+ <li>Preparar
+     e apresentar resultados na reunião semanal da área.</li>
+</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
+ <li>Ensino
+     Superior cursando ou completo em Logística, Administração ou áreas afins;</li><li>Excel/Office
+     em nível intermediário (conferência, controles, relatórios e análises);</li><li>Power
+     BI (dashboards e indicadores);</li><li>Organização
+     para rotinas de conferência, prazos e follow-up com transportadoras;</li><li>Boa
+     comunicação para relacionamento com parceiros e áreas internas.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1713/analista-comercial-logistica-e-transportes]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Delta]]></city>
     <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -40761,61 +40974,6 @@ Auxiliar no planejamento, criação de conteúdos e gerenciamento das redes soci
 Dar suporte na elaboração de relatórios mensais e periódicos da Agroconsult e seus produtos;</li><li>
 Apoiar as atividades gerais do setor, conforme demandas e necessidades da área.</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar o planejamento e a execução de estratégias digitais, incluindo redes sociais, campanhas de tráfego pago e gestão de site da Agroconsult e seus produtos;</li><li>Auxiliar no planejamento, criação e publicação de conteúdos para os canais de comunicação;</li><li>Dar suporte ao gerenciamento das redes sociais do Rally da Safra;</li><li>Acompanhar métricas e apoiar na elaboração de relatórios mensais e periódicos;</li><li>Auxiliar no desenvolvimento de materiais e ações de comunicação conforme demandas da área.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando graduação em Marketing, Publicidade e Propaganda, Comunicação Social, Jornalismo, Relações Públicas ou áreas correlatas;</li><li>Boa comunicação verbal e escrita;</li><li>Conhecimento intermediário do Pacote Office (especialmente PowerPoint e Excel);</li><li>Interesse por marketing digital, redes sociais e produção de conteúdo;</li><li>Organização, atenção aos detalhes e proatividade;</li><li>Facilidade para trabalhar em equipe.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/agroconsult/27/estagio-de-comunicacao]]></applyUrl>
-    <companyId><![CDATA[1831920]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[36fb2ceb-450d-4ab6-b236-5210cda5adab]]></partnerJobId>
-    <company><![CDATA[Agroconsult]]></company>
-    <title><![CDATA[Estágio de Grãos]]></title>
-    <posterEmail><![CDATA[dp@agroconsult.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Agroconsult busca estagiário(a) para atuar no suporte às atividades de análise de mercado de grãos, organização de dados e elaboração de materiais técnicos. A posição proporciona contato direto com informações estratégicas do agronegócio, contribuindo para o desenvolvimento analítico e visão de mercado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Organização, consolidação e atualização de bases de dados em Microsoft Excel;
-</li>
-<li>
-Elaboração de materiais de apoio para palestras e apresentações em Microsoft PowerPoint;
-</li>
-<li>
-Acompanhamento contínuo do mercado de grãos e seus derivados, com foco em tendências e movimentações relevantes;
-</li>
-<li>
-Leitura e análise de relatórios diários de mercado e notícias relacionadas ao contexto do negócio;
-</li>
-<li>
-Apoio na estruturação e organização de dados e informações para atendimento às demandas de clientes;
-</li>
-<li>
-Pesquisa e coleta de dados em fontes confiáveis;
-</li>
-<li>
-Contribuição eventual na redação de boletins e relatórios técnicos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Estar cursando graduação em Agronomia ou áreas correlatas;
-</li>
-<li>
-Disponibilidade mínima de 20 horas semanais para estágio, em regime 100% presencial;
-</li>
-<li>
-Perfil proativo, curioso e com agilidade na resolução de problemas;
-</li>
-<li>
-Capacidade de concentração sustentada e flexibilidade para lidar com múltiplas demandas;
-</li>
-<li>
-Senso crítico, perfil analítico e raciocínio lógico bem desenvolvidos;
-</li>
-<li>
-Domínio intermediário do pacote Microsoft Office, com ênfase em Microsoft Excel e Microsoft PowerPoint;
-</li>
-<li>
-Inglês intermediário, com foco em leitura e escrita.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/agroconsult/26/estagio-de-graos]]></applyUrl>
     <companyId><![CDATA[1831920]]></companyId>
     <city><![CDATA[Florianópolis]]></city>
     <state><![CDATA[Santa Catarina]]></state>
@@ -42399,6 +42557,25 @@ limpeza, upgrades).
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[d6114ef2-58e5-474a-8253-ec6a028bb4a1]]></partnerJobId>
+    <company><![CDATA[Emefarma]]></company>
+    <title><![CDATA[Estagiário de Projetos e Processos]]></title>
+    <posterEmail><![CDATA[analicia.santos@emefarmario.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Tem vaga rolando no time<b> Projetos e Processos</b><br /><br /><br />Esse desafio é para quem está Cursando Nível Superior, possui perfil comunicativo, analítico e resolutivo.<br /><br /><br />Vem conosco!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Desenvolvimento e Automação de Processos</b><br /><ul><li>Auxiliar na codificação de regras de negócio utilizando JavaScript e Java na plataforma Lecom;</li><li>Criar, ajustar e validar scripts que automatizam rotinas e tratam dados dentro dos fluxos de processos;</li><li>Apoiar na implementação de cálculos, validações, roteamentos inteligentes e lógica de negócios.</li></ul><br /><b> Documentação Técnica<br /></b><ul><li>Documentar regras de negócio, scripts e integrações desenvolvidas;</li><li>Apoiar na criação de manuais técnicos para usuários e para controle interno;</li><li>Controle de versão com ferramenta Git.</li></ul><br /><b>Testes e Validação<br /></b><ul><li>Realizar testes de funcionamento dos processos e automações;</li><li>Simular cenários para garantir a robustez das integrações e scripts;</li><li>Corrigir erros identificados nos testes e propor melhorias.<br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior cursando em Processos, Automação, Engenharia de Software, Engenharia de Produção, Cursos de Tecnologia e áreas afins. </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/emefarma/63/estagiario-de-projetos-e-processos]]></applyUrl>
+    <companyId><![CDATA[10852162]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[964e8706-dc2d-4fa7-9dcf-319c749cbf66]]></partnerJobId>
     <company><![CDATA[Emefarma]]></company>
     <title><![CDATA[Gerente de Marketing]]></title>
@@ -43574,30 +43751,6 @@ informática básica</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[c9194b0b-99d2-4b7c-be8c-f499cfb54f9d]]></partnerJobId>
-    <company><![CDATA[Cardeal Distribuidora]]></company>
-    <title><![CDATA[VENDEDOR MARS PET - LITORAL]]></title>
-    <posterEmail><![CDATA[rodrigo.queiroz@cardealdistribuidora.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Garantir por meio da execução de rotina básica do PDV, o
-cumprimento das metas de vendas de acordo com métricas de sell-out e cobertura;
-Prospectar novos clientes; e apoiar o financeiro no controle da inadimplência.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar as atividades que serão desempenhadas no dia</li><li>Verificar no PDV o estoque disponível e a correta
-exposição dos produtos</li><li>Identificar oportunidades de negócios (ponto extra,
-ampliação de participação e mix )</li><li>Tomar a iniciativa de venda</li><li>Prospectar novos clientes</li><li>Apoiar o financeiro no controle da inadimplência</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo</li><li>Experiência prévia na área comercial</li><li>Residir na região do Litoral de Pernambuco</li></ul>Disponibilidade para viagens<br /><ul><li>CNH B;</li><li>Transporte Próprio</li><li>Conhecimento em
-informática básica</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/423/vendedor-mars-pet-litoral]]></applyUrl>
-    <companyId><![CDATA[11322443]]></companyId>
-    <city><![CDATA[Caruaru]]></city>
-    <state><![CDATA[Pernambuco]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[fa71fc30-3d14-4fe5-855e-294fafa70fb0]]></partnerJobId>
     <company><![CDATA[Cardeal Distribuidora]]></company>
     <title><![CDATA[VENDEDOR P&G - AGRESTE]]></title>
@@ -44704,48 +44857,6 @@ analógica para digital.</li></ul><br /><br /><b>Requisitos e qualificações</b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[9916d636-4cb6-4225-9b87-3ba814527cbc]]></partnerJobId>
-    <company><![CDATA[Grupo EP]]></company>
-    <title><![CDATA[Estágio em Suporte Técnico Operacional]]></title>
-    <posterEmail><![CDATA[ana.furlani@eptv.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>Você é de
-Eletrotécnica ou Eletroeletrônica e gosta de entender como a tecnologia
-funciona “por trás das câmeras”?</b><br />Aqui você vai
-aprender na prática, acompanhar equipamentos, suporte técnico e infraestrutura
-que fazem uma grande operação acontecer todos os dias.
-
-
-
-<br />Se você é uma
-pessoa curiosa, gosta de tecnologia e quer desenvolver sua carreira em um
-ambiente cheio de aprendizado, queremos te conhecer!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>         Atuar com foco nas atividades eletroeletrônica;</li><li>         Identificar pontos de falha que
-possam representar riscos à segurança eletroeletrônica.</li><li>         Apoiar nas manutenções corretivas e
-preventivas dos sistemas, incluindo atualizações, correções de software,
-backups e monitoramento dos fluxos de trabalho;</li><li>         Auxiliar nas instalações e
-configurações de redes, como switches, roteadores, firewalls e ambientes
-virtuais;</li><li>         Acompanhar as tendências e inovações
-tecnológicas relevantes para o setor;</li><li>         Auxiliar nos atendimentos de suporte
-técnico, oferecendo sugestões e soluções para problemas do dia a dia
-relacionados a software, hardware, conectividade, instalações de aplicativos,
-entre outros;</li><li>         Contribuir com ideias de melhorias
-para os sistemas, colaborando em processos de desenvolvimento e avaliação de
-softwares;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>   Cursando
-técnico em Eletrônica, Eletroeletrônica, Eletrotécnica ou graduação em Engenharia Elétrica;</li><li>   Conhecimentos
-básicos em pacote Office (Word, Excel, PowerPoint).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/talentosgrupoep/217/estagio-em-suporte-tecnico-operacional]]></applyUrl>
-    <companyId><![CDATA[58795]]></companyId>
-    <city><![CDATA[Campinas]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[cf10da8c-045f-4df4-99fd-969045bbf177]]></partnerJobId>
     <company><![CDATA[Grupo EP]]></company>
     <title><![CDATA[Assistente de Programação]]></title>
@@ -45106,6 +45217,48 @@ Lei da Aprendizagem);</b></li><li>Estar em cumprimento com a escolaridade (cursa
 Ter disponibilidade para trabalhar até 6 horas diárias;</li><li>
 Ser uma pessoa proativa, comunicativa e disposta a aprender.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/talentosgrupoep/218/jovem-aprendiz]]></applyUrl>
+    <companyId><![CDATA[58795]]></companyId>
+    <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[9916d636-4cb6-4225-9b87-3ba814527cbc]]></partnerJobId>
+    <company><![CDATA[Grupo EP]]></company>
+    <title><![CDATA[Estágio em Suporte Técnico Operacional]]></title>
+    <posterEmail><![CDATA[ana.furlani@eptv.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Você é de
+Eletrotécnica ou Eletroeletrônica e gosta de entender como a tecnologia
+funciona “por trás das câmeras”?</b><br />Aqui você vai
+aprender na prática, acompanhar equipamentos, suporte técnico e infraestrutura
+que fazem uma grande operação acontecer todos os dias.
+
+
+
+<br />Se você é uma
+pessoa curiosa, gosta de tecnologia e quer desenvolver sua carreira em um
+ambiente cheio de aprendizado, queremos te conhecer!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>         Atuar com foco nas atividades eletroeletrônica;</li><li>         Identificar pontos de falha que
+possam representar riscos à segurança eletroeletrônica.</li><li>         Apoiar nas manutenções corretivas e
+preventivas dos sistemas, incluindo atualizações, correções de software,
+backups e monitoramento dos fluxos de trabalho;</li><li>         Auxiliar nas instalações e
+configurações de redes, como switches, roteadores, firewalls e ambientes
+virtuais;</li><li>         Acompanhar as tendências e inovações
+tecnológicas relevantes para o setor;</li><li>         Auxiliar nos atendimentos de suporte
+técnico, oferecendo sugestões e soluções para problemas do dia a dia
+relacionados a software, hardware, conectividade, instalações de aplicativos,
+entre outros;</li><li>         Contribuir com ideias de melhorias
+para os sistemas, colaborando em processos de desenvolvimento e avaliação de
+softwares;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>   Cursando
+técnico em Eletrônica, Eletroeletrônica, Eletrotécnica ou graduação em Engenharia Elétrica;</li><li>   Conhecimentos
+básicos em pacote Office (Word, Excel, PowerPoint).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/talentosgrupoep/217/estagio-em-suporte-tecnico-operacional]]></applyUrl>
     <companyId><![CDATA[58795]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -48435,25 +48588,6 @@ Curso de operador de máquinas agrícolas — desejável.</li>]]></description>
     <companyId><![CDATA[3364231]]></companyId>
     <city><![CDATA[Frutal]]></city>
     <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[fb933e6f-445b-440d-a118-3b8a66240855]]></partnerJobId>
-    <company><![CDATA[Gooxxy]]></company>
-    <title><![CDATA[Estagiário em Recursos Humanos - São Paulo]]></title>
-    <posterEmail><![CDATA[marina.vicente@gooxxy.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) estagiário(a) para atuar no time de Recursos Humanos em São Paulo, com uma atuação generalista e contato com diferentes subsistemas da área. Você terá a oportunidade de apoiar iniciativas de Onboarding, Benefícios, Comunicação Interna e Cultura Organizacional, contribuindo para a experiência dos colaboradores e para o fortalecimento do nosso ambiente de trabalho<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Dar suporte à organização e execução do onboarding, incluindo preparação de materiais, agenda de integração e acompanhamento dos novos colaboradores;</li><li>Auxiliar na administração de benefícios, realizando cadastros, atualizações e apoio no atendimento a dúvidas dos colaboradores;</li><li>Apoiar na criação e divulgação de conteúdos de Comunicação Interna, contribuindo para o engajamento e alinhamento das equipes;</li><li>Dar suporte na organização de ações e iniciativas de cultura organizacional, como campanhas, eventos internos e datas comemorativas;</li><li>Auxiliar na atualização de controles, planilhas e indicadores (KPIs) de RH;</li><li>Apoiar nas rotinas administrativas da área de Recursos Humanos, contribuindo com a organização de documentos e processos;</li><li>Prestar suporte operacional às demandas do time de RH, com foco em aprendizado e desenvolvimento contínuo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando graduação em<strong> </strong>Administração, Psicologia , Recursos Humanos ou áreas correlatas;</li><li>Boa comunicação verbal e escrita;</li><li>Organização, proatividade, atenção aos detalhes e senso de responsabilidade;</li><li>Interesse em atuar de forma generalista nas áreas de Recursos Humanos;</li><li>Conhecimento básico em Pacote Office (Excel, Word e PowerPoint).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gooxytalentos/38/estagiario-em-recursos-humanos-sao-paulo]]></applyUrl>
-    <companyId><![CDATA[10974324]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -53767,6 +53901,30 @@ um ambiente produtivo e colaborativo.<br /><br /><b>Requisitos e qualificações
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[ffca8465-d7cd-459b-8abf-c67d637e7cdd]]></partnerJobId>
+    <company><![CDATA[GS Inima Brasil]]></company>
+    <title><![CDATA[Operador de ETE]]></title>
+    <posterEmail><![CDATA[ricardo.jovenato@gsinima.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />❇️ A posição de Operador de ETE tem como propósito garantir o funcionamento seguro e eficiente das estações de tratamento de efluentes e elevatórias. A atuação envolve monitoramento de sistemas, operação de equipamentos, controle de dosagens químicas, análises físico-químicas e apoio às rotinas de manutenção, sempre em conformidade com normas técnicas, ambientais e de segurança.<br /><br />⏱️<b>Horário: </b>Escala: 12 x 36 das 07h00 às 19h00 com 1h00 refeição.<br /><br />️<b> Vale Alimentação / Refeição</b> – apoio para suas refeições diárias; <b>Cesta de Natal</b> – um carinho especial no fim do ano;<br /> <b>Plano de Saúde</b> – cuidado completo para você;<br /><b> Plano Odontológico </b>– saúde bucal sempre em dia;<br />️ <b>Seguro de Vida sem custo</b> – proteção para você e sua família;<br /> <b>Vale Transporte</b> – facilidade no deslocamento diário;<br /> <b>Auxílio Medicamento</b> – suporte financeiro para tratamentos e prescrições;<br />️ <b>Wellhub</b> – acesso a academias e atividades físicas;<br /><b> Pluxee Cuida </b>– apoio psicológico, social, nutricional e consultorias jurídica e financeira;<br /> <b>Previdência Privada</b> – com 100% de contribuição no aporte da empresa;<br /><b> Participação nos Lucros e Resultados (PLR)</b> – reconhecimento pelo seu desempenho.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Operar estações de tratamento de esgoto e elevatórias<br />• Monitorar sistemas e verificar funcionamento de equipamentos eletromecânicos<br />• Controlar dosagens químicas e realizar análises físico-químicas<br />• Executar amostragem de resíduos e efluentes<br />• Apoiar manutenções preventivas em equipamentos mecânicos<br />• Documentar dados operacionais e controlar insumos utilizados<br />• Organizar e destinar resíduos conforme normas ambientais<br />• Cumprir normas de qualidade, segurança, higiene e saúde
+
+<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /> Formação: Ensino Médio.<br /><br />
+*️⃣ Ensino Médio Completo;<br />
+*️⃣ Conhecimento básico em operação de equipamentos mecânicos/eletromecânicos;<br />
+*️⃣ Compromisso com normas de segurança e preservação ambiental.<br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/473/operador-de-ete]]></applyUrl>
+    <companyId><![CDATA[36870042]]></companyId>
+    <city><![CDATA[Sertãozinho]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[e9cbe9e5-1b49-4a15-8fc7-43a81ca51042]]></partnerJobId>
     <company><![CDATA[GS Inima Brasil]]></company>
     <title><![CDATA[Estágio (Área Administrativa - Facilities)]]></title>
@@ -56306,6 +56464,25 @@ exigidos pelas certificadoras.<br /><br /><b>Responsabilidades e atribuições</
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[aa77a46c-470b-422e-b881-a8fa1584956d]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[FARMACÊUTICO - HBA]]></title>
+    <posterEmail><![CDATA[wilmarosa@live.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de Inscrição: 27 à 31/05/2026</b><br /><br /><br />Seleção Externa Cargo: Farmacêutico <br />Jornada: 12x60h <br />Disponibilidade para regime em escala - diurno e noturno. <br />Salário: Compatível praticado na instituição; <br /><b>VAGAS EXTENSIVAS A PESSOAS COM DEFICIÊNCIA (PCD)</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />·  Orientar tecnicamente todas as áreas do hospital quanto à utilização e armazenamento de medicamentos e produtos para a saúde; <br />· Supervisionar o recebimento, armazenamento e a dispensação de medicamentos e produtos para a saúde;  <br />·  Realizar acompanhamento farmacoterapêutico dos pacientes internados;  <br />· Supervisionar a dispensação segura de medicamentos;  <br />· Estabelecer e monitorar fluxos de abastecimento de farmácias satélites, setores e carros de parada da unidade;  <br />· E demais atividades inerentes ao cargo.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Diploma ou declaração de conclusão de Graduação em Farmácia ou Ciências Farmacêuticas, emitido por Instituição de Ensino Superior reconhecida pelo MEC;</li><li>Declaração vigente do Conselho Regional de Farmácia em Pernambuco de que está devidamente regularizado;</li><li>Experiência mínima comprovada de 6 meses na função em unidade hospitalar.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/161/farmaceutico-hba]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Olinda]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[6ebd05cf-9b3c-4559-92f1-e84b75038c2b]]></partnerJobId>
     <company><![CDATA[OSS Hospital do Tricentenário]]></company>
     <title><![CDATA[FONOAUDIOLOGO]]></title>
@@ -56333,6 +56510,992 @@ exigidos pelas certificadoras.<br /><br /><b>Responsabilidades e atribuições</
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/93/fisioterapeuta]]></applyUrl>
     <companyId><![CDATA[75944743]]></companyId>
     <city><![CDATA[Olinda]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d332380e-32ee-4d28-b3cf-92f9e2a9e69f]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[COORDENADOR ADMINISTRATIVO-FINANCEIRO HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@brites.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 40h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Supervisionar as atividades das áreas administrativa e financeira, garantindo a eficiência e eficácia dos processos.<br /> - Elaborar e acompanhar o orçamento da unidade, analisando as variações e propondo ajustes quando necessário.<br /> - Gerar relatórios financeiros e gerenciais para a alta direção, apresentando indicadores de desempenho e tendências financeiras.<br /> - Coordenar a conciliação bancária, contas a pagar e a receber, assegurando a precisão das informações financeiras.<br /> - Implementar e monitorar políticas e procedimentos administrativos e financeiros, visando a conformidade e otimização de recursos.<br /> - Gerenciar o fluxo de caixa, realizando previsões e garantindo a liquidez da empresa.<br /> - Negociar com fornecedores e prestadores de serviços, buscando as melhores condições para a organização.<br /> - Coordenar a equipe administrativa e financeira, promovendo o desenvolvimento e a capacitação dos colaboradores.<br />- Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior em Administração, Ciências Contábeis, Economia ou área correlata.<br /> - Experiência anterior em cargos de coordenação ou supervisão em área administrativa e financeira. Experiência mínima de 6 (seis) meses.<br /> - Conhecimento em gestão orçamentária e de fluxo de caixa.<br /> - Habilidade em análise de relatórios financeiros.<br /> - Domínio de ferramentas de gestão financeira e softwares contábeis.<br /> - Boa comunicação e capacidade de liderança.<br /> - Organização e atenção a detalhes.<br /> - Conhecimento em legislação fiscal e tributária.<br /> <br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/118/coordenador-administrativo-financeiro-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f7c67174-88d2-4596-9d00-1ed3020e63b0]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[COORDENADOR MÉDICO DE URGÊNCIA E EMERGENCIA / RT HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Período de inscrição: 27 a 29/05/2026<br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 20h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br />Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).<br />Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Coordenar a equipe médica do setor de urgência e emergência;
+</li>
+<li>
+Garantir a qualidade e segurança da assistência prestada aos pacientes;
+</li>
+<li>
+Atuar como RT (Responsável Técnico) junto ao Conselho Regional de Medicina e órgãos reguladores;
+</li>
+<li>
+Supervisionar protocolos clínicos e fluxos assistenciais;
+</li>
+<li>
+Monitorar indicadores de desempenho assistencial e operacional;
+</li>
+<li>
+Elaborar e acompanhar escalas médicas;
+</li>
+<li>
+Apoiar a gestão de leitos e fluxo de pacientes;
+</li>
+<li>
+Garantir o cumprimento das normas da Agência Nacional de Vigilância Sanitária (ANVISA) e políticas institucionais;
+</li>
+<li>
+Promover treinamento e desenvolvimento contínuo da equipe médica;
+</li>
+<li>
+Atuar na resolução de intercorrências e situações críticas;
+</li>
+<li>
+Participar de comissões hospitalares e reuniões estratégicas;
+</li>
+<li>
+Apoiar processos de acreditação hospitalar e melhoria contínua;
+</li>
+<li>
+Integrar ações com equipes multidisciplinares para otimização do atendimento;
+</li>
+<li>
+Assegurar preenchimento adequado de prontuários e documentos assistenciais;
+</li>
+<li>
+Contribuir para redução do tempo de espera e melhoria da experiência do paciente.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Graduação em Medicina;
+</li>
+<li>
+Registro ativo no Conselho Regional de Medicina (CRM);
+</li>
+<li>
+RQE em especialidade relacionada (Clínica Médica, Emergência, Intensivismo, Cirurgia Geral ou áreas afins);</li><li>Experiência mínima de 6 (seis) meses comprovada na função.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/155/coordenador-medico-de-urgencia-e-emergencia-rt-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[9d9b9719-fb1c-4d7b-a4da-f0608f0823c7]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[COORDENADOR MÉDICO UTI / RT]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Período de inscrição: 27 a 29/05/2026<br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 20h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br />Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).<br />Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Coordenar a equipe médica da Unidade de Terapia Intensiva (UTI);
+</li>
+<li>
+Atuar como RT (Responsável Técnico) perante o Conselho Regional de Medicina e órgãos reguladores;
+</li>
+<li>
+Garantir assistência médica segura, humanizada e baseada em protocolos clínicos;
+</li>
+<li>
+Supervisionar condutas médicas e evolução dos pacientes críticos;
+</li>
+<li>
+Monitorar indicadores assistenciais, qualidade e segurança do paciente;
+</li>
+<li>
+Elaborar e acompanhar escalas médicas da UTI;
+</li>
+<li>
+Assegurar cumprimento das normas da Agência Nacional de Vigilância Sanitária (ANVISA) e diretrizes institucionais;
+</li>
+<li>
+Participar da definição e revisão de protocolos assistenciais;
+</li>
+<li>
+Atuar em conjunto com equipes multidisciplinares no cuidado ao paciente crítico;
+</li>
+<li>
+Promover treinamentos e desenvolvimento contínuo da equipe médica;
+</li>
+<li>
+Apoiar processos de acreditação hospitalar e melhoria contínua;
+</li>
+<li>
+Garantir adequado preenchimento de prontuários e documentação médica;
+</li>
+<li>
+Participar de comissões hospitalares e reuniões estratégicas;
+</li>
+<li>
+Gerenciar intercorrências clínicas e apoiar tomada de decisão em casos críticos;
+</li>
+<li>
+Contribuir para gestão eficiente de leitos e recursos assistenciais da UTI.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Graduação completa em Medicina;
+</li>
+<li>
+Registro ativo no Conselho Regional de Medicina (CRM);
+</li>
+<li>
+RQE em Medicina Intensiva, Clínica Médica, Anestesiologia ou especialidades correlatas;
+</li>
+<li>
+Experiência comprovada em Unidade de Terapia Intensiva (UTI);</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/157/coordenador-medico-uti-rt]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3f146bf7-30b6-4d82-a38f-9c5e8d093225]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[CONTROLADOR INTERNO HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@brites.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 40h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Avaliar e monitorar os controles internos da organização, identificando possíveis falhas ou fraudes.<br /> - Elaborar e implementar políticas e procedimentos relacionados à governança corporativa.<br /> - Realizar auditorias internas, documentando os processos e resultados obtidos.<br /> - Apresentar relatórios sobre a eficácia dos controles internos à alta administração.<br /> - Propor melhorias e soluções para otimizar os processos da empresa.<br /> - Treinar e orientar equipes sobre práticas de controle interno.<br /> - Acompanhar o cumprimento de normas e regulamentações pertinentes ao setor.<br /> - Colaborar na elaboração do planejamento estratégico, visando a mitigação de riscos.<br />- Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação em Contabilidade, Administração, Economia ou áreas afins.<br />- Experiência mínima de 6 (seis) meses comprovada na função.<br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/106/controlador-interno-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e3dd42e0-0c57-424b-bd79-2623f4924cc3]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[COSTUREIRO HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><u><b>Período de inscrição: 27 a 29/05/2026</b></u><b></b><br /><u><b><br /></b></u><br /><ul><li>Tipo de Contrato: Contrato por prazo determinado de 90 dias</li><li>Regime/ Jornada de Trabalho - Diarista 40h semanais</li><li>Salário: Compatível praticado na instituição</li><li><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b></li><li><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b></li></ul><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Confeccionar peças têxteis hospitalares, como lençóis, fronhas e aventais, utilizando máquinas de costura reta e interloque; </li><li>Realizar reparos em roupas e acessórios hospitalares danificados, costurando à mão ou com máquinas conforme o tipo de dano; </li><br /><li>Cortar tecidos de acordo com moldes predefinidos ou instruções recebidas, utilizando tesouras ou equipamentos de corte industrial; </li><br /><li>Organizar o ambiente de trabalho e limpar os equipamentos de costura; </li><br /><li>Controlar os insumos como linhas, tecidos e botões, registrando entradas e saídas e solicitando reposições; </li><br /><li>Separar peças a serem consertadas, avaliando o tipo de reparo necessário; </li><br /><li>Atender solicitações de ajustes, adequando as peças às necessidades específicas; </li><br /><li>Participar de reuniões e treinamentos promovidos pela gestão, acompanhando orientações sobre novos processos ou atualizações de procedimentos; </li><br /><li>Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.</li><br /></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.</li><li>Experiência mínima de 6 (seis) meses <b><u>comprovada</u></b> na função.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/86/costureiro-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0be19724-5cc7-4b4f-8081-cefd2cfc5fde]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[ENFERMEIRO CIHDOT HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@brites.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 40h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Coordenar e executar ações relacionadas à Comissão Intra-Hospitalar de Doação de Órgãos e Tecidos para Transplantes (CIHDOTT/CIHDOT)
+</li><li>
+Identificar e monitorar potenciais doadores de órgãos e tecidos na unidade hospitalar
+</li><li>
+Realizar busca ativa em setores críticos, como UTI e emergência
+</li><li>
+Acompanhar protocolos de morte encefálica conforme legislação vigente
+</li><li>
+Prestar suporte e orientação às equipes assistenciais sobre o processo de doação de órgãos
+</li><li>
+Atuar no acolhimento e entrevista familiar para doação de órgãos e tecidos
+</li><li>
+Garantir cumprimento das normas do Sistema Nacional de Transplantes (SNT) e Ministério da Saúde
+</li><li>
+Realizar notificações obrigatórias junto à Central de Transplantes
+</li><li>
+Promover treinamentos e ações educativas sobre doação de órgãos e tecidos
+</li><li>
+Elaborar relatórios, indicadores e registros relacionados às atividades da comissão
+</li><li>
+Participar de reuniões, auditorias e ações institucionais voltadas à qualidade e segurança do paciente
+</li><li>
+Desenvolver ações de sensibilização e humanização no processo de doação e transplantes
+</li><li>
+Trabalhar em conjunto com equipes multiprofissionais e setores estratégicos da instituição
+</li><li>
+Monitorar indicadores assistenciais relacionados ao processo de captação de órgãos e tecidos
+</li><li>
+Garantir sigilo, ética e acolhimento humanizado às famílias durante todo o processo</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino superior completo em Enfermagem
+</li>
+<li>
+Registro ativo no COREN
+</li><li>Experiência mínima de 6 (seis) meses comprovada na função</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/158/enfermeiro-cihdot-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[10c2da8a-d7c0-4ce2-81a8-a8125a623e0e]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[RECEPCIONISTA HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@brites.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b><u>Período de inscrição: 27 a 29/05/2026</u></b><br /><b><u><br /></u></b><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho:<br /><ul><li>Plantonista 12 x 36 (Diurno e Noturno) </li><li>Diarista - 40 horas semanais</li><li>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</li><li>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</li><li>Salário: Compatível praticado na instituição</li></ul><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Receber e orientar visitantes, clientes e fornecedores, garantindo uma recepção acolhedora e eficiente.<br />- Manter a organização e limpeza da área da recepção, além de zelar pela apresentação do ambiente.<br />- Controlar e distribuir correspondências e documentos recebidos.<br />- Auxiliar em atividades administrativas, como o preenchimento de formulários e controle de entradas e saídas de pacientes.<br />- Trabalhar em colaboração com outras equipes para garantir o fluxo adequado de informações.<br />- Garantir a segurança, registrando as entradas e saídas de visitantes e prestadores de serviços.<br />- Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo.<br />Experiência mínima de 6 (seis) meses comprovada na função.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/81/recepcionista-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[cddcfc70-730a-42b0-bac2-8c01a895ad13]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[TÉCNICO DE ENFERMAGEM HCP - Contrato por determinado]]></title>
+    <posterEmail><![CDATA[rh@brites.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Plantonista 12 X 36 - Diurno e Noturno<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Prestar assistência direta ao paciente, promovendo cuidados de enfermagem essenciais.<br /> - Administrar medicamentos e tratamentos conforme prescrição médica.<br /> - Realizar procedimentos de enfermagem, como curativos e coletas de materiais para exames.<br /> - Monitorar sinais vitais e observar a evolução do estado de saúde dos pacientes.<br /> - Manter registros atualizados sobre o atendimento prestado e as condições dos pacientes.<br /> - Assistir na higiene pessoal e conforto dos pacientes.<br /> - Colaborar com a equipe de saúde na elaboração e execução do plano de cuidados.<br /> - Orientar pacientes e familiares sobre cuidados e tratamentos a serem seguidos.<br /> - Garantir a organização e limpeza do ambiente de trabalho e dos materiais utilizados.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Experiência mínima de 6 (seis) meses comprovada na função.<br />- Formação técnica em Enfermagem completa.<br /> - Registro ativo no Conselho Regional de Enfermagem (COREN).<br /> <br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/162/tecnico-de-enfermagem-hcp-contrato-por-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e2e36e97-226a-4f2c-a228-f0703a270fba]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[MAQUEIRO HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@brites.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Plantonista 12 X 36 - Diurno e Noturno<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Transportar pacientes para diferentes setores da instituição conforme necessidade.<br /> - Preparar e higienizar macas e camas, garantindo conforto e segurança.<br /> - Auxiliar na movimentação de pacientes durante procedimentos e exames.<br /> - Colaborar com a equipe de enfermagem na organização do fluxo de atendimento.<br /> - Manter a limpeza e organização das áreas de trabalho.<br /> - Seguir normas de biossegurança e procedimentos internos da instituição.<br />- Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo.<br />Experiência mínima de 6 (seis) meses comprovada na função.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/87/maqueiro-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1a1458ac-e756-45fe-99c7-8339a05dfef0]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[COORDENADOR DE SAME HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@htri.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 40 horas semanais<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD). Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Coordenar, supervisionar e atualizar os fluxos e Procedimentos Operacionais Padrão (POPs) das recepções e do apoio administrativo (SAME).</li><li>Acompanhar os resultados contratuais da unidade para evitar penalidades financeiras, além de alimentar sistemas oficiais do Estado como o SIMAS e a SEPLAG com indicadores quantitativos e qualitativos.</li><li>Desenvolver relatórios gerenciais, estatísticos e planilhas de indicadores mensais, além de analisar e corrigir o BID para subsidiar as decisões da Direção Geral, Direção Médica e da Secretaria Estadual de Saúde (SES).</li><li>Participar de reuniões de alinhamento, integrar a Comissão de Prontuário do Paciente, apresentar resultados trimestrais no colegiado administrativo e redigir comunicações oficiais (ofícios e comunicados internos).</li><li>Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação em Administração, Gestão de RH ou áreas relacionadas à saúde.</li><li>Experiência mínima de 6 (seis) meses comprovada na área.</li></ul><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/165/coordenador-de-same-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f6eaee3e-2b75-4f00-8b0b-3ebcea28529d]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[PORTEIRO HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@brites.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Plantonista 12 X 36 - Diurno e Noturno<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD). </b><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Controlar o acesso de pessoas e veículos ao local, garantindo a segurança do ambiente.<br /> - Registrar entradas e saídas em livro de ocorrência ou sistema de controle.<br /> - Monitorar as câmeras de segurança e reportar situações suspeitas.<br /> - Prestar informações e orientações aos visitantes e funcionários.<br /> - Manter a organização e a limpeza da portaria.<br /> - Realizar rondas em áreas internas e externas para assegurar a segurança.<br /> - Atender chamadas telefônicas e direcionar para os setores adequados.<br /> - Colaborar com a equipe de segurança em situações de emergência.<br /> - Receber correspondências e entregas, garantindo a correta distribuição.<br />- Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo.<br />Experiência mínima de 6 (seis) meses comprovada na função.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/89/porteiro-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0a14c9cf-995a-489e-8ec1-092196176a9a]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[FISIOTERAPEUTA  INTENSIVISTA  HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Período de inscrição: 27 a 29/05/2026<br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 30h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br />Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).<br />Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />·       ·        
+Domínio em ventilação mecânica invasiva e não
+invasiva;·        
+Conhecimento em fisiologia respiratória e
+hemodinâmica aplicada ao paciente crítico;
+
+·        
+Habilidade em interpretação de exames de imagem e
+laboratoriais relacionados à função cardiorrespiratória;
+
+·        
+Experiência com manuseio de equipamentos de suporte
+ventilatório, aspiradores e monitores multiparamétricos;
+
+·        
+Conhecimento em protocolos de desmame ventilatório;
+
+·        
+Registro adequado em prontuário eletrônico;
+
+·        
+Noções de farmacologia aplicada ao paciente
+crítico;
+
+Competência em protocolos de mobilização precoce.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Bacharelado em Fisioterapia.</li><li>Registro ativo no Conselho Regional de Fisioterapia e Terapia Ocupacional (CREFITO);</li><li>Experiência mínima de 6 (seis) meses comprovada na função.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/163/fisioterapeuta-intensivista-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f6406e77-7c48-4808-a85f-fbc37f45845b]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[AUXILIAR DE ROUPARIA HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista / Plantonista 12 X 36 - Diurno e Noturno<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><br /><br /><ul><li>Executar a distribuição, conferência e organização das roupas
+  hospitalares;</li><li>Verificar a qualidade da lavagem, número e peso das peças
+  retornadas da lavanderia terceirizado, sempre que necessário, assegurando que
+  as roupas estejam em condições adequadas para uso;</li><li>Controlar o sistema de solicitações de enxoval, via sistema de
+  chamados, sempre que necessário, de modo a garantir um suporte contínuo e
+  eficiente aos diversos setores do hospital; </li><li>Entregar e receber fardamentos dos colaboradores, sempre que
+  necessário, promovendo o adequado fornecimento de uniformes; </li><li>Fiscalizar o estado das peças para que sejam efetuados os
+  devidos reparos sempre que necessário, assegurando a qualidade do material
+  utilizado; </li><li>Realizar diariamente o controle do número de roupas distribuídas
+  para os diversos setores do hospital, garantindo uma gestão adequada dos
+  recursos; </li><li>Formar e distribuir,
+  diariamente, kits e itens unitários como roupa de cama, toalha e manta para
+  pacientes e acompanhantes durante o período de internação, garantindo que as
+  necessidades sejam atendidas prontamente; </li><li>Preencher diariamente a planilha referente ao controle dos enxovais,
+  mantendo a documentação sempre atualizada e precisa; </li><li>Dobrar e preparar, diariamente, os kits do bloco cirúrgico e entregar
+  na central de material esterilizado (CME), garantindo que todo o material
+  esteja devidamente preparado para uso;<b></b> </li><li>Executar o serviço de coleta de roupas sujas dos pacientes
+  e acompanhantes, diariamente, em todos os setores dentro da unidade
+  hospitalar, conforme o cronograma de atividades estabelecido, promovendo a
+  organização e limpeza do ambiente hospitalar; </li><li>Identificar os sacos hamper por setor, realizando conferência,
+  pesagem e organização dentro dos contentores de armazenagem de roupa suja,
+  para facilitar o fluxo de trabalho, garantir a rastreabilidade e otimizar a eficiência das operações; </li><li>Executar outras tarefas correlatas
+  ao cargo ou função, a critério do seu superior imediato.<br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.</li><li>Experiência mínima de 6 (seis) meses comprovada na função.</li></ul><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/90/auxiliar-de-rouparia-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e949e783-c042-432e-8f5b-25473f1402f7]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[CONDUTOR DE AMBULÂNCIA HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@brites.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Plantonista 12 X 36 - Diurno e Noturno<br />Salário: Compatível praticado na instituição<br /><br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>·Conduzir ambulâncias
+diariamente em vias urbanas e rodoviárias, seguindo normas de trânsito e
+protocolos de segurança, para garantir o transporte seguro de pacientes,
+equipes e materiais; </li><li> ·Verificar diariamente os itens essenciais do
+veículo, como nível de óleo, combustível, freios, pneus e iluminação, por meio
+de checklist pré-estabelecido, para assegurar o pleno funcionamento e evitar
+falhas durante os deslocamentos;
+
+·       </li><li>Zelar sempre que necessário pela limpeza interna e
+externa da ambulância, em parceria com a equipe de higienização, para manter o
+ambiente sanitariamente adequado e confortável aos usuários;
+
+·       </li><li>Acompanhar sempre que acionado os profissionais de
+saúde durante o transporte de pacientes, prestando suporte na movimentação e
+acomodação dos mesmos, para contribuir com a segurança e o bem-estar durante o
+trajeto;
+
+·       </li><li>Registrar diariamente as ocorrências, rotas e
+quilometragem dos atendimentos em formulários físicos ou sistemas digitais, com
+precisão e clareza, para manter o controle e rastreabilidade das atividades
+realizadas;
+
+·      </li><li> Comunicar-se constantemente
+com a central de regulação e com a equipe assistencial por meio de rádio ou
+telefone, seguindo os fluxos operacionais, para otimizar o tempo de resposta e
+garantir a efetividade no transporte;
+
+· </li><li>Realizar periodicamente o abastecimento da
+ambulância em postos autorizados, conforme programação e orientações recebidas,
+para manter o veículo disponível e pronto para uso;
+
+· Reportar falhas mecânicas ou necessidades de
+manutenção à equipe responsável, sempre que detectado, de forma imediata e
+detalhada, para prevenir acidentes e preservar a funcionalidade da frota;
+
+</li><li>Executar
+outras tarefas correlatas ao cargo ou função, a critério do seu superior
+imediato</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo com Curso de Condutor de Veículo de Emergência. CNH categoria D ou E.</li><li>Curso de Primeiros Socorros ou Atendimento Pré-hospitalar (APH), Curso de direção defensiva.</li><li>Experiência anterior na função ou em atividades relacionadas</li><li>Disponibilidade para trabalhar em turnos variados</li><li>Boa comunicação e habilidades interpessoais</li><li>Capacidade de trabalhar sob pressão e em situações de emergência</li><li>Conhecimento básico de manutenção de veículos é um diferencial</li></ul><br /><br />    <br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/135/condutor-de-ambulancia-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[a473e2a9-8b78-4e88-8787-6f73f33cc199]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[TÉCNICO DE RADIOLOGIA HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Período de inscrição: 27 a 29/05/2026<br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho -  24h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br />Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).<br />Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>  Conhecimento na Execução de exames de
+diagnóstico por imagem, aplicando técnicas específicas para assegurar qualidade
+e precisão nos resultados;</li><li>  Conhecimento e prática na operação de
+equipamentos específicos e obtenção de imagens radiológicas;</li><li>  Conhecimento no posicionamento correto do
+paciente;</li><li>  Habilidade no gerenciamento das imagens e registros em
+sistema,   incluindo arquivamento, envio digital e gravação em   CD/DVD. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso
+Técnico em Radiologia;</li><li>Registro ativo no
+Conselho Regional de Técnicos em Radiologia (CRTR).</li><li>Experiência mínima de 6 (seis) meses comprovada na função.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/166/tecnico-de-radiologia-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[5d6034f3-e0ab-42ff-b8a5-6ff256cf0f0a]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[ASSESSOR DE IMPRENSA HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@brites.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 40h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Produzir
+     releases, notas oficiais e conteúdos jornalísticos a partir de dados
+     institucionais e entrevistas com fontes internas;</li>
+ <li>Gerenciar
+     demandas de imprensa por meio de atendimento direto a jornalistas, envio
+     de respostas oficiais e intermediação de entrevistas;</li>
+ <li>Monitorar
+     matérias jornalísticas, menções e temas estratégicos usando ferramentas de
+     clipping e análise de mídia;</li>
+ <li>Elaborar
+     relatórios de exposição na mídia com base em indicadores de alcance, tom
+     das publicações e retorno institucional;</li>
+ <li>Fortalecer
+     o relacionamento com veículos de comunicação e formadores de opinião por
+     meio de contato contínuo, envio de pautas e convites para eventos
+     institucionais;</li>
+ <li>Acompanhar
+     entrevistas e pronunciamentos oficiais atuando como suporte ao porta-voz
+     da empresa e orientando quanto ao discurso institucional;</li>
+ <li>Criar
+     planos de comunicação e gerenciamento de crise com base em protocolos
+     internos e articulação com áreas jurídicas e executivas;</li>
+ <li>Colaborar
+     com campanhas institucionais e projetos de comunicação interna e externa
+     em conjunto com a equipe de marketing e RH;</li>
+<li>Executar outras tarefas correlatas ao cargo ou
+função, a critério do seu superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa em Jornalismo, Relações públicas
+ou Comunicação Social.</li><li>Experiência mínima de 6 (seis) meses comprovada na função.</li></ul><br /> <br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/111/assessor-de-imprensa-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0fb82b45-b7a1-406c-a83d-c9bc9c213df4]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[TECNÓLOGO DE RADIOLOGIA HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Período de inscrição: 27 a 29/05/2026<br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - 20h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br />Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).<br />Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar exames de diagnóstico por imagem conforme prescrição médica e protocolos institucionais;
+</li>
+<li>
+Operar equipamentos radiológicos com segurança e qualidade técnica;
+</li>
+<li>
+Preparar e posicionar pacientes para realização dos exames;
+</li>
+<li>
+Garantir proteção radiológica do paciente, equipe e acompanhantes;
+</li>
+<li>
+Executar exames de radiografia, tomografia, mamografia, densitometria, hemodinâmica ou ressonância, conforme habilitação;
+</li>
+<li>
+Conferir identificação do paciente e documentação necessária antes dos procedimentos;
+</li>
+<li>
+Auxiliar médicos e equipe multiprofissional durante procedimentos diagnósticos e intervencionistas;
+</li>
+<li>
+Monitorar condições de funcionamento dos equipamentos e comunicar necessidades de manutenção;
+</li>
+<li>
+Registrar informações e evoluções em prontuário eletrônico e sistemas de imagem;
+</li>
+<li>
+Cumprir normas de biossegurança, radioproteção e qualidade assistencial;
+</li>
+<li>
+Zelar pela organização do setor e conservação dos equipamentos;
+</li>
+<li>
+Atuar conforme normas da Agência Nacional de Vigilância Sanitária (ANVISA) e diretrizes institucionais;
+</li>
+<li>
+Participar de treinamentos, programas de qualidade e processos de acreditação hospitalar;
+</li>
+<li>
+Prestar atendimento humanizado, assegurando conforto e segurança ao paciente.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Graduação completa em Tecnologia em Radiologia;
+</li>
+<li>
+Registro ativo no Conselho Regional de Técnicos em Radiologia (CRTR);</li><li>Experiência mínima de 6 (seis) meses comprovada na função.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/167/tecnologo-de-radiologia-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3faf716b-8dec-42c9-8299-8a50405c6c5f]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[AUXILIAR DE NECROTÉRIO HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@brites.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b><u>Período de inscrição: 27 a 29/05/2026</u></b><br /><b><u><br /></u></b><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Plantonista 12 X 36 - Diurno e Noturno<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Receber, identificar e encaminhar corpos conforme os protocolos do hospital SUS</li><li>
+Realizar transporte interno de corpos entre setores do hospital e necrotério
+</li><li>
+Controlar fichas, registros e documentação obrigatória dos pacientes em óbito</li><li>
+Cumprir normas de biossegurança, utilizando corretamente os EPIs
+</li><li>
+Auxiliar no atendimento às funerárias e familiares de forma ética e respeitosa
+</li><li>
+Verificar identificação correta dos corpos antes de liberações e encaminhamentos
+</li><li>
+Manter sigilo profissional e seguir normas técnicas e sanitárias da unidade hospitala</li><li>Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.r</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.</li><li>Experiência mínima de 6 (seis) meses comprovada na função.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/84/auxiliar-de-necroterio-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1338085a-c245-4bbe-8d01-257de1681fd2]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[MOTORISTA ADMINISTRATIVO HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@brites.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 40h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD). </b><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar deslocamentos para reuniões, compromissos e viagens corporativas, garantindo a pontualidade.<br /> - Manter a limpeza e a organização do veículo, realizando a verificação diária das condições de uso.<br /> - Preencher relatórios de viagens e controle de combustível, mantendo registros precisos.<br /> - Cumprir com as normas de tráfego e políticas internas de transporte.<br /> - Auxiliar na carga e descarga de materiais e equipamentos, quando necessário.<br /> - Colaborar com a equipe administrativa, prestando suporte logístico em atividades diárias.<br /> - Ser responsável pela manutenção preventiva e corretiva do veículo, comunicando a supervisão sobre eventuais necessidades.<br />- Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo.<br />Experiência mínima de 6 (seis) meses comprovada na função.<br />Habilitação válida e categoria correspondente.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/91/motorista-administrativo-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d6a81432-5b87-4c85-b26f-d52de5e365b8]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[AUXILIAR DE FARMÁCIA HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - <br />Plantonista 12 X 36 - Diurno e Noturno<br />Diarista 40h Semanais<br /><br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Receber medicamentos e materiais hospitalares conforme nota fiscal e pedido;conferindo fisicamente os itens com agilidade;</li><li>Armazenar medicamentos e materiais de forma organizada e seguindo normas técnicas, imediatamente após o recebimento, para manter a qualidade e segurança dos insumos;</li><li>Atuar em setores com itens de alto valor agregado, como satélites do bloco cirúrgico, hemodinâmica e oncologia.</li><li>Lançar notas fiscais no sistema, conforme recebimento.</li><li>Separar e entregar medicamentos e materiais conforme prescrição médica ou requisição da unidade, em tempo real ou conforme demanda, para assegurar o atendimento terapêutico ao paciente;</li><li>Controlar prazos de validade e condições de armazenamento dos produtos, semanalmente, para evitar perdas e riscos ao paciente;</li><li>Registrar movimentações de entrada e saída de materiais no sistema, sempre que houver movimentação, garantindo rastreabilidade e controle de estoque.</li><li>Realizar inventários rotativos e gerais do estoque, comparando fisicamente os produtos com os registros do sistema para identificar divergências.</li><li>Zelar pela limpeza e organização dos ambientes da farmácia, diariamente, seguindo protocolos de biossegurança para manter um ambiente seguro e funcional.</li><li>Comunicar à supervisão sobre irregularidades, faltas ou avarias nos produtos ou processos, imediatamente ao identificar o problema, colaborando na melhoria contínua dos serviços.</li><li>Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo.<br />Experiência mínima de 6 (seis) meses comprovada na função de Auxiliar de Farmácia no segmento hospitalar.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/116/auxiliar-de-farmacia-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[7d6407cd-a94d-4fba-97aa-0df57957fba2]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[ANALISTA DE PATRIMÔNIO HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 40h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar o cadastro de itens
+patrimoniais no sistema SoulMV sempre que houver aquisição de novos bens; </li><li>Executar o recebimento e a entrada de notas fiscais conforme o recebimento
+de materiais; </li><li>Receber os bens no módulo de
+patrimônio e realizando sua alocação imediatamente após o recebimento, conforme
+as necessidades do hospital; </li><li>Executar inventário e
+contagens periódicas dos bens patrimoniais, conforme cronograma
+definido pela gestão, identificando e reportando eventuais discrepâncias; </li><li>Analisar e registrar a depreciação
+dos bens, garantindo que os valores estejam refletidos corretamente
+nos registros contábeis. </li><li>Elaborar relatórios sobre a
+situação do patrimônio hospitalar, incluindo informações sobre depreciação, substituições e manutenções
+necessárias, contribuindo para a tomada de decisões estratégicas. </li><li>Colaborar na elaboração de
+políticas e procedimentos relacionados à gestão patrimonial, sempre que houver
+revisão normativa ou implantação de novos processos; </li><li>Participar dos processos de
+aquisição e desativação de bens, garantindo a conformidade com os procedimentos institucionais; </li><li>Manter a organização e a
+integridade dos registros patrimoniais de forma contínua, facilitando
+auditorias e fiscalizações; </li><li>Fornecer suporte e orientação aos
+colaboradores sobre a gestão patrimonial, promovendo a conscientização sobre o uso adequado e a
+conservação dos bens.
+
+</li><li>Executar outras tarefas correlatas ao cargo ou
+função, a critério do seu superior imediato.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Administração, Contabilidade, Economia ou áreas correlatas.</li><li>Declaração vigente de que está devidamente registrado no Conselho Regional Profissional de Pernambuco.</li><li>Experiência mínima de 6 (seis) meses comprovada na função.</li></ul><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/108/analista-de-patrimonio-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[102227d2-522c-47f7-9e1b-df4fa5e68968]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[AUXILIAR DE ALMOXARIFADO HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@brites.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b><u>Período de inscrição: 27 a 29/05/2026</u></b><br /><b><u><br /></u></b><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Plantonista 12 X 36 - Diurno e Noturno<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Receber, conferir e armazenar materiais e produtos que chegam ao almoxarifado.</li><li>Organizar e manter a disposição dos itens armazenados, garantindo fácil acesso e controle de estoque.</li><li>Controlar a entrada e saída de materiais, registrando no sistema de gestão.</li><li>Realizar inventários periódicos para garantir a acuracidade dos registros.</li><li>Auxiliar na separação e expedição de materiais conforme solicitações internas.</li><li>Colaborar na manutenção da limpeza e organização do ambiente de trabalho.</li><li>Atender a fornecedores e colegas de trabalho, prestando informações sobre produtos e estoque.</li><li>Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo.<br />Experiência mínima de 6 (seis) meses comprovada na função.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/83/auxiliar-de-almoxarifado-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[67e8e082-f9b0-4d72-b484-6290dc46ecec]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[ASSESSOR DE DIREÇÃO HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@brites.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - <b>Diarista 40h Semanais</b><br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Apoiar a diretoria em atividades administrativas e operacionais.<br /> - Organizar e manter a agenda de compromissos da alta gestão.<br /> - Preparar e revisar documentos, relatórios e apresentações.<br /> - Facilitar a comunicação entre a direção e os demais departamentos.<br /> - Coordenar reuniões, elaborar atas e acompanhar as ações definidas.<br /> - Pesquisar e compilar informações relevantes para tomadas de decisão.<br /> - Gerenciar o fluxo de informações internas e externas.<br /> - Auxiliar na elaboração de estratégias e planos de ação.<br /> - Monitorar indicadores de desempenho e relatórios gerenciais.<br /> - Realizar atividades de planejamento e acompanhamento de projetos.<br />- Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.<br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Bacharel em Administração, Engenharia de Produção, Contabilidade, Direito ou Gestão Hospitalar, com inscrição válida no respectivo Conselho de Classe em Pernambuco quando couber.</li><li>Experiência mínima de 6 (seis) meses comprovada na função.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/103/assessor-de-direcao-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[44cf151b-6d61-4c06-a2d4-58981fc39d11]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[ASSISTENTE SOCIAL HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[rh@htri.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Período de inscrição: <b>27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho:<br /><ul><li>Plantonista 12 X 60 - Diurno e Noturno</li><li>Diarista - 30 horas semanais</li></ul><br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prestar orientação e acompanhamento a indivíduos, famílias e grupos sociais: diariamente.</li><li>Realizar estudos e diagnósticos sociais conforme surgimento de casos específicos ou situações que exijam intervenção técnica; geralmente mensal ou por demanda.</li><li>Elaborar pareceres, laudos e relatórios sociais conforme solicitação institucional, judicial ou de ór-gãos parceiros; pode ser mensal, bimestral ou por demanda.</li><li>Atuar em equipes interdisciplinares semanal ou quinzenal, de acordo com o cronograma de reuniões e articulações da equipe técnica.</li><li>Realizar mediação de conflitos e articulação de redes de atendimento contínua, conforme a comple-xidade dos casos atendidos e necessidade de encaminhamentos ou intervenções.</li><li>Defender e promover os direitos humanos e sociais permanente e transversal a todas as atividades desenvolvidas no exercício profissional.</li><li>Participar da formulação e implementação de políticas públicas conforme o calendário institucional e as instâncias de controle social; geralmente anual ou por ciclos de planejamento.</li><li>Atuar na educação permanente de profissionais e na capacitação de equipes semestral, anual ou conforme cronograma interno de capacitação e formação continuada.</li><li>Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa em Serviço Social.</li><li>Registro no Conselho Regional de Serviços Sociais (CRESS).</li><li>Comprovação de Regularidade junto ao Conselho de Classe -Nada consta (relativo à função). </li><li>Experiência mínima de 6 (seis) meses comprovada na função.</li></ul><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/92/assistente-social-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e33ef17b-aefa-4f7c-a69f-6413f1580251]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[ASSISTENTE FINANCEIRO HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 40h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>  Arquivar as notas fiscais e
+demais documentos fiscais na pasta de controle de pagamentos, em pasta digital,
+por data de vencimento, assegurando os compromissos financeiros da empresa e o
+cumprimento dos prazos, diariamente;  </li><li>    Importar as notas fiscais de
+produtos e serviços, lançadas pelos estoques / setores, para o financeiro
+através do sistema MV, após o atesto dos gestores, conferindo os lançamentos,
+para assegurar a exatidão dos registros e manter as informações financeiras
+atualizadas, diariamente; </li><li> Cadastrar pagamentos no Sistema
+MV, verificando dados e tributações, garantindo a atualização das obrigações
+financeiras da empresa e a conformidade fiscal, diariamente;</li><li> Digitalizar, quanto necessário,
+organizar e arquivar o movimento financeiro, utilizando pastas físicas e
+digitais, para garantir fácil acesso e atender exigências de auditoria e
+compliance;</li><li>Baixar pagamentos no sistema MV, assegurando a
+coerência entre os extratos bancários e o controle interno, diariamente;·       </li><li>Auxiliar na conciliação
+bancária, verificando e ajustando as transações financeiras, para garantir a
+precisão das informações contábeis e evitar discrepâncias no caixa da empresa,
+diariamente;</li><li>Executar outras tarefas correlatas ao cargo ou
+função, a critério do seu superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo.<br />Experiência mínima de 6 (seis) meses comprovada na função.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/96/assistente-financeiro-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d3b726b6-0992-4383-b747-ce79deb53882]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[ASSISTENTE DE TECNOLOGIA DA INFORMAÇÃO HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li><b>Período de inscrição: 27 a 29/05/2026</b></li></ul><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 40h Semanais<br />Plantonista 12 X 36 - Diurno e Noturno<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>    Realizar suporte presencial ou remoto a usuários, através de sistemas de
+chamados ou atendimento direto;</li><li>     Verificar e corrigir falhas, em computadores, impressoras, monitores, cabos e
+periféricos;</li><li>    Efetuar instalação de sistemas operacionais,
+antivírus e programas de produtividade, seguindo padrões definidos pela equipe
+de TI;</li><li>  Registrar, identificar e atualizar os ativos de
+tecnologia (computadores, licenças, equipamentos), mantendo controle em
+planilhas ou ERPs da empresa;</li><li>  Testar funcionalidades após manutenções,
+atualizações ou configurações de software, seguindo checklists operacionais;</li><li>  Ajudar na condução técnica de treinamentos
+presenciais ou online, configurando o ambiente e oferecendo apoio técnico;</li><li>   Monitorar o uso indevido de
+dispositivos e acessos não autorizados, orientando usuários e aplicando
+políticas de segurança locais;</li><li>   Apoiar a instalação de switches, pontos de rede
+e configurações de Wi-Fi, seguindo orientação dos analistas e engenheiros de
+redes;</li><li>     Executar outras tarefas correlatas ao cargo ou
+função, a critério do seu superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso Técnico em Informática.</li><li>Experiência de 6 (seis) meses de experiência</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/101/assistente-de-tecnologia-da-informacao-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0734df70-725c-410b-8b18-46bc90992917]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[ASSISTENTE ADMINISTRATIVO HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><u><b>Período de inscrição: 27 a 29/05/2026</b></u><b></b><br /><u><b><br /></b></u><br /><ul><li>Tipo de Contrato: Contrato por prazo determinado de 90 dias</li><li>Regime/ Jornada de Trabalho: Plantonista 12 X 36 - Diurno e Noturno e Diarista - 40 horas semanais</li><li>Salário: Compatível praticado na instituição</li><li>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</li><li>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.<br /></li></ul><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Recepcionar clientes e colaboradores, prestando informações quando necessário.</li><li>Fornecer informações pertinentes, colaborando com os processos de trabalho. </li><li> Guardar bolsas e pertences na Casa das Bolsas, contribuindo para a organização dos setores e redução de infecções hospitalares. </li><li>Classificar, organizar e arquivar documentos e prontuários conforme fluxos e protocolos institucionais.</li><li> Copiar, organizar e entregar prontuários aos pacientes solicitantes conforme protocolos.</li><li> Prestar apoio administrativo à equipe de enfermagem e médicos, contribuindo com o fluxo burocrático.</li><li> Cadastrar e atualizar informações de pacientes no sistema MV, incluindo atendimentos (BPA), internações (AIH), altas, óbitos e transferências.</li><li> Guardar e disponibilizar atestados de óbito ou SVO para controle interno.</li><li> Demais atividades inerentes ao cargo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.</li><li>Experiência mínima de 6 (seis) meses comprovada na função.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/85/assistente-administrativo-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[5488097f-668d-42a1-97e8-088fa7391ec4]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[ANALISTA FINANCEIRO HCP- Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 40h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li> Realizar tratativas com a contabilidade e a
+controladoria, fornecendo informações para: auditoria (interna e externa),
+elaboração de fluxo de caixa e planilha orçamentária, visando garantir que os
+processos financeiros estejam em conformidade com as normas e regulamentações
+vigentes; </li><li>Preencher a planilha de relação despesas pagas da
+Prestação de Contas, visando o cumprimento das obrigações contratuais,
+diariamente; </li><li> Dar suporte à elaboração da Prestação de Contas e
+às resoluções das inconsistências, antes da entrega à Secretaria Estadual de
+Saúde, colaborando com o cumprimento das obrigações contratuais, mensalmente; </li><li>Preencher a PCF (Planilha Contábil-Financeira)
+anual objetivando proporcionar uma visão clara da saúde financeira da empresa e
+permitir um planejamento eficaz de recursos;</li><li>Enviar a PCF (planilha Contábil-Financeira) para o
+setor de TI para publicação no Portal da Transparência, assegurando a
+transparência das informações, mensalmente;  </li><li>Preencher a planilha de Controle dos Repasses e
+enviar para o setor de TI e tecnologia da Informação, para publicação no Portal
+da Transparência, proporcionando a transparência das informações, mensalmente;·</li><li>Emitir relatórios financeiros do Sistema, com base
+em dados atualizados, para fornecer suporte à tomada de decisão dos gestores,
+diariamente;</li><li> Elaborar planilhas financeiras, a pedido dos
+gestores do hospital, considerando receitas e despesas esperadas, para
+proporcionar uma visão clara da saúde financeira da empresa e permitir um
+planejamento eficaz de recursos, mensalmente; </li><li>  Executar outras tarefas correlatas ao cargo ou função,
+a critério do seu superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior Completo em Administração, Ciências
+Contábeis, Ciências Econômicas, Gestão Financeira ou áreas relacionadas ao
+cargo/função.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/97/analista-financeiro-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[aaa6c837-82af-4a6c-9d12-efff1f8f93a1]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[ANALISTA DE INFRAESTRUTURA DE TI HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 40h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Definir e executar
+estratégias de infraestrutura, utilizando melhores práticas e tecnologias
+adequadas;</li><li>Realizar a instalação, configuração, manutenção
+e monitoramento de servidores físicos e virtuais, utilizando ferramentas
+específicas e seguindo procedimentos técnicos;</li><li>Configurar e manter redes LAN/WAN, roteadores,
+switches, firewalls e VPNs, utilizando ferramentas de rede e práticas de
+segurança;</li><li>Desenvolver e aplicar políticas de segurança da
+informação, realizar auditorias e atualizações, seguindo normas e
+regulamentações (LGPD, ISO 27001), para proteger dados e sistemas contra
+ameaças </li><li>Utilizar ferramenta de monitoramento (Zabbix)
+para acompanhar o desempenho dos recursos de TI, realizando ajustes e melhorias
+contínuas, para garantir alta disponibilidade e eficiência diariamente.</li><li>Implementar e testar rotinas de backup e
+recuperação, utilizando soluções específicas e seguindo políticas de
+continuidade de negócios, para garantir a integridade e disponibilidade dos dados
+regularmente.</li><li>Colaborar com equipes de projetos, oferecendo
+suporte técnico e implementando soluções, utilizando metodologias ágeis e
+ferramentas de gestão de projetos, para aprimorar a infraestrutura e os
+serviços de TI por ciclo de projeto.</li><li>Criar e atualizar documentação técnica
+detalhada, incluindo topologias de rede, configurações de servidores e
+procedimentos operacionais, utilizando ferramentas de documentação, para manter
+um registro preciso e facilitar a gestão de TI continuamente.</li><li>Dar suporte técnico avançado e orientação para
+a equipe de TI, realizando treinamentos e compartilhando conhecimentos, para
+garantir a resolução eficaz de problemas e o desenvolvimento profissional;</li><li>Executar outras tarefas correlatas ao cargo ou
+função, a critério do seu superior imediato.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Engenharia da Computação, Sistemas de Informação ou áreas correlatas.</li><li>Experiencia mínima de 6 meses na  função.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/107/analista-de-infraestrutura-de-ti-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[207e3c30-f197-49b4-953e-a447554f0d9c]]></partnerJobId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[ANALISTA DE SISTEMA HCP - Contrato por prazo determinado]]></title>
+    <posterEmail><![CDATA[selecao@upacurado.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 27 a 29/05/2026</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - Diarista 40h Semanais<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>    Coletar e
+documentar necessidades dos usuários e áreas de negócio, utilizando
+entrevistas, workshops e análise de processos, para definir escopo e
+especificações técnicas de novos sistemas ou melhorias;</li><li>  Especificar, codificar e testar funcionalidades
+de sistemas, utilizando linguagens de programação adequadas e metodologias de
+desenvolvimento;</li><li>   Desenvolver e implementar APIs e serviços de
+integração, utilizando padrões de interoperabilidade (HL7, FHIR);</li><li>   Planejar e executar testes unitários,
+integrados e de regressão, seguindo metodologias de QA e utilizando ferramentas
+específicas;</li><li>   Acompanhar métricas de performance e realizar
+ajustes de otimização, utilizando ferramentas de monitoramento e análise de
+logs;</li><li>  Criar e
+mantém documentação técnica e de usuário, utilizando ferramentas de
+documentação e seguindo padrões internos;</li><li>   Conduzir
+sessões de treinamento e oferecer suporte técnico especializado, utilizando
+apresentações e manuais de usuário;</li><li>   Colaborar
+com equipes multidisciplinares em projetos de TI, utilizando metodologias ágeis
+(Scrum, Kanban), para implementar soluções inovadoras que agreguem valor ao
+negócio por ciclo de projeto;</li><li>     Executar outras tarefas correlatas ao cargo ou
+função, a critério do seu superior imediato.</li></ul>
+
+<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo na área de Tecnologia
+da Informação.</li><li>Experiência mínima de 6 (seis) meses comprovada na função.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/100/analista-de-sistema-hcp-contrato-por-prazo-determinado]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Paulista]]></city>
     <state><![CDATA[Pernambuco]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -58669,6 +59832,25 @@ Registro ativo na OAB.</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[3234404e-1990-484d-a5cf-fb626704a729]]></partnerJobId>
+    <company><![CDATA[BRAM OFFSHORE]]></company>
+    <title><![CDATA[Operador de Equipamentos Offshore]]></title>
+    <posterEmail><![CDATA[mauricio.almeida@chouest.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Você está em busca de um desafio setor offshore? Temos uma oportunidade empolgante para você! </b><br /><br /><br />Estamos em um busca de um <b>Operador de Equipamentos Offshore</b> para integrar a nossa equipe de mar!<br /><b><br /></b><br /><b>Local da vaga:</b> Offshore.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Operar guinchos, ajustar comandos e colocar a máquina em movimento;</li><li>Operar o Guincho Subsea, atuando nas manobras de inboard/outboard das cargas que são lançadas durante as operações;</li><li>Inspecionar todos os equipamentos de elevação;</li><li>Certificar que a carga levantada esteja livre de obstruções, balanceado e devidamente seguro com identificação e fixada;</li><li>Manter os equipamentos de guincho, A-frames, içamento e movimentação sob a direção do responsável da base;</li><li>Realizar inspeções nos guinchos, A-frames e outros equipamentos de elevação a fim de identificar falhas e se estão em boas condições;</li><li>Dar suporte a manutenção preventiva dos equipamentos;</li><li>Auxiliar nas atividades de movimentação de carga;</li><li>Informar ao chefe de máquinas sobre quaisquer defeitos e necessidades de substituição.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Buscamos um profissional com fortes habilidades de organização e total domínio técnico em sua área de conhecimento;</li><li>Experiência comprovada em operações com guincho;</li><li>Técnico em elétrica, eletrônica, controle e automação, ou afins;</li><li>CBSP Válido.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/286/operador-de-equipamentos-offshore]]></applyUrl>
+    <companyId><![CDATA[5672510]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[876e5491-7157-4bf1-9951-146cb2e9b5ee]]></partnerJobId>
     <company><![CDATA[BRAM OFFSHORE]]></company>
     <title><![CDATA[Oficial Supervisionado Náutica]]></title>
@@ -59014,6 +60196,25 @@ Conhecimento em <strong>lógica de programação</strong> e <strong>linguagens w
           <amount><![CDATA[2300.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[686aac10-b21f-4c74-8e1a-8dce72803589]]></partnerJobId>
+    <company><![CDATA[Grupo RAX]]></company>
+    <title><![CDATA[Analista de Importação - Manaus]]></title>
+    <posterEmail><![CDATA[beatrizfontes@raxbrasil.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por garantir a análise, conferência e conformidade da documentação de exportação após o embarque, assegurando o cumprimento das exigências legais, contratuais e do país importador, bem como a correta finalização dos processos junto às áreas internas e clientes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Analisar documentação de importação, verificando conformidade e consistência das informações.</li><li>Efetuar registros de DI e/ou DUIMP nos sistemas oficiais quando aplicável.</li><li>Analisar classificação fiscal de mercadorias (NCM) conforme legislação vigente.</li><li>Analisar tributos incidentes e regimes aduaneiros aplicáveis às operações de importação.</li><li>Tratar exigências fiscais e aduaneiras junto aos órgãos competentes, de forma presencial e digital (MAPA, SEFAZ, ANVISA, etc).</li><li>Elaborar prévias e fechamentos de custos de importação.</li><li>Atendimento ao cliente orientando sobre procedimentos e requisitos relacionados aos processos de importação.</li><li>Apoiar e orientar Assistentes e Auxiliares da área, contribuindo para o bom andamento das atividades do departamento.</li><li> Realização de conferência física e acompanhamento de coleta de amostra nos terminais.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Comércio Exterior, Relações Internacionais, Administração, Logística ou áreas correlatas.</li><li>Habilitação de despachante aduaneiro vigente.<br /></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/raxbrasil/18/analista-de-importacao-manaus]]></applyUrl>
+    <companyId><![CDATA[28537964]]></companyId>
+    <city><![CDATA[Manaus]]></city>
+    <state><![CDATA[Amazonas]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -66256,6 +67457,25 @@ Valorizamos a diversidade e acreditamos no potencial de cada pessoa. Caso necess
     <companyId><![CDATA[5048086]]></companyId>
     <city><![CDATA[Chapecó]]></city>
     <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[c450673b-6e0c-4082-9c50-9737b6738991]]></partnerJobId>
+    <company><![CDATA[Xmobots]]></company>
+    <title><![CDATA[Gestor(a) de Projetos]]></title>
+    <posterEmail><![CDATA[tamires.silva@xmobots.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar projetos relacionados às soluções do setor do Agronegócio;</li><li>Atuar como representante do produto dentro da empresa;</li><li>Traduzir necessidades do mercado e expectativas dos clientes em demandas internas;</li><li>Acompanhar cronogramas, escopo, qualidade, custos e riscos dos projetos;</li><li>Identificar desvios e propor ações corretivas para garantir os resultados;</li><li>Atuar de forma integrada com times de engenharia, produção, vendas e demais áreas envolvidas;</li><li>Apoiar a evolução contínua dos produtos e soluções;</li><li>Conduzir alinhamentos técnicos e estratégicos com stakeholders internos e externos;</li><li>Garantir entregas aderentes às necessidades do mercado Agro.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Engenharia, TI ou áreas correlatas;</li><li>Experiência com gerenciamento de projetos;</li><li>Experiência com desenvolvimento e gestão de produtos;</li><li>Vivência no mercado Agro;</li><li>Conhecimento em agricultura de precisão, máquinas agrícolas ou soluções tecnológicas para o Agro será considerado diferencial;</li><li>Habilidades com metodologias ágeis e/ou tradicionais de gestão de projetos. </li></ul><br /><ul><li>Residir em São Carlos - SP ou com disponibilidade para mudança. </li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/xmobotscarreiras/102/gestor-a-de-projetos]]></applyUrl>
+    <companyId><![CDATA[5048086]]></companyId>
+    <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -75856,6 +77076,40 @@ Organização, responsabilidade e curiosidade para aprender coisas novas.</li>]]
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f392988f-be59-4cfd-8c6c-78e3baddf170]]></partnerJobId>
+    <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
+    <title><![CDATA[GERENTE DE PROGRAMAS JR]]></title>
+    <posterEmail><![CDATA[bruna.viriato@foxconn.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto para dar um passo significativo em sua carreira? Estamos em busca de profissionais que desejam se destacar em um ambiente dinâmico e inovador. <br />Oferecemos a oportunidade de integrar uma equipe colaborativa, onde o desenvolvimento contínuo e o aprendizado são valorizados, aqui, você terá a chance de contribuir com suas ideias e se envolver em projetos desafiadores que impactam diretamente os resultados da empresa. <br />Se você é alguém que se motiva pelo trabalho em equipe, aprecia a busca por soluções eficientes e acredita no poder da análise cuidadosa, queremos conhecê-lo! <br /><br /><br /><b>Horário: </b>De segunda a sexta das 07h20 às 17h20.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Garantir o controle
+e progressso dos projetos gerenciando o processo de diversas áreas afim de
+assegurar as expectativas do cliente e da Foxconn.</li><li>Analisar as
+oportunidades de novos negócios.</li><li>Coordenar pessoas e
+recursos designados aos projetos de acordo com a necessidade da operação,
+analisando metas e os planos estabelecidos.</li><li>Negociar com o
+cliente termos e condições comerciais relacionados aos projetos.</li><li>Facilitar e
+coordenar o contato com clientes, fornecedores, departamentos e pessoal do
+projeto.</li><li>Elaborar cotações
+para diferentes produtos eletronicos e serviços conforme critérios fornecidos
+pelo cliente.</li><li>Participar do
+planejamento estratégico dos negócios do cliente.</li><li>Auxiliar nas
+negociações junto ao OEM, ODM e CM.</li><li>Auxiliar no
+desenvolvimento do projeto interno envolvendo as áreas de Supply Chain,
+Financeiro, Manufatura, Técnico/Engenharia, jurídico entre outras.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior em Engenharia,
+Comércio Exterior ou Administração.</li><li>Inglês Avançado</li><li>Experiência sólida na área.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasbandeirantes/54/gerente-de-programas-jr]]></applyUrl>
+    <companyId><![CDATA[83475091]]></companyId>
+    <city><![CDATA[Jundiaí]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[cce8db1f-2aa4-4033-be44-d3b32f032a4d]]></partnerJobId>
@@ -93927,6 +95181,25 @@ Disponibilidade para participar de eventos anuais, representando a empresa em ev
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[d896b4c2-e6b2-4de2-9227-95d5569dc386]]></partnerJobId>
+    <company><![CDATA[Grupo Dasart]]></company>
+    <title><![CDATA[ESTAGIÁRIO COMERCIAL | NORTIS ENERGIA]]></title>
+    <posterEmail><![CDATA[ednelly.santiago@dasart.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Apoiar o time comercial na prospecção, qualificação e conversão de leads residenciais interessados em geração distribuída solar, atuando desde o primeiro contato até o fechamento do contrato de assinatura de energia, com foco em volume, agilidade e experiência positiva do cliente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar abordagem ativa por telefone, e canais digitais  de comunicação;</li><li>Registrar contatos e status no CRM;</li><li>Qualificar o lead com base no consumo de energia (conta de luz), perfil e interesse;</li><li>Coletar documentação necessária para acompanhar o fechamento de contratos de assinatura de energia;</li><li>Enviar proposta comercial e acompanhar o retorno do lead;</li><li>Conduzir negociação dentro das condições pré aprovadas</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior cursando: Administração, Comunicação, Engenharia, Marketing e áreas correlatas.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupodasartvagas/11/estagiario-comercial-nortis-energia]]></applyUrl>
+    <companyId><![CDATA[10275967]]></companyId>
+    <city><![CDATA[Fortaleza]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[e0442516-1b4e-40ff-bcd4-9e04f1321d63]]></partnerJobId>
     <company><![CDATA[Grupo Dasart]]></company>
     <title><![CDATA[COORDENADOR ADM FINANCEIRO | NORTIS ENERGIA]]></title>
@@ -95581,25 +96854,6 @@ elaboração de relatórios gerenciais</li><li>Excel
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[f2467c3a-5d02-416f-9e26-ea9219ba95fc]]></partnerJobId>
-    <company><![CDATA[Orla Rio]]></company>
-    <title><![CDATA[Executivo de Negócios]]></title>
-    <posterEmail><![CDATA[flavia.souza@orlario.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais apaixonados por transformar ideias em estratégias impactantes no mundo da publicidade. Se você é uma pessoa visionária, que valoriza a criatividade e a inovação, esta é a oportunidade perfeita para dar um passo significativo na sua carreira. Junte-se a uma equipe dinâmica que valoriza cada contribuição e incentiva o crescimento contínuo. Aqui, você encontrará um ambiente colaborativo onde suas ideias serão ouvidas e seu potencial será reconhecido. Se você está pronto(a) para enfrentar novos desafios e ajudar a moldar o futuro da publicidade, venha fazer parte de uma empresa que é líder no mercado e que valoriza a excelência em tudo o que faz. Caso esteja disposto(a) a alavancar sua carreira e impactar o setor de maneira significativa, não perca a chance de se candidatar e transformar sua trajetória profissional!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir negociações para o fechamento de contratos de publicidade e ativações de marca nos quiosques da Orla Rio, bem como nas propriedades digitais.</li><li>Identificar e cultivar oportunidades de negócio, interagindo com clientes e parceiros para entender as necessidades e oferecer soluções exclusivas de brand experience e OOH.</li><li>Criar propostas, apresentar portfólio, acompanhar funil de vendas e reportar relatórios diários para a diretoria.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em vendas de publicidade, especialmente OOH, e mídia digital, com um histórico de fechamento de contratos.</li><li>Habilidade em comunicação e negociação.</li><li>Orientação a resultados, com foco em superar metas.</li><li>Interesse pelo universo da praia, entretenimento e inovação.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasorlario/5/executivo-de-negocios]]></applyUrl>
-    <companyId><![CDATA[10288366]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[efaff9de-54d1-41ac-b723-86a53c374776]]></partnerJobId>
     <company><![CDATA[Orla Rio]]></company>
     <title><![CDATA[Planner / Estrategista Criativo & Conteúdo]]></title>
@@ -95906,6 +97160,87 @@ Comprometimento e responsabilidade</li></ul>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[c2539d9d-1116-4b7e-afc9-88db0aa1f34f]]></partnerJobId>
+    <company><![CDATA[Watch Brasil]]></company>
+    <title><![CDATA[Analista de Sucesso do Cliente Jr]]></title>
+    <posterEmail><![CDATA[felipe.picolli@watch.tv.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Garantir a satisfação e a evolução da experiência dos
+clientes da Watch Brasil, atuando de forma próxima, consultiva e estratégica no
+relacionamento com provedores de internet (ISPs), acompanhando necessidades,
+oportunidades e garantindo uma jornada positiva junto à empresa.
+
+Será responsável pelo acompanhamento de uma
+carteira de clientes, realizando ações de relacionamento, retenção, engajamento
+e crescimento da carteira, além do acompanhamento de indicadores e
+identificação de oportunidades de melhoria e expansão.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />·  Gerenciar uma carteira de ISPs
+ativos, sendo responsável pelo relacionamento, acompanhamento e direcionamento
+estratégico dos clientes;
+
+·  Construir relacionamento
+contínuo e de confiança com os clientes, garantindo proximidade, frequência de
+contato e acompanhamento recorrente;
+
+·      Realizar reuniões periódicas,
+apresentações consultivas, alinhamentos estratégicos e contatos recorrentes com
+foco em evolução da carteira;
+
+·   Auxiliar os clientes na
+utilização dos produtos e serviços da empresa, garantindo entendimento e melhor
+aproveitamento das soluções oferecidas;
+
+·      
+Identificar oportunidades de
+crescimento de receita através de ações de cross-sell, up-sell e maior
+utilização do portfólio Watch Brasil;
+
+·      Monitorar indicadores de
+performance da carteira, como: crescimento da
+base ativa e sellout; engajamento e utilização dos produtos; aderência ao portfólio e campanhas; retenção e redução de churn; evolução da receita da carteira;
+
+·     Atuar de forma orientada a
+metas individuais, incluindo: crescimento e
+desenvolvimento da carteira; retenção
+e saúde dos clientes; expansão
+de receita; participação em
+campanhas e ações estratégicas;
+
+· Acompanhar o progresso dos
+clientes, identificando possíveis dificuldades, oportunidades de melhoria e
+ações preventivas;
+
+·      Conduzir apresentações de
+resultados e planos de ação com foco em geração de valor para o cliente;
+
+·      Registrar acompanhamentos,
+oportunidades e planos de ação no CRM e ferramentas internas;
+
+·    Coletar feedbacks dos clientes
+sobre experiência, necessidades e oportunidades de melhoria, compartilhando
+insights com as áreas internas;
+
+·   Contribuir para melhorias na
+jornada do cliente e desenvolvimento de materiais de apoio, FAQs e conteúdos de
+orientação;
+
+<ul><li>Trabalhar em conjunto com os times Comercial,
+Marketing, Produtos, Qualidade e Suporte para garantir a melhor experiência ao
+cliente.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou
+em andamento em Administração, Comunicação, Marketing, Gestão Comercial ou
+áreas correlatas.</li><li>Conhecimento básico/intermediário em ferramentas de CRM e gestão de carteira;</li><li>Conhecimento em Excel ou Google Sheets;</li><li>Capacidade analítica para leitura de indicadores e identificação de oportunidades;</li><li>Excelente comunicação verbal e escrita;</li><li>Habilidade para conduzir reuniões e apresentações consultivas;</li><li>Familiaridade com métricas de Customer Success, como churn, retenção, engajamento e expansão de receita;</li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/watchbrasilcarreira/8/analista-de-sucesso-do-cliente-jr]]></applyUrl>
+    <companyId><![CDATA[11797136]]></companyId>
+    <city><![CDATA[Curitiba]]></city>
+    <state><![CDATA[Paraná]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[f2c67f69-e92d-4ca3-888f-12b4266bbb8e]]></partnerJobId>
