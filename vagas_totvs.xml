@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 29 May 2026 20:22:17 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 21:15:13 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3610]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3611]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[a309514f-a24c-472e-98ef-d551fd86a1c5]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -923,10 +923,10 @@ distribuído, logging estruturado).</li></ul><br />]]></description>
   <job>
     <partnerJobId><![CDATA[002a0e3a-6526-4bcc-836e-842e04e6e9ca]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Engenharia de Software Backend Pleno - ADVPL]]></title>
+    <title><![CDATA[[Tech] Engenharia de Software Backend Sênior - ADVPL]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuação em desenvolvimento back-end (ADVPL/TLPP) e suporte especializado de Nível 2 no produto Protheus Insights, squad Business Analytics. A pessoa selecionada fará parte da squad de <i>Business Analytics</i>. As responsabilidades incluem o desenvolvimento de média complexidade, automação de testes e prestará suporte técnico.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolvimento de média complexidade em ADVPL / TLPP;</li><li>Execução e conhecimento em testes (ADVPL Unit Test);</li><li>Documentação técnica no TDN;</li><li>Suporte técnico a clientes;</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>ADVPL / TLPP: Lógica de programação, funções, variáveis, classes, parâmetros, estrutura e leitura de código;</li><li>SQL Server: Escrita de queries (SELECT, UPDATE, DELETE) e conhecimento de dicionários Protheus (SXS) no banco de dados;</li><li>VS Code: Configuração da ferramenta, uso de Debug e integração com GitHub Copilot;</li><li>Arquitetura Protheus: Gestão de pastas/arquivos, instalação, criação de ambientes de desenvolvimento, restauração de base de dados, atualização de ambientes e UPDDISTR;</li></ul><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10344/tech-engenharia-de-software-backend-pleno-advpl]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Desenvolver e sustentar funcionalidades de software e de suas interfaces,<br />agregando valor ao produto Protheus Insights. O profissional será<br />responsável por entregar soluções de alta qualidade, performance e<br />inovação, garantindo a eficiência do produto e a satisfação do cliente.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolvimento de Soluções: Desenvolver e sustentar componentes técnicos de média e alta complexidade com autonomia, utilizando tecnologias front-end (PO-UI) e back-end (ADVPL/TLPP) integradas ao ecossistema do Protheus Insights;</li><li>Garantia de Qualidade e Testes: Criar e executar testes complexos (manuais ou automatizados), com foco em testes unitários avançados (ADVPL Unit Test), assegurando a estabilidade e o comportamento esperado das entregas;</li><li>Arquitetura e Evolução: Analisar profundamente a arquitetura front-end e back-end do sistema, atuando na organização de componentes e na melhoria contínua de escalabilidade e sistemas distribuídos;</li><li>Engenharia de Requisitos: Detalhar requisitos técnicos e de negócio de média e alta complexidade por meio de alinhamento direto com as áreas internas envolvidas;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência: Vivência consolidada no desenvolvimento de software (mínimo de 5 anos de experiência prática);</li><li>ADVPL / TLPP Avançado: Domínio de lógica de programação, funções, variáveis, classes, parâmetros, estrutura e leitura avançada de código;</li><li>Frameworks Front-end: Conhecimento prático e desenvolvimento em PO-UI (Angular);</li><li>Banco de Dados (SQL Server): Escrita avançada de queries (SELECT, UPDATE, DELETE) e conhecimento profundo dos dicionários Protheus (SXS) diretamente no banco de dados;</li><li> Ferramentas e Produtividade: Domínio do VS Code (configuração, uso de Debug e aplicação prática de IA generativa, como GitHub Copilot);</li><li>Arquitetura Protheus: Domínio em gestão de pastas/arquivos, instalação, criação de ambientes de desenvolvimento, restauração de base de dados, aplicação de atualizações e UPDDISTR;</li><li>Metodologias e DevOps: Experiência com versionamento de código (Git/GitHub/DevOps) e arquitetura de mensageria via Smartlink.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10344/tech-engenharia-de-software-backend-senior-advpl]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -3559,15 +3559,26 @@ a receita recorrente e contribuindo com ações para captação de novos cliente
   <job>
     <partnerJobId><![CDATA[86c72481-ad6c-4ffd-a413-0ed493014a59]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Especialista em SIEM e Detecções]]></title>
+    <title><![CDATA[[Tech] Especialista em SIEM e SOAR.]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Ser referência técnica do time;</li><li>Propor melhorias nos processos, dashboards e alertas do SIEM, visando maior eficiência operacional e redução de falsos positivos; </li><li>Desenvolver scripts e automações para integração, correlação de eventos e respostas automatizadas a alertas.</li></ul><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar e operacionalizar o SIEM (Elastic Stack), garantindo a correta coleta, correlação e tratamento de eventos de segurança; </li><li>Analisar e dar tratamento a alertas de segurança, aplicando frameworks de referência como NIST, SANS e MITRE ATT&amp;CK; </li><li>Conduzir atividades de Threat Hunting, identificando e investigando comportamentos anômalos e potenciais incidentes; </li><li>Habilitar, ajustar e criar novas regras de detecção, incluindo regras baseadas em Machine Learning; </li><li>Revisar, sanitizar e organizar alertas e fontes de dados no SIEM, garantindo alta qualidade e relevância das informações; </li><li>Apoiar a definição e implementação de controles de segurança baseados no modelo Cyber Kill Chain, garantindo alinhamento com boas práticas de mercado; </li><li>Elaborar relatórios técnicos e executivos sobre incidentes, atividades de hunting e status do SIEM, seguindo padrões internos e diretrizes como LGPD e ISO 27001; </li><li>Colaborar com equipes de Purple Team para validar planos de ação preventivos e corretivos, integrando dados do SIEM com vulnerabilidades e incidentes materializados; </li><li>Participar na definição de eventos de segurança críticos a serem monitorados no SIEM, priorizando ações de resposta conforme risco e impacto; Apoiar a comunicação de incidentes em ambientes Cloud e internos, garantindo consistência e alinhamento com processos definidos; </li><li>Avaliar e propor ferramentas adicionais para prevenção, detecção e resposta a incidentes, mantendo a operação do SIEM atualizada com as melhores práticas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Tecnologia da Informação ou áreas correlatas;</li><li>Conhecimento em ELK como plataforma de SIEM para monitoramento e correlação de eventos de segurança;</li><li>Experiência com CrowdStrike (EDR), atuando na detecção e resposta a ameaças;</li><li>Capacidade de elaborar e manter documentações operacionais, incluindo playbooks e runbooks;</li><li>Experiência com ferramentas de gestão de chamados e tickets (ITSM);</li><li>Experiência em tuning de regras de segurança com base nas observações e análises realizadas no dia a dia operacional.</li></ul>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por desenvolver, construir e manter plataformas SIEM e SOAR, garantindo sua evolução contínua e aderência às necessidades de segurança da informação.
+Realizar configurações, criação de dashboards, alertas e regras de correlação para monitoramento e detecção de ameaças.
+Atuar na análise de ameaças e incidentes de segurança de complexidade intermediária, contribuindo para a identificação, investigação e resposta a eventos de segurança.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar e manter a integridade, disponibilidade e desempenho da plataforma SIEM, seguindo as boas práticas recomendadas pelo fornecedor da solução;</li><li>Definir requisitos para sistemas de detecção de ameaças, identificando quais dados devem ser coletados, armazenados e analisados para maximizar a capacidade de detecção;</li><li>Desenvolver parsers para eventos de segurança, utilizando a documentação oficial dos fabricantes e as melhores práticas de mercado;</li><li>Criar e evoluir regras de correlação e playbooks de segurança para automação de respostas e bloqueios por meio de plataformas SOAR;</li><li>Desenvolver integrações com soluções de segurança em ambientes Cloud, aproveitando funcionalidades nativas e aderindo às melhores práticas de segurança;</li><li>Definir e priorizar eventos de segurança relevantes para a organização, considerando riscos, impacto e necessidades de monitoramento;</li><li>Garantir a escalabilidade e a capacidade computacional do SIEM para armazenamento, processamento e correlação de eventos oriundos de ambientes Cloud;</li><li>Assegurar conformidade com legislações e regulamentações aplicáveis, incluindo requisitos da LGPD e normas de segurança relacionadas ao registro e retenção de eventos;</li><li>Fornecer apoio técnico em investigações de segurança, análise de ameaças e hipóteses de correlação, utilizando técnicas e boas práticas de threat hunting;</li><li>Priorizar eventos para tratamento pelo SOC e estruturar fluxos operacionais internos para resposta e escalonamento de incidentes;</li><li>Integrar sistemas de detecção com outras ferramentas e processos de segurança, promovendo respostas automatizadas ou semiautomatizadas a incidentes;</li><li>Validar a efetividade das regras de detecção durante exercícios de ataque e defesa, testes de ciberresiliência e simulações de incidentes.</li><li>Conduzir atividades relacionadas a projetos, Proof of Concept (PoC) e Proof of Value (PoV), garantindo visibilidade do andamento das iniciativas e documentação adequada dos resultados;</li><li>Definir, estruturar e evoluir procedimentos operacionais da área, incluindo playbooks e runbooks, considerando eficiência, eficácia, automação e etapas manuais;</li><li>Apoiar o time de conformidade na disponibilização de evidências necessárias para auditorias e processos de certificação.</li><li>Desenvolver automações voltadas à coleta, investigação e resposta a eventos de segurança, utilizando frameworks de mercado como NIST e SANS, além de linguagens de programação, scripts e plataformas low-code.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Ciência da Computação, Cyber Security ou áreas correlatas.</li><li>Conhecimento intermediário em bancos de dados relacionais e não relacionais.</li><li>Noções de arquitetura de software.</li><li>Noções de ambientes em nuvens públicas.</li><li>Conhecimento básico em ferramentas de varredura de vulnerabilidades de infraestrutura e aplicações.</li><li>Domínio em análise de logs para investigação, monitoramento e correlação de eventos.</li><li>Conhecimento avançado em sistemas operacionais.</li><li>Conhecimento avançado em redes e infraestrutura.</li><li>Conhecimento intermediário em linguagens de programação.</li><li>Domínio em linguagens de consulta e correlação utilizadas em plataformas SIEM.</li></ul>
+
+
+
+
+
+
+
+
+<br />
 
 
 
 
 <br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10485/tech-especialista-em-siem-e-deteccoes]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10485/tech-especialista-em-siem-e-soar]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -4063,7 +4074,7 @@ legais, para todos os colaboradores e empresas da TOTVS.<br /><br /><br /><b>Res
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Vendas] Gerente de Contas Sênior - Hunter | Setor Público]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar com foco no desenvolvimento de canais com alta performance de vendas, qualidade nas entregas e no relacionamento com o cliente. <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br />• Gestão de forecast de canal parceiro TOTVS; <br />• Assegurar a disseminação das informações corporativas, como conteúdos relacionados à produtos, campanhas comerciais, código de conduta e ética e orientações sobre uso das marcas TOTVS;<br />• Dominar e influenciar os canais na aplicação das políticas e práticas comerciais TOTVS, assim como na garantia da integridade das informações disponibilizadas nas ferramentas da Cia;<br />• Participar dos treinamentos e eventos promovidos pela TOTVS, analisando as tendências de mercado e promovendo os temas por meio de ações junto aos canais, a fim de disseminar e colocar em prática o conteúdo disponibilizado;<br />• Garantir a qualificação e homologação de novos canais por meio da análise do perfil e avaliação de potencial das empresas candidatas a Canais de Distribuição TOTVS;<br />• Acompanhar o atendimento da carteira de clientes ativos e apoiar em ações que possam garantir a satisfação dos clientes, além de sugerir, promover e acompanhar ações de cross e up sell na base ativa;<br />• Direcionar e acompanhar a evolução da solução de ocorrências ou demandas criticas identificadas no cliente, além de gerenciar conflitos e propor melhorias de processo junto as áreas internas na TOTVS;<br />• Garantir o integral atendimento aos leads gerados pela área de Negócios e Prospecção;<br />• Apoiar na construção do planejamento de eventos de Marketing e Relacionamento, com foco na prospecção de new names e na ampliação do empilhamento de receita na base de clientes ativos, promovendo ações de cross sell e up sell;<br />• Acompanhar as oportunidades de negócio existentes e gerir e reportar resultados de forecast e pipeline para a companhia;<br />• Analisar relatórios e indicadores de performance de vendas dos canais, com foco em aplicar ações de melhoria nos processos;<br />• Promover e/ou gerenciar planos de ação para melhoria e reversão de resultados à partir do plano desenvolvido pelo Canal;<br />• Garantir que o canal sinalize e gerencie riscos de churn ou insatisfação por algum problema interno TOTVS ou de atendimento do próprio canal.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo; </li><li>Conhecimento e vivência com vendas para o setor público; </li><li>Vivência com vendas complexas e consultivas B2B de software de tecnologia e ERP;</li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li>Organização e proatividade;</li><li>Habilidade de negociação, comunicação e gestão de relacionamento com decisores;</li><li>Resiliência e orientação a resultados;</li><li>Alta autonomia, disciplina e senso de responsabilidade para gerenciar carteira, pipeline e agenda;</li><li>Disponibilidade para viagens e atuação em modelo híbrido.</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar com foco no desenvolvimento de canais com alta performance de vendas, qualidade nas entregas e no relacionamento com o cliente. <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br />• Gestão de forecast de canal parceiro TOTVS; <br />• Assegurar a disseminação das informações corporativas, como conteúdos relacionados à produtos, campanhas comerciais, código de conduta e ética e orientações sobre uso das marcas TOTVS;<br />• Dominar e influenciar os canais na aplicação das políticas e práticas comerciais TOTVS, assim como na garantia da integridade das informações disponibilizadas nas ferramentas da Cia;<br />• Participar dos treinamentos e eventos promovidos pela TOTVS, analisando as tendências de mercado e promovendo os temas por meio de ações junto aos canais, a fim de disseminar e colocar em prática o conteúdo disponibilizado;<br />• Garantir a qualificação e homologação de novos canais por meio da análise do perfil e avaliação de potencial das empresas candidatas a Canais de Distribuição TOTVS;<br />• Acompanhar o atendimento da carteira de clientes ativos e apoiar em ações que possam garantir a satisfação dos clientes, além de sugerir, promover e acompanhar ações de cross e up sell na base ativa;<br />• Direcionar e acompanhar a evolução da solução de ocorrências ou demandas criticas identificadas no cliente, além de gerenciar conflitos e propor melhorias de processo junto as áreas internas na TOTVS;<br />• Garantir o integral atendimento aos leads gerados pela área de Negócios e Prospecção;<br />• Apoiar na construção do planejamento de eventos de Marketing e Relacionamento, com foco na prospecção de new names e na ampliação do empilhamento de receita na base de clientes ativos, promovendo ações de cross sell e up sell;<br />• Acompanhar as oportunidades de negócio existentes e gerir e reportar resultados de forecast e pipeline para a companhia;<br />• Analisar relatórios e indicadores de performance de vendas dos canais, com foco em aplicar ações de melhoria nos processos;<br />• Promover e/ou gerenciar planos de ação para melhoria e reversão de resultados à partir do plano desenvolvido pelo Canal;<br />• Garantir que o canal sinalize e gerencie riscos de churn ou insatisfação por algum problema interno TOTVS ou de atendimento do próprio canal.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo; </li><li>Conhecimento e vivência com vendas para o setor público; </li><li>Vivência com vendas complexas e consultivas B2G de software de tecnologia e ERP;</li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li>Organização e proatividade;</li><li>Habilidade de negociação, comunicação e gestão de relacionamento com decisores;</li><li>Resiliência e orientação a resultados;</li><li>Alta autonomia, disciplina e senso de responsabilidade para gerenciar carteira, pipeline e agenda;</li><li>Disponibilidade para viagens e atuação em modelo híbrido.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8403/vendas-gerente-de-contas-senior-hunter-setor-publico]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
@@ -5086,25 +5097,6 @@ Comunicação executiva e capacidade de traduzir complexidade técnica para stak
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você é um profissional que une visão estratégica, habilidade consultiva e um forte "drive" para resultados? Na TOTVS, o <b>Gerente de Vendas Franquia</b> é o ponto de conexão vital entre a nossa matriz e o ecossistema de franquias. Nesta posição, você não será apenas um gestor de números, mas um embaixador da marca e um catalisador de crescimento. Seu desafio será gerir um território de unidades, atuando como um consultor de negócios para  lideranças, garantindo que as melhores práticas de vendas, marketing e governança da TOTVS sejam aplicadas para elevar o patamar de entrega da região. Se você gosta de navegar em ecossistemas complexos, tem energia alta e perfil para provocar o novo, essa vaga é para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br /><ul><li>Gestão de Território: Garantir a entrega da meta total da região sob sua responsabilidade, acompanhando o pipeline e os indicadores de performance.</li><li>Consultoria Estratégica: Atuar junto aos Diretores Executivos e Comerciais das franquias para o desenvolvimento de planos de negócio e estratégias de vendas.</li><li>Guardião da Marca: Assegurar o <i>compliance</i> e a aplicação das boas práticas da TOTVS (Vendas, Marketing e RH) dentro das unidades parceiras.</li><li>Perfil Hunter/Farmer: Equilibrar a gestão do relacionamento e manutenção do território com uma postura ativa para buscar novas oportunidades e provocar resultados acima da média.</li><li>Articulação Interna: Navegar pelo ecossistema TOTVS, conectando diferentes áreas e facilitando negociações complexas (internas e externas).</li><li>Disponibilidade para Viagens: Realizar visitas periódicas às franquias (Sul, Sudeste, Centro-Oeste e SP) para acompanhamento presencial e alinhamento tático.</li></ul><b></b><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><br /><ul><li>Experiência Comercial: Sólida trajetória em vendas consultivas e gestão de canais ou territórios.</li><li>Perfil Estratégico e Ágil: Capacidade de pensar no crescimento de longo prazo da franquia sem perder o foco na execução e no resultado imediato.</li><li>Comunicação e Negociação: Habilidade de influenciar tomadores de decisão e transitar entre diferentes níveis hierárquicos.</li><li>Mobilidade: Disponibilidade para viagens a nível nacional.</li></ul><b></b>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9660/vendas-gerencia-comercial-franquia]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[ee0afa79-698c-4f45-8d90-ae4a4824bbde]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Gerente de Contas  Sênior - Híbrido | Saúde]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional para garantir o cumprimento das metas através da comercialização de produtos e serviços TOTVS com um processo que permita buscar um suspect, compreender suas necessidades, apresentar produtos e serviços, gerar oportunidades, propor, adequar, vender e entregar soluções, sempre mantendo um contínuo relacionamento técnico e empresarial.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br /><ul><li>Gerir sua carteira de clientes e construir um relacionamento visando rentabilizar, blindar e elevar o nível de satisfação da base TOTVS em relação às responsabilidades do AR nos indicadores de NPS (Farmer); </li><li> Prospectar novos negócios na base instalada e/ou em novos clientes, visando ampliar Market Share TOTVS (Hunter); </li><li>Planejar e executar o plano tático alinhado ao planejamento estratégico da DRG e resultados de vendas no segmento/região de atuação;</li><li>Ser especialista e liderar o assunto no seu negócio, sendo capaz de estabelecer discursos e formas de atuação altamente adequadas ao perfil de cada cliente/prospect/segmento; </li><li>Assegurar o cumprimento das metas individuais e metas de venda do time do Comercial em que estiver atuando, de acordo com a estratégia da TOTVS; </li><li>Visitar e assistir a base instalada e os novos clientes, garantindo sempre a excelência do atendimento TOTVS e buscando recorrentemente novos negócios; </li><li>Atender e se relacionar com o mercado e com a base instalada, através de visitas, reuniões, contatos telefônicos e e-mails; </li><li>Planejar, executar e liderar o processo de vendas de um produto ou serviço TOTVS ao mercado; </li><li>Levantar e analisar as informações do negócio, compilar e montar um plano de trabalho apoiado pela metodologia de vendas TOTVS;</li><li>Registrar no CRM e comunicar a área de Estratégia Comercial/Operações e Segmentos, informações relevantes sobre mercado/carteira;</li><li>Atuar como facilitador para a solução das demandas dos clientes e prospects; </li><li>Realizar a interface com as áreas internas da TOTVS; </li><li>Entregar e acompanhar a entrega dos produtos e/ou serviços TOTVS, garantindo que os acordos sejam cumpridos e os objetivos atendidos; </li><li>Realizar pós-venda com o objetivo de garantir o atendimento e gerar novas oportunidades (Cross Sell e Up Sell); </li><li>Mentorar profissionais do AR com o objetivo de compartilhar conhecimento e colaborar para o desenvolvimento da equipe; </li><li>Ser referência técnica e comercial no seu segmento de atuação; </li><li>Exercer liderança informal na equipe, apoiando diretamente a gestão formal da empresa; </li><li>Atuar como multiplicador de conhecimento e auxiliar no desenvolvimento de executivos com alto nível de performance, atuando como buddy para novos TOTVERs; </li><li>Atuar de forma consultiva em abordagens comerciais por meio de soluções segmentadas conforme área de atuação, potencializando a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo, preferencialmente no segmento de atuação;</li><li>Vivência com vendas B2B de software de tecnologia e ERP; </li><li>Perfil Híbrido, de prospecção de novos negócios e gestão de carteira;</li><li>Familiaridade com segmento de saúde.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9595/vendas-gerente-de-contas-senior-hibrido-saude]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -15548,6 +15540,25 @@ Preencher registros operacionais, documentando indicadores, condições e interv
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[c056c6e9-d38a-4785-a45c-db456d625179]]></partnerJobId>
+    <company><![CDATA[Unimarka Distribuidora]]></company>
+    <title><![CDATA[Assistente Administrativo]]></title>
+    <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Essa vaga é para você que gosta de desafios, de se desenvolver continuamente e fazer carreira em uma empresa que está entre as 10 maiores do Brasil no segmento atacadista. <br /><b>Venha e participe da nossa seleção!</b><br /> <br />Vaga destinada também a PCD.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atender funcionários, fornecedores e clientes para prestar informações;</li><li>Extrair informações, conferir dados e elaborar relatórios;</li><li>Preencher formulários e documentos diversos, digitando e gerando dados no sistema;</li><li>Executar processos, fluxos de trabalho e procedimentos;</li><li>Executar outras atividades correlatas solicitadas pelo gestor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou em curso em Administração, Marketing, gestão empresarial ou áreas afins.</li></ul><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/1003/assistente-administrativo]]></applyUrl>
+    <companyId><![CDATA[65466539]]></companyId>
+    <city><![CDATA[Feira de Santana]]></city>
+    <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[7a1fd42f-2ce4-400f-9697-10572ed25c6a]]></partnerJobId>
     <company><![CDATA[Unimarka Distribuidora]]></company>
     <title><![CDATA[Operador de Logística]]></title>
@@ -21250,6 +21261,25 @@ profunda em vantagem competitiva global.]]></description>
     <companyId><![CDATA[1306131]]></companyId>
     <city><![CDATA[Nova Lima]]></city>
     <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f8b8c362-6238-468c-8a7a-c5273720bc53]]></partnerJobId>
+    <company><![CDATA[Stefanini IHM]]></company>
+    <title><![CDATA[Estagiário - Administração (PMO)]]></title>
+    <posterEmail><![CDATA[ybcampos@ihm.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Stefanini IHM está em busca de um(a) Estagiário(a) de Administração (PMO) para apoiar as atividades administrativas e de controle de projetos da área. Procuramos estudantes organizados, proativos e com vontade de desenvolver conhecimentos em gestão administrativa e acompanhamento de processos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Emissão de solicitações de compras;</li><li>Atualização e acompanhamento de cronogramas;</li><li>Apoio às rotinas administrativas da área;</li><li>Organização de documentos e controles internos;</li><li>Suporte às demandas do PMO e equipes envolvidas nos projetos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando Administração de Empresas a partir do 3º ano;</li><li>Conhecimento em Pacote Office, especialmente Excel e PowerPoint;</li><li>Boa comunicação, organização e atenção aos detalhes.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ihmstefanini/129/estagiario-administracao-pmo]]></applyUrl>
+    <companyId><![CDATA[1306131]]></companyId>
+    <city><![CDATA[Mogi das Cruzes]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -29752,6 +29782,33 @@ Atendimento ao cliente; </li><li>Envio de declaração com movimento; </li><li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[731a656b-002b-46a2-8468-9b86ccb7d5b5]]></partnerJobId>
+    <company><![CDATA[Bright Bee / Bright School]]></company>
+    <title><![CDATA[ESTÁGIO EM MARKETING]]></title>
+    <posterEmail><![CDATA[nathaliamiranda@brightbee.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você busca uma oportunidade para desenvolver suas habilidades? Estamos em busca de candidatos entusiasmados para se juntar ao nosso time como Estagiário(a) de Marketing. Esta é sua chance de trabalhar em uma equipe dinâmica, auxiliando na  estratégia de marketing digital. Se você é proativo(a), comunicativo(a) e possui interesse em aprender mais sobre a área, essa vaga é ideal para você! Venha fazer parte de uma empresa que valoriza o crescimento profissional e o trabalho em equipe. Vem ser Bright!✨<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Criar textos criativos e persuasivos para campanhas de marketing, redes sociais, e-mails e sites;</li><li>Auxiliar no desenvolvimento de slogans, headlines e calls to action impactantes;</li><li>Colaborar com a equipe para alinhar mensagens e garantir consistência no tom de voz da marca;</li><li>Pesquisar tendências, palavras-chave e comportamento do público para melhorar a comunicação;</li><li>Participar de brainstorms e contribuir com ideias inovadoras para campanhas e projetos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando Marketing, Publicidade, Jornalismo ou áreas correlatas;</li><li>Disponibilidade para estagiar com carga horaria de 30 horas semanais;</li><li>Paixão por escrita criativa e facilidade em adaptar o tom de voz para diferentes públicos;</li><li>Organização e proatividade para lidar com diferentes demandas;</li><li>Desejo de aprender, crescer e fazer a diferença com suas palavras;</li><li>Conhecimento básico em estratégias de marketing digital e funil de vendas (não é obrigatório, mas é um diferencial!);</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brightbee/57/estagio-em-marketing]]></applyUrl>
+    <companyId><![CDATA[42390397]]></companyId>
+    <city><![CDATA[Teresina]]></city>
+    <state><![CDATA[Piauí]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1350.78]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1350.78]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[cc0a2158-ba41-484e-a561-ff0bc80ca4ab]]></partnerJobId>
     <company><![CDATA[Bright Bee / Bright School]]></company>
     <title><![CDATA[AUXILIAR ADMINISTRATIVO - RECEPÇÃO]]></title>
@@ -32253,6 +32310,25 @@ para conhecer o seu potencial!<br /><br /><b>Responsabilidades e atribuições</
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[3504bd3e-4a1d-4a07-8295-a5738646135b]]></partnerJobId>
+    <company><![CDATA[Grupo Braga]]></company>
+    <title><![CDATA[VENDEDOR(A) DE ACESSÓRIOS]]></title>
+    <posterEmail><![CDATA[assistente.rh2@grupobraga.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional que ofereça desafios e a chance de crescimento, esta é a sua chance. Estamos em busca de pessoas apaixonadas por moda e tecnologia para se juntar à nossa equipe. Aqui, você encontrará um ambiente dinâmico e colaborativo, onde a criatividade e a iniciativa são valorizadas. Acreditamos no potencial de cada colaborador e incentivamos a troca de ideias para alcançar resultados excepcionais. Se você deseja fazer parte de uma equipe que preza pela inovação e pela excelência no atendimento ao cliente, não perca a oportunidade de se conectar conosco. Venha colaborar em um espaço que promove o desenvolvimento contínuo e a realização pessoal. Estamos ansiosos para conhecer pessoas motivadas e prontas para contribuir com seu talento!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atender clientes presencialmente, por telefone ou digitalmente, identificando necessidades para oferecer acessórios adequados ao modelo do veículo;</li><li>Elaborar orçamentos, negociar preços, prazos e condições de pagamento, buscando o atingimento de metas individuais e do setor;</li><li>Apresentar o funcionamento e os benefícios dos produtos, prestando suporte técnico sobre os acessórios;</li><li>Manter o showroom e a área de exposição de acessórios organizados, limpos e atraentes;</li><li>Realizar acompanhamento pós-venda para garantir a satisfação dos clientes e fomentar a fidelização;</li><li>Abrir Ordem de Serviço, requisitar itens, acompanhar a instalação do(s) acessório(s) e encaminhar o cliente ao caixa;</li><li>Captar novos clientes via telefone, e-mail, WhatsApp, e-commerce e redes sociais;</li><li>Participar de eventos externos quando envolver o Setor de Acessórios.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em vendas;</li><li>Conhecimento em acessórios;</li><li>Boa comunicação;</li><li>Orientação para resultados;</li><li>Habilidade de negociação;</li></ul><br /> <br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupobraga/108/vendedor-a-de-acessorios]]></applyUrl>
+    <companyId><![CDATA[102365992]]></companyId>
+    <city><![CDATA[Manaus]]></city>
+    <state><![CDATA[Amazonas]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[10adcc7d-1619-4922-bb66-0e7d961a28b3]]></partnerJobId>
     <company><![CDATA[Grupo Braga]]></company>
     <title><![CDATA[CONSULTOR(A) DE VENDAS]]></title>
@@ -33817,25 +33893,6 @@ Básico ou Avançado (preferencialmente)Oratória - Boa fluência verbal]]></de
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[2414d670-f26f-4760-a6fa-4cfe0b3941c5]]></partnerJobId>
-    <company><![CDATA[Grupo Canopus]]></company>
-    <title><![CDATA[ESTAGIARIO]]></title>
-    <posterEmail><![CDATA[tainara.abreu@grupocanopus.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Apoiar nas atividades administrativas do setor, realizando o registro e a organização de documentos. Realizando o atendimento demais departamentos, prestando informações e resolvendo demandas simples, garantindo o bom funcionamento do ambiente de trabalho.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Apoiar nas atividades administrativas do setor, realizando o registro e a organização de documentos. Realizando o atendimento demais departamentos, prestando informações e resolvendo demandas simples, garantindo o bom funcionamento do ambiente de trabalho.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Cursado Administração, contabilidade, economia.<br />- Conhecimento básico em pacote Office.<br />- Boa comunicação oral e escrita.<br />- Capacidade de trabalho em equipe.<br />- Proatividade e disposição para aprender.<br />- Organização e atenção aos detalhes.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/1067/estagiario]]></applyUrl>
-    <companyId><![CDATA[2073549]]></companyId>
-    <city><![CDATA[Cuiabá]]></city>
-    <state><![CDATA[Mato Grosso]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[9f677ba9-5d54-40f5-ab71-701e38aefd16]]></partnerJobId>
     <company><![CDATA[Grupo Canopus]]></company>
     <title><![CDATA[VENDEDOR DE ACESSÓRIOS]]></title>
@@ -34102,25 +34159,6 @@ PRODUTIVIDADE  </li><li>SUPORTE A LIDERANÇA E APOIO A EQUIPE</li></ul><br />
     <posterEmail><![CDATA[tainara.abreu@grupocanopus.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado por oferecer soluções de qualidade e deseja fazer parte de uma equipe dinâmica e inovadora, convidamos você a se juntar a nós em uma jornada emocionante! Buscamos profissionais motivados, que valorizem o atendimento ao cliente e apreciem um ambiente colaborativo. Aqui, você terá a oportunidade de desenvolver suas habilidades e contribuir para o crescimento de uma empresa reconhecida no mercado. Trabalhar conosco significa estar em um lugar onde suas ideias são valorizadas e seu esforço é recompensado. Se você está em busca de um desafio que possa impulsionar sua carreira e proporcionar um ambiente estimulante, esta pode ser a oportunidade ideal para você. Venha fazer parte de uma equipe que está moldando o futuro e leve sua carreira a um novo patamar!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento e vendas de peças, oferecendo orientação e informações sobre produtos disponíveis.<br />- Manter atualizado o conhecimento sobre as características técnicas e os diferenciais das peças oferecidas.<br />- Elaborar cotações e propostas comerciais, garantindo que os pedidos sejam atendidos de forma eficiente.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Experiência prévia na área de vendas, preferencialmente no segmento de peças automotivas.<br />- Habilidade em negociar e fechar vendas.<br />- Conhecimento técnico sobre peças e acessórios.<br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/887/vendedor-de-pecas]]></applyUrl>
-    <companyId><![CDATA[2073549]]></companyId>
-    <city><![CDATA[Cuiabá]]></city>
-    <state><![CDATA[Mato Grosso]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a1e5dc8d-ce6a-4227-b6c8-1ea1f44d2203]]></partnerJobId>
-    <company><![CDATA[Grupo Canopus]]></company>
-    <title><![CDATA[ESTAGIARIO]]></title>
-    <posterEmail><![CDATA[tainara.abreu@grupocanopus.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Apoiar nas atividades administrativas do setor, realizando o registro e a organização de documentos. Realizando o atendimento demais departamentos, prestando informações e resolvendo demandas simples, garantindo o bom funcionamento do ambiente de trabalho.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Apoiar nas atividades administrativas do setor, realizando o registro e a organização de documentos. Realizando o atendimento demais departamentos, prestando informações e resolvendo demandas simples, garantindo o bom funcionamento do ambiente de trabalho.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Cursado Administração, contabilidade, economia.<br />- Conhecimento básico em pacote Office.<br />- Boa comunicação oral e escrita.<br />- Capacidade de trabalho em equipe.<br />- Proatividade e disposição para aprender.<br />- Organização e atenção aos detalhes.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/885/estagiario]]></applyUrl>
     <companyId><![CDATA[2073549]]></companyId>
     <city><![CDATA[Cuiabá]]></city>
     <state><![CDATA[Mato Grosso]]></state>
@@ -53172,6 +53210,25 @@ Essa posição terá atuação integrada entre assessoria de imprensa, influênc
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[9fe82bc6-a0b9-458f-96c3-95fd07b525fd]]></partnerJobId>
+    <company><![CDATA[GS Inima Brasil]]></company>
+    <title><![CDATA[Analista de Relações Institucionais]]></title>
+    <posterEmail><![CDATA[ricardo.jovenato@gsinima.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />❇️ Atuar no apoio à sustentação institucional de uma PPP de grande porte no setor de saneamento, contribuindo para a articulação com stakeholders estratégicos, incluindo entes governamentais, reguladores e sociedade civil, com o objetivo de garantir a continuidade das operações, mitigar riscos e apoiar a universalização dos serviços de esgotamento sanitário. Antecipar cenários, apoiar a mitigação de conflitos e contribuir para o fortalecimento da licença social para operar em múltiplos municípios, assegurando a estabilidade do contrato e o impacto positivo na população atendida.<br /><br />⏱️ <b>Horário:</b> Comercial (segunda a sexta-feira)<br /><br /><br />️ <b>Vale Alimentação / Refeição</b> – apoio para suas refeições diárias  <br /> <b>Cesta de Natal</b> – um carinho especial no fim do ano  <br /> <b>Plano de Saúde</b> – cuidado completo para você  <br /><b> Plano Odontológico</b> – saúde bucal sempre em dia  <br />️<b> Seguro de Vida sem custo</b> – proteção para você e sua família  <br /> <b>Vale Transporte</b> – facilidade no deslocamento diário  <br /> <b>Auxílio Medicamento</b> – suporte financeiro para tratamentos e prescrições  <br />️ <b>Wellhub</b> – acesso a academias e atividades físicas  <br /><b> Pluxee Cuida</b> – apoio psicológico, social, nutricional e consultorias.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Apoiar o relacionamento institucional com prefeituras, secretarias municipais e órgãos estaduais, conforme diretrizes da liderança.  <br />• Apoiar a interlocução com a concedente (CESAN) e agências reguladoras, organizando informações e acompanhando demandas.  <br />• Acompanhar agendas institucionais, reuniões estratégicas e compromissos com stakeholders públicos e privados.  <br />• Mapear, atualizar e manter base de stakeholders locais (políticos, técnicos e comunitários) nos municípios de atuação.  <br />• Apoiar a elaboração e atualização de planos de relacionamento institucional por município.  <br />• Monitorar demandas locais de caráter político, social e comunitário, reportando riscos à liderança.  <br />• Identificar potenciais conflitos relacionados a obras, licenciamento e operação, sob orientação da gestão.  <br />• Apoiar a construção e acompanhamento de planos de mitigação de riscos institucionais e reputacionais.  <br />• Acompanhar temas institucionais junto a órgãos de controle, Ministério Público e entidades públicas relevantes.  <br />• Organizar e consolidar informações para atendimento de solicitações institucionais e regulatórias.  <br />• Acompanhar indicadores e compromissos contratuais sob a ótica institucional, reportando desvios e riscos.  <br />• Contribuir com insumos para estratégias de comunicação institucional e relacionamento com stakeholders.  <br />• Apoiar ações de engajamento com comunidades impactadas por obras e operações.  <br />• Atuar na organização de eventos institucionais, como audiências públicas, reuniões comunitárias e fóruns setoriais.  <br />• Monitorar o cenário político e regulatório nos municípios de atuação, identificando tendências e mudanças relevantes.  <br />• Mapear alterações de gestão pública (prefeitos, secretários e equipes técnicas) e seus impactos no contrato.  <br />• Elaborar relatórios e análises institucionais para suporte à tomada de decisão da liderança.  <br />• Controlar histórico de interações institucionais e apoiar a estruturação de processos e rotinas da área. <br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /> <b>Formação:</b> Ensino Superior.<br /> <b>Áreas:</b> Administração, Direito, Relações Internacionais, Ciência Política, Comunicação, Engenharia ou áreas correlatas.<br /><br /><br />*️⃣ Experiência consolidada em relações institucionais, governamentais ou regulatórias, preferencialmente em infraestrutura, saneamento ou concessões/PPPs;<br />*️⃣ Conhecimento de estrutura e funcionamento da administração pública (municipal, estadual e órgãos reguladores);  <br />*️⃣ Capacidade analítica para avaliação de riscos institucionais e políticos;<br />*️⃣ Vivência com gestão de stakeholders e ambientes multiatores;<br />*️⃣ Conhecimento intermediário em ferramentas do MS Office (especialmente Excel e Power Point);<br />*️⃣ Habilidade de comunicação verbal e escrita para elaboração de relatórios e interação com diferentes públicos;<br />*️⃣ Demonstrar escuta ativa, postura profissional, equilíbrio emocional e capacidade de atuação assertiva em situações de crise.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/481/analista-de-relacoes-institucionais]]></applyUrl>
+    <companyId><![CDATA[36870042]]></companyId>
+    <city><![CDATA[Vitória]]></city>
+    <state><![CDATA[Espírito Santo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[99a8cb23-b766-4ece-9802-56efba968b67]]></partnerJobId>
     <company><![CDATA[GS Inima Brasil]]></company>
     <title><![CDATA[Mecânico de Manutenção]]></title>
@@ -60831,25 +60888,6 @@ Registro ativo na OAB.</li></ul>]]></description>
     <posterEmail><![CDATA[vanessa.pavone@chouest.com]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Para a posição de Coordenador de Manutenção, a atuação será voltada ao suporte das operações, com foco no acompanhamento de rotinas administrativas e operacionais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar, programar e controlar as atividades de manutenção e grandes paradas de acordo com o programa de manutenção e com as prioridades operacionais; </li><li>Coordenar e garantir recursos humanos, materiais, peças, ferramentas e insumos necessários para a execução das tarefas de manutenção que necessitam do suporte de terra; </li><li>Ler e interpretar desenhos, esboços, tabelas, especificações técnicas, manuais ou instruções para validar ajustes, normas, tolerâncias e tudo que for necessário para execução do seu trabalho; Levantar fatos e dados relacionados a eventos para investigação (RCA); </li><li>Revisar e aprovar os serviços executados pelos fornecedores; </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Ensino Superior Completo</b> em Engenharia de Produção, Mecânica, Automação, Elétrica, Eletrônica, Mecatrônica ou Naval;</li><li>Inglês Avançado;</li><li>Experiência com gestão de equipes;</li><li><b>Experiência no setor marítimo ou offshore.</b></li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/295/coordenador-de-manutencao]]></applyUrl>
-    <companyId><![CDATA[5672510]]></companyId>
-    <city><![CDATA[São João da Barra]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[dadf07ba-7b94-4b56-88da-c012ec0f70e1]]></partnerJobId>
-    <company><![CDATA[BRAM OFFSHORE]]></company>
-    <title><![CDATA[Gerente de Operações]]></title>
-    <posterEmail><![CDATA[beatriz.santana@chouest.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um <strong>Gerente de Operações </strong>para atuar garantindo a eficiência, segurança e excelência das operações, assegurando o cumprimento dos padrões operacionais e estratégicos da BRAM. Será responsável por liderar, direcionar e desenvolver a equipe de Coordenadores de Operações da célula, promovendo a integração entre áreas e melhoria contínua dos processos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar as embarcações e garantir que os procedimentos sejam seguidos e que todos tenham os recursos suficientes para operar</li></ul><ul><li>Gerenciar a execução de contratos, identificando riscos e acompanhando cronogramas, custos e atividades envolvidas</li><li>Garantir o suporte da área de manutenção, administração e inspeções necessárias, incluindo programação de inspeções e serviços de trabalho para reparos</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo em Ciências Náuticas, Engenharia, Administração ou áreas correlatas </li><li>Experiência com Gestão Pessoas</li><li>Experiência como Coordenador de Operações ou experiência externa na área Naval</li><li>Experiência com Gerenciamento de embarcações </li><li>Disponibilidade para viagens </li><li>Inglês avançado</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/283/gerente-de-operacoes]]></applyUrl>
     <companyId><![CDATA[5672510]]></companyId>
     <city><![CDATA[São João da Barra]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
@@ -93938,10 +93976,10 @@ Esse profissional terá como objetivo central colocar o cliente no centro das de
   <job>
     <partnerJobId><![CDATA[37260609-392e-4119-85d7-1f470bb3cec6]]></partnerJobId>
     <company><![CDATA[KLAVI TECNOLOGIA LTDA]]></company>
-    <title><![CDATA[Product Marketing Specialist]]></title>
+    <title><![CDATA[Senior Product Marketing Analyst]]></title>
     <posterEmail><![CDATA[beatricedupont.liot@klavi.ai]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa Product Marketing Specialist para ser responsável pelo posicionamento e pelos materiais de apoio comercial dos produtos da Klavi, traduzindo soluções analíticas complexas em narrativas claras, relevantes e orientadas a valor. Essa pessoa fará parte do time de Marketing e será a principal interface da área com os times de Produto e Comercial, garantindo alinhamento entre proposta de valor, narrativa, lançamento e necessidade do processo de vendas. <br /><br />Seu foco estará na construção da frente de marketing do go-to-market dos produtos, conectando posicionamento, lançamentos, materiais comerciais e estratégias de conversão, com atuação sobre as frentes de Credit &amp; Risk, Marketing &amp; Analytics e Payments.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Ser responsável pelo posicionamento dos produtos da Klavi, traduzindo soluções analíticas complexas em mensagens claras, diferenciadas e orientadas a valor.  Estruturar e executar a frente de marketing do go-to-market para produtos, lançamentos e evoluções de portfólio, desdobrando posicionamento, narrativa, mensagens-chave e materias de apoio.<br /><br /><ul><li>Atuar como principal interface do time de Marketing com os times de Produto e Comercial, garantindo alinhamento entre estratégia de produto, narrativa e necessidade do processo de vendas.  </li><li>Ser responsável pelo marketing de produto das frentes de Credit &amp; Risk, Marketing &amp; Analytics e Payments, assegurando consistência de posicionamento e comunicação entre diferentes ofertas e mercados.  </li><li>Desenvolver e evoluir materiais de apoio ao time comercial, criando apresentações one-pagers e outros ativos aderentes a diferentes stakeholders, segmentos e momentos da jornada. </li><li>Apoiar a construção de estratégias de fundo de funil em parceria com o time de Ads, contribuindo com mensagens, propostas de valor e direcionamentos voltados à conversão</li><li>Planejar e orientar a criação de ativos e iniciativas de product marketing em canais com site, materiais ricos, social media, PR, ads e CRM, de acordo com os objetivos de negócio.  </li><li>Construir briefing claros e eficientes para os times responsáveis por design, desenvolvimento web, ads e CRM. </li><li>Definir ICPs e direcionamentos de comunicação com base em produto, mercado, perfil de cliente e estágio da jornada, apoiando também pesquisas de mercado e concorrência para embasar posicionamento e go-to-market. </li><li>Apoiar discussões de naming de produtos e oranização de portfólio, contribuindo para a coerência entre posicionamento, proposta de valor e estratégia de mercado. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Inglês avançado</li><li>Experiência em posicionamento, messaging, go-to-market, materiais de apoio comercial, ICP, segmentação e pesquisa de mercado </li><li>Experiência em fintechs, empresas de dados ou startups B2B que comercializam produtos complexos e possuem ciclos de vendas mais longos </li><li>Capacidade de traduzir produtos complexos em narrativas claras, relevantes e comercialmente eficazes</li><li>Excelente redação e comunicação</li><li>Alta autonomia, senso de ownership e capacidade de conduzir múltiplas frentes com interface entre diferentes áreas </li><li>Excelente habilidade de relacionamento com stakeholders, especialmente times de Produto, Comercial e Marketing </li><li>Bom repertório visual e critério estético para orientar e construir materiais de comunicação com qualidade </li><li>Familiaridade prática com Figma para criação e edição de apresentações e outros materias</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasklavi/6/product-marketing-specialist]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa que será responsável pela execução e evolução das iniciativas de Product Marketing da Klavi, contribuindo para o posicionamento dos produtos e para a construção de narrativas, mensagens e materiais de apoio comercial que traduzam soluções analíticas complexas em valor claro para o mercado. A posição atua em estreita colaboração com os times de Marketing, Produto e Comercial, apoiando lançamentos, iniciativas de go-to-market, estratégias de conversão e a evolução da comunicação das frentes de Credit &amp; Risk, Marketing &amp; Analytics e Payments. <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar como principal interface do time de Marketing com os times de Produto e Comercial, garantindo alinhamento entre estratégia de produto, narrativa e necessidade do processo de vendas.  </li><li>Ser responsável pelo marketing de produto das frentes de Credit &amp; Risk, Marketing &amp; Analytics e Payments, assegurando consistência de posicionamento e comunicação entre diferentes ofertas e mercados.  </li><li>Desenvolver e evoluir materiais de apoio ao time comercial, criando apresentações one-pagers e outros ativos aderentes a diferentes stakeholders, segmentos e momentos da jornada. </li><li>Apoiar a construção de estratégias de fundo de funil em parceria com o time de Ads, contribuindo com mensagens, propostas de valor e direcionamentos voltados à conversão</li><li>Planejar e orientar a criação de ativos e iniciativas de product marketing em canais com site, materiais ricos, social media, PR, ads e CRM, de acordo com os objetivos de negócio.  </li><li>Construir briefing claros e eficientes para os times responsáveis por design, desenvolvimento web, ads e CRM. </li><li>Definir ICPs e direcionamentos de comunicação com base em produto, mercado, perfil de cliente e estágio da jornada, apoiando também pesquisas de mercado e concorrência para embasar posicionamento e go-to-market. </li><li>Apoiar discussões de naming de produtos e oranização de portfólio, contribuindo para a coerência entre posicionamento, proposta de valor e estratégia de mercado. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em posicionamento, messaging, go-to-market, materiais de apoio comercial, ICP, segmentação e pesquisa de mercado.  </li><li>Experiência em fintechs, empresas de dados ou startups B2B com produtos complexos e ciclos de vendas mais longos.  </li><li>Capacidade de traduzir produtos complexos em narrativas claras, relevantes e comercialmente eficazes.  </li><li>Excelente redação e comunicação.  </li><li>Alta autonomia, senso de dono e capacidade de conduzir múltiplas frentes com interface entre diferentes áreas.  </li><li>Excelente habilidade de relacionamento com stakeholders, especialmente times de Produto, Comercial e Marketing.  </li><li>Bom repertório visual e critério estético para orientar e construir materiais de comunicação com qualidade.  </li><li>Conhecimento e utilização prática de ferramentas de Inteligência Artificial e tecnologias digitais aplicadas ao ambiente corporativo, com capacidade de utilizá-las de forma ética, crítica e orientada à produtividade e qualidade das entregas. </li><li>Inglês em nível avançado.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasklavi/6/senior-product-marketing-analyst]]></applyUrl>
     <companyId><![CDATA[72690043]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
