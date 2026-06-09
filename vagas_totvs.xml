@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 09 Jun 2026 18:21:35 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 19:14:40 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3523]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3533]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[af44e496-7dbe-4691-902a-d854dcec3ab5]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -10550,6 +10550,25 @@ Se você se identifica com nossos valores e quer fazer parte da nossa história,
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[86b7746f-7347-447a-913d-e0d3f39b5548]]></partnerJobId>
+    <company><![CDATA[Estuda.com]]></company>
+    <title><![CDATA[Analista de Estatística TRI Pleno]]></title>
+    <posterEmail><![CDATA[izia.silva@estuda.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável pela análise estatística aplicada a avaliações de média a alta complexidade, realizando a extração, tratamento, modelagem e interpretação de dados de avaliações (TRI), sempre alinhado aos objetivos e desafios do negócio. Identificar tendências, anomalias e <i>insights</i> estratégicos nos parâmetros de itens e provas que impulsionam a tomada de decisões em diversas áreas da empresa. Além disso, colaborar ativamente com o time na otimização de processos estatísticos e na busca por soluções eficientes para o sistema de avaliação.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Analisar os dados provenientes das aplicações de provas e avaliações, assegurando a qualidade, consistência e conformidade estatística das informações utilizadas nos modelos de TRI;</li><li>Avaliar o comportamento dos itens e das provas a partir dos parâmetros estatísticos gerados (dificuldade, discriminação e acerto ao acaso), identificando inconsistências, desvios ou anomalias nos resultados;</li><li>Realizar a parametrização dos modelos de Teoria de Resposta ao Item (TRI), definindo e ajustando parâmetros conforme o contexto pedagógico e estatístico de cada tipo de avaliação/vestibular;</li><li>Atuar na validação estatística dos processos de correção, escalonamento e equalização de provas, garantindo a aderência às boas práticas metodológicas;</li><li>Investigar e corrigir problemas técnicos e bugs relacionados ao funcionamento e processamento do TRI, atuando em conjunto com as equipes de produto, engenharia e dados;</li><li>Monitorar continuamente o desempenho do modelo estatístico aplicado ao produto, propondo ajustes e melhorias para assegurar precisão, estabilidade e confiabilidade dos resultados;</li><li>Apoiar as equipes internas, esclarecendo dúvidas sobre estatística, orientando sobre interpretação de indicadores, resultados e limitações dos modelos utilizados;</li><li>Elaborar análises, relatórios técnicos e pareceres estatísticos que subsidiem decisões estratégicas de produto, pedagógicas e operacionais;</li><li>Participar ativamente da definição, revisão e evolução dos processos estatísticos do produto, contribuindo para a padronização, documentação e melhoria contínua da área;</li><li>Acompanhar pesquisas, estudos e tendências em estatística educacional, psicometria e TRI, avaliando a aplicabilidade de novas metodologias e práticas ao produto;</li><li>Atuar de forma proativa para garantir o funcionamento adequado, a robustez estatística e a credibilidade dos resultados entregues pelo sistema de avaliação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com análise estatística de dados, modelagem quantitativa ou psicometria aplicada;</li><li>Ensino superior completo em Estatística, Matemática, Engenharia, Ciência de Dados ou áreas correlatas;</li><li>Domínio na aplicação e ajuste de modelos de TRI aplicados a diferentes arquiteturas de provas;</li><li>Experiência com linguagem R e ecossistema CRAN na criação de scripts para manipulação de dados, análise estatística e uso de pacotes do CRAN voltados para psicometria (ex: mirt, ltm, TAM, irtoys ou similares);</li><li>Conhecimento em bancos de dados (como MySQL, PostgreSQL, etc.) para realizar consultas, cruzamento de dados (<i>Joins</i>), filtragens e estruturação de tabelas para análise;</li><li>Conhecimento em indicadores da Teoria Clássica dos Testes (TCT) para triagem inicial de itens: Grau de Dificuldade, Correlação Ponto-Bisserial, Alfa de Cronbach;</li><li>Experiência com ferramentas de BI (Metabase, Power BI, Tableau ou Looker Studio);</li><li>Noções de controle de versão de código (Git/GitHub)</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/estuda/133/analista-de-estatistica-tri-pleno]]></applyUrl>
+    <companyId><![CDATA[3]]></companyId>
+    <city><![CDATA[Cuiabá]]></city>
+    <state><![CDATA[Mato Grosso]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[10e4f5f7-c5cf-467b-8736-c8f18ed12e1d]]></partnerJobId>
     <company><![CDATA[Estuda.com]]></company>
     <title><![CDATA[Analista de FP&A Sênior]]></title>
@@ -15565,25 +15584,6 @@ Preencher registros operacionais, documentando indicadores, condições e interv
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/815/promotor-de-vendas]]></applyUrl>
     <companyId><![CDATA[65466539]]></companyId>
     <city><![CDATA[Candeias]]></city>
-    <state><![CDATA[Bahia]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[c056c6e9-d38a-4785-a45c-db456d625179]]></partnerJobId>
-    <company><![CDATA[Unimarka Distribuidora]]></company>
-    <title><![CDATA[Assistente Administrativo]]></title>
-    <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Essa vaga é para você que gosta de desafios, de se desenvolver continuamente e fazer carreira em uma empresa que está entre as 10 maiores do Brasil no segmento atacadista. <br /><b>Venha e participe da nossa seleção!</b><br /> <br />Vaga destinada também a PCD.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atender funcionários, fornecedores e clientes para prestar informações;</li><li>Extrair informações, conferir dados e elaborar relatórios;</li><li>Preencher formulários e documentos diversos, digitando e gerando dados no sistema;</li><li>Executar processos, fluxos de trabalho e procedimentos;</li><li>Executar outras atividades correlatas solicitadas pelo gestor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou em curso em Administração, Marketing, gestão empresarial ou áreas afins.</li></ul><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/1003/assistente-administrativo]]></applyUrl>
-    <companyId><![CDATA[65466539]]></companyId>
-    <city><![CDATA[Feira de Santana]]></city>
     <state><![CDATA[Bahia]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -24460,6 +24460,25 @@ Como Motorista Entregador, o profissional será responsável pela entrega de pro
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslojasferronorte/252/auxiliar-operacional]]></applyUrl>
     <companyId><![CDATA[11815898]]></companyId>
     <city><![CDATA[Picos]]></city>
+    <state><![CDATA[Piauí]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d1134e34-58d9-464a-8abd-511fb81676b3]]></partnerJobId>
+    <company><![CDATA[Ferronorte]]></company>
+    <title><![CDATA[ASSISTENTE DE DP]]></title>
+    <posterEmail><![CDATA[auxiliar5.rh@gferronorte.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Executar processos de admissão, incluindo conferência de documentos, cadastro de colaboradores e envio de informações ao eSocial.<br />Realizar lançamentos, conferências e apoio no fechamento da folha de pagamento.<br />Controlar e processar férias, garantindo o cumprimento dos prazos legais.<br />Executar processos de desligamento, cálculos rescisórios e emissão da documentação pertinente.<br />Apurar e conferir encargos trabalhistas e previdenciários, bem como emitir guias de recolhimento.<br />Auxiliar no cumprimento das obrigações acessórias, incluindo eSocial e DCTFWeb.<br />Administrar benefícios corporativos e realizar controle e conferência de ponto eletrônico.<br />Prestar atendimento e suporte aos colaboradores em assuntos relacionados ao Departamento Pessoal.<br />Organizar, controlar e manter atualizada a documentação trabalhista e os registros dos colaboradores.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Conhecimento de legislação trabalhista e previdenciária.<br />Conhecimento em eSocial, FGTS Digital e DCTFWeb.<br />Domínio de sistemas de folha de pagamento e controle de ponto.<br />Organização, atenção aos detalhes e capacidade analítica.<br />Discrição e sigilo profissional.<br />Boa comunicação e relacionamento interpessoal.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Conhecimento de legislação trabalhista e previdenciária.<br />Conhecimento em eSocial, FGTS Digital e DCTFWeb.<br />Domínio de sistemas de folha de pagamento e controle de ponto.<br />Organização, atenção aos detalhes e capacidade analítica.<br />Discrição e sigilo profissional.<br />Boa comunicação e relacionamento interpessoal.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslojasferronorte/315/assistente-de-dp]]></applyUrl>
+    <companyId><![CDATA[11815898]]></companyId>
+    <city><![CDATA[Teresina]]></city>
     <state><![CDATA[Piauí]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -37507,6 +37526,33 @@ em Acesso por Cordas (IRATA, ABENDI ou ANEAC</li><li>CBSP</li><li> T-HUET (OPIT
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[8393c9d5-3cc5-4392-a3ca-cc416a0c156a]]></partnerJobId>
+    <company><![CDATA[Advanti Informática]]></company>
+    <title><![CDATA[ASSISTENTE COMERCIAL]]></title>
+    <posterEmail><![CDATA[rose@advanti.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><li>Realizar prospecção ativa de leads (cold calling, e-mail marketing, LinkedIn, eventos, entre outros)</li><li>Qualificar oportunidades, agendar reuniões e direcionar leads para o time comercial</li><li>Manter contato com clientes para follow-up e esclarecimento de dúvidas</li><li>Alimentar e atualizar o CRM</li><li>Elaborar propostas comerciais simples, relatórios e indicadores de desempenho</li><li>Apoiar o time comercial e atividades de pós-venda</li><li>Prospectar novos clientes por meio de ferramentas de IA e outras</li><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><br />Realizar prospecção ativa de leads (cold calling, e-mail marketing, LinkedIn, eventos, entre outros)<br />Qualificar oportunidades, agendar reuniões e direcionar leads para o time comercial<br />Manter contato com clientes para follow-up e esclarecimento de dúvidas<br />Alimentar e atualizar o CRM<br />Elaborar propostas comerciais simples, relatórios e indicadores de desempenho<br />Apoiar o time comercial e atividades de pós-venda<br />Prospectar novos clientes por meio de ferramentas de IA e outras<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Escolaridade Mínima: Ensino Superior</li><li>Português (Avançado - Requerido), Inglês (Intermediário - Requerido), Espanhol (Básico - Requerido)</li><li>Experiência entre 3 e 5 anos</li><li><br /></li><li>Experiência com CRM </li><li>Conhecimento em Pacote Office, especialmente Excel</li><li>Vivência prévia na área comercial ou atendimento</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/advanti/46/assistente-comercial]]></applyUrl>
+    <companyId><![CDATA[9501700]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2600.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2400.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[366ab85e-346a-4e45-971c-08220bd868e2]]></partnerJobId>
     <company><![CDATA[Advanti Informática]]></company>
     <title><![CDATA[ANALISTA DE SUPORTE]]></title>
@@ -39186,6 +39232,25 @@ alta performance, esta vaga é para você! Vamos conversar? <br /><br /><b>Resp
     <companyId><![CDATA[104888295]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[72a5b67c-aee9-4ec0-b2a3-bc79219ea768]]></partnerJobId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Caldeireiro Industrial]]></title>
+    <posterEmail><![CDATA[kauane.silva@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Interpretar e analisar projetos de caldeiraria e desenhos técnicos.</li><li>Fabricar, montar e realizar reparos em estruturas metálicas e equipamentos industriais.</li><li>Executar soldagens e cortes de materiais ferrosos e não ferrosos, utilizando equipamentos adequados.</li><li>Realizar testes de pressão e funcionalidade em tubulações e equipamentos montados.</li><li>Manter a organização do ambiente de trabalho, seguindo normas de segurança e utilizando Equipamentos de Proteção Individual (EPIs).</li><li>Colaborar com a equipe de manutenção para realizar intervenções e manutenções corretivas e preventivas.</li><li>Operar ferramentas manuais e elétricas de caldeiraria, assegurando a precisão e a qualidade do trabalho.</li></ul><br />       <br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo.</li><li>Experiência comprovada na função.</li><li>Conhecimento em leitura e interpretação de desenhos técnicos.</li><li>Disponibilidade para turnos e horas extras, se necessário.</li><li>Residir em Uberaba- MG ou Conceição das Alagoas- MG. </li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1749/caldeireiro-industrial]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Conceição das Alagoas]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -56739,25 +56804,6 @@ Organizar e alimentar o site do Marketing com as demandas gerais (campanhas, wal
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[1a5d27be-3c91-4a5f-8e4c-df44cc38d335]]></partnerJobId>
-    <company><![CDATA[Grupo PMZ]]></company>
-    <title><![CDATA[MA01 | MOTORISTA CAT B]]></title>
-    <posterEmail><![CDATA[brenda.tolosa@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável conduzir veículos leves fazendo o transporte de cargas entre as diversas unidades de trabalho: recebe a programação do período, acondicionar a carga a ser transportada e circula pelo roteiro estabelecido zelando pela segurança e integridade das pessoas e volumes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar atividade de entrega de produtos e documentos e/ou transporte de pessoas através da condução de veículos leves a fim de realizar a entrega das mercadorias dentro do prazo e qualidade esperados.</li><li>Executar recebimento de carga através da conferência dos itens da Nota Fiscal a fim de garantir entrega dos itens planejados, evitando falhas no processo.</li><li>Executar entrega de mercadoria através da entrega da Nota Fiscal e conferência dos itens a fim de garantir qualidade do serviço.</li><li>Executar check-list do veículo através da conferência e apontamento de desvio, falhas ou necessidade de manutenção no veículo a fim de garantir seu funcionamento e evitar transtornos nas entregas.</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior.</li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade.</li><li>Zelar por máquinas, equipamentos e materiais através do uso correto e controle de despesas a fim de contribuir com a redução de despesas com manutenções adicionais, evitando danos e prolongando sua vida útil.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Possuir carteira de habilitação categoria B válida.<br />- Experiência anterior como motorista.<br />- Conhecimento em legislação de trânsito.<br />- Habilidade em direção defensiva.<br />- Boa comunicação e relacionamento interpessoal.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/332/ma01-motorista-cat-b]]></applyUrl>
-    <companyId><![CDATA[22287656]]></companyId>
-    <city><![CDATA[São Luís]]></city>
-    <state><![CDATA[Maranhão]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[cc0e8d9b-0a07-4e02-b650-e1cbd853e853]]></partnerJobId>
     <company><![CDATA[Grupo PMZ]]></company>
     <title><![CDATA[MA01 | MOTORISTA CAT B]]></title>
@@ -57384,25 +57430,6 @@ Assegurar a correta recepção, armazenagem e expedição de peças e acessório
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasspm/325/ma02-vendedor-a-de-lubrificantes-spm]]></applyUrl>
     <companyId><![CDATA[1]]></companyId>
     <city><![CDATA[Imperatriz]]></city>
-    <state><![CDATA[Maranhão]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a946c580-f0f0-4a2d-99c0-f0100a35b2f9]]></partnerJobId>
-    <company><![CDATA[SPM Lubrificantes]]></company>
-    <title><![CDATA[MA01 | VENDEDOR(A) DE LUBRIFICANTES - SPM]]></title>
-    <posterEmail><![CDATA[brenda.tolosa@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por executar atividades de venda de produtos através de negociação do preço do produto ou serviço vendido, negociação do prazo, das condições de pagamento e dos descontos da venda a fim de garantir lucratividade e resultados da SPM.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Assegurar a entrega das metas de vendas, por meio do acompanhamento diário, para elaboração e execução de planos de ação adequados;</li><li>Assegurar a excelência no atendimento aos clientes SPM;</li><li>Negociar preços, prazos, condições de pagamento e descontos da venda;</li><li>Orientar quanto às especificações, agregando valor aos produtos;</li><li>Fazer contatos com clientes potenciais e existentes.</li><li>Realizar cadastro de pedido no sistema.</li><li>Fazer captação de novos clientes nas rotas já atendidas.</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior.</li><li>Manter os equipamentos pertinentes a rotina de trabalho sempre em bom estado de conservação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>CNH "B" (Atualizada)</li><li>Ensino médio completo</li><li>Experiência prévia em vendas externas ou atendimento ao cliente.</li><li>Habilidade de comunicação e negociação.</li><li>Capacidade de identificar oportunidades de negócio.</li><li>Conhecimento em técnicas de vendas e marketing.</li><li>Disponibilidade para viagens e trabalho externo.</li><li>Domínio de ferramentas de informática, como Pacote Office.</li><li>Organização e proatividade.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasspm/251/ma01-vendedor-a-de-lubrificantes-spm]]></applyUrl>
-    <companyId><![CDATA[1]]></companyId>
-    <city><![CDATA[São Luís]]></city>
     <state><![CDATA[Maranhão]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -64206,6 +64233,44 @@ e busca crescimento profissional,</b> essa oportunidade é para você.<br /><br
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[5be796a6-f84a-41bb-a2bd-c508930ab769]]></partnerJobId>
+    <company><![CDATA[Xmobots]]></company>
+    <title><![CDATA[Analista de Inteligência de Mercado Jr]]></title>
+    <posterEmail><![CDATA[barbara.souza@xmobots.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar a coleta, tratamento, análise e interpretação de dados de mercado, negócios e concorrência, transformando informações em insights que subsidiem a tomada de decisão estratégica da empresa;</li><li>Efetuar o tratamento, organização e consolidação de dados para análise e geração de informações gerenciais;</li><li>Analisar dados quantitativos e qualitativos, identificando tendências, padrões, oportunidades e riscos para o negócio;</li><li>Apoiar a realização de estudos econômicos, mercadológicos e análises setoriais, avaliando cenários atuais e tendências futuras;</li><li>Desenvolver análises que auxiliem na projeção de demanda de produtos e serviços;</li><li>Elaborar minutas de estudos, pareceres e relatórios técnicos contendo análises, conclusões e recomendações;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação completa ou cursando em Engenharia, Análises de Dados, Estatistica e/ou áreas correlatas;</li><li>Domínio do pacote office (Excel preferencialmente);</li><li>Disponibilidade para atuar presencialmente em São Carlos - SP.</li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/xmobotscarreiras/108/analista-de-inteligencia-de-mercado-jr]]></applyUrl>
+    <companyId><![CDATA[5048086]]></companyId>
+    <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e80bf461-6882-49c2-bad8-5596d598c5f5]]></partnerJobId>
+    <company><![CDATA[Xmobots]]></company>
+    <title><![CDATA[Analista de Comércio Exterior Jr]]></title>
+    <posterEmail><![CDATA[barbara.souza@xmobots.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar e acompanhar processos de importação e exportação, desde o planejamento até a entrega final, realizando análise e controle de custos logísticos e aduaneiros;</li><li>Suporte na compra de materiais importados e contato com fornecedores internacionais;</li><li>Atuar no acompanhamento de embarques marítimos, aéreos e rodoviários, desembaraço alfandegário, emissão e conferência de documentos de comércio exterior , além do controle de prazos, nacionalização de mercadorias e fechamento dos processos;</li><li>Manter contato com despachantes, transportadoras, seguradoras, órgãos reguladores, clientes e fornecedores;</li><li>Elaborar relatórios e previsões de custos, acompanhar a legislação vigente e contribuir para garantir conformidade legal, eficiência operacional e redução de custos nas operações internacionais.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação acadêmica concluída ou cursando em Engenharia, Administração, ou áreas correlatas;</li><li>Experiência com processos de Comex;</li><li>Conhecimento em Pacote Office;</li><li>Conhecimento em ERP;</li></ul><br /><ul><li>Residir em São Carlos - SP.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/xmobotscarreiras/107/analista-de-comercio-exterior-jr]]></applyUrl>
+    <companyId><![CDATA[5048086]]></companyId>
+    <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[c450673b-6e0c-4082-9c50-9737b6738991]]></partnerJobId>
     <company><![CDATA[Xmobots]]></company>
     <title><![CDATA[Gestor(a) de Projetos]]></title>
@@ -68014,6 +68079,84 @@ função, zelando pela sua integridade física e de todos os colaboradores.<br /
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[95ffb17c-9b8e-4476-be6a-fdbceee9e61d]]></partnerJobId>
+    <company><![CDATA[Rede Reis de Supermercados]]></company>
+    <title><![CDATA[AUXILIAR DE SUPERMERCADO (CAIXA) - LOJA 24 – BAIRRO BRASILIA]]></title>
+    <posterEmail><![CDATA[solange.rh@supreis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Responsável por prestar
+suporte nas diversas áreas do supermercado realizando</b>
+
+<b>atividades operacionais
+como, operação de caixa, reposição de mercadorias, organização</b>
+
+<b>de prateleiras,
+atendimento ao cliente e apoio às demais equipes, garantindo o bom</b>
+
+<b>funcionamento da loja e
+a satisfação dos clientes.</b><br /><br /><b>Responsabilidades e atribuições</b><br /><br />·        
+Operar o caixa
+registrando produtos com precisão;
+
+·        
+Receber pagamentos em
+dinheiro, cartão ou outras formas eletrônicas;
+
+·        
+Emitir notas fiscais,
+cupons fiscais e comprovantes de paga;
+
+·        
+Realizar abertura e
+fechamento do caixa com conferência de valores;
+
+·        
+Zelar pelo bom
+funcionamento do equipamento de caixa.
+
+·        
+Ajudar na separação e
+organização de produtos para exposição;
+
+·        
+Recolher carrinhos e
+cestas de compras;
+
+·        
+Embalar produtos
+auxiliando clientes;
+
+·        
+Informar ao setor
+responsável sobre irregularidades nos preços ou códigos dos produtos.
+
+·        
+Verificar etiquetas de
+preços e sinalizar produtos em promoção;
+
+·        
+Apoiar os setores de
+açougue, padaria, hortifrúti e mercearia, quando necessário;
+
+·        
+Atender clientes com
+simpatia e resolver dúvidas básicas;
+
+Zelar pela guarda, conservação, limpeza e segurança
+dos equipamentos, instrumentos e<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo ou cursando ensino médio;</li><li>Experiência prévia em funções similares;</li><li>Capacidade de multitarefa e organização;</li><li>Iniciativa, ética e disponibilidade de horário.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasredereis/82/auxiliar-de-supermercado-caixa-loja-24-bairro-brasilia]]></applyUrl>
+    <companyId><![CDATA[64786094]]></companyId>
+    <city><![CDATA[Itumbiara]]></city>
+    <state><![CDATA[Goiás]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[019b9b36-fe24-4ae7-89ef-241d90c0f23d]]></partnerJobId>
     <company><![CDATA[Rede Reis de Supermercados]]></company>
     <title><![CDATA[AUXILIAR DE PADARIA - LOJA MATRIZ - ITUMBIARA/GO.]]></title>
@@ -68756,9 +68899,63 @@ Organização e cumprimento de prazos.</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[fdee5ae5-aea1-4c51-91c1-70844b3afcc5]]></partnerJobId>
+    <company><![CDATA[Rede Reis de Supermercados]]></company>
+    <title><![CDATA[AUXILIAR DE PADARIA - LOJA 30 BAIRRO DOM ABEL - JATAI/GO.]]></title>
+    <posterEmail><![CDATA[solange.rh@supreis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>É responsável
+por apoiar nas atividades operacionais do setor de panificação, incluindo
+preparação de massas, forneamento, embalagem e organização dos produtos. Atua
+seguindo as orientações do padeiro e da liderança, garantindo a higiene,
+qualidade dos itens produzidos e o bom atendimento ao cliente.</b><br /><br /><b>Responsabilidades e atribuições</b><br /><br />·        
+Auxiliar na produção de
+pães, bolos, tortas e outros itens de panificação conforme receitas e
+orientações.
+
+·        
+Apoiar no preparo de
+massas, modelagem, fermentação, forneamento e finalização de produtos.
+
+·        
+Embalar, etiquetar e
+organizar os produtos nas vitrines e gôndolas.
+
+·        
+Manter o ambiente de
+trabalho limpo, higienizado e organizado conforme normas sanitárias.
+
+·        
+Apoiar o atendimento ao
+cliente no balcão da padaria quando necessário.
+
+·        
+Controlar a validade e a
+apresentação dos produtos expostos.
+
+·        
+Auxiliar na reposição de
+ingredientes e materiais de produção.
+
+·        
+Cumprir os padrões de
+segurança alimentar, uso de EPIs e boas práticas de manipulação.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo ou cursando ensino médio;</li><li>Experiência prévia em funções similares;</li><li>Capacidade de multitarefa e organização;</li><li>Iniciativa, ética e disponibilidade de horário.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasredereis/81/auxiliar-de-padaria-loja-30-bairro-dom-abel-jatai-go]]></applyUrl>
+    <companyId><![CDATA[64786094]]></companyId>
+    <city><![CDATA[Jataí]]></city>
+    <state><![CDATA[Goiás]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[ec77dd73-2345-4168-b0d6-04d2c0f8ef11]]></partnerJobId>
     <company><![CDATA[Rede Reis de Supermercados]]></company>
-    <title><![CDATA[REPOSITOR DE HORTIFRUTI - LOJA 30 B. DOM ABEL - JATAI/GO.]]></title>
+    <title><![CDATA[REPOSITOR DE HORTIFRUTI - LOJA 30 BAIRRO DOM ABEL - JATAI/GO.]]></title>
     <posterEmail><![CDATA[solange.rh@supreis.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><b>Responsável por
 manter o setor de hortifrúti abastecido, limpo, organizado e atrativo para os
@@ -68797,7 +68994,7 @@ peculiares ao trabalho, bem como dos locais.
 ·        
 Realizar as atividades
 previstas para o cargo, atendendo à Missão, Visão e Valores da organização.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo ou cursando ensino médio;</li><li>Experiência prévia em funções similares;</li><li>Capacidade de multitarefa e organização;</li><li>Iniciativa, ética e disponibilidade de horário.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasredereis/80/repositor-de-hortifruti-loja-30-b-dom-abel-jatai-go]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasredereis/80/repositor-de-hortifruti-loja-30-bairro-dom-abel-jatai-go]]></applyUrl>
     <companyId><![CDATA[64786094]]></companyId>
     <city><![CDATA[Jataí]]></city>
     <state><![CDATA[Goiás]]></state>
@@ -68813,7 +69010,7 @@ previstas para o cargo, atendendo à Missão, Visão e Valores da organização.
   <job>
     <partnerJobId><![CDATA[50b0528e-1f78-4ecb-acd2-657a92167a33]]></partnerJobId>
     <company><![CDATA[Rede Reis de Supermercados]]></company>
-    <title><![CDATA[AUXILIAR DE SUPERMERCADO - LOJA 30 B. DOM ABEL - JATAI/GO.]]></title>
+    <title><![CDATA[AUXILIAR DE SUPERMERCADO - LOJA 30 BAIRRO DOM ABEL - JATAI/GO.]]></title>
     <posterEmail><![CDATA[solange.rh@supreis.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><b>Responsável por prestar
 suporte nas diversas áreas do supermercado realizando</b>
@@ -68826,7 +69023,7 @@ atendimento ao cliente e apoio às demais equipes, garantindo o bom</b>
 
 <b>funcionamento da loja e
 a satisfação dos clientes.</b><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Apoiar no atendimento ao cliente, garantindo uma experiência agradável e eficiente durante as compras.<br /> - Organizar e repor produtos nas gôndolas, mantendo a disposição adequada e a limpeza das prateleiras.<br /> - Executar a separação e embalagem de mercadorias para entrega, quando necessário.<br /> - Auxiliar na operação do caixa, realizando a passagem de produtos e recebendo pagamentos.<br /> - Colaborar nas atividades de controle de estoque, incluindo a verificação de validade e a atualização de quantidades.<br /> - Acompanhar a validade dos produtos e realizar ações para evitar perdas.<br /> - Participar de treinamentos e reuniões para aprimorar o conhecimento sobre produtos e procedimentos da loja.<br /> - Auxiliar na manutenção da limpeza e organização da área de trabalho e dos corredores do supermercado.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo ou cursando ensino médio;</li><li>Experiência prévia em funções similares;</li><li>Capacidade de multitarefa e organização;</li><li>Iniciativa, ética e disponibilidade de horário.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasredereis/79/auxiliar-de-supermercado-loja-30-b-dom-abel-jatai-go]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasredereis/79/auxiliar-de-supermercado-loja-30-bairro-dom-abel-jatai-go]]></applyUrl>
     <companyId><![CDATA[64786094]]></companyId>
     <city><![CDATA[Jataí]]></city>
     <state><![CDATA[Goiás]]></state>
@@ -69341,6 +69538,37 @@ Experiência no uso de <strong>CRM de vendas</strong> (HubSpot, Pipedrive, RD St
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4521905b-d7e3-43a5-aeb4-44d3f4d356a4]]></partnerJobId>
+    <company><![CDATA[Grupo OAD]]></company>
+    <title><![CDATA[Apontador de Obra]]></title>
+    <posterEmail><![CDATA[thaynarapreis@grupooad.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um <b>Apontador de Obra</b> que realizará o apontamento e controle de mão de obra, materiais e equipamentos da obra, efetuando registros operacionais, controle de estoque, conferência de materiais e apoio administrativo, visando garantir a confiabilidade das informações e o adequado andamento das atividades do canteiro.<br /><br />Local: Campeche, Florianópolis/SC<br />Horário: Seg. à quinta-feira das 07h30 às 17h30 e sexta-feira das 07h30 às 16h30.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Controlar e registrar a frequência e produção das equipes da obra.
+</li><li>
+Receber, conferir e registrar a entrada e saída de materiais.
+</li><li>
+Acompanhar e controlar os estoques do canteiro de obras.
+</li><li>
+Apoiar a logística de distribuição de materiais para as frentes de trabalho.
+</li><li>
+Elaborar relatórios e manter atualizados os controles administrativos da obra.
+</li><li>
+Identificar e comunicar divergências, faltas ou desperdícios de materiais.
+</li><li>
+Auxiliar no controle de custos e na organização documental da obra.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em obras de construção civil.</li><li>Conhecimento em controle de estoque e logística de materiais.</li><li>Desejável curso técnico em Logística ou áreas correlatas.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupooad/31/apontador-de-obra]]></applyUrl>
+    <companyId><![CDATA[79995120]]></companyId>
+    <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[47300e7c-7f48-497a-9914-9bc6efe6365b]]></partnerJobId>
@@ -70516,6 +70744,37 @@ Noções de marketing digital e tráfego pago (diferencial).</li></ul></li>]]></
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[95df9d86-a9c1-4780-936b-5aab721f75cb]]></partnerJobId>
+    <company><![CDATA[Ecoplan Engenharia]]></company>
+    <title><![CDATA[Técnico de Obras - Porto Alegre]]></title>
+    <posterEmail><![CDATA[anne.evaldt@ecoplan.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos contratando Técnico de Obras para atuar em Porto Alegre/RS! Se você possui formação técnica, conhecimento em Pacote Office e interesse em acompanhar obras rodoviárias, essa pode ser a sua oportunidade de fazer parte do nosso time.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li> Acompanhamento
+     de obras rodoviárias;</li>
+ <li> Apoio na
+     elaboração de planilhas e medições de obras Rodoviárias;</li>
+ <li> Apoio na elaboração
+     de relatórios e apresentações técnicas;</li>
+ <li> Suporte no
+     controle de prazos.</li>
+</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li> Formação completa em curso Técnico de estradas ,
+Técnico em edificações ou Técnico administrativo;</li><li>Residir
+     em Porto Alegre;</li><li>Proatividade;</li><li>Comprometimento;</li><li>Habilidade na escrita e elaboração de
+     relatórios técnicos;</li><li>Conhecimento no Pacote Office.</li></ul><ul>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasecoplan/49/tecnico-de-obras-porto-alegre]]></applyUrl>
+    <companyId><![CDATA[24547946]]></companyId>
+    <city><![CDATA[Porto Alegre]]></city>
+    <state><![CDATA[Rio Grande do Sul]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[e28ee11c-170b-46d3-83d3-4c487779a5cb]]></partnerJobId>
     <company><![CDATA[Ecoplan Engenharia]]></company>
     <title><![CDATA[Auxiliar de Serviços Gerais - Limpeza]]></title>
@@ -71221,25 +71480,6 @@ Conhecimentos em <strong>desenho técnico</strong>, <strong>AutoCAD</strong> e <
     <posterEmail><![CDATA[joyce.rh@ctaengenharia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Aqui na nossa empresa, acreditamos que respeito, diversidade e inclusão fazem parte do dia a dia. Não fazemos distinção entre pessoas e valorizamos cada profissional por sua capacidade, talento e dedicação. Todas as nossas vagas são abertas para todos os perfis, incluindo Pessoas com Deficiência (PcD) e pessoas LGBTQIA+, sempre com igualdade de oportunidades e respeito às diferenças.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li> Planejamento Integrado de Operações (PIOp);</li><li> Planejamento Estratégico (PARADA PROGRAMADA);</li><li> Gestão de Manutenção e Inspeção (GMan);</li><li> Engenharia de Confiabilidade e Preditiva; </li><li> Gestão Administrativa </li><li> Responderá pela elaboração de procedimentos de execução, emissão de relatórios gerenciais e orientação de toda a equipe.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação: </b> <ul><li>Engenharia Elétrica, podendo ser exercida por outra modalidade da Engenharia (Civil, Produção, planejamento e outras.)</li></ul><br /><b>Requisitos:</b><br /><ul><li>Pós - Graduação em Gestão de Planejamento de Obras;</li><li>MS-PROJECT, Power BI,  Microsoft Office;</li><li>Conhecimentos em inglês: Nível Intermediário;</li></ul><br /><ul><li>Sólidos conhecimentos de implantação e gerenciamento de Sistemas da Qualidade NBR ISO 9002 e Gestão pela Qualidade Total;</li><li>Conhecimentos avançados (SAP/4 HANA módulos PM e MM);<br /></li><li>Gestão de Pessoas.<br /></li></ul><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/274/coordenador-de-planejamento-operacional]]></applyUrl>
-    <companyId><![CDATA[14023532]]></companyId>
-    <city><![CDATA[Manaus]]></city>
-    <state><![CDATA[Amazonas]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e9ae99f4-f8bb-483e-94e9-c86e9d578f16]]></partnerJobId>
-    <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
-    <title><![CDATA[ANALISTA DE CONTRATAÇÃO DE BENS]]></title>
-    <posterEmail><![CDATA[joyce.rh@ctaengenharia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Aqui na nossa empresa, acreditamos que respeito, diversidade e inclusão fazem parte do dia a dia. Não fazemos distinção entre pessoas e valorizamos cada profissional por sua capacidade, talento e dedicação. Todas as nossas vagas são abertas para todos os perfis, incluindo Pessoas com Deficiência (PcD) e pessoas LGBTQIA+, sempre com igualdade de oportunidades e respeito às diferenças.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Responsável em atender a área técnica na aquisição de peças, equipamentos, acompanhando o processo até a finalização da atividade.<br /><br /><br /><ul><li> Apresentar na RAC de Contratação de Bens, os equipamentos e materiais adquiridos no mês;</li><li>Emitir relatório mensal de todos os materiais adquiridos;</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação: </b> <ul><li>Nível Superior completo em Administrador </li></ul><br /><b>Requisitos:</b><br /><ul><li> Microsoft Office;</li><li>Conhecimento em Documentação Técnica;</li><li>SAP 4HANA;</li><li>Experiência com setor de óleo e gás.</li></ul><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/258/analista-de-contratacao-de-bens]]></applyUrl>
     <companyId><![CDATA[14023532]]></companyId>
     <city><![CDATA[Manaus]]></city>
     <state><![CDATA[Amazonas]]></state>
@@ -75993,6 +76233,25 @@ atividades manuais;<br />Organização e atenção aos detalhes;<br />Cursos de 
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[98f1900f-6b88-4213-807f-67c395f60028]]></partnerJobId>
+    <company><![CDATA[Bullla]]></company>
+    <title><![CDATA[Especialista de Dados]]></title>
+    <posterEmail><![CDATA[gabrielle.cardim@bullla.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa especialista em dados para se juntar ao nosso time! Se você é apaixonado(a) por transformar dados brutos em inteligência de negócios, domina a arte da modelagem e adora compartilhar conhecimento, essa vaga é para você.<br />Sua missão será desenhar, validar e otimizar nossa estrutura de dados, garantindo que as áreas de negócios tenham relatórios precisos, dashboards incríveis e insights acionáveis.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver e validar requisitos para novos conjuntos de dados.</li><li>Desenvolver e validar combinações de várias fontes de dados.</li><li>Desenvolver e validar a modelagem de dados e metadados para suportar relatórios ad-hoc e pré-criados.</li><li>Validar estudos e análises por demanda.</li><li>Desenvolver e validar novas visões de data warehouses.</li><li>Desenvolver e validar novas visões de dashboards.</li><li>Desenvolver e validar novas visões de data marts.</li><li>Elaborar a documentação de registro das construções realizadas e artigos que forem relevantes ao tema e à área.</li><li>Desenvolver, ministrar e fomentar workshops, formações e cursos.</li><li>Desenvolver relatórios e indicadores das demandas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Domínio de SQL /NoSql e otimização de queries.</li><li>Conhecimento de Modelagem de Data Wherehouse. Domínio de modelagem multidimensional (starschema/snowflake)</li><li>Conhecimento de Looker Platform e/ou Power Bi, Big Query e serviços de Dados da GCP.</li><li>Domínio de DAX e M (criação e manutenção em medidas)</li><li>Conhecimentos sólidos de alguma linguagem de Programação (Python, PySpark, Scala)</li><li>Conhecimento de Camada Semantica e Ontologias</li><li>Metodologia Ágil</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadesbullla/43/especialista-de-dados]]></applyUrl>
+    <companyId><![CDATA[16198904]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[a622cd6a-2763-45b9-80f7-3248dd675474]]></partnerJobId>
     <company><![CDATA[Bullla]]></company>
     <title><![CDATA[Gerente de Tecnologia | Implantação SCFI]]></title>
@@ -80437,6 +80696,147 @@ das crianças.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- 
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasiba/11/educador-social]]></applyUrl>
     <companyId><![CDATA[13985838]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[9595900d-58d9-41cd-9ff1-1839686f3749]]></partnerJobId>
+    <company><![CDATA[ESTALEIRO MAUÁ]]></company>
+    <title><![CDATA[Analista de Suporte]]></title>
+    <posterEmail><![CDATA[liliane.murta@estaleiromaua.ind.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Garantir o pleno funcionamento da infraestrutura de TI da
+empresa, oferecendo suporte técnico de excelência aos usuários internos
+(colaboradores). O profissional será responsável por diagnosticar, priorizar e
+resolver incidentes de hardware, software e rede e sistemas corporativos,  assegurando a continuidade
+das operações e a satsifação dos usuários.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
+ <li><b>Atendimento
+     e Suporte:</b> Realizar suporte técnico de Nível 1 e 2 (presencial e
+     remoto) para resolução de problemas de hardware, software e sistemas
+     operacionais.</li>
+ <li><b>Gestão
+     de Chamados:</b> Registrar, classificar, acompanhar e encerrar as
+     solicitações na ferramenta de Service Desk, cumprindo os prazos acordados
+     (SLAs).</li>
+ <li><b>Infraestrutura
+     e Hardware:</b> Realizar a montagem, configuração, manutenção preventiva e
+     corretiva de desktops, notebooks, impressoras e periféricos.</li>
+ <li><b>Acessos
+     e Redes:</b> Configurar e gerenciar contas de usuários, e-mails,
+     permissões de acesso (Active Directory/Google Workspace) e apoiar na
+     manutenção básica de redes (cabeamento, switches e Wi-Fi).</li>
+ <li><b>Instalação
+     de Softwares:</b> Instalar, atualizar e homologar sistemas operacionais
+     (Windows/Linux) e softwares corporativos (Pacote Office/Microsoft 365,
+     ERPs, antivírus).</li>
+ <li><b>Segurança
+     da Informação:</b> Orientar os usuários sobre as boas práticas de
+     segurança cibernética da empresa e garantir a correta aplicação das
+     políticas de TI.</li>
+ <li><b>Base
+     de Conhecimento:</b> Criar e atualizar documentações técnicas e manuais de
+     autoatendimento para os usuários.</li>
+</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
+ <li><b>Formação:</b>
+     Ensino Superior completo ou em andamento em Análise e Desenvolvimento de
+     Sistemas, Ciência da Computação, Redes de Computadores ou áreas
+     correlatas.</li>
+ <li><b>Experiência:</b>
+     Experiência prévia comprovada em Help Desk, Service Desk ou suporte
+     técnico de TI.</li>
+ <li><b>Conhecimentos
+     Técnicos:</b></li>
+ <ul>
+  <li>Sistemas
+      operacionais Windows (ambiente corporativo) e ferramentas Microsoft 365.</li>
+  <li>Redes
+      de computadores (protocolo TCP/IP, DNS, DHCP, roteamento básico e
+      cabeamento estruturado).</li>
+  <li>Instalação
+      e troubleshooting de softwares e hardware.</li>
+ </ul>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasestaleiromaua/24/analista-de-suporte]]></applyUrl>
+    <companyId><![CDATA[725337]]></companyId>
+    <city><![CDATA[Niterói]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[8d341ad9-0a17-4ca7-8b98-736e87453376]]></partnerJobId>
+    <company><![CDATA[ESTALEIRO MAUÁ]]></company>
+    <title><![CDATA[Analista de Rede]]></title>
+    <posterEmail><![CDATA[liliane.murta@estaleiromaua.ind.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Projetar, implantar, monitorar e manter a estabilidade e a
+segurança da infraestrutura de redes locais (LAN), de longa distância (WAN) e
+sem fio (WLAN) da empresa. O profissional será o responsável por garantir que a
+comunicação de dados entre servidores, filiais, internet e usuários funcione
+sem interrupções, atuando ativamente na prevenção de falhas e na segurança da
+informação, monitoramento, manutenção e resolução de problemas complexos de conectividade.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
+ <li><b>Administração
+     de Ativos de Rede:</b> Configurar, instalar e manter switches, roteadores,
+     <i>access points</i> e controladores Wi-Fi.</li>
+ <li><b>Segurança
+     Perimetral (Firewall):</b> Gerenciar regras de Firewall, políticas de
+     conteúdo, balanceamento de carga de internet (Link Load Balance) e
+     conexões seguras (VPNs site-to-site e client-to-site).</li>
+ <li><b>Monitoramento
+     de Infraestrutura:</b> Acompanhar o tráfego, performance e disponibilidade
+     da rede utilizando ferramentas de monitoramento (ex: Zabbix, PRTG,
+     Grafana), agindo proativamente antes que os incidentes impactem a
+     operação.</li>
+ <li><b>Troubleshooting
+     Avançado:</b> Identificar e corrigir problemas complexos de conectividade,
+     lentidão, perda de pacotes e falhas de roteamento.</li>
+ <li><b>Gestão
+     de Links e Fornecedores:</b> Prestar interface com operadoras de
+     telecomunicações para contratação, ativação e cobrança de SLA de links de
+     internet e circuitos de dados.</li>
+ <li><b>Documentação
+     Técnica:</b> Manter atualizados os diagramas de topologia de rede,
+     inventários de ativos e mapas de endereçamento IP.</li>
+ <li><b>Projetos
+     de Expansão:</b> Apoiar no planejamento de mudanças físicas ou lógicas na
+     rede (como a migração de layouts, novas salas ou interconexão de novos
+     galpões/estaleiros).</li>
+</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
+ <li><b>Formação:</b>
+     Ensino Superior completo em Redes de Computadores, Engenharia de
+     Telecomunicações, Ciência da Computação ou áreas afins.</li>
+ <li><b>Experiência:</b>
+     Experiência consolidada na administração de redes corporativas e segurança
+     da informação.</li>
+ <li><b>Conhecimentos
+     Técnicos Exigidos:</b></li>
+ <ul>
+  <li>Protocolos
+      de roteamento e comunicação (TCP/IP, DNS, DHCP, OSPF, BGP, VLANs).</li>
+  <li>Domínio
+      na configuração de Firewalls (como Fortinet, SonicWall, Cisco ASA ou
+      PfSense).</li>
+  <li>Vivência
+      com marcas líderes de mercado (Cisco, Aruba, Ubiquiti, Huawei ou
+      Mikrotik).</li>
+  <li>Entendimento
+      de cabeamento estruturado (par trançado e fibra óptica).</li>
+ </ul>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasestaleiromaua/25/analista-de-rede]]></applyUrl>
+    <companyId><![CDATA[725337]]></companyId>
+    <city><![CDATA[Niterói]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -89694,6 +90094,25 @@ Esse profissional terá como objetivo central colocar o cliente no centro das de
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[d6af3f97-3a7f-46c4-8246-38c3b8d36954]]></partnerJobId>
+    <company><![CDATA[KLAVI TECNOLOGIA LTDA]]></company>
+    <title><![CDATA[Economic Research & Financial Indicators Specialist]]></title>
+    <posterEmail><![CDATA[larissa.santos@klavi.ai]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Especialista para construir e manter um portfólio de índices e indicadores proprietários baseados nos dados do Open Finance da Klavi, publicados com rigor metodológico e recorrência definida. Os índices produzidos por essa posição serão utilizados pela liderança da Klavi para fortalecer o posicionamento da empresa junto a reguladores, órgãos de governo e imprensa especializada, consolidando a Klavi como referência técnica no mercado financeiro brasileiro.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Construção e gestão do portfólio de índices</b><br /><b><br /></b><br /><ul><li>Desenhar a metodologia de cada índice: critérios de representatividade, tratamento de viés, sazonalidade e construção de série histórica.</li><li>Garantir a atualização recorrente dos indicadores (mensal ou trimestral) com qualidade, consistência e rastreabilidade.</li><li>Documentar metodologias de forma clara, auditável e publicável. Incluindo limitações e premissas de cada índice.</li><li>Apoiar a construção de um comitê metodológico externo, fornecendo subsídios técnicos para validação independente.</li><li>Identificar oportunidades de novos índices com base em lacunas de mercado e nas perguntas que reguladores e imprensa costumam fazer.</li></ul><br /><br /><br /><b>Governança, compliance e qualidade de dados</b><br /><b><br /></b><br /><ul><li>Trabalhar com as equipes de dados, jurídico e compliance para garantir que todos os índices publicados atendam à LGPD, regulamentação BACEN, entre outros.</li><li>Definir e documentar os processos de anonimização e agregação de dados utilizados em cada publicação.</li><li>Estabelecer controles de qualidade e processos de revisão para cada ciclo de atualização dos indicadores.</li><li>Garantir que as metodologias estejam protegidas e documentadas como ativos intelectuais da Klavi.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa em Estatística ou Economia.</li><li>Entre 4 e 8 anos de experiência em research econômico, análise quantitativa ou ciência de dados com foco em finanças.</li><li>Experiência prévia com construção de indicadores, modelos econométricos ou índices de mercado.</li><li>Sólido domínio de metodologia estatística e econométrica para construção e validação de índices.</li><li>Experiência com séries temporais, análise de painel e tratamento de dados de alta frequência.</li><li>Experiência com ferramentas de visualização (ex: Power BI, Tableau, Looker ou similares).</li><li>Proficiência avançada em Python, PySpark e SQL para manipulação, análise e modelagem de dados em larga escala.</li><li>Capacidade de trabalhar com grandes volumes de dados transacionais e financeiros.</li><li>Conhecimento e utilização prática de ferramentas de Inteligência Artificial e tecnologias digitais aplicadas ao ambiente corporativo, com capacidade de utilizá-las de forma ética, crítica e orientada à produtividade e qualidade das entregas.</li><li>Inglês avançado a fluente.</li><li>Disponibilidade para trabalhar em modelo híbrido (3 vezes por semana no escritório) em São Paulo (Av. Paulista – estação Brigadeiro), sendo os primeiros 3 meses em regime 100% presencial. </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasklavi/10/economic-research-financial-indicators-specialist]]></applyUrl>
+    <companyId><![CDATA[72690043]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[6f55b724-eb73-4c8f-9253-4a8c85a854d9]]></partnerJobId>
     <company><![CDATA[KLAVI TECNOLOGIA LTDA]]></company>
     <title><![CDATA[Product Owner]]></title>
@@ -92766,7 +93185,7 @@ disponíveis para este fim.</li></ul><br /><br /><b>Requisitos e qualificações
 PowerPoint); </li><li>Disponibilidade para viagens e flexibilidade de horários; </li><li>Possuir CNH válida e veículo próprio; </li><li>Boa comunicação verbal e escrita; </li><li>Habilidade de negociação e persuasão; </li><li>Proatividade, dinamismo e foco em resultados; </li><li>Organização e capacidade de planejamento de rotinas
 externas.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/portaldecarreirasgrupovenus/7/promotor-a-de-captacao]]></applyUrl>
-    <companyId><![CDATA[42250170]]></companyId>
+    <companyId><![CDATA[90872087]]></companyId>
     <city><![CDATA[Caçu]]></city>
     <state><![CDATA[Goiás]]></state>
     <country><![CDATA[Brasil]]></country>
@@ -92789,7 +93208,7 @@ Disponibilidade de horário;</li><li>
 Interesse pelo segmento de cosméticos, perfumaria e beleza;</li><li>
 Boa comunicação, com habilidade de negociação e persuasão.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/portaldecarreirasgrupovenus/16/consultor-a-de-vendas]]></applyUrl>
-    <companyId><![CDATA[42250170]]></companyId>
+    <companyId><![CDATA[90872087]]></companyId>
     <city><![CDATA[Caçu]]></city>
     <state><![CDATA[Goiás]]></state>
     <country><![CDATA[Brasil]]></country>
@@ -92827,7 +93246,7 @@ revendedores;</li><li>
 Apoiar rotinas administrativas relacionadas ao atendimento e acompanhamento de
 resultados.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Necessário possuir ensino médio completo;</li><li>Conhecimento do Pacote Office;</li><li>Disponibilidade de Horário;</li><li>Interesse por cosméticos, perfumaria e beleza;</li><li>Boa comunicação e capacidade de persuasão.</li></ul><br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/portaldecarreirasgrupovenus/4/atendente-de-venda-direta]]></applyUrl>
-    <companyId><![CDATA[42250170]]></companyId>
+    <companyId><![CDATA[90872087]]></companyId>
     <city><![CDATA[Jataí]]></city>
     <state><![CDATA[Goiás]]></state>
     <country><![CDATA[Brasil]]></country>
@@ -92866,7 +93285,7 @@ relatórios gerenciais;</li><li>Boa comunicação verbal e escrita;</li><li>Orga
 beleza ou moda;</li><li>Desejável ensino superior completo ou cursando em
 Administração, Gestão Comercial, Marketing ou áreas correlatas.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/portaldecarreirasgrupovenus/19/gerente-de-espaco-do-revendedor]]></applyUrl>
-    <companyId><![CDATA[42250170]]></companyId>
+    <companyId><![CDATA[90872087]]></companyId>
     <city><![CDATA[Quirinópolis]]></city>
     <state><![CDATA[Goiás]]></state>
     <country><![CDATA[Brasil]]></country>
@@ -92897,7 +93316,7 @@ Também é responsável pela liderança da loja, acompanhamento e engajamento da
 • Familiaridade com rotinas operacionais e processos de caixa;<br />
 • Perfil comunicativo, organizado, proativo e com foco em resultados e excelência no atendimento.]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/portaldecarreirasgrupovenus/13/gerente-de-loja]]></applyUrl>
-    <companyId><![CDATA[42250170]]></companyId>
+    <companyId><![CDATA[90872087]]></companyId>
     <city><![CDATA[Quirinópolis]]></city>
     <state><![CDATA[Goiás]]></state>
     <country><![CDATA[Brasil]]></country>
@@ -92936,7 +93355,7 @@ vendas; </li><li>Disponibilidade para viagens e atuação em campo; </li><li>Boa
 desenvoltura em apresentações; </li><li>Habilidade de relacionamento interpessoal e condução de
 equipes; </li><li>Organização, proatividade e facilidade de aprendizado.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/portaldecarreirasgrupovenus/18/multiplicador-a-de-treinamento]]></applyUrl>
-    <companyId><![CDATA[42250170]]></companyId>
+    <companyId><![CDATA[90872087]]></companyId>
     <city><![CDATA[Rio Verde]]></city>
     <state><![CDATA[Goiás]]></state>
     <country><![CDATA[Brasil]]></country>
@@ -92955,7 +93374,7 @@ equipes; </li><li>Organização, proatividade e facilidade de aprendizado.</li><
     <posterEmail><![CDATA[andreia.menezes@grupovenusrv.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) profissional para atuar como Business Partner de RH, com forte atuação estratégica junto às lideranças comerciais, proximidade com o negócio e presença constante em campo. Será responsável por apoiar gestores e equipes nas demandas da área, contribuindo para o desenvolvimento, performance e engajamento dos colaboradores. Atuará de forma próxima à operação, fortalecendo o clima organizacional, apoiando ações de atração e retenção de talentos, acompanhando treinamentos e desenvolvimento, além de identificar oportunidades de melhoria contínua alinhadas à cultura e aos resultados da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar as lideranças comerciais na gestão e desenvolvimento das equipes, contribuindo para o alcance das metas e resultados do negócio;</li><li>Acompanhar indicadores, identificando oportunidades de melhoria em desempenho, engajamento e clima organizacional;</li><li>Desenvolver e apoiar treinamentos voltados à performance comercial e atendimento ao cliente;</li><li>Fortalecer a cultura organizacional, promovendo alinhamento entre colaboradores, liderança e objetivos da empresa;</li><li>Atuar como suporte aos gestores na condução de feedbacks, desenvolvimento de equipes e gestão de conflitos;</li><li>Contribuir para ações de reconhecimento, motivação e desenvolvimento contínuo das equipes comerciais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Administração, Psicologia ou áreas correlatas; </li><li>Experiência anterior como BP/RH Generalista em empresa do segmento de varejo; </li><li>CNH B ativa - Desejável; </li><li>Disponibilidade para viagens e flexibilidade de horários; </li><li>Disponibilidade para atuação 100% presencial.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/portaldecarreirasgrupovenus/14/business-partner-de-rh]]></applyUrl>
-    <companyId><![CDATA[42250170]]></companyId>
+    <companyId><![CDATA[90872087]]></companyId>
     <city><![CDATA[Rio Verde]]></city>
     <state><![CDATA[Goiás]]></state>
     <country><![CDATA[Brasil]]></country>
@@ -93014,7 +93433,7 @@ Experiência com gestão de processos e rotinas operacionais;
 Disponibilidade de horário e para viagens;</li><li>
 Domínio do Pacote Office.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/portaldecarreirasgrupovenus/6/gerente-de-vendas-e-operacoes-gvo]]></applyUrl>
-    <companyId><![CDATA[42250170]]></companyId>
+    <companyId><![CDATA[90872087]]></companyId>
     <city><![CDATA[Rio Verde]]></city>
     <state><![CDATA[Goiás]]></state>
     <country><![CDATA[Brasil]]></country>
