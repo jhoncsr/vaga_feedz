@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 16 Jun 2026 18:15:03 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 16 Jun 2026 19:21:41 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3624]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3616]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[af44e496-7dbe-4691-902a-d854dcec3ab5]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -3570,6 +3570,25 @@ geração de novas demandas.  <br /><br /><br /><b>Requisitos e qualificaçõe
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10101/vendas-gerente-de-contas-especialista-hunter]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d30d38cb-dd06-4966-9ff0-530399abcd36]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Especialista DevSecOps]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você fará parte do time de SRE/DevSecOps responsável por uma plataforma de dados e inteligência artificial em arquitetura Cloud Native, base estratégica para diversos produtos da companhia.Será um papel essencial na evolução técnica da plataforma, contribuindo para a confiabilidade, escalabilidade, segurança e eficiência operacional dos ambientes. A pessoa nessa posição atuará na implementação e evolução de práticas de segurança, automação, resiliência e observabilidade, apoiando os times na entrega de software com mais qualidade, agilidade e segurança.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar continuamente a saúde dos sistemas, criar alertas eficazes e contribuir para uma cobertura proativa de incidentes.</li><li>Atuar na resposta a incidentes críticos, apoiando processos de mitigação, comunicação e resolução.</li><li>Participar da gestão de mudanças, atualizações e implantações com foco em segurança, estabilidade e disponibilidade.</li><li>Construir e manter pipelines, bibliotecas e automações para provisionamento, deploy e operação em ambientes Cloud de alta disponibilidade.</li><li>Implementar e evoluir práticas de Security by Design em infraestrutura, aplicações e dados.</li><li>Projetar e evoluir soluções de observabilidade ponta a ponta, integrando logs, métricas, traces e eventos.</li><li>Apoiar a definição e evolução de indicadores de confiabilidade (SLIs, SLOs, MTTR e MTTA).</li><li>Participar de análises pós-incidente (post-mortems blameless), contribuindo para ações corretivas e preventivas.</li><li>Contribuir para a construção de arquiteturas seguras para soluções de dados e inteligência artificial.</li><li>Documentar padrões técnicos, playbooks operacionais e procedimentos de segurança.</li><li>Apoiar a evolução contínua das práticas de SRE, DevOps e DevSecOps da plataforma.</li><li>Integrar controles de segurança aos pipelines CI/CD e apoiar iniciativas de gestão de vulnerabilidades.</li><li>Apoiar auditorias, compliance e iniciativas de governança de segurança.</li><li>Atuar em parceria com times de desenvolvimento, arquitetura e plataforma na adoção de boas práticas de confiabilidade e segurança.</li><li>Promover práticas de Security by Design e Shift Left Security ao longo do ciclo de desenvolvimento.</li><li>Implementar boas práticas de IAM, gestão de segredos, proteção de APIs e workloads Kubernetes.</li><li>Apoiar processos de gestão de vulnerabilidades, análise de riscos e remediação contínua.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Domínio de conceitos de DevSecOps e gestão de incidentes.</li><li>Experiência com automação de infraestrutura e pipelines utilizando Shell, Python, Go, Node.js ou Groovy.</li><li>Experiência com monitoramento e observabilidade distribuída (Prometheus, Grafana, ELK/Elastic Stack, Datadog, New Relic, OpenTelemetry).</li><li>Atuação sólida com Cloud pública (GCP, AWS ou equivalente), incluindo provisionamento, automação e otimização de custos.</li><li>Experiência em CI/CD e DevSecOps, com ferramentas como Git/GitOps, Jenkins, ArgoCD, Maven, SonarQube/Cloud ou equivalentes.</li><li>Proficiência em contêineres e orquestração (Docker, Kubernetes) e Infraestrutura como Código (Terraform, Ansible, CloudFormation ou similares).</li><li>Vivência com serviços de mensageria e data streaming como Kafka, Redis Streams, Google Pub/Sub ou Dataflow.</li><li>Experiência com bancos de dados SQL e NoSQL, incluindo PostgreSQL, AlloyDB, MySQL, MongoDB, Elasticsearch e BigQuery.</li><li>Experiência em troubleshooting e suporte a ambientes distribuídos e sistemas complexos.</li><li>Conhecimento em segurança da informação aplicada a ambientes cloud, incluindo IAM, Secret Management, LGPD, Privacy by Design e práticas de desenvolvimento seguro.</li><li>Familiaridade com ferramentas de análise de segurança e vulnerabilidades (SAST, DAST, SCA e Container Scanning).</li><li>Familiaridade com ambientes de alto volume de dados, tráfego e arquiteturas resilientes.</li><li>Experiência ou interesse em DataOps e MLOps aplicados a plataformas de dados e inteligência artificial.</li><li>Background em arquitetura e desenvolvimento de software, com domínio de versionamento, APIs, microserviços e padrões REST/gRPC.</li><li>Vivência em metodologias ágeis (Scrum, Kanban ou similares).</li><li>Uso de IA assistiva e ferramentas de produtividade como GitHub Copilot, ChatGPT, Claude, Gemini ou similares.</li><li>Capacidade de colaborar e influenciar tecnicamente equipes multidisciplinares, promovendo boas práticas de automação, confiabilidade, observabilidade e segurança.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10627/tech-especialista-devsecops]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -8137,25 +8156,6 @@ Ensino superior completo ou em andamento em Administração, Marketing, Gestão 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[d1503396-3ae7-4748-9e4c-9e4751a6e0a7]]></partnerJobId>
-    <company><![CDATA[Sicoob Unicidades]]></company>
-    <title><![CDATA[Assistente de Recuperação de Crédito e Jurídico - PA 88]]></title>
-    <posterEmail><![CDATA[giovanni.santana@sicoob.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Procuramos um profissional para a Área de Recuperação de Crédito e Jurídico, garantindo a fluidez das rotinas internas. As principais atividades incluem a elaboração, revisão e organização de relatórios e documentos jurídicos, além do controle rigoroso de prazos processuais e atualização de planilhas de indicadores. O colaborador também prestará suporte consultivo e operacional às agências (PA's) para resolver dúvidas da ponta e auxiliará no acompanhamento de processos junto a escritórios de advocacia parceiros.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Suporte Administrativo e Jurídico: Apoiar nas rotinas diárias do setor, garantindo a fluidez dos processos internos.</li><li>Gestão de Documentos: Elaborar, revisar e organizar relatórios técnicos e documentos jurídicos diversos.</li><li>Apoio as Agências: Prestar atendimento e suporte consultivo/operacional aos Pontos de Atendimento (PA's), auxiliando na solução de dúvidas e demandas jurídicas da ponta.</li><li>Controle de Prazos e Indicadores: Acompanhar rigorosamente os prazos processuais, demandas internas e alimentar planilhas de controle do setor.</li><li>Interface com Parceiros: Auxiliar no acompanhamento de processos junto a escritórios de advocacia parceiros.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação Superior Completa ou Cursando em Direito.</li><li>Domínio do Pacote Office (Word, Excel e PowerPoint).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sicoobunicidades/204/assistente-de-recuperacao-de-credito-e-juridico-pa-88]]></applyUrl>
-    <companyId><![CDATA[74199914]]></companyId>
-    <city><![CDATA[Rio Verde]]></city>
-    <state><![CDATA[Goiás]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[f9f12235-6a47-4542-9475-8b517715dbc8]]></partnerJobId>
     <company><![CDATA[Sicoob Unicidades]]></company>
     <title><![CDATA[Assistente de Cadastro - PA 88]]></title>
@@ -11812,54 +11812,6 @@ Formação em Marketing ou áreas correlatas</li>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[63a2b518-259a-4213-a55d-bf0b20c2c1c2]]></partnerJobId>
-    <company><![CDATA[Strati - Full Service Provider]]></company>
-    <title><![CDATA[Estagio Comercial (BackOffice)]]></title>
-    <posterEmail><![CDATA[beatriz.santos@strati.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Fazer acontecer dentro de um time altamente engajado e que busca aprender todos os dias, promovendo aos nossos clientes infraestrutura, segurança e monitoramento de TI de qualidade e excelência. Assim, esperamos que se engaje com a gente, seja uma pessoa que busca entregar o melhor para si mesmo, para os nossos clientes e para nosso time Strati. Buscando sempre, em suas diversas formas, ser especialista no que faz.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />No dia a dia, você irá apoiar o time comercial em atividades como:• Organização de documentos, contratos e propostas comerciais<br />
-• Estruturação e organização de pastas e informações da área comercial<br />
-• Apoio na documentação e melhoria de processos internos<br />
-• Atualização e organização de planilhas e relatórios em Excel<br />
-• Apoio na preparação de materiais para reuniões comerciais<br />
-• Atualização de informações em sistemas e ferramentas comerciais<br />
-• Apoio no levantamento e organização de cotações de hardwares e softwares<br />
-• Auxílio no controle e organização de compras conforme políticas da empresa<br /><br /><b>Requisitos e qualificações</b><br /><br />• Estudantes de Administração, Engenharia de Produção, Sistemas de Informação, TI ou áreas correlatas<br />
-• Conhecimento básico/intermediário em <strong>Excel</strong><br />
-• Perfil organizado e atento a detalhes<br />
-• Interesse em aprender sobre área comercial e tecnologia]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/strati/85/estagio-comercial-backoffice]]></applyUrl>
-    <companyId><![CDATA[11547423]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b0396890-7bc8-47c3-90fe-d27962e1dbab]]></partnerJobId>
-    <company><![CDATA[Strati - Full Service Provider]]></company>
-    <title><![CDATA[Assistente de TI]]></title>
-    <posterEmail><![CDATA[erilaine.barbosa@adn.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>Sua Missão </b><br /><br /><br />Fazer acontecer dentro de um time altamente engajado e que busca aprender todos os dias, promovendo aos nossos clientes infraestrutura, segurança e monitoramento de TI de qualidade e excelência.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar as demandas locais de suporte N1;</li><li>Suporte aos usuários;</li><li>Apoio para resolução de chamados;</li><li>Apoio para identificação de problemas nas estações de trabalho.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação Superior completa ou cursando em áreas da Tecnologia da Informação.</li><li>Experiência prévia com suporte técnico (N1 ou similar);</li><li>Conhecimento em Windows e pacote Office 365;</li><li>Noções básicas de redes;</li><li>Boa comunicação, organização e vontade de aprender sempre.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/strati/87/assistente-de-ti]]></applyUrl>
-    <companyId><![CDATA[11547423]]></companyId>
-    <city><![CDATA[Mata de São João]]></city>
-    <state><![CDATA[Bahia]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[0b0de839-6b50-41ff-a3d4-2ca13a12108f]]></partnerJobId>
@@ -16817,25 +16769,6 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para voc�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[781f886e-5182-4392-bc19-338471d6db5b]]></partnerJobId>
-    <company><![CDATA[Unimarka Distribuidora]]></company>
-    <title><![CDATA[Operador de Logística]]></title>
-    <posterEmail><![CDATA[rh02@unimarka.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa ativa, gosta de estar sempre em movimento e tem vontade de atuar na área de separação e expedição da Logística? <b>Então essa vaga é para você!</b><br /><br /><b><br /></b><br />Vaga destinada também a PCD<b>.</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar no processo logístico de movimentação das mercadorias;</li><li>Realizar a organização, armazenagem e separação dos pedidos;</li><li>Organizar a avaliar o acondicionamento das mercadorias nos veículos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Atenção concentrada a detalhes; </li><li>Foco em resultados;</li><li>Iniciativa; </li><li>Responsabilidade e compromisso.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/1024/operador-de-logistica]]></applyUrl>
-    <companyId><![CDATA[65466539]]></companyId>
-    <city><![CDATA[Duque de Caxias]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[2482fb84-a57b-4670-88c1-4a1ee844b898]]></partnerJobId>
     <company><![CDATA[Unimarka Distribuidora]]></company>
     <title><![CDATA[Supervisor de Merchandising]]></title>
@@ -18836,6 +18769,25 @@ suas expectativas e a se preparar melhor para futuras conversas.<br /><br /><br 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[51dc64ea-0d23-49d1-b771-81bf40b43a3e]]></partnerJobId>
+    <company><![CDATA[H.FOA - Hospital da Fundação Oswaldo Aranha]]></company>
+    <title><![CDATA[Enfermeiro(a)]]></title>
+    <posterEmail><![CDATA[larissa.castro@foa.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é um profissional apaixonado pela área de saúde e acredita no poder da empatia e do cuidado, temos uma oportunidade que pode ser o próximo passo na sua carreira. Venha fazer parte de uma equipe dinâmica e acolhedora, onde seu conhecimento e habilidades poderão impactar a vida de muitas pessoas. Aqui, valorizamos o desenvolvimento contínuo e oferecemos um ambiente colaborativo que incentiva a troca de experiências e o aprendizado. Se você busca um local onde possa não apenas aplicar sua expertise, mas também crescer e se aperfeiçoar, essa é a chance ideal. Junte-se a nós e contribua para transformar o atendimento e promover um cuidado de excelência. Estamos esperando por pessoas como você, que desejam fazer a diferença!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar triagens e atendimentos a pacientes.<br /> - Elaborar e implementar planos de cuidado individualizados.<br /> - Administrar medicamentos e tratamentos prescritos.<br /> - Monitorar sinais vitais e condições de saúde dos pacientes.<br /> - Prestar orientações e informações sobre cuidados de saúde.<br /> - Colaborar com a equipe multidisciplinar para melhorar o atendimento.<br /> - Documentar e registrar informações sobre o estado de saúde dos pacientes.<br /> - Participar de treinamentos e atualizações sobre práticas de enfermagem.<br /> - Garantir a conformidade com normas e protocolos de segurança e higiene.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior em Enfermagem<br /> - Registro ativo no conselho de classe<br /> - Conhecimento em procedimentos de enfermagem<br /> - Habilidade para trabalhar em equipe<br /> - Capacidade de comunicação<br /> - Atenção aos detalhes<br /> - Conhecimento em informática<br /> - Atualização em protocolos e diretrizes de saúde<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/centraldorecrutadorhfoa/80/enfermeiro-a]]></applyUrl>
+    <companyId><![CDATA[1324688]]></companyId>
+    <city><![CDATA[Volta Redonda]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[2bf8361e-c017-45c7-aae3-2e8d23c34312]]></partnerJobId>
     <company><![CDATA[H.FOA - Hospital da Fundação Oswaldo Aranha]]></company>
     <title><![CDATA[Copeiro(a) Hospitalar]]></title>
@@ -19396,25 +19348,6 @@ Conhecimento em pacote Office (especialmente Excel).</li></ul>]]></description>
           <amount><![CDATA[2400.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[9d06140e-3a8b-4b23-9d40-fd0e45e8fba5]]></partnerJobId>
-    <company><![CDATA[Grupo Guaraves]]></company>
-    <title><![CDATA[Aux. Logística]]></title>
-    <posterEmail><![CDATA[leyla.karla@guaraves.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você busca uma oportunidade empolgante no mundo da logística? Estamos procurando por profissionais comprometidos e apaixonados por desafios para integrar nossa equipe como Auxiliar de Logística. Se você deseja fazer parte de uma empresa que valoriza o trabalho em equipe, a busca por excelência e o desenvolvimento profissional, venha se juntar a nós. Sua oportunidade de crescimento e aprendizado aguarda por você. Venha fazer a diferença conosco e contribuir para o sucesso de nossa equipe! Junte-se a nós nessa jornada de crescimento e conquistas. Sua próxima etapa profissional começa aqui.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Receber e conferir mercadorias;<br />- Armazenar produtos no estoque de forma organizada;<br />- Realizar a separação e embalagem de pedidos;<br />- Controlar o estoque de materiais;<br />- Realizar a expedição e entrega de mercadorias;<br />- Zelar pela integridade dos produtos;<br />- Auxiliar no controle de inventário.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo<br />- Conhecimento básico de logística<br />- Boa capacidade de organização<br />- Habilidade para trabalhar em equipe<br />- Facilidade de comunicação<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasguaraves/387/aux-logistica]]></applyUrl>
-    <companyId><![CDATA[6994713]]></companyId>
-    <city><![CDATA[João Pessoa]]></city>
-    <state><![CDATA[Paraíba]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -26232,6 +26165,28 @@ mercado!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>
     <posterEmail><![CDATA[suelemsouza@feso.edu.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional comprometido, que tenha paixão por transformar projetos em realidade e trabalhar com qualidade. Aqui, você participará de projetos desafiadores, contribuindo com uma equipe focada em bons resultados. Valorizamos profissionais que buscam aprimoramento contínuo e excelência em cada detalhe. Se você quer fazer parte de um time que constrói resultados concretos, essa oportunidade é para você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Interpretar projetos, preparar canteiro, montar fôrmas, selecionar, cortar e montar peças de madeira e metal; </li><li>Instalar escoramentos, aplicar desmoldantes e acompanhar a concretagem, garantindo estabilidade e vedação;</li><li>Desencofrar, executar reparos e manutenções, montar portas e esquadrias, e finalizar serviços; seguir normas de segurança;</li><li>Executar pequenos reparos e manutenções em fôrmas reutilizáveis, ferramentas e equipamentos, montar portas e esquadrias;</li><li>Selecionar materiais reutilizáveis, e armazenar peças e equipamentos;</li><li>Cumprir normas de segurança do trabalho, uso obrigatório de EPIs (capacete, luvas, óculos, cinto de segurança, botas) e boas práticas na obra;</li><li>Executar demais atividades inerentes à função.</li></ul><br /><br /><b>Horário de Trabalho:</b> de Segunda-feira à quinta-feira das 06:45h às 16:45h e sexta-feira de 06:45h às 15:45h<br /><br /><br /><b>Local de Trabalho:</b> Campus Quinta do Paraíso, Estr. Venceslau José de Medeiros, 1045 - Prata, Teresópolis – RJ.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo;</li><li>Experiência na área;</li><li>Curso NR35;</li><li>Residir em Teresópolis – vaga 100% presencial<br /><br /></li></ul><b>A Feso valoriza a diversidade e promove a inclusão de Pessoas com Deficiência (PcD). Caso você seja um profissional com deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenafeso/103/carpinteiro]]></applyUrl>
+    <companyId><![CDATA[1251323]]></companyId>
+    <city><![CDATA[Teresópolis]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[44ef9109-2841-4330-9ee1-068fa5095bbc]]></partnerJobId>
+    <company><![CDATA[Fundação Educacional Serra dos Órgãos]]></company>
+    <title><![CDATA[Secretário de Coordenação]]></title>
+    <posterEmail><![CDATA[gloriaalves@feso.edu.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Está em busca de uma oportunidade para crescer, desenvolver suas habilidades e fazer parte de um ambiente dinâmico e colaborativo? Então essa vaga pode ser para você!
+Estamos em busca de profissionais engajados, organizados e com vontade de aprender, que queiram contribuir ativamente para o bom funcionamento da Coordenação de Pós-Graduação e Pesquisa.
+Se você gosta de desafios, valoriza o trabalho em equipe e quer fazer a diferença no dia a dia, venha fazer parte da equipe FESO. Aqui, sua contribuição importa e seu desenvolvimento é incentivado.
+Candidate-se e venha construir essa jornada com a gente!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Organizar reuniões (pauta, agendamento, convocações e registros);</li><li>Controlar e acompanhar prazos, projetos e protocolos de pesquisa;</li><li>Gerir correspondências e realizar encaminhamentos;</li><li>Organizar e manter atualizados documentos, legislações e banco de dados;</li><li>Apoiar o cumprimento de deliberações e processos institucionais;</li><li>Atender público interno e externo em demandas relacionadas à área;</li><li>Apoiar ações educativas, divulgação de eventos e orientação a pesquisadores;</li><li>Elaborar materiais, relatórios e realizar lançamentos administrativos.</li><li>Controlar material de expediente, realizando a requisição de materiais quando necessário, acompanhar orçamento da área;</li><li>Utilizar sistemas acadêmicos;</li><li>Executar demais atividades inerentes à função.</li></ul><br /><br /><br /><br /><b>Horário de Trabalho:</b>  20 horas semanais - Segunda à Sexta das 15h às 19h - vaga 100% presencial<br /><div style="text-align:justify"><b>Local de Trabalho: </b>Campus Sede da FESO - Av. Alberto Torres, 111 - Alto - Teresópolis<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Secretariado, Administração ou áreas correlatas;</li><li>Conhecimento em informática e pacote office;</li><li>Domínio da língua portuguesa, com redação própria e correta (ortografia e gramática);</li><li>Residir em Teresópolis – Vaga 100% presencial.</li></ul><br /><br /><br /><br /><br /><br /><b>A Feso valoriza a diversidade e promove a inclusão de Pessoas com Deficiência (PcD). Caso você seja um profissional com deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenafeso/99/secretario-de-coordenacao]]></applyUrl>
     <companyId><![CDATA[1251323]]></companyId>
     <city><![CDATA[Teresópolis]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
@@ -41450,44 +41405,6 @@ Estamos em busca de pessoas motivadas, proativas e apaixonadas por desafios, que
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[9b50375f-e9e4-4238-9442-9d20446fe2bb]]></partnerJobId>
-    <company><![CDATA[TOTVS Leste]]></company>
-    <title><![CDATA[Executivo de Soluções de Negócios]]></title>
-    <posterEmail><![CDATA[bruna.paula@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />e você está em busca de um novo desafio onde possa impactar positivamente o desenvolvimento de soluções inovadoras, temos uma oportunidade que pode ser exatamente o que você procura. Nossa empresa valoriza a criatividade, a visão estratégica e a capacidade de transformar ideias em resultados tangíveis. Ao se juntar a nós, você terá a chance de colaborar com uma equipe dinâmica e focada em crescimento, além de contribuir para a busca constante de melhorias e excelência em nossos processos. Aqui, incentivamos o aprendizado contínuo e a troca de experiências, criando um ambiente propício para o desenvolvimento profissional e pessoal. Se você é alguém que acredita no potencial transformador de soluções bem elaboradas, venha fazer parte do nosso time e ajudar a moldar o futuro dos negócios!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Identificar e qualificar novas oportunidades de negócio no mercado;</li><li>Realizar prospecção ativa por telefone, e-mail, redes sociais e eventos;</li><li>Estabelecer e cultivar relações fortes com tomadores de decisão (diretores, gestores, proprietários);</li><li>Atuar como principal ponto de contato durante todo o ciclo comercial;</li><li>Apresentar produtos e soluções TOTVS (ERP, CRM, WMS, etc.) de forma clara e persuasiva.</li><li>Conduzir vendas consultivas de soluções de TI (software, cloud, serviços, outsourcing, etc.);</li><li>Identificar dores, desafios e objetivos estratégicos dos clientes, traduzindo-os em soluções tecnológicas;</li><li>Elaborar e apresentar propostas comerciais e técnicas alinhadas às necessidades do cliente;</li><li>Negociar contratos, preços, prazos e condições comerciais, garantindo rentabilidade;</li><li>Atuar como ponto focal entre o cliente e as áreas internas (técnica, pré-vendas, operações e suporte);</li><li>Construir relacionamentos de longo prazo com clientes e decisores estratégicos;</li><li>Acompanhar a jornada do cliente desde a prospecção até o pós-venda;</li><li>Prever estimativas de fechamento (forecast) e reportar resultados à liderança;</li><li>Participar de reuniões de revisão de pipeline e metas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em áreas correlatas;</li><li><b>É necessário ter carro e notebook próprio;</b></li><li>Experiência comprovada em vendas B2B na área de Tecnologia da Informação;</li></ul><br /><ul><li>Vivência com vendas consultivas de soluções tecnológicas (software, serviços, cloud, infraestrutura, segurança, etc.);</li><li>Experiência no relacionamento com clientes corporativos e tomadores de decisão (gestores, diretores e matriz);</li><li>Conhecimento prático em metodologias de vendas, evidenciando abordagem estruturada (SPIN Selling, BANT, Sandlers entre outras);</li><li>Fortes habilidades de comunicação, negociação e escuta ativa;</li><li>Postura centrada no sucesso do cliente, realizando um atendimento de excelência com foco na resolução de problemas;</li><li>Organização e planejamento para cumprir metas em um ambiente de ritmo acelerado;</li><li>Disponibilidade para viagens.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/totvsleste/28/executivo-de-solucoes-de-negocios]]></applyUrl>
-    <companyId><![CDATA[80034046]]></companyId>
-    <city><![CDATA[Vila Velha]]></city>
-    <state><![CDATA[Espírito Santo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[15803f2d-a341-4058-af77-c6ed522f9c43]]></partnerJobId>
-    <company><![CDATA[TOTVS Leste]]></company>
-    <title><![CDATA[Agente de Prospecção de Negócios (SDR)]]></title>
-    <posterEmail><![CDATA[marcella.patello@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais dinâmicos e proativos para se juntar à nossa equipe em uma oportunidade empolgante que promete crescimento e desenvolvimento na área de prospecção e negócios. Se você é uma pessoa apaixonada por ajudar a construir relacionamentos duradouros e impulsionar resultados, esta vaga é feita para você. Oferecemos um ambiente colaborativo, onde o aprendizado contínuo é valorizado e cada ideia pode fazer a diferença. Ao fazer parte da nossa equipe, você terá a chance de contribuir com suas habilidades, se conectar com diferentes áreas e potencializar sua carreira em um setor em constante evolução. Venha fazer parte de um time que acredita no seu potencial e está pronto para crescer junto com você! Junte-se a nós e transforme desafios em oportunidades.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Identificar e qualificar leads de forma consultiva, entendendo dores e necessidades dos potenciais clientes;</li><li>Realizar contato inicial com leads (via telefone, e-mail, redes sociais, entre outros canais);</li><li>Agendar reuniões com os leads qualificados para o time Comercial;</li><li>Alimentar e atualizar o CRM com informações relevantes sobre os leads e interações realizadas;</li><li>Gerar oportunidades de negócio com base em campanhas e ações de prospecção ativa;</li><li>Apoiar ações e eventos de geração de demanda, quando necessário.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação em áreas relacionadas, como Administração, Marketing ou Vendas.<br /> - Experiência prévia em prospecção de clientes ou vendas.<br /> - Habilidade em negociação e comunicação eficaz.<br /> - Capacidade de trabalhar em equipe e de forma autônoma.<br /> - Familiaridade com ferramentas de CRM e software de gestão.<br /> - Conhecimento sobre técnicas de vendas e marketing digital.<br /> - Proatividade e foco em resultados.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/totvsleste/7/agente-de-prospeccao-de-negocios-sdr]]></applyUrl>
-    <companyId><![CDATA[80034046]]></companyId>
-    <city><![CDATA[Vila Velha]]></city>
-    <state><![CDATA[Espírito Santo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[618a8da7-7ad4-4290-a07f-9029eb52d9fc]]></partnerJobId>
     <company><![CDATA[Shineray do Brasil]]></company>
     <title><![CDATA[Auxiliar de Armazém]]></title>
@@ -53328,10 +53245,10 @@ Internos. </li><li>Inglês intermediário a avançado (leitura e escrita)</li></
   <job>
     <partnerJobId><![CDATA[58395a30-932c-4a05-ad74-9a1855895792]]></partnerJobId>
     <company><![CDATA[Better Now Tecnologia]]></company>
-    <title><![CDATA[Desenvolvedor Backend Klotin Sênior]]></title>
+    <title><![CDATA[Desenvolvedor Backend Kotlin Sênior]]></title>
     <posterEmail><![CDATA[ana.cruz@betternow.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <b>Desenvolvedor(a) Backend Kotlin Sênior</b> para atuar no desenvolvimento e sustentação de aplicações críticas, garantindo soluções escaláveis, resilientes e de alta performance em ambientes de grande volumetria transacional. Além da atuação técnica, o profissional será referência na disseminação de boas práticas de engenharia de software e qualidade de código.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver, manter e evoluir aplicações backend utilizando Kotlin.</li><li>Projetar e implementar microsserviços escaláveis e resilientes.</li><li>Garantir a qualidade técnica das entregas por meio de testes automatizados e revisões de código.</li><li>Participar da definição de arquiteturas e decisões técnicas estratégicas.</li><li>Atuar na análise e resolução de problemas complexos em produção.</li><li>Contribuir para a evolução da observabilidade, automação e performance das aplicações.</li><li>Apoiar tecnicamente o time por meio de mentorias, code reviews e disseminação de boas práticas.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Sólida experiência com Kotlin avançado (co-rotinas, escopos, concorrência) e ecossistema Java/JVM.</li><li>Domínio de frameworks web do ecossistema: Spring Boot (Spring Cloud, Data, Security) e/ou Ktor.</li><li>Experiência com Microsserviços, APIs RESTful e boas práticas de arquitetura (SOLID, Clean Architecture, DDD e Hexagonal Architecture).</li><li>Conhecimento avançado em bancos relacionais (PostgreSQL e/ou Oracle), incluindo modelagem, indexação e otimização de queries.</li><li>Perfil analítico, focado em resiliência de software e orientado à resolução de problemas complexos.</li><li>Boa comunicação e colaboração entre times multidisciplinares (Product, QA e DevOps).</li><li>Capacidade de atuar com autonomia, liderança técnica situacional e mentoria de profissionais menos experientes.</li><li>Proatividade em melhorias técnicas, arquiteturais e liderança em sessões de code review.</li><li>Comprometimento com a cultura de qualidade, automação e entrega contínua.</li><li>Vivência com mensageria assíncrona e processamento de eventos (Kafka, RabbitMQ ou AWS SQS/SNS).</li><li>Experiência com testes unitários, integrados e de mutação (JUnit 5, Mockk, AssertJ, Testcontainers).</li><li>Conhecimento em Docker e vivência em ambientes containerizados e orquestrados.</li><li>Experiência com pipelines CI/CD (GitHub Actions, GitLab CI, Jenkins ou Azure DevOps) e ferramentas de build (Gradle ou Maven).</li><li>Vivência com troubleshooting, observabilidade e análise de logs (Prometheus, Grafana, ELK/OpenSearch, Datadog ou New Relic).</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/betternowcarreira/51/desenvolvedor-backend-klotin-senior]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/betternowcarreira/51/desenvolvedor-backend-kotlin-senior]]></applyUrl>
     <companyId><![CDATA[10259841]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -56611,6 +56528,25 @@ Organizar e alimentar o site do Marketing com as demandas gerais (campanhas, wal
     <posterEmail><![CDATA[brenda.tolosa@grupopmz.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por assegurar a correta recepção de peças e acessórios, o devido acondicionamento e uma eficiente expedição das peças, garantindo a organização e limpeza da área de estoque.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Alocar as peças que chegam de rota, transferências, devoluções, em seus respectivos endereços, e realocar quando necessário;</li><li>Separar peças para vendas e transferências conforme o controle de separação na tela do celular;</li><li>Fazer as rotinas da qualidade através do aplicativo a para garantir o bom funcionamento das normas;</li><li>Periodicamente participa do inventário do estoque confrontando a posição física das peças com as quantidades no sistema, para efeitos de controle e posterior contabilização;</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior;  </li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade;</li><li>Cumprir os procedimentos de estoque da loja;</li><li>Cumprir com os horários e jornadas de trabalho determinada pela loja;</li><li>Atualizar-se quanto aos catálogos e novos produtos;</li><li>Participar de treinamentos de atualização;</li><li>Substituir auxiliar de estoque de outras lojas quando solicitado.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo</li><li>Conhecimentos básicos em informática</li><li>Boa capacidade de organização e controle de estoque</li><li>Agilidade e facilidade no manuseio de mercadorias</li><li>Proatividade e disposição para o trabalho em equipe.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/337/ma01-auxiliar-de-estoque]]></applyUrl>
+    <companyId><![CDATA[22287656]]></companyId>
+    <city><![CDATA[São Luís]]></city>
+    <state><![CDATA[Maranhão]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1a5d27be-3c91-4a5f-8e4c-df44cc38d335]]></partnerJobId>
+    <company><![CDATA[Grupo PMZ]]></company>
+    <title><![CDATA[MA01 | MOTORISTA CAT B]]></title>
+    <posterEmail><![CDATA[brenda.tolosa@grupopmz.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável conduzir veículos leves fazendo o transporte de cargas entre as diversas unidades de trabalho: recebe a programação do período, acondicionar a carga a ser transportada e circula pelo roteiro estabelecido zelando pela segurança e integridade das pessoas e volumes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar atividade de entrega de produtos e documentos e/ou transporte de pessoas através da condução de veículos leves a fim de realizar a entrega das mercadorias dentro do prazo e qualidade esperados.</li><li>Executar recebimento de carga através da conferência dos itens da Nota Fiscal a fim de garantir entrega dos itens planejados, evitando falhas no processo.</li><li>Executar entrega de mercadoria através da entrega da Nota Fiscal e conferência dos itens a fim de garantir qualidade do serviço.</li><li>Executar check-list do veículo através da conferência e apontamento de desvio, falhas ou necessidade de manutenção no veículo a fim de garantir seu funcionamento e evitar transtornos nas entregas.</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior.</li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade.</li><li>Zelar por máquinas, equipamentos e materiais através do uso correto e controle de despesas a fim de contribuir com a redução de despesas com manutenções adicionais, evitando danos e prolongando sua vida útil.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Possuir carteira de habilitação categoria B válida.<br />- Experiência anterior como motorista.<br />- Conhecimento em legislação de trânsito.<br />- Habilidade em direção defensiva.<br />- Boa comunicação e relacionamento interpessoal.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/332/ma01-motorista-cat-b]]></applyUrl>
     <companyId><![CDATA[22287656]]></companyId>
     <city><![CDATA[São Luís]]></city>
     <state><![CDATA[Maranhão]]></state>
@@ -76031,68 +75967,6 @@ Comércio Exterior ou Administração.</li><li>Inglês Avançado</li><li>Experi�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[06266e22-00e2-41e0-9a7c-63f9da460666]]></partnerJobId>
-    <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
-    <title><![CDATA[ANALISTA CONTABIL JR]]></title>
-    <posterEmail><![CDATA[bruna.viriato@foxconn.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto para dar um passo significativo em sua carreira? Estamos em busca de profissionais que desejam se destacar em um ambiente dinâmico e inovador. <br />Oferecemos a oportunidade de integrar uma equipe colaborativa, onde o desenvolvimento contínuo e o aprendizado são valorizados, aqui, você terá a chance de contribuir com suas ideias e se envolver em projetos desafiadores que impactam diretamente os resultados da empresa. <br />Se você é alguém que se motiva pelo trabalho em equipe, aprecia a busca por soluções eficientes e acredita no poder da análise cuidadosa, queremos conhecê-lo! <br /><br /><br /><b>Horário: </b>De segunda a sexta das 07h20 às 17h20.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar lançamentos contábeis, Apoiar no fechamento contábil mensal, Conferir e organizar documentos contábeis, conciliação de contas patrimoniais, Atender auditorias, separando documentos e informações, Manter atualizados controles e planilhas contábeis, Seguir normas contábeis e procedimentos internos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Ciências Contábeis com CRC. </li><li>Princípios contábeis e rotinas de lançamentos e conciliações. </li><li>Sistemas: Familiaridade com ERP (preferencialmente SAP). </li><li>Excel: Nível básico/intermediário.</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasbandeirantes/47/analista-contabil-jr]]></applyUrl>
-    <companyId><![CDATA[83475091]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[336f5ad7-bf0e-4cac-bee7-b7c985430a37]]></partnerJobId>
-    <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
-    <title><![CDATA[ANALISTA FISCAL PL]]></title>
-    <posterEmail><![CDATA[bruna.viriato@foxconn.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto para dar um passo significativo em sua carreira? Estamos em busca de profissionais que desejam se destacar em um ambiente dinâmico e inovador. <br />Oferecemos a oportunidade de integrar uma equipe colaborativa, onde o desenvolvimento contínuo e o aprendizado são valorizados, aqui, você terá a chance de contribuir com suas ideias e se envolver em projetos desafiadores que impactam diretamente os resultados da empresa. <br />Se você é alguém que se motiva pelo trabalho em equipe, aprecia a busca por soluções eficientes e acredita no poder da análise cuidadosa, queremos conhecê-lo! <br /><br /><br /><b>Horário: </b>De segunda a sexta das 07h20 às 17h20.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul></ul><li>Realizar a apuração de tributos, garantindo conformidade com a legislação vigente. </li><li>Elaborar e revisar obrigações acessórias, Efetuar a análise fiscal de notas fiscais de entrada e saída.</li><li>Acompanhar alterações na legislação tributária e avaliar impactos nas operações da empresa.</li><li>Apoiar na parametrização de sistemas (ERP/SAP) para correta aplicação fiscal, Atuar na identificação de riscos e oportunidades fiscais, propondo melhorias de processos.</li><li>Prestar suporte às áreas internas, Atender auditorias internas e externas, fornecendo informações e documentações necessárias e Auxiliar no controle de créditos tributários e reconciliações fiscais.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo em Administração
-de Empresas,  Economia ou Ciências Contábeis.</li><li>Inglês Intermediário</li><li>Domínio da legislação tributária de indiretos e retidos na fonte Sistemas: Experiência com ERP SAP e sistemas fiscais.</li></ul><br /><div style="text-align:justify"><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasbandeirantes/46/analista-fiscal-pl]]></applyUrl>
-    <companyId><![CDATA[83475091]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[9d657c39-1c5c-49e8-a551-b2e8e2b27a07]]></partnerJobId>
-    <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
-    <title><![CDATA[MECÂNICO MANUTENÇÃO JR]]></title>
-    <posterEmail><![CDATA[bruna.viriato@foxconn.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto para dar um passo significativo em sua carreira? Estamos em busca de profissionais que desejam se destacar em um ambiente dinâmico e inovador. <br />Oferecemos a oportunidade de integrar uma equipe colaborativa, onde o desenvolvimento contínuo e o aprendizado são valorizados, aqui, você terá a chance de contribuir com suas ideias e se envolver em projetos desafiadores que impactam diretamente os resultados da empresa. <br />Se você é alguém que se motiva pelo trabalho em equipe, aprecia a busca por soluções eficientes e acredita no poder da análise cuidadosa, queremos conhecê-lo! <br /><br /><br /><b>Horário: </b>De segunda a sexta das 07h20 às 17h20.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a manutenção preventiva e
-corretiva mecânica, programada e de emergência em máquinas e equipamentos
-produtivos e instalações prediais, a
-fim de mantê-los em boas condições de uso, bem como garantir a continuidade do
-processo produtivo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formado em técnico mecânica ou mecatrônica;</li><li>Noção em Componentes mecânicos e funcionamento de motores em geral, Hidráulica e pneumática, Solda elétrica, Máquinas e equipamentos produtivos, Layout (Planta Baixa), Ar-condicionado, Microinformática como usuário.	</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasbandeirantes/45/mecanico-manutencao-jr]]></applyUrl>
-    <companyId><![CDATA[83475091]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[3809c6cc-72f5-4684-a3e3-9bd3cc1101ac]]></partnerJobId>
     <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
     <title><![CDATA[TÉCNICO DE TESTES PL]]></title>
@@ -76109,25 +75983,6 @@ documentos e prcedimentos para aprovação do engenheiro de testes e demais
 atividades inerentes ao processo de implementação de novos de produtos e
 produtos correntes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Técnico ou superior completo com CFT ativo.</li><li>Atua como referência técnica, garantindo qualidade, eficiência e implementação de melhores práticas.</li><li>Experiência com scripting batch file, servidores e familiaridade com ferramentas de melhoria contínua</li></ul><br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasbandeirantes/41/tecnico-de-testes-pl]]></applyUrl>
-    <companyId><![CDATA[83475091]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a5743c03-d6e5-4c21-9886-d816e1d6e7a3]]></partnerJobId>
-    <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
-    <title><![CDATA[COMPRADOR INTERNACIONAL SR]]></title>
-    <posterEmail><![CDATA[bruna.viriato@foxconn.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto para dar um passo significativo em sua carreira? Estamos em busca de profissionais que desejam se destacar em um ambiente dinâmico e inovador. <br />Oferecemos a oportunidade de integrar uma equipe colaborativa, onde o desenvolvimento contínuo e o aprendizado são valorizados, aqui, você terá a chance de contribuir com suas ideias e se envolver em projetos desafiadores que impactam diretamente os resultados da empresa. <br />Se você é alguém que se motiva pelo trabalho em equipe, aprecia a busca por soluções eficientes e acredita no poder da análise cuidadosa, queremos conhecê-lo! <br /><br /><br /><b>Horário</b>: De segunda a sexta das 07h20 às 17h20<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atuar no processo de compras, procedendo à análise das demandas de materiais produtivos importados, locais e a colocação de pedidos junto ao fornecedor, a fim de atender as necessidades de produção, dentro dos prazos preestabelecidos.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo em Administração, Comércio Exterior, Engenharia, Economia.</li><li>Inglês avançado para todos dos níveis,</li><li>Domínio na área, ERP (módulo de administração de materiais), Microinformática como usuário, MRP (Material Requirement Planning), SAP.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasbandeirantes/37/comprador-internacional-sr]]></applyUrl>
     <companyId><![CDATA[83475091]]></companyId>
     <city><![CDATA[Jundiaí]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -76221,25 +76076,6 @@ produção, dentro dos prazos preestabelecidos.<br /><br /><b>Requisitos e quali
           <amount><![CDATA[2665.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3a7468dc-5e57-4721-8291-004d3f3935f6]]></partnerJobId>
-    <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
-    <title><![CDATA[ANALISTA DE PLANEJAMENTO DE MATERIAIS PL]]></title>
-    <posterEmail><![CDATA[bruna.viriato@foxconn.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto para dar um passo significativo em sua carreira? Estamos em busca de profissionais que desejam se destacar em um ambiente dinâmico e inovador. <br />Oferecemos a oportunidade de integrar uma equipe colaborativa, onde o desenvolvimento contínuo e o aprendizado são valorizados, aqui, você terá a chance de contribuir com suas ideias e se envolver em projetos desafiadores que impactam diretamente os resultados da empresa. <br />Se você é alguém que se motiva pelo trabalho em equipe, aprecia a busca por soluções eficientes e acredita no poder da análise cuidadosa, queremos conhecê-lo! <br /><br /><br /><b>Horário</b>: De segunda a sexta das 07h20 às 17h20<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Receber e analisar as demandas de materiais produtivos, verificando a consistência das informações, conforme resultado do MRP (Material Requirement Planning), validando ou não as necessidades de compra de materiais; Verificar a disponibilidade de materiais para o atendimento das ordens (PO – Purchase Order) do cliente; Disparar, via sistema, as requisições de compra de materiais produtivos, necessárias ao cumprimento dos programas de produção; Acompanhar a posição do processo de compras, realizando constante follow-up, junto a Compras; Acompanhar e controlar os níveis de inventário de materiais produtivos, em função das flutuações de demandas do cliente.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior em Administração, Logística, Economia, Comércio Exterior, Gestão empresarial.</li><li>Desejável Inglês Intermediário; </li><li>Ter experiência sólida no processo de planejamento e compra de materiais.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasbandeirantes/23/analista-de-planejamento-de-materiais-pl]]></applyUrl>
-    <companyId><![CDATA[83475091]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -82335,6 +82171,70 @@ contribuir para o nosso sucesso coletivo.<br /><br /><b>Responsabilidades e atri
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[2137d5bb-de87-44cb-a718-8a8c22118e7a]]></partnerJobId>
+    <company><![CDATA[MACHETO]]></company>
+    <title><![CDATA[Assistente Administrativo de Logística]]></title>
+    <posterEmail><![CDATA[dho@macheto.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Assistente Administrativo de Logística é responsável por apoiar as atividades administrativas e operacionais do setor logístico, garantindo a organização dos processos de recebimento, armazenagem, expedição e transporte de mercadorias. Atua no acompanhamento de pedidos, controle de documentos, contato com transportadoras e clientes, atualização de sistemas e elaboração de relatórios, contribuindo para a eficiência das operações e o cumprimento dos prazos estabelecidos.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar cotações de fretes junto às transportadoras;
+</li>
+<li>
+Solicitar coletas e coletas reversas;
+</li>
+<li>
+Acompanhar e atualizar planilhas de controle e gestão;
+</li>
+<li>
+Auxiliar nas atividades administrativas e operacionais do setor de logística;
+</li>
+<li>
+Prestar suporte aos demais setores da empresa em assuntos relacionados à logística;
+</li>
+<li>
+Manter contato com transportadoras para alinhamentos, negociações e acompanhamento de ocorrências;
+</li>
+<li>
+Organizar e arquivar documentos físicos e digitais;
+</li>
+<li>
+Realizar follow-up dos pedidos expedidos, acompanhando o status das entregas e solucionando eventuais divergências;
+</li>
+<li>
+Contribuir para a melhoria contínua dos processos internos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação:
+<ul>
+<li>
+Ensino médio completo;
+</li>
+<li>
+Desejável curso técnico ou superior em andamento em Administração, Logística, Processos Gerenciais ou áreas correlatas.</li></ul></li><li>Conhecimentos técnicos:
+<ul>
+<li>
+Pacote Office, especialmente Excel;
+</li>
+<li>
+Rotinas administrativas e logísticas;
+</li>
+<li>
+Emissão e acompanhamento de documentos de transporte;
+</li>
+<li>
+Noções de transporte rodoviário e gestão de fretes;
+</li>
+<li>
+Experiência com sistemas ERP será considerada um diferencial.</li></ul></li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/macheto/10/assistente-administrativo-de-logistica]]></applyUrl>
+    <companyId><![CDATA[98223252]]></companyId>
+    <city><![CDATA[Joinville]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[7a01df50-7ce0-4b2a-9dd7-17619462f86e]]></partnerJobId>
     <company><![CDATA[MACHETO]]></company>
     <title><![CDATA[Social Seller]]></title>
@@ -84041,10 +83941,10 @@ Support the design of spaces for inquiry, wonder and exploration; <br />Documen
   <job>
     <partnerJobId><![CDATA[0e50f9cb-6336-492b-84e2-da9a6dd3c35c]]></partnerJobId>
     <company><![CDATA[Escola Beit Yaacov]]></company>
-    <title><![CDATA[PROFESSOR(A) DE BIOLOGIA - EJA (11 aulas semanais)]]></title>
+    <title><![CDATA[PROFESSOR(A) DE BIOLOGIA - EJA (12 aulas semanais)]]></title>
     <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Planejar, ministrar e avaliar aulas de Biologia para alunos da Educação de Jovens e Adultos (EJA), promovendo a aprendizagem significativa dos conteúdos curriculares e contribuindo para o desenvolvimento acadêmico, crítico e cidadão dos estudantes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Planejar e ministrar aulas de Ciências para o EF e Biologia para o EM da Educação de Jovens e Adultos; Planejar aulas com o foco no desenvolvimento de habilidades; <br />Desenvolver, aplicar e corrigir atividades de caráter formativo e somativo; <br />Participar de reuniões, conselhos de classe, datas de planejamento e projetos interdisciplinares.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Desejável experiência em EJA; Habilidade em conduzir aulas com alunos em diferentes níveis de aprendizagem;  <br />Conhecimento em metodologias ativas, diferenciação pedagógica e inclusão; <br />Domínio das tecnologias e ferramentas Google.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/73/professor-a-de-biologia-eja-11-aulas-semanais]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/73/professor-a-de-biologia-eja-12-aulas-semanais]]></applyUrl>
     <companyId><![CDATA[1336374]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -84734,25 +84634,6 @@ itens decorativos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[422bb9a2-e109-46d5-8046-425d580bf17b]]></partnerJobId>
-    <company><![CDATA[Hipcom ERP]]></company>
-    <title><![CDATA[Atendente]]></title>
-    <posterEmail><![CDATA[marina@hipcom.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca um ambiente dinâmico e acolhedor, onde possa desenvolver suas habilidades, aprender continuamente e contribuir para a organização da empresa, essa pode ser a oportunidade ideal para você! Estamos em busca de um profissional para atuar na área de Atendimento, com perfil organizado, comunicativo, proativo e que goste de lidar com pessoas e rotinas administrativas. Aqui valorizamos a colaboração, o respeito, o bom relacionamento interpessoal e a vontade de crescer profissionalmente, proporcionando um ambiente onde cada pessoa faz a diferença no dia a dia da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimento ao cliente por telefone e/ou pessoalmente; </li><li>Receber, organizar e distribuir as correspondências e encomendas; </li><li>Realizar abertura de chamados, detalhando os problemas relatados pelos clientes e direcioná-los para solução no suporte; </li><li>Realizar controle das agendas das salas de reuniões; </li><li>Auxiliar em atividades administrativas, quando necessário. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Boa comunicação verbal e escrita;- Bom relacionamento interpessoal;<br />- Controle e organização; <br />- Proatividade;<br />- Boa postura profissional;<br />- Inteligência emocional. <br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hipcomcarreiras/6/atendente]]></applyUrl>
-    <companyId><![CDATA[1]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[d0bbe82a-942d-4b29-b1d9-79b3e85522bb]]></partnerJobId>
