@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 18 Jun 2026 16:14:20 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 18 Jun 2026 17:15:10 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3660]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3666]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[af44e496-7dbe-4691-902a-d854dcec3ab5]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -3847,6 +3847,25 @@ geração de novas demandas.  <br /><br /><br /><b>Requisitos e qualificaçõe
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10101/vendas-gerente-de-contas-especialista-hunter]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d88140f6-250b-4260-908e-6f9c601a675b]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de Confiabilidade e DevOps Especialista]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Engenheiro(a) de Confiabilidade e DevOps Espec. para ser a base da infraestrutura e das operações de engenharia dos nossos produtos de software. Nesta posição sênior, você atuará na otimização de todo o ciclo de vida de desenvolvimento de software (SDLC), construirá e manterá ambientes multi-cloud resilientes em AWS e GCP e aplicará princípios de SRE para manter nossos sistemas saudáveis, confiáveis e performáticos em escala. Você definirá os padrões de observabilidade, gestão de incidentes e gestão da mudança, unindo forte senso de engenharia ao uso de ferramentas de IA para resolver problemas operacionais complexos antes que cheguem aos nossos clientes.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Projetar, provisionar e manter infraestrutura e serviços de nuvem em AWS e GCP utilizando Infrastructure as Code (IaC).</li><li>Otimizar o SDLC e dar suporte às esteiras de deploy (CI/CD), promovendo práticas de gestão da mudança seguras, automatizadas e auditáveis.</li><li>Definir e governar políticas de infraestrutura e de desenvolvimento que protejam a confiabilidade e a segurança dos sistemas.</li><li>Implementar observabilidade nos sistemas (métricas, logs, traces, dashboards e alertas) para detectar problemas com antecedência e apoiar decisões.</li><li>Liderar a gestão de incidentes de ponta a ponta, automatizar a resposta a incidentes e produzir Blameless Post-Mortems que transformem falhas em melhorias sistêmicas.</li><li>Conduzir testes de carga, engenharia do caos e planejamento de capacidade para validar a resiliência e antecipar necessidades de escala.</li><li>Definir, acompanhar e reportar indicadores de confiabilidade (SLA, SLI, SLO, Error Budget) e objetivos de equipe (OKRs).</li><li>Aplicar conceitos de engenharia de software para automatizar operações e resolver problemas complexos de infraestrutura.</li><li>Produzir documentação técnica clara e apresentações eficazes para comunicar decisões e resultados às partes interessadas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Graduação em Ciência da Computação, Engenharia ou área correlata (obrigatório).</li><li>Experiência em funções de SRE, DevOps ou engenharia de plataforma/infraestrutura.</li><li>Inglês em nível de trabalho (leitura, escrita e conversação).</li><li>Domínio dos conceitos de confiabilidade: SLA, SLI, SLO e Error Budget.</li><li>Experiência prática em gestão de incidentes e na elaboração de Blameless Post-Mortems.</li><li>Forte capacidade de colaboração e comunicação, com habilidade para redigir documentos claros e objetivos e realizar apresentações a públicos técnicos e não técnicos.</li><li>Plataformas de nuvem (AWS, GCP ou Azure).</li><li>Infrastructure as Code — ex.: Terraform, CloudFormation ou Pulumi.</li><li>Cultura e automação de CI/CD — ex.: Azure DevOps, GitHub Actions, GitLab CI, Jenkins ou ArgoCD.</li><li>Ferramentas de observabilidade — ex.: Datadog, OpenTelemetry, Prometheus, Grafana.</li><li>Contêineres e orquestração — Docker e Kubernetes.</li><li>Técnicas e ferramentas de testes de carga, engenharia do caos e planejamento de capacidade.</li><li>Linguagens de script/programação para automação — ex.: Python, Go ou Bash.</li><li>Domínio de ferramentas de IA para acelerar o trabalho de operações e engenharia.</li><li>Definição e reporte de indicadores e OKRs; boa produção de apresentações em PowerPoint ou Google Slides.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10127/tech-engenharia-de-confiabilidade-e-devops-especialista]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -15730,6 +15749,28 @@ transformar desafios em conquistas conosco!<br /><br /><br /><b>Responsabilidade
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[b04df935-4ec8-4074-85ea-abd7ee8aa9b6]]></partnerJobId>
+    <company><![CDATA[Cordier Investimentos]]></company>
+    <title><![CDATA[Sales Development Representative (SDR) - Sorocaba/SP]]></title>
+    <posterEmail><![CDATA[ilana.ribeiro@cordierinvestimentos.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A posição de SDR/BDR representa o primeiro passo na carreira comercial da Cordier 
+Investimentos. Mais do que gerar reuniões, o profissional será treinado para compreender 
+o mercado financeiro, desenvolver habilidades comerciais e construir uma trajetória de 
+crescimento dentro da organização. <br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar identificação e qualificação de leads através de pesquisas e contato inicial.<br /> - Gerar interesse dos potenciais clientes nos produtos ou serviços oferecidos.<br /> - Agendar reuniões entre leads qualificados e a equipe de vendas.<br /> - Manter registro preciso das interações com os leads em sistema de CRM.<br /> - Colaborar com a equipe de marketing para otimização e alinhamento de estratégias.<br /> - Realizar follow-up com leads para maximizar oportunidades de conversão.<br /> - Analisar o perfil dos leads para direcionamento efetivo das abordagens.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo;</li><li>Graduação em andamento será diferencial;</li><li>Disponibilidade para desenvolvimento contínuo.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cordierinvestimentos/74/sales-development-representative-sdr-sorocaba-sp]]></applyUrl>
+    <companyId><![CDATA[3784752]]></companyId>
+    <city><![CDATA[Sorocaba]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[5ef60332-7b7b-49d2-b48a-c8088fbf7ca6]]></partnerJobId>
     <company><![CDATA[Cordier Investimentos]]></company>
     <title><![CDATA[Gerente de Gente & Gestão]]></title>
@@ -16970,35 +17011,6 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para voc�
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/866/consultor-de-vendas]]></applyUrl>
     <companyId><![CDATA[65466539]]></companyId>
     <city><![CDATA[Jacobina]]></city>
-    <state><![CDATA[Bahia]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[5000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e6ff5966-e23b-48c4-8023-ff3535926cb2]]></partnerJobId>
-    <company><![CDATA[Unimarka Distribuidora]]></company>
-    <title><![CDATA[Consultor de Vendas]]></title>
-    <posterEmail><![CDATA[rh02@unimarka.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é apaixonado por vendas,
-gosta de desenvolver novos negócios, habilidoso com a execução e sonha em
-trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para você!</b><b><br /></b><br />Vaga destinada também a PCD.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Cumpre o planejamento de visitas diário, atendendo os clientes de sua base;</li><li>Faz a verificação da loja quanto a necessidade de produtos, de acordo com o sortimento recomendado para cada ambiente de varejo;</li><li>Apresenta proposta de venda para o cliente com base na verificação, fazendo o fechamento do pedido e acompanhando sua entrega conforme combinado.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Desejável ensino médio completo.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/1042/consultor-de-vendas]]></applyUrl>
-    <companyId><![CDATA[65466539]]></companyId>
-    <city><![CDATA[Jequié]]></city>
     <state><![CDATA[Bahia]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -22849,25 +22861,6 @@ Facilidade para transformar dados complexos em informações claras e acionávei
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreiras/238/gerente-comercial]]></applyUrl>
     <companyId><![CDATA[32120252]]></companyId>
     <city><![CDATA[Balneário Camboriú]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[340f4ff1-a4c0-4323-90e0-367eb0befe4c]]></partnerJobId>
-    <company><![CDATA[Halsten Incorporadora]]></company>
-    <title><![CDATA[Estagiário de Orçamento]]></title>
-    <posterEmail><![CDATA[vanessa.oliveira@halsten.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O estagiário de orçamentos de decoração atuará no setor de orçamentos, apoiando a elaboração e o controle de orçamentos para projetos de decoração de áreas comuns e espaços de uso coletivo. A posição é ideal para estudantes que queiram desenvolver visão técnica e comercial dentro de um ambiente dinâmico de construção e incorporação.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na elaboração de orçamentos de mobiliário, revestimentos, iluminação e demais itens de decoração para empreendimentos da construtora.</li></ul><br /><br />Pesquisar fornecedores, coletar cotações e organizar comparativos de preços para subsidiar decisões de compra.<br /><br />Atualizar e manter planilhas de controle de custos e acompanhamento de propostas com fornecedores.<br /><br />Apoiar a leitura e interpretação de projetos de interiores para identificação de itens a orçar.<br /><br />Acompanhar reuniões com fornecedores, auxiliando no registro de informações<br /><br />Organizar banco de dados de produtos, preços e especificações técnicas.<br /><br />Dar suporte administrativo geral ao time de orçamento<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando Arquitetura e Urbanismo</li></ul><br /><br />Conhecimento intermediário em Excel<br /><br /><ul><li>Interesse por mercado de decoração, tendências de interiores e gestão de custos.</li></ul><br /><br />Boa comunicação escrita e organização pessoal.<br /><br />Disponibilidade para estágio de 6 horas diárias<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreiras/234/estagiario-de-orcamento]]></applyUrl>
-    <companyId><![CDATA[32120252]]></companyId>
-    <city><![CDATA[Joinville]]></city>
     <state><![CDATA[Santa Catarina]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -30766,6 +30759,25 @@ Se você deseja atuar em um ambiente educacional bilíngue, colaborativo e inova
     <posterEmail><![CDATA[chirlei.paim@allwert.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><b>Analista Administrativo de Faciliteis – Showroom</b><br /><b>Objetivo da posição</b><br />Garantir o pleno funcionamento do showroom, atuando de forma integrada na gestão administrativa e operacional, assegurando organização, qualidade do ambiente, suporte às áreas e excelência na experiência de clientes e visitantes.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Gestão Operacional do Showroom</b><br /><ul><li>Assegurar a organização, limpeza e manutenção do showroom</li><li>Acompanhar prestadores de serviço (limpeza, manutenção, segurança, etc.)</li><li>Garantir que o ambiente esteja sempre pronto para atendimento e eventos</li><li>Atuar na resolução rápida de demandas operacionais do dia a dia</li></ul><b>Gestão Administrativa</b><br /><ul><li>Controlar contratos e fornecedores relacionados ao showroom</li><li>Realizar solicitações de compras e controle de insumos</li><li>Apoiar processos administrativos gerais (notas fiscais, pagamentos, controles internos) do showroom</li></ul><b>Suporte às Áreas e Experiência</b><br /><ul><li>Apoiar o time comercial e demais áreas no uso do showroom</li><li>Organizar agenda de uso de espaços, visitas e eventos internos ( entender com a Rose como irá funcionar)</li><li>Garantir padrão de apresentação e experiência do cliente</li><li>Atuar como ponto focal para demandas internas relacionadas ao espaço</li></ul><b>Gestão de Serviços e Infraestrutura</b><br /><ul><li>Monitorar funcionamento de equipamentos e estrutura</li><li>Acionar e acompanhar manutenções preventivas e corretivas</li><li>Garantir cumprimento de padrões e boas práticas</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Perfil esperado</b><br /><ul><li>Organização e senso de prioridade</li><li>Proatividade e agilidade</li><li>Capacidade de resolução de problemas</li><li>Boa comunicação e relacionamento</li><li>Mão na massa (operacional + administrativo)</li></ul><b>Requisitos</b><br /><ul><li>Experiência com rotinas administrativas e/ou facilities</li><li>Vivência com gestão de fornecedores e serviços</li><li>Conhecimento básico em controles financeiros e administrativos</li><li>Pacote Office (principalmente Excel)</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/allwert/197/analista-administrativo-de-facilities]]></applyUrl>
+    <companyId><![CDATA[71175882]]></companyId>
+    <city><![CDATA[Porto Belo]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[9be8fec5-176f-4c1f-9042-f81ea2a2cc65]]></partnerJobId>
+    <company><![CDATA[AllWert Incorporação e Urbanização]]></company>
+    <title><![CDATA[Assistente de Comunicação e Marketing]]></title>
+    <posterEmail><![CDATA[nicole.munhoz@allwert.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Assistente de Comunicação e Marketing Júnior com perfil operacional, organizado e proativo, para apoiar as atividades do time de marketing e comunicação. A pessoa será responsável por executar tarefas do dia a dia da área, garantindo organização de demandas, organização de pautas e cronogramas, apoio na produção de conteúdos e suporte às campanhas e canais da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar na execução de campanhas de marketing e comunicação. </li><li>Auxiliar na revisão de conteúdo para redes sociais e materiais institucionais. </li><li>Apoiar na organização de cronogramas e calendários. </li><li>Organizar materiais de comunicação e banco de imagens.</li><li>Apoiar na interface com designers, fornecedores e outras áreas. </li><li>Auxiliar na cobertura de eventos ou ações de marketing.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior em andamento ou concluído em Comunicação, Marketing, Publicidade, Jornalismo ou áreas relacionadas. Boa comunicação escrita e organização. </li><li>Conhecimento básico de redes sociais e marketing digital. </li><li>Noções de produção de conteúdo. </li><li>Conhecimento em Pacote Office ou Google Workspace.</li></ul><br /><br />Competências comportamentais: <br /><ul><li>Organização e atenção a detalhes. </li><li>Proatividade. </li><li>Boa comunicação. </li><li>Capacidade de trabalhar em equipe. </li><li>Agilidade na execução de tarefas.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/allwert/174/assistente-de-comunicacao-e-marketing]]></applyUrl>
     <companyId><![CDATA[71175882]]></companyId>
     <city><![CDATA[Porto Belo]]></city>
     <state><![CDATA[Santa Catarina]]></state>
@@ -76269,6 +76281,25 @@ Conhecimentos em montagem, ajustes mecânicos e interpretação básica de desen
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[7ab612f4-1a3b-428b-8d37-82dc263110ed]]></partnerJobId>
+    <company><![CDATA[Pharmédice]]></company>
+    <title><![CDATA[Analista de Almoxarifado Pleno]]></title>
+    <posterEmail><![CDATA[rh2@pharmedice.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Missão do Cargo:</b>Garantir a eficiência e a confiabilidade da gestão de materiais e estoques, assegurando a disponibilidade dos recursos às áreas demandantes por meio do controle, organização e otimização das operações de almoxarifado, promovendo a melhoria contínua dos processos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Responsabilidades:</b><ul><li>Receber e analisar as solicitações de materiais conforme POP XXX.</li><li>Acompanhar os recebimentos de mercadorias e garantir a conformidade</li><li>entre pedidos, notas fiscais e produtos recebidos.</li><li>Distribuição Interna: Atender aos pedidos dos funcionários de outros</li><li>setores, separando e entregando o material solicitado.</li><li>Controlar a armazenagem e organização dos materiais, assegurando a</li><li>correta identificação e localização dos itens.</li><li>Monitorar níveis de estoque e apoiar a definição de estoques mínimos e</li><li>máximos.</li><li>Realizar transferência e movimentações de materiais entre unidades. Identificar e reportar materiais vencidos, obsoletos ou avariados e descarte.</li><li>Realizar análises de movimentação e consumo dos materiais. Elaborar relatórios e indicadores da área.</li><li>Planejar e executar inventários periódicos.</li><li>Investigar e tratar divergências de estoque.</li><li>Garantir a acuracidade dos saldos sistêmicos e físicos.</li><li>Apoiar o planejamento de compras; efetuar pedidos de compra para</li><li>reposição do estoque; entrada de notas fiscais; cumprir as normas sanitárias</li><li>e acompanhar auditorias internas e externas.</li><li>Verificar a conformidade dos registros de monitoramento de temperatura e</li><li>umidade.</li><li>Apoiar ações de melhoria contínua dos processos do almoxarifado.</li><li>Cumprir os procedimentos internos e normas de segurança.</li><li>Elaborar, revisar e efetivar procedimentos do setor.</li><li>Zelar pelo patrimônio da empresa.</li><li>Manter a organização das áreas de armazenagem.</li><li>Garantir corredores livres e empilhamentos seguros.</li><li>Fiscalizar a utilização adequada dos EPIs e EPCs.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Competências Técnicas:</b>● Ensino Superior em Gestão de Logística.● Experiência mínima de 1 ano.● Desejável Conhecimento ERP (Protheus, TOTVS).● Conhecimento em Gestão de estoque e inventários.● Conhecimento em Indicadores de desempenho.● Excel intermediário ou avançado.● Competências Comportamentais:● Organização e disciplina.● Capacidade analítica.● Atenção aos detalhes.● Senso de responsabilidade.● Afinidade com tecnologia.● Facilidade para trabalhar com indicadores.● Boa comunicação e relacionamento interpessoal.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/pharmedicetrabalheconosco/28/analista-de-almoxarifado-pleno]]></applyUrl>
+    <companyId><![CDATA[10525323]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[6252379e-727b-4457-a8a0-30a8e23d1cb3]]></partnerJobId>
     <company><![CDATA[Pharmédice]]></company>
     <title><![CDATA[Hunter]]></title>
@@ -88839,6 +88870,63 @@ Conduzir campanhas de saúde (como vacinação, ergonomia, saúde mental, qualid
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[e4098626-877d-4272-802c-72b23385bb69]]></partnerJobId>
+    <company><![CDATA[Ecomaster Química]]></company>
+    <title><![CDATA[ANALISTA DE FROTAS]]></title>
+    <posterEmail><![CDATA[genteegestao@ecomaster.ind.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos à procura de um profissional com experiência em gestão e acompanhamento de veículos e equipamentos para conduzir processos de gestão de abastecimento, pedágios, multas, rastreador e controle de quilometragem, acertos de viagem, checklists, manutenções, sinistros e documentações.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Gestão e acompanhamento de veículos e equipamentos da Companhia;<br />Gestão de abastecimento;<br />Acompanhamento de pedágios;<br />Condução de projetos de otimização de eficiência e geração de economias na frota;<br />Acompanhamento de multas;<br />Acompanhamento de rastreamento dos veículos;<br />Controle de quilometragem e acertos de viagem;<br />Execução, acompanhamento e criação de checklists;<br />Gestão e acompanhamento de manutenções, sinistros e documentações.<br />Outras atividades relacionadas à posição.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Superior em Engenharia, Administração ou correlatas (Em Andamento)<br />Ter experiência comprovada na área de gestão de frotas e/ou manutenção;]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ecomaster/33/analista-de-frotas]]></applyUrl>
+    <companyId><![CDATA[24542888]]></companyId>
+    <city><![CDATA[Uberaba]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[13d22165-9a93-4b57-a88b-04fd52fbf827]]></partnerJobId>
+    <company><![CDATA[Ecomaster Química]]></company>
+    <title><![CDATA[ASSISTENTE / TÉCNICO DE MANUTENÇÃO]]></title>
+    <posterEmail><![CDATA[genteegestao@ecomaster.ind.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma oportunidade para atuar na área de manutenção em um ambiente industrial dinâmico, essa vaga pode ser para você. Buscamos um profissional para atuar com manutenção preventiva e corretiva em instalações prediais, máquinas e equipamentos industriais, garantindo o bom funcionamento das operações. Será responsável por executar inspeções, controlar ordens de serviço e atuar de forma integrada com a equipe de manutenção. Também realizará, quando necessário, a busca de materiais e peças junto a fornecedores.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar manutenção preventiva e corretiva em instalações prediais, máquinas e equipamentos industriais;</li><li>Executar rotas de inspeção, identificando possíveis falhas e oportunidades de melhoria;</li><li>Abrir e encerrar ordens de serviço, garantindo o registro adequado das atividades;</li><li>Instalar, testar e realizar medições em sistemas e componentes eletroeletrônicos;</li><li>Prestar suporte ao auxiliar de manutenção mecânica, atuando de forma integrada;</li><li>Realizar, quando necessário, a busca de materiais e peças em fornecedores;</li><li>Cumprir normas e procedimentos de qualidade, segurança e meio ambiente.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimento em instalações elétricas prediais e industriais</li><li>Habilitação categoria B ativa</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ecomaster/32/assistente-tecnico-de-manutencao]]></applyUrl>
+    <companyId><![CDATA[24542888]]></companyId>
+    <city><![CDATA[Uberaba]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4e1d2ee9-c790-4dd7-a09e-033ce47df132]]></partnerJobId>
+    <company><![CDATA[Ecomaster Química]]></company>
+    <title><![CDATA[AUXILIAR DE PRODUÇÃO]]></title>
+    <posterEmail><![CDATA[genteegestao@ecomaster.ind.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade para desenvolver suas habilidades e crescer em um ambiente dinâmico e colaborativo? <br /><br />Temos uma vaga que pode ser a chance que você esperava! Estamos em busca de um(a) Auxiliar de Produção com foco em Estação de Tratamento de Efluentes, que seja motivado(a), comprometido(a) e disposto(a) a contribuir com um time que valoriza a excelência, a organização e a melhoria contínua.  <br /><br /><br />Aqui, você encontrará um ambiente desafiador, onde cada dia é uma oportunidade de aprender, evoluir profissionalmente e fazer a diferença no processo produtivo.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Operacionalizar o processo de tratamento de efluentes;</li><li>Garantir a higienização e limpeza de embalagens;</li><li>Organizar e zelar pelo local e equipamentos de trabalho;</li><li>Apoiar as atividades produtivas conforme necessário.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Incompleto/cursando</li><li>Organização, responsabilidade e atenção aos detalhes.</li><li>Comprometimento com normas de segurança e qualidade.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ecomaster/31/auxiliar-de-producao]]></applyUrl>
+    <companyId><![CDATA[24542888]]></companyId>
+    <city><![CDATA[Uberaba]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[01a124d6-5987-4fae-87fd-3bb1e690d973]]></partnerJobId>
     <company><![CDATA[Ecomaster Química]]></company>
     <title><![CDATA[RECEPCIONISTA]]></title>
@@ -92900,6 +92988,48 @@ Forte comunicação, liderança e capacidade de influenciar stakeholders;
     <companyId><![CDATA[2693346]]></companyId>
     <city><![CDATA[Lagoa Santa]]></city>
     <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[8ebe6fa4-c257-4ecc-98ef-03ec10fdf22e]]></partnerJobId>
+    <company><![CDATA[VMI Security]]></company>
+    <title><![CDATA[Técnico de Instalação e Manutenção I - SANTOS SP]]></title>
+    <posterEmail><![CDATA[helen.santos@vmis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por realizar manutenção preventiva e corretiva em equipamentos de Raio-X, prestar suporte técnico e treinamentos, elaborar relatórios, realizar inspeções, apoiar a liderança, cumprir normas de qualidade e segurança e colaborar com a engenharia em melhorias e projetos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Manutenção, instalação e desinstalação de equipamentos de pequeno porte;
+</li><li>
+Suporte técnico presencial e remoto, com atendimento de sobreaviso;
+</li><li>
+Treinamentos operacionais para clientes e equipe técnica;
+</li><li>
+Elaboração e registro de relatórios técnicos e administrativos;
+</li><li>
+Vistorias técnicas e inspeções em clientes;
+</li><li>
+Gestão de viagens, despesas, peças e contratos;
+</li><li>
+Apoio à liderança e à engenharia em melhorias e projetos;
+</li><li>
+Cumprimento de normas técnicas, qualidade, segurança, compliance e meio ambiente.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação técnica em Eletrônica ou áreas afins (superior em Eng. Elétrica/Eletrônica como diferencial);</li><li>
+Conhecimentos em NR10, NR35, informática avançada, sistemas operacionais e Linux;
+</li><li>
+Noções de hardware, drivers, BIOS e processos técnicos;
+</li><li>
+Boa comunicação, agilidade, flexibilidade e capacidade de negociação;
+</li><li>
+Facilidade para trabalhar com prazos e foco em redução de custos;
+</li><li>
+CNH categoria B.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/73/tecnico-de-instalacao-e-manutencao-i-santos-sp]]></applyUrl>
+    <companyId><![CDATA[2693346]]></companyId>
+    <city><![CDATA[Santos]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
