@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 19 Jun 2026 12:19:16 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 13:17:28 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3679]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3683]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[af44e496-7dbe-4691-902a-d854dcec3ab5]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -923,6 +923,25 @@ Produção, Química ou áreas correlatas]]></description>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Desenvolver e sustentar funcionalidades de back-end de alta performance, complexidade e escalabilidade, agregando valor ao produto Protheus Insights. Ser responsável por garantir a integridade da arquitetura de dados e de microsserviços, focando na eficiência técnica de soluções que conectam o ecossistema Protheus a componentes modernos em nuvem e inteligência artificial.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolvimento de Soluções de Back-end: Desenvolver soluções técnicas de média e alta complexidade com baixo nível de supervisão e alta autonomia, construindo regras de negócio eficientes tanto no ecossistema Protheus (ADVPL/TLPP) quanto em serviços e APIs baseadas na plataforma .NET (C#);</li><li>Criação de Frameworks e Componentes: Criar estruturas reutilizáveis e frameworks de back-end necessários para o desenvolvimento e evolução contínua das soluções da Squad;</li><li>Garantia de Qualidade e Testes: Criar e executar testes de alta complexidade (manuais ou automatizados), cobrindo o comportamento técnico desejado com foco avançado em testes unitários para validar rotinas de processamento de dados;</li><li>Arquitetura e Contrato de APIs: Desenhar, estruturar e documentar contratos de APIs eficientes, garantindo a padronização e manutenibilidade dos microsserviços;</li><li>Arquitetura de Software: Conhecer a fundo e analisar de forma crítica a arquitetura de sistemas distribuídos e modelos cliente-servidor, atuando ativamente na organização, performance de componentes e melhoria de escalabilidade;</li><li>Mentoria Técnica: Orientar e apoiar desenvolvedores de menor senioridade na resolução de dúvidas, disseminando conhecimento técnico sobre integrações e arquitetura de back-end;</li><li>Engenharia de Requisitos: Detalhar requisitos técnicos e de negócio de média e alta complexidade através do alinhamento direto com clientes e áreas internas envolvidas no projeto;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência: Vivência consolidada e sólida na área de desenvolvimento de software focado em camadas de back-end (mínimo de 5 anos de experiência prática);</li><li>ADVPL / TLPP Avançado: Domínio de lógica de programação, orientação a objetos, criação de classes, funções REST/APIs, leitura e estruturação de códigos complexos no Protheus;</li><li>Ecossistema .NET Avançado: Domínio em desenvolvimento na plataforma .NET (C#) para a criação de serviços robustos, microsserviços, consumo e disponibilização de APIs;</li><li>Design e Documentação de APIs: Conhecimento prático em desenho de arquitetura RESTful e documentação de APIs utilizando Swagger / OpenAPI;</li><li>Metodologias e DevOps: Experiência com práticas ágeis de desenvolvimento, versionamento de código (Git/GitHub/DevOps), mensageria (RabbitMQ) e comunicação via Smartlink;</li><li>Banco de Dados (SQL Server): Nível avançado em banco de dados, escrita e otimização de queries complexas (SELECT, UPDATE, DELETE) e conhecimento analítico dos dicionários de dados do Protheus (SXS);</li><li>Ferramentas e Produtividade: Domínio do VS Code / Visual Studio (configuração de ambientes, uso avançado de recursos de Debug e aplicação prática de IA generativa para eficiência de código, como GitHub Copilot);</li><li>Arquitetura Protheus: Domínio em gestão de arquivos de servidor (AppServer), parametrizações, criação de ambientes de desenvolvimento isolados, restauração de bases de teste e rotinas de atualização;</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10762/tech-engenharia-de-software-fullstack-senior-advpl-net]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d30d38cb-dd06-4966-9ff0-530399abcd36]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Especialista DevSecOps]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você fará parte do time de SRE/DevSecOps responsável por uma plataforma de dados e inteligência artificial em arquitetura Cloud Native, base estratégica para diversos produtos da companhia.Será um papel essencial na evolução técnica da plataforma, contribuindo para a confiabilidade, escalabilidade, segurança e eficiência operacional dos ambientes. A pessoa nessa posição atuará na implementação e evolução de práticas de segurança, automação, resiliência e observabilidade, apoiando os times na entrega de software com mais qualidade, agilidade e segurança.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar continuamente a saúde dos sistemas, criar alertas eficazes e contribuir para uma cobertura proativa de incidentes.</li><li>Atuar na resposta a incidentes críticos, apoiando processos de mitigação, comunicação e resolução.</li><li>Participar da gestão de mudanças, atualizações e implantações com foco em segurança, estabilidade e disponibilidade.</li><li>Construir e manter pipelines, bibliotecas e automações para provisionamento, deploy e operação em ambientes Cloud de alta disponibilidade.</li><li>Implementar e evoluir práticas de Security by Design em infraestrutura, aplicações e dados.</li><li>Projetar e evoluir soluções de observabilidade ponta a ponta, integrando logs, métricas, traces e eventos.</li><li>Apoiar a definição e evolução de indicadores de confiabilidade (SLIs, SLOs, MTTR e MTTA).</li><li>Participar de análises pós-incidente (post-mortems blameless), contribuindo para ações corretivas e preventivas.</li><li>Contribuir para a construção de arquiteturas seguras para soluções de dados e inteligência artificial.</li><li>Documentar padrões técnicos, playbooks operacionais e procedimentos de segurança.</li><li>Apoiar a evolução contínua das práticas de SRE, DevOps e DevSecOps da plataforma.</li><li>Integrar controles de segurança aos pipelines CI/CD e apoiar iniciativas de gestão de vulnerabilidades.</li><li>Apoiar auditorias, compliance e iniciativas de governança de segurança.</li><li>Atuar em parceria com times de desenvolvimento, arquitetura e plataforma na adoção de boas práticas de confiabilidade e segurança.</li><li>Promover práticas de Security by Design e Shift Left Security ao longo do ciclo de desenvolvimento.</li><li>Implementar boas práticas de IAM, gestão de segredos, proteção de APIs e workloads Kubernetes.</li><li>Apoiar processos de gestão de vulnerabilidades, análise de riscos e remediação contínua.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Domínio de conceitos de DevSecOps e gestão de incidentes.</li><li>Experiência com automação de infraestrutura e pipelines utilizando Shell, Python, Go, Node.js ou Groovy.</li><li>Experiência com monitoramento e observabilidade distribuída (Prometheus, Grafana, ELK/Elastic Stack, Datadog, New Relic, OpenTelemetry).</li><li>Atuação sólida com Cloud pública (GCP, AWS ou equivalente), incluindo provisionamento, automação e otimização de custos.</li><li>Experiência em CI/CD e DevSecOps, com ferramentas como Git/GitOps, Jenkins, ArgoCD, Maven, SonarQube/Cloud ou equivalentes.</li><li>Proficiência em contêineres e orquestração (Docker, Kubernetes) e Infraestrutura como Código (Terraform, Ansible, CloudFormation ou similares).</li><li>Vivência com serviços de mensageria e data streaming como Kafka, Redis Streams, Google Pub/Sub ou Dataflow.</li><li>Experiência com bancos de dados SQL e NoSQL, incluindo PostgreSQL, AlloyDB, MySQL, MongoDB, Elasticsearch e BigQuery.</li><li>Experiência em troubleshooting e suporte a ambientes distribuídos e sistemas complexos.</li><li>Conhecimento em segurança da informação aplicada a ambientes cloud, incluindo IAM, Secret Management, LGPD, Privacy by Design e práticas de desenvolvimento seguro.</li><li>Familiaridade com ferramentas de análise de segurança e vulnerabilidades (SAST, DAST, SCA e Container Scanning).</li><li>Familiaridade com ambientes de alto volume de dados, tráfego e arquiteturas resilientes.</li><li>Experiência ou interesse em DataOps e MLOps aplicados a plataformas de dados e inteligência artificial.</li><li>Background em arquitetura e desenvolvimento de software, com domínio de versionamento, APIs, microserviços e padrões REST/gRPC.</li><li>Vivência em metodologias ágeis (Scrum, Kanban ou similares).</li><li>Uso de IA assistiva e ferramentas de produtividade como GitHub Copilot, ChatGPT, Claude, Gemini ou similares.</li><li>Capacidade de colaborar e influenciar tecnicamente equipes multidisciplinares, promovendo boas práticas de automação, confiabilidade, observabilidade e segurança.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10627/tech-especialista-devsecops]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -4419,25 +4438,6 @@ geração de novas demandas.  <br /><br /><br /><b>Requisitos e qualificaçõe
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Ser a ponte estratégica entre o Data Warehouse e as decisões de negócio, extraindo<br />valor do ecossistema de dados estruturados para subsidiar diretamente Tribe Leads<br />e Product Managers com insights que impulsionem o crescimento do produto.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />● Utilizar SQL para consumir dados já normalizados, estruturando visões específicas<br />para análise na camada de negócio;<br />● Construir, monitorar e analisar indicadores críticos de performance e suas interações<br />(LTV, Cohort, CAC e Churn);<br />● Desenvolver estudos de inteligência de portfólio, como análise de cesta (cross-sell) e<br />histogramas de recência/frequência;<br />● Criar dashboards robustos utilizando técnicas de Data Storytelling, transformando<br />dados complexos em narrativas claras que habilitem tomadas de decisão rápidas<br />pelos stakeholders.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>● Domínio de SQL Intermediário/Avançado, com foco em Selects, Joins, CTEs e</b><br /><b>funções de janela (Window Functions);</b><br /><b>● Experiência avançada com pelo menos uma ferramenta de visualização de dados</b><br /><b>(Power BI, Tableau ou Looker), incluindo criação de medidas e cálculos complexos</b><br /><b>(DAX, Calculated Fields, etc.);</b><br /><b>● Habilidade com Excel/Google Sheets para análises rápidas e prototipagem de</b><br /><b>modelos financeiros ou estatísticos;</b><br /><b>● Sólido conhecimento de métricas de Growth, gestão de produtos e modelos de</b><br /><b>negócio SaaS.</b><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10577/dados-analista-de-bi-e-inteligencia-de-mercado-senior]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[d30d38cb-dd06-4966-9ff0-530399abcd36]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Especialista DevSecOps]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você fará parte do time de SRE/DevSecOps responsável por uma plataforma de dados e inteligência artificial em arquitetura Cloud Native, base estratégica para diversos produtos da companhia.Será um papel essencial na evolução técnica da plataforma, contribuindo para a confiabilidade, escalabilidade, segurança e eficiência operacional dos ambientes. A pessoa nessa posição atuará na implementação e evolução de práticas de segurança, automação, resiliência e observabilidade, apoiando os times na entrega de software com mais qualidade, agilidade e segurança.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar continuamente a saúde dos sistemas, criar alertas eficazes e contribuir para uma cobertura proativa de incidentes.</li><li>Atuar na resposta a incidentes críticos, apoiando processos de mitigação, comunicação e resolução.</li><li>Participar da gestão de mudanças, atualizações e implantações com foco em segurança, estabilidade e disponibilidade.</li><li>Construir e manter pipelines, bibliotecas e automações para provisionamento, deploy e operação em ambientes Cloud de alta disponibilidade.</li><li>Implementar e evoluir práticas de Security by Design em infraestrutura, aplicações e dados.</li><li>Projetar e evoluir soluções de observabilidade ponta a ponta, integrando logs, métricas, traces e eventos.</li><li>Apoiar a definição e evolução de indicadores de confiabilidade (SLIs, SLOs, MTTR e MTTA).</li><li>Participar de análises pós-incidente (post-mortems blameless), contribuindo para ações corretivas e preventivas.</li><li>Contribuir para a construção de arquiteturas seguras para soluções de dados e inteligência artificial.</li><li>Documentar padrões técnicos, playbooks operacionais e procedimentos de segurança.</li><li>Apoiar a evolução contínua das práticas de SRE, DevOps e DevSecOps da plataforma.</li><li>Integrar controles de segurança aos pipelines CI/CD e apoiar iniciativas de gestão de vulnerabilidades.</li><li>Apoiar auditorias, compliance e iniciativas de governança de segurança.</li><li>Atuar em parceria com times de desenvolvimento, arquitetura e plataforma na adoção de boas práticas de confiabilidade e segurança.</li><li>Promover práticas de Security by Design e Shift Left Security ao longo do ciclo de desenvolvimento.</li><li>Implementar boas práticas de IAM, gestão de segredos, proteção de APIs e workloads Kubernetes.</li><li>Apoiar processos de gestão de vulnerabilidades, análise de riscos e remediação contínua.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Domínio de conceitos de DevSecOps e gestão de incidentes.</li><li>Experiência com automação de infraestrutura e pipelines utilizando Shell, Python, Go, Node.js ou Groovy.</li><li>Experiência com monitoramento e observabilidade distribuída (Prometheus, Grafana, ELK/Elastic Stack, Datadog, New Relic, OpenTelemetry).</li><li>Atuação sólida com Cloud pública (GCP, AWS ou equivalente), incluindo provisionamento, automação e otimização de custos.</li><li>Experiência em CI/CD e DevSecOps, com ferramentas como Git/GitOps, Jenkins, ArgoCD, Maven, SonarQube/Cloud ou equivalentes.</li><li>Proficiência em contêineres e orquestração (Docker, Kubernetes) e Infraestrutura como Código (Terraform, Ansible, CloudFormation ou similares).</li><li>Vivência com serviços de mensageria e data streaming como Kafka, Redis Streams, Google Pub/Sub ou Dataflow.</li><li>Experiência com bancos de dados SQL e NoSQL, incluindo PostgreSQL, AlloyDB, MySQL, MongoDB, Elasticsearch e BigQuery.</li><li>Experiência em troubleshooting e suporte a ambientes distribuídos e sistemas complexos.</li><li>Conhecimento em segurança da informação aplicada a ambientes cloud, incluindo IAM, Secret Management, LGPD, Privacy by Design e práticas de desenvolvimento seguro.</li><li>Familiaridade com ferramentas de análise de segurança e vulnerabilidades (SAST, DAST, SCA e Container Scanning).</li><li>Familiaridade com ambientes de alto volume de dados, tráfego e arquiteturas resilientes.</li><li>Experiência ou interesse em DataOps e MLOps aplicados a plataformas de dados e inteligência artificial.</li><li>Background em arquitetura e desenvolvimento de software, com domínio de versionamento, APIs, microserviços e padrões REST/gRPC.</li><li>Vivência em metodologias ágeis (Scrum, Kanban ou similares).</li><li>Uso de IA assistiva e ferramentas de produtividade como GitHub Copilot, ChatGPT, Claude, Gemini ou similares.</li><li>Capacidade de colaborar e influenciar tecnicamente equipes multidisciplinares, promovendo boas práticas de automação, confiabilidade, observabilidade e segurança.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10627/tech-especialista-devsecops]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -9566,6 +9566,84 @@ construção civil (diferencial).</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mutualengenharia/91/porteiro-controlador-de-acesso]]></applyUrl>
     <companyId><![CDATA[1366310]]></companyId>
     <city><![CDATA[Boituva]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[32e13960-c402-48a5-89ef-b20f227f1f74]]></partnerJobId>
+    <company><![CDATA[Mutual Engenharia]]></company>
+    <title><![CDATA[Engenheiro Civil/Produção]]></title>
+    <posterEmail><![CDATA[bruno.meneghello@mutual.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Aqui, valorizamos profissionais que buscam não apenas um emprego, mas uma jornada de crescimento e desenvolvimento pessoal e profissional. Oferecemos um ambiente inspirador, onde a colaboração e a troca de ideias são fundamentais para o sucesso coletivo. Estamos ansiosos para conhecer suas experiências e como você pode se integrar ao nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li> Gerenciar a equipe de trabalho mediante definição de prioridades e atribuições. Utilizando as ferramentas e projetos definidos pela empresa. Apoiando no desenvolvimento individual de seus liderados através de treinamentos, promoções, transferências, seleção, medidas disciplinares, avaliações de desempenho etc. <br /></li><li>Acompanhar e analisar os projetos e escopo do contrato da obra quanto as alterações, otimizações, recursos tecnológicos, e legislação, contatar projetistas, observar oportunidades de melhorias e soluções obtidas a fim de instruir sua equipe para a adequação/regularização dos procedimentos internos;</li><li>Apoiar o Gerente de Contrato no cumprimento das metas de produção, dentro dos padrões de qualidade, quantidade, custos e prazo estabelecidos pela empresa;</li><li>Distribuir e supervisionar conforme o planejamento de curto e médio prazo das atividades dos engenheiros de menor hierarquia e profissionais técnicos destacados para o projeto (mestres, topógrafos e encarregados e MOD), acompanhando e orientando o andamento dos trabalhos, de modo a avaliar os resultados obtidos;</li><li>Participar do pull planning ( definição do cronograma da obra - longo prazo) no início do contrato;</li><li>Participar da reunião semanal a lookahead (reunião de planejamento para as próximas 6 semanas) a fim de analisar as possíveis, restrições envolvendo os stakeholders internos e externos, garantindo o compromisso de todos para o andamento das atividades semanais;</li><li>Programar e detalhar, em conjunto com a área de planejamento, na reunião de curto prazo as atividades semanais de acordo com o planejamento da obra. Distribuindo essas atividades para todos os líderes da obra e fazer o acompanhamento das reuniões de forma diária por meio de check in e checkout;</li><li>Auxiliar os Líderes dos Times de Produção na execução e direção da obra, estudando características e preparando planos, métodos de trabalho e demais dados requeridos, a fim de orientar a construção, manutenção e reparo de obras dentro dos padrões técnicos exigidos;</li><li>Analisar todas as soluções de engenharia e quantificar os insumos necessários para execução do projeto. Avaliando juntamente com o setor de Planejamento/Custo se estão de acordo com o escopo contratado da obra, após a análise enviar a requisição para o Suprimentos contratar. Acompanhar todas as entregas de materiais e mobilização de equipamentos/ equipes de fornecedores;</li><li>Realizar a gestão de contrato de terceiros (Envolvendo as área SSO, Efetivo, Materiais e Equipamento), verificando as quantidades e prazos a fim de realizar as medições;</li><li>Validar o boletim de medição envidado pelo fornecedor e encaminhar para o setor de planejamento;	</li><li>Executar as obras conforme especificações, Procedimentos da Qualidade, Instruções de Trabalho e/ou normas, quando aplicáveis;</li><li>Acompanhar junto ao almoxarife a necessidade de compras de materiais e equipamentos a fim de garantir a realização das atividades conforme a programação;</li><li>Contribuir para a minimização das ocorrências de acidentes do trabalho nos canteiros de obras, através das rotinas diárias da Cruz de Segurança, estimulando aos seus colaboradores quanto ao uso correto dos equipamentos de proteção individual ou tomando medidas indicadas para a manutenção da segurança no canteiro de obras;</li><li>Estudar detalhadamente os projetos a serem executados, objetivando antecipar-se as minúcias técnicas, quantidades, tipos de materiais a serem empregados, e, necessidades de mão de obra;	 </li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
+ <li>Graduação em Engenharia Civil e/ou áreas afins.<br /></li><li>Pacote Office Avançado<br /></li><li>Conhecimento em Autocad, Leitura e interpretação de projetos</li>   <br /><br /></ul><ul>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mutualengenharia/97/engenheiro-civil-producao]]></applyUrl>
+    <companyId><![CDATA[1366310]]></companyId>
+    <city><![CDATA[Guarujá]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[83db3bd1-2694-4410-bb9e-9616c6ebc848]]></partnerJobId>
+    <company><![CDATA[Mutual Engenharia]]></company>
+    <title><![CDATA[Técnico de Qualidade]]></title>
+    <posterEmail><![CDATA[bruno.meneghello@mutual.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Aqui, valorizamos profissionais que buscam não apenas um emprego, mas uma jornada de crescimento e desenvolvimento pessoal e profissional. Oferecemos um ambiente inspirador, onde a colaboração e a troca de ideias são fundamentais para o sucesso coletivo. Estamos ansiosos para conhecer suas experiências e como você pode se integrar ao nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar acompanhamento das não conformidades, suas disposições e ações corretivas resultantes das auditorias;</li><li>Realizará atividades de gestão da qualidade, envolvendo a análise de normas, organização de documentação e outras atividades de apoio administrativo, visando contribuir para o alcance dos objetivos estabelecidos pela empresa;</li><li>Inspecionam o recebimento e organizam o armazenamento e movimentação de insumos;</li><li>Verificam conformidade de processos;</li><li>Liberam produtos e serviços;</li><li>Trabalhar de acordo com normas e procedimentos técnicos de qualidade e segurança;</li><li>Assessorar os gerentes e facilitadores da empresa na implantação das atividades do sistema de gestão da qualidade, visando garantir sua execução dentro dos padrões estabelecidos;</li><li>Atuar na gestão do sistema de qualidade, levantamento de não conformidades e ações corretivas e preventivas. Monitorar os indicadores e análise crítica;</li><li>Estabelecer e implementar os Planos de Qualidade em obras de construção pesada ou construção Civil e demais atividades da função.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação em Engenharia Civil e/ou áreas afins.</li><li>Pacote Office Avançado</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mutualengenharia/96/tecnico-de-qualidade]]></applyUrl>
+    <companyId><![CDATA[1366310]]></companyId>
+    <city><![CDATA[Guarujá]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[bd2ca8b1-11a3-443a-bc13-8f7391d93a3c]]></partnerJobId>
+    <company><![CDATA[Mutual Engenharia]]></company>
+    <title><![CDATA[Técnico de Segurança do Trabalho]]></title>
+    <posterEmail><![CDATA[bruno.meneghello@mutual.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Aqui, valorizamos profissionais que buscam não apenas um emprego, mas uma jornada de crescimento e desenvolvimento pessoal e profissional. Oferecemos um ambiente inspirador, onde a colaboração e a troca de ideias são fundamentais para o sucesso coletivo. Estamos ansiosos para conhecer suas experiências e como você pode se integrar ao nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar atividades prevencionistas</li><li>Inspecionar locais, condições de trabalho, instalações, ferramentas e equipamentos</li><li>Realizar treinamentos sobre a correta utilização dos EPIs</li><li>Dimensionar os EPIs necessários para o canteiro de obras</li><li>Fiscalizar e exigir a pronta correção das condições e atos inseguros</li><li>Efetuar a integração dos novos colaboradores</li><li>Investigar e analisar as causas de acidentes ocorridos</li><li>Implantar e realizar a manutenção da CIPA</li><li>Participar de projetos e programas da empresa</li></ul>Disponibilidade para viagens <br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação técnica em Segurança do Trabalho.</li><li>Experiência comprovada na área de segurança em ambientes de construção civil.</li><li>Conhecimento em legislação de segurança do trabalho.</li><li>Capacidade de liderança e comunicação eficaz.</li><li>Foco em resultados e resolução de problemas.</li><li>Pacote office intermediário</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mutualengenharia/95/tecnico-de-seguranca-do-trabalho]]></applyUrl>
+    <companyId><![CDATA[1366310]]></companyId>
+    <city><![CDATA[Guarujá]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[16599aa2-2e0b-4c60-af3a-efff6c894d46]]></partnerJobId>
+    <company><![CDATA[Mutual Engenharia]]></company>
+    <title><![CDATA[Gerente de contrato]]></title>
+    <posterEmail><![CDATA[bruno.meneghello@mutual.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Aqui, valorizamos profissionais que buscam não apenas um emprego, mas uma jornada de crescimento e desenvolvimento pessoal e profissional. Oferecemos um ambiente inspirador, onde a colaboração e a troca de ideias são fundamentais para o sucesso coletivo. Estamos ansiosos para conhecer suas experiências e como você pode se integrar ao nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Gerenciar a equipe de trabalho mediante definição de prioridades e atribuições. Utilizando as ferramentas e projetos definidos pela empresa. Apoiando no desenvolvimento individual de seus liderados através de treinamentos, promoções, transferências, seleção, medidas disciplinares, avaliações de desempenho etc. - Responsável por assegurar os objetivos de cada contrato nos quesitos de segurança, qualidade, custo e prazo;<br />- Promover o desenvolvimento, gerindo a equipe, liderando os trabalhos;<br />- Gerenciar a equipe proporcionando ferramentas para o desenvolvimento de cada colaborador;<br />- Representar a empresa perante os Stakeholders das Obras;<br />- Assegurar que os processos e procedimentos estabelecidos no SIG sejam atendidos em plenitude nas obras;<br />- Realizar gestão de até 3 a 5 obras de pequeno e médio porte simultaneamente, ou exclusivamente de 1 (uma) obra de grande porte/complexidade;<br />- Elaborar e seguir o Plano de Gestão de Obra (PGO);<br />- Desenvolver estratégias de ganho de produção, para cumprimento/antecipação do prazo de obra e maximização de resultado financeiro;<br />- Analisar criticamente o projeto antes do início da obra, mitigando riscos e inconsistências para assegurar a empresa e minimizar os impactos;<br />- Responsável por garantir condições de excelência nas condições de trabalho e alojamento de funcionários e terceiros;<br />- Apresentar mensalmente à Direção os resultados das obras sob sua gestão;<br />- Entregar o projeto ao Cliente, atuando para superar suas expectativas com excelência;<br />- Atuar fortemente no planejamento das atividades, puxando a realização do 6WLA (Six Week Look Ahead) e do plano semanal de produção;<br />- Ir ao local onde as coisas acontecem (GEMBA): possuir atitude de ir ao Gemba constantemente, antes de tomar as decisões. Decidir analisando os fatos e observando o que está acontecendo no Gemba;	<br />- Garantir e cumprir as rotinas administrativas pré-estabelecidas pela empresa;<br />- Seguir e fortalecer na obra as normas de segurança, qualidade e meio ambiente.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Graduação em Engenharia Civil e/ou áreas afins;Necessário registro no respectivo conselho de classe.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mutualengenharia/94/gerente-de-contrato]]></applyUrl>
+    <companyId><![CDATA[1366310]]></companyId>
+    <city><![CDATA[Guarujá]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -18279,33 +18357,6 @@ fazer a diferença conosco!<br /><br /><b>Responsabilidades e atribuições</b><
     <companyId><![CDATA[10201016]]></companyId>
     <city><![CDATA[Rio das Pedras]]></city>
     <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1954980c-3a31-4226-9fe6-71c8c3db376b]]></partnerJobId>
-    <company><![CDATA[Transmartins]]></company>
-    <title><![CDATA[Supervisor Operacional]]></title>
-    <posterEmail><![CDATA[rh2@transmartins.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Dar suporte ao Setor Operacional e Logística, atuando como ponte entre Encarregados e
-Gerência, visando a melhoria dos processos operacionais.<br /><br /><i><b>Todas as nossas vagas são elegíveis para PCD (Pessoa com Deficiência).</b></i><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />1. Planejar diariamente as rotinas do Setor operacional. 2. Prestar suporte ao setor de logística (contratação TAC spot). 3. Pesquisar preços TAC spot (alinhamento com logística). 4. Garantir o cumprimento da política de contratação de agregados (POL-LOG-001). 5. Dar suporte aos Encarregados Operacionais. 6. Controlar equipamentos logísticos (madeirites, cintas, catracas, paletes). 7. Controlar fluxo de produtos químicos. 8. Controlar equipamentos para transporte de produtos químicos (kit emergência,
-extintor, cones). 9. Dar suporte ao setor de ocorrências (extravios e sinistros). 10. Analisar tarifamento e cubagem das cargas. 11. Dar suporte ao RH, aplicando treinamentos operacionais (rotinas da operação,
-transporte de produtos químicos, arrumação e amarração de cargas, pesagem/cubagem). 12. Atuar junto ao gestor imediato no suporte ao controle do orçamento da área,
-conforme diretrizes e práticas orçamentárias recebidas, deliberando sobre a melhor
-alocação dos recursos conforme estratégias definidas. 13. Participar de treinamentos e reciclagens determinados pela empresa. 14. Atuar no apoio ao gestor imediato nos processos inerentes à sua área de atuação
-usufruindo da experiência para o autodesenvolvimento. 15. Executar a implantação de planos de trabalho e procedimentos do setor, efetivando
-e acompanhando as ações técnicas necessárias, a fim de alcançar os objetivos e metas
-estabelecidas.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação superior completa em áreas relacionadas (Logística, administração, engenharia de produção, Etc).<br /> Experiência prévia em supervisão ou coordenação de equipes.<br /> Conhecimento em processos operacionais e de melhoria contínua.<br /> Habilidade em gestão de tempo e priorização de tarefas.<br /> Capacidade de liderança e motivação de equipe.<br /> Comunicação clara e eficaz, tanto verbal quanto escrita.<br /> Familiaridade com ferramentas de gestão e relatórios operacionais.<br /> Disponibilidade para trabalhar em horários flexíveis, se necessário.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/transmartins/102/supervisor-operacional]]></applyUrl>
-    <companyId><![CDATA[65902004]]></companyId>
-    <city><![CDATA[Serra]]></city>
-    <state><![CDATA[Espírito Santo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -41331,25 +41382,6 @@ Engenharia química, e áreas afins;</li><li>Conhecimento pacote Office (Word, E
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[f346c788-fb8b-433d-8d63-ea2a2f11b6c2]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Jovem Aprendiz - Administrativo]]></title>
-    <posterEmail><![CDATA[maria.batista@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Boas noções de português, matemática e raciocínio lógico</li><li>Residir em Delta</li><li>Total disponibilidade de horário para frequentar aulas teóricas e práticas</li><li>Noções básicas de informática</li><li>Curiosidade e interesse pelo aprendizado</li><li>Alta Energia para atuar em ambiente dinâmico e acelerado.</li><li><br /></li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />-]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1714/jovem-aprendiz-administrativo]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Delta]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[1034463d-78d3-447a-a8b7-ca214086289e]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
     <title><![CDATA[Analista Comercial - Logística e Transportes]]></title>
@@ -42121,6 +42153,25 @@ Disponibilidade para viagens.</li>]]></description>
     <companyId><![CDATA[80034046]]></companyId>
     <city><![CDATA[Vitória da Conquista]]></city>
     <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[bb4519c1-027e-41da-ad62-a94ba8ab8383]]></partnerJobId>
+    <company><![CDATA[TOTVS Leste]]></company>
+    <title><![CDATA[Agente de Prospecção de Negocios (SDR)]]></title>
+    <posterEmail><![CDATA[bruna.paula@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><li>Prospectar e desenvolver novas oportunidades de negócios, ampliando a base de potenciais clientes;</li><li>Qualificar leads, identificando aderência ao perfil ideal de cliente e potencial de conversão;</li><li>Realizar abordagens consultivas por telefone, e-mail, LinkedIn e demais canais de prospecção;</li><li>Agendar reuniões estratégicas entre leads qualificados e o time comercial;</li><li>Registrar, atualizar e acompanhar informações e interações no CRM, garantindo a qualidade dos dados;</li><li>Conduzir ações de follow-up para avançar os leads nas etapas do funil de vendas;</li><li>Apoiar o time comercial com informações relevantes sobre o perfil, desafios e necessidades dos clientes;</li><li>Colaborar na identificação e geração de novas oportunidades de negócio e parcerias estratégicas;</li><li>Dar suporte em eventos, feiras e ações de geração de demanda, contribuindo para a captação e relacionamento com potenciais clientes</li><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Responsável pela identificação e qualificação de leads, geração de oportunidades de negócio, agendamento de reuniões para o time Comercial e apoio às iniciativas e eventos de geração de demanda, contribuindo para o crescimento do pipeline de vendas.<br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino superior cursando ou concluído em Marketing, Administração, Gestão Comercial, Publicidade e Propaganda ou áreas correlatas;</li><li>Experiência mínima de 1 ano com prospecção, pré-vendas, vendas ou geração de demanda;</li><li>Excelente comunicação verbal e escrita;</li><li>Conhecimento em técnicas de prospecção, qualificação de leads e negociação;</li><li>Organização, planejamento e boa gestão do tempo;</li><li>Familiaridade com ferramentas de CRM e plataformas de prospecção;</li><li>Capacidade de trabalhar de forma colaborativa e orientada a resultados;</li><li>Perfil proativo, dinâmico e com iniciativa para identificar oportunidades de negócio</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/totvsleste/38/agente-de-prospeccao-de-negocios-sdr]]></applyUrl>
+    <companyId><![CDATA[80034046]]></companyId>
+    <city><![CDATA[Vila Velha]]></city>
+    <state><![CDATA[Espírito Santo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -54645,6 +54696,65 @@ função, a critério do seu superior imediato.</li></ul><br /> <br /><br /><br 
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4e3a47c5-0777-4075-95fb-43f21e2b128a]]></partnerJobId>
+    <company><![CDATA[Fort Fruit]]></company>
+    <title><![CDATA[MENOR APRENDIZ]]></title>
+    <posterEmail><![CDATA[luis.campos@fortfruit.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Menor Aprendiz para integrar nossa equipe e desenvolver habilidades profissionais em um ambiente de aprendizado e crescimento. O(a) jovem terá a oportunidade de conhecer os processos da empresa, apoiar atividades administrativas e adquirir experiência prática para sua formação profissional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar em rotinas
+administrativas; Organizar documentos e arquivos; <br />Apoiar no atendimento telefônico
+e presencial;<br />Realizar lançamentos e
+atualizações de informações em sistemas;<br />Dar suporte às áreas da empresa
+conforme necessidade;<br />Participar de treinamentos e atividades de desenvolvimento.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ter entre 15 e 17 anos; Estar matriculado(a) e
+frequentando a escola, caso ainda não tenha concluído o ensino médio;<br />Conhecimentos básicos de
+informática;<br />Boa comunicação, organização e
+vontade de aprender.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasff/17/menor-aprendiz]]></applyUrl>
+    <companyId><![CDATA[69281098]]></companyId>
+    <city><![CDATA[Belém]]></city>
+    <state><![CDATA[Pará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[61bf0d92-7f67-4465-905f-a2b2b4bee982]]></partnerJobId>
+    <company><![CDATA[Fort Fruit]]></company>
+    <title><![CDATA[Promotor de Vendas]]></title>
+    <posterEmail><![CDATA[luis.campos@fortfruit.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Promotor de Vendas é
+responsável por garantir a boa exposição dos produtos, impulsionar as vendas e
+fortalecer o relacionamento com os clientes e parceiros dentro das lojas. Atua
+diretamente no ponto de venda, garantindo que os produtos estejam bem-posicionados,
+abastecidos e devidamente precificados, além de fornecer suporte na execução de
+campanhas promocionais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atendimento ao cliente,
+apresentação e venda de produtos, suporte na escolha dos itens, reposição e
+organização de mercadorias, controle de preços e validade, aplicação de
+materiais promocionais, execução de ações de merchandising, acompanhamento de
+estoque, monitoramento da concorrência e elaboração de relatórios de vendas e
+visitas.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior com promoção de vendas, merchandising ou reposição de produtos;</li><li>Boa comunicação e habilidade para negociação;</li><li>Facilidade para trabalhar em equipe e lidar com o público;</li><li>Organização e atenção aos detalhes.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasff/16/promotor-de-vendas]]></applyUrl>
+    <companyId><![CDATA[69281098]]></companyId>
+    <city><![CDATA[Belém]]></city>
+    <state><![CDATA[Pará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1935.80]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -71744,33 +71854,6 @@ Auxiliar no controle de custos e na organização documental da obra.</li></ul><
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[47300e7c-7f48-497a-9914-9bc6efe6365b]]></partnerJobId>
-    <company><![CDATA[Grupo OAD]]></company>
-    <title><![CDATA[Assistente Administrativo de Obra]]></title>
-    <posterEmail><![CDATA[thaynarapreis@grupooad.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um <b>Assistente Administrativo de Obra</b> que será responsável pelo suporte administrativo da obra, realizando controle de documentos, notas fiscais, despesas, ponto da equipe e processos de compras. Atua na organização das atividades do canteiro, logística de materiais e comunicação entre a obra e os demais setores da empresa.<br /><br />Local: Campeche, Florianópolis/SC.<br />Horário: Seg. à quinta-feira das 07h30 às 17h30, sexta-feira das 07h30 às 16h30.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Organizar e armazenar documentos relacionados à obra, como: contratos com fornecedores, memoriais descritivos, projetos executivos entre outros. </li><li>Verificar e processar notas fiscais de fornecedores e serviços contratados associados à obra. </li><li>Manter registros das despesas da obra detalhados e organizados para prestação de contas. </li><li>Controlar os registros de ponto (manuais ou eletrônicos) dos profissionais na obra. </li><li>Auxiliar no controle de presença e faltas da equipe, reportando essas informações ao Gestor da Obra e/ou função por ele designada. </li><li>Organizar as demandas de compras de materiais solicitadas pela equipe técnica, garantindo entrega e controle de insumos no prazo necessário. </li><li>Manter atualizado o diário de obra, registrando as atividades ocorridas e problemas enfrentados. </li><li>Controlar o uso e manutenção de bens patrimoniais alocados na obra, como ferramentas, veículos e equipamentos. </li><li>Atuar como intermediário entre o canteiro de obra e demais setores envolvidos nas atividades na obra.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo ou em andamento em: Administração ou em processos gerenciais. </li><li>Pacote Office (Excel, Word e PowerPoint).</li><li>Conhecimento em processos administrativos e controle de documentos.</li><li>Familiaridade com rotinas de marketing e relacionamento com fornecedores.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupooad/30/assistente-administrativo-de-obra]]></applyUrl>
-    <companyId><![CDATA[79995120]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[2500.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
