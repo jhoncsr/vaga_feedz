@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Mon, 29 Jun 2026 13:24:19 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 29 Jun 2026 14:23:42 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3790]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3794]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -21,6 +21,29 @@
           <amount><![CDATA[2000.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1676.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerJobId>
+    <company><![CDATA[Credi Shop]]></company>
+    <title><![CDATA[PROMOTOR DE VENDAS - JUAZEIRO DO NORTE]]></title>
+    <posterEmail><![CDATA[anacastro@credishop.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Atendimento ao publico;</li><li>Vendas externas, ofertas de produtos e serviços da Credi-Shop;</li><li>Cadastramento de propostas;</li><li>Organização do ponto de atendimento;</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a abordagem e atendimento ao cliente em pontos de venda.</li><li>Promover os produtos, destacando suas qualidades e vantagens.</li><li>Informar sobre promoções e campanhas em curso.</li><li>Registrar vendas e reportar resultados.</li><li>Participar de ações externas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li> Experiência anterior em vendas;</li><li> Boa comunicação;</li><li> Habilidade de negociação;</li><li> Capacidade de trabalho em equipe.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/credishop/228/promotor-de-vendas-juazeiro-do-norte]]></applyUrl>
+    <companyId><![CDATA[1089858]]></companyId>
+    <city><![CDATA[Juazeiro do Norte]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
         <lowEnd>
           <amount><![CDATA[1676.00]]></amount>
           <currencyCode>BRL</currencyCode>
@@ -3963,25 +3986,6 @@ geração de novas demandas.  <br /><br /><br /><b>Requisitos e qualificaçõe
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[c9978d91-ffe5-42a5-b675-5bac8bd87b06]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Especialista de SRE | Citrix Cloud]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por buscar a melhoria contínua, visando o ganho de eficiência operacional dentro da área de infraestrutura nos ambientes Cloud TOTVS;<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Liderar o desenho, a evolução e a estratégia arquitetural do ambiente de infraestrutura, com foco central em soluções Citrix Cloud (DaaS) e nuvem, introduzindo inovações tecnológicas e definindo o roadmap técnico da área.</li><li>Atuar como o ponto máximo de escalonamento técnico para a resolução de incidentes críticos e crônicos de altíssima complexidade. Solucionar problemas de maneira eficiente, realizando análises de causa raiz (RCA) profundas e reduzindo o impacto para o cliente de forma ágil.</li><li>Definir e implementar a estratégia de observabilidade da empresa. Estabelecer métricas de SRE (SLAs, SLOs, SLIs e Error Budgets) e garantir a resiliência e alta disponibilidade do ecossistema Citrix e Cloud.</li><li>Projetar e construir frameworks de automação e Infraestrutura como Código (IaC), não apenas operando, mas definindo os padrões de utilização de ferramentas como Terraform, Ansible, Packer e scripting avançado (PowerShell/Python) para toda a equipa.</li><li>Avaliar, desenhar e aprovar a entrada de novos projetos complexos de Infraestrutura. Identificar proativamente riscos na implementação de arquiteturas, valendo-se de revisões por pares (peer reviews) e práticas de assessments de segurança e performance.</li><li>Alcançar e manter padrões de excelência técnicos. Colaborar na definição de processos, normas de segurança (hardening) e apoiar todos os processos de governança corporativa e ITIL, ajudando na organização dos mesmos.</li><li>Liderar discussões com outras áreas (Produto, Segurança, Cloud) sobre novas demandas para estabelecer entregas e expectativas. Negociar prazos saudáveis, equilibrando o nível de esforço com um ritmo sustentável de trabalho, mantendo sempre uma postura cordial e consultiva com o cliente.</li><li>Fomentar, desenhar e conduzir treinamentos e workshops técnicos profundos para repasse de conhecimento aos demais pares, através de iniciativas e cerimônias.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Graduação nas áreas de Tecnologia da Informação ou afins.</li><li>Altamente Desejável: Pós-Graduação, Mestrado ou MBA na área de atuação.</li><li>Conhecimentos Específicos Exigidos:</li><li>Ecossistema Citrix (Citrix Cloud, DaaS, VDI, WEM, PVS/MCS, NetScaler/ADC) – nível Especialista/Avançado. (Domínio absoluto da arquitetura)</li><li>Windows Server e Active Directory – nível Especialista/Avançado.</li><li>Conceitos e práticas de SRE (Site Reliability Engineering) – nível Avançado.</li><li>Sistemas de Logs, monitorização e observabilidade corporativa – nível Avançado.</li><li>Arquitetura de Infraestrutura e Redes/Segurança aplicada a aplicações – nível Avançado.</li><li>Desenvolvimento de automação e Infraestrutura como Código (IaC) – nível Intermediário.</li><li>Nuvens Públicas (Azure, AWS e/ou Google Cloud) – nível Intermediário. (Capacidade de desenhar integrações híbridas)</li><li>Linux – nível Avançado.</li><li>Metodologias de Governança e Ágil.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10799/tech-especialista-de-sre-citrix-cloud]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[164b652a-6152-42f5-8fe2-4aa24d4f6bc0]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Vendas] SDR | Segmento Educacional]]></title>
@@ -4148,69 +4152,12 @@ geração de novas demandas.  <br /><br /><br /><b>Requisitos e qualificaçõe
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[b629a125-2191-4636-8064-33bdb1ccc609]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Analista Administrativo Júnior – Gestão de Contratos (Setor Público)]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Assumir a responsabilidade "ponta a ponta" por uma carteira dedicada de clientes do Setor e Interesse Público, garantindo a governança, a integridade jurídica e a eficiência de todo o ciclo de vida dos contratos e aditivos. <br /><br /><br />Sua missão é transitar com agilidade entre a validação formal e conformidade de contratos públicos, a interlocução com os times técnicos/comerciais e a gestão do processo de faturamento, garantindo que as emissões ocorram em estrita conformidade com as exigências contratuais, assegurando o cumprimento rigoroso de prazos e metas da área.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><b>Gestão "Ponta a Ponta" de Contratos Públicos:</b> Conduzir o fluxo administrativo de novos contratos e aditivos, desde a submissão de minutas para análise jurídica até o acompanhamento das assinaturas e arquivamento. Garantir o registro preciso dos dados contratuais (vigências, valores e índices) nos controles da companhia.</li><li><b>Controle de Renovações e Reajustes:</b> Monitorar ativamente os prazos de vigência e marcos contratuais para iniciar, com a antecedência necessária, as tratativas de renovação ou reajustes junto aos clientes, assegurando a formalização tempestiva.</li><li><b>Gestão de Garantias:</b> Atuar no controle, emissão e renovação de exigências contratuais (como apólices de seguro-garantia), garantindo que toda a operação respeite as normas de licitações, políticas de anticorrupção e regras de compliance.</li><li><b>Gestão e Conformidade de Faturamento:</b> Acompanhar o processo de faturamento da carteira de clientes, atuando na captação de pedidos de compra para viabilizar as liberações sistêmicas. Validar se a emissão das notas fiscais atende rigorosamente às regras e exigências de cada contrato.</li><li><b>Resolução de Ocorrências e Atualizações:</b> Atuar de forma analítica no tratamento de demandas operacionais e financeiras (como cancelamentos de notas fiscais, cartas de correção e atualizações cadastrais), acionando e acompanhando as áreas internas responsáveis até a resolução.</li><li><b>Interface Estratégica e Relacionamento:</b> Ser o elo de comunicação formal entre o cliente externo e os times internos (Comercial, Técnico e Jurídico). Conduzir o esclarecimento de dúvidas sobre cláusulas, atuar em ressalvas técnicas, participar de reuniões de alinhamento e garantir a rastreabilidade e o histórico documental de todas as interações.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Ensino Superior completo</b> em Administração, Direito, Ciências Contábeis ou áreas correlatas.</li><li><b>Legislação e Contratos Públicos:</b> Entendimento sólido sobre a legislação de licitações e contratos da Administração Pública, sendo indispensável a familiaridade com a Nova Lei de Licitações (Lei nº 14.133/21).</li><li><b>Gestão de Contratos (Setor Público):</b> Vivência prática anterior no acompanhamento administrativo de contratos públicos, controle de prazos de vigência, reajustes e gestão de garantias contratuais (como apólices de seguro-garantia).</li><li><b>Análise e Conformidade de Faturamento:</b> Conhecimento em regras fiscais, com foco na validação de requisitos contratuais e liberação do fluxo financeiro junto aos clientes.</li><li><b>Ferramentas e Sistemas:</b> Domínio do Pacote Office (principalmente Excel para controle de prazos e planilhas de gestão) e facilidade de aprendizado/familiaridade com sistemas ERP de mercado.</li><li><b>Comunicação Corporativa:</b> Excelente habilidade de escrita e comunicação verbal clara, com foco na capacidade de estruturar notificações formais a órgãos públicos e interagir com diferentes áreas internas da companhia.</li><li><b>Modelo de Trabalho:</b> Híbrido flexível (presencial apenas 3x por semana).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10726/vendas-analista-administrativo-junior-gestao-de-contratos-setor-publico]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1a517fea-8eb2-4a5e-adcd-a0137bb4a612]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Analista Administrativo Júnior – Gestão de Contratos (Setor Público)]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Assumir a responsabilidade "ponta a ponta" por uma carteira dedicada de clientes do Setor e Interesse Público, garantindo a governança, a integridade jurídica e a eficiência de todo o ciclo de vida dos contratos e aditivos. <br /><br /><br />Sua missão é transitar com agilidade entre a validação formal e conformidade de contratos públicos, a interlocução com os times técnicos/comerciais e a gestão do processo de faturamento, garantindo que as emissões ocorram em estrita conformidade com as exigências contratuais, assegurando o cumprimento rigoroso de prazos e metas da área.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><b>Gestão "Ponta a Ponta" de Contratos Públicos: </b>Conduzir o fluxo administrativo de novos contratos e aditivos, desde a submissão de minutas para análise jurídica até o acompanhamento das assinaturas e arquivamento. Garantir o registro preciso dos dados contratuais (vigências, valores e índices) nos controles da companhia.</li><li><b>Controle de Renovações e Reajustes: </b>Monitorar ativamente os prazos de vigência e marcos contratuais para iniciar, com a antecedência necessária, as tratativas de renovação ou reajustes junto aos clientes, assegurando a formalização tempestiva.</li><li><b>Gestão de Garantias:</b> Atuar no controle, emissão e renovação de exigências contratuais (como apólices de seguro-garantia), garantindo que toda a operação respeite as normas de licitações, políticas de anticorrupção e regras de compliance.</li><li><b>Gestão e Conformidade de Faturamento:</b> Acompanhar o processo de faturamento da carteira de clientes, atuando na captação de pedidos de compra para viabilizar as liberações sistêmicas. Validar se a emissão das notas fiscais atende rigorosamente às regras e exigências de cada contrato.</li><li><b>Resolução de Ocorrências e Atualizações:</b> Atuar de forma analítica no tratamento de demandas operacionais e financeiras (como cancelamentos de notas fiscais, cartas de correção e atualizações cadastrais), acionando e acompanhando as áreas internas responsáveis até a resolução.</li><li><b>Interface Estratégica e Relacionamento:</b> Ser o elo de comunicação formal entre o cliente externo e os times internos (Comercial, Técnico e Jurídico). Conduzir o esclarecimento de dúvidas sobre cláusulas, atuar em ressalvas técnicas, participar de reuniões de alinhamento e garantir a rastreabilidade e o histórico documental de todas as interações.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Ensino Superior completo</b> em Administração, Direito, Ciências Contábeis ou áreas correlatas.</li><li><b>Legislação e Contratos Públicos:</b> Entendimento sólido sobre a legislação de licitações e contratos da Administração Pública, sendo indispensável a familiaridade com a Nova Lei de Licitações (Lei nº 14.133/21).</li><li><b>Gestão de Contratos (Setor Público):</b> Vivência prática anterior no acompanhamento administrativo de contratos públicos, controle de prazos de vigência, reajustes e gestão de garantias contratuais (como apólices de seguro-garantia).</li><li><b>Análise e Conformidade de Faturamento:</b> Conhecimento em regras fiscais, com foco na validação de requisitos contratuais e liberação do fluxo financeiro junto aos clientes.</li><li><b>Ferramentas e Sistemas:</b> Domínio do Pacote Office (principalmente Excel para controle de prazos e planilhas de gestão) e facilidade de aprendizado/familiaridade com sistemas ERP de mercado.</li><li><b>Comunicação Corporativa:</b> Excelente habilidade de escrita e comunicação verbal clara, com foco na capacidade de estruturar notificações formais a órgãos públicos e interagir com diferentes áreas internas da companhia.</li><li><b>Modelo de Trabalho:</b> Híbrido flexível (presencial apenas 3x por semana).</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10727/vendas-analista-administrativo-junior-gestao-de-contratos-setor-publico]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[5122846d-38b9-4323-aa64-deed56195106]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[Analista SR de Soluções de Negócios | Datasul]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><b>Missão do cargo</b><br /><br /><b>Responsável por disseminar o conhecimento de negócio para a área comercial, </b><b>bem como encantar os clientes, visando aumentar a receita e marketshare da </b><b>solução TOTVS BackOffice Linha Datasul.</b><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER</b><br /><ul><li>Demonstrar ofertas do produto TOTVS BackOffice Linha Datasul para fomentar/auxiliar no processo de venda, por meio de eventos virtuais e</li><li>presenciais, reuniões com prospects/clientes e webinars;</li><li>Responsável pela criação de conteúdo, webinar, podcast´s, tutoriais sobre o negócio e oferta do TOTVS BackOffice Linha Datasul, a fim de disseminar</li><li>conhecimento para a área comercial e clientes;</li><li>Participar de eventos a fim de apoiar os canais de vendas/mercado na consolidação dos relacionamentos com os clientes/prospects, divulgar estratégia da solução do negócio e Roadmap, assim como direcionar reclamações e sugestões de evolução do produto;</li><li>Analisar e acompanhar a estratégia de concorrentes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Formação superior completa na área Tecnologia, Administração ou Finanças;</li><li>Vivência em pré-vendas, arquitetura e demonstração;</li><li>Domínio das soluções BackOffice da linha Datasul.</li><li>Conhecimento em banco de dados, sistema operacional Windows e Pacote Office;</li><li>Desejável vivência em implantação da solução Datasul.</li><li>Idioma:  Inglês (Diferencial)</li><li>Espanhol (Desejável)</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10711/analista-sr-de-solucoes-de-negocios-datasul]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b679ed86-c71e-44b4-a800-dc7c432820c5]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Analista Sênior de SRE | Citrix Cloud]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por suportar áreas externas e internas, visando a disponibilidade e melhoria contínua do ambiente Cloud TOTVS;<br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Garantir o domínio de ferramentas de automação e gestão de configuração (ex: PowerShell, Ansible, Terraform), aplicadas ao ecossistema Citrix e Windows Server, através dos conhecimentos de mercado.</li><li>Assegurar o atendimento e acompanhamento de requisições e incidentes de alta complexidade em ambientes Citrix (Cloud e On-Premises), atendendo os clientes/times por meio de ferramentas de workflow.</li><li>Garantir o acompanhamento de projetos por meio de metodologias e cerimônias, atendendo demandas de configuração e implantação de ambientes virtualizados (VDI/DaaS) para clientes internos e externos.</li><li>Realizar Troubleshooting nível Avançado na camada de Sistema Operacional (com forte ênfase em Windows Server) e infraestrutura base (Citrix Virtual Apps and Desktops, NetScaler/ADC), por meio das ferramentas internas e de terceiros.</li><li>Colaborar em processos e padrões de infraestrutura (em acordo com normas de segurança, como hardening de VDAs), em conjunto com os times de infraestrutura, produto e segurança.</li><li>Validar patchs para correção e atualização de segurança do Sistema Operacional e de componentes da infraestrutura Citrix (Cloud Connectors, VDAs, StoreFront, etc).</li><li>Gerenciamento de ambientes e recursos de alta complexidade em nuvens (integração do Citrix com Azure, AWS, GCP ou Nuvem TOTVS), através de PoC e LABs.</li><li>Acompanhar problemas/bugs de alta complexidade junto aos fornecedores (abertura e acompanhamento de chamados junto à Citrix e Microsoft), baseando-se em bug reports de fabricantes.</li><li>Realizar acompanhamento do monitoramento e evolução de métricas do ambiente (utilizando ferramentas como Citrix Director, ControlUp, Datadog ou equivalentes), utilizando dashboards.</li><li>Atuar e acompanhar a gestão de mudanças (GMUD), seguindo processos de governança e ITIL.</li><li>Propor inovações que agreguem valor na atuação do time, auxiliando a equipe como um todo (e, por consequência, nosso cliente interno e externo), usando conhecimento e experiência.</li><li>Fomentar treinamentos e workshops para repasse de conhecimento aos demais pares, focando na disseminação da cultura Cloud e tecnologias Citrix, através de iniciativas e cerimônias.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Graduação nas áreas de Tecnologia da Informação ou afins.</li></ul><b>Conhecimentos Específicos:</b><br /><ul><li>Soluções Citrix (Citrix Cloud, DaaS, WEM, PVS/MCS) – nível Intermediário a Avançado. (Requisito central da vaga)</li><li>Windows (foco principal) ou Linux – nível Avançado.</li><li>Desenvolvimento de automação (ex: scripting em PowerShell) – nível Avançado.</li><li>Sistemas de Logs, monitoramento e observabilidade – nível Avançado.</li><li>Infraestrutura – nível Intermediário.</li><li>Nuvens Públicas (Azure, AWS e/ou Google Cloud) – nível Intermediário.</li><li>Redes e Segurança de Infraestrutura e aplicações (conceitos de balanceamento e ADC/NetScaler) – nível Intermediário.</li><li>Conceitos de SRE – nível Intermediário.</li><li>Metodologia de Governança/ Ágil.</li><li>Troubleshooting – nível Avançado (com vivência avançada em S.O. e Infraestrutura base).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10721/tech-analista-senior-de-sre-citrix-cloud]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -4854,25 +4801,6 @@ Contribuir para a evolução arquitetural da plataforma, promovendo escalabilida
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Responsável pela condução de projetos de implantação/evolução junto ao cliente, visando assegurar a qualidade e o sucesso da implantação, reunindo os recursos necessários para cumprir os prazos e entregas junto ao cliente.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<br /><br />O QUE VOCÊ VAI FAZER:<br /><br />● Conduzir projetos de alta complexidade e alto volume de horas, com personalização e de clientes estratégicos; <br />● Inovar e criar novos processos que aumentem a eficiência dos projetos; <br />● Construir indicadores relevantes para a área, com objetivo de identificar oportunidades, gerar insights e auxiliar na tomada de decisão; <br />● Mentorar colaboradores com menos conhecimento sobre a aplicação de métodos e processos da área de projetos e ferramentas; <br />● Ser ponto focal, para clientes e áreas internas repassando dados e informações por meio de e-mails, calls/reuniões e registros em sistema; <br />● Identificar os riscos do projetos sob sua responsabilidade, registrando em sistema; <br />● Garantir a assiduidade do apontamento das horas em projetos sob sua responsabilidade de todos os recursos alocados; <br />● Planejar e alocar os recursos envolvidos no projeto; <br />● Garantir o faturamento em tempo correto dos projetos de serviços, conforme contratação realizada pelo cliente junto à proposta comercial; <br />● Garantir a rentabilidade financeira dos projetos de serviços sob sua responsabilidade.<br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><br />Formação: Graduação em Administração, estatística, Tecnologia da Informação, engenharias, economia, Marketing ou áreas afins. <br />Pós graduação em Gestão de Projetos, Gestão comercial ou gestão empresarial. <br /><br /><br />Conhecimentos específicos: <br />● Pacote Office - Excel | nível avançado. <br />● MS Project; <br />● Metodologias ágeis. Certificações: <br />● PMP, ITIL, PRINCE, Agile, Scrum, Kanban <br /><br />Requisitos desejáveis<br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10531/servicos-analista-de-projetos-de-servicos-senior]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[d86300ae-dac1-4fff-bd9a-7b03c3533877]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Engenharia de Software Secops Sênior]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Perfil hands-on técnico, atuará na engenharia do time de Segurança da Informação SecOps com foco em Networking, sendo responsável pela sustentação das ferramentas de Segurança de Informação Cloud. <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento de Chamados: Responder e solucionar requisições, eventos e tarefas de mudança utilizando a ferramenta de ITSM.</li><li>Sustentação - Administrar as ferramentas de Segurança da Informação da TOTVS CLOUD, como testes de backup, eficiência no monitoramento, performance, melhoras práticas das configurações, com foco em Networking (soluções de firewall, AntiDDoS, WAF, ZeroTrust, DNS Security, etc).</li><li>Gestão de Ferramentas AntiDDoS: Administrar as ferramentas de AntiDDoS, incluindo a configuração de regras, grupos, liberações, exceções e tratamento de falsos/positivos.</li><li>Engenharia de Mitigação Anti-DDoS:Projetar, implementar e otimizar estratégias de mitigação de ataques DDoS, incluindo definição de thresholds, criação de políticas e ajustes contínuos com base em comportamento de tráfego.</li><li>Análise Avançada de Tráfego:</li><li>Realizar análise detalhada de tráfego de rede utilizando ferramentas como NetFlow/sFlow, tcpdump e Wireshark, com foco em identificação de padrões anômalos, ataques e troubleshooting de alta complexidade.</li><li>Operação de Scrubbing e Estratégias de Mitigação:Gerenciar e operar arquiteturas de scrubbing (SaaS e on-premises), avaliando cenários de redirecionamento (ex: GRE, BGP diversion) e eficiência das mitigações aplicadas.</li><li>Hardening e Evolução de Controles de Borda:Revisar e evoluir continuamente os controles de segurança em camada de rede, garantindo aderência às melhores práticas e redução da superfície de ataque.</li><li>Automação e Orquestração de Mitigações:Desenvolver e manter automações para resposta a incidentes e aplicação de regras dinâmicas em ferramentas de segurança.</li><li>Gestão de Assinaturas de IPS: Administrar, homologar e aplicar novas assinaturas para sistemas de prevenção de intrusões (IPS)</li><li>Execução de planos de ação (RDMs) - fora do horário comercial</li><li>Correções de Controles de Segurança: Revisar e propor melhorias nas ferramentas administradas com base em práticas de uso e necessidades identificadas. </li><li>Análise e Resolução de Problemas de SI: Diagnosticar e solucionar problemas de bloqueio ou performance de soluções de Segurança da Informação.</li><li>Administração de Regras de Firewall: Garantir que as regras de firewall são criadas de acordo com as melhores práticas de segurança da informação.</li><li>Documentação Operacional: Elaborar procedimentos operacionais da área utilizando ferramentas internas de base de conhecimento.</li><li>Automação de Tarefas: Desenvolver scripts para automação de tarefas repetitivas e monitoramento utilizando PowerShell, Shell Script e outras linguagens de scripting.</li><li>Suporte à Implantação de Novas Ferramentas de SI: Colaborar com o time de arquitetura na implementação de novas ferramentas de Segurança da Informação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Arquitetura de redes, modelo TCP/IP, SDN, monitoramento e troubleshooting de tráfego (tcpdump, Wireshark, MTR, ping, tcping, httping, etc); </li><li>Protocolos e conceitos avançados de roteamento e mitigação, incluindo BGP (peering, políticas, communities), GRE tunneling, arquiteturas CNI/PNI e estratégias de distribuição de tráfego como Anycast;</li><li>Conhecimento em Flowspec para mitigação dinâmica de ataques e análise de tráfego utilizando NetFlow/sFlow;</li><li>Experiência com técnicas de mitigação de ataques DDoS.(rate limiting, TCP challenge, SYN cookies, blackholing, entre outros);</li><li>Domínio de conceitos de ASN, gestão de anúncios de prefixos.(IRR, LOA, MSS, controle de prefixos e políticas de roteamento);</li><li>Entendimento de fluxo de tráfego (ingress vs egress) e impacto em cenários de segurança e performance;</li><li>Conhecimento em arquiteturas de mitigação (scrubbing centers), incluindo modelos SaaS vs on-premises;</li><li>Experiência com soluções de mercado para proteção Anti-DDoS e segurança de borda.</li><li>Arquitetura de sistemas operacionais Windows e Linux;</li><li>Conceitos de criptografia (TLS ciphers, certificados X.509);</li><li>Conceitos de multi-tenância, modelo de responsabilidade compartilhada e de entrega de serviços (IaaS, PaaS e SaaS);</li><li>Modelagem de ameaças e conhecimento na anatomia de ataques cibernéticos;</li><li>Familiaridade com scripts / linguagens de programação (ex: Powershell, Python, bash);</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10522/tech-engenharia-de-software-secops-senior]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -12294,6 +12222,25 @@ Seja qual for o seu perfil, aqui você encontra espaço para crescer e contribui
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[180f7559-cdc0-41a6-a240-6fb56b0e5066]]></partnerJobId>
+    <company><![CDATA[Faculdade IPGS]]></company>
+    <title><![CDATA[Analista Financeiro]]></title>
+    <posterEmail><![CDATA[francine.lovato@ipgs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em um momento de transformação da nossa área financeira e buscamos um(a) Analista Financeiro(a) para atuar diretamente ao lado da Gestão Financeira na reorganização da operação do setor.Neste primeiro momento, o principal desafio será compreender os processos atuais, atuar na rotina operacional e na implementação de melhorias que aumentem a eficiência e organização da área.Procuramos um profissional que goste de atuar em equipe, identificar oportunidades de melhoria e construir processos mais eficientes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Operação Financeira</strong><ul><li>Apoiar as rotinas de Contas a Pagar e Contas a Receber;</li><li>Atuar na conferência de processos financeiros;</li><li>Apoiar fechamentos financeiros e conciliações;</li><li>Acompanhar fluxo de caixa;</li><li>Apoiar negociações financeiras quando necessário;</li><li>Garantir a qualidade das informações financeiras.</li></ul><strong>Estruturação e Melhoria de Processos</strong><ul><li>Mapear os processos atuais da área financeira;</li><li>Identificar gargalos operacionais e propor soluções;</li><li>Padronizar rotinas e fluxos internos;</li><li>Desenvolver controles financeiros mais eficientes;</li><li>Elaborar procedimentos e documentações da área;</li><li>Participar da implantação de melhorias operacionais e automações.</li></ul><strong>Análise e Gestão</strong><ul><li>Construir e acompanhar indicadores financeiros e operacionais;</li><li>Desenvolver relatórios gerenciais;</li><li>Apoiar o acompanhamento orçamentário;</li><li>Validar informações financeiras para apoio à tomada de decisão;</li><li>Apoiar a gestão na definição das prioridades da área.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Buscamos alguém que:<ul><li>Tenha perfil analítico e organizado;</li><li>Goste de resolver problemas e melhorar processos;</li><li>Tenha facilidade para enxergar oportunidades de otimização;</li><li>Seja proativo;</li><li>Consiga equilibrar atividades operacionais e analíticas;</li><li>Tenha facilidade para trabalhar em equipe e conduzir mudanças.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ipgscarreiras/49/analista-financeiro]]></applyUrl>
+    <companyId><![CDATA[3737470]]></companyId>
+    <city><![CDATA[Porto Alegre]]></city>
+    <state><![CDATA[Rio Grande do Sul]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[a51b97fc-bdef-44de-9c15-4a265154ea80]]></partnerJobId>
     <company><![CDATA[Faculdade IPGS]]></company>
     <title><![CDATA[Estagio de Marketing – Design | iPGS]]></title>
@@ -15588,6 +15535,25 @@ transformar desafios em conquistas conosco!<br /><br /><br /><b>Responsabilidade
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[24815c53-1870-4e48-b783-a7dd09d93a80]]></partnerJobId>
+    <company><![CDATA[Universidade Tiradentes]]></company>
+    <title><![CDATA[GERENTE CONTÁBIL]]></title>
+    <posterEmail><![CDATA[dulce_gomes@grupotiradentes.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Gerente Contábil</strong> para liderar as operações contábeis da instituição, assegurando a qualidade das informações financeiras, conformidade com normas contábeis e fiscais, governança dos processos e suporte estratégico à tomada de decisão.Esse(a) profissional será responsável por conduzir as rotinas contábeis corporativas, acompanhar fechamentos mensais e anuais, garantir o cumprimento das obrigações legais e atuar na evolução dos processos, sistemas e controles internos da área.Buscamos uma pessoa com forte visão analítica, capacidade de liderança, senso de priorização, orientação para resultados e experiência na gestão de equipes e ambientes com alto volume operacional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Gerenciar as atividades contábeis da instituição, assegurando a correta contabilização das operações e a conformidade com normas contábeis, fiscais e tributárias;</li><li>Garantir o fechamento contábil mensal e anual, assegurando consistência das demonstrações financeiras e qualidade das informações gerenciais;</li><li>Elaborar e acompanhar o balanço patrimonial e demais demonstrações contábeis da instituição;</li><li>Gerenciar o envio das obrigações acessórias e o cumprimento dos prazos legais perante órgãos reguladores e fiscais;</li><li>Atuar na gestão do plano de contas e assegurar a correta classificação contábil das operações;</li><li>Liderar processos de melhoria contínua, automação e integração entre sistemas contábeis e áreas parceiras;</li><li>Conduzir o relacionamento com auditorias internas e externas, apoiando validações, controles e disponibilização de evidências;</li><li>Apoiar a diretoria com análises e informações para tomada de decisão;</li><li>Gerenciar indicadores da área e acompanhar desempenho operacional da equipe;</li><li>Liderar e desenvolver o time contábil, promovendo alinhamento, gestão de desempenho e evolução técnica;</li><li>Garantir governança, controles internos e aderência às políticas institucionais;</li><li>Atuar de forma integrada com áreas financeiras, fiscais, patrimônio e demais áreas corporativas.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior completo em Ciências Contábeis;</li><li>Registro ativo no CRC;</li><li>Experiência consolidada em gestão contábil;</li><li>Vivência com fechamento contábil e elaboração de demonstrações financeiras;</li><li>Conhecimento em legislação contábil, tributária e obrigações acessórias;</li><li>Experiência com auditoria externa;</li><li>Experiência com gestão de pessoas e desenvolvimento de equipes;</li><li>Conhecimento avançado em Excel e sistemas de gestão (ERP).</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasunit/160/gerente-contabil]]></applyUrl>
+    <companyId><![CDATA[963717]]></companyId>
+    <city><![CDATA[Aracaju]]></city>
+    <state><![CDATA[Sergipe]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[51e3fe40-28c5-4ef9-be73-c3e90eaa9715]]></partnerJobId>
     <company><![CDATA[Universidade Tiradentes]]></company>
     <title><![CDATA[GERENTE DE GOVERNANÇA DE TI & SEGURANÇA DA INFORMAÇÃO]]></title>
@@ -16089,215 +16055,12 @@ crescimento dentro da organização. <br /><br /><b>Responsabilidades e atribui
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[5ef60332-7b7b-49d2-b48a-c8088fbf7ca6]]></partnerJobId>
-    <company><![CDATA[Cordier Investimentos]]></company>
-    <title><![CDATA[Gerente de Gente & Gestão]]></title>
-    <posterEmail><![CDATA[ilana.ribeiro@cordierinvestimentos.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos uma líder de RH
-que atue como parceira estratégica do negócio, com capacidade de estruturar
-processos, apoiar a liderança e contribuir para a consolidação de uma cultura
-de excelência, proximidade com o cliente e alta performance.<br /><b><br /></b><b>Missão do cargo</b>
-<br />Estruturar, liderar e garantir a
-execução da estratégia de Gestão de Pessoas, atuando como parceira
-das lideranças para atração, desenvolvimento, retenção e engajamento dos
-talentos, assegurando a sustentação dos processos, indicadores e práticas de RH
-Estratégico<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>1. Atração e Seleção</b>
-
-<ul>
- <li>Liderar
-     todo o processo de recrutamento e seleção. </li>
- <li>Desenvolver
-     estratégias de Employer Branding. </li>
- <li>Gerenciar
-     parcerias com universidades, indicações e eventos de atração. </li>
- <li>Conduzir
-     processos seletivos para posições estratégicas. </li>
- <li>Apoiar
-     líderes na definição de perfil e tomada de decisão. </li>
- <li>Utilizar
-     ferramentas comportamentais (PI) em processos seletivos. </li>
- <li>Monitorar
-     indicadores de recrutamento. </li>
-</ul>
-
-<b><br /></b><b>2. Onboarding e Desenvolvimento</b>
-
-<ul>
- <li>Garantir
-     a execução do onboarding institucional. </li>
- <li>Estruturar
-     trilhas de desenvolvimento. </li>
- <li>Coordenar
-     treinamentos técnicos e comportamentais. </li>
- <li>Desenvolver
-     programas de mentoria. </li>
- <li>Acompanhar
-     a integração dos novos colaboradores. </li>
-</ul>
-
-<b><br /></b><b>3. Gestão de Performance</b>
-
-<ul>
- <li>Estruturar
-     e conduzir ciclos de avaliação de desempenho. </li>
- <li>Desenvolver
-     processos de feedback contínuo. </li>
- <li>Apoiar
-     líderes na gestão de performance. </li>
- <li>Construir
-     e acompanhar OKRs e metas relacionadas a pessoas. </li>
- <li>Identificar
-     talentos e profissionais de alta performance. </li>
-</ul>
-
-<b><br /></b><b>4. Desenvolvimento de Lideranças</b>
-
-<ul>
- <li>Apoiar
-     gestores na condução de equipes. </li>
- <li>Desenvolver
-     programas de liderança. </li>
- <li>Realizar
-     sessões de feedback e orientação para gestores. </li>
- <li>Utilizar
-     dados de clima, desempenho e PI para apoiar decisões. </li>
-</ul>
-
-<b><br /></b><b>5. Cultura, Clima e Engajamento</b>
-
-<ul>
- <li>Conduzir
-     pesquisas de clima e engajamento. </li>
- <li>Elaborar
-     e acompanhar planos de ação. </li>
- <li>Liderar
-     iniciativas de cultura organizacional. </li>
- <li>Desenvolver
-     ações de comunicação interna. </li>
- <li>Coordenar
-     eventos corporativos e programas de reconhecimento. </li>
- <li>Monitorar
-     indicadores de engajamento e turnover. <br /><br /></li>
-</ul>
-
-<div style="text-align:center">
-
-
-
-<br />
-
-<b>6. Estrutura Organizacional e Governança</b>
-
-<ul>
- <li>Manter
-     atualizado o organograma da empresa. </li>
- <li>Gerenciar
-     Job Descriptions e responsabilidades dos cargos. </li>
- <li>Apoiar
-     revisões de estrutura organizacional. </li>
- <li>Conduzir
-     processos de movimentação interna e sucessão. </li>
- <li>Apoiar
-     decisões sobre promoções e carreira. </li>
-</ul>
-
-<b><br /></b><b>7. Remuneração e Incentivos</b>
-
-<ul>
- <li>Administrar
-     políticas de remuneração fixa e variável</li>
- <li>Apoiar
-     revisões salariais. </li>
- <li>Desenvolver
-     políticas de cargos e salários. </li>
- <li>Apoiar
-     a construção de programas de retenção. </li>
- <li>Gestão
-     de benefícios</li>
-</ul>
-
-<b><br /></b><b>8. Departamento Pessoal e Compliance Trabalhista</b>
-
-<ul>
- <li>Supervisionar
-     admissões e desligamentos. </li>
- <li>Garantir
-     conformidade trabalhista. </li>
- <li>Acompanhar
-     folha de pagamento e benefícios. </li>
- <li>Comunicações
-     e eventos internos.</li>
- <li>Gerenciar
-     contratos de trabalho e prestadores. </li>
- <li>Atuar
-     junto à contabilidade e jurídico. </li>
- <li>Garantir
-     cumprimento de políticas internas e exigências regulatórias. <br /><br /></li>
-</ul>
-
- 
-
-<b>9. Indicadores e People Analytics</b>
-
-<ul>
- <li>Estruturar
-     e monitorar indicadores de RH. </li>
- <li>Elaborar
-     dashboards executivos. </li>
- <li>Apresentar
-     resultados para diretoria e sócios. </li>
- <li>Propor
-     ações corretivas baseadas em dados. </li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Formação
-     superior em Administração, Recursos Humanos, Psicologia ou áreas
-     correlatas; </li></ul><b><b><br /></b><br />Diferenciais</b><ul><li>Pós-graduação
-     ou MBA em Gestão de Pessoas, Desenvolvimento Organizacional ou áreas
-     afins;</li><li>Experiência
-     em empresas do mercado financeiro, investimentos ou serviços
-     profissionais;</li><li>Conhecimento
-     em gestão por competências e cultura organizacional;</li><li>Vivência
-     em processos de mudança e crescimento organizacional.</li>
-</ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cordierinvestimentos/73/gerente-de-gente-gestao]]></applyUrl>
-    <companyId><![CDATA[3784752]]></companyId>
-    <city><![CDATA[Sorocaba]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[5c6decd8-ffe0-456d-b9d8-f6a70579db41]]></partnerJobId>
     <company><![CDATA[Cordier Investimentos]]></company>
     <title><![CDATA[Assessor de Investimentos]]></title>
     <posterEmail><![CDATA[leonardo.rocha@cordierinvestimentos.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />O Assessor de Investimentos atuará como intermediador entre a assessoria da Cordier, o Banco BTG Pactual e seus clientes, com o objetivo principal na prospecção e no relacionamento com clientes investidores.<br /><br /><br />Estamos em busca de profissionais com experiência na área comercial e/ou no mercado financeiro, com habilidades em comunicação, relacionamento e conhecimento profundo dos produtos de investimento disponíveis, visando não apenas atrair novos clientes, mas também construir e manter relacionamentos duradouros e rentáveis.<br /><br /><br />Este profissional será responsável por atrair potenciais investidores e desenvolver relacionamento, oferecendo assessoria financeira personalizada.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Agendamento de reuniões com investidores;<br />• Condução de reuniões;<br />• Construção de carteiras de investimentos;<br /><br />• Relacionamento com especialistas e analistas de mercado;<br /><br />• Avaliação de perfil de investimentos e seleção de ativos financeiros;<br /><br />• Prospecção ativa por telefone;<br />• Nutrição de CRM e Funil de Vendas<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />• Curso superior completo;<br />• Excelente comunicação oral e escrita;<br />• Perfil comercial;<br /><br />• Experiência no mercado financeiro;<br />• Certificação Ancord<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cordierinvestimentos/22/assessor-de-investimentos]]></applyUrl>
-    <companyId><![CDATA[3784752]]></companyId>
-    <city><![CDATA[Sorocaba]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[2b5e8863-452d-4ec0-9a84-637ad0b0208f]]></partnerJobId>
-    <company><![CDATA[Cordier Investimentos]]></company>
-    <title><![CDATA[Consultor de seguros]]></title>
-    <posterEmail><![CDATA[leonardo.rocha@cordierinvestimentos.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Planner altamente interessado para atuar na elaboração de estratégias de planejamento patrimonial, tributário e sucessório. O profissional será responsável por realizar reuniões personalizadas com clientes da nossa base, analisar suas características patrimoniais, identificar riscos e propor soluções avançadas de proteção e blindagem.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realização de Reuniões Personalizadas</li><li>Avaliar as necessidades dos clientes e propor soluções customizadas</li><li>Desenvolver planos de proteção patrimonial, minimizando riscos fiscais e jurídicos.</li><li>Fornecer insights sobre regulações tributárias, trabalhistas e sucessórias.</li><li>Monitorar a execução dos planos e sugerir ajustes conforme necessário.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Direito, Ciências Contábeis, Economia, Administração ou áreas afins</li><li>Interesse em planejamento patrimonial e sucessão empresarial</li><li>Habilidade para explicar temas complexos de forma clara e acessível</li><li>Competências em atendimento ao cliente, negociação e vendas consultivas</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cordierinvestimentos/18/consultor-de-seguros]]></applyUrl>
     <companyId><![CDATA[3784752]]></companyId>
     <city><![CDATA[Sorocaba]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -17260,6 +17023,25 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para voc�
           <amount><![CDATA[2000.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3e7c9d0e-6cb6-43de-9be1-790a23cb7d60]]></partnerJobId>
+    <company><![CDATA[Unimarka Distribuidora]]></company>
+    <title><![CDATA[Operador de Logística]]></title>
+    <posterEmail><![CDATA[rh02@unimarka.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa ativa, gosta de estar sempre em movimento e tem vontade de atuar na área de separação e expedição da Logística? <b>Então essa vaga é para você!</b><br /><br /><b><br /></b><br />Vaga destinada também a PCD<b>.</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar no processo logístico de movimentação das mercadorias;</li><li>Realizar a organização, armazenagem e separação dos pedidos;</li><li>Organizar a avaliar o acondicionamento das mercadorias nos veículos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Atenção concentrada a detalhes; </li><li>Foco em resultados;</li><li>Iniciativa; </li><li>Responsabilidade e compromisso.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/1059/operador-de-logistica]]></applyUrl>
+    <companyId><![CDATA[65466539]]></companyId>
+    <city><![CDATA[Feira de Santana]]></city>
+    <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -23619,6 +23401,25 @@ Comprometimento, responsabilidade e facilidade para trabalhar em equipe.</li><li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[8c5d2e4c-db26-4729-ab7c-f64d2f98f7f5]]></partnerJobId>
+    <company><![CDATA[Wyda]]></company>
+    <title><![CDATA[Analista de Manutenção]]></title>
+    <posterEmail><![CDATA[priscila.vecchio@wyda.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar no acompanhamento e análise das atividades de manutenção industrial, garantindo a disponibilidade dos equipamentos por meio do monitoramento de indicadores, suporte às rotinas de manutenção, controle de custos e apoio a melhorias de processos, em conformidade com normas de segurança, qualidade e procedimentos internos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Programar e acompanhar atividades de manutenção preventiva, preditiva e corretiva.				<br />• Analisar dados e histórico de manutenção.				<br />• Monitorar indicadores de manutenção (MTTR, MTBF, disponibilidade e confiabilidade).				<br />• Identificar desvios e atuar com o time em planos de ação.				<br />• Acompanhar ordens de serviço no ERP (planejamento, abertura, execução e backlog).				<br />• Controlar custos de manutenção e apoiar no acompanhamento de orçamentos.				<br />• Desenvolver novos fornecedores.				<br />• Elaborar planos e instruções de manutenção.				<br />• Apoiar em melhorias e projetos (OEE, processos e máquinas).				<br />• Prestar suporte às outras unidades do Grupo.				<br /><br /><br />			<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior completo em Tecnologia em Mecânica/ Manutenção, Engenharia Mecânica/Elétrica ou áreas correlatas.</li><li>Experiência com planejamento e controle de manutenção.</li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaswyda/186/analista-de-manutencao]]></applyUrl>
+    <companyId><![CDATA[1124515]]></companyId>
+    <city><![CDATA[Sorocaba]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[09da040f-54b2-483a-ab17-a90d45e2401e]]></partnerJobId>
     <company><![CDATA[Wyda]]></company>
     <title><![CDATA[Auxiliar de Logística]]></title>
@@ -27550,6 +27351,25 @@ deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[878db762-6393-46f0-8f9d-43a5f11fe5b2]]></partnerJobId>
+    <company><![CDATA[Netfive]]></company>
+    <title><![CDATA[Sales Engineer – Segurança da Informação]]></title>
+    <posterEmail><![CDATA[renata.machado@netfive.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <b>um(a) Sales Engineer apaixonado(a) por tecnologia</b>, <b>que una conhecimento técnico e visão de negócio</b> para apoiar nosso time comercial em ciclos de venda consultivos e de alto valor.<br /><br /><br />Fazer parte da Netfive é mergulhar em um ambiente colaborativo, dinâmico e com forte cultura de inovação e excelência técnica. Aqui, você terá contato direto com<b> parceiros estratégicos globais e clientes líderes de mercado</b>, participando de projetos desafiadores que geram impacto real.<br /><br /><br />Se você busca crescimento profissional, aprendizado contínuo e a oportunidade de <b>construir soluções que geram valor para os clientes</b>, esse é o lugar certo para você.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar em conjunto com o time comercial em apresentações técnicas, POCs e demonstrações de soluções de segurança da informação.</li><li>Entender profundamente os desafios e dores dos clientes, traduzindo necessidades técnicas em propostas de valor claras.</li><li>Elaborar e revisar arquiteturas de solução, dimensionamentos e estimativas técnicas.</li><li>Apoiar o time na construção de propostas e RFPs, garantindo aderência técnica e diferenciação competitiva.</li><li>Manter-se atualizado sobre tendências de cibersegurança, especialmente nas frentes de EDR/XDR, Vulnerability Management e Zero Trust.</li><li>Participar de eventos, webinars e iniciativas de evangelização técnica junto a clientes e parceiros.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prévia em pré-vendas (Sales Engineer) ou consultoria técnica na área de segurança da informação.</li><li>Conhecimento técnico em uma ou mais das soluções abaixo:</li></ul>- CrowdStrike.<br />- Vicarius.<br />- Zscaler.<br /><ul><li>Comunicação.</li><li>Habilidade para trabalhar em equipe multifuncional.</li><li>Inglês técnico intermediário.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasnetfive/69/sales-engineer-seguranca-da-informacao]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[Porto Alegre]]></city>
+    <state><![CDATA[Rio Grande do Sul]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[81ca43a1-1b9b-4e26-a62a-dbf5539eda38]]></partnerJobId>
@@ -36800,6 +36620,25 @@ Organização, responsabilidade e comprometimento.</li>]]></description>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[314eb581-39dd-4356-a624-5f5edcd2f675]]></partnerJobId>
+    <company><![CDATA[STATUM Geotecnia]]></company>
+    <title><![CDATA[ASSISTENTE DE MONITORAMENTO DE ESTRUTURAS GEOTÉCNICAS E HIDRÁULICAS (Noturno)]]></title>
+    <posterEmail><![CDATA[julia.gomes@statum.eng.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais dedicados, analíticos e proativos para integrar nossa equipe como <strong>Assistente de Monitoramento.</strong> Este profissional terá como missão garantir a execução eficiente e segura dos sistemas de monitoramento geotécnico em nossos diversos projetos, realizando o controle de dados e a análise detalhada das informações relacionadas ao comportamento do solo e das estruturas. Se você se identifica com um ambiente dinâmico e desafiador, esta é a oportunidade ideal para alavancar sua carreira. Aqui, você terá a chance de desenvolver habilidades essenciais e contribuir ativamente para o crescimento de uma empresa.<br />Venha fazer parte de um time que preza pela <strong>excelência</strong>, <strong>colaboração</strong> e <strong>desenvolvimento contínuo</strong>. Juntos, podemos alcançar grandes conquistas e impulsionar o sucesso de projetos de alto impacto, deixando sua marca em um mercado em constante transformação. <strong>Faça a diferença conosco!</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhar e interpretar gráficos e leituras em tempo real de todos os instrumentos geotécnicos automatizados das barragens através de plataforma Sentnel;<br /><ul><li>Acompanhar testes de monitoramento do sistema automatizado de sirenes e alertas;</li><li>Acompanhar o monitoramento das Estações Totais Robóticas (ETR), instrumentação piezométrica e nível d’água dos reservatórios;</li><li>Elaborar relatórios diários de turno sobre o monitoramento e falhas no sistema;</li><li>Monitorar as operações de bombeamento em reservatórios, sump´s e canais;</li><li>Realizar testes diários em sensores, equipamentos e sistemas;</li><li>Realizar atividades administrativas ligadas à sala de monitoramento geotécnico;</li><li>Coleta de dados pluviométricos;</li><li>Acompanhamento dos trabalhos de manutenção das estruturas geotécnicas (melhorias em acessos, desassoreamento de sump’s e reservatórios);</li><li>Cumprir com todas as regras e políticas da STATUM, especialmente aquelas relacionadas à segurança, meio ambiente e práticas anticorrupção;</li><li>Preencher a planilhas de controle de status dos monitoramentos, pluviometria e estruturas geotécnicas realizados visando atender normas e procedimentos da empresa;</li><li>Atuar no apoio aos profissionais de maior senioridade nos processos inerentes à sua área de atuação usufruindo da experiência para o autodesenvolvimento;</li><li>Atentar para condições inseguras ou descumprimento de regras de segurança por colegas e terceiros, alertando para sua adequação;</li><li>Seguir plano de comunicação de situações de emergência definido para cada estrutura;</li><li>Seguir determinações do Superior Imediato;</li><li>Participar de reuniões sempre que convocado;</li><li>Participar de visitas técnicas quando necessário;</li><li>Cumprir com a política da Qualidade da STATUM;</li><li>Ler artigos ligados à área de atuação;</li><li>Participar de feiras técnicas com acompanhamento presencial em palestras técnicas;</li><li>Participar de treinamentos e campanhas ligadas à Segurança e Meio Ambiente;</li><li>Lançar as horas e devidos apontamentos atendendo os padrões de controles pré-definidos pela Gestão da empresa;</li><li>Potencial de crescimento em uma empresa solida do segmento de consultoria de engenharia, com potencial de participação em projetos desafiantes.</li></ul><br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Escolaridade: Cursando a partir do 7° em Engenharia Civil, Engenharia Urbana e Engenharia de Minas;</li><li>Desejável experiência em Geotecnia;</li><li>Pacote Office completo;</li><li>Conhecimento básico em AutoCAD; </li><li>Carteira Nacional de Habilitação categoria B;</li><li><b>Disponibilidade para atuar em turno:</b> <b>Escala de trabalho 12x36 (Escala noturna)</b></li><li>Local de Trabalho: Belo Horizonte, Bairro Estoril;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/statumvagas/33/assistente-de-monitoramento-de-estruturas-geotecnicas-e-hidraulicas-noturno]]></applyUrl>
+    <companyId><![CDATA[27206196]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[b174aa0e-c8dc-4135-ab58-9c8483a728dd]]></partnerJobId>
     <company><![CDATA[STATUM Geotecnia]]></company>
     <title><![CDATA[Engenheiro Geotécnico (Oportunidade Internacional)]]></title>
@@ -38656,25 +38495,6 @@ atividades de campo e suporte à execução de projetos industriais.<br /><br />
      de Escape de Aeronave Submersa (THUET) com certificação OPITO <b>ou </b>Certificado
      Equipe de Manobra e Combate a Incêndio em Aeronave (EMCIA).</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/forshipvagas/111/auxiliar-de-movimentacao-de-cargas-offshore]]></applyUrl>
-    <companyId><![CDATA[312237]]></companyId>
-    <city><![CDATA[Macaé]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[9d3d43c8-1f37-4169-9b1c-4911ad14702d]]></partnerJobId>
-    <company><![CDATA[Forship]]></company>
-    <title><![CDATA[OPERADOR DE MÁQUINA DE LAVA JATO - OFFSHORE]]></title>
-    <posterEmail><![CDATA[maristela.mathias@forship.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade que ofereça um ambiente dinâmico e desafiador? Temos uma excelente proposta que pode ser exatamente o que você procura. Junte-se a uma equipe dedicada e apaixonada, onde cada dia traz a chance de impactar positivamente o serviço, atuando diretamente na satisfação dos nossos clientes. Aqui, valorizamos o comprometimento e a qualidade do trabalho, proporcionando um espaço para crescimento e desenvolvimento profissional. Se você é uma pessoa que aprecia desafios, tem habilidade para trabalhar em equipe e deseja fazer parte de um ambiente que combina eficiência e inovação, esta é a sua chance! Venha conhecer mais sobre nós e descubra como você pode se tornar uma peça fundamental na nossa equipe. Estamos ansiosos por sua candidatura!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Operar máquina lava jato na limpeza industrial;<br />Desentupir esgotos e dutos de água, com utilização de máquina desentupidora;<br />Limpar manualmente as áreas de equipamentos elétricos, devendo nesta atividade ser elaborado avaliação de risco antes da execução dos serviços;<br />Limpar as áreas de produção de óleo, gás e áreas externas;<br />Limpar as áreas de grandes máquinas e carcaça/cobertura de equipamentos após liberação da operação;<br />Limpar as áreas externas<br />Limpar as áreas diversas, salas de máquinas e utilidades;<br />Limpar a área de equipamentos de segurança;<br />Limpar as áreas de difícil acesso;<br />Limpar reservatório de água potável;<br />Conhecer os perigos e riscos da sua atividade e atuar de forma a atender as normas de saúde, segurança e meio ambiente de sua função<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência na função de operador de máquina lava a jato e em atividade de limpeza industrial off shore;]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/forshipvagas/100/operador-de-maquina-de-lava-jato-offshore]]></applyUrl>
     <companyId><![CDATA[312237]]></companyId>
     <city><![CDATA[Macaé]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
@@ -42011,6 +41831,25 @@ para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[f20ade07-b84f-4364-b37a-f359614e3b83]]></partnerJobId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Auxiliar de Processo Agrícola - Herbicida]]></title>
+    <posterEmail><![CDATA[kauany.cardoso@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar o carregamento e abastecimento dos pulverizadores.</li><li>Realizar limpeza e manutenção básica dos equipamentos utilizados.</li><li>Seguir as normas de segurança, saúde e meio Ambiente.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo.</li><li>Disponibilidade para trabalhar em regime de turno</li><li>Residir em Delta ou Igarapava</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1798/auxiliar-de-processo-agricola-herbicida]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Delta]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[24909cbf-1cba-40b0-b5fa-11910330b04c]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
     <title><![CDATA[Analista de Monitoramento Jr - Central de Monitoramento]]></title>
@@ -42070,10 +41909,10 @@ para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><b
   <job>
     <partnerJobId><![CDATA[db81e720-e785-498d-96a8-24d56dbbe2b2]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Secretária Executiva]]></title>
+    <title><![CDATA[Secretária Executiva - Diretoria]]></title>
     <posterEmail><![CDATA[livia.martins@deltasucroenergia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciamento de agendas, reuniões, viagens e compromissos da diretoria.</li><li>Organização e controle de documentos, relatórios, atas e correspondências.</li><li>Atendimento e interface com clientes, parceiros e stakeholders internos e externos.</li><li>Coordenação de eventos corporativos, reuniões estratégicas e visitas institucionais.</li><li>Elaboração e acompanhamento de apresentações, relatórios gerenciais e indicadores.</li><li>Controle de prazos, demandas e fluxo de informações da diretoria.</li><li>Apoio na tomada de decisões por meio da organização e disponibilização de informações relevantes.</li><li>Garantia da confidencialidade de informações estratégicas e sensíveis da organização.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior em Secretariado Executivo, Administração, Gestão Empresarial ou áreas correlatas</li><li>Domínio do Pacote Microsoft Office (Excel, Word, PowerPoint e Outlook).</li><li>Conhecimento em gestão de agendas e organização de processos administrativos.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1791/secretaria-executiva]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1791/secretaria-executiva-diretoria]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Delta]]></city>
     <state><![CDATA[Minas Gerais]]></state>
@@ -46635,6 +46474,44 @@ sistemas
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[3be741f4-e3e5-4102-9ade-4e79132e35ff]]></partnerJobId>
+    <company><![CDATA[TV TEM]]></company>
+    <title><![CDATA[Estágio em Tecnologia de TV]]></title>
+    <posterEmail><![CDATA[beatriz.bueno@tvtem.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é apaixonado por tecnologia e quer desenvolver sua carreira em um ambiente inovador?<br />
+Na TV TEM, você terá a oportunidade de aprender na prática como funciona a infraestrutura tecnológica que mantém uma emissora de televisão no ar, atuando ao lado de profissionais experientes e participando de projetos que envolvem sistemas de transmissão, infraestrutura de TI e equipamentos de áudio e vídeo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar o planejamento e acompanhamento das manutenções preventivas, preditivas e corretivas dos equipamentos de broadcast e infraestrutura técnica;
+</li><li>
+Auxiliar na instalação, configuração e testes de equipamentos eletrônicos e sistemas de televisão;
+</li><li>
+Participar de projetos de implantação e modernização da infraestrutura técnica da emissora;
+</li><li>
+Prestar suporte às atividades de TI, apoiando na configuração de computadores, redes e sistemas;
+</li><li>
+Monitorar os sistemas críticos da emissora e contribuir para a identificação e resolução de falhas;
+</li><li>
+Auxiliar na organização de registros técnicos, inventários e documentação dos equipamentos e sistemas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando ensino técnico ou superior em Eletrônica, Eletrotécnica, Telecomunicações, Mecatrônica, Engenharia Elétrica, Engenharia da Computação, Ciência da Computação, Sistemas de Informação, Redes de Computadores ou áreas correlatas;
+</li><li>Formação do curso prevista à partir de Julho/2028.</li><li>
+Conhecimentos básicos em informática;
+</li><li>
+Conhecimento básico em Pacote Office ou Google Workspace.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/estagiotvtem/157/estagio-em-tecnologia-de-tv]]></applyUrl>
+    <companyId><![CDATA[24909690]]></companyId>
+    <city><![CDATA[Sorocaba]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[cc5183e6-b3cb-4ef1-a15a-df1ccf981a07]]></partnerJobId>
     <company><![CDATA[TV TEM]]></company>
     <title><![CDATA[Estágio em Operações]]></title>
@@ -46655,6 +46532,25 @@ sistemas
           <amount><![CDATA[1000.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b1287037-7172-4df3-9a63-d8ee55340c2b]]></partnerJobId>
+    <company><![CDATA[TV TEM]]></company>
+    <title><![CDATA[Repórter Cinematográfico - Temporário]]></title>
+    <posterEmail><![CDATA[debora.nunes@tvtem.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais para captar imagens com qualidade e conteúdo capazes de transmitir informações aos telespectadores.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Captar imagens e áudio com qualidade;</li><li>Alinhar com o repórter a pauta para realizar a matéria;</li><li>Cuidar do kit de filmagem;</li><li>Tomar conhecimento da pauta das matérias que serão realizadas;</li><li>Decidir o equipamento necessário a cada matéria</li><li>Ingestar e conferir o material</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Habilidades com câmeras e sistemas de transmissão de imagens (broadcast)</li><li>Carteira Nacional de Habilitação - B</li><li>Registro MTB ativo</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/tvtem/158/reporter-cinematografico-temporario]]></applyUrl>
+    <companyId><![CDATA[24909690]]></companyId>
+    <city><![CDATA[Bauru]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -48236,6 +48132,95 @@ Disponibilidade de horário.</li>]]></description>
     <companyId><![CDATA[2189233]]></companyId>
     <city><![CDATA[Nossa Senhora do Socorro]]></city>
     <state><![CDATA[Sergipe]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[20581de6-e487-484f-8598-4b203840e056]]></partnerJobId>
+    <company><![CDATA[Cerradão]]></company>
+    <title><![CDATA[Coordenador (a) de  DHO]]></title>
+    <posterEmail><![CDATA[thamara.marques@cerradao.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Coordenar
+e implementar estratégias de Desenvolvimento Humano e Organizacional (DHO),
+abrangendo áreas como treinamento, capacitação, clima organizacional, cultura,
+atração, retenção e desenvolvimento de talentos. Atuar como guardião da cultura
+organizacional, promovendo um ambiente colaborativo e sustentável, alinhado aos
+valores da empresa. Contribuir como parceiro estratégico de negócios,
+desenvolvendo práticas de gestão de pessoas que garantam o alcance dos
+objetivos organizacionais e o engajamento dos colaboradores.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />·       
+Planejar, organizar e supervisionar iniciativas
+de treinamento, capacitação, clima organizacional, cultura e retenção de
+talentos.·       
+Desenvolver ações que reforcem os valores e a
+identidade da empresa, promovendo a colaboração e engajamento.·       
+Implementar sistemas de avaliação e
+acompanhamento de desempenho, alinhados aos objetivos estratégicos.·       
+Atuar como parceiro de negócios, apoiando
+lideranças na identificação e implementação de soluções de RH.·       
+Conduzir iniciativas voltadas à transformação
+cultural e ao crescimento sustentável da organização.·       
+Desenvolver e revisar processos internos,
+garantindo eficiência e alinhamento às práticas de gestão de mercado.·       
+Criar programas de desenvolvimento para líderes,
+fomentando competências estratégicas.·       
+Elaborar, acompanhar e analisar indicadores de
+desempenho da área, utilizando-os como base para ações de melhoria.·       
+Fornecer dados e insights estratégicos para
+subsidiar decisões das lideranças.·       
+Conduzir processos seletivos do operacional ao
+estratégico, alinhando contratações às necessidades organizacionais.·       
+Planejar e gerenciar contratações em grande
+escala, garantindo agilidade e conformidade com os padrões internos.Monitorar o
+quadro de pessoal e gerenciar o orçamento relacionado a contratações e
+demissões.·       
+Garantir a aplicação de treinamentos
+obrigatórios (NRs) para atender requisitos de segurança e legislação
+trabalhista.·       
+Promover ações que estimulem a diversidade e o
+respeito às diferenças.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Implementar e acompanhar políticas de RH
+alinhadas às metas organizacionais e à legislação.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação
+em Administração, Psicologia, Gestão de Recursos Humanos ou áreas correlatas.
+Pós-graduação em DHO, Gestão Estratégica de Pessoas ou áreas afins será um
+diferencial.</li><li>5 anos de experiência em RH generalista, com
+foco em DHO, treinamento, cultura organizacional e gestão de talentos.</li></ul> <br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cerradaovagas/467/coordenador-a-de-dho]]></applyUrl>
+    <companyId><![CDATA[3364231]]></companyId>
+    <city><![CDATA[Frutal]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -50465,62 +50450,12 @@ constante evolução.</li></ul><br /><br /><br /><br /><b>Requisitos e qualifica
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[63592f4c-05c6-44b6-a6e7-c844fdfe967b]]></partnerJobId>
+    <partnerJobId><![CDATA[b640d527-b1ef-4973-b8b0-e6e649600c87]]></partnerJobId>
     <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[TECNICO DE SEGURANCA DO TRABALHO]]></title>
+    <title><![CDATA[OPERADOR DE EMPILHADEIRA]]></title>
     <posterEmail><![CDATA[priscilla.veras@triunfologistica.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Garantir a implementação e manutenção das normas de saúde e
-segurança do trabalho, promovendo um ambiente seguro, prevenindo acidentes e
-assegurando o cumprimento da legislação vigente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />·        
-Identificar riscos nos ambientes de trabalho e
-propor medidas preventivas 
-
-·        
-Elaborar, implementar e acompanhar programas
-como: 
-
-<ul>
- <li>PGR (Programa de
-     Gerenciamento de Riscos) </li>
- <li>PCMSO (em conjunto com
-     médico do trabalho) </li>
-</ul>
-
-·        
-Realizar inspeções periódicas de segurança 
-
-·        
-Investigar acidentes e incidentes, propondo
-ações corretivas 
-
-·        
-Ministrar treinamentos (NRs, integração, CIPA,
-etc.) 
-
-·        
-Controlar e orientar o uso de EPIs 
-
-·        
-Acompanhar auditorias internas e externas 
-
-·        
-Emitir relatórios técnicos e indicadores de
-segurança 
-
-·        
-Apoiar na formação e atuação da CIPA<br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Obrigatórios:</b>
-
-<ul>
- <li>Curso
-     Técnico em Segurança do Trabalho (com registro ativo) </li>
- <li>Conhecimento
-     das Normas Regulamentadoras (NRs) </li>
- <li>Experiência
-     na função </li>
-</ul>
-
-<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/338/tecnico-de-seguranca-do-trabalho]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Operar empilhadeiras para movimentação, carga, descarga e organização de materiais nas áreas de armazenagem e operação, garantindo a segurança das atividades, a integridade dos materiais e a preservação dos equipamentos utilizados.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Operar empilhadeiras frontais e retráteis, com capacidade de 2,5 toneladas até 16 toneladas, incluindo equipamentos com acessórios específicos como pinça para movimentação de tubos; </li></ul><br /><ul><li>Realizar a movimentação, carga e descarga de materiais nas áreas de armazenagem e operação; </li></ul><br /><ul><li>Efetuar inspeção diária da empilhadeira antes do início das atividades, utilizando checklist operacional; </li></ul><br /><ul><li>Zelar pela conservação e bom funcionamento dos equipamentos, comunicando qualquer anormalidade ou necessidade de manutenção; </li></ul><br /><ul><li>Comunicar necessidades de manutenção, abastecimento ou irregularidades no equipamento; </li></ul><br /><ul><li>Realizar o recebimento, identificação, guarda, separação e movimentação de materiais nos armazéns; </li></ul><br /><ul><li>Apoiar na conferência de materiais recebidos ou expedidos; </li></ul><br /><ul><li>Preparar materiais e volumes em embalagens primárias ou secundárias para expedição; </li></ul><br /><ul><li>Apoiar nas atividades de organização e acondicionamento de materiais nos armazéns; </li></ul><br /><ul><li>Auxiliar na realização de inventários ou contagens periódicas de estoque, quando necessário; </li></ul><br /><ul><li>Preencher formulários operacionais e registros relacionados à movimentação e expedição de materiais; </li></ul><br /><ul><li>Manter a organização e segurança das áreas operacionais; </li></ul><br /><ul><li>Recusar-se a executar atividades em situações de risco iminente, comunicando imediatamente à liderança; </li></ul><br /><ul><li>Informar à empresa possíveis irregularidades que possam gerar perdas ou prejuízos ao patrimônio; </li></ul><br /><ul><li>Cumprir os requisitos do Sistema de Gestão Integrado (QSMS) conforme estabelecido nos documentos da empresa; </li></ul><br /><br /><ul><li>Executar outras atividades correlatas às descritas, conforme orientação do superior imediato ou necessidade da operação. </li></ul><br /> <br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Escolaridade <br />Ensino Médio Completo. <br />Experiência <br />Experiência em operação de empilhadeiras para movimentação de materiais em armazéns ou operações logísticas. <br />Obrigatório <br /><ul><li>Curso ou certificação de Operador de Empilhadeira; </li></ul><br /><ul><li>Experiência em operação de empilhadeiras frontais e retráteis; </li></ul><br /><ul><li>Experiência em operação de empilhadeiras de diferentes capacidades (2,5t a 16t); </li></ul><br /><ul><li>Conhecimento em movimentação de cargas com acessórios, incluindo pinça para tubos. </li></ul><br /> <br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/286/operador-de-empilhadeira]]></applyUrl>
     <companyId><![CDATA[3089272]]></companyId>
     <city><![CDATA[Duque de Caxias]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
@@ -57121,33 +57056,6 @@ mais de 70 embarcações altamente especializadas, de última geração.<br /><b
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[b3a609ad-9c06-49e5-a559-0585cea1b014]]></partnerJobId>
-    <company><![CDATA[Me2 Rentals Experience]]></company>
-    <title><![CDATA[Estoquista]]></title>
-    <posterEmail><![CDATA[gp@me2service.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma oportunidade de crescimento em um ambiente dinâmico e desafiador, temos uma excelente chance para você! Estamos em busca de pessoas proativas e comprometidas. Se você está pronto para embarcar nessa jornada conosco, não perca a oportunidade de se juntar a uma equipe que acredita no talento e na dedicação de cada membro.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Como Estoquista, você terá como atividades:<ul><li>Organização e controle do estoque;</li><li>Comunicação com terceirizados;</li><li>Solicitação de materiais em falta no estoque;</li><li>Controle das entregas de materiais;</li><li>Registro de uso ou perda de mercadoria;</li><li>Inspecionar itens com defeito;</li><li>Construção de inventários;</li><li>Conferência de notas fiscais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Para essa posição você precisa ter:<ul><li>Ensino Médio completo;<br /></li><li>Conhecimento em office, planilhas;</li><li>Disponibilidade para o trabalho no sábado ou domingo.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscome2rentals/14/estoquista]]></applyUrl>
-    <companyId><![CDATA[72736360]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[3000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2300.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[686aac10-b21f-4c74-8e1a-8dce72803589]]></partnerJobId>
     <company><![CDATA[Grupo RAX]]></company>
     <title><![CDATA[Analista de Importação - Manaus]]></title>
@@ -61895,6 +61803,33 @@ Garantia do cumprimento da legislação trabalhista e previdenciária.</li><br /
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nsacontabilidade/36/analista-fiscontabil]]></applyUrl>
     <companyId><![CDATA[77616499]]></companyId>
     <city><![CDATA[Barra do Piraí]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[3000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2500.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[513a4d62-f26a-456b-83a6-5487c49e1ddc]]></partnerJobId>
+    <company><![CDATA[NSA Contabilidade]]></company>
+    <title><![CDATA[ANALISTA FISCONTÁBIL]]></title>
+    <posterEmail><![CDATA[thamis.rds@gmail.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma oportunidade desafiadora e dinâmica na área de contabilidade, temos um convite especial para você! Estamos em busca de profissionais apaixonados por números e que valorizam a precisão e a organização. Neste ambiente de trabalho colaborativo e em constante evolução, você terá a chance de desenvolver suas habilidades e crescer junto com nossa equipe. Aqui, valorizamos a proatividade e o espírito de equipe, proporcionando um espaço onde suas ideias serão ouvidas e premiadas. Se você deseja fazer parte de um time comprometido com a excelência e a inovação, não perca a chance de se juntar a nós. Venha contribuir com suas experiências e se desenvolver em um ambiente que respeita e estimula o potencial de cada indivíduo. Esperamos por você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Análise e elaboração das demonstrações contábeis.</li><li>Planejamento de controle das atividades contábeis.</li><li>Dar suporte a equipe contábil.</li><li>Realizar atendimentos aos clientes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa em Ciências Contábeis</li><li>Conhecimento do Pacote Office Intermediário</li><li>Experiência mínima de 6 meses na função</li><li>Ter disponibilidade de atuação em Volta Redonda</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nsacontabilidade/44/analista-fiscontabil]]></applyUrl>
+    <companyId><![CDATA[77616499]]></companyId>
+    <city><![CDATA[Volta Redonda]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -88828,7 +88763,7 @@ Experiência com Central Finance.</li>]]></description>
     <company><![CDATA[Lab2dev Soluções em Tecnologia Ltda]]></company>
     <title><![CDATA[CONSULTOR SAP MM|MDG]]></title>
     <posterEmail><![CDATA[robinson.lambert@lab2dev.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável pela gestão, governança e qualidade dos dados mestres de materiais no ambiente SAP, atuando em iniciativas de implantação, rollout, transformação digital e migração para SAP S/4HANA. Possuir forte conhecimento dos processos de suprimentos, cadastro de materiais, integração entre módulos e governança de dados corporativos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gestão e manutenção dos dados mestres de materiais utilizando SAP MDG.</li><li>Definição e implementação de modelos de governança de dados.</li><li>Criação, alteração, extensão e harmonização de cadastros de materiais.</li><li>Mapeamento e revisão de processos de negócio relacionados a compras, estoque e logística.</li><li>Atuação em projetos de implantação, rollout e conversão para SAP S/4HANA.</li><li>Definição e acompanhamento de workflows de aprovação de dados mestres.</li><li>Garantia da qualidade, consistência e conformidade dos dados corporativos.</li><li>Integração com equipes de negócio, arquitetura, desenvolvimento e dados.</li><li>Apoio na definição de estratégias de Clean Core e utilização de APIs Standard SAP.</li><li>Participação em atividades de carga, saneamento e migração de dados.</li><li>Elaboração de especificações funcionais e suporte aos testes integrados e UAT.</li><li><br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em projetos globais de rollout.</li><li>Experiência com SAP Business Partner e governança corporativa de dados.</li><li>Vivência em metodologias SAP Activate e Agile.</li><li>Inglês avançado para interação com times globais.</li><li>Visão de processos end-to-end.</li><li>Capacidade analítica e foco em qualidade de dados.</li><li>Excelente comunicação com áreas de negócio.</li><li>Organização e atenção aos detalhes.</li><li>Perfil colaborativo e orientado a resultados.</li><li>Facilidade para conduzir workshops e levantamento de requisitos.</li></ul><ul><li>SAP MM (Purchasing, Inventory Management e Material Master).</li><li>SAP MDG-M (Master Data Governance for Material).</li><li>SAP S/4HANA.</li><li>Governança e Qualidade de Dados.</li><li>SAP Fiori.</li><li>Workflow MDG.</li><li>BRF+.</li><li>Data Migration (LSMW, Migration Cockpit, SAP Data Services).</li><li>CDS Views.</li><li>Integrações via APIs Standard SAP.</li><li>Conceitos de Clean Core.</li><li>Conhecimento em processos de Supply Chain e Procurement.</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável pela gestão, governança e qualidade dos dados mestres de materiais no ambiente SAP, atuando em iniciativas de implantação, rollout, transformação digital e migração para SAP S/4HANA. Possuir forte conhecimento dos processos de suprimentos, cadastro de materiais, integração entre módulos e governança de dados corporativos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gestão e manutenção dos dados mestres de materiais utilizando SAP MDG.</li><li>Definição e implementação de modelos de governança de dados.</li><li>Criação, alteração, extensão e harmonização de cadastros de materiais.</li><li>Mapeamento e revisão de processos de negócio relacionados a compras, estoque e logística.</li><li>Atuação em projetos de implantação, rollout e conversão para SAP S/4HANA.</li><li>Definição e acompanhamento de workflows de aprovação de dados mestres.</li><li>Garantia da qualidade, consistência e conformidade dos dados corporativos.</li><li>Integração com equipes de negócio, arquitetura, desenvolvimento e dados.</li><li>Apoio na definição de estratégias de Clean Core e utilização de APIs Standard SAP.</li><li>Participação em atividades de carga, saneamento e migração de dados.</li><li>Elaboração de especificações funcionais e suporte aos testes integrados e UAT.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em projetos globais de rollout.</li><li>Experiência com SAP Business Partner e governança corporativa de dados.</li><li>Vivência em metodologias SAP Activate e Agile.</li><li>Inglês avançado para interação com times globais.</li><li>Visão de processos end-to-end.</li><li>Capacidade analítica e foco em qualidade de dados.</li><li>Excelente comunicação com áreas de negócio.</li><li>Organização e atenção aos detalhes.</li><li>Perfil colaborativo e orientado a resultados.</li><li>Facilidade para conduzir workshops e levantamento de requisitos.</li></ul><ul><li>SAP MM (Purchasing, Inventory Management e Material Master).</li><li>SAP MDG-M (Master Data Governance for Material).</li><li>SAP S/4HANA.</li><li>Governança e Qualidade de Dados.</li><li>SAP Fiori.</li><li>Workflow MDG.</li><li>BRF+.</li><li>Data Migration (LSMW, Migration Cockpit, SAP Data Services).</li><li>CDS Views.</li><li>Integrações via APIs Standard SAP.</li><li>Conceitos de Clean Core.</li><li>Conhecimento em processos de Supply Chain e Procurement.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/lab2dev/39/consultor-sap-mm-mdg]]></applyUrl>
     <companyId><![CDATA[12589212]]></companyId>
     <city><![CDATA[Osasco]]></city>
@@ -94115,25 +94050,6 @@ Strong classroom management and organizational skills.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[716dd5bd-fa09-4ccb-9626-a2049d5a312b]]></partnerJobId>
-    <company><![CDATA[Salsa Technology]]></company>
-    <title><![CDATA[Analista de Suporte Noturno  – Escalas Flexíveis]]></title>
-    <posterEmail><![CDATA[marcia.nunes@salsatechnology.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Faça parte do nosso time técnico no universo Salsa! <br />Estamos em busca de profissionais com perfil analítico, organizado e hands-on para atuar na área de Suporte Técnico (NOITE &amp; MADRUGADA). <br />Analista de Suporte Noturno  – Escalas Flexíveis<br />Esta posição integra o time de forma fixa, com atuação voltada ao apoio operacional e cobertura de escalas. É essencial ter disponibilidade para trabalhar em diferentes turnos, conforme a necessidade da operação, em escalas com dias alternados.  <br />Se você gosta de resolver problemas, entende a importância da comunicação clara e tem interesse em tecnologia e Igaming, essa oportunidade é para você! <br />Sobre a vaga:<br />Você será responsável por atender, investigar, monitorar e acompanhar solicitações técnicas relacionadas ao funcionamento dos nossos produtos. Terá contato direto com operadores, provedores e times internos, garantindo agilidade e qualidade na resolução de incidentes e dúvidas.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Principais responsabilidades:<br /><ul><li>Atender e gerenciar chamados via sistema JIRA (Help Desk), Teams e E-mail;</li><li>Realizar atendimento, triagem, análise técnica em prol da resolução de incidentes;</li><li>Atuar na resolução de problemas de primeiro e segundo nível, sempre que possível sem escalonamento;</li><li>Acompanhar de ponta a ponta todo o ciclo do chamado — da abertura ao encerramento;</li><li>Manter todos os casos atualizados no Help Desk, Teams e E-mail;</li><li>Manter os demais times internos posicionados sobre os problemas/atendimento, além dos nossos clientes e parceiros;</li><li>Monitorar painéis de performance e indicadores técnicos dos clientes;</li><li>Garantir cumprimento dos SLA’s e qualidade no atendimento técnico;</li><li>Manter atualizados todos os registros e documentações do Time de Suporte;</li><li>Comunicar-se de forma clara com operadores, provedores e áreas internas;</li><li>Contribuir para o aprimoramento contínuo dos processos de atendimento, visando a resolução de incidentes;</li><li>Atuação e apoio em demandas operacionais, conforme alinhamento com as lideranças;</li><li>Dar respaldo aos operadores/provedores em todas as vias de comunicação;</li><li>Habilidade de leitura, interpretação e escrita em português, inglês e espanhol (preferencialmente).</li><li>Desenvolver o senso crítico, para atender com eficácia a criticidades dos problemas relatados, primordial para um atendimento de help desk;</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando ou concluído Ensino Superior em Administração/Tecnologia da Informação, Sistemas ou áreas correlatas;</li><li>Habilidade em atendimento multifocal;</li><li>Experiência (ou forte interesse) em suporte técnico em ambientes B2B;</li><li>Boa capacidade de investigação técnica e resolução de problemas;</li><li>Organização, atenção aos detalhes e senso de prioridade;</li><li>Boa comunicação escrita e verbal;</li><li>Conhecimento em MS Office;</li><li>Comprometimento com resultados e qualidade de atendimento;</li><li>Desejável: experiência com equipes multidisciplinares e atendimento remoto;</li><li>Diferencial: inglês ou espanhol em nível intermediário.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/salsatechnology/10/analista-de-suporte-noturno-escalas-flexiveis]]></applyUrl>
-    <companyId><![CDATA[64517557]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[461ab975-3539-48d7-aed4-0aede8136a7d]]></partnerJobId>
     <company><![CDATA[Salsa Technology]]></company>
     <title><![CDATA[Desenvolvedor(a) Full Stack Pleno (com foco em IA) REMOTO]]></title>
@@ -94251,6 +94167,44 @@ Colaborar com times técnicos e documentar soluções.</li></ul><br /><br /><b>R
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[00580b41-5a71-41de-8c9b-16ac8ef529e5]]></partnerJobId>
+    <company><![CDATA[VMI Security]]></company>
+    <title><![CDATA[Comprador Pleno/Sênior - Bilíngue]]></title>
+    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por liderar tecnicamente os processos de compras de matéria-prima, equipamentos, peças e serviços diretamente relacionados ao processo produtivo, atuando como referência técnica e liderança da equipe.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Desenvolver e implementar estratégias de compras eficazes, garantindo a melhor relação custo-benefício.<br /> - Analisar e selecionar fornecedores, estabelecendo parcerias sólidas e duradouras.<br /> - Negociar contratos e condições de pagamento com fornecedores, visando o cumprimento dos interesses da empresa.<br /> - Realizar análises de mercado para identificar tendências e oportunidades de melhoria nos processos de compra.<br /> - Monitorar e controlar o desempenho dos fornecedores, garantindo que os padrões de qualidade e prazos sejam atendidos.<br /> - Preparar e apresentar relatórios sobre atividades de compras e indicadores de desempenho para a alta gestão.<br /> - Colaborar com demais áreas da empresa, como logística e produção, para garantir a integração e eficiência do processo de suprimentos.<br /> - Participar de reuniões e eventos do setor para ampliar a rede de contatos e ficar atualizado sobre inovações e melhores práticas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior em Administração, Economia, contábeis ou áreas correlatas e  pós- graduação e, gestão estratégica de compras ou suppy chain.<br /> - Experiência em compras e negociações, preferencialmente em empresas de grande porte.<br /> - Fluência em inglês, tanto escrita quanto falada.<br /> - Habilidade em análise de mercado e desenvolvimento de fornecedores.<br /> - Conhecimento em ferramentas de gestão de compras e ERP.<br /> - Excel avançado e domínio em análise de dados.<br /> - Capacidade de negociação e bom relacionamento interpessoal.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/133/comprador-pleno-senior-bilingue]]></applyUrl>
+    <companyId><![CDATA[2693346]]></companyId>
+    <city><![CDATA[Lagoa Santa]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f4a498c8-d83c-4cc0-a5c1-98e2913e76b5]]></partnerJobId>
+    <company><![CDATA[VMI Security]]></company>
+    <title><![CDATA[Líder de Almoxarifado]]></title>
+    <posterEmail><![CDATA[erica.goncalves@vmis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Garantir a eficiência, organização e controle das atividades de almoxarifado e logística no turno noturno, assegurando o correto abastecimento da produção, a acuracidade de estoque, o cumprimento dos processos e a liderança do time operacional, com foco em segurança, produtividade e continuidade da operação.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Liderar a equipe de Almoxarifado e Logística no turno noturno, garantindo o abastecimento contínuo da produção.</li><li>Coordenar as atividades de recebimento, armazenamento, movimentação e controle de materiais.</li><li>Acompanhar a acuracidade dos estoques e apoiar inventários.</li><li>Distribuir tarefas, orientar a equipe e acompanhar indicadores de desempenho.</li><li>Assegurar o cumprimento das normas de segurança, organização (5S) e procedimentos internos.</li><li>Atuar em conjunto com Produção, PCP, Qualidade e Segurança do Trabalho para atender às prioridades operacionais.</li><li>Identificar oportunidades de melhoria nos processos logísticos e reportar ocorrências do turno.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Curso Técnico ou Superior em Logística, Administração ou áreas correlatas.</li><li>Experiência em almoxarifado e/ou logística, preferencialmente em ambiente industrial.</li><li>Vivência com liderança de equipes operacionais.</li><li>Conhecimento em controle de estoque, movimentação de materiais e sistemas ERP (Protheus ou similar).</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/131/lider-de-almoxarifado]]></applyUrl>
+    <companyId><![CDATA[2693346]]></companyId>
+    <city><![CDATA[Lagoa Santa]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[fbb6bd4d-6351-4770-bb71-6ab23586f245]]></partnerJobId>
