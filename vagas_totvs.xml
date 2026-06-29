@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Mon, 29 Jun 2026 19:18:33 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 29 Jun 2026 20:18:54 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3806]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3799]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -1484,6 +1484,25 @@ clientes e áreas envolvidas no projeto/atendimento; </li><li>Utiliza framework
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Brasília]]></city>
     <state><![CDATA[Distrito Federal]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[68834dab-59ef-4167-bd00-b20ccc80cfec]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Analista de Qualidade Pleno]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Sua missão aqui na TOTVS será assegurar a qualidade das entregas do time, a fim de que os requisitos de software solicitados pela pessoa de produto (PO) da squad sejam atendidos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<br /><br /><ul><li>Responsável por realizar levantamentos de requisitos de alta complexidade, propondo soluções, avaliando alternativas e realizando capacitações;</li><li>Orientar e trabalhar com o time de desenvolvimento para encontrar soluções de negócio por meio de comunicação e trocas de conhecimento, sendo capaz de sanar dúvidas e disseminar seu conhecimento em fóruns internos e externos da TOTVS, além de interagir com outras áreas para trazer melhorias;</li><li>Apoiar PO na tomada de decisão, colaborando com insumos de repertório de negócio;</li><li>Apoiar na priorização das entregas do produto de software, por meio de análise especializada considerando os impactos de potenciais priorizações sobre as atividades do time/produto;</li><li>Detalhar requisitos de média e alta complexidade por meio do contato com clientes e áreas envolvidas no projeto/atendimento, sugerindo a implementação no produto padrão para o PO;</li><li>Garantir a eficácia da implementação e funcionamento das funcionalidades do produto de software através da realização de testes integrados manutenções/inovações/legislações complexas;</li><li>Realizar os testes sistêmicos da liberação da release do produto de software (produto final), a fim de garantir que as rotinas/operações do sistema estejam funcionais. Pode utilizar como base para direcionar seus testes os cenários previamente cadastrados na ferramenta de “Casos de Testes”;</li><li>Elaborar os casos de testes para as novas funcionalidades ou para funcionalidades já existentes que não possuem casos de testes descritos;</li><li>Criar o mapa mental para as rotinas críticas/complexas, identificando as funcionalidades da rotina.</li><li>Participar e colaborar dos eventos ágeis para melhoria contínua do time;</li><li>Revisar o documento técnico escrito pelos desenvolvedores, assegurando que o cliente compreenda o que foi implementado no produto de software e publicá-lo no repositório de documentos disponível aos clientes;</li><li>Sugerir melhorias nos processos da área de qualidade com base em seu conhecimento técnico com o objetivo de otimizar as suas entregas e dos envolvidos;</li><li>Automatizar os casos de testes criando scripts de testes de alta complexidade;</li><li>Identificar oportunidades de melhoria através da análise crítica em relação aos processos, ferramentas, produto, testes e demais processos de desenvolvimento;</li><li>Garantir o cumprimento das metas de curto prazo de sua função dentro da área de qualidade.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><br /><br /><ul><li>Experiência em ferramentas de Automação de testes;</li><li>Técnicas de testes – nível avançado;</li><li>Lógica de programação;</li><li>Métodos ágeis de desenvolvimento de software;</li><li>Superior Completo em Tecnologia e afins.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10994/tech-analista-de-qualidade-pleno]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Goiânia]]></city>
+    <state><![CDATA[Goiás]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -21826,107 +21845,6 @@ de prensas ou máquinas industriais (desejável).</li></ul><br /><br /><b>Requis
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[c37e8f88-bfb7-441b-b79e-3e409c2135bd]]></partnerJobId>
-    <company><![CDATA[HSystem]]></company>
-    <title><![CDATA[Desenvolvedor(a) FullStack .NET & React SR]]></title>
-    <posterEmail><![CDATA[maria.melo@hsystem.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você será responsável por liderar o desenvolvimento fullstack de um novo produto da HSystem, atuando desde a arquitetura até a entrega de funcionalidades em produção. Com experiência sólida em backend enterprise, React e serviços AWS, sua missão será construir uma plataforma escalável, segura e de alto desempenho desde os primeiros passos. Atuará com autonomia em um ambiente que já opera com desenvolvimento assistido por IA, incluindo Spec-Driven Development, Skills e Harness, com espaço real para inovação. Além disso, será referência técnica para o time, influenciando decisões de arquitetura, promovendo boas práticas e contribuindo para a construção de um produto robusto do zero.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Liderar o desenvolvimento fullstack do produto, atuando com backend em .NET Core 9+ (ou equivalente em Python, Go ou Next.js full-stack) e frontend em React.js, TypeScript e Tailwind CSS</li>
-<li>Definir e implementar decisões de arquitetura seguindo princípios de Clean Code e Clean Architecture, documentando as escolhas técnicas para garantir clareza e evolução sustentável</li>
-<li>Implementar interfaces a partir de designs fornecidos, aplicando noções de UI para entregas fiéis e funcionais</li>
-<li>Atuar com bancos de dados MariaDB e MongoDB, modelando soluções eficientes para os cenários do produto</li>
-<li>Desenvolver e manter serviços em AWS utilizando Lambda, S3, SQS e SNS, garantindo escalabilidade e resiliência da infraestrutura</li>
-<li>Implementar e manter estratégias de observabilidade com Sentry e OpenTelemetry (ou equivalentes), assegurando rastreabilidade e monitoramento contínuo</li>
-<li>Garantir a qualidade do código por meio de testes de unidade, integração e TDD, mantendo cobertura e confiabilidade das entregas</li>
-<li>Aplicar práticas de desenvolvimento seguro com base no OWASP Top 10, protegendo a plataforma e os dados dos clientes</li>
-<li>Utilizar desenvolvimento assistido por IA com Claude no dia a dia, com proficiência em Spec-Driven Development, criação e uso de Skills e Harness</li>
-<li>Colaborar com as áreas de Produto e Design para traduzir necessidades de negócio em soluções técnicas robustas</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência sólida em desenvolvimento fullstack, com atuação em backend enterprise, preferencialmente .NET Core 9+ (aceito conhecimento equivalente em Python, Go ou Next.js full-stack)</li>
-<li>Domínio de React.js, TypeScript e Tailwind CSS, com noções de UI e capacidade de implementar interfaces a partir de designs fornecidos</li>
-<li>Experiência com MariaDB e MongoDB, com capacidade de modelar e otimizar consultas para diferentes cenários de uso</li>
-<li>Conhecimento aplicado de serviços AWS (Lambda, S3, SQS, SNS) em ambientes produtivos</li>
-<li>Vivência com ferramentas de observabilidade como Sentry e OpenTelemetry (ou equivalentes)</li>
-<li>Prática consistente de testes de unidade, integração e TDD em projetos reais</li>
-<li>Aplicação de Clean Code, Clean Architecture e OWASP Top 10 no dia a dia de desenvolvimento</li>
-<li>Proficiência em desenvolvimento assistido por IA com Claude (ou ferramenta equivalente), incluindo Spec-Driven Development, Skills e Harness</li>
-<li>Experiência com automatização de processos, vivência no mercado de hospitalidade e inglês técnico para leitura serão considerados diferenciais</li>
-<li>Experiência com agentes autônomos ou pipelines de IA em produção será considerada um diferencial</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hsystem/71/desenvolvedor-a-fullstack-net-react-sr]]></applyUrl>
-    <companyId><![CDATA[3190262]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[12000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[9000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[257846a2-0371-433a-bb67-b83ec2fc5de9]]></partnerJobId>
-    <company><![CDATA[HSystem]]></company>
-    <title><![CDATA[Desenvolvedor(a) FullStack .NET & Angular SR]]></title>
-    <posterEmail><![CDATA[maria.melo@hsystem.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você será responsável por liderar a evolução de soluções fullstack de alta complexidade, atuando em produtos que atendem milhares de propriedades hoteleiras. Com domínio técnico em .NET, Python e Angular, sua missão será arquitetar, desenvolver e escalar funcionalidades que impactem diretamente a experiência dos clientes e a eficiência operacional. Atuará com autonomia em um ambiente que já possui ferramental de IA estruturado e pronto para uso, incluindo skills, governança de repositórios e desenvolvimento assistido por agentes em produção. Além disso, será referência técnica para o time, influenciando decisões de arquitetura, promovendo boas práticas e contribuindo para a evolução contínua da plataforma.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Liderar o desenvolvimento fullstack de funcionalidades para os produtos da HSystem, atuando com .NET Core 8+, Python e Angular 12+ em um ambiente de alta escala</li><li>Definir e implementar decisões de arquitetura seguindo princípios de Clean Code e Clean Architecture, garantindo qualidade, manutenibilidade e escalabilidade do código</li><li>Atuar com bancos de dados MongoDB e MariaDB, modelando soluções eficientes para cenários de alto volume de dados e interações</li><li>Aplicar práticas de desenvolvimento seguro com base no OWASP Top 10, assegurando a proteção da plataforma e dos dados dos clientes</li><li>Utilizar desenvolvimento assistido por IA com Claude no dia a dia, com proficiência em Spec-Driven Development, criação e uso de Skills e Harness, atuando com agentes em produção</li><li>Ser referência técnica para o time, promovendo padrões de qualidade, revisões de código e mentoria de profissionais menos experientes</li><li>Colaborar com as áreas de Produto e CS para traduzir necessidades de negócio em soluções técnicas robustas, contribuindo para a evolução contínua dos produtos</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência sólida com .NET Core 8+, Python e Angular 12+ (framework moderno, não AngularJS v1), com histórico de atuação em projetos fullstack de alta complexidade</li><li>Domínio de MongoDB e MariaDB, com capacidade de modelar e otimizar consultas para cenários de alto volume</li><li>Aplicação consistente de Clean Code e Clean Architecture em projetos reais</li><li>Experiência com Git/GitHub e práticas de versionamento e colaboração em equipe</li><li>Conhecimento aplicado de OWASP Top 10 e desenvolvimento seguro</li><li>Proficiência em desenvolvimento assistido por IA com Claude, incluindo Spec-Driven Development, criação e uso de Skills e Harness</li><li>Visão sistêmica e capacidade de liderança técnica, com habilidade para influenciar decisões de arquitetura e mentorar o time</li><li>Inglês técnico para leitura de documentação será considerado um diferencial</li><li>Experiência com produtos conversacionais (chatbot, NLU, integrações com ferramentas de helpdesk) será considerada um diferencial</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hsystem/70/desenvolvedor-a-fullstack-net-angular-sr]]></applyUrl>
-    <companyId><![CDATA[3190262]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[12000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[9000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[d959303b-6eb0-4616-9aa3-9b50078c9d76]]></partnerJobId>
-    <company><![CDATA[HSystem]]></company>
-    <title><![CDATA[Lead Development Representative (LDR) JR / Florianópolis - SC]]></title>
-    <posterEmail><![CDATA[maria.melo@hsystem.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você será responsável por pesquisar e mapear hotéis, pousadas e resorts com potencial de se tornarem clientes da HSystem, alimentando o time comercial com listas qualificadas e organizadas. No dia a dia, vai buscar informações sobre propriedades em diferentes fontes, validar dados de contato, enriquecer cadastros com informações relevantes e classificar leads por perfil e potencial. <br />Sua atuação será essencial para que o time de prospecção foque nos contatos certos, tornando a operação comercial mais eficiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Geração de listas: criar listas segmentadas dentro do ICP, aplicar filtros, organizar por segmento/região/perfil e entregar volume constante de leads; </li></ul><br /><ul><li>Enriquecimento de dados: completar contatos com informações adicionais, pesquisar gatilhos e contexto, adicionar notas úteis para os BDRs; </li></ul><br /><ul><li>Verificação e validação: checar histórico de clientes, abordagens recentes, cross-sell, impedimentos críticos e validar contatos (emails e telefones); </li></ul><br /><br /><ul><li>Organização e entrega: estruturar listas no RD Station, manter cronograma e documentar processos; </li></ul><br /><ul><li>Colaboração: trabalhar junto ao Supervisor e Sales Ops para alinhamento e eficiência das entregas. </li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Noção de processos comerciais e vendas B2B, com interesse em se desenvolver na área de prospecção e pré-vendas</li>
-<li>Conhecimento básico de ferramentas de prospecção como Qualifiquei, Apollo ou LinkedIn Sales Navigator</li>
-<li>Familiaridade com CRMs como RD Station, Pipedrive, HubSpot ou similares, mesmo que em nível inicial</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hsystem/74/lead-development-representative-ldr-jr-florianopolis-sc]]></applyUrl>
-    <companyId><![CDATA[3190262]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[2300.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2300.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[951cdf76-72a0-4a92-98af-99faac14b293]]></partnerJobId>
     <company><![CDATA[HSystem]]></company>
     <title><![CDATA[Business Development Representative (BDR) PL  / Florianópolis - SC]]></title>
@@ -21966,42 +21884,6 @@ de prensas ou máquinas industriais (desejável).</li></ul><br /><br /><b>Requis
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6b7a00b5-8c88-4fbf-86dc-c4be19833318]]></partnerJobId>
-    <company><![CDATA[HSystem]]></company>
-    <title><![CDATA[Analista de Customer Success Ongoing PL / Florianópolis - SC]]></title>
-    <posterEmail><![CDATA[maria.melo@hsystem.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você será responsável por conduzir a jornada contínua dos clientes após a etapa de implantação, garantindo que cada interação gere valor e fortaleça a parceria ao longo do tempo. Atuará de forma estratégica e consultiva, acompanhando indicadores de sucesso, antecipando riscos e identificando oportunidades de expansão e engajamento. Sua missão será assegurar que os clientes mantenham alto desempenho com as soluções HSystem, alcançando resultados consistentes e sustentáveis. Além disso, será o elo entre os clientes e os times internos, promovendo ações proativas, entregas de excelência e contribuindo para a fidelização e crescimento da base.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Atuar como especialista consultivo, entendendo os objetivos de negócio de cada cliente e conectando esses objetivos ao uso da solução</li>
-<li>Monitorar o Health Score no SenseData, analisando uso dos produtos, volume de chamados, faturamento, NPS e nível de engajamento. Acionar playbooks de risco para prevenção de churn e playbooks de oportunidade para upsell e cross sell com base nos dados</li>
-<li>Realizar reuniões periódicas de acompanhamento, como QBRs e check ins estratégicos, conforme o perfil da carteira high touch, low touch ou tech touch. Executar ações escaláveis como webinars, treinamentos em grupo e comunicações segmentadas pelo SenseData</li>
-<li>Identificar oportunidades de expansão, como venda de novos produtos ou aumento de uso, atuando em conjunto com o time comercial</li>
-<li>Coletar feedbacks estruturados dos clientes e compartilhar com o time de Produto, contribuindo para a priorização de melhorias e evolução da plataforma</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência em análise de dados de clientes, com capacidade de interpretar indicadores como Health Score, adoção e engajamento para apoiar a tomada de decisão</li>
-<li>Habilidade em gestão de relacionamento com múltiplos stakeholders, incluindo gerentes, proprietários e equipes operacionais</li>
-<li>Conhecimento do mercado hoteleiro, seus desafios, principais KPIs e dinâmica de operação</li>
-<li>Excelente comunicação verbal e escrita, com experiência na condução de reuniões online, apresentações e treinamentos</li>
-<li>Organização e disciplina para seguir processos, checklists e playbooks, mantendo registros atualizados em sistemas de gestão</li>
-<li>Capacidade de priorização e gestão de carteira de clientes, direcionando esforços para contas e ações de maior impacto</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hsystem/69/analista-de-customer-success-ongoing-pl-florianopolis-sc]]></applyUrl>
-    <companyId><![CDATA[3190262]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[4100.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[3500.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[b2c393a5-390f-4c6c-b974-8b26dafc598e]]></partnerJobId>
     <company><![CDATA[HSystem]]></company>
     <title><![CDATA[Analista de Customer Success Onboarding JR / Florianópolis - SC]]></title>
@@ -22019,45 +21901,6 @@ de prensas ou máquinas industriais (desejável).</li></ul><br /><br /><b>Requis
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[787f5427-ac13-4f1c-baf1-115ef6ab273e]]></partnerJobId>
-    <company><![CDATA[HSystem]]></company>
-    <title><![CDATA[Analista de Qualidade (Atendimento) JR / Florianópolis - SC]]></title>
-    <posterEmail><![CDATA[maria.melo@hsystem.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você será responsável por apoiar a operação do setor de Qualidade, <b>conduzindo auditorias de atendimento</b>, <b>organizando dados</b> e <b>contribuindo para a construção de indicadores que orientem melhorias reais na operação e na experiência do cliente</b>. Atuará no acompanhamento de métricas, na consolidação de relatórios e na utilização de ferramentas de inteligência artificial para gerar insights que apoiem a tomada de decisão. Terá a oportunidade de participar ativamente do projeto de IA de atendimento e de colaborar com diferentes áreas da empresa, como Suporte, CS, Produto e T&amp;D, ajudando a construir uma cultura de qualidade orientada por dados desde o início.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Avaliar atendimentos com base em critérios de qualidade definidos, registrando resultados de forma organizada e identificando padrões de erro e recorrências por analista e por critério</li>
-<li>Acompanhar e monitorar KPIs de qualidade e experiência do cliente, apoiando na construção e manutenção de métricas como CSAT, retrabalho, SLA e aderência</li>
-<li>Consolidar resultados de auditoria em relatórios periódicos, mantendo a base de dados de qualidade atualizada e confiável, e apoiando na criação de dashboards conforme a infraestrutura for estruturada</li>
-<li>Identificar tendências, desvios e causas recorrentes nos atendimentos, gerando insights acionáveis que apoiem decisões de melhoria operacional</li>
-<li>Acompanhar o projeto de IA de atendimento, contribuindo com a base de conhecimento, monitorando métricas de desempenho da IA e utilizando ferramentas de IA generativa para apoiar análises e geração de insights</li>
-<li>Documentar processos e fluxos dos setores, propondo evoluções de critérios, métricas e automações conforme o setor amadurece</li>
-<li>Atuar junto às áreas de Suporte, CS, Produto e T&amp;D, conectando dados de qualidade e direcionando melhorias</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Conhecimento em indicadores de atendimento e experiência do cliente, com facilidade para interpretar dados e organizá-los de forma clara</li>
-<li>Organização, atenção a detalhes e disciplina para manter registros, auditorias e documentações atualizados</li>
-<li>Boa comunicação escrita, com habilidade para gerar documentação interna e relatórios estruturados</li>
-<li>Pensamento analítico, com capacidade de identificar padrões, desvios e oportunidades de melhoria</li>
-<li>Proatividade e mentalidade de construção, com interesse genuíno em participar da estruturação de processos e indicadores</li>
-<li>Experiência com ferramentas de helpdesk (Movidesk, Zendesk ou similares) será considerada um diferencial</li>
-<li>Experiência com dados e BI (Power BI, Looker ou similares), familiaridade com IA generativa (como Claude) e curiosidade com automação de processos serão consideradas diferenciais</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hsystem/66/analista-de-qualidade-atendimento-jr-florianopolis-sc]]></applyUrl>
-    <companyId><![CDATA[3190262]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[3300.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2580.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -42471,25 +42314,6 @@ Apoiar as atividades gerais do setor, conforme demandas e necessidades da área.
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[dfeeb5cc-c74d-4971-a53a-a72d0d37d32d]]></partnerJobId>
-    <company><![CDATA[Sancet Medicina Diagnóstica]]></company>
-    <title><![CDATA[Analista NTO - 44 horas semanais]]></title>
-    <posterEmail><![CDATA[gabriela@sancet.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Abaixo apresentamos um <u><b>resumo</b></u> da descrição de cargo:<br /><ul><li>Realizar as análises de acordo com os respectivos Procedimentos Operacionais Padrão e técnicas estabelecidas, seguindo princípios científicos;</li><li>Preparar amostras para análise; </li><li>Operar instrumentos e equipamentos de análise; </li><li>Selecionar equipamentos e materiais para análise; </li><li>Preparar insumos;</li><li> Realizar exames; </li><li>Controlar qualidade do processo de análises; </li><li>Interpretar resultados de análises; </li><li>Emitir laudos de análises; </li><li>Registrar os resultados das análises, em meio eletrônico/cadernos e planilhas próprias, colocando data e rubrica, quando aplicável.</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar análises de dados e informações relacionadas à operação de NTO, visando identificar oportunidades de melhoria.<br /> - Elaborar relatórios e apresentações que sustentem as tomadas de decisão da equipe.<br /> - Monitorar indicadores de desempenho e propor ações corretivas quando necessário.<br /> - Colaborar com diferentes áreas para a implementação de projetos e processos de melhoria contínua.<br /> - Acompanhar e avaliar os resultados das iniciativas implementadas, reportando o desempenho à liderança.<br /> - Participar de reuniões para alinhamento de estratégias e metas da área.<br /> - Contribuir na documentação e padronização de processos operacionais.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior em Ciências Biomédicas.<br /> - Domínio do pacote Office, especialmente Excel.<br /> - Habilidade em interpretação de indicadores de desempenho.<br /> - Capacidade de trabalho em equipe e boa comunicação.<br /> - Proatividade e organização.<br /> - Conhecimento em metodologias ágeis será um diferencial.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sancetmedicinadiagnostica/67/analista-nto-44-horas-semanais]]></applyUrl>
-    <companyId><![CDATA[42118446]]></companyId>
-    <city><![CDATA[Mogi das Cruzes]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[2d1a7ea5-75ca-4b08-9078-08608798dd76]]></partnerJobId>
     <company><![CDATA[Sancet Medicina Diagnóstica]]></company>
     <title><![CDATA[Auxiliar Comercial]]></title>
@@ -42553,25 +42377,6 @@ Apoiar as atividades gerais do setor, conforme demandas e necessidades da área.
     <posterEmail><![CDATA[gabriela@sancet.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Proceder à identificação correta nos frascos de materiais biológicos, colocando sempre, a etiqueta com o número da Ordem de Serviço, nome do paciente, exames a serem realizados, data e hora quando aplicável. </li><li>Proceder à coleta de quaisquer materiais biológicos atendendo os pacientes de forma educada, profissional e ética, indiferente de sexo/gênero, raça/etnicidade e classe social.</li><li>Dar orientações técnicas específicas aos pacientes para coleta de materiais como urina para cultura, espermograma, escarro e etc,.</li><li>Triar material biológico.</li><li>Conferir pedido de exame.</li><li>Conferir as condições do material biológico. </li></ul><br /><br /><b>Inclusão e Diversidade</b><br />Esta vaga também é destinada a pessoas com deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de todos os perfis, independente de deficiência, raça, gênero, orientação sexual, idade ou religião.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a coleta de amostras biológicas e/ou materiais em diferentes locais designados.</li><li>Manipular e acondicionar corretamente as amostras coletadas para posterior análise.</li><li>Seguir procedimentos e protocolos estabelecidos para garantir a integridade das amostras.</li><li>Registrar e documentar todas as informações relevantes sobre as coletas realizadas.</li><li>Zelar pela limpeza e organização dos equipamentos e materiais utilizados durante o processo de coleta.</li><li>Colaborar com a equipe técnica na execução de atividades relacionadas à coleta de amostras.</li><li>Zelar pela segurança e saúde no ambiente de trabalho, seguindo normas e regulamentos internos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Nível técnico completo na área de Análises Clínicas ou Enfermagem;</li><li>Conhecimento em coleta de amostras biológicas;</li><li>Capacidade de seguir protocolos de segurança e boas práticas laboratoriais;</li><li>Proatividade e habilidade de trabalhar em equipe;</li><li>Boa comunicação oral e escrita.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sancetmedicinadiagnostica/60/tecnico-de-coleta-44-horas-semanais-unidades-mogi-das-cruzes]]></applyUrl>
-    <companyId><![CDATA[42118446]]></companyId>
-    <city><![CDATA[Mogi das Cruzes]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[06451f0c-c9a4-4c4d-b777-aed25274d20c]]></partnerJobId>
-    <company><![CDATA[Sancet Medicina Diagnóstica]]></company>
-    <title><![CDATA[Auxiliar de Almoxarifado Júnior]]></title>
-    <posterEmail><![CDATA[gabriela@sancet.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Abaixo apresentamos um resumo da descrição do cargo:<ul><li>Conferir prazos de entrega dos produtos;</li><li>Cadastrar produtos no sistema;</li><li>Colocar produtos em prateleira;s, porta paletes, drivers, blocagem, gaiolas etc;</li><li>Separar produtos por pedidos;</li><li>Dimensionar quantidades mínimas e máximas;</li><li>Controlar mercadorias de alta e baixa rotatividade;</li><li>Organizar produtos no espaço físico;</li></ul><br /><br /><br /><b><u>Inclusão e Diversidade</u></b><br />Esta vaga também é destinada a pessoas com deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de todos os perfis, independente de deficiência, raça, gênero, orientação sexual, idade ou religião.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Receber materiais entregues por fornecedores;</li><li>Conferir a entrada e saída de materiais;</li><li>Organizar e controlar o estoque;</li><li>Realizar a separação de materiais para distribuição interna;</li><li>Manter o almoxarifado organizado e limpo;</li><li>Auxiliar em inventários periódicos.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Conhecimento básico em informática;</li><li>Boa organização;</li><li>Facilidade para trabalhar em equipe;</li><li>Disponibilidade para aprendizado e crescimento profissional.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sancetmedicinadiagnostica/57/auxiliar-de-almoxarifado-junior]]></applyUrl>
     <companyId><![CDATA[42118446]]></companyId>
     <city><![CDATA[Mogi das Cruzes]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -79837,25 +79642,6 @@ Conhecimentos básicos pacote Office;</li></ul>]]></description>
     <posterEmail><![CDATA[ligia.jagosich@spark.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><strong>Missão desta área:</strong> Desenvolver e implementar estratégias e projetos de marketing de influência para as marcas, garantindo resultados e excelência na entrega; retendo os clientes em relações de médio e longo prazo. <br />Estamos em busca de pessoas que desejam se desafiar e que sejam incansáveis em busca do aprendizado. <br /><br /><br />Quer fazer parte da Spark e desbravar todo o potencial do Marketing de Influência?  <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Dar suporte às tarefas do time;</li><li>Fazer a logística de produtos (controle e envio/retirada);</li><li>Realizar o faturamento: fazendo o cadastro dos influenciadores no sistema do cliente, cobrança de notas fiscais, controle da planilha e envio para o time de Finance;</li><li>Realizar o controle de escopo dos influenciadores e planilhas;</li><li>Realizar cobrança e controle de posts e resultados;</li><li>Atualizar os big numbers e pedidos de pós-venda;</li><li>Auxiliar no direcionamento dos briefings para os influenciadores;</li><li>Realizar a aprovação dos conteúdos com o cliente;</li><li>Acompanhar as publicações e os influenciadores durante a campanha.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior cursando em Publicidade e Propaganda, Jornalismo, Relações Públicas ou áreas correlatas;</li><li>Experiência na área de atendimento ou negócios no segmento de marketing ou publicidade;</li><li>Heavy user de redes sociais.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsersparker/287/account-assistant-rio-de-janeiro]]></applyUrl>
-    <companyId><![CDATA[22297150]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[36764703-a4d0-4991-b383-d27d852d8451]]></partnerJobId>
-    <company><![CDATA[Spark]]></company>
-    <title><![CDATA[Data Strategy Assistant - Rio de Janeiro]]></title>
-    <posterEmail><![CDATA[sara.ramos@spark.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas que desejam se desafiar e que sejam incansáveis em busca do aprendizado. <br /><br /><br />Quer fazer parte da Spark e desbravar todo o potencial do Marketing de Influência? <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar na coleta e organização de dados das diversas áreas da empresa e das ferramentas internas, garantindo qualidade e consistência das bases.​</li><li>Auxiliar na análise dos dados, identificando tendências, padrões básicos e possíveis anomalias, sempre com acompanhamento de um analista/supervisor.​</li><li>Apoiar na construção e atualização de KPIs operacionais definidos pelo time de Data/BI, monitorando os indicadores em rotinas periódicas.​</li><li>Atualizar e manter dashboards e relatórios analíticos já existentes, garantindo que estejam corretos e atualizados para as áreas de negócio.​</li><li>Auxiliar na criação de novas visualizações sob orientação do time, garantindo que sejam claras e fáceis de entender para diferentes stakeholders.​</li><li>Apoiar a melhoria dos relatórios atuais, em parceria com o time de produto das ferramentas internas (ajustes de campos, filtros, layouts, automações simples).​</li><li>Contribuir na preparação de materiais e apresentações de resultados, organizando gráficos, tabelas e highlights de insights gerados pelo time de Data/BI.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior em andamento em Estatística, Administração, Engenharia, Ciência de Dados, Publicidade ou áreas correlatas.</li><li>Experiência prévia (estágio/assistente) em áreas de BI, dados, planejamento, performance ou relatórios.​</li><li>Conhecimentos básicos em Excel/Google Sheets (filtros, fórmulas simples, organização de bases).​</li><li>Noções de ferramentas de visualização de dados (ex.: Power BI, Looker Studio, Tableau ou similares) ou interesse em se desenvolver nessa frente.​</li><li>Capacidade analítica, atenção a detalhes e cuidado com qualidade de dados.​</li><li>Organização para lidar com múltiplas demandas e prazos.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsersparker/266/data-strategy-assistant-rio-de-janeiro]]></applyUrl>
     <companyId><![CDATA[22297150]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
