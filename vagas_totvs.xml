@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 02 Jul 2026 11:15:01 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 12:18:12 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3775]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3770]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -996,6 +996,25 @@ Produção, Química ou áreas correlatas]]></description>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d4bf82dd-6578-4eb3-94ad-fd9ce980ea19]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Analista de Segurança da Informação Júnior | SIEM | Elastic Search]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuará no time na área de Segurança da Informação para o time de Sustentação do SIEM, com responsabilidade pela operação, administração e suporte da plataforma baseada em Elastic Stack (Elasticsearch, Logstash e Kibana).<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<br /><ul><li>O profissional será responsável pelo monitoramento contínuo da infraestrutura de SIEM;</li><li>Análise de logs e eventos de segurança;</li><li>Criação e manutenção de regras de correlação</li><li>Apoio na investigação de incidentes (N1)</li><li>Troubleshooting de pipelines de ingestão de dados</li><li>Otimização de queries e índices no Elasticsearch</li><li>Além de garantir a disponibilidade, performance e integridade dos dados armazenados.</li><li>Atuará também no suporte a integrações com fontes de logs, ajuste de parsing (grok), dashboards no Kibana e colaboração com times de resposta a incidentes e engenharia de segurança.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Experiência com Elastic Stack (Elasticsearch, Logstash, Kibana) para ingestão, indexação, busca e visualização de dados Conhecimento em operação e sustentação de plataformas de SIEM (Security Information and Event Management) </li><li>Familiaridade com análise de logs de segurança (sistemas operacionais, redes, aplicações e dispositivos de segurança) </li><li>Experiência com criação e manutenção de regras de correlação e casos de uso de segurança Conhecimentos em query DSL do Elasticsearch e otimização de buscas e índices;</li><li>Experiência com parsing e normalização de logs (grok, pipelines de ingestão) Noções de detecção e resposta a incidentes (SOC / Blue Team);</li><li>Conhecimentos básicos de redes (TCP/IP, DNS, HTTP/HTTPS, firewalls) Experiência com sistemas operacionais Linux e Windows</li><li>Familiaridade com scripts para automação (Python, Bash ou similar) Conhecimento em integração de fontes de logs (APIs, syslog, agentes)</li><li>Noções de hardening, gestão de vulnerabilidades e boas práticas de segurança</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10956/tech-analista-de-seguranca-da-informacao-junior-siem-elastic-search]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -5189,25 +5208,6 @@ Atuar na análise de ameaças e incidentes de segurança de complexidade interme
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[62e9a0b9-c2c4-4c18-9c8c-404bed5f3ef2]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Gerente de Contas Sênior - Farmer | Service]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional para garantir o cumprimento das metas através da comercialização de produtos e serviços TOTVS com um processo que permita buscar um suspect, compreender suas necessidades, apresentar produtos e serviços, gerar oportunidades, propor, adequar, vender e entregar soluções, sempre mantendo um contínuo relacionamento técnico e empresarial.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br /><ul><li>Gerir sua carteira de clientes e construir um relacionamento visando rentabilizar, blindar e elevar o nível de satisfação da base TOTVS em relação às responsabilidades do AR nos indicadores de NPS (Farmer); </li><li>Prospectar novos negócios na base instalada e/ou em novos clientes, visando ampliar Market Share TOTVS (Hunter); </li><li>Planejar e executar o plano tático alinhado ao planejamento estratégico da DRG e resultados de vendas no segmento/região de atuação;</li><li>Ser especialista e liderar o assunto no seu negócio, sendo capaz de estabelecer discursos e formas de atuação altamente adequadas ao perfil de cada cliente/prospect/segmento; </li><li>Assegurar o cumprimento das metas individuais e metas de venda do time do Comercial em que estiver atuando, de acordo com a estratégia da TOTVS; </li><li>Visitar e assistir a base instalada e os novos clientes, garantindo sempre a excelência do atendimento TOTVS e buscando recorrentemente novos negócios; </li><li>Atender e se relacionar com o mercado e com a base instalada, através de visitas, reuniões, contatos telefônicos e e-mails; </li><li>Planejar, executar e liderar o processo de vendas de um produto ou serviço TOTVS ao mercado; </li><li>Levantar e analisar as informações do negócio, compilar e montar um plano de trabalho apoiado pela metodologia de vendas TOTVS;</li><li>Registrar no CRM e comunicar a área de Estratégia Comercial/Operações e Segmentos, informações relevantes sobre mercado/carteira;</li><li>Atuar como facilitador para a solução das demandas dos clientes e prospects; </li><li>Realizar a interface com as áreas internas da TOTVS; </li><li>Entregar e acompanhar a entrega dos produtos e/ou serviços TOTVS, garantindo que os acordos sejam cumpridos e os objetivos atendidos; </li><li>Realizar pós-venda com o objetivo de garantir o atendimento e gerar novas oportunidades (Cross Sell e Up Sell); </li><li>Ser referência técnica e comercial no seu segmento de atuação; </li><li>Atuar de forma consultiva em abordagens comerciais por meio de soluções segmentadas conforme área de atuação, potencializando a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><br /><ul><li>Ensino Superior Completo, preferencialmente no segmento de atuação</li><li>Vivência com vendas B2B de software de tecnologia e ERP; </li><li>Perfil Farmer, manutenção do relacionamento e na fidelização dos clientes;</li><li>Familiaridade com segmento de Service. </li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10159/vendas-gerente-de-contas-senior-farmer-service]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[d66a5afc-6217-4e92-87d6-66e4ed232ba0]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Vendas] Gerente de Contas Pleno - Farmer | C&P]]></title>
@@ -7313,39 +7313,12 @@ Manter o posto de trabalho limpo e organizado.</li></ul><br /><br /><b>Requisito
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[cd2b6325-b79b-44b1-b865-a171298a966b]]></partnerJobId>
+    <partnerJobId><![CDATA[6e85f537-1802-4fc2-a50b-72f55b5d5ed9]]></partnerJobId>
     <company><![CDATA[SENAC]]></company>
-    <title><![CDATA[2026.11.13 - Instrutor Horista Intermitente - Segmento Saúde (Radiologia) - Bom Jesus/Pi]]></title>
+    <title><![CDATA[2026.11.11 -Instrutor Horista Intermitente - Segmento Saúde (Enfermagem) - Bom Jesus/Pi]]></title>
     <posterEmail><![CDATA[anaclarabarbosa@pi.senac.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Instrutor Horista Intermitente - Segmento Saúde (Radiologia) - Bom Jesus/Pi<br /><br /><br /><b>Etapas do processo seletivo</b>Triagem de currículos;<br />Entrevista por competências;<br />Avaliação didática pedagógica.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar na elaboração do planejamento escolar e preparar a matéria a ser ministrada em sala de aula;</li><li>Prever estratégias e recursos didáticos necessários ao desenvolvimento dos trabalhos pedagógicos;</li><li>Conduzir o processo ensino-aprendizagem e promover a avaliação pedagógica da aprendizagem do corpo discente; </li><li>Documentar a prática pedagógica; </li><li>Participar de reuniões e grupos de estudos; analisar, interpretar normas e procedimentos; </li><li>Participar da elaboração e realização de projetos especiais;</li><li>Executar outras tarefas compatíveis com o cargo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Superior completo em qualquer área e formação específica em Técnico em Radiologia ou Tecnólogo em Radiologia. Experiência profissional comprovada na área de formação e registro no Conselho de Classe.<br /><br /><b>Requisito desejável</b><br /><br />Experiência em docência. <br /><br /><br /><b>Período de inscrição</b>: 24/06/2026 a 01/07/2026<br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivoinstrutorsenacpi/308/2026-11-13-instrutor-horista-intermitente-segmento-saude-radiologia-bom-jesus-pi]]></applyUrl>
-    <companyId><![CDATA[30120764]]></companyId>
-    <city><![CDATA[Bom Jesus]]></city>
-    <state><![CDATA[Piauí]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[33.88]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[33.88]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[8ef2f5ef-002b-43d1-921e-d6c17778ac86]]></partnerJobId>
-    <company><![CDATA[SENAC]]></company>
-    <title><![CDATA[2026.11.12 - Instrutor Horista Intermitente - Segmento Educacional (Redação para o Enem) - Bom Jesus/Pi]]></title>
-    <posterEmail><![CDATA[anaclarabarbosa@pi.senac.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Instrutor Horista Intermitente - Segmento Educacional (Redação para o Enem) - Bom Jesus/Pi<br /><br /><br /><b>Etapas do processo seletivo</b>Triagem de currículos;<br />Entrevista por competências;<br />Avaliação didática pedagógica.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar na elaboração do planejamento escolar e preparar a matéria a ser ministrada em sala de aula;</li><li>Prever estratégias e recursos didáticos necessários ao desenvolvimento dos trabalhos pedagógicos;</li><li>Conduzir o processo ensino-aprendizagem e promover a avaliação pedagógica da aprendizagem do corpo discente; </li><li>Documentar a prática pedagógica; </li><li>Participar de reuniões e grupos de estudos; analisar, interpretar normas e procedimentos; </li><li>Participar da elaboração e realização de projetos especiais;</li><li>Executar outras tarefas compatíveis com o cargo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Graduação completa em Letras Português, com experiência em redação.<br /><br /><br /><b>Requisito desejável</b><br /><br />Experiência em docência. <br /><br /><br /><b>Período de inscrição</b>: 23/05/2026 a 01/07/2026<br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivoinstrutorsenacpi/307/2026-11-12-instrutor-horista-intermitente-segmento-educacional-redacao-para-o-enem-bom-jesus-pi]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Instrutor Horista Intermitente - Segmento Saúde (Enfermagem) - Bom Jesus/Pi<br /><br /><br /><b>Etapas do processo seletivo</b>Triagem de currículos;<br />Entrevista por competências;<br />Avaliação didática pedagógica.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar na elaboração do planejamento escolar e preparar a matéria a ser ministrada em sala de aula;</li><li>Prever estratégias e recursos didáticos necessários ao desenvolvimento dos trabalhos pedagógicos;</li><li>Conduzir o processo ensino-aprendizagem e promover a avaliação pedagógica da aprendizagem do corpo discente; </li><li>Documentar a prática pedagógica; </li><li>Participar de reuniões e grupos de estudos; analisar, interpretar normas e procedimentos; </li><li>Participar da elaboração e realização de projetos especiais;</li><li>Executar outras tarefas compatíveis com o cargo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação superior em Enfermagem. Experiência profissional comprovada na área. Coren ativo. Morar na cidade de atuação. <br /><br /><b>Requisito desejável</b><br /><br />Experiência em docência. <br /><br /><br /><b>Período de inscrição</b>: 23/05/2026 a 03/07/2026<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivoinstrutorsenacpi/306/2026-11-11-instrutor-horista-intermitente-segmento-saude-enfermagem-bom-jesus-pi]]></applyUrl>
     <companyId><![CDATA[30120764]]></companyId>
     <city><![CDATA[Bom Jesus]]></city>
     <state><![CDATA[Piauí]]></state>
@@ -7375,33 +7348,6 @@ Manter o posto de trabalho limpo e organizado.</li></ul><br /><br /><b>Requisito
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivoinstrutorsenacpi/304/2026-06-04-instrutor-horista-intermitente-segmento-gastronomia-confeitaria-picos-pi]]></applyUrl>
     <companyId><![CDATA[30120764]]></companyId>
     <city><![CDATA[Picos]]></city>
-    <state><![CDATA[Piauí]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[33.88]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[33.88]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[97616629-31b5-405b-91b4-1f52e1ca297f]]></partnerJobId>
-    <company><![CDATA[SENAC]]></company>
-    <title><![CDATA[2026.05.09 - Instrutor Horista Intermitente - Segmento Gestão (Aprendizagem) - São Raimundo Nonato/Pi]]></title>
-    <posterEmail><![CDATA[anaclarabarbosa@pi.senac.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Instrutor Horista - Modalidade Intermitente - Segmento Gestão (Aprendizagem)  - São Raimundo Nonato/Pi<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar na elaboração do planejamento escolar e preparar a matéria a ser ministrada em sala de aula; </li><li>Prever estratégias e recursos didáticos necessários ao desenvolvimento dos trabalhos pedagógicos;</li><li> Conduzir o processo ensino-aprendizagem e promover a avaliação pedagógica da aprendizagem do corpo discente;</li><li> Documentar a prática pedagógica; </li><li>Participar de reuniões e grupos de estudos; analisar, interpretar normas e procedimentos; </li><li>Participar da elaboração e realização de projetos especiais; </li><li>Executar outras tarefas compatíveis com o cargo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação Superior em Administração, experiência profissional na área administrativa e conhecimento em rotinas de atendimento, operações de caixa e processos organizacionais. Disponibilidade no turno da manhã e habilidade com o público jovem. <br /><br /><br /><b>Requisito desejável</b><br /><br />Experiência em docência.  <br /><br /><br /><b>Período de inscrição</b>: 12/06/2026 a 01/07/2026<br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivoinstrutorsenacpi/295/2026-05-09-instrutor-horista-intermitente-segmento-gestao-aprendizagem-sao-raimundo-nonato-pi]]></applyUrl>
-    <companyId><![CDATA[30120764]]></companyId>
-    <city><![CDATA[São Raimundo Nonato]]></city>
     <state><![CDATA[Piauí]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -7900,7 +7846,7 @@ para otimizar estratégias;<br /><br /><b>Responsabilidades e atribuições</b><
     <company><![CDATA[TOTVS NORDESTE]]></company>
     <title><![CDATA[Estágio em Marketing (Foco em Eventos)]]></title>
     <posterEmail><![CDATA[taynah.mota@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Neste <b>estágio com foco em eventos</b>, sua missão será apoiar a equipe de Marketing em toda a jornada de produção das nossas ações corporativas. Você participará ativamente desde o planejamento inicial, realizando cotações com fornecedores, organização de materiais e controle financeiro de planilhas, até a montagem logística e o suporte presencial no dia dos eventos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<ul><li>Realizar cotações e apoiar na negociação com fornecedores, consolidando orçamentos para análise e aprovação;</li><li>Apoiar no controle financeiro dos eventos, incluindo solicitação de cobranças, acompanhamento de pagamentos e organização de notas fiscais;</li><li>Apoiar no planejamento logístico e operacional dos eventos da marca;</li><li>Realizar contato com fornecedores e parceiros para alinhamento de demandas;</li><li>Organizar materiais de apoio, brindes e estrutura necessária para garantir uma boa experiência ao público;</li><li>Organizar e arquivar documentos financeiros e contratos relacionados aos eventos;</li><li>Acompanhar a execução dos eventos e dar suporte à equipe durante as ações;</li><li>Auxiliar na resolução de imprevistos em tempo real com agilidade e proatividade;</li><li>Apoiar no controle de cronogramas e organização das entregas;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />O QUE ESPERAMOS DE VOCÊ:<ul><li>Ensino superior cursando em Eventos, Administração, Marketing ou áreas correlatas;</li><li>Organização, atenção a detalhes e capacidade de gerenciar múltiplas demandas simultaneamente;</li><li>Boa comunicação interpessoal;</li><li>Proatividade e disposição para atuar em campo durante os eventos;</li><li>Afinidade com ambientes dinâmicos e alta capacidade de adaptação.</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Neste <b>estágio com foco em eventos</b>, sua missão será apoiar a equipe de Marketing em toda a jornada de produção das nossas ações corporativas. Você participará ativamente desde o planejamento inicial, realizando cotações com fornecedores, organização de materiais e controle financeiro de planilhas, até a montagem logística e o suporte presencial no dia dos eventos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<ul><li>Realizar cotações e apoiar na negociação com fornecedores, consolidando orçamentos para análise e aprovação;</li><li>Apoiar no controle financeiro dos eventos, incluindo solicitação de cobranças, acompanhamento de pagamentos e organização de notas fiscais;</li><li>Apoiar no planejamento logístico e operacional dos eventos da marca;</li><li>Realizar contato com fornecedores e parceiros para alinhamento de demandas;</li><li>Organizar materiais de apoio, brindes e estrutura necessária para garantir uma boa experiência ao público;</li><li>Organizar e arquivar documentos financeiros e contratos relacionados aos eventos;</li><li>Acompanhar a execução dos eventos e dar suporte à equipe durante as ações;</li><li>Auxiliar na resolução de imprevistos em tempo real com agilidade e proatividade;</li><li>Apoiar no controle de cronogramas e organização das entregas;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />O QUE ESPERAMOS DE VOCÊ:<br />Como esta é uma vaga de estágio, só podemos seguir com candidatos(as) que estejam atualmente matriculados em um curso de ensino superior (graduação, pós-graduação, MBA, especialização, mestrado ou doutorado)<br /><ul><li>Ensino superior cursando em Eventos, Administração, Marketing ou áreas correlatas;</li><li>Organização, atenção a detalhes e capacidade de gerenciar múltiplas demandas simultaneamente;</li><li>Boa comunicação interpessoal;</li><li>Proatividade e disposição para atuar em campo durante os eventos;</li><li>Afinidade com ambientes dinâmicos e alta capacidade de adaptação.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nordeste/121/estagio-em-marketing-foco-em-eventos]]></applyUrl>
     <companyId><![CDATA[93813687]]></companyId>
     <city><![CDATA[Fortaleza]]></city>
@@ -17143,12 +17089,41 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para voc�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[3c6b0513-ee92-448b-a1b1-bec9e883505e]]></partnerJobId>
+    <company><![CDATA[Unimarka Distribuidora]]></company>
+    <title><![CDATA[Consultor de Vendas]]></title>
+    <posterEmail><![CDATA[rh@unimarka.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é apaixonado por vendas,
+gosta de desenvolver novos negócios, habilidoso com a execução e sonha em
+trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para você!</b><b><br /></b><br />Vaga destinada também a PCD.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Cumpre o planejamento de visitas diário, atendendo os clientes de sua base;</li><li>Faz a verificação da loja quanto a necessidade de produtos, de acordo com o sortimento recomendado para cada ambiente de varejo;</li><li>Apresenta proposta de venda para o cliente com base na verificação, fazendo o fechamento do pedido e acompanhando sua entrega conforme combinado.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Desejável ensino médio completo.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/1086/consultor-de-vendas]]></applyUrl>
+    <companyId><![CDATA[65466539]]></companyId>
+    <city><![CDATA[Riachão do Jacuípe]]></city>
+    <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[5000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[5c73c70b-a4e2-4d31-8333-e4d289ebb783]]></partnerJobId>
     <company><![CDATA[Unimarka Distribuidora]]></company>
-    <title><![CDATA[Assistente Administrativo]]></title>
+    <title><![CDATA[Assistente Administrativo - Logística]]></title>
     <posterEmail><![CDATA[rh@unimarka.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Essa vaga é para você que gosta de desafios, de se desenvolver continuamente e fazer carreira em uma empresa que está entre as 10 maiores do Brasil no segmento atacadista. <br /><b>Venha e participe da nossa seleção!</b><br /> <br />Vaga destinada também a PCD.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executa atividades de apoio nas áreas de administração;</li><li> Atende funcionários, fornecedores e clientes, prestando e recebendo informações sobre produtos e serviços. </li><li>Organiza, guarda e controla documentos variados, disponibilizando-os aos interessados.</li><li>Coleta dados e emite relatórios diversos dentro de sua área de atuação</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou em curso em Administração, Marketing, Gestão Empresarial, Logística ou áreas afins.</li></ul><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/1083/assistente-administrativo]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/1083/assistente-administrativo-logistica]]></applyUrl>
     <companyId><![CDATA[65466539]]></companyId>
     <city><![CDATA[Salvador]]></city>
     <state><![CDATA[Bahia]]></state>
@@ -27409,25 +27384,6 @@ deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b>
     <companyId><![CDATA[10903946]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e2136a5c-5f3f-4016-85b4-db594a7a828f]]></partnerJobId>
-    <company><![CDATA[Objeto Brasil]]></company>
-    <title><![CDATA[Costureira(o) de Amostra]]></title>
-    <posterEmail><![CDATA[gp.selecao2@objetobr.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Costureira(o) de Amostra para fortalecer nosso time. Procuramos alguém comprometido com a qualidade, atento aos detalhes e apaixonado por transformar ideias em peças que servirão de referência para toda a produção.<br /><br /><br />Se você possui conhecimento técnico em costura, gosta de aprender e deseja atuar em um ambiente colaborativo, participando da construção de produtos desde as etapas iniciais, essa oportunidade pode ser para você.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />•⁠  ⁠Confeccionar peças-piloto, protótipos e demais amostras de vestuário conforme ficha técnica e sequência operacional.<br />•⁠  ⁠Garantir a qualidade, o acabamento e a conformidade das peças desenvolvidas, observando padrões técnicos e requisitos do produto.<br />•⁠  ⁠Utilizar adequadamente máquinas, aparelhos, matérias-primas e técnicas de costura conforme as características de cada peça.<br />•⁠  ⁠Manter a organização dos materiais e do ambiente de trabalho.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />•⁠  ⁠Experiência na confecção de peças completas de vestuário.<br /><br />•⁠  ⁠Conhecimento em técnicas de costura, modelagem, matérias-primas, acabamentos e interpretação de ficha técnica e sequência operacional.<br />•⁠  ⁠Conhecimento na utilização de máquinas e aparelhos aplicados ao processo de confecção.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscoobjetobrasil/78/costureira-o-de-amostra]]></applyUrl>
-    <companyId><![CDATA[9252532]]></companyId>
-    <city><![CDATA[Pomerode]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -41130,6 +41086,25 @@ para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[26f9e314-4da7-4b99-9340-66aace6ce8f7]]></partnerJobId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Auxiliar de Processo Agrícola – Irrigação]]></title>
+    <posterEmail><![CDATA[raiane.pereira@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />-<br /><br /><b>Requisitos e qualificações</b><br /><br />-]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1711/auxiliar-de-processo-agricola-irrigacao]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Conceição das Alagoas]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4d63c90b-35ec-46c6-a61e-6cb7c7ab1fcc]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
     <title><![CDATA[Líder de Processo Agrícola -  Herbicida]]></title>
@@ -42035,6 +42010,25 @@ profissional e ética, indiferente de sexo/gênero, raça/etnicidade e classe so
     <companyId><![CDATA[529116]]></companyId>
     <city><![CDATA[São José dos Campos]]></city>
     <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1f17c48e-df7d-423e-b3a4-79eaa42ab36e]]></partnerJobId>
+    <company><![CDATA[TOTVS Leste]]></company>
+    <title><![CDATA[Executivo Inside Sales]]></title>
+    <posterEmail><![CDATA[bruna.paula@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto(a) para dar um grande passo na sua carreira? Estamos em busca de profissionais apaixonados por transformar desafios em oportunidades e que queiram fazer parte de uma equipe inovadora e dinâmica. Se você possui uma mentalidade voltada para soluções e um desejo de impactar positivamente o ambiente de negócios, esta é a sua chance. Ao integrar-se ao nosso time, você terá a oportunidade de trabalhar em projetos desafiadores, colaborar com mentes brilhantes e contribuir para a evolução da nossa organização. Valorizamos a criatividade, o pensamento crítico e a habilidade de trabalhar em equipe, proporcionando um espaço onde cada ideia é valorizada. Venha se juntar a nós e faça parte de uma jornada incrível que poderá levar sua carreira a novos horizontes. Estamos empolgados para conhecer você e explorar as possibilidades juntos!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Prospectar ativamente novos clientes em todo o estado do Espírito Santo, identificando oportunidades de negócios e expansão de mercado;<br />- Realizar visitas comerciais presenciais, reuniões estratégicas e ações de relacionamento junto a empresas de médio e grande porte;<br />- Mapear mercados, segmentos e empresas potenciais alinhadas ao perfil de cliente ideal da TOTVS;<br />- Desenvolver e executar estratégias de prospecção utilizando telefone, e-mail, LinkedIn, networking, eventos e visitas presenciais;<br />- Conduzir o processo comercial de ponta a ponta, desde a prospecção inicial até o fechamento do negócio;<br />- Identificar dores, desafios e oportunidades dos clientes, propondo soluções aderentes ao portfólio TOTVS;<br />- Atuar de forma consultiva junto aos decisores das empresas, construindo relacionamentos sólidos e de longo prazo;<br />- Elaborar e apresentar propostas comerciais alinhadas às necessidades do cliente;<br />- Negociar contratos, condições comerciais e estratégias de implantação, garantindo rentabilidade e satisfação do cliente;<br />- Acompanhar o onboarding e os primeiros passos do cliente após a venda, assegurando uma experiência positiva;<br />- Manter o CRM atualizado com informações estratégicas, atividades realizadas e evolução das oportunidades;<br />- Participar de eventos, feiras, ações comerciais e iniciativas de geração de demanda promovidas pela TOTVS;<br />- Contribuir com insights de mercado, identificando tendências, oportunidades e melhorias nos processos comerciais;<br />- Cumprir metas de novos clientes, receita e indicadores de desempenho definidos pela liderança.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em vendas B2B de soluções SaaS, preferencialmente nos segmentos de Marketing Digital, CRM, Automação de Marketing, Atendimento Conversacional ou Tecnologia;</li><li>Vivência em vendas consultivas, realizando diagnóstico de cenário, identificação de necessidades, construção de valor e apresentação de soluções alinhadas aos desafios do cliente;</li><li>Conhecimento sobre funil de Marketing e Vendas, incluindo Inbound Marketing, geração e nutrição de leads, Lead Scoring, CRM e gestão de pipeline;</li><li>Experiência na condução de demonstrações comerciais em ambiente online, conectando funcionalidades da solução às necessidades e indicadores de negócio do cliente;</li><li>Vivência com prospecção ativa (Outbound) e atendimento de leads (Inbound), utilizando cadências de contato, qualificação e gestão de oportunidades;</li><li>Excelente comunicação, capacidade de negociação, escuta ativa e condução de reuniões consultivas em ambiente remoto;</li><li>Perfil organizado, com disciplina comercial, gestão de prioridades e foco em resultados em ambientes de alta performance.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/totvsleste/46/executivo-inside-sales]]></applyUrl>
+    <companyId><![CDATA[80034046]]></companyId>
+    <city><![CDATA[Salvador]]></city>
+    <state><![CDATA[Bahia]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -44467,7 +44461,7 @@ informática básica</li><li>Disponibilidade para Contratação MEI </li></ul>]
   <job>
     <partnerJobId><![CDATA[1a48f3d5-6800-4155-a974-347bd856c2b3]]></partnerJobId>
     <company><![CDATA[Cardeal Distribuidora]]></company>
-    <title><![CDATA[PROMOTOR DE VENDAS-  PIEDADE, BARRA DE JANGADA]]></title>
+    <title><![CDATA[PROMOTOR DE VENDAS-  MEI ROTA JANGA]]></title>
     <posterEmail><![CDATA[aline.amorim@cardealdistribuidora.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você é comunicativo(a), proativo(a) e está em busca de
 crescimento profissional, essa é a sua chance de se unir a uma equipe inovadora
@@ -44493,7 +44487,7 @@ e em constante evolução.   Aguardamos sua candidatura!<br /><br /><b>Respons
  <li>Fazer
      a manutenção dos materiais de merchandising.</li>
 </ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Possui Moto Possuir CNH <br />Ensino médio Completo <br />Boa Comunicação <br />Experiencia em mercados será um diferencial<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/468/promotor-de-vendas-piedade-barra-de-jangada]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/468/promotor-de-vendas-mei-rota-janga]]></applyUrl>
     <companyId><![CDATA[11322443]]></companyId>
     <city><![CDATA[Paulista]]></city>
     <state><![CDATA[Pernambuco]]></state>
@@ -44509,7 +44503,7 @@ e em constante evolução.   Aguardamos sua candidatura!<br /><br /><b>Respons
   <job>
     <partnerJobId><![CDATA[302098b0-8318-4408-b2e4-6870f7f27a7e]]></partnerJobId>
     <company><![CDATA[Cardeal Distribuidora]]></company>
-    <title><![CDATA[PROMOTOR DE VENDAS-  PIEDADE, BARRA DE JANGADA]]></title>
+    <title><![CDATA[PROMOTOR DE VENDAS-  MEI ROTA CASA FORTE]]></title>
     <posterEmail><![CDATA[aline.amorim@cardealdistribuidora.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você é comunicativo(a), proativo(a) e está em busca de
 crescimento profissional, essa é a sua chance de se unir a uma equipe inovadora
@@ -44535,7 +44529,7 @@ e em constante evolução.   Aguardamos sua candidatura!<br /><br /><b>Respons
  <li>Fazer
      a manutenção dos materiais de merchandising.</li>
 </ul><br /><br /><b>Requisitos e qualificações</b><br /><br />CAMPANHAS DA MARCACESTA NATALINA<br />FLEXIBILIDADE DE HORARIO<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/469/promotor-de-vendas-piedade-barra-de-jangada]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/469/promotor-de-vendas-mei-rota-casa-forte]]></applyUrl>
     <companyId><![CDATA[11322443]]></companyId>
     <city><![CDATA[Recife]]></city>
     <state><![CDATA[Pernambuco]]></state>
@@ -44619,51 +44613,6 @@ estratégias;
 
 * Habilidade no pacote Office.]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/458/1218-supervisor-de-vendas-recife-e-regiao]]></applyUrl>
-    <companyId><![CDATA[11322443]]></companyId>
-    <city><![CDATA[Recife]]></city>
-    <state><![CDATA[Pernambuco]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[2c63f611-2c4d-4d9a-8013-3789e4e9be67]]></partnerJobId>
-    <company><![CDATA[Cardeal Distribuidora]]></company>
-    <title><![CDATA[1198 PROMOTOR DE VENDAS- JARDIM SAO PAULO - MORENO]]></title>
-    <posterEmail><![CDATA[aline.amorim@cardealdistribuidora.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você é comunicativo(a), proativo(a) e está em busca de
-crescimento profissional, essa é a sua chance de se unir a uma equipe inovadora
-e em constante evolução.   Aguardamos sua candidatura!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Realizar
-     abordagem a clientes em potencial para promover produtos e serviços.</li>
- <li>Apresentar
-     e demonstrar produtos de maneira atraente e informativa.</li>
- <li>Participar
-     de eventos para divulgação da marca e produtos.</li>
- <li>Colaborar
-     com a equipe de vendas para atingir metas estabelecidas.</li>
- <li>Levantar
-     as necessidades de abastecimento;</li>
- <li>Realizar
-     o rodizio do estoque;</li>
- <li>Fazer
-     o abastecimento das gôndolas.</li>
- <li>Garantir
-     a correta exposição dos produtos.</li>
- <li>Garantir
-     que todos os itens expostos no PDV estejam precificados corretamente;</li>
- <li>Fazer
-     a manutenção dos materiais de merchandising.</li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo</li><li>Experiência prévia com atendimento
-ao cliente e reposição de mercadoria Residir na região </li><li>Disponibilidade para
-trabalhar de segunda a sábado</li><li>Disponibilidade para viagens </li><li>Conhecimento em
-informática básica</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/453/1198-promotor-de-vendas-jardim-sao-paulo-moreno]]></applyUrl>
     <companyId><![CDATA[11322443]]></companyId>
     <city><![CDATA[Recife]]></city>
     <state><![CDATA[Pernambuco]]></state>
@@ -49380,28 +49329,18 @@ propaganda, gestão comercial. CNH - B]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[8d238aa6-4a54-4c39-a578-175d6505efca]]></partnerJobId>
+    <partnerJobId><![CDATA[9f66d217-1b67-47a3-94f7-61bf99ca9a5c]]></partnerJobId>
     <company><![CDATA[OUTMarketing Brasil]]></company>
-    <title><![CDATA[Analista de Performance  Ads Pleno]]></title>
+    <title><![CDATA[Analista de Conteúdo, SEO e GEO Pleno]]></title>
     <posterEmail><![CDATA[vania844@hotmail.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O Analista de Performance Ads na OUTMarketing é responsável por impulsionar o crescimento dos negócios através da implementação eficaz de estratégias de Tráfego Pago.<br />Focando na geração de demanda e maximização do retorno sobre o investimento (ROI), esse profissional desempenha um papel crucial na análise de dados, na gestão de campanhas publicitárias e na colaboração interdepartamental para alcançar as metas específicas de marketing estabelecidas pela<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Acompanhamento Semanal dos Indicadores de Performance: Realizar uma análise sistemática dos indicadores de performance, monitorando o desempenho semanal das campanhas e propondo ajustes quando necessário;<br />Apoio na Otimização das Campanhas: Trabalhar em conjunto com o time para otimizar continuamente as campanhas, assegurando que estejam alinhadas com as metas estabelecidas;<br />Apoio no Planejamento e Criação de Campanhas: Contribuir no desenvolvimento de estratégias, auxiliando na elaboração de planos e na criação de campanhas publicitárias alinhadas aos objetivos dos clientes;Implementação e Execução de Campanhas: Traduzir estratégias em ações concretas, garantindo a correta implementação e execução das campanhas publicitárias;<br />Monitoramento do Budget: Manter informações detalhadas sobre os gastos e receitas da empresa durante as campanhas, garantindo a efetividade do orçamento alocado;<br />Monitoramento e Ajuste de Processos nas Plataformas de ADS: Manter vigilância constante sobre os processos dentro das plataformas de ADS, ajustando estratégias conforme as mudanças nos algoritmos e nas melhores práticas;<br />Organização e Atualização de Documentação: Manter arquivos organizados e atualizados no SharePoint de cada cliente, garantindo a documentação precisa e acessível;<br />Participação em Reuniões: Engajar ativamente em diversas reuniões, desde o Setup e Kickoff até encontros quinzenais e específicos de áreas. Colaborar com os times de Customer Success (CS) e Conteúdo para definir estratégias integradas;<br />Participação em Reuniões Estratégicas: Colaborar em reuniões estratégicas para definir abordagens alinhadas aos objetivos de Customer Success, garantindo sinergia entre as equipes;<br />Produção e Apresentação de Relatórios: Gerar relatórios detalhados sobre o desempenho das campanhas, comunicando resultados, tendências e recomendações aos stakeholders de forma clara e <br />
-objetiva;<br />Planejamento, Criação e Entrega de Campanhas Pagas: Desenvolver estratégias de publicidade online alinhadas aos objetivos do cliente; Criar campanhas envolventes, considerando aspectos criativos e de <br />
-segmentação. Garantir a entrega eficaz das campanhas, otimizando a visibilidade e o alcance; <br />Gestão de Budget, ROI e Dados Internos: Manter informações detalhadas sobre os gastos e receitas durante as campanhas. Gerir o budget de forma eficiente, visando maximizar o retorno sobre o <br />
-investimento (ROI);<br />Utilizar dados internos para orientar decisões e ajustar estratégias;<br />Otimização de Campanhas: Monitorar continuamente o desempenho das campanhas, ajustando elementos como orçamento, lances e segmentação. Implementar práticas de otimização para melhorar a eficácia das campanhas ao longo do tempo;<br />Reunião com o Cliente para Construção;<br />Apresentação de Relatórios e Propostas de Melhoria: Realizar reuniões com clientes para compreender suas metas e expectativas. Apresentar relatórios detalhados sobre o desempenho das campanhas;<br />Propor melhorias com base em análises e resultados;<br />Gestão de KPIs e Construção de Soluções para Alcance dos Resultados e Satisfação dos Clientes: Definir e monitorar indicadores-chave de desempenho (KPIs) relevantes;<br />Acompanhar Novos Colaboradores no Onboarding de Atividades; <br />
-necessários.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Certificações relevantes em plataformas de publicidade online são uma vantagem.<br />Certificação RD Station - Marketing para agências.<br />Certificação RD Station - Introdução ao Inbound Marketing.<br />Certificação em Google ADS e Analytics.<br />Certificação em Marketing de Conteúdo.<br /><br />
-TÉCNICAS:<br />Proficiência em plataformas de publicidade online, como Google Ads, Facebook Ads, LinkedIn Ads.<br />Familiaridade com ferramentas analíticas e de gerenciamento de campanhas.<br />Conhecimento intermediário em Google Ads e Analytics.<br />Conhecimento intermediário com a ferramenta de automação RD Station e/ou Hubspot.<br />Conhecimento intermediário em plataformas de tráfego pago nas redes sociais como <br />
-Facebook Ads, Linkedin Ads, Instagram ADS e Youtube Ads.<br />Conhecimento básico de SEO, palavras-chave e estratégias de marketing de conteúdo.<br />Experiência com ferramentas de gestão de projetos (Asana, Ekyte, Trello, Studio, Jira).<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/outmarketingbrasil/14/analista-de-performance-ads-pleno]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br /><strong>RESPONSABILIDADES</strong><strong>Planejamento, Execução e Gestão de Estratégia de Conteúdo B2B</strong><ul><li>Planejamento e execução de estratégia de conteúdo de empresas B2B, incluindo blog, podcast e webinars;</li><li>Briefing e produção de artigos para blog otimizados para SEO e GEO;</li><li>Produção de materiais ricos, como e-book; infográficos;</li><li>Redação de e-mail marketing;</li><li>Análise de dados e performance orgânica dos conteúdos;</li><li>Integração com outras áreas: CRM, Tráfego Pago, Social Media e Design;</li></ul><strong><br /></strong><strong>Relatórios</strong><ul><li>Elaboração de relatórios mensais para clientes</li><li>Monitoramento semanal da performance dos projetos</li></ul><strong><br /></strong><strong>Interação</strong><ul><li>Participação em reuniões internas e com clientes</li><li>Apresentação de relatórios para clientes</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br />A <strong>OUTMarketing</strong> está em busca de um(a) Analista de Conteúdo, SEO e GEO Pleno para fazer parte do nosso time e construir estratégias de conteúdo que geram autoridade e resultado para clientes B2B.Se você domina a arte de transformar dados e pesquisa em conteúdo relevante; e sabe otimizar tudo isso tanto para buscadores tradicionais quanto para IA generativa, essa vaga é pra você!<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Mais de 4 anos de experiência com marketing de conteúdo</li><li>Experiência no mercado B2B</li><li>Conhecimento intermediário em Google Search Console e GA4</li><li>Experiência com planejamento de calendário editorial para blog</li><li>Conhecimento intermediário em SEO e GEO</li><li>Domínio de ferramentas de SEO, como Ubsersuggest e Semrush</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/outmarketingbrasil/16/analista-de-conteudo-seo-e-geo-pleno]]></applyUrl>
     <companyId><![CDATA[5383997]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
-        <highEnd>
-          <amount><![CDATA[4500.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -51089,25 +51028,6 @@ Qualidade, CQ, P&amp;D e Engenharia.<br />
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[d59eb875-6c14-4ecf-9fc1-d862177a9117]]></partnerJobId>
-    <company><![CDATA[AMINO QUIMICA]]></company>
-    <title><![CDATA[Analista Vendas Internas I]]></title>
-    <posterEmail><![CDATA[rh@amino.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é apaixonado(a) por vendas e busca uma oportunidade de se destacar em um ambiente dinâmico e desafiador? Temos uma vaga empolgante que pode ser a chance que você estava esperando! Em nossa empresa, valorizamos a proatividade, a capacidade de trabalhar em equipe e a vontade de aprender. Oferecemos um espaço onde você pode crescer profissionalmente, desenvolvendo suas habilidades e contribuindo para o sucesso de nossa equipe. Aqui, você encontrará um time colaborativo, que celebra cada conquista e está sempre disposto a apoiar o seu desenvolvimento. Se você deseja fazer parte de uma organização que investe em seu potencial e estimula a inovação, não perca essa oportunidade! Venha construir uma carreira de sucesso conosco e transformar desafios em grandes resultados. Estamos empolgados para conhecer seu talento!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Negociar o fornecimento dos materiais junto aos clientes de acordo com as estratégias estabelecidas pela Liderança: preços, condições de pagamento, prazo de entrega, frete, etc.<br />Enviar cotações e propostas comerciais para clientes.<br />Manter o cliente atualizado em todas as situações que fogem do negociado comercialmente: prazo de entrega, necessidade de revisão de preços, troca de embalagem, etc.<br />Receber as reclamações dos clientes, realizar os procedimentos internos e tratar de maneira cordial até a negociação final.<br />Atualizar o Forecast +6 meses mensalmente pelo Pipedrive (CRM), funil "Previsão de Vendas" no prazo pré estabelecido pela coordenação, até o dia 25 do mês. <br />Orientar o cliente em suas dúvidas sobre o produto ou serviço.<br />Analisar os dados do público-alvo para elaborar estratégia de venda.<br />Auxiliar os vendedores externos com o agendamento das visitas, quando necessário.<br />Manter contato com o departamento financeiro (cobrança) para alinhar débitos de clientes e tratativas de auxílio de cobrança e novos fornecimentos.<br />Prospectar novos clientes e criar crescimento anualizado de acordo com a meta estabelecida<br />Manter a recorrência das vendas de acordo com a meta estabelecida <br />Atualizar o CRM de informações em tempo real - novos negócios: atualizar etapas, registrar negociações, registrar relatórios de visitas, etc.<br />Analisar criticamente todos os requisitos dos pedidos de venda, amostras e outros como: embalagem, peso, nome do material, data de embarque, razão social e todas as demais informações importantes<br />Inserir os pedidos de venda no Microsiga.<br />Contatar clientes para saber sobre resultados dos testes realizados com as amostras fornecidas e negociadas.<br />Ter domínio da carteira de clientes com informações precisas de autoridade, orçamento, necessidade e tempo de compra.<br />Alimentar o formulário MTV com informações específicas de fornecimento para os clientes<br />Solicitar novos desenvolvimentos ao departamento de projetos através do Pipefy e envio do formulário FO-036, quando estes partirem dos clientes nível Brasil.<br />Colaborar com ações de Marketing quando necessário através de postagens nas redes sociais, envio de email e outros.<br />Solicitar a compra de passagens aéreas, reserva de hoteis e locação de veículos através da plataforma oficial sempre que necessário.<br />Atualizar o CRM (Pipedrive) de forma completa, com todas as informações pertinentes aos negócios.<br />Manter o cadastro dos clientes e contatos atualizados.<br />Acompanhar a jornada do cliente e informar a coordenação quando precisar de auxílio para intervenção com a finalidade de dar continuidade nos negócios.<br />Aumentar a taxa de conversão anualmente buscando a melhoria contínua.<br />Retornar em até 24h todos os clientes que entram em contato através dos Leads de Marketing<br />Negociar abatimentos em duplicatas, devoluções de materiais e todas as ações necessárias que envolvem as reclamações dos clientes.<br />Emitir documento B.O. solicitando ajustes em duplicatas para o departamento financeiro (abatimentos, devoluções, baixa de títulos, etc.), quando necessário<br />Participar de feiras e eventos quando necessário com a finalidade de ativar novos negócios e manter relacionamentos.<br />Participar de reuniões de outros departamentos quando solicitado<br />Participar de reuniões de alinhamento coletivo e individual de acordo com o estabelecido pela liderança<br />Disseminar através de exemplos os valores da empresa para o time e demais parceiros: clientes, concorrentes, etc.<br />Responder chamadas e e-mails dos clientes com clareza, foco e cordialidade visando a solução de imprevistos, problemas e estabelecendo boa relação comercial.<br />Garantir que os impostos pertinentes às negociações sejam recolhidos e cobrados devidamente  - por exemplo DIFAL.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência em vendas internasSuperior Completo<br />Ter atuado em Indústria<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/aminoquimica/18/analista-vendas-internas-i]]></applyUrl>
-    <companyId><![CDATA[2293229]]></companyId>
-    <city><![CDATA[Diadema]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[7cb3ed9d-917c-4707-8f7e-f9fb7c3d6b51]]></partnerJobId>
     <company><![CDATA[AMINO QUIMICA]]></company>
     <title><![CDATA[BANCO DE TALENTOS]]></title>
@@ -51411,10 +51331,10 @@ Vivência com sistema TOTVS será considerado diferencial.</li></ul>]]></descrip
   <job>
     <partnerJobId><![CDATA[d3b3e38c-d6af-4e13-9ed2-241f74dc91d0]]></partnerJobId>
     <company><![CDATA[Amino]]></company>
-    <title><![CDATA[Vendedor Externo I]]></title>
+    <title><![CDATA[Executivo de Vendas Externas I]]></title>
     <posterEmail><![CDATA[rh@amino.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade que permita desenvolver suas habilidades e impulsionar sua carreira? Temos um espaço aguardando por profissionais dinâmicos e proativos que desejam atuar em um ambiente inspirador e desafiador. Se você é apaixonado(a) por conquistar clientes e se destaca na construção de relacionamentos sólidos, esta pode ser a chance que você esperava. Venha fazer parte de uma equipe que valoriza a transparência, o trabalho em equipe e o comprometimento com resultados. Aqui, você terá a oportunidade de crescer e se desenvolver continuamente, contribuindo não apenas para o sucesso de nossos clientes, mas também para a sua trajetória profissional. Junte-se a nós e transforme o seu potencial em resultados concretos! Estamos ansiosos para conhecer você e explorar o que podemos construir juntos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Experiência prática em vendas externas B2B no segmento de poliuretano.<br />Conhecimento técnico para entender aplicações, processos e necessidades dos clientes.<br />Perfil consultivo, com foco em solução, relacionamento e geração de valor ao cliente.<br />Habilidade em negociação de preços, volumes, prazos e condições comerciais.<br />Capacidade de gerenciar carteira de clientes e atuar no desenvolvimento de novas contas.<br />Organização e autonomia para planejar visitas, acompanhar propostas e realizar pós-venda.<br />Disciplina no uso de CRM, atualização de pipeline e forecast de vendas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência em <strong>vendas técnicas externas</strong>, preferencialmente no mercado químico e com produtos de PU.</li><li>Boa capacidade de <strong>negociação, comunicação e relacionamento interpessoal</strong>.</li><li>Formação superior em áreas correlatas.</li><li>Conhecimento em <strong>processos industriais e aplicações de poliuretano</strong> será um diferencial.</li><li>Disponibilidade para <strong>viagens frequentes</strong>.</li><li>Organização e autonomia para gerir sua rotina de visitas e resultados.<br /></li><li>Conhecimento em técnica de vendas SPIN e ABM<br />Funil de vendas, qualificação</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/linkedin/39/vendedor-externo-i]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/linkedin/39/executivo-de-vendas-externas-i]]></applyUrl>
     <companyId><![CDATA[2293229]]></companyId>
     <city><![CDATA[Diadema]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -51430,7 +51350,7 @@ Vivência com sistema TOTVS será considerado diferencial.</li></ul>]]></descrip
   <job>
     <partnerJobId><![CDATA[5339dc59-deb4-4e8a-93d3-4938d058a17a]]></partnerJobId>
     <company><![CDATA[Amino]]></company>
-    <title><![CDATA[Vendedor Interno I]]></title>
+    <title><![CDATA[Sales Support I]]></title>
     <posterEmail><![CDATA[rh@amino.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade que permita desenvolver suas habilidades e impulsionar sua carreira? Temos um espaço aguardando por profissionais dinâmicos e proativos que desejam atuar em um ambiente inspirador e desafiador. Se você é apaixonado(a) por conquistar clientes e se destaca na construção de relacionamentos sólidos, esta pode ser a chance que você esperava. Venha fazer parte de uma equipe que valoriza a transparência, o trabalho em equipe e o comprometimento com resultados. Aqui, você terá a oportunidade de crescer e se desenvolver continuamente, contribuindo não apenas para o sucesso de nossos clientes, mas também para a sua trajetória profissional. Junte-se a nós e transforme o seu potencial em resultados concretos! Estamos ansiosos para conhecer você e explorar o que podemos construir juntos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Prospecção ativa de clientes no segmento de poliuretano (PU), identificando oportunidades de negócios e novas aplicações.
 </li>
@@ -51465,7 +51385,7 @@ Disponibilidade para <strong>viagens frequentes</strong>.
 </li>
 <li>
 Organização e autonomia para gerir sua rotina de visitas e resultados.<br /></li><li>Conhecimento em técnica de vendas SPIN e ABM<br />Funil de vendas, qualificação</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/linkedin/25/vendedor-interno-i]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/linkedin/25/sales-support-i]]></applyUrl>
     <companyId><![CDATA[2293229]]></companyId>
     <city><![CDATA[Diadema]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -51991,25 +51911,6 @@ marca;</li><li>Monitorar conversas relevantes em redes sociais e ambientes digit
     <posterEmail><![CDATA[ricardo.jovenato@gsinima.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><b>Prazo de Contrato:</b> 3 meses.<br /><br />Responsável pela leitura de medidores, identificação de irregularidades, coleta de dados em campo e entrega de contas. Atua na otimização de rotas, realiza vistorias, utiliza dispositivos móveis para ordens de serviço e segue normas de segurança, uso de EPIs/EPCs e diretrizes do grupo.<br /><br /><b>Horário de Trabalho:</b> <br />• De segunda à sexta-feira, das 07h00 às 16h00 com 01h00 de intervalo/refeição.<br />• Sábado, das  07h00 às 11h00.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Coletar informações sobre rotas de leitura e desenvolver projetos de otimização de rotas e de capacidade de entrega de contas e avisos, conforme os endereços estabelecidos nas rotas e setores;<br />• Possuir conhecimento básico de leitura manual e por telemetria de medidores, conferindo números de hidrômetros e coletando dados corretamente;<br />• Identificar vazamentos, irregularidades e alterações cadastrais, preenchendo fichas de irregularidades e reportando ao setor responsável;<br />• Realizar pesquisas de levantamento de informações em campo, bem como realizar vistorias e coletar dados relevantes;<br />• Possuir conhecimento básico de verificação e teste de aparelhos e/ou equipamentos utilizados no trabalho, bem como utilizar dispositivos móveis (mobile) para executar Ordens de Serviço (OS);<br />• Conhecer as normas e procedimentos estabelecidos pelo grupo para o uso de uniformes, equipamentos e materiais, bem como o código de ética, os requisitos dos sistemas de gestão da qualidade e as normas de segurança do trabalho;<br />• Possuir conhecimento básico de leitura manual e por telemetria de medidores, conferindo números de hidrômetros e coletando dados corretamente;<br />• Conhecer e utilizar Equipamentos de Proteção Individual (EPIs) e Equipamentos de Proteção Coletiva (EPCs), conforme exigido pela atividade.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação:</b> Ensino Fundamental.]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/489/agente-comercial-temporaria]]></applyUrl>
-    <companyId><![CDATA[36870042]]></companyId>
-    <city><![CDATA[Maceió]]></city>
-    <state><![CDATA[Alagoas]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[43ad6997-3dd5-45dd-a974-4c65adfa5e3a]]></partnerJobId>
-    <company><![CDATA[GS Inima Brasil]]></company>
-    <title><![CDATA[Ajudante Geral (Obras)]]></title>
-    <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />❇️Executar atividades de apoio em obras e manutenção, operando equipamentos simples, movimentando materiais, organizando o ambiente de trabalho e separando resíduos. Auxilia na sinalização, inspeções básicas e preenchimento de documentos, conforme orientações técnicas e de segurança.<br /><br /><b>Horário de Trabalho:</b> de segunda a quinta-feira, das 07h00 às 17h00 (com 1h de intervalo para refeição).<br /><b>Sexta-feira:</b> saída às 16h00.<br /><br />️ Vale Alimentação / Refeição – apoio para suas refeições diárias<br /> Plano de Saúde – cuidado completo para você<br /> Plano Odontológico – saúde bucal sempre em dia<br />️ Seguro de Vida sem custo – proteção para você e sua família<br /> Vale Transporte – facilidade no deslocamento diário<br /> Auxílio Medicamento – suporte financeiro para tratamentos e prescrições<br />️ Wellhub – acesso a academias e atividades físicas<br /> Pluxee Cuida – apoio psicológico, social, nutricional e consultorias<br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar a execução de atividades operacionais em obras e serviços de manutenção conforme orientações técnicas</li><li>Auxiliar nos serviços de apoio em diferentes frentes (pintura, carpintaria, armação, construção ou limpeza)</li><li>Realizar pequenas manutenções em estruturas e equipamentos de baixa complexidade</li><li>Operar equipamentos simples de apoio, conforme treinamento e procedimentos estabelecidos</li><li>Executar a movimentação manual de materiais, ferramentas e insumos operacionais</li><li>Realizar carga e descarga de materiais em veículos, áreas de armazenamento e frentes de trabalho</li><li>Separar resíduos industriais conforme classificação e orientação ambiental</li></ul><br /><ul><li>Apoiar na destinação adequada de resíduos, seguindo normas ambientais e procedimentos internos</li><li>Sinalizar áreas de trabalho conforme diretrizes de segurança</li><li>Garantir a organização, limpeza e conservação do ambiente operacional</li><li>Realizar atividades de conservação de áreas externas, incluindo capina quando necessário</li><li>Organizar ferramentas, equipamentos e materiais utilizados na operação</li><li>Apoiar na conservação básica de veículos e equipamentos operacionais</li><li>Realizar inspeções visuais simples em veículos e equipamentos antes do uso</li><li>Preencher registros operacionais básicos, como checklists e requisições</li><li>Comunicar desvios, riscos ou irregularidades à liderança imediata</li><li>Utilizar corretamente os equipamentos de proteção individual (EPIs)</li><li>Cumprir normas de segurança do trabalho, meio ambiente e procedimentos internos</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Não se aplica.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/469/ajudante-geral-obras]]></applyUrl>
     <companyId><![CDATA[36870042]]></companyId>
     <city><![CDATA[Maceió]]></city>
     <state><![CDATA[Alagoas]]></state>
@@ -80038,25 +79939,6 @@ Atuar como o elo estratégico entre a excelência médica e a viabilidade comerc
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[a307f536-fbdf-46b7-9ab5-debc0e1543b4]]></partnerJobId>
-    <company><![CDATA[BR SAMOR LOGISTICA EXPRESS LTDA]]></company>
-    <title><![CDATA[ASSISTENTE OPERACIONAL - PORTO BELO - PCD]]></title>
-    <posterEmail><![CDATA[geisiane.santos@brsamor.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade para alavancar sua carreira? Temos uma proposta empolgante que pode ser o próximo passo na sua trajetória profissional. Nossa equipe valoriza a dedicação, a proatividade e a busca constante por melhorias. Aqui, você terá a chance de fazer parte de um ambiente dinâmico e colaborativo, onde seu trabalho terá um impacto real no sucesso da nossa operação. Além de um clima organizacional positivo, oferecemos a possibilidade de desenvolvimento e crescimento, proporcionando ferramentas e suporte para que você possa brilhar em sua função. Se você é alguém que busca novos desafios e deseja contribuir para um time inovador, não perca a chance de se juntar a nós. Venha fazer parte de uma empresa que valoriza seu talento e compromisso! Aguardamos sua candidatura.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Apoio nas rotinas administrativas da operação (lançamentos em sistema, controles e conferências);<br /><br /><br />Emissão de documentos de transporte (CT-e, manifestos, entre outros);<br /><br /><br />Acompanhamento e atualização de informações operacionais em sistema;<br /><br /><br />Suporte às atividades de recebimento, conferência e organização de cargas no armazém;<br /><br /><br />Interface com equipe operacional para alinhamento de processos e demandas diárias.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação técnica ou ensino médio completo.<br /> - Experiência prévia na área operacional ou administrativa.<br /> - Conhecimento em rotinas administrativas e de atendimento ao cliente.<br /> - Habilidade com ferramentas de informática, incluindo Pacote Office.<br /> - Boa organização e atenção a detalhes.<br /> - Capacidade de trabalho em equipe e boa comunicação.<br /> - Flexibilidade e proatividade na solução de problemas.<br /> - Disponibilidade para trabalhar em horários variados, se necessário.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasbrsamor/29/assistente-operacional-porto-belo-pcd]]></applyUrl>
-    <companyId><![CDATA[67970146]]></companyId>
-    <city><![CDATA[Porto Belo]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[b07c934c-d5c9-4a57-8dbe-6a9ef9726950]]></partnerJobId>
     <company><![CDATA[BR SAMOR LOGISTICA EXPRESS LTDA]]></company>
     <title><![CDATA[AJUDANTE DE MOTORISTA - PORTO BELO]]></title>
@@ -80076,12 +79958,12 @@ Atuar como o elo estratégico entre a excelência médica e a viabilidade comerc
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[40ea70ba-95cc-48d6-86a3-92684f88c1a0]]></partnerJobId>
+    <partnerJobId><![CDATA[918eeb02-c5e8-421f-a646-51b89e46f2a4]]></partnerJobId>
     <company><![CDATA[BR SAMOR LOGISTICA EXPRESS LTDA]]></company>
-    <title><![CDATA[MOTORISTA CARRETEIRO - GUARULHOS SP]]></title>
+    <title><![CDATA[AUXILIAR DE SERVIÇOS GERAIS - GUARULHOS]]></title>
     <posterEmail><![CDATA[geisiane.santos@brsamor.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais dedicados e apaixonados por desafios para ingressar em nossa equipe dinâmica. Se você valoriza a entrega de qualidade e gosta de trabalhar em um ambiente colaborativo, esta é a oportunidade ideal para você! Oferecemos um espaço onde sua contribuição é valorizada e pode fazer a diferença. Junte-se a nós e faça parte de um time que prioriza o crescimento e o desenvolvimento de cada membro, além de proporcionar um ambiente seguro e estimulante. Se você está pronto para essa nova jornada e busca um local onde suas habilidades e comprometimento possam brilhar, nós queremos conhecer você! Venha construir conosco um futuro de sucesso e excelência. Faça sua parte na nossa missão e traga seu entusiasmo para uma carreira memorável.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar o transporte de cargas em caminhões tipo carreta, respeitando as normas de segurança e legislação de trânsito.<br /> - Verificar as condições do veículo antes e após as viagens, assegurando sua adequada manutenção.<br /> - Planejar rotas e gerenciar o tempo de entrega de acordo com as diretrizes estabelecidas.<br /> - Garantir a carga adequadamente acondicionada e protegida durante o transporte.<br /> - Manter registros de transporte, como comprovantes de entrega e relatórios de viagem.<br /> - Colaborar com a equipe para garantir a eficiência nas operações logísticas.<br /> - Atender às demandas de transporte em conformidade com as políticas da empresa.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental completo.<br /> - CNH categoria E vigente.<br /> - Experiência comprovada na função.<br /> - Conhecimento em direção de veículos de grande porte.<br /> - Habilidade em realizar manobras com carretas.<br /> - Disponibilidade para viagens longas.<br /> - Conhecimento em normas de segurança viária.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasbrsamor/34/motorista-carreteiro-guarulhos-sp]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade para fazer parte de uma equipe dinâmica e colaborativa? Temos um espaço aberto especialmente para pessoas que desejam crescer profissionalmente em um ambiente motivador e acolhedor. Oferecemos a chance de se envolver em um dia a dia variado, contribuindo para a organização e o bom funcionamento das atividades, ao mesmo tempo em que desenvolve suas habilidades e amplia seu conhecimento. Se você valoriza um ambiente de trabalho positivo, onde o trabalho em equipe é incentivado e o desenvolvimento pessoal é importante, essa é a sua oportunidade. Junte-se a nós e venha fazer a diferença! Estamos prontos para receber sua energia e entusiasmo!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar a limpeza e conservação de ambientes, equipamentos e utensílios.<br /> - Organizar e manter os materiais de trabalho em adequada disposição.<br /> - Auxiliar na execução de atividades de manutenção básica, como troca de lâmpadas e pequenas reparos.<br /> - Coletar e descartar devidamente os resíduos gerados nas dependências.<br /> - Auxiliar no atendimento a demandas internas e no suporte a outros departamentos quando necessário.<br /> - Seguir as normas de segurança e higiene no ambiente de trabalho.<br /> - Contribuir para a manutenção da ordem e limpeza em áreas comuns.<br /> - Colaborar com a equipe em tarefas que garantam o bom funcionamento do local.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental incompleto<br /> - Experiência anterior em atividades de serviços gerais<br /> - Conhecimento básico de higiene e limpeza<br /> - Capacidade de seguir instruções e procedimentos<br /> - Boa comunicação<br /> - Trabalho em equipe<br /> - Organização e proatividade<br /> - Disponibilidade para atuar em turnos variados<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasbrsamor/35/auxiliar-de-servicos-gerais-guarulhos]]></applyUrl>
     <companyId><![CDATA[67970146]]></companyId>
     <city><![CDATA[Guarulhos]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -80095,12 +79977,12 @@ Atuar como o elo estratégico entre a excelência médica e a viabilidade comerc
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[1b45ab56-0d70-4a3f-b1d7-431060c065db]]></partnerJobId>
+    <partnerJobId><![CDATA[40ea70ba-95cc-48d6-86a3-92684f88c1a0]]></partnerJobId>
     <company><![CDATA[BR SAMOR LOGISTICA EXPRESS LTDA]]></company>
-    <title><![CDATA[AJUDANTE DE MOTORISTA - JAGUARIUNA]]></title>
+    <title><![CDATA[MOTORISTA CARRETEIRO - GUARULHOS SP]]></title>
     <posterEmail><![CDATA[geisiane.santos@brsamor.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade para iniciar ou dar um novo rumo à sua carreira? Temos uma posição que pode ser a chance que você esperava! Em nossa equipe, você encontrará um ambiente dinâmico e acolhedor, onde cada dia traz um aprendizado e uma nova experiência. Se você valoriza o trabalho em equipe e deseja crescer de maneira significativa, esta é a oportunidade perfeita para você. Junte-se a nós e faça parte de uma organização que se preocupa com seu desenvolvimento e bem-estar. Aqui, sua dedicação será reconhecida e você terá a chance de contribuir de maneira impactante. Venha descobrir um caminho que pode transformar sua trajetória profissional e oferecer novas perspectivas em sua vida! Estamos ansiosos para conhecê-lo e explorar juntos a possibilidade de um futuro promissor.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar o motorista na carga e descarga de mercadorias.<br /> - Organizar e arrumar os produtos no veículo para transporte seguro.<br /> - Realizar a conferência de volumes e documentos de entrega.<br /> <br /><br /> <br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental completo<br /> - Experiência prévia em atividades de apoio logístico<br /> - Habilidade para trabalhar em equipe<br /> - Disponibilidade para horários flexíveis<br /> - Boa comunicação<br /> - Conhecimento básico sobre segurança no transporte<br /> - Capacidade de seguir instruções e procedimentos<br /> - Aptidão para lidar com ferramentas e equipamentos de carga<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasbrsamor/22/ajudante-de-motorista-jaguariuna]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais dedicados e apaixonados por desafios para ingressar em nossa equipe dinâmica. Se você valoriza a entrega de qualidade e gosta de trabalhar em um ambiente colaborativo, esta é a oportunidade ideal para você! Oferecemos um espaço onde sua contribuição é valorizada e pode fazer a diferença. Junte-se a nós e faça parte de um time que prioriza o crescimento e o desenvolvimento de cada membro, além de proporcionar um ambiente seguro e estimulante. Se você está pronto para essa nova jornada e busca um local onde suas habilidades e comprometimento possam brilhar, nós queremos conhecer você! Venha construir conosco um futuro de sucesso e excelência. Faça sua parte na nossa missão e traga seu entusiasmo para uma carreira memorável.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar o transporte de cargas em caminhões tipo carreta, respeitando as normas de segurança e legislação de trânsito.<br /> - Verificar as condições do veículo antes e após as viagens, assegurando sua adequada manutenção.<br /> - Planejar rotas e gerenciar o tempo de entrega de acordo com as diretrizes estabelecidas.<br /> - Garantir a carga adequadamente acondicionada e protegida durante o transporte.<br /> - Manter registros de transporte, como comprovantes de entrega e relatórios de viagem.<br /> - Colaborar com a equipe para garantir a eficiência nas operações logísticas.<br /> - Atender às demandas de transporte em conformidade com as políticas da empresa.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental completo.<br /> - CNH categoria E vigente.<br /> - Experiência comprovada na função.<br /> - Conhecimento em direção de veículos de grande porte.<br /> - Habilidade em realizar manobras com carretas.<br /> - Disponibilidade para viagens longas.<br /> - Conhecimento em normas de segurança viária.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasbrsamor/34/motorista-carreteiro-guarulhos-sp]]></applyUrl>
     <companyId><![CDATA[67970146]]></companyId>
     <city><![CDATA[Guarulhos]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -87365,6 +87247,25 @@ das digitais no ponto físico.<br /><br /><br /><br /><br /><b>Requisitos e qual
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[dbb6e873-e8de-491a-8cd7-0535da2381b7]]></partnerJobId>
+    <company><![CDATA[Fortgreen]]></company>
+    <title><![CDATA[Assistente Administrativo]]></title>
+    <posterEmail><![CDATA[luiz.almeida@fortgreen.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional responsável e comprometido para atuar como <b>Assistente Administrativo, </b>atuando em atividades administrativas e operacionais, prestando suporte às rotinas internas e contribuindo para o bom funcionamento dos processos da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Recepcionar os funcionários, candidatos e clientes que chegarem à empresa<br />- Contribuir para organização e atualização de processos administrativos<br />- Elaborar, atualizar e acompanhar planilhas, relatórios e controles internos<br />- Prestar suporte às rotinas administrativas em geral;<br /><br /><b>Requisitos e qualificações</b><br /><br />Pacote Office intermediário<br />CNH<br />Experiência em recepção e rotinas administrativas<br />Habilidade em comunicação<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirafortgreen/61/assistente-administrativo]]></applyUrl>
+    <companyId><![CDATA[2740636]]></companyId>
+    <city><![CDATA[Paiçandu]]></city>
+    <state><![CDATA[Paraná]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[aad43a66-d840-4041-85e0-7974ca57959a]]></partnerJobId>
     <company><![CDATA[Fortgreen]]></company>
     <title><![CDATA[Estágio de Controle de Qualidade]]></title>
@@ -89904,35 +89805,6 @@ responsabilidade;<br /></li><li>Residir em Mariana ou Ouro Preto.</li></ul>]]></
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[f5983fb9-f05a-47a2-942f-af9ee95b8006]]></partnerJobId>
-    <company><![CDATA[ISQ Brasil]]></company>
-    <title><![CDATA[Estagiário de Engenharia - Ouro Branco e região]]></title>
-    <posterEmail><![CDATA[iwcarvalho@isqbrasil.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está buscando uma oportunidade que permita crescer e se desenvolver em um ambiente dinâmico e colaborativo? Temos uma posição aberta, ideal para quem deseja fazer parte de uma equipe comprometida com a excelência. Aqui, você encontrará um espaço para aplicar suas habilidades, contribuir com soluções e participar ativamente de um processo que impacta diretamente na qualidade dos produtos e serviços oferecidos. Valorizamos o potencial de cada colaborador e incentivamos o aprendizado contínuo, proporcionando a chance de se destacar e conquistar novos desafios. Se você tem interesse em atuar em um time que preza pela qualidade e pela inovação, não deixe essa oportunidade passar. Venha fazer parte de um ambiente estimulante, onde suas contribuições serão reconhecidas e valorizadas. Junte-se a nós e inicie uma nova etapa na sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejamento e programação de manutenção;</li><li>Elaboração de orçamentos;</li><li>Controle de documentos;</li><li>Planejamento de logística de pessoal, materiais e insumos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior em andamento;</li><li>Raciocínio analítico com foco aos detalhes; </li><li>Organização e senso de priorização; </li><li>Proatividade com vontade de aprender, facilidade de comunicação com
-atuação em equipe;</li><li>Organização de atividades e controle das tarefas; </li><li>Senso de
-responsabilidade.<br /></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/isqbrasilcarreiras/135/estagiario-de-engenharia-ouro-branco-e-regiao]]></applyUrl>
-    <companyId><![CDATA[9424481]]></companyId>
-    <city><![CDATA[Ouro Branco]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1800.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1800.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[fcb6e149-4d15-49a3-b8fb-c6804b57131d]]></partnerJobId>
     <company><![CDATA[ISQ Brasil]]></company>
     <title><![CDATA[Estagiário de Segurança do Trabalho - Vaga para região da Lapa de Baixo (SP)]]></title>
@@ -90348,6 +90220,35 @@ responsabilidade;<br /></li><li>Conhecimento em pacote office (word, excel);</li
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f5983fb9-f05a-47a2-942f-af9ee95b8006]]></partnerJobId>
+    <company><![CDATA[ISQ Brasil]]></company>
+    <title><![CDATA[Estagiário de Engenharia - Ouro Branco e região]]></title>
+    <posterEmail><![CDATA[iwcarvalho@isqbrasil.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está buscando uma oportunidade que permita crescer e se desenvolver em um ambiente dinâmico e colaborativo? Temos uma posição aberta, ideal para quem deseja fazer parte de uma equipe comprometida com a excelência. Aqui, você encontrará um espaço para aplicar suas habilidades, contribuir com soluções e participar ativamente de um processo que impacta diretamente na qualidade dos produtos e serviços oferecidos. Valorizamos o potencial de cada colaborador e incentivamos o aprendizado contínuo, proporcionando a chance de se destacar e conquistar novos desafios. Se você tem interesse em atuar em um time que preza pela qualidade e pela inovação, não deixe essa oportunidade passar. Venha fazer parte de um ambiente estimulante, onde suas contribuições serão reconhecidas e valorizadas. Junte-se a nós e inicie uma nova etapa na sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejamento e programação de manutenção;</li><li>Elaboração de orçamentos;</li><li>Controle de documentos;</li><li>Planejamento de logística de pessoal, materiais e insumos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior em andamento;</li><li>Raciocínio analítico com foco aos detalhes; </li><li>Organização e senso de priorização; </li><li>Proatividade com vontade de aprender, facilidade de comunicação com
+atuação em equipe;</li><li>Organização de atividades e controle das tarefas; </li><li>Senso de
+responsabilidade.<br /></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/isqbrasilcarreiras/135/estagiario-de-engenharia-ouro-branco-e-regiao]]></applyUrl>
+    <companyId><![CDATA[9424481]]></companyId>
+    <city><![CDATA[Ouro Branco]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1800.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1800.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -94074,25 +93975,6 @@ learning e suas aplicações práticas;]]></description>
     <posterEmail><![CDATA[dayane@gmtrack.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade profissional que possa impulsionar sua carreira e proporcionar um ambiente dinâmico e colaborativo? Temos uma excelente proposta para você! Estamos em busca de pessoas que desejam se unir a uma equipe comprometida e apaixonada pelo que faz. Ao fazer parte do nosso time, você terá a chance de contribuir com suas ideias e habilidades em um ambiente que valoriza o desenvolvimento contínuo. Aqui, a sua dedicação e proatividade serão reconhecidas e estimularão o seu crescimento, ao mesmo tempo em que você se tornará um pilar fundamental para o sucesso da nossa organização. Se você está pronto(a) para aceitar novos desafios e transformar seu potencial em resultados concretos, não perca a chance de fazer parte da nossa história. Venha crescer conosco e descubra um mundo de possibilidades!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar o atendimento ao público, prestando informações e orientações necessárias.</li><li>Organizar e manter arquivos e documentos, garantindo fácil acesso à informação.</li><li>Auxiliar na elaboração de relatórios e planilhas de controle.</li><li>Apoiar na gestão de informações e documentos administrativos e financeiros.</li><li>Executar atividades de rotina administrativa, como correspondências e protocolos.</li><li>Colaborar com a equipe em projetos e demandas específicas, contribuindo para a eficiência operacional.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou em andamento em Administração ou áreas correlatas.</li><li>Conhecimentos básicos em informática, incluindo Pacote Office.</li><li>Boa comunicação verbal e escrita.</li><li>Organização e atenção aos detalhes.</li><li>Habilidade para trabalhar em equipe.</li><li>Capacidade de multitarefa e gerenciamento de tempo.</li><li>Experiência anterior na área administrativa será considerada um diferencial.</li></ul><br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgmtrack/9/auxiliar-administrativo]]></applyUrl>
-    <companyId><![CDATA[94188001]]></companyId>
-    <city><![CDATA[Campina Grande]]></city>
-    <state><![CDATA[Paraíba]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[71eea1ad-1b12-4df3-87e0-7eba16578c3c]]></partnerJobId>
-    <company><![CDATA[GMTRACK]]></company>
-    <title><![CDATA[Supervisor Administrativo]]></title>
-    <posterEmail><![CDATA[dayane@gmtrack.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca um novo desafio profissional em um ambiente dinâmico e colaborativo, temos uma oportunidade incrível para você! Estamos em busca de pessoas proativas e com visão estratégica para se unir à nossa equipe em um papel fundamental onde terá a chance de impactar diretamente os resultados da organização. Aqui, valorizamos a inovação e o comprometimento, oferecendo um espaço onde suas ideias serão ouvidas e admiradas. Além disso, você terá a oportunidade de crescer e se desenvolver, construindo um futuro promissor ao lado de profissionais talentosos e apaixonados pelo que fazem. Se a sua ambição é fazer parte de um time vencedor que busca a excelência em tudo o que realiza, não perca a chance de se candidatar. Venha fazer a diferença conosco e transformar seu potencial em resultados!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Supervisionar as rotinas administrativas da matriz e filiais, garantindo a organização e eficiência dos processos.</li><li>Atuar diretamente nos processos de compras, facilities e gestão de caixa, realizando a aquisição de materiais, equipamentos e contratação de serviços, inclusive para obras e manutenção, acompanhando fornecedores, prazos, custos e negociações.</li><li>Acompanhar o orçamento da área, controlando despesas e apoiando a tomada de decisões.</li><li>Supervisionar o atendimento ao cliente e a resolução de demandas.</li><li>Promover melhorias nos processos e assegurar o cumprimento das políticas e procedimentos da empresa.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Administração, Gestão de Negócios, Engenharia Civil ou áreas correlatas.</li><li>Experiência prévia na área administrativa ou em cargos de supervisão;</li><li>Vivência com gestão administrativa, incluindo acompanhamento de compras, fornecedores, contratos, controle de custos e gestão de obras e manutenção; </li><li>Habilidade em liderança de equipes e capacidade de promover a motivação;</li></ul><br /><br /> <br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgmtrack/8/supervisor-administrativo]]></applyUrl>
     <companyId><![CDATA[94188001]]></companyId>
     <city><![CDATA[Campina Grande]]></city>
     <state><![CDATA[Paraíba]]></state>
@@ -99032,25 +98914,6 @@ Comprometimento e responsabilidade</li></ul>]]></description>
     <posterEmail><![CDATA[vitoria.mendes@andrews.g12.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />O Encarregado Operacional será responsável por coordenar os fluxos diários de pessoas e garantir o alto padrão de higiene e organização em todas as dependências do colégio.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gestão da Equipe de Limpeza: Supervisão direta dos funcionários orgânicos (limpeza dos banheiros) e terceirizados (Sodexo), garantindo a cobertura total.</li><li>Controle de Absenteísmo e Escalas: Supervisão rigorosa das escalas para evitar "pontos cegos" de limpeza nos prédios e banheiros. </li><li>Segurança e Portaria: Supervisão dos porteiros e do contrato de Vigilância (Avante), cuidando do fluxo de entrada e saída.</li><li>Alimentação (Sodexo Food): Fiscalização da operação da cantina e refeitório.</li><li>Higiene e Insumos: Monitoramento da limpeza minuciosa de pátios, prédios e banheiros, e reposição de materiais de higiene nos banheiros.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscoandrews/4/encarregado-operacional]]></applyUrl>
-    <companyId><![CDATA[11541846]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[30541e1f-39e6-4ea4-b321-bfff1b8b2e76]]></partnerJobId>
-    <company><![CDATA[Colégio Andrews]]></company>
-    <title><![CDATA[Assistente Administrativo]]></title>
-    <posterEmail><![CDATA[vitoria.mendes@andrews.g12.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O auxiliar administrativo será responsável pelo controle e organização do almoxarifado, recebimento e entrega de materiais, controle de estoque, atendimento e vendas de uniformes escolares, além da execução de serviços externos e apoio operacional às demandas administrativas da instituição.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Controle de estoque: registrar entradas e saídas de materiais escolares, uniformes e insumos em planilhas ou sistema, garantindo o controle de estoque e a reposição de materiais de forma contínua.<br /></li><li>Análise e observação do uso e a necessidade de reposição de materiais, evitando excessos ou faltas.<br /></li><li>Organização do almoxarifado: manter os materiais armazenados de forma acessível, limpa e padronizada.</li></ul><ul><li>Recebimento de mercadorias: conferir notas fiscais, quantidades e integridade dos itens entregues pelos fornecedores.<br /></li><li>Atendimento a pais e colaboradores: apoiar no fornecimento de materiais e informações, sempre com cordialidade.<br /></li><li>Cumprimento de normas internas: seguir orientações de segurança, políticas da escola e do programa de aprendizagem.<br /></li><li>Realizar a conferência e recebimento de materiais, assegurando que as entregas estejam em conformidade com o pedido de compra (quantidade, qualidade e especificações).</li><li>Prestar informações e/ou esclarecimentos através de nossos canais de atendimento.</li><li>Realizar serviços externos (bancos, cartórios, entre outros) conforme as diretrizes institucionais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.</li><li>Organização e bom controle de demandas.</li><li>Boa comunicação, garantindo um vocabulário rico na comunicação com os pais</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscoandrews/3/assistente-administrativo]]></applyUrl>
     <companyId><![CDATA[11541846]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
