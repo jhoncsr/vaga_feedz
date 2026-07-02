@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 02 Jul 2026 15:15:20 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 16:19:14 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3772]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3796]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -19641,7 +19641,42 @@ produção.<br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Requisi
     <company><![CDATA[weai.tecnologia]]></company>
     <title><![CDATA[Analista de cloud e Sustentação]]></title>
     <posterEmail><![CDATA[ricardo.peixe@weai.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional dedicado para atuar como Analista de Nível 2, responsável por garantir a estabilidade, segurança e alta disponibilidade dos nossos ambientes de TI. O candidato ideal terá experiência comprovada na monitoração, administração e suporte de serviços e infraestrutura, além de atuar proativamente na resolução de incidentes e na manutenção de rotinas operacionais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />  Realizar o monitoramento proativo de serviços, servidores e execução de jobs em ambiente de produção;              <br />*             Atuar na administração, operação e suporte a ambientes de backup, garantindo a integridade e disponibilidade dos dados;                <br />*             Identificar, analisar e solucionar incidentes, visando manter a continuidade dos serviços e a estabilidade dos ambientes;                <br />*             Colaborar com times de operações e suporte para garantir o funcionamento adequado dos sistemas;                <br />*             Documentar procedimentos operacionais e participar da melhoria contínua de processos.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />*  Experiência sólida com ferramentas de monitoramento de serviços e execução de jobs (ex: Control-M, Rundeck)                <br />*             Conhecimento técnico em ambientes de backup (configuração, troubleshooting e rotinas operacionais);                <br />*             Experiência prática com sistemas operacionais Windows e Linux, incluindo serviços como Active Directory, DNS, DHCP, etc)                <br />*             Conhecimento em ambientes Cloud, preferencialmente AWS (EC2, S3, IAM, CloudWatch, etc.).<br /><br /><br /><ul><li>Senso de responsabilidade e compromisso com entregas críticas</li><li>Proatividade na identificação e prevenção de incidentes</li><li>Capacidade analítica para investigação e resolução de problemas</li><li>Organização e disciplina na execução de rotinas operacionais</li><li>Comunicação clara e objetiva, especialmente em situações de incidente</li><li>Colaboração e trabalho em equipe</li><li>Resiliência para atuar sob pressão</li><li>Foco em melhoria contínua e evolução de processos</li></ul><br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional dedicado para atuar como Analista de Nível 2, responsável por garantir a estabilidade, segurança e alta disponibilidade dos nossos ambientes de TI, com foco em sustentação de aplicações críticas — incluindo sistemas de meios de pagamento — em ambientes AWS. O candidato ideal terá experiência comprovada na monitoração, administração e suporte de serviços e infraestrutura, sólida prática em observabilidade, e atuará proativamente na resolução de incidentes e na manutenção de rotinas operacionais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar o monitoramento proativo de serviços, servidores e execução de jobs em ambiente de produção;</li>
+<li>Atuar na sustentação de aplicações críticas, incluindo sistemas de meios de pagamento, garantindo disponibilidade e desempenho;</li>
+<li>Atuar na administração, operação e suporte a ambientes de backup, garantindo a integridade e disponibilidade dos dados;</li>
+<li>Identificar, analisar e solucionar incidentes, visando manter a continuidade dos serviços e a estabilidade dos ambientes;</li>
+<li>Executar e elaborar runbooks operacionais;</li>
+<li>Validar alarmes de monitoramento, abrir incidentes corretamente e escalar para N3 com evidências técnicas quando necessário;</li>
+<li>Automatizar processos manuais, reduzindo esforço operacional repetitivo e retrabalho;</li>
+<li>Colaborar com times de operações e suporte para garantir o funcionamento adequado dos sistemas;</li>
+<li>Documentar procedimentos operacionais e participar da melhoria contínua de processos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>xperiência sólida com ferramentas de monitoramento de serviços e execução de jobs (ex: Control-M, Rundeck);</li>
+<li>Conhecimento técnico em ambientes de backup (configuração, troubleshooting e rotinas operacionais);</li>
+<li>Experiência prática com sistemas operacionais Windows e Linux, incluindo serviços como Active Directory, DNS, DHCP, etc;</li>
+<li>Experiência em ambientes AWS (obrigatório), preferencialmente com EC2, S3, IAM, CloudWatch, etc.;</li>
+<li>Experiência em sustentação de aplicações críticas;</li>
+<li>Experiência com observabilidade (monitoramento, alarmes, troubleshooting orientado a métricas e logs).</li><li><br /></li><li><br /></li>
+
+<strong>Conhecimento técnico desejável</strong>
+<ul>
+<li>APIs REST</li>
+<li>HTTP/HTTPS e TLS</li>
+<li>JSON e logs estruturados</li>
+<li>Datadog ou Grafana</li>
+<li>CloudWatch</li>
+<li>ECS/Fargate (conceitual)</li>
+<li>SQS</li>
+<li>SQL básico/intermediário</li>
+</ul><br /><br />
+<strong>Competências comportamentais</strong>
+<ul>
+<li>Senso de responsabilidade e compromisso com entregas críticas;</li>
+<li>Proatividade na identificação e prevenção de incidentes;</li>
+<li>Capacidade analítica para investigação e resolução de problemas;</li>
+<li>Organização e disciplina na execução de rotinas operacionais;</li>
+<li>Comunicação clara e objetiva, especialmente em situações de incidente e escalação;</li>
+<li>Colaboração e trabalho em equipe;</li>
+<li>Resiliência para atuar sob pressão;</li>
+<li>Foco em melhoria contínua, automação e evolução de processos.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/jobsweai/75/analista-de-cloud-e-sustentacao]]></applyUrl>
     <companyId><![CDATA[1]]></companyId>
     <city><![CDATA[São Paulo]]></city>
@@ -22982,6 +23017,25 @@ Facilidade para transformar dados complexos em informações claras e acionávei
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[29275fb1-1e0a-4962-876b-b7af7f668388]]></partnerJobId>
+    <company><![CDATA[Starbem]]></company>
+    <title><![CDATA[Head Comercial B2B]]></title>
+    <posterEmail><![CDATA[ivone.granadeiro@starbem.app]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos buscando um Head 2B para assumir a frente de vendas B2B, com foco em médias e grandes contas corporativas.Essa pessoa será responsável por liderar um time comercial, elevar a disciplina de execução do funil de vendas, desenvolver oportunidades enterprise e large enterprise, estruturar a estratégia do b2b e uma operação comercial mais previsível, fortalecendo a presença da Starbem no mercado de benefícios corporativos, saúde mental, bem-estar e saúde digital.Missão da posiçãoLiderar a máquina de vendas B2B da Starbem, combinando gestão de pessoas, disciplina comercial, domínio de CRM e capacidade de construir relacionamentos sofisticados com decisores de médias e grandes empresas.Essa liderança deverá garantir que o time comercial atue com cadência, foco, organização, profundidade consultiva e orientação a resultado, desde a geração de demanda até o fechamento de contratos estratégicos.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Liderar diretamente um time comercial enxuto composto por SDRs, closers e RevOps;</li><li>Gerenciar a rotina comercial do time, garantindo cadência, acompanhamento próximo e clareza sobre metas individuais e coletivas;</li><li>Conduzir a gestão do funil de vendas no HubSpot, assegurando qualidade dos dados, previsibilidade de receita, disciplina nas etapas comerciais e acompanhamento dos principais indicadores;</li><li>Definir e acompanhar KPIs comerciais, como geração de leads qualificados, conversão por etapa, velocidade do funil, taxa de fechamento, ticket médio, ciclo de vendas, pipeline coverage, forecast e performance individual dos vendedores;</li><li>Atuar de forma ativa em negociações estratégicas com contas enterprise e large enterprise, apoiando ou liderando conversas com decisores de RH, Benefícios, People, Financeiro, Compras e C-level;</li><li>Desenvolver uma abordagem consultiva para vendas complexas, conectando as soluções da Starbem aos desafios reais dos clientes em saúde mental, bem-estar corporativo, absenteísmo, engajamento, retenção, produtividade, NR-01 e experiência do colaborador;</li><li>Apoiar o time na construção de propostas comerciais, business cases, apresentações executivas e estratégias de negociação para contas relevantes.</li><li>Aumentar o nível de sofisticação comercial da Starbem, elevando a qualidade do diagnóstico, da condução das reuniões, da gestão de objeções e do fechamento de contratos;</li><li>Construir relacionamento de longo prazo com prospects, parceiros, consultorias, brokers, lideranças de RH e decisores estratégicos do ecossistema de benefícios corporativos;</li><li>Garantir alinhamento constante com Marketing, CS, Produto, Saúde e Operações para melhorar a conversão, qualificação de leads, discurso comercial, onboarding e entrega de valor ao cliente;</li><li>Trabalhar próximo à liderança da empresa na definição de prioridades e estratégia comerciais, expansão em contas estratégicas, canais de aquisição e posicionamento para clientes mid-market, enterprise e large enterprise;</li><li>Identificar gargalos no processo comercial e implementar melhorias em cadências, scripts, playbooks, critérios de qualificação, propostas, forecast e governança do pipeline;</li><li>Desenvolver, treinar e cobrar o time comercial, criando uma cultura de alta performance, responsabilidade individual, resiliência e foco em resultado.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em vendas B2B complexas; é necessário experiência sólida em vendas para médias e grandes empresas, preferencialmente no mercado de benefícios corporativos, saúde corporativa, RH tech, health tech, insurance, corretoras, consultorias de benefícios ou soluções vendidas para áreas de RH e People;</li><li>Capacidade de vender soluções consultivas, com múltiplos stakeholders, ciclos mais longos, negociação sofisticada e necessidade de construção de valor.</li><li>Conhecimento do mercado de benefícios corporativos;  entendimento do funcionamento do mercado de benefícios, saúde corporativa, bem-estar, saúde mental, canais de distribuição, brokers, consultorias, operadoras, seguradoras, RHs e áreas de remuneração e benefícios;</li><li>Capacidade de dialogar com profundidade com decisores que compram soluções para colaboradores.</li><li>Domínio de HubSpot e gestão de funil; conhecimento avançado de HubSpot, com capacidade de organizar pipeline, criar visibilidade gerencial, acompanhar atividades, gerar relatórios, analisar conversões e garantir disciplina comercial;</li><li>imprescindível a utilização de CRM, usar dados para tomar decisões e cobrar o time com base em fatos, não em percepções.</li><li>Gestão de pessoas e liderança de performance; Capacidade de liderar um time comercial com proximidade, energia, cobrança e clareza;</li><li>Deve ter experiência com one-on-ones, reuniões de forecast, revisão de pipeline, acompanhamento de metas, feedbacks difíceis e construção de planos de melhoria de performance.</li><li>Relacionamento e presença executiva; boa comunicação, postura consultiva e capacidade de criar confiança com clientes sofisticados;</li><li>Deve conseguir transitar bem entre conversas operacionais e executivas, falando com RH, Benefits, Compras, Financeiro, diretoria e C-level.</li><li>Organização e disciplina operacional; Perfil estruturado, capaz de transformar ambição comercial em rotina, processo, cadência e execução;</li><li>Deve acompanhar indicadores semanalmente, revisar oportunidades com profundidade, antecipar riscos do funil e manter o time focado nas prioridades corretas.</li><li>Inteligência comercial e negociação; capacidade de entender o contexto do cliente, mapear stakeholders, identificar dor real, construir proposta de valor, defender preço, conduzir objeções e fechar contratos relevantes;</li><li>Deve saber diferenciar uma oportunidade real de uma oportunidade fraca, protegendo o foco do time.</li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/starbem/67/head-comercial-b2b]]></applyUrl>
+    <companyId><![CDATA[1]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[9b7fe30e-8df7-4fa9-a39d-fd21c21560d3]]></partnerJobId>
@@ -27350,6 +27404,25 @@ deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b>
     <companyId><![CDATA[10903946]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[9da04b77-4411-4d46-aafa-b1c1fd602d18]]></partnerJobId>
+    <company><![CDATA[Objeto Brasil]]></company>
+    <title><![CDATA[Assistente de Controladoria]]></title>
+    <posterEmail><![CDATA[gp.selecao@objetobr.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é uma pessoa organizada, analítica e atenta aos detalhes, essa oportunidade é para você!Como Assistente de Controladoria, você irá apoiar as rotinas fiscais e contábeis, garantindo a correta classificação, lançamento e conferência de documentos fiscais, além de contribuir para a qualidade das informações que apoiam o fechamento contábil e fiscal.<br /><br /><strong>Principais responsabilidades:</strong><ul><li>Realizar o lançamento e a conferência de documentos fiscais (notas fiscais e fretes);</li><li>Apoiar as atividades de fechamento fiscal e contábil;</li><li>Prestar suporte às demandas relacionadas à portaria, quando necessário;</li><li>Contribuir para a organização e confiabilidade das informações da área de Controladoria.</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Principais responsabilidades:</strong><ul><li>Realizar o lançamento e a conferência de documentos fiscais (notas fiscais e fretes);</li><li>Classificar e validar notas fiscais de acordo com a legislação e os procedimentos internos;</li><li>Conferir lançamentos nos livros fiscais e relatórios gerenciais;</li><li>Apoiar as atividades de fechamento fiscal e contábil;</li><li>Prestar suporte às demandas relacionadas à portaria, quando necessário;</li><li>Contribuir para a organização e confiabilidade das informações da área de Controladoria.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Requisitos:</strong><ul><li>Ensino Superior completo ou em andamento em Ciências Contábeis;</li><li>Experiência mínima de 2 anos em rotinas fiscais, contábeis ou de controladoria;</li><li>Conhecimento em classificação e lançamento de notas fiscais;</li><li>Conhecimento em conferência de livros fiscais;</li><li>Excel em nível intermediário.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscoobjetobrasil/81/assistente-de-controladoria]]></applyUrl>
+    <companyId><![CDATA[9252532]]></companyId>
+    <city><![CDATA[Pomerode]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -39412,6 +39485,40 @@ em Acesso por Cordas (IRATA, ABENDI ou ANEAC</li><li>CBSP</li><li> T-HUET (OPIT
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[c512e2da-6844-41d7-a613-122ed2e795a2]]></partnerJobId>
+    <company><![CDATA[Atlântica Agroindustrial]]></company>
+    <title><![CDATA[Auxiliar de Logística]]></title>
+    <posterEmail><![CDATA[alessya.barbosa@sladm.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos procurando por você, que assim como nós, expressa
+ousadia, dedicação, união, confiança, humildade, cuidado e disciplina.
+
+ 
+
+Bem-vindo à Atlântica Agroindustrial!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>       Realizar check list (step, macaco, cofre e outros) diário dos
+veículos enviados para rota, através de formulário padrão, planilhando as
+informações para uso estratégico da área;</li><li>     Recolher, organizar e arquivar diariamente os discos de tacógrafos
+dos veículos, contribuindo para a fluidez dos processos;</li><li>       Abrir chamados de manutenção preventiva e corretiva, através de
+sistema ERP, a fim de garantir as condições adequadas da frota;</li><li>      Realizar emissão de manifesto de transporte de resíduos (MTR),
+através de sistema do órgão responsável, para cumprir as normas reguladoras do
+processo;</li><li>       Encerrar manifestos de viagens, através de sistema do órgão
+regulador, assegurando a conformidade do processo;</li><li>       Dar suporte nas demais atividades à função.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino
+médio completo.</li><li>Ensino superior cursando em
+logística ou administração será um diferencial.</li><li>Mínima de 6 (seis) meses de
+experiência na função</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemseratlantica/591/auxiliar-de-logistica]]></applyUrl>
+    <companyId><![CDATA[76532334]]></companyId>
+    <city><![CDATA[Fortaleza]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[57b9ac9b-0a95-4bf8-a15d-f3139e3c47ad]]></partnerJobId>
     <company><![CDATA[Atlântica Agroindustrial]]></company>
     <title><![CDATA[Auxiliar de Manutenção Predial]]></title>
@@ -46546,6 +46653,44 @@ Responsabilidade e comprometimento com prazos e qualidade das informações.</li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[accf1617-54fe-47aa-83f5-b81752937e7d]]></partnerJobId>
+    <company><![CDATA[Bianchini]]></company>
+    <title><![CDATA[Técnico de Produção JR]]></title>
+    <posterEmail><![CDATA[recrutamento.rg@bianchinisa.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais motivados e comprometidos para se juntarem à nossa equipe.Se você é uma pessoa que gosta de desafios e busca crescer profissionalmente, essa pode ser a oportunidade perfeita para você. Neste cargo, você terá a chance de desenvolver suas habilidades, aprender com profissionais experientes e contribuir para projetos empolgantes. <br />Se você é proativo, possui espírito de equipe e está em busca de novos desafios, venha fazer parte do nosso time. <br />Aplique agora e Faça parte dessa jornada de crescimento e sucesso!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Executar atividades de processamento da soja referentes à sua área de atuação; Preparar, receber, controlar, conferir, distribuir e registrar materiais e operações necessários ao funcionamento da sua área de atuação e da Bianchini; Realizar registro e controle de suas atividades em planilhas e relatórios; Preencher e conferir planilhas de dados operacionais; Acompanhar e controlar as condições de segurança em sua área de atuação; Zelar pela manutenção da performance do processo sob sua responsabilidade (qualidade e rendimento); Controlar, preservar, limpar, manter, organizar, armazenar e operar máquinas, equipamentos e materiais sob sua responsabilidade; Zelar pela limpeza e conservação da sua área de trabalho; Realizar suas atividades de acordo com as normas de segurança do trabalho; Utilizar os equipamentos de proteção individual e coletivos recomendados na sua área de atuação; Realizar suas atividades em consonância com as normas e procedimentos de Boas Práticas de Fabricação.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio/Técnico completo desejável em Química,<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bianchinivagas/227/tecnico-de-producao-jr]]></applyUrl>
+    <companyId><![CDATA[1352906]]></companyId>
+    <city><![CDATA[Rio Grande]]></city>
+    <state><![CDATA[Rio Grande do Sul]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[6d3a0209-4e96-4851-8444-1484dca438b2]]></partnerJobId>
+    <company><![CDATA[Bianchini]]></company>
+    <title><![CDATA[Técnico de Manutenção PL]]></title>
+    <posterEmail><![CDATA[recrutamento.rg@bianchinisa.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por executar atividades técnicas na sua área de atuação, realizando manutenções preventivas e corretivas em máquinas, equipamentos e veículos. Atua no controle, calibração e conservação de ferramentas e materiais, além de preparar e registrar documentos necessários ao funcionamento da área. Deve seguir rigorosamente as normas de segurança, utilizar os equipamentos de proteção, manter o ambiente de trabalho limpo e organizado e garantir que todas as atividades estejam em conformidade com as Boas Práticas de Fabricação (BPF).<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Executar atividades técnicas de acordo com sua área de atuação- Identificar necessidades e realizar manutenção preventiva e corretiva de máquinas, equipamentos e veículos<br />- Controlar, regular, calibrar e conservar ferramentas, equipamentos e materiais<br />- Preparar, conferir e registrar dados e documentos necessários ao funcionamento da área<br />- Especificar e solicitar materiais<br />- Seguir normas de segurança do trabalho e usar os equipamentos de proteção<br />- Zelar pela limpeza e conservação do ambiente de trabalho<br />- Atuar conforme as Boas Práticas de Fabricação<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino Médio/Técnico completo, preferencialmente em Mecânica<br />- Desejavel experiencia de 1 ano na função<br />- Foco, atenção a detalhes e organização]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bianchinivagas/226/tecnico-de-manutencao-pl]]></applyUrl>
+    <companyId><![CDATA[1352906]]></companyId>
+    <city><![CDATA[Rio Grande]]></city>
+    <state><![CDATA[Rio Grande do Sul]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[63ab8f41-1304-4e09-b7b6-4783b0a17376]]></partnerJobId>
     <company><![CDATA[Bianchini]]></company>
     <title><![CDATA[Operador de Caldeira]]></title>
@@ -49606,6 +49751,480 @@ constante evolução.</li></ul><br /><br /><br /><br /><b>Requisitos e qualifica
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[6879c726-5917-4ed4-89f0-be3d9cf5d4c0]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Mecânico de Equipamentos - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Mecânico de Manutenção de Equipamentos é responsável por garantir a disponibilidade, confiabilidade e segurança operacional dos equipamentos da frota, por meio da execução de manutenções preventivas e corretivas. Atua no diagnóstico, reparo e substituição de componentes mecânicos, hidráulicos, elétricos e de refrigeração em guindastes, empilhadeiras e equipamentos da linha amarela, assegurando a conformidade com os padrões técnicos e normas de segurança. Também é responsável pela leitura e interpretação de diagramas técnicos, identificação e solução de falhas, organização dos registros de manutenção e priorização das atividades, contribuindo para a continuidade das operações com qualidade, eficiência e foco em resultados.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar manutenção preventiva e corretiva de máquinas e equipamentos.<br />- Diagnosticar falhas e defeitos mecânicos em sistemas diversos.<br />- Fazer ajustes e regulagens em componentes mecânicos.<br />- Monitorar o funcionamento de máquinas, identificando a necessidade de reparos.<br />- Elaborar relatórios sobre as atividades de manutenção realizadas.<br />- Colaborar na montagem e desmonte de equipamentos, conforme necessário.<br />- Cumprir normas de segurança e procedimentos operacionais estabelecidos.<br />- Acompanhar a manutenção de registros e documentação técnica.<br /><br />Requisitos e qualificações<br /><br />Amplo conhecimento em elétrica para manutenção de equipamentos.Conhecimento sólido em sistemas de refrigeração.Conhecimento Mecânico Hidráulico.Leitura de Diagrama e identificação de falhas.Conhecimento em Empilhadeiras e Guindastes (incluindo modelos LIEBHERR, FUWA, HYUNDAI, HYSTER).Conhecimento e experiência em manutenção de equipamentos da Linha Amarela (Volvo e Caterpillar).Conhecimento da norma NBR 15965 (se relevante para o escopo da empresa).<br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino Médio completo.</li><li>Curso Técnico em Mecânica, Eletromecânica, Mecatrônica ou áreas correlatas.</li><li>Conhecimento em motores diesel, sistemas hidráulicos, pneumáticos, transmissão, freios e direção.</li><li>Experiência em manutenção preventiva, corretiva e preditiva.</li><li>Experiência comprovada na CTPS em manutenção mecânica de equipamentos de linha amarela e movimentação de cargas.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/377/mecanico-de-equipamentos-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[3200.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[3200.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ff91d0d6-7abc-48b4-b3ff-9bd507b3d235]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Mecânico de Equipamentos - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Mecânico de Manutenção de Equipamentos é responsável por garantir a disponibilidade, confiabilidade e segurança operacional dos equipamentos da frota, por meio da execução de manutenções preventivas e corretivas. Atua no diagnóstico, reparo e substituição de componentes mecânicos, hidráulicos, elétricos e de refrigeração em guindastes, empilhadeiras e equipamentos da linha amarela, assegurando a conformidade com os padrões técnicos e normas de segurança. Também é responsável pela leitura e interpretação de diagramas técnicos, identificação e solução de falhas, organização dos registros de manutenção e priorização das atividades, contribuindo para a continuidade das operações com qualidade, eficiência e foco em resultados.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar manutenção preventiva e corretiva de máquinas e equipamentos.<br />- Diagnosticar falhas e defeitos mecânicos em sistemas diversos.<br />- Fazer ajustes e regulagens em componentes mecânicos.<br />- Monitorar o funcionamento de máquinas, identificando a necessidade de reparos.<br />- Elaborar relatórios sobre as atividades de manutenção realizadas.<br />- Colaborar na montagem e desmonte de equipamentos, conforme necessário.<br />- Cumprir normas de segurança e procedimentos operacionais estabelecidos.<br />- Acompanhar a manutenção de registros e documentação técnica.<br /><br />Requisitos e qualificações<br /><br />Amplo conhecimento em elétrica para manutenção de equipamentos.Conhecimento sólido em sistemas de refrigeração.Conhecimento Mecânico Hidráulico.Leitura de Diagrama e identificação de falhas.Conhecimento em Empilhadeiras e Guindastes (incluindo modelos LIEBHERR, FUWA, HYUNDAI, HYSTER).Conhecimento e experiência em manutenção de equipamentos da Linha Amarela (Volvo e Caterpillar).Conhecimento da norma NBR 15965 (se relevante para o escopo da empresa).<br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino Médio completo.</li><li>Curso Técnico em Mecânica, Eletromecânica, Mecatrônica ou áreas correlatas.</li><li>Conhecimento em motores diesel, sistemas hidráulicos, pneumáticos, transmissão, freios e direção.</li><li>Experiência em manutenção preventiva, corretiva e preditiva.</li><li>Experiência comprovada na CTPS em manutenção mecânica de equipamentos de linha amarela e movimentação de cargas.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/378/mecanico-de-equipamentos-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[3200.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[3200.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[144b474a-eba9-498f-acd5-343b4129c95a]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Mecânico de Equipamentos - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Mecânico de Manutenção de Equipamentos é responsável por garantir a disponibilidade, confiabilidade e segurança operacional dos equipamentos da frota, por meio da execução de manutenções preventivas e corretivas. Atua no diagnóstico, reparo e substituição de componentes mecânicos, hidráulicos, elétricos e de refrigeração em guindastes, empilhadeiras e equipamentos da linha amarela, assegurando a conformidade com os padrões técnicos e normas de segurança. Também é responsável pela leitura e interpretação de diagramas técnicos, identificação e solução de falhas, organização dos registros de manutenção e priorização das atividades, contribuindo para a continuidade das operações com qualidade, eficiência e foco em resultados.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar manutenção preventiva e corretiva de máquinas e equipamentos.<br />- Diagnosticar falhas e defeitos mecânicos em sistemas diversos.<br />- Fazer ajustes e regulagens em componentes mecânicos.<br />- Monitorar o funcionamento de máquinas, identificando a necessidade de reparos.<br />- Elaborar relatórios sobre as atividades de manutenção realizadas.<br />- Colaborar na montagem e desmonte de equipamentos, conforme necessário.<br />- Cumprir normas de segurança e procedimentos operacionais estabelecidos.<br />- Acompanhar a manutenção de registros e documentação técnica.<br /><br />Requisitos e qualificações<br /><br />Amplo conhecimento em elétrica para manutenção de equipamentos.Conhecimento sólido em sistemas de refrigeração.Conhecimento Mecânico Hidráulico.Leitura de Diagrama e identificação de falhas.Conhecimento em Empilhadeiras e Guindastes (incluindo modelos LIEBHERR, FUWA, HYUNDAI, HYSTER).Conhecimento e experiência em manutenção de equipamentos da Linha Amarela (Volvo e Caterpillar).Conhecimento da norma NBR 15965 (se relevante para o escopo da empresa).<br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino Médio completo.</li><li>Curso Técnico em Mecânica, Eletromecânica, Mecatrônica ou áreas correlatas.</li><li>Conhecimento em motores diesel, sistemas hidráulicos, pneumáticos, transmissão, freios e direção.</li><li>Experiência em manutenção preventiva, corretiva e preditiva.</li><li>Experiência comprovada na CTPS em manutenção mecânica de equipamentos de linha amarela e movimentação de cargas.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/379/mecanico-de-equipamentos-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[3200.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[3200.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[873a7fa5-1c73-45fe-94b0-1d01a174353a]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Operador de Empilhadeira - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Operar equipamento de movimentação e/ou elevação de cargas do tipo empilhadeira, realizando operações de carga e descarga ou no pátio atendendo solicitações de trabalhos específicos ou programados. Organizam carga, interpretando simbologia das embalagens, armazenando de acordo com o prazo de validade do produto, identificando características da carga para transporte e armazenamento e separando carga não-conforme. Realizam manutenções previstas em equipamentos para movimentação de cargas. Trabalham seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Operar empilhadeiras elétricas retráteis e a combustão;</li><li>Movimentar, armazenar, carregar e descarregar materiais;</li><li>Realizar inspeções diárias e preencher checklists dos equipamentos;</li><li>Zelar pela conservação e utilização adequada da empilhadeira;</li><li>Cumprir os procedimentos operacionais e as normas de SMS;</li><li>Utilizar corretamente os EPIs;</li><li>Apoiar a organização dos materiais e os inventários quando necessário.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo; Experiência anterior na função de Op. de Empilhadeira. <br />Certificado do curso.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/380/operador-de-empilhadeira-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ca912b9e-8dab-4cc1-a3bf-941e3a7ac2fd]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Operador de Empilhadeira - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Operar equipamento de movimentação e/ou elevação de cargas do tipo empilhadeira, realizando operações de carga e descarga ou no pátio atendendo solicitações de trabalhos específicos ou programados. Organizam carga, interpretando simbologia das embalagens, armazenando de acordo com o prazo de validade do produto, identificando características da carga para transporte e armazenamento e separando carga não-conforme. Realizam manutenções previstas em equipamentos para movimentação de cargas. Trabalham seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Operar empilhadeiras elétricas retráteis e a combustão;</li><li>Movimentar, armazenar, carregar e descarregar materiais;</li><li>Realizar inspeções diárias e preencher checklists dos equipamentos;</li><li>Zelar pela conservação e utilização adequada da empilhadeira;</li><li>Cumprir os procedimentos operacionais e as normas de SMS;</li><li>Utilizar corretamente os EPIs;</li><li>Apoiar a organização dos materiais e os inventários quando necessário.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo; Experiência anterior na função de Op. de Empilhadeira. <br />Certificado do curso.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/381/operador-de-empilhadeira-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b34444c4-39ab-4249-ac84-4df9f88e0dc1]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Operador de Empilhadeira - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Operar equipamento de movimentação e/ou elevação de cargas do tipo empilhadeira, realizando operações de carga e descarga ou no pátio atendendo solicitações de trabalhos específicos ou programados. Organizam carga, interpretando simbologia das embalagens, armazenando de acordo com o prazo de validade do produto, identificando características da carga para transporte e armazenamento e separando carga não-conforme. Realizam manutenções previstas em equipamentos para movimentação de cargas. Trabalham seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Operar empilhadeiras elétricas retráteis e a combustão;</li><li>Movimentar, armazenar, carregar e descarregar materiais;</li><li>Realizar inspeções diárias e preencher checklists dos equipamentos;</li><li>Zelar pela conservação e utilização adequada da empilhadeira;</li><li>Cumprir os procedimentos operacionais e as normas de SMS;</li><li>Utilizar corretamente os EPIs;</li><li>Apoiar a organização dos materiais e os inventários quando necessário.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo; Experiência anterior na função de Op. de Empilhadeira. <br />Certificado do curso.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/382/operador-de-empilhadeira-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d41563be-21ef-4939-b4a0-05ea28e084b2]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Operador de Empilhadeira - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Operar equipamento de movimentação e/ou elevação de cargas do tipo empilhadeira, realizando operações de carga e descarga ou no pátio atendendo solicitações de trabalhos específicos ou programados. Organizam carga, interpretando simbologia das embalagens, armazenando de acordo com o prazo de validade do produto, identificando características da carga para transporte e armazenamento e separando carga não-conforme. Realizam manutenções previstas em equipamentos para movimentação de cargas. Trabalham seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Operar empilhadeiras elétricas retráteis e a combustão;</li><li>Movimentar, armazenar, carregar e descarregar materiais;</li><li>Realizar inspeções diárias e preencher checklists dos equipamentos;</li><li>Zelar pela conservação e utilização adequada da empilhadeira;</li><li>Cumprir os procedimentos operacionais e as normas de SMS;</li><li>Utilizar corretamente os EPIs;</li><li>Apoiar a organização dos materiais e os inventários quando necessário.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo; Experiência anterior na função de Op. de Empilhadeira. <br />Certificado do curso.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/383/operador-de-empilhadeira-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[564e52d0-2251-4cb5-ab5d-f399844cadeb]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Operador de Empilhadeira - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Operar equipamento de movimentação e/ou elevação de cargas do tipo empilhadeira, realizando operações de carga e descarga ou no pátio atendendo solicitações de trabalhos específicos ou programados. Organizam carga, interpretando simbologia das embalagens, armazenando de acordo com o prazo de validade do produto, identificando características da carga para transporte e armazenamento e separando carga não-conforme. Realizam manutenções previstas em equipamentos para movimentação de cargas. Trabalham seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Operar empilhadeiras elétricas retráteis e a combustão;</li><li>Movimentar, armazenar, carregar e descarregar materiais;</li><li>Realizar inspeções diárias e preencher checklists dos equipamentos;</li><li>Zelar pela conservação e utilização adequada da empilhadeira;</li><li>Cumprir os procedimentos operacionais e as normas de SMS;</li><li>Utilizar corretamente os EPIs;</li><li>Apoiar a organização dos materiais e os inventários quando necessário.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo; Experiência anterior na função de Op. de Empilhadeira. <br />Certificado do curso.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/384/operador-de-empilhadeira-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[7099e55a-5583-4377-82c7-d329dab94821]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Operador de Empilhadeira - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Operar equipamento de movimentação e/ou elevação de cargas do tipo empilhadeira, realizando operações de carga e descarga ou no pátio atendendo solicitações de trabalhos específicos ou programados. Organizam carga, interpretando simbologia das embalagens, armazenando de acordo com o prazo de validade do produto, identificando características da carga para transporte e armazenamento e separando carga não-conforme. Realizam manutenções previstas em equipamentos para movimentação de cargas. Trabalham seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Operar empilhadeiras elétricas retráteis e a combustão;</li><li>Movimentar, armazenar, carregar e descarregar materiais;</li><li>Realizar inspeções diárias e preencher checklists dos equipamentos;</li><li>Zelar pela conservação e utilização adequada da empilhadeira;</li><li>Cumprir os procedimentos operacionais e as normas de SMS;</li><li>Utilizar corretamente os EPIs;</li><li>Apoiar a organização dos materiais e os inventários quando necessário.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo; Experiência anterior na função de Op. de Empilhadeira. <br />Certificado do curso.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/385/operador-de-empilhadeira-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[56dbeeb7-0131-415a-a500-45a75439edb8]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Operador de Empilhadeira - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Operar equipamento de movimentação e/ou elevação de cargas do tipo empilhadeira, realizando operações de carga e descarga ou no pátio atendendo solicitações de trabalhos específicos ou programados. Organizam carga, interpretando simbologia das embalagens, armazenando de acordo com o prazo de validade do produto, identificando características da carga para transporte e armazenamento e separando carga não-conforme. Realizam manutenções previstas em equipamentos para movimentação de cargas. Trabalham seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Operar empilhadeiras elétricas retráteis e a combustão;</li><li>Movimentar, armazenar, carregar e descarregar materiais;</li><li>Realizar inspeções diárias e preencher checklists dos equipamentos;</li><li>Zelar pela conservação e utilização adequada da empilhadeira;</li><li>Cumprir os procedimentos operacionais e as normas de SMS;</li><li>Utilizar corretamente os EPIs;</li><li>Apoiar a organização dos materiais e os inventários quando necessário.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo; Experiência anterior na função de Op. de Empilhadeira. <br />Certificado do curso.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/386/operador-de-empilhadeira-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[636f8522-db86-4deb-8648-4f2058bee8ba]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Operador de Empilhadeira - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Operar equipamento de movimentação e/ou elevação de cargas do tipo empilhadeira, realizando operações de carga e descarga ou no pátio atendendo solicitações de trabalhos específicos ou programados. Organizam carga, interpretando simbologia das embalagens, armazenando de acordo com o prazo de validade do produto, identificando características da carga para transporte e armazenamento e separando carga não-conforme. Realizam manutenções previstas em equipamentos para movimentação de cargas. Trabalham seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Operar empilhadeiras elétricas retráteis e a combustão;</li><li>Movimentar, armazenar, carregar e descarregar materiais;</li><li>Realizar inspeções diárias e preencher checklists dos equipamentos;</li><li>Zelar pela conservação e utilização adequada da empilhadeira;</li><li>Cumprir os procedimentos operacionais e as normas de SMS;</li><li>Utilizar corretamente os EPIs;</li><li>Apoiar a organização dos materiais e os inventários quando necessário.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo; Experiência anterior na função de Op. de Empilhadeira. <br />Certificado do curso.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/387/operador-de-empilhadeira-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2315.09]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e265d942-4e9f-4718-a5b9-2ec5439888c4]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Técnico de Manutenção - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Técnico de Manutenção</strong> para atuar na manutenção preventiva, corretiva e preditiva dos equipamentos utilizados na operação logística, garantindo a disponibilidade, confiabilidade e segurança dos ativos. O profissional será responsável por realizar diagnósticos, inspeções e intervenções técnicas em equipamentos de movimentação de cargas e máquinas de linha amarela, contribuindo para a continuidade das operações.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Executar manutenções preventivas, corretivas e preditivas em equipamentos de movimentação de cargas e máquinas de linha amarela.</li><li>Realizar inspeções técnicas, identificando falhas mecânicas, elétricas, hidráulicas e pneumáticas.</li><li>Efetuar diagnósticos e reparos em empilhadeiras elétricas e a combustão, , guindastes, plataformas elevatórias e equipamentos de apoio operacional.</li><li>Executar testes de funcionamento após as intervenções de manutenção.</li><li>Interpretar manuais técnicos, diagramas e especificações dos fabricantes.</li><li>Solicitar e controlar materiais e peças necessários para execução dos serviços.</li><li>Zelar pela conservação das ferramentas, equipamentos e organização da oficina.</li><li>Cumprir rigorosamente os procedimentos operacionais e as normas de Segurança, Meio Ambiente e Saúde (SMS).</li><li>Apoiar a equipe de manutenção na melhoria contínua dos processos e na disponibilidade dos equipamentos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino Médio completo.</li><li>Curso Técnico em Mecânica, Eletromecânica, Mecatrônica, Manutenção Industrial ou áreas correlatas.</li><li>Experiência em manutenção de equipamentos de movimentação de cargas e máquinas de linha amarela.</li><li>Conhecimento em manutenção mecânica, elétrica, hidráulica e pneumática.</li><li>Conhecimento em motores diesel, sistemas de transmissão, freios e direção.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/388/tecnico-de-manutencao-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2500.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2500.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ede4af80-4697-420a-90f5-458959e3653b]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Técnico de Segurança do Trabalho - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Acompanhar e/ou implementar os programas de segurança, proteção e meio ambiente, seguindo ou produzindo os seguintes processos: PGR, CIPA, CAT, DDS etc., fiscalizando e acompanhando o uso dos EPI ́s, controlando a data de expiração dos equipamentos e materiais, elaborando relatórios fotográficos, além de palestras e integrações de novos funcionários.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />•Distribuir diariamente aos colaboradores, os EPI`s que serão usados, recolhendo aqueles danificados e separando-os, anotando na ficha pessoal de cada colaborador o que foi retirado e qual a data do trâmite, para fins de enviar uma notificação ao Auxiliar Administrativo para posterior compra, cumprimento da legislação e preservação da integridade física do colaborador;<br />•Fazer levantamento diário do estoque de todo o material de segurança do trabalho (entradas e saídas), anotando em planilha manual a relação dos materiais que faltam, repassando ao Administrativo, para fins de reposição de estoque;<br />•Visitar diariamente as áreas operacionais, para fins de inspecionar a segurança nas áreas;<br />•Fazer vistoria de veículos mensalmente, verificando pessoalmente os freios, faróis e etc., informando aos Terceirizados caso haja necessidade de algum reparo, lançando em planilha feita no Word os problemas relacionados ao veículo e enviando ao Gerente de Filial os problemas encontrados, para fins de manter os veículos em boas condições e segurança dos colaboradores;<br />•Fazer análise de risco baseando-se nas atividades que serão feitas pelas equipes, definindo qual será o EPI usado, qual o processo mais seguro para a realização da atividade, enumerando os possíveis riscos, para fins de preservar a integridade física dos colaboradores;<br />•Fazer diariamente a inspeção de segurança, especificando as não conformidades existentes nos locais, fazendo um relatório e encaminhando ao Gerente de Filial ou à empresa responsável, para fins de preservar a integridade física do colaborador e do Meio Ambiente;<br />•Responsável por elaborar todo trâmite relacionado à eleição da CIPA e os documentos, exigidos pelo Ministério do Trabalho e Emprego, para fins de atender a fiscalização trabalhista;<br />•Fazer cumprir as ações da CIPA em acordo com o SMS, identificar necessidades, planejar, executar e avaliar programas de treinamento de segurança industrial e meio ambiente;<br />•Controlar mensalmente o SESMT, número de acidentes ocorridos em cada setor, através de notificação do ocorrido, reunindo as CATS, análise de levantamento de acidentes, fazendo um parâmetro e calculando as horas perdidas, total de cada setor, enviando as cópias ao Gerente de Filial e a empresa CSN, para fins de controle do número de acidentes e as horas perdidas;<br />•Notificar eventualmente, através de comunicado feito em planilha Excel, uma análise do acidente ocorrido através de simulações ou depoimentos, traçando medidas corretivas, enviando ao Supervisor de área em que ocorreu o acidente, para fins de prevenir acidentes com a mesma proporção;<br />•Preencher eventualmente no site do INSS, uma CAT no prazo máximo de quarenta e oito horas após o acidente, informando a lesão ocorrida, o local e a hora, o agente causador, a situação causadora, imprimindo uma cópia e arquivando, fornecendo cópia ao colaborador, e enviando através do site do INSS, para fins de comunicar ao INSS, preservar o colaborador de possíveis dificuldades trabalhistas e a empresa de possíveis processos trabalhistas;<br />•Coordenar eventualmente a troca ou efetiva recarga de extintores, inspecionando um a um, mantendo contato direto com a empresa responsável pela manutenção dos extintores para fins da Triunfo estar preparada caso ocorra algum incêndio;<br />•Promover eventualmente a integração dos novos colaboradores, apresentando os riscos a que estão expostos, ensinando os procedimentos e análises de riscos, fazendo um treinamento total, apresentação através de Power Point, dando palestras em sala de reuniões, apresentando-os aos seus Supervisores, para fins de mostrar os riscos aos novos colaboradores, apresentar-lhes as responsabilidades e obrigações dentro da empresa;<br />•Elaborar mensalmente no Word, gerando cópias e distribuindo em locais de livre acesso aos colaboradores um jornal interno, imputando informações preventivas e atualidades, para fins de fornecer informações e gerar uma integração;<br />•Fiscalizar diariamente as Unidades, com o intuito de assegurar que o DDS (Diálogo Diário de Segurança) está sendo cumprido, arquivando e assinando o DDS, para fins de promover a conscientização e prevenção de acidentes entre os colaboradores;<br />•Preencher eventualmente uma planilha enviada pelo Porto de Itaguaí, constando a entrada e a saída de resíduos da oficina, entregando ao Chefe de Oficina, que é responsável pelo recolhimento, para fins de conformidades junto à FEEMA;<br />•Representar eventualmente, a empresa na CPATP (Comissão de Prevenção de Acidentes de Trabalhadores;<br />•Portuários), participando de reuniões ordinárias e semestrais para fins de justificar problemas e tomar as devidas providências;<br />•Planejar, coordenar, orientar tecnicamente, avaliar e realizar estudos, avaliações e inspeções das condições de trabalho, quanto aos aspectos de higiene industrial, segurança industrial e meio ambiente, em áreas, equipamentos, instalações.<br />•Elaborar documentação necessária para a abertura da Comunicação de Acidente de Trabalho e encaminhar para o Setor de Recursos Humanos para que seja emitida;<br />•Orientar os membros da CIPA para os assuntos ligados a saúde e higiene, através da participação em reuniões e da realização de palestras na semana de prevenção da empresa, visando prevenir doenças e acidentes do trabalho;<br />•Indicar e orientar a implementação de medidas preventivas de segurança em toda área industrial, administrativa e proteção ao meio ambiente;<br />•Fazer cumprir as ações da CIPA em acordo com o SMS, identificar necessidades, planejar, executar e avaliar programas de treinamento de segurança industrial e meio ambiente;<br />•Fazer plano de ação para cumprimento do Anexo SMS escopo do Contrato, apresentando evidências para PETROBRAS;<br />•Participar de programas de auditorias de SMS, segurança industrial e de meio ambiente, acompanhar as atividades operacionais nas áreas contratuais, visando à segurança do profissional envolvido, bem patrimonial e meio ambiente;<br />•Investigar a analisar acidentes e ocorrências anormais, planejando e executando Plano de Ação trazendo segurança nas operações; <br />•Elaborar planos de contingência e coordenar atividades de controle de emergências para todas as áreas contratuais, proceder de acordo com os padrões técnicos e normas operacionais;<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo; </li><li>Curso Técnico em Segurança do Trabalho;</li><li>Registro MTE.</li><li>Atuação anterior na função de Técnico de Segurança do Trabalho.</li><li>Jornada: escala 2x2 (diurno ou noturno)</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/389/tecnico-de-seguranca-do-trabalho-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[3305.42]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[3305.42]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[7fc7bcf5-401f-40a7-a031-27dc5d820e4a]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Operador de Plataforma - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Operador(a) de Plataforma Elevatória</strong> para atuar nas operações logísticas, realizando a operação segura de plataformas elevatórias móveis para execução de atividades em altura, conforme procedimentos operacionais e normas de Segurança, Meio Ambiente e Saúde (SMS).<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Operar plataformas elevatórias móveis (PEMT) de forma segura e eficiente.</li><li>Realizar inspeções diárias no equipamento antes do início das atividades, preenchendo os checklists operacionais.</li><li>Executar movimentações e posicionamentos da plataforma conforme as necessidades da operação.</li><li>Cumprir rigorosamente os procedimentos operacionais e as normas de Segurança, Meio Ambiente e Saúde (SMS).</li><li>Utilizar corretamente os Equipamentos de Proteção Individual (EPIs) e demais dispositivos de segurança.</li><li>Comunicar imediatamente qualquer falha ou irregularidade identificada no equipamento.</li><li>Zelar pela conservação, limpeza e bom funcionamento da plataforma elevatória.</li><li>Apoiar as equipes operacionais nas atividades que demandem acesso em altura.</li><li>Registrar informações operacionais conforme os procedimentos internos.</li><li>Executar outras atividades correlatas, conforme necessidade da operação.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino Médio completo.</li><li>Curso de Operador de Plataforma Elevatória (PEMT)</li><li>Disponibilidade para atuar em regime de escala.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/391/operador-de-plataforma-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1890.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1890.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[2b42038c-0a10-4128-93e5-f9a0b774b954]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Operador de Plataforma - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Buscamos um(a) <strong>Operador(a) de Plataforma Elevatória</strong> para atuar nas operações logísticas, realizando a operação segura de plataformas elevatórias móveis para execução de atividades em altura, conforme procedimentos operacionais e normas de Segurança, Meio Ambiente e Saúde (SMS).</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Operar plataformas elevatórias móveis (PEMT) de forma segura e eficiente.</li><li>Realizar inspeções diárias no equipamento antes do início das atividades, preenchendo os checklists operacionais.</li><li>Executar movimentações e posicionamentos da plataforma conforme as necessidades da operação.</li><li>Cumprir rigorosamente os procedimentos operacionais e as normas de Segurança, Meio Ambiente e Saúde (SMS).</li><li>Utilizar corretamente os Equipamentos de Proteção Individual (EPIs) e demais dispositivos de segurança.</li><li>Comunicar imediatamente qualquer falha ou irregularidade identificada no equipamento.</li><li>Zelar pela conservação, limpeza e bom funcionamento da plataforma elevatória.</li><li>Apoiar as equipes operacionais nas atividades que demandem acesso em altura.</li><li>Registrar informações operacionais conforme os procedimentos internos.</li><li>Executar outras atividades correlatas, conforme necessidade da operação.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo.</li><li>Curso de Operador de Plataforma Elevatória (PEMT)</li><li>Disponibilidade para atuar em regime de escala.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/392/operador-de-plataforma-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1890.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1890.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d8f4369d-d257-4638-aa45-592f784b02e7]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Operador de Plataforma - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Operador(a) de Plataforma Elevatória</strong> para atuar nas operações logísticas, realizando a operação segura de plataformas elevatórias móveis para execução de atividades em altura, conforme procedimentos operacionais e normas de Segurança, Meio Ambiente e Saúde (SMS).<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Operar plataformas elevatórias móveis (PEMT) de forma segura e eficiente.</li><li>Realizar inspeções diárias no equipamento antes do início das atividades, preenchendo os checklists operacionais.</li><li>Executar movimentações e posicionamentos da plataforma conforme as necessidades da operação.</li><li>Cumprir rigorosamente os procedimentos operacionais e as normas de Segurança, Meio Ambiente e Saúde (SMS).</li><li>Utilizar corretamente os Equipamentos de Proteção Individual (EPIs) e demais dispositivos de segurança.</li><li>Comunicar imediatamente qualquer falha ou irregularidade identificada no equipamento.</li><li>Zelar pela conservação, limpeza e bom funcionamento da plataforma elevatória.</li><li>Apoiar as equipes operacionais nas atividades que demandem acesso em altura.</li><li>Registrar informações operacionais conforme os procedimentos internos.</li><li>Executar outras atividades correlatas, conforme necessidade da operação.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino Médio completo.</li><li>Curso de Operador de Plataforma Elevatória (PEMT)</li><li>Disponibilidade para atuar em regime de escala.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/393/operador-de-plataforma-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1890.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1890.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[33910f89-4001-46ee-bc2f-a6075f9052f2]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[AUXILIAR ADMINISTRATIVO | Vagas Afirmativas (PCD) - ARM Rio]]></title>
+    <posterEmail><![CDATA[larissa.santos@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Auxiliar Administrativo Geral atuará no suporte às rotinas administrativas e operacionais da unidade, contribuindo para a organização, controle e fluidez dos processos internos em ambiente corporativo de grande porte, com interface com áreas administrativas, operacionais e de apoio.<br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Apoiar as rotinas administrativas da unidade, garantindo organização e padronização dos processos;
+</li>
+<li>
+Realizar controle, conferência e arquivamento de documentos físicos e digitais;
+</li>
+<li>
+Efetuar lançamentos e atualizações em sistemas corporativos;
+</li>
+<li>
+Apoiar na elaboração e controle de planilhas gerenciais e relatórios administrativos;
+</li>
+<li>
+Prestar suporte administrativo às áreas operacionais e de logística;</li><li>Apoiar no controle de materiais, requisições e suprimentos administrativos;
+</li>
+<li>
+Garantir cumprimento de procedimentos internos, normas de segurança e compliance.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo.</li><li>Experiência anterior na função ou em atividades administrativas.</li><li>Habilidade com ferramentas do Pacote Office, especialmente Excel e Word.</li><li>Conhecimento em rotinas de escritório e atendimento ao cliente.</li><li>Laudo médico atualizado que conste o CID</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/394/auxiliar-administrativo-vagas-afirmativas-pcd-arm-rio]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1835.33]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1835.33]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[675a07c2-4bad-4de8-aa07-105023f6f7d8]]></partnerJobId>
     <company><![CDATA[TRIUNFO LOGISTICA]]></company>
     <title><![CDATA[ASSISTENTE ADMINISTRATIVO]]></title>
@@ -50793,6 +51412,70 @@ Contratação no modelo <strong>PJ</strong>, com vagas para <strong>representant
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/farmausagroup/37/representante-farmaceutico-propagandista]]></applyUrl>
     <companyId><![CDATA[16269069]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4817442a-00ca-4911-a3de-bfb7a79bc0e7]]></partnerJobId>
+    <company><![CDATA[FarmaUSA Pharmaceutical]]></company>
+    <title><![CDATA[Assistente de Logística Jr.]]></title>
+    <posterEmail><![CDATA[supervisora.rh@farmausa.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Apoiar o planejamento e acompanhamento das entregas aos clientes.<br />Realizar controle de pedidos de compra e follow-up com fornecedores.<br />Auxiliar no acompanhamento de processos de importação e desembaraço aduaneiro.<br />Controlar documentos de embarque e indicadores logísticos.<br />Apoiar melhorias nos processos de logística e distribuição.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>A. Atendimento Geral</b>
+
+A.1 Apoiar a equipe logística nas rotinas operacionais do setor.
+
+A.2 Interagir com áreas internas como Compras, Comercial e Financeiro.
+
+A.3 Garantir organização das informações em sistemas e controles
+internos.
+
+A.4 Seguir processos e orientações da liderança.
+
+<div style="text-align:center"><b>
+
+
+
+</b><br />
+
+<b>B. Recebimento e Armazenagem</b>
+
+B.1 Auxiliar no recebimento de mercadorias.
+
+B.2 Conferir informações básicas de produtos (quantidade, identificação,
+integridade).
+
+B.3 Apoiar na organização e armazenamento dos produtos.
+
+B.4 Garantir organização do estoque.
+
+B.5 Auxiliar na verificação de validade (quando aplicável –
+medicamentos).
+
+<div style="text-align:center"><b>
+
+
+
+</b><br />
+
+<b>C. Expedição e Entregas</b>
+
+C.1 Apoiar na separação e conferência de pedidos.
+
+C.2 Auxiliar na preparação de pedidos para envio.
+
+C.3 Apoiar no controle de entregas e prazos.
+
+C.4 Garantir organização dos pedidos expedidos.<br /><br /><b>Requisitos e qualificações</b><br /><br />Cursando Logística, Administração, Comércio Exterior ou áreas relacionadas.<br />Excel intermediário com bom domínio de tabela dinâmica.<br />Perfil Hands on<br />Organização e facilidade para trabalhar com controles e prazos.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/farmausagroup/50/assistente-de-logistica-jr]]></applyUrl>
+    <companyId><![CDATA[16269069]]></companyId>
+    <city><![CDATA[Volta Redonda]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -56115,25 +56798,6 @@ mais de 70 embarcações altamente especializadas, de última geração.<br /><b
     <posterEmail><![CDATA[daniele.almeida@wiler-k.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Ei, você! Curte organização, processos minuciosos e o cuidado com a jornada dos colaboradores? Então essa oportunidade pode ser sua! Estamos buscando um profissional dinâmico e analítico para cuidar das nossas rotinas de benefícios e gestão de ponto eletrônico. <br /> <b>Cargo:</b> Analista de Departamento Pessoal (Foco em Benefícios e Ponto)<br /> <b>Localização:</b> Brás, São Paulo/SP<br />⏳ <b>Tipo de contratação:</b> CLT<br /> <b>Horário:</b> Segunda a sexta-feira, das 8h às 17h48<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE ESPERAMOS DE VOCÊ?<br />✅ <b>Gestão de Benefícios:</b> Realizar a inclusão, exclusão, movimentação e conferência de benefícios da empresa (Vale-Transporte, Vale-Refeição/Alimentação, Assistência Médica e Odontológica), garantindo a entrega correta e no prazo para os colaboradores;✅ <b>Controle de Ponto Eletrônico:</b> Executar o tratamento diário e fechamento mensal do ponto eletrônico, acompanhando divergências, horas extras, banco de horas, faltas e atrasos, além de recolher as devidas justificativas e atestados;✅ <b>Auditoria e Lançamentos:</b> Realizar a conferência de faturas dos fornecedores de benefícios para liberação de pagamentos e preparar os lançamentos de descontos e créditos integrados à folha de pagamento;✅ <b>Atendimento ao Colaborador:</b> Prestar suporte humanizado e esclarecer dúvidas dos colaboradores e gestores relacionadas a ponto, escalas de trabalho, regras de utilização e coparticipação de benefícios;<br />✅ <b>Indicadores da Área:</b> Organizar as informações e relatórios mensais de absenteísmo, banco de horas e custos de benefícios, auxiliando na análise de oportunidades de melhoria para o setor;<br />✅ <b>Rotinas Correlatas:</b> Atender e realizar outras atividades profissionais correlatas e inerentes ao cargo no Departamento Pessoal, conforme orientação e solicitação do superior imediato.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />O QUE ESPERAMOS DE VOCÊ?<br /> Ensino Superior Completo ou cursando na área de RH, Departamento Pessoal e áreas correlatas. <br /> Experiência de 2 a 4 anos na área;<br /> Domínio do Pacote Office;<br /> Experiência em Protheus será um diferencial]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/wkholding/164/assistente-de-recursos-humanos]]></applyUrl>
-    <companyId><![CDATA[102197146]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[c2623039-2875-41bd-a9a2-485b0a2f600f]]></partnerJobId>
-    <company><![CDATA[Wiler | Decorar & Revestir]]></company>
-    <title><![CDATA[ANALISTA FISCAL SENIOR]]></title>
-    <posterEmail><![CDATA[vera.paula@wiler.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Ei, você! <br />Você é um expert na área tributária e não abre mão de processos organizados e conformidade técnica? Se você domina os desafios fiscais, essa vaga é para você! Estamos em busca de um perfil Sênior para ser o guardião da nossa integridade fiscal e nos ajudar a otimizar toda a operação de entrada de mercadorias internacionais. <br /> Cargo: Analista de Fiscal Sr Localização: Brás, São Paulo/SP⏳ Tipo de contratação: CLT Horário: segunda a sexta-feira das 8h às 17h48<br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER?<br />✅ Realizar a análise e apuração mensal dos seguintes impostos indiretos: ICMS, ICMS-ST, IPI, PIS, COFINS;✅Realizar a análise e apuração correta das retenções na fonte dos impostos devidos conforme a legislação vigente: ISS, IRRF PF e PJ, CRF;✅Elaborar as seguintes obrigações acessórias: DCTF, DIRF, REINF, EFD FISCAL, EFD CONTRIBUIÇÕES, GIA, GIA-ST;✅Emitir guias para recolhimento dos impostos apurados;✅Preparar as conciliações contábeis mensais referente as contas de impostos a recuperar e a pagar;✅Validar todas as informações tributárias no cadastro de clientes, fornecedores, materiais e serviços;✅Preparar e organizar o levantamento de gastos relacionados com projetos incentivados;✅Auxiliar nos trabalhos de planejamento tributário e tax compliance, através de análises e levantamento de documentação;✅Validar as melhorias e alterações no sistema ERP relacionadas à área tributária;✅Acompanhar e auxiliar nos trabalhos de auditoria externa e fiscalização dos órgãos fiscais, através de análise e levantamento de documentação;✅Acompanhar as mudanças na legislação tributária e prestar suporte as outras áreas em questões tributárias.<br /><br /><b>Requisitos e qualificações</b><br /><br />O QUE ESPERAMOS DE VOCÊ?<br /> Graduação Plena Completa em Ciências Contábeis; Legislações Contábeis, Fiscais e Tributárias vigentes nas esferas municipais, estaduais e federais; Conhecimento em ICMS, ICMS - ST, Naturezas de Operações (CFOP), CST, PIS, COFINS, NCM; Pacote Office com Excel AvançadoConhecimento em Protheus será um diferencial<br /><br />Vaga 100% presencial no Brás/SP]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/wkholding/144/analista-fiscal-senior]]></applyUrl>
     <companyId><![CDATA[102197146]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -73616,6 +74280,25 @@ Facilidade para atuar em ambientes dinâmicos, contribuindo ativamente para a co
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[76a6988f-c646-4a5f-a29c-f4203a2f398d]]></partnerJobId>
+    <company><![CDATA[New Glass Importadora]]></company>
+    <title><![CDATA[Especialista em Dados & Automação I]]></title>
+    <posterEmail><![CDATA[rh@newglassind.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A New Glass busca um(a) profissional com perfil analítico, visão estruturada e forte capacidade técnica para atuar na evolução da nossa operação de dados, automações e inteligência operacional. <br /><br />A posição exige domínio em organização e tratamento de dados, integrações entre sistemas, automações e apoio à construção de uma cultura orientada por dados, contribuindo diretamente para maior eficiência, confiabilidade das informações e evolução tecnológica da companhia. <br /><br /><br />Mais do que um perfil operacional de tecnologia, buscamos alguém capaz de transformar dados em inteligência de negócio, apoiar a integração entre áreas e contribuir para a construção de processos mais automatizados, escaláveis e estratégicos. <br /><br /><br />Valorizamos profissionais curiosos, proativos e com mentalidade de melhoria contínua, que tenham interesse em participar ativamente da transformação digital da empresa e da evolução da maturidade analítica da organização.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar a implantação, organização e evolução do CRM HubSpot. </li><li>Trabalhar com higienização, sanitização, padronização e enriquecimento de dados. </li><li>Identificar e corrigir duplicidades, inconsistências e informações incompletas. </li><li>Criar e manter rotinas de ETL, integração e tratamento de dados. </li><li>Consultar APIs e apoiar integrações entre sistemas. </li><li>Realizar a coleta, consolidação e integração de dados provenientes de múltiplas fontes. </li><li>Criar dashboards, relatórios e indicadores para apoio às áreas de negócio. </li><li>Automatizar processos utilizando SQL, Python, Power Query ou ferramentas similares. </li><li>Apoiar modelagem e estruturação de bases de dados para BI. </li><li>Documentar regras, processos, fluxos e indicadores. </li><li>Apoiar áreas internas em demandas relacionadas a dados e automações. </li><li>Contribuir para melhoria da qualidade e confiabilidade das informações corporativas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Forte capacidade analítica;</li><li>Visão sistêmica;</li><li>Elevada organização técnica e operacional;</li><li>Perfil estruturador;</li><li>Orientação a resultado;</li><li>Proatividade e autonomia;</li><li>Capacidade de resolução de problemas;</li><li>Forte capacidade de integração entre áreas.</li><li>Ensino superior completo em Ciência da Computação, Sistemas de Informação, Engenharia de Software, Banco de Dados, Ciência de Dados, Análise e Desenvolvimento de Sistemas ou áreas correlatas.</li></ul><br /><b>A posição exige alguém confortável em ambientes que demandem:<br /></b><ul><li>Grande volume de dados e informações;</li><li>Construção e organização de processos;</li><li>Tomada de decisão baseada em indicadores;</li><li>Atuação simultânea em múltiplas demandas e integrações;</li><li>Automação e melhoria contínua de processos;</li><li>Estruturação de dados com foco em confiabilidade e escalabilidade;</li><li>e elevada responsabilidade sobre qualidade e integridade das informações corporativas.</li><li>Experiência com tratamento, higienização e estruturação de bases de dados;</li><li>Vivência com automações de processos e integração entre sistemas;</li><li>Conhecimento prático em SQL, Python e APIs REST;</li><li>Experiência com ETL, transformação e organização de dados;</li><li>Vivência com dashboards, BI e indicadores gerenciais;</li><li>Conhecimento em CRM, preferencialmente HubSpot;</li><li>Experiência com Excel avançado e Power Query;</li><li>Capacidade de documentação técnica e organização de fluxos;</li><li>Vivência com integrações e apoio às áreas de negócio;</li><li>Interesse contínuo por tecnologia, dados e inovação aplicada aos negócios.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsernewglass/45/especialista-em-dados-automacao-i]]></applyUrl>
+    <companyId><![CDATA[106130391]]></companyId>
+    <city><![CDATA[Curitiba]]></city>
+    <state><![CDATA[Paraná]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[e6ba2039-e51c-49d5-93ae-063dde5f0838]]></partnerJobId>
     <company><![CDATA[DOT Trade Intelligence]]></company>
     <title><![CDATA[Executivo Comercial | Trade & Comércio Exterior]]></title>
@@ -74710,6 +75393,25 @@ ferramentas CAD/CAE;
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/276/supervisor-de-planejamento-e-programacao-ferista]]></applyUrl>
     <companyId><![CDATA[14023532]]></companyId>
     <city><![CDATA[Macaé]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[566a871f-1f00-44ad-9d3a-7f22a18efa33]]></partnerJobId>
+    <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
+    <title><![CDATA[ASSISTENTE DE RH - Temporário]]></title>
+    <posterEmail><![CDATA[joyce.rh@ctaengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Aqui na nossa empresa, acreditamos que respeito, diversidade e inclusão fazem parte do dia a dia. Não fazemos distinção entre pessoas e valorizamos cada profissional por sua capacidade, talento e dedicação. Todas as nossas vagas são abertas para todos os perfis, incluindo Pessoas com Deficiência (PcD) e pessoas LGBTQIA+, sempre com igualdade de oportunidades e respeito às diferenças.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Estamos em busca de um(a) Assistente de RH para atuar nas rotinas de controle de<b> ponto eletrônico</b>, oferecendo suporte aos gestores e colaboradores, garantindo a qualidade das informações e contribuindo para o cumprimento dos processos e prazos da área.<br /><br /><br />•	Realizar cadastros e atualizações de colaboradores no sistema de ponto eletrônico;<br />•	Efetuar lançamentos e ajustes de marcações de ponto, conforme procedimentos internos;<br />•	Atualizar jornadas, horários e escalas previamente definidas;<br />•	Monitorar inconsistências de marcações e acompanhar a regularização junto aos gestores;<br />•	Controlar banco de horas e apoiar nas rotinas de fechamento do ponto;<br />•	Emitir relatórios e realizar conferências das informações antes da integração com a folha de pagamento;<br />•	Gerar e controlar o envio dos espelhos de ponto para assinatura eletrônica;<br />•	Atender colaboradores e gestores para esclarecimento de dúvidas relacionadas ao ponto eletrônico;<br />•	Apoiar as rotinas administrativas do Departamento Pessoal e contribuir para a organização dos processos da área.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação: </b> <ul><li>Ensino superior cursando em Recursos Humanos, Administração, Ciências Contábeis ou áreas correlatas;</li></ul><br /><b>Requisitos:</b><br /><ul><li>Experiência anterior em Departamento Pessoal, preferencialmente com rotinas de ponto eletrônico;</li><li>Conhecimento básico de legislação trabalhista aplicada à jornada de trabalho;</li><li>Conhecimento em sistemas de ponto eletrônico;</li><li>Excel em nível intermediário será um diferencial;</li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/298/assistente-de-rh-temporario]]></applyUrl>
+    <companyId><![CDATA[14023532]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -84364,35 +85066,6 @@ alunos, colegas e pais.<br />]]></description>
         </highEnd>
         <lowEnd>
           <amount><![CDATA[1500.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a6424f2f-e6b9-4666-adab-96dc67fe9819]]></partnerJobId>
-    <company><![CDATA[IGREJA BATISTA ATITUDE]]></company>
-    <title><![CDATA[AUXILIAR DE SECRETARIA]]></title>
-    <posterEmail><![CDATA[gabriela.araujo@ibatitude.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos
-em busca de um <b>Auxiliar de Secretaria</b>. O(a) candidato(a) deve ser uma
-pessoa paciente, empática e colaborativa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar o atendimento ao público, esclarecendo dúvidas e fornecendo informações gerais.<br /> - Organizar e manter arquivos e documentos, assegurando fácil acesso às informações.<br /> - Auxiliar na elaboração e atualização de relatórios e planilhas.<br /> - Agendar reuniões, compromissos e eventos administrativos.<br /> - Controlar o fluxo de documentos recebidos e enviados, garantindo a correta tramitação.<br /> - Apoiar na recepção e comunicação interna entre setores.<br /> - Preparar e encaminhar correspondências e comunicados.<br /> - Contribuir para a manutenção da organização e limpeza do ambiente de trabalho.<br /> - Realizar demais atividades administrativas conforme orientação da gestão.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo;Boa comunicação verbal e escrita; <br />Postura profissional, empatia e discrição; <br />Organização e proatividade; <br />Facilidade com ferramentas digitais (WhatsApp, e-mail, planilhas).<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasiba/20/auxiliar-de-secretaria]]></applyUrl>
-    <companyId><![CDATA[13985838]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1700.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1700.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
@@ -98812,6 +99485,25 @@ Postura ética e discrição no tratamento de informações confidenciais. </li
     <companyId><![CDATA[14793519]]></companyId>
     <city><![CDATA[Mogi Guaçu]]></city>
     <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b803e736-80df-420d-b8c9-342cb66e3041]]></partnerJobId>
+    <company><![CDATA[Orla Rio]]></company>
+    <title><![CDATA[Executivo de Negócios de Publicidade]]></title>
+    <posterEmail><![CDATA[thayllane.santana@orlario.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um Analista Comercial, com perfil proativo, analítico e orientado a resultados. Este profissional atuará na prospecção ativa e qualificação de leads voltados à publicidade e ativações de marca, desempenhando um papel essencial na expansão de nossos negócios e na atração de marcas relevantes para nosso portfólio.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar prospecção ativa e inteligente de leads qualificados para oportunidades em mídia OOH e ativações de marca;</li><li>Operar ferramentas como Ramper, RD Station, Sales Navigator e similares para identificação e abordagem estratégica de leads;</li><li>Qualificar leads com base no perfil da marca, aderência ao ambiente da Orla Rio e potencial de investimento;</li><li>Nutrir os leads e agendar reuniões qualificadas para o time de Executivos Comerciais;</li><li>Alimentar e manter atualizado o CRM com dados estratégicos e insights de mercado;</li><li>Criar relatórios de performance e apoiar a melhoria contínua dos processos de prospecção;</li><li>Trabalhar em sinergia com os times de Growth e Marketing na construção de copys, cadências e abordagens personalizadas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Domínio avançado de Google Workspace (Planilhas, Docs, Slides, Gmail);</li><li>Experiência comprovada com ferramentas de prospecção como Ramper, RD Station, Sales Navigator, entre outras;</li><li>Capacidade analítica para interpretar dados e gerar insights comerciais;</li><li>Perfil proativo, organizado, ágil e resiliente;</li><li>Comunicação clara, objetiva e persuasiva;</li><li>Vivência com pré-vendas B2B em mercados de mídia, publicidade ou inovação;</li><li>Conhecimento básico de CRM.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasorlario/13/executivo-de-negocios-de-publicidade]]></applyUrl>
+    <companyId><![CDATA[10288366]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
