@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 03 Jul 2026 16:21:36 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 17:14:56 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3792]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3794]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -966,6 +966,25 @@ Produção, Química ou áreas correlatas]]></description>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[bcc0dcce-2d09-487e-a966-275f53f6e1e6]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Analista Sênior de Devops Cloud]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Participar e sustentar a cultura DevOps através da disseminação de valores, princípios, ferramentas e práticas DevOps, com o objetivo de impulsionar a excelência operacional e maximizar a entrega de valor para os produtos do ecossistema Varejo da TOTVS em uma nuvem de propósito específico.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver, testar e sustentar funcionalidades de Devops relacionados a tecnologias da TOTVS Cloud que agreguem valor, garantindo a satisfação do cliente e a sustentabilidade das soluções dentro da área de Cloud<b>;</b></li><li>Utilizar a IA + IH constantemente para acelerar e subir a qualidade das entregas de Devops, visando a satisfação dos clientes TOTVS;</li><li>Compartilhar padrões, conhecimentos e boas práticas de Devops com os times, através de documentação, divulgação e reuniões presenciais ou online; </li><li>Participar das dailys, plannings e reviews de Sprints utilizando o método ágil no dia a dia, se posicionando sobre suas demandas, bloqueios encontrados e os avanços diários das tarefas;</li><li>Estudar a estrutura da TOTVS Cloud e com o tempo e conhecimento adquirido, contribuir para evolução da arquitetura de Devops utilizada nos produtos Varejo;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação Acadêmica: Superior completo em áreas de tecnologia;</li><li>Vivência exercendo o papel de ponto focal técnico em DevOps;</li><li>Vivência exercendo o papel de Desenvolvedor de Software em alguma linguagem de programação;</li><li>Versionamento de Código: Domínio do sistema de controle de versão <i>Git</i>. Tendo familiaridade com os comandos do <i>Git</i> via de comando e/ou interface gráfica;</li><li>Desenvolvimento de Software: Domínio com o <i>VS Code</i> aplicando o uso de extensões e agentes de IA no dia a dia visando acelerar o desenvolvimento e qualidade das entregas;</li><li>Testes Automatizados: Desenvolver testes unitários com <i>Pester</i> em <i>PowerShell </i>e<i> Pytest </i>em<i> Python</i> e entender como aplicar a filosofia dos testes unitários de código no dia a dia;</li><li>Google Cloud Platform: Construção e manutenção de pipelines com <i>Triggers</i> da <i>GCP</i>, armazenamento e manutenção de artefatos com <i>Storage</i> e <i>Artifacts Registry</i>. Manutenção e versionamento de <i>Secrets;</i></li><li>GitLab - Experiência com  <i>GitActions</i> contribuindo para a entrega contínua de código;</li><li>GitOps - Aplicar e desenvolver ferramentas aplicando o conceito <i>GitOps;</i></li><li>AWS: Criação/manutenção de <i>Buckets</i> na <i>AWS S3;</i></li><li>IaC (Infraestrutura como Código): Proficiência com <i>Packer</i> e <i>Ansible</i> para automação de infraestrutura;</li><li>Linguagens de Programação: PowerShell (<i>Avançado</i>) e Python;</li><li>Conhecimento em Estruturas de Metadados: <i>Json, YAML, XML </i>e<i> Properties;</i></li><li>Conhecimento em administração de ambientes Windows Server 2016+;</li><li>Conhecimento em ferramentas do Windows Server 2016+ : <i>Nginx, Administração de Rede e Firewall, </i> <i>Administração de Usuários, Chaves de Registro do Windows, </i>utilização de<i> Variáveis de Ambiente;</i></li><li>Compreensão de arquiteturas de sistemas escaláveis e altamente disponíveis;</li><li>Compreensão de padrões de arquitetura de micro serviços;</li><li>Logs: Familiaridade com a leitura e entendimento de <i>LOGS</i> de diferentes formatos (<i>.json</i> e <i>.log</i>);</li><li>Troubleshooting: Habilidade em diagnosticar e resolver problemas de infraestrutura e aplicativos em ambientes Windows Server;</li><li>Avaliação de Desempenho: Monitoramento e otimização contínua do desempenho de sistemas e infraestrutura em arquitetura Windows Server;</li><li>Cultura DevOps: Compreensão profunda dos princípios e práticas da cultura DevOps;</li><li>Plataformas em Nuvem: Experiência em pelo menos duas plataformas em nuvem (AWS, Azure, Google Cloud), compreensão dos serviços oferecidos incluindo o uso eficaz de serviços gerenciados;</li><li>Certificações: Em nuvem pública.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10971/tech-analista-senior-de-devops-cloud]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -7135,7 +7154,7 @@ Manter o posto de trabalho limpo e organizado.</li></ul><br /><br /><b>Requisito
     <company><![CDATA[SENAC]]></company>
     <title><![CDATA[2026.06.04 -Instrutor Horista Intermitente - Segmento Gastronomia (Confeitaria) - Picos/Pi]]></title>
     <posterEmail><![CDATA[anaclarabarbosa@pi.senac.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Instrutor Horista Intermitente - Segmento Gastronomia (Confeitaria) - Picos/Pi<br /><br /><br /><b>Etapas do processo seletivo</b>Triagem de currículos;<br />Entrevista por competências;<br />Avaliação didática pedagógica.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar na elaboração do planejamento escolar e preparar a matéria a ser ministrada em sala de aula;</li><li>Prever estratégias e recursos didáticos necessários ao desenvolvimento dos trabalhos pedagógicos;</li><li>Conduzir o processo ensino-aprendizagem e promover a avaliação pedagógica da aprendizagem do corpo discente; </li><li>Documentar a prática pedagógica; </li><li>Participar de reuniões e grupos de estudos; analisar, interpretar normas e procedimentos; </li><li>Participar da elaboração e realização de projetos especiais;</li><li>Executar outras tarefas compatíveis com o cargo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação Técnica ou Superior em Gastronomia, Produção de Alimentos, Panificação, Confeitaria ou áreas correlatas.<br /><br /><br /><b>Requisito desejável</b><br /><br />Experiência em docência. <br /><br /><br /><b>Período de inscrição</b>: 18/06/2026 a 10/07/2026<br /><br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Instrutor Horista Intermitente - Segmento Gastronomia (Confeitaria) - Picos/Pi<br /><br /><br /><b>Etapas do processo seletivo</b>Triagem de currículos;<br />Entrevista por competências;<br />Avaliação didática pedagógica.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar na elaboração do planejamento escolar e preparar a matéria a ser ministrada em sala de aula;</li><li>Prever estratégias e recursos didáticos necessários ao desenvolvimento dos trabalhos pedagógicos;</li><li>Conduzir o processo ensino-aprendizagem e promover a avaliação pedagógica da aprendizagem do corpo discente; </li><li>Documentar a prática pedagógica; </li><li>Participar de reuniões e grupos de estudos; analisar, interpretar normas e procedimentos; </li><li>Participar da elaboração e realização de projetos especiais;</li><li>Executar outras tarefas compatíveis com o cargo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação Técnica ou Superior em Gastronomia, Produção de Alimentos, Panificação, Confeitaria ou áreas correlatas.  Atuação comprovada na área de confeitaria<br /><br /><br /><b>Requisito desejável</b><br /><br />Experiência em docência. <br /><br /><br /><b>Período de inscrição</b>: 18/06/2026 a 10/07/2026<br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivoinstrutorsenacpi/304/2026-06-04-instrutor-horista-intermitente-segmento-gastronomia-confeitaria-picos-pi]]></applyUrl>
     <companyId><![CDATA[30120764]]></companyId>
     <city><![CDATA[Picos]]></city>
@@ -16842,6 +16861,35 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para voc�
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/866/consultor-de-vendas]]></applyUrl>
     <companyId><![CDATA[65466539]]></companyId>
     <city><![CDATA[Jacobina]]></city>
+    <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[5000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[176dbf21-24e8-426f-b67a-dc0551aa675c]]></partnerJobId>
+    <company><![CDATA[Unimarka Distribuidora]]></company>
+    <title><![CDATA[Consultor de Vendas]]></title>
+    <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é apaixonado por vendas,
+gosta de desenvolver novos negócios, habilidoso com a execução e sonha em
+trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para você!</b><b><br /></b><br />Vaga destinada também a PCD.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Cumpre o planejamento de visitas diário, atendendo os clientes de sua base;</li><li>Faz a verificação da loja quanto a necessidade de produtos, de acordo com o sortimento recomendado para cada ambiente de varejo;</li><li>Apresenta proposta de venda para o cliente com base na verificação, fazendo o fechamento do pedido e acompanhando sua entrega conforme combinado.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Desejável ensino médio completo.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/1090/consultor-de-vendas]]></applyUrl>
+    <companyId><![CDATA[65466539]]></companyId>
+    <city><![CDATA[Mundo Novo]]></city>
     <state><![CDATA[Bahia]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -50202,44 +50250,6 @@ equipamentos similares.<br />]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[8d27a6e2-5359-40fb-9c5e-3aa87b814f63]]></partnerJobId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[Operador de Movimentação de Carga - Allseas]]></title>
-    <posterEmail><![CDATA[alessandra.cea@triunfologistica.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar na funções de movimentações de cargas através de equipamentos, içamento e guindastes. O profissional realizará processo de movimentação da carga será feito. Sob as determinações inseridas no plano de rigging, verificar as condições da carga, o melhor modo para que ela seja amarrada e presta o auxílio ao operador de guindaste dando as sinalizações necessárias.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar na funções de movimentações de cargas através de equipamentos, içamento e guindastes. O profissional realizará processo de movimentação da carga será feito. Sob as determinações inseridas no plano de rigging, verificar as condições da carga, o melhor modo para que ela seja amarrada e presta o auxílio ao operador de guindaste dando as sinalizações necessárias.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/364/operador-de-movimentacao-de-carga-allseas]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[f2f81d79-890e-4135-a876-be447e27912d]]></partnerJobId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[Operador de Movimentação de Carga - Allseas]]></title>
-    <posterEmail><![CDATA[alessandra.cea@triunfologistica.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar na funções de movimentações de cargas através de equipamentos, içamento e guindastes. O profissional realizará processo de movimentação da carga será feito. Sob as determinações inseridas no plano de rigging, verificar as condições da carga, o melhor modo para que ela seja amarrada e presta o auxílio ao operador de guindaste dando as sinalizações necessárias.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar na funções de movimentações de cargas através de equipamentos, içamento e guindastes. O profissional realizará processo de movimentação da carga será feito. Sob as determinações inseridas no plano de rigging, verificar as condições da carga, o melhor modo para que ela seja amarrada e presta o auxílio ao operador de guindaste dando as sinalizações necessárias.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/365/operador-de-movimentacao-de-carga-allseas]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[e41d402f-a082-4710-8944-c8acb3742fbe]]></partnerJobId>
     <company><![CDATA[TRIUNFO LOGISTICA]]></company>
     <title><![CDATA[Operador de Movimentação de Carga - Allseas]]></title>
@@ -50455,25 +50465,6 @@ A posição possui papel essencial na sustentação da cultura orientada a dados
     <posterEmail><![CDATA[mc@imersaon.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Será responsável por apoiar as atividades diárias de gestão do estoque, garantindo o recebimento, conferência, armazenamento e distribuição eficientes de materiais e produtos. Apoiará  na organização e a acuracidade do inventário, seguindo os procedimentos e normas de segurança da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Recebimento e Conferência: Recepcionar materiais e produtos entregues por fornecedores, conferindo as notas fiscais com os pedidos de compra e verificando a quantidade, qualidade, validade e especificações dos itens.</li><li>Armazenamento e Organização: Organizar e armazenar os materiais de forma adequada no almoxarifado ou depósito, utilizando critérios como categoria, lote e frequência de uso. Manter a limpeza e a organização do ambiente de trabalho.</li><li>Separação e Distribuição (Picking): Separar materiais e pedidos conforme as solicitações dos setores internos (produção, manutenção, etc.) ou para expedição a clientes, assegurando que os itens corretos sejam liberados.</li><li>Inventário: Participar da realização de inventários periódicos (rotativos ou gerais) para contagem física do estoque e conciliação com os registros do sistema.</li><li>Segurança e Normas: Cumprir as normas e procedimentos internos da empresa, incluindo o uso correto de Equipamentos de Proteção Individual (EPIs) e normas de segurança do trabalho.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Educação: Ensino Médio completo (obrigatório). Desejável curso técnico em Logística ou áreas afins.</li><li>Experiência: Experiência prévia na função de auxiliar de almoxarifado, estoque ou áreas correlatas (desejável).</li><li>Conhecimentos Específicos:<ul><li>Noções básicas de controle de estoque e logística.</li><li>Conhecimento básico do Pacote Office, especialmente Excel e e-mail.</li><li>Habilidade com sistemas de gestão (ERP) será um diferencial.</li></ul></li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/304/auxiliar-de-almoxarife]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[28d3eff4-5a12-4217-af19-61bdcf472f7b]]></partnerJobId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[OPERADOR DE MOVIMENTAÇÃO DE CARGA]]></title>
-    <posterEmail><![CDATA[alessandra.cea@triunfologistica.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar na funções de movimentações de cargas através de equipamentos, içamento e guindastes. O profissional realizará processo de movimentação da carga será feito. Sob as determinações inseridas no plano de rigging, verificar as condições da carga, o melhor modo para que ela seja amarrada e presta o auxílio ao operador de guindaste dando as sinalizações necessárias.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar na funções de movimentações de cargas através de equipamentos, içamento e guindastes. O profissional realizará processo de movimentação da carga será feito. Sob as determinações inseridas no plano de rigging, verificar as condições da carga, o melhor modo para que ela seja amarrada e presta o auxílio ao operador de guindaste dando as sinalizações necessárias.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/261/operador-de-movimentacao-de-carga]]></applyUrl>
     <companyId><![CDATA[3089272]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
@@ -53581,6 +53572,25 @@ marca;</li><li>Monitorar conversas relevantes em redes sociais e ambientes digit
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[bcb69f3b-98c3-4801-b03b-454371bd1768]]></partnerJobId>
+    <company><![CDATA[GS Inima Brasil]]></company>
+    <title><![CDATA[Assistente de Engenharia]]></title>
+    <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />❇️ Faça parte de uma equipe que contribui diretamente para a expansão, atualização e qualidade das redes de abastecimento, apoiando análises técnicas, vistorias em campo e a gestão de informações cadastrais essenciais para tomada de decisão. A pessoa que ocupar esta posição terá papel importante na confiabilidade dos dados, no acompanhamento de serviços e no suporte às atividades de engenharia, contribuindo para a melhoria contínua dos processos, cumprimento de prazos e excelência operacional.<br /><br />⏱️ <b>Horário: </b>SEG A QUI 08:00 ÀS 18:00 COM 1:00 REFEIÇÃO / SEX: SAÍDA ÀS 17:00 / SÁB. COMPENSADO<br /><br />️ Vale Alimentação / Refeição – apoio para suas refeições diárias; Restaurante na empresa – praticidade e economia com refeições saborosas no dia a dia; Cesta de Natal – um carinho especial no fim do ano; Plano de Saúde – cuidado completo para você; Plano Odontológico – saúde bucal sempre em dia;️ Seguro de Vida sem custo – proteção para você e sua família; Vale Transporte – facilidade no deslocamento diário; Auxílio Medicamento – suporte financeiro para tratamentos e prescrições;️ Wellhub – acesso a academias e atividades físicas; Pluxee Cuida – apoio psicológico, social, nutricional e consultorias jurídica e financeira;‍♀️ Clube SESI – acesso a lazer, esportes e atividades para aproveitar com a família; Previdência Privada – com 100% de contribuição no aporte da empresa Participação nos Lucros e Resultados (PLR) – reconhecimento pelo seu desempenho<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar leitura e interpretação de mapas, croquis, desenhos técnicos e documentos cartográficos.</li><li>Auxiliar nas atividades de campo relacionadas aos levantamentos topográficos e cadastrais.</li><li>Executar vistorias em campo para acompanhamento dos serviços sob responsabilidade do setor.</li><li>Registrar informações coletadas em campo conforme procedimentos internos estabelecidos.</li><li>Cadastrar, atualizar e manter informações de redes e ativos nos sistemas corporativos.</li><li>Elaborar desenhos técnicos e plantas referentes à expansão de redes públicas.</li><li>Apoiar a elaboração de orçamentos para projetos de extensão de redes públicas.</li><li>Verificar dados técnicos, documentações e informações cadastrais relacionadas às atividades da área.</li><li>Analisar indicadores operacionais por meio das ferramentas e sistemas disponibilizados pela empresa.</li><li>Acompanhar ordens de serviço, verificando conformidade das informações registradas.</li><li>Monitorar a execução das ordens de serviço no sistema, garantindo atualização dos status e registros.</li><li>Finalizar ordens de serviço concluídas, assegurando a integridade dos dados lançados.</li><li>Disponibilizar informações técnicas e cadastrais para áreas internas, conforme necessidade operacional.</li><li>Apoiar a geração de relatórios técnicos, estatísticos e gerenciais para acompanhamento de resultados.</li><li>Contribuir para a organização, confiabilidade e atualização da base de dados da área de engenharia.</li><li>Interagir com equipes internas e clientes internos e externos, promovendo comunicação respeitosa e colaborativa.</li><li>Utilizar corretamente os equipamentos de proteção individual (EPIs) e cumprir os procedimentos de segurança.</li><li>Executar atividades correlatas compatíveis com a função, conforme demandas da área.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /> <strong>Formação: </strong>Ensino Técnico Completo ou Ensino Superior Cursando<br /><br /><b>Áreas:</b> Técnico em Edificações, Engenharia Civil,<br /><br />*️⃣ Conhecimento em leitura e interpretação de desenhos técnicos, mapas e croquis.*️⃣ Conhecimento básico em topografia aplicada e cadastro técnico.*️⃣ Conhecimento em pacote Microsoft Office, com foco em Excel.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/533/assistente-de-engenharia]]></applyUrl>
+    <companyId><![CDATA[36870042]]></companyId>
+    <city><![CDATA[Araçatuba]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[0b327476-d6e2-4514-96c3-4e994d77f675]]></partnerJobId>
@@ -72881,25 +72891,6 @@ a conforme orientação do profissional;</li><li>Prestar suporte aos profissiona
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[c1bd368b-255f-4a60-b9e3-59f5c50401cb]]></partnerJobId>
-    <company><![CDATA[Mondiana]]></company>
-    <title><![CDATA[AUXILIAR DE PRODUÇÃO - MOINHO]]></title>
-    <posterEmail><![CDATA[bruna.ziegler@mondiana.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos com oportunidade para Auxiliar de Produção - Moinho (Segunda a quinta - feira 07:30h as 17:30h e Sexta das 07:30 as 16:30h) e buscamos profissionais que tenham vontade de aprender, se desenvolver e fazer a diferença no dia a dia.Aqui, valorizamos o trabalho em equipe, o comprometimento e o crescimento contínuo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Suas principais atividades serão:<ul><li>Auxiliar na operação de moinho ou sempre que necessário nas demais máquinas de compostos de mistura.</li><li>Controlar e zelar pela qualidade da matéria prima, quantidades e tipos, redução de desperdícios, efetuando o paleteamento, embalagem e identificação adequada dos mesmos, seguindo procedimentos e instruções detalhadas.</li><li>Efetuar o ensacamento do material moído e identificando os sacos conforme as especificações e auxiliando na preparação da mistura da matéria prima conforme Ordem de Produção.</li><li>Efetuar a limpeza do setor, da máquina e da área de trabalho, fazendo a coleta do refugo para moagem e reaproveitamentos, evitando misturas de materiais, seguindo orientações.</li><li>Auxiliar na limpeza do funil, tela do moinho e das máquinas de mistura, fazendo a retirada de todo produto, para evitar contaminação de materiais, seguindo orientações do líder e/ou do operador da máquina.</li><li>Executar outras atividades, de acordo com as necessidades e a critério do superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Requisitos:<ul><li>Ensino médio completo</li><li>Experiência prévia na função, será um diferencial</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmondiana/59/auxiliar-de-producao-moinho]]></applyUrl>
-    <companyId><![CDATA[35514539]]></companyId>
-    <city><![CDATA[Biguaçu]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[7c9c3aec-705d-40ae-bdbd-ce5fe591fb81]]></partnerJobId>
     <company><![CDATA[Mondiana]]></company>
     <title><![CDATA[COLORISTA]]></title>
@@ -73419,25 +73410,6 @@ Disponibilidade para viagens.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/donizetevagas/97/supervisor-de-merchandising]]></applyUrl>
     <companyId><![CDATA[22184004]]></companyId>
     <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[Ceará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a364211e-d89a-4dbd-ab4b-f146d8bf5634]]></partnerJobId>
-    <company><![CDATA[DONIZETE DISTRIBUIDORA S/A]]></company>
-    <title><![CDATA[PROMOTOR DE VENDAS - IGUATU]]></title>
-    <posterEmail><![CDATA[maria.kallistennya@grupodonizete.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado por construir relacionamentos, promover soluções e conquistar resultados, temos uma oportunidade incrível para você! Imagine fazer parte de uma equipe dinâmica, onde a sua habilidade de conectar-se com pessoas e entender suas necessidades será valorizada e transformada em grandes conquistas. Aqui, você poderá desenvolver sua carreira em um ambiente desafiador e inspirador, cercado(a) por profissionais motivados e dispostos a compartilhar conhecimento. Se está em busca de um espaço onde seu talento e dedicação serão reconhecidos e recompensados, não perca a chance de se juntar a nós. Venha trazer sua energia e criatividade para uma jornada onde suas contribuições farão a diferença. Estamos ansiosos para conhecer sua história e como você pode ser parte do nosso sucesso!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar a reposição dos produtos; Efetuar rodízio dos produtos (verificar prazos de validade, preço, retirar os produtos danificados e solicitar a troca das irregularidades);Comunicar a liderança as irregularidades encontradas; Fazer sugestão de pedidos para o Consultor de vendas.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio completo;<br />CNH;<br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/donizetevagas/106/promotor-de-vendas-iguatu]]></applyUrl>
-    <companyId><![CDATA[22184004]]></companyId>
-    <city><![CDATA[Iguatu]]></city>
     <state><![CDATA[Ceará]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -74149,6 +74121,25 @@ Perfil proativo, resiliente, com senso de dono e foco na entrega de resultados.
 <li>
 Facilidade para atuar em ambientes dinâmicos, contribuindo ativamente para a construção e evolução dos processos da área.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsernewglass/48/executivo-de-expansao-de-franquias]]></applyUrl>
+    <companyId><![CDATA[106130391]]></companyId>
+    <city><![CDATA[Curitiba]]></city>
+    <state><![CDATA[Paraná]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[6d95c080-c71d-423a-ab33-c062839d3806]]></partnerJobId>
+    <company><![CDATA[New Glass Importadora]]></company>
+    <title><![CDATA[Especialista em Contabilidade, Controladoria e Fiscal I]]></title>
+    <posterEmail><![CDATA[rh@newglassind.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A <b>New Glass</b> busca um(a) profissional com elevada capacidade analítica, organização operacional e forte domínio técnico fiscal e tributário para atuar na sustentação e evolução das rotinas de <b>Contabilidade, Fiscal e Controladoria</b> da companhia.<br />A posição exige conhecimento sólido em legislação tributária, apuração de impostos, obrigações acessórias e controles fiscais, garantindo conformidade legal, confiabilidade das informações e suporte técnico às áreas estratégicas do negócio.<br /><br />Mais do que um perfil exclusivamente operacional, buscamos alguém capaz de atuar com visão integrada entre fiscal, contabilidade e controladoria, contribuindo para estabilidade operacional, mitigação de riscos, melhoria contínua dos processos e fortalecimento da governança financeira da empresa.<br /><br />Valorizamos profissionais organizados, responsáveis e com forte atenção aos detalhes, que consigam atuar com autonomia, senso de prioridade e comprometimento com qualidade, prazos e evolução constante da área.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar e acompanhar rotinas fiscais relacionadas à escrituração e classificação de documentos fiscais. </li><li>Realizar apuração de tributos diretos e indiretos (ICMS, IPI, PIS, COFINS, ISS, IRPJ e CSLL). </li><li>Conferir e transmitir obrigações acessórias. </li><li>Validar retenções tributárias em notas fiscais de produtos e serviços. </li><li>Atuar na conferência de CFOPs, naturezas de operação e tributações aplicáveis. Realizar conciliações fiscais e apoio às conciliações contábeis. </li><li>Apoiar a controladoria e contabilidade com informações e análises fiscais. </li><li>Garantir organização e rastreabilidade documental da área fiscal. </li><li>Apoiar fiscalizações, auditorias e levantamentos documentais. </li><li>Acompanhar alterações na legislação tributária e apoiar adequações internas. </li><li>Realizar análises relacionadas à razão contábil, plano de contas e classificações contábeis. </li><li>Apoiar melhorias operacionais e padronizações de processo. </li><li>Apoiar análises fiscais relacionadas a novos clientes, operações e demandas internas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Forte capacidade analítica;</li><li>Elevada organização operacional;</li><li>Atenção aos detalhes;</li><li>Perfil estruturador;</li><li>Orientação a resultado;</li><li>Responsabilidade e senso de prioridade;</li><li>Boa comunicação e postura profissional;</li><li>e forte capacidade de integração entre áreas.</li></ul><br /><b>A posição exige alguém confortável em ambientes que demandem:<br /></b><ul><li>Alto volume de rotinas fiscais e tributárias;</li><li>Cumprimento rigoroso de prazos;</li><li>Tomada de decisão baseada em análise técnica;</li><li>Organização documental e rastreabilidade das informações;</li><li>Conferência minuciosa de dados e apurações;</li><li>e elevada responsabilidade sobre conformidade fiscal e estabilidade operacional.</li><li>Experiência sólida em rotinas fiscais e tributárias;</li><li>Vivência com apuração de tributos diretos e indiretos;</li><li>Conhecimento em obrigações acessórias e legislação tributária;</li><li>Experiência com escrituração fiscal e conferência de documentos fiscais;</li><li>Vivência com conciliações fiscais e apoio contábil;</li><li>Conhecimento em CFOP, retenções tributárias e classificação fiscal;</li><li>Experiência com ERP e controles fiscais;</li><li>Excel intermediário a avançado;</li><li>Capacidade analítica para identificação de inconsistências e mitigação de riscos;</li><li>Vivência em apoio a auditorias, fiscalizações e controles internos;</li><li>e interesse contínuo por atualização tributária e melhoria de processos.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsernewglass/46/especialista-em-contabilidade-controladoria-e-fiscal-i]]></applyUrl>
     <companyId><![CDATA[106130391]]></companyId>
     <city><![CDATA[Curitiba]]></city>
     <state><![CDATA[Paraná]]></state>
@@ -81926,6 +81917,25 @@ Facilidade para trabalho em equipe</li></ul>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b028e378-9f90-4845-86f6-1c6afa17909e]]></partnerJobId>
+    <company><![CDATA[VS Operador Logístico]]></company>
+    <title><![CDATA[ASSISTENTE DE TRANSPORTE]]></title>
+    <posterEmail><![CDATA[maria.heemann@vstransportes.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <b>Assistente de Transporte</b> para integrar o time! Procuramos alguém atento(a), comprometido(a) e que goste de atuar em um ambiente dinâmico, com foco em qualidade e segurança nas operações logísticas. Se você é uma pessoa organizada, gosta de trabalhar em equipe e quer crescer em uma empresa sólida e em constante expansão, essa vaga é pra você!<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conferência e validação de documentos e notas fiscais;</li><li>Efetuação de lançamentos de notas fiscais voltadas à área de transporte;</li><li>Interação com motoristas para solicitação, acompanhamento e envio de documentação;</li><li>Prestação de suporte operacional às rotinas da área.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Atenção aos detalhes; </li><li>Organização;</li><li>Experiência com transporte; </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vsoperadorlogistico/38/assistente-de-transporte]]></applyUrl>
+    <companyId><![CDATA[14070563]]></companyId>
+    <city><![CDATA[Itajaí]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[d19b73fa-2ffc-42ce-ad50-383f10b13e06]]></partnerJobId>
@@ -100275,6 +100285,44 @@ Foco em resultados</li><ul>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasbruning/4/coordenador-comercial]]></applyUrl>
     <companyId><![CDATA[11379325]]></companyId>
     <city><![CDATA[Tubarão]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[5a9cc971-9828-4f0b-92ac-b1a348ae2220]]></partnerJobId>
+    <company><![CDATA[RG Contadores Associados]]></company>
+    <title><![CDATA[Analista Contábil]]></title>
+    <posterEmail><![CDATA[rh@rgcontadores.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais talentosos e motivados que desejam fazer parte de uma equipe dinâmica e inovadora. Se você é apaixonado por números e tem um olhar atento aos detalhes, esta é a sua chance de crescer em um ambiente que valoriza o desenvolvimento e a colaboração. Aqui, oferecemos um espaço onde você pode ampliar suas habilidades, aprender com especialistas da área e contribuir para o sucesso de projetos desafiadores. Com um clima organizacional que prioriza a troca de conhecimento e a capacitação contínua, nosso time está pronto para acolher novos talentos que desejam se destacar no campo contábil. Aproveite esta oportunidade para fazer parte de uma história de sucesso!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar as rotinas contábeis;</li><li>Realizar lançamentos contábeis por meio do sistema Questor;</li><li>Analisar e conciliar contas contábeis;</li><li>Realizar demonstrações contábeis;</li><li>Fechar balancetes de empresas do Lucro Real, Lucro Presumido e Simples Nacional;</li><li>Elaborar, conferir e entregar declarações, tais como: EFD Contribuições, ECD, ECF, Declarações Estaduais e Municipais, IBGE, etc.;</li><li>Demais rotinas pertinentes à função.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou em andamento em Ciências Contábeis;</li><li>Conhecimento Pacote Office intermediário;</li><li>Conhecimento no sistema Questor será considerado um diferencial.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/rgcontadores/10/analista-contabil]]></applyUrl>
+    <companyId><![CDATA[16156669]]></companyId>
+    <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[c9b5f526-0b91-497c-ae50-082752b6f0a1]]></partnerJobId>
+    <company><![CDATA[RG Contadores Associados]]></company>
+    <title><![CDATA[Analista Fiscal]]></title>
+    <posterEmail><![CDATA[rh@rgcontadores.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais talentosos e motivados que desejam fazer parte de uma equipe dinâmica e inovadora. Se você é apaixonado por números e tem um olhar atento aos detalhes, esta é a sua chance de crescer em um ambiente que valoriza o desenvolvimento e a colaboração. Aqui, oferecemos um espaço onde você pode ampliar suas habilidades, aprender com especialistas da área e contribuir para o sucesso de projetos desafiadores. Com um clima organizacional que prioriza a troca de conhecimento e a capacitação contínua, nosso time está pronto para acolher novos talentos que desejam se destacar no campo contábil. Aproveite esta oportunidade para fazer parte de uma história de sucesso!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Analisar e importar/lançar notas fiscais;</li><li>Realizar os cálculos de tributos: ICMS, ISS, Pis, Cofins, IRPJ, CSLL, etc.;</li><li>Atender a consulta de clientes em relação a dúvidas de operações fiscais: emissão ou recebimento de notas, tributação, benefícios fiscais, etc.;</li><li>Analisar, interpretar e escriturar entradas e saídas de notas fiscais: tributação, benefícios, tomada de crédito de tributos;</li><li>Orientar e acompanhar Auxiliares e Assistentes;</li><li>Manter-se atualizado sobre as Legislações Fiscais.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou em andamento em Ciências Contábeis;</li><li>Conhecimento em lançamento e apuração de tributos;</li><li>Conhecimento e prática no cálculo de ICMS de empresas do Lucro Real e Presumido.</li><li>Conhecimento Pacote Office intermediário;</li><li>Conhecimento no sistema Questor será considerado um diferencial.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/rgcontadores/9/analista-fiscal]]></applyUrl>
+    <companyId><![CDATA[16156669]]></companyId>
+    <city><![CDATA[Florianópolis]]></city>
     <state><![CDATA[Santa Catarina]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
