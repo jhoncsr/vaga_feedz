@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 07 Jul 2026 11:15:13 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 12:15:58 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3817]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3812]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -3498,44 +3498,6 @@ geração de novas demandas.  <br /><br /><br /><b>Requisitos e qualificaçõe
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[7a04e5aa-c278-4192-a2eb-f53d764a0a16]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Especialista em Engenharia de Software - Python/Inteligência Artificial]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar no desenvolvimento de uma plataforma que disponibiliza serviços de Inteligência Artificial para diversas áreas, possibilitando também o desenvolvimento de soluções com agentes de IA integrados aos produtos da TOTVS. Trata-se de uma aplicação posicionada no núcleo estratégico da TOTVS, operando como uma área de plataforma que atende múltiplas áreas da companhia, suportando tanto clientes internos quanto externos por meio das soluções de IA.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Projetar e implementar microserviços e APIs REST escaláveis em Python (FastAPI), atuando com baixo nível de supervisão;</li><li>Desenvolver abstrações de banco de dados no padrão CRUD utilizando SQLAlchemy e outras soluções;</li><li>Trabalhar com bancos de dados SQL (Postgres), sistemas de cache (Redis) e bases vetoriais;</li><li>Garantir alta disponibilidade, desempenho, qualidade e segurança da plataforma;</li><li>Colaborar com a equipe no desenvolvimento e na implementação de soluções de Inteligência Artificial;</li><li>Desenvolver sistemas conteinerizados e serverless, preferencialmente em ambientes de cloud como o Google Cloud.</li><li></li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida em desenvolvimento backend com Python, com domínio na construção de aplicações robustas e escaláveis;</li><li>Proficiência em FastAPI e SQLAlchemy, atuando na construção de APIs e na modelagem de dados;</li><li>Conhecimento em bancos de dados SQL, especialmente Postgres, bem como em soluções de cache como Redis;</li><li>Experiência com o Google Cloud, incluindo atuação em ambientes de nuvem;</li><li>Familiaridade com infraestrutura em cloud, conteinerização e arquiteturas serverless, preferencialmente no Google Cloud;</li><li>Capacidade de leitura em inglês para compreensão de documentações técnicas;</li><li>Experiência no uso de controle de versão com Git.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11111/tech-especialista-em-engenharia-de-software-python-inteligencia-artificial]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[40f64ee9-36b1-4711-9912-8bff04606587]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Especialista de SRE | Citrix Cloud]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por buscar a melhoria contínua, visando o ganho de eficiência operacional dentro da área de infraestrutura nos ambientes Cloud TOTVS;<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Liderar o desenho, a evolução e a estratégia arquitetural do ambiente de infraestrutura, com foco central em soluções Citrix Cloud (DaaS) e nuvem, introduzindo inovações tecnológicas e definindo o roadmap técnico da área.</li><li>Atuar como o ponto máximo de escalonamento técnico para a resolução de incidentes críticos e crônicos de altíssima complexidade. Solucionar problemas de maneira eficiente, realizando análises de causa raiz (RCA) profundas e reduzindo o impacto para o cliente de forma ágil.</li><li>Definir e implementar a estratégia de observabilidade da empresa. Estabelecer métricas de SRE (SLAs, SLOs, SLIs e Error Budgets) e garantir a resiliência e alta disponibilidade do ecossistema Citrix e Cloud.</li><li>Projetar e construir frameworks de automação e Infraestrutura como Código (IaC), não apenas operando, mas definindo os padrões de utilização de ferramentas como Terraform, Ansible, Packer e scripting avançado (PowerShell/Python) para toda a equipa.</li><li>Avaliar, desenhar e aprovar a entrada de novos projetos complexos de Infraestrutura. Identificar proativamente riscos na implementação de arquiteturas, valendo-se de revisões por pares (peer reviews) e práticas de assessments de segurança e performance.</li><li>Alcançar e manter padrões de excelência técnicos. Colaborar na definição de processos, normas de segurança (hardening) e apoiar todos os processos de governança corporativa e ITIL, ajudando na organização dos mesmos.</li><li>Liderar discussões com outras áreas (Produto, Segurança, Cloud) sobre novas demandas para estabelecer entregas e expectativas. Negociar prazos saudáveis, equilibrando o nível de esforço com um ritmo sustentável de trabalho, mantendo sempre uma postura cordial e consultiva com o cliente.</li><li>Fomentar, desenhar e conduzir treinamentos e workshops técnicos profundos para repasse de conhecimento aos demais pares, através de iniciativas e cerimônias.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Graduação nas áreas de Tecnologia da Informação ou afins.</li><li>Altamente Desejável: Pós-Graduação, Mestrado ou MBA na área de atuação.</li><li>Conhecimentos Específicos Exigidos:</li><li>Ecossistema Citrix (Citrix Cloud, DaaS, VDI, WEM, PVS/MCS, NetScaler/ADC) – nível Especialista/Avançado. (Domínio absoluto da arquitetura)</li><li>Windows Server e Active Directory – nível Especialista/Avançado.</li><li>Conceitos e práticas de SRE (Site Reliability Engineering) – nível Avançado.</li><li>Sistemas de Logs, monitorização e observabilidade corporativa – nível Avançado.</li><li>Arquitetura de Infraestrutura e Redes/Segurança aplicada a aplicações – nível Avançado.</li><li>Desenvolvimento de automação e Infraestrutura como Código (IaC) – nível Intermediário.</li><li>Nuvens Públicas (Azure, AWS e/ou Google Cloud) – nível Intermediário. (Capacidade de desenhar integrações híbridas)</li><li>Linux – nível Avançado.</li><li>Metodologias de Governança e Ágil.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10970/tech-especialista-de-sre-citrix-cloud]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[9f48b974-adfa-484d-95ad-e7899e21d437]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Tech] Engenharia de Software Sênior - IA | TI]]></title>
@@ -5243,25 +5205,6 @@ Conhecimentos específicos: ● Desejável conhecimento no Pacote Office (Excel
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Transformar o mapeamento de processos de Relações Governamentais Institucionais em um ecossistema de Inteligência Artificial. O objetivo central é construir uma "fábrica de automação e posicionamentos", traduzindo o conhecimento técnico e institucional em fluxos automatizados. Além disso, será responsável por garantir que a IA gere minutas de alta qualidade, permitindo que as áreas técnicas atuem como revisoras estratégicas, eliminando o esforço de construção de textos do zero.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Compreender todos os processos da área de Relações Institucionais e governamentais, tanto do core da área, quanto os administrativos;</li><li>Projetar e implementar agentes de IA (via CrewAI, LangChain ou similares) focados na automação do ciclo de RIG, garantindo que a tecnologia suporte o fluxo de trabalho desenhado;</li><li>Atuar como ponte entre os especialistas de RIG e as áreas técnicas, demonstrando forte capacidade analítica para "traduzir" premissas políticas e regulatórias complexas em desenvolvimento de automações utilizando inteligência artificial;</li><li>Gerenciar o ciclo de vida dos modelos, realizando testes rápidos e ajustes contínuos nos agentes com base no feedback das áreas de negócios, mantendo uma mentalidade de melhoria constante do produto;</li><li>Garantir que o output da IA seja fluido e útil, com foco total na experiência do revisor final, assegurando que o texto gerado respeite o tom de voz e o rigor técnico da companhia;</li><li>Conectar as soluções de IA via Python e APIs aos sistemas de gestão e comunicação da empresa (Salesforce, Teams, Slack), garantindo fluidez no workflow;</li><li>Estabelecer KPIs para monitorar a assertividade das minutas e o ganho de produtividade real da área.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Nível avançado em frameworks de agentes, técnicas de Prompt Engineering (Chain of Thought, Few-shot) e aplicação prática de LLMs (GPT-4, Gemini, Claude);</li><li>Proficiência em Python para automação de scripts, tratamento de dados e consumo de APIs;</li><li>Conhecimento intermediário em estruturação de bases de conhecimento, incluindo Vector Databases e implementação de RAG (Retrieval-Augmented Generation);</li><li>Experiência avançada em design de workflows, automação de processos e identificação de gargalos operacionais;</li><li>Graduação em Engenharia, Ciência da Computação, Sistemas de Informação ou áreas correlatas com foco em tecnologia e desenvolvimento de soluções;</li><li>Familiaridade com o ambiente regulatório ou processos de relações governamentais será um diferencial, embora o foco da atuação seja estritamente tecnológico.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9926/rig-especialista-em-automacao-de-ia]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1cc55e36-a95d-4fa8-af9d-b1341cc97b35]]></partnerJobId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Pré-vendas] Especialista em Engenharia de Vendas | RH]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Ser referência em demonstrações de soluções de <b>RH</b><b> PROTHEUS</b> e encantamento de clientes e prospect, garantindo novas oportunidades de negócios, bem como definindo a arquitetura da solução tecnológica com maior aderência para atender a necessidade levantada, garantindo a sustentabilidade e a segurança da operação de negócio do cliente e/ou prospect e o atingimento das metas da DRG<br /><br /><b>Responsabilidades e atribuições</b><br /><br />● Analisar, diagnosticar e sugerir pontos de melhoria no processo de pré-vendas, através da avaliação dos materiais apresentados, procedimentos, speech adotado pelos analistas durante as reuniões e melhores práticas aplicadas no mercado; <br />● Garantir e atuar no cumprimento dos indicadores individuais e contribuir para o resultado da área através do acompanhamento do Forecast juntamente com a área comercial; <br />● Identificar e antecipar problemas de origem conceitual, técnica e/ou de negócio, comunicando as áreas responsáveis e recomendando, quando necessário, soluções e/ou melhores práticas; <br />● Realizar demonstrações de alta complexidade em quaisquer etapas da comercialização de soluções, prestação do serviço e/ou implementação de projetos; <br />● Preparar e apresentar perspectiva de ROI (Retorno sobre o Investimento); <br />● Colocar em prática sua visão e conhecimento do negócio/segmento para, durante as demonstrações, identificar e fomentar oportunidades para os ESNs; ● Participar ativamente nas comunidades, fóruns técnicos e canais de comunicação do segmento, a fim de potencializar seu conhecimento e posicionamento frente ao produto, segmento <br />● Antecipar as demandas dos clientes e/ou prospects, articulando com profissionais ou áreas internas responsáveis, informando-os sobre os pontos de atenção ou necessidades; <br />● Ser referência para o mercado e sua unidade, através da participação em conferências, eventos, mídias, palestras, etc.; <br />● Mentorar Especialistas e Analistas mais juniores nos retornos e soluções propostas aos clientes e/ou prospects, através de reuniões, e-mails, documentos e/ou apresentações; <br />● Apoiar e definir a estratégia de reversão de clientes e resgate do NPS através de apresentações de revitalização e acomodação do nível de serviço, de acordo com a complexidade <br />● Avaliar a proficiência técnica dos analistas mais juniores de sua linha de produto, contribuindo diretamente para atualização e validação da grade de conhecimento; <br />● Contribuir e propor fóruns de discussões sobre inovação e novas tendências de mercado com as áreas especialistas (Desenvolvimento de Produto, Suporte, Arquitetura e outros) através <br />● Ser referência de conhecimento em sua unidade, disseminando o conhecimento entre os analistas e outras áreas da empresa; <br />● Multiplicar os conhecimento técnicos necessários para os demais analistas da equipe através de capacitações e acompanhamento em atividades de pré-vendas e arquitetura; <br />● Apoiar o ESN na defesa das propostas de implementação através do conhecimento técnico e de negócio; <br />● Realizar a precificação e montagem das propostas técnicas de implementação com base em seu conhecimento técnico e de negócio versus a necessidade do cliente e/ou prospect; <br />● Responder RFP (Request for Proposal), através da análise dos requisitos e aderência, envolvendo outras áreas e/ou outros Arquitetos, quando necessário; ● Garantir que a área de Serviço receba o correto entendimento dos projetos sob sua arquitetura, através das reuniões de passagem de projeto; <br />● Sanar dúvidas da equipe de Serviços sobre projetos arquitetados, através de reuniões, e-mails e ligações; <br />● Levantar a necessidade do cliente através de entrevistas com a área de negócio relacionada, aprofundando nas questões essenciais à definição do melhor desenho de solução; <br />● Identificar a solução tecnológica TOTVS/Parceiros que melhor atenda os requisitos da demanda levantada e que atenda o segmento do cliente e/ou prospect (atuação em oportunidades de alta complexidade, porte G e GG); <br />● Monitorar e acompanhar a parametrização das bases para realização de demonstrações das soluções TOTVS/Parceiros, elencando benefícios tangíveis que o cliente e/ou prospect obterá com a solução desenhada, além de apresentar cases anteriores e referências de mercado; <br />● Desenvolver material institucional e técnico, com alto nível de complexidade, para apresentar ao cliente a solução arquitetada (bem como os seus benefícios) através de ferramentas audiovisuais; <br />● Preparar a solução TOTVS com os parâmetros que se adequem ao processo do cliente, objetivando o atendimento das necessidades identificadas; <br />● Apresentar soluções técnicas TOTVS/Parceiros de alta complexidade, através de reuniões e apresentações em clientes e/ou prospects; <br />● Alertar a liderança sobre potenciais riscos ou crises no atendimento ao cliente, sugerindo e atuando em ações de prevenção; <br />● Dimensionar projetos através de informações como escopo, pirâmide de recursos, nível de gestão adequada, cronograma estimado, esforços e margens; ● Acompanhar/Preparar *PoC e/ou demonstração direcionada; <br />● Atualizar e parametrizar as bases para realização da apresentação da solução TOTVS/Parceiros, com objetivo de convencer tecnicamente e evidenciar a aderência aos processos de negócio do cliente; <br />● Mentorar analistas de menor senioridade e Especialistas, apoiando suas dúvidas, disseminando seu conhecimento, desenhando e arquitetando soluções ou indicando documentações de apoio; <br />● Orientar equipes de arquitetos envolvidos em projetos de alta complexidade, garantindo assim a consolidação das informações e organização do projeto; Fazer a gestão das demandas críticas.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação: Graduação completa em Administração de Empresas, Marketing, Relações Públicas, Economia e/ou áreas relacionadas. </li><li>Pós- graduação, Especialização ou MBA completos. </li><li>Experiência em Recursos Humanos ou atuação próxima à área, com conhecimento de processos de gestão de pessoas (folha, benefícios, ponto, HCM, entre outros)</li><li>Capacidade de entender e traduzir necessidades de negócio em soluções</li><li>Boa comunicação e habilidade de relacionamento com diferentes níveis hierárquicos</li></ul><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9850/pre-vendas-especialista-em-engenharia-de-vendas-rh]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -16300,6 +16243,25 @@ Proatividade e interesse em desenvolvimento de produtos</li></ul><br /><br /><b>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[241f6192-133b-47f9-83f2-ee50a8ddbd87]]></partnerJobId>
+    <company><![CDATA[UniStart | Unimarka]]></company>
+    <title><![CDATA[Jovem Aprendiz - Cadastro Reserva]]></title>
+    <posterEmail><![CDATA[rh02@unimarka.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa ativa, gosta de aprender e deseja iniciar sua carreira profissional em uma empresa com oportunidade de crescimento?<br /><b>Então essa vaga é para você!</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimentos presenciais ou telefônicos e recepcionar públicos diversos;</li><li>Classificar, organizar, controlar e arquivar documentos;</li><li>Fazer cadastros, lançamentos e atualizações nos sistemas;</li><li>Executar outras atividades correlatas solicitadas pelo gestor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ter idade entre 15 e 17 anos;</li><li>Ensino médio em curso;</li><li>Ser a primeira oportunidade de carteira assinada.</li></ul><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unistart/1102/jovem-aprendiz-cadastro-reserva]]></applyUrl>
+    <companyId><![CDATA[65466539]]></companyId>
+    <city><![CDATA[Colatina]]></city>
+    <state><![CDATA[Espírito Santo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4a4a3ff1-6ae8-41f0-b4a0-e0ac5c1653f7]]></partnerJobId>
     <company><![CDATA[UniStart | Unimarka]]></company>
     <title><![CDATA[Estágio de Ensino Médio]]></title>
@@ -16325,6 +16287,25 @@ Proatividade e interesse em desenvolvimento de produtos</li></ul><br /><br /><b>
     <posterEmail><![CDATA[rh02@unimarka.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Essa vaga é para você que quer crescer profissionalmente e fazer carreira em uma empresa que está entre as 10 maiores do Brasil no segmento atacadista.<br /><b>Venha e participe da nossa seleção!</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Suporte na gestão e manutenção dos sistemas internos da empresa;</li><li>Auxílio na configuração e suporte a equipamentos de hardware e software;</li><li>Auxílio na resolução de incidentes e problemas técnicos, garantindo a continuidade das operações;</li><li>Realização de tarefas administrativas e operacionais de TI.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando ensino superior em Ciência da Computação, Sistemas de Informação, Engenharia da Computação ou áreas correlatas.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unistart/1066/estagio-tecnologia-da-informacao]]></applyUrl>
+    <companyId><![CDATA[65466539]]></companyId>
+    <city><![CDATA[Colatina]]></city>
+    <state><![CDATA[Espírito Santo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[359d4687-e11e-4d72-9552-6b5e92e9dbbd]]></partnerJobId>
+    <company><![CDATA[UniStart | Unimarka]]></company>
+    <title><![CDATA[Estágio de Ensino Superior]]></title>
+    <posterEmail><![CDATA[rh02@unimarka.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Essa vaga é para você que quer crescer profissionalmente e fazer carreira em uma empresa que está entre as 10 maiores do Brasil no segmento atacadista.<br /><b>Venha e participe da nossa seleção!</b><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar na realização de atividades diversas de arquivo e levanta informações; </li><li>Elaborar e confere relatórios;</li><li>Realizar atendimento, cadastros e lançamentos no sistema.<br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando ensino superior em Administração, Contabilidade, Psicologia, Marketing, Sistemas de Informações e áreas afins.</li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unistart/846/estagio-de-ensino-superior]]></applyUrl>
     <companyId><![CDATA[65466539]]></companyId>
     <city><![CDATA[Colatina]]></city>
     <state><![CDATA[Espírito Santo]]></state>
@@ -26357,44 +26338,6 @@ interessou por esta oportunidade, venha trabalhar conosco!</b>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[f38193eb-8b51-4aa8-8e25-9b4deb5a24ed]]></partnerJobId>
-    <company><![CDATA[Fundação Educacional Serra dos Órgãos]]></company>
-    <title><![CDATA[Enfermeiro Auditor]]></title>
-    <posterEmail><![CDATA[gloriaalves@feso.edu.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissional com perfil analítico, atenção aos detalhes e compromisso com a qualidade assistencial para atuar na Auditoria de Contas Médicas. Se você possui visão crítica, foco em resultados e busca contribuir para a melhoria contínua dos processos em saúde, esta oportunidade é para você! Venha fazer parte da nossa equipe!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a revisão diária de 100% dos prontuários e kits cirúrgicos (descrição, ficha anestésica e folha de sala).</li><li>Validar tecnicamente OPME e insumos de alto custo através de etiquetas de rastreabilidade e relatos médicos.</li><li>Atuar na interface técnica direta com cirurgiões e anestesistas para resolução de pendências.</li><li>Ministrar treinamentos in loco para a equipe de enfermagem sobre a qualidade dos registros em sala.</li><li>Realizar auditoria técnica de média de contas hospitalares (clínicas e cirúrgicas) pós-fechamento.</li><li>Revisar contas antes do envio às operadoras, garantindo o cruzamento integral entre prontuário e espelho de conta.</li><li>Validar itens críticos: diárias de UTI, gases medicinais, antibióticos de alto custo e taxas de equipamentos e OPME ́s.</li><li>Identificar e recuperar itens de alto valor não faturados.</li><li>Corrigir imediatamente divergências de lançamentos ainda durante o plantão.</li><li>Registrar passagens de plantão e alimentar planilhas de indicadores operacionais.</li><li>Elaborar relatórios mensais de glosas e inconformidades para apresentação à diretoria.</li><li>Executar demais atividades inerentes à função.</li></ul><br /><br /><br /><br /><br /><br /><b>Horário de Trabalho:</b>  Plantão 12x36 das 8h às 20h - vaga 100% presencial<br /><div style="text-align:justify"><b>Local de Trabalho: </b>Hospital das Clínicas de Teresópolis Costantino Ottaviano<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Enfermagem com COREN Ativo;</li><li>Conhecimento em Excel – nível intermediário;</li><li>Atuação anterior comprovada em Terapia Intensiva (UTI) ou Centro Cirúrgico;</li><li>Residir em Teresópolis – vaga 100% presencial.</li></ul><br /><br /><br /><br /><b>A Feso valoriza a diversidade e promove a inclusão de Pessoas com Deficiência (PcD). Caso você seja um profissional com deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenafeso/109/enfermeiro-auditor]]></applyUrl>
-    <companyId><![CDATA[1251323]]></companyId>
-    <city><![CDATA[Teresópolis]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[98e3c107-2c03-44c3-a5a6-a82a6a788d73]]></partnerJobId>
-    <company><![CDATA[Fundação Educacional Serra dos Órgãos]]></company>
-    <title><![CDATA[Enfermeiro Supervisor de Auditoria]]></title>
-    <posterEmail><![CDATA[gloriaalves@feso.edu.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos profissional para atuar no Setor de Auditoria de Contas Médicas, com foco em qualidade assistencial, conformidade regulatória e eficiência do ciclo da receita. Também será responsável pela coordenação da equipe, pelo acompanhamento de indicadores e pelo apoio na melhoria contínua dos processos, contribuindo diretamente para a evolução dos resultados da área. Se você possui experiência em auditoria hospitalar e interesse em atuar com gestão, análise e aprimoramento de processos, queremos conhecer você.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Coordenar atividades da equipe de trabalho e procedimentos da área, distribuindo demandas e acompanhando produtividade. </li><li>Realizar avaliações de desempenho da equipe, fornecendo feedback contínuo. </li><li>Desenvolver e capacitar a equipe em normas técnicas da área. </li><li>Propor planos de ação para melhoria contínua. </li><li>Participar da elaboração e revisão de fluxos de auditoria. </li><li>Identificar oportunidades de recuperação de receita e prevenção de glosas. </li><li>Garantir aderência às normas da instituição, operadoras e órgãos reguladores. </li><li>Elaborar relatórios gerenciais periodicamente. </li><li>Analisar e validar quaisquer registros, procedimentos e documentações da área. </li><li>Monitorar indicadores da área. </li><li>Acompanhar em tempo real o andamento dos procedimentos cirúrgicos. </li><li>Atuar em conjunto com quaisquer setores da empresa que estejam relacionados à área. </li><li>Interagir com as equipes envolvidas nos procedimentos médicos a respeito das questões da área. </li><li>Apoiar quaisquer processos da instituição que envolvam a área. </li><li>Participar de reuniões. </li><li>Conferir a utilização de insumos nos procedimentos médicos. </li><li>Executar demais atividades inerentes à função.</li></ul><br /><br /><br /><br /><br /><br /><br /><b>Horário de Trabalho:</b>  Segunda a Sexta das 8h às 17h - vaga 100% presencial<br /><div style="text-align:justify"><b>Local de Trabalho: </b>Hospital das Clínicas de Teresópolis Costantino Ottaviano<br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Enfermagem com COREN Ativo;</li><li>Conhecimento em auditoria de saúde concorrente e retrospectiva, faturamento hospitalar, OPME, legislação da saúde e domínio de tabelas específicas.</li><li>Liderança, comunicação assertiva, negociação, foco em resultados, organização e planejamento.</li><li>Domínio pacote office e Sistemas de Gestão Hospitalar</li><li>Residir em Teresópolis – vaga 100% presencial.</li></ul><br /><br /><br /><b>A Feso valoriza a diversidade e promove a inclusão de Pessoas com Deficiência (PcD). Caso você seja um profissional com deficiência e se interessou por esta oportunidade, venha trabalhar conosco!</b><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenafeso/108/enfermeiro-supervisor-de-auditoria]]></applyUrl>
-    <companyId><![CDATA[1251323]]></companyId>
-    <city><![CDATA[Teresópolis]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[2d4dc774-5a1d-4d59-9718-51ff5e67e1ff]]></partnerJobId>
     <company><![CDATA[Fundação Educacional Serra dos Órgãos]]></company>
     <title><![CDATA[Analista de Negócios - Educacional]]></title>
@@ -27669,50 +27612,6 @@ crescimento profissional, venha fazer parte do nosso time!<br /><br /><b>Respons
      em Resultados.</li>
 </ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/571/leiturista]]></applyUrl>
-    <companyId><![CDATA[9250455]]></companyId>
-    <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[Ceará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[dac150ca-7010-4934-ae0f-40b122076742]]></partnerJobId>
-    <company><![CDATA[Ceneged]]></company>
-    <title><![CDATA[Leiturista]]></title>
-    <posterEmail><![CDATA[luishenrique@ceneged.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você é uma pessoa dinâmica, proativa e focada em
-resultados, esta pode ser a oportunidade que você estava esperando! Estamos em
-busca de um profissional para integrar nosso time de Leitura. Aqui,
-valorizamos o trabalho em equipe, o comprometimento e a vontade de
-aprender. Se você se identifica com essas características e busca
-crescimento profissional, venha fazer parte do nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Receber
-     o PDA com as leituras das contas de energia a serem realizadas;</li>
- <li>Planejar
-     a rota para a execução do serviço;</li>
- <li>Abordar
-     o cliente;</li>
- <li>Colher
-     a leitura e entregar a fatura.</li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Ensino
-     médio completo;</li>
- <li>Conhecimento
-     básico em informática;</li>
- <li>Boa
-     comunicação;</li>
- <li>Proativo;</li>
- <li>Dinâmico;</li>
- <li>Foco
-     em Resultados.</li>
-</ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/523/leiturista]]></applyUrl>
     <companyId><![CDATA[9250455]]></companyId>
     <city><![CDATA[Fortaleza]]></city>
     <state><![CDATA[Ceará]]></state>
@@ -41460,25 +41359,6 @@ dinâmicas, fórmulas, gráficos)
     <posterEmail><![CDATA[kauany.cardoso@deltasucroenergia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar as dependências do estabelecimento, garantindo a segurança do local e das pessoas presentes.</li><li>Realizar rondas periódicas para prevenir e identificar situações de risco ou comportamentos suspeitos.</li><li>Controlar o acesso de visitantes e prestadores de serviços, realizando a verificação de documentos quando necessário.</li><li>Atuar em situações de emergência, prestando suporte e acionando as autoridades competentes se necessário.</li><li>Elaborar relatórios de ocorrências e registrar informações relevantes sobre o dia a dia das atividades de segurança.</li><li>Realizar a vigilância de equipamentos e patrimônio, observando manutenções e condições adequadas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.</li><li>Certificado de formação de vigilante.</li><li>Registro no órgão competente.</li><li>Conhecimento em normas de segurança.</li><li>Habilidade de observação e atenção a detalhes.</li><li>Disponibilidade para turnos variados.</li><li>CNH AB</li><li>Residir em Uberaba, Igarapava, Delta, Aramina ou Conceição das Alagoas.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1702/vigilante]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Delta]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[534d558c-1211-4fc9-849c-99ab82c26c73]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Operador de Transbordo - CTT]]></title>
-    <posterEmail><![CDATA[maria.batista@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Operar máquinas pesadas ( trator Transbordo).</li><li>Monitorar o funcionamento das máquinas.</li><li>Identificar falhas e realizar manutenções preventivas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Fundamental completo.</li><li>CNH B ( Definitiva).</li><li>Residir em Igarapava, Delta e Aramina.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1647/operador-de-transbordo-ctt]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Delta]]></city>
     <state><![CDATA[Minas Gerais]]></state>
@@ -56493,6 +56373,25 @@ Macros Experiência:
     <companyId><![CDATA[28537964]]></companyId>
     <city><![CDATA[Manaus]]></city>
     <state><![CDATA[Amazonas]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[bcc31301-eac8-4376-9d14-ca614c29a845]]></partnerJobId>
+    <company><![CDATA[Grupo RAX]]></company>
+    <title><![CDATA[Auxiliar Financeiro]]></title>
+    <posterEmail><![CDATA[beatrizfontes@raxbrasil.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Apoiar a área Financeira nas rotinas de pagamentos e faturamento vinculadas às operações de Comércio Exterior, assegurando o correto lançamento, conferência e organização dos documentos financeiros e fiscais, com responsabilidade, precisão e respeito a prazos operacionais e aduaneiros.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Conferir e lançar pagamentos operacionais no sistema. • Realizar lançamentos financeiros com precisão e dentro dos prazos estabelecidos.<br />• Conferir, organizar e arquivar notas fiscais e demais documentos financeiros.<br />• Executar conferência de pagamentos efetuados e a efetuar. <br />• Apoiar a elaboração de relatórios financeiros periódicos.<br />• Prestar suporte operacional ao time Financeiro nas demandas do dia a dia.<br />• Conferir e lançar informações de representantes comerciais no sistema.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Cursando ou Concluído Ensino Superior em Comércio Exterior, Administração ou áreas correlatas.Excel Básico (mínimo); Excel Básico a Intermediário (desejável).<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/raxbrasil/21/auxiliar-financeiro]]></applyUrl>
+    <companyId><![CDATA[28537964]]></companyId>
+    <city><![CDATA[Santos]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -73581,6 +73480,14 @@ Disponibilidade para viagens.</li></ul>]]></description>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
+        <highEnd>
+          <amount><![CDATA[2129.25]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2129.25]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -83333,25 +83240,6 @@ fixo competitivo + bônus trimestral</b><br /><br />Se identificou? Venha fazer 
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[19e49c50-b7dd-4304-a792-247955f5a1d5]]></partnerJobId>
-    <company><![CDATA[TRATON Financial Services Brasil]]></company>
-    <title><![CDATA[Analista de Contabilidade e Operações Pleno]]></title>
-    <posterEmail><![CDATA[jennifer.amaral@tratonfs.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar na área de Contabilidade, Impostos e Operações do Banco TRATON Brasil S.A., principalmente em atividades relacionadas ao fechamento contábil Local (BACEN GAAP), reportes ao Banco Central do Brasil, atendimento à Auditoria Externa e clientes. Adicionalmente, essa posição será responsável pelas rotinas relacionadas ao Contas a Pagar, como controle dos pagamentos a fornecedores e demais pagamentos da Instituição, atendimento as demais áreas da instituição para orientações quanto as solicitações de pagamento e devidas conciliações da efetivação dos pagamentos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Experiência em contabilidade local (BACEN GAAP) e IFRS; </li><li>Conhecimento básico em produtos Financeiros (Financiamentos, Empréstimos, Aplicações e Captações);</li><li>Conhecimento técnico das normas contábeis, principalmente relacionadas aos Ativos e Passivos Financeiros (Resolução BC 4.966 e Resolução BCB 352);</li><li>Conhecimento intermediário sobre os reportes regulatórios ao Banco Central do Brasil (CADOCs Contábeis e não contábeis – 4010, 4016, 3040, 9010, 9011, etc); </li><li>Conhecimento na elaboração de Demonstrações Financeiras (Balanço Patrimonial, DRE, DRA, DMPL, Fluxo de Caixa e Notas Explicativas); </li><li>Experiência em Banco de Montadora será um diferencial;</li><li>Conhecimento do Sistema Autbank e Dynamics D365 será um diferencial; </li><li>Bom relacionamento interpessoal, boa comunicação; </li><li>Perfil Proativo e com alta capacidade de iniciativa; </li><li>Muito importante organização e atenção aos prazos, essa posição será responsável por entregas regulatórias críticas.</li></ul><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação: Contabilidade<br /><br /><br />Experiência: Mínimo 6 anos de experiência na área de Contabilidade, preferencialmente de Instituições Financeiras. <br /> <br />Inglês Intermediário<br /><br /><br /><br /><br /><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/tratonfsbrasil/12/analista-de-contabilidade-e-operacoes-pleno]]></applyUrl>
-    <companyId><![CDATA[107919700]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[939518a2-91ba-4fed-8acc-60bfce06d012]]></partnerJobId>
     <company><![CDATA[ENTREGA JÁ]]></company>
     <title><![CDATA[VENDEDOR COMERCIAL INTERNO (Inside Sales / SDR)]]></title>
@@ -85914,25 +85802,6 @@ como acompanhar a execução da obra, garantindo a segurança e qualidade da obr
           <amount><![CDATA[2500.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[672b697a-78e0-4299-b24d-e1e04aba45a1]]></partnerJobId>
-    <company><![CDATA[Larca Capital]]></company>
-    <title><![CDATA[Assistente Operacional]]></title>
-    <posterEmail><![CDATA[alessandra.spinelli@larcacapital.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais que desejam fazer a diferença em um ambiente dinâmico e colaborativo. Se você é uma pessoa proativa, organizada e que valoriza o trabalho em equipe, temos uma oportunidade para você! Aqui, valorizamos a inovação e a eficiência. Junte-se a nós e torne-se parte de uma equipe comprometida com a excelência e com o desenvolvimento contínuo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar análises a fim de garantir autenticidade e conformidade das operações;<br />- Realizar análise do comprometimento da renda do cliente;<br />- Conferência de documentos do cliente e dados cadastrais;<br />- Manter atualizados os roteiros operacionais e manuais de análise;- Envio de documentação para lastro no fundo;<br />- Realizar reapresentação de pagamentos devolvidos;<br />- Monitorar status das operações garantindo a efetiva conclusão da proposta;<br />- Analisar propostas de crédito;<br />- Atuar nas propostas que retornam com pagamento devolvido;<br />- Atualizar roteiros e manuais operacionais;<br />- Monitorar status das propostas a fim de identificar desvios de fluxos;<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Superior em andamento em Administração, ou áreas correlatas;- Domínio do pacote office;<br />- Boa comunicação verbal e escrita;<br />- Organização e proatividade.<br /><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/atracaodetalentoslarcacapital/11/assistente-operacional]]></applyUrl>
-    <companyId><![CDATA[70104718]]></companyId>
-    <city><![CDATA[Porto Alegre]]></city>
-    <state><![CDATA[Rio Grande do Sul]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -88921,6 +88790,25 @@ Experiência com Central Finance.</li>]]></description>
     <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Apoiar no planejamento e controle das operações logísticas.</li><li>Acompanhar processos de recebimento, armazenagem e expedição de mercadorias.</li><li>Emitir e conferir documentos de transporte e notas fiscais.</li><li>Monitorar pedidos e prazos de entrega junto a transportadoras e clientes.</li><li>Atualizar sistemas de gestão logística e relatórios de acompanhamento.</li><li>Controlar indicadores operacionais (tempo de entrega, custos, avarias).</li><li>Dar suporte na negociação e relacionamento com fornecedores e prestadores de serviço.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo (desejável superior em andamento em Logística, Administração ou áreas correlatas).</li><li>Experiência prévia em rotinas administrativas ou logísticas.</li><li>Conhecimento em informática (Excel, sistemas de gestão).</li><li>Organização, atenção aos detalhes e responsabilidade.</li><li>Boa comunicação e capacidade de trabalho em equipe.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/192/auxiliar-de-logistica]]></applyUrl>
+    <companyId><![CDATA[11691971]]></companyId>
+    <city><![CDATA[São Luís]]></city>
+    <state><![CDATA[Maranhão]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ac3e8f4e-509e-4812-ba2f-610eb270526b]]></partnerJobId>
+    <company><![CDATA[L'auto Cargo]]></company>
+    <title><![CDATA[Gerente Operacional]]></title>
+    <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Planejar, coordenar e supervisionar as operações diárias da empresa, garantindo eficiência e qualidade.</li><li>Implementar processos e políticas operacionais alinhados às metas estratégicas da organização.</li><li>Monitorar indicadores de desempenho (KPIs) e propor melhorias contínuas.</li><li>Controlar custos operacionais e otimizar recursos.</li><li>Negociar com fornecedores e parceiros para garantir prazos e padrões de qualidade.</li><li>Liderar equipes de supervisores e coordenadores, promovendo desenvolvimento e engajamento.</li><li>Elaborar relatórios gerenciais e apresentar resultados à diretoria.</li><li>Garantir conformidade com normas de segurança, qualidade e regulamentações aplicáveis.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação superior em Administração, Engenharia de Produção, Logística ou áreas correlatas.</li><li>Experiência sólida em gestão operacional e liderança de equipes.</li><li>Conhecimento em processos operacionais, indicadores de desempenho e gestão estratégica.</li><li>Domínio de sistemas e ferramentas de gestão logística.</li><li>Excel Avançado, conhecimento em Power BI.</li><li>Boa comunicação, liderança e capacidade de negociação.</li><li>Organização e foco em resultados.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/169/gerente-operacional]]></applyUrl>
     <companyId><![CDATA[11691971]]></companyId>
     <city><![CDATA[São Luís]]></city>
     <state><![CDATA[Maranhão]]></state>
@@ -94589,7 +94477,7 @@ Contribuir para a melhoria contínua dos processos de pós-entrega, visando a sa
   <job>
     <partnerJobId><![CDATA[785858c6-f100-4e1a-aa68-1adcb6021188]]></partnerJobId>
     <company><![CDATA[CR Duarte Engenharia]]></company>
-    <title><![CDATA[Jovem Aprendiz - Engenharia / Técnico em Edificações - Maraponga]]></title>
+    <title><![CDATA[Jovem Aprendiz - Engenharia/Edificações - Maraponga]]></title>
     <posterEmail><![CDATA[ccarneiro@crduarte.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Jovem Aprendiz de Engenharia / Técnico em Edificações</strong> que tenha vontade de aprender, seja organizado(a), proativo(a) e tenha interesse em desenvolver sua carreira na área de Engenharia.<br /><br />Nesta oportunidade, você apoiará as rotinas da área de Engenharia, contribuindo com atividades administrativas, organização de documentos técnicos, acompanhamento de controles, suporte às equipes de obra e demais demandas do setor. Aqui, você terá a oportunidade de desenvolver conhecimentos práticos, adquirir experiência profissional e crescer em um ambiente colaborativo, dinâmico e de aprendizado contínuo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Apoiar as rotinas administrativas da área de Engenharia;
 </li>
@@ -94628,13 +94516,17 @@ Facilidade para trabalhar em equipe;
 </li>
 <li>
 Será um diferencial já ter tido contato com a área por meio de estágio, projetos acadêmicos, programa de aprendizagem ou vivência em obras.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirascrduarte/38/jovem-aprendiz-engenharia-tecnico-em-edificacoes-maraponga]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirascrduarte/38/jovem-aprendiz-engenharia-edificacoes-maraponga]]></applyUrl>
     <companyId><![CDATA[11497262]]></companyId>
     <city><![CDATA[Fortaleza]]></city>
     <state><![CDATA[Ceará]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
+        <highEnd>
+          <amount><![CDATA[761.55]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
