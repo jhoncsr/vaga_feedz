@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 07 Jul 2026 21:15:06 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 22:18:13 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3827]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3825]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -951,10 +951,10 @@ Produção, Química ou áreas correlatas]]></description>
   <job>
     <partnerJobId><![CDATA[bcc0dcce-2d09-487e-a966-275f53f6e1e6]]></partnerJobId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Analista Sênior de Desenvolvimento Cloud]]></title>
+    <title><![CDATA[[Tech] Analista Sênior de Desenvolvimento Cloud - PowerShell]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Participar e sustentar a cultura DevOps através da disseminação de valores, princípios, ferramentas e práticas DevOps, com o objetivo de impulsionar a excelência operacional e maximizar a entrega de valor para os produtos do ecossistema Varejo da TOTVS em uma nuvem de propósito específico.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver, testar e sustentar funcionalidades de Devops relacionados a tecnologias da TOTVS Cloud que agreguem valor, garantindo a satisfação do cliente e a sustentabilidade das soluções dentro da área de Cloud<b>;</b></li><li>Utilizar a IA + IH constantemente para acelerar e subir a qualidade das entregas de Devops, visando a satisfação dos clientes TOTVS;</li><li>Compartilhar padrões, conhecimentos e boas práticas de Devops com os times, através de documentação, divulgação e reuniões presenciais ou online; </li><li>Participar das dailys, plannings e reviews de Sprints utilizando o método ágil no dia a dia, se posicionando sobre suas demandas, bloqueios encontrados e os avanços diários das tarefas;</li><li>Estudar a estrutura da TOTVS Cloud e com o tempo e conhecimento adquirido, contribuir para evolução da arquitetura de Devops utilizada nos produtos Varejo;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação Acadêmica: Superior completo em áreas de tecnologia;</li><li>Vivência exercendo o papel de ponto focal técnico em DevOps;</li><li>Vivência exercendo o papel de Desenvolvedor de Software em alguma linguagem de programação;</li><li>Versionamento de Código: Domínio do sistema de controle de versão <i>Git</i>. Tendo familiaridade com os comandos do <i>Git</i> via de comando e/ou interface gráfica;</li><li>Desenvolvimento de Software: Domínio com o <i>VS Code</i> aplicando o uso de extensões e agentes de IA no dia a dia visando acelerar o desenvolvimento e qualidade das entregas;</li><li>Testes Automatizados: Desenvolver testes unitários com <i>Pester</i> em <i>PowerShell </i>e<i> Pytest </i>em<i> Python</i> e entender como aplicar a filosofia dos testes unitários de código no dia a dia;</li><li>Google Cloud Platform: Construção e manutenção de pipelines com <i>Triggers</i> da <i>GCP</i>, armazenamento e manutenção de artefatos com <i>Storage</i> e <i>Artifacts Registry</i>. Manutenção e versionamento de <i>Secrets;</i></li><li>GitLab - Experiência com  <i>GitActions</i> contribuindo para a entrega contínua de código;</li><li>GitOps - Aplicar e desenvolver ferramentas aplicando o conceito <i>GitOps;</i></li><li>AWS: Criação/manutenção de <i>Buckets</i> na <i>AWS S3;</i></li><li>IaC (Infraestrutura como Código): Proficiência com <i>Packer</i> e <i>Ansible</i> para automação de infraestrutura;</li><li>Linguagens de Programação: PowerShell (<i>Avançado</i>) e Python;</li><li>Conhecimento em Estruturas de Metadados: <i>Json, YAML, XML </i>e<i> Properties;</i></li><li>Conhecimento em administração de ambientes Windows Server 2016+;</li><li>Conhecimento em ferramentas do Windows Server 2016+ : <i>Nginx, Administração de Rede e Firewall, </i> <i>Administração de Usuários, Chaves de Registro do Windows, </i>utilização de<i> Variáveis de Ambiente;</i></li><li>Compreensão de arquiteturas de sistemas escaláveis e altamente disponíveis;</li><li>Compreensão de padrões de arquitetura de micro serviços;</li><li>Logs: Familiaridade com a leitura e entendimento de <i>LOGS</i> de diferentes formatos (<i>.json</i> e <i>.log</i>);</li><li>Troubleshooting: Habilidade em diagnosticar e resolver problemas de infraestrutura e aplicativos em ambientes Windows Server;</li><li>Avaliação de Desempenho: Monitoramento e otimização contínua do desempenho de sistemas e infraestrutura em arquitetura Windows Server;</li><li>Cultura DevOps: Compreensão profunda dos princípios e práticas da cultura DevOps;</li><li>Plataformas em Nuvem: Experiência em pelo menos duas plataformas em nuvem (AWS, Azure, Google Cloud), compreensão dos serviços oferecidos incluindo o uso eficaz de serviços gerenciados;</li><li>Certificações: Em nuvem pública.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10971/tech-analista-senior-de-desenvolvimento-cloud]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10971/tech-analista-senior-de-desenvolvimento-cloud-powershell]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -49365,25 +49365,6 @@ Garantir cumprimento de procedimentos internos, normas de segurança e complianc
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[5639daf6-1fde-4f85-8c6d-b83d01e09d26]]></partnerJobId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[Operador de Guindaste]]></title>
-    <posterEmail><![CDATA[alessandra.cea@triunfologistica.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Operar equipamento de tração e/ou redução de cargas do tipo concreto, realizando operações de carga e descarga ou no pátio, atendendo a objetivos específicos ou programados. Operam máquinas e equipamentos de elevação, ajustando comandos, acionando movimentos das máquinas. Avaliar condições de funcionamento das máquinas e equipamentos, interpretando painel de instrumentos de medição, verificando fonte de alimentação, testando comandos de acionamento. Preparar área para operação de equipamentos e transporte de pessoas e materiais em máquinas e equipamentos de elevação. Trabalhamos seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Zelar pelo bom estado do equipamento não diz respeito a manutenção e boa utilização. Elaborar um check list para identificar qualquer avaria causada ao equipamento e informar ao supervisor. Verifique se o equipamento está devidamente isolado em um raio de operação, a fim de evitar desequilíbrio com outros equipamentos. Verifique a necessidade de abastecimento do equipamento e informe ao supervisor. Verifique a capacidade de içamento de cada equipamento e atente-se para a operação de acordo com a carga. Içar mercadorias dos navios, utilizando a tração, posicionando-as em locais protegidos do pátio ou navio, para fins de armazenamento e posterior embarque ou desembarque. Retirar eventualmente do pátio, como mercadorias que serão colocadas no convés do navio, usando orientação e colocação nas carretas a fim de encaminhar ao costado do navio e posterior recarga. Executar rotinas de transporte de materiais necessários às operações no armazém, utilizando técnica, objetiva e otimização do tempo de processo. Cuidar da organização do espaço físico destinado às cargas, dividindo-os no pátio e realizando um armazenamento de forma adequada. Posicionar materiais em local adequado através da operação de ponte, retirando cargas que eventualmente se espalhem, a fim de facilitar o trânsito de veículos e outros equipamentos. Realizar eventualmente tarefas correlatas, determinadas pela chefia imediata. Participe, diariamente, do DDS. Utilizar, corretamente, todos os equipamentos de segurança (EPI). É responsabilidade do operador manter o equipamento em condições de funcionalidade, sendo responsável por tarefas complementares à manutenção, bem como instruções e encaminhamento para correção de eventuais defeitos e falhas observadas<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Completo<br />Curso de Operador de Guindaste. <br />Experiência anterior na função de Op. de Guindaste <br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/405/operador-de-guindaste]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[5e9abf1a-0ec2-4553-a258-661f253eb574]]></partnerJobId>
     <company><![CDATA[TRIUNFO LOGISTICA]]></company>
     <title><![CDATA[Balanceiro]]></title>
@@ -49415,25 +49396,6 @@ necessário.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Esc
           <amount><![CDATA[2126.08]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[d28350d9-c490-422e-a9fc-88b0167c8cdd]]></partnerJobId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[Operador de Guindaste]]></title>
-    <posterEmail><![CDATA[alessandra.cea@triunfologistica.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Operar equipamento de tração e/ou redução de cargas do tipo concreto, realizando operações de carga e descarga ou no pátio, atendendo a objetivos específicos ou programados. Operam máquinas e equipamentos de elevação, ajustando comandos, acionando movimentos das máquinas. Avaliar condições de funcionamento das máquinas e equipamentos, interpretando painel de instrumentos de medição, verificando fonte de alimentação, testando comandos de acionamento. Preparar área para operação de equipamentos e transporte de pessoas e materiais em máquinas e equipamentos de elevação. Trabalhamos seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Zelar pelo bom estado do equipamento não diz respeito a manutenção e boa utilização. Elaborar um check list para identificar qualquer avaria causada ao equipamento e informar ao supervisor. Verifique se o equipamento está devidamente isolado em um raio de operação, a fim de evitar desequilíbrio com outros equipamentos. Verifique a necessidade de abastecimento do equipamento e informe ao supervisor. Verifique a capacidade de içamento de cada equipamento e atente-se para a operação de acordo com a carga. Içar mercadorias dos navios, utilizando a tração, posicionando-as em locais protegidos do pátio ou navio, para fins de armazenamento e posterior embarque ou desembarque. Retirar eventualmente do pátio, como mercadorias que serão colocadas no convés do navio, usando orientação e colocação nas carretas a fim de encaminhar ao costado do navio e posterior recarga. Executar rotinas de transporte de materiais necessários às operações no armazém, utilizando técnica, objetiva e otimização do tempo de processo. Cuidar da organização do espaço físico destinado às cargas, dividindo-os no pátio e realizando um armazenamento de forma adequada. Posicionar materiais em local adequado através da operação de ponte, retirando cargas que eventualmente se espalhem, a fim de facilitar o trânsito de veículos e outros equipamentos. Realizar eventualmente tarefas correlatas, determinadas pela chefia imediata. Participe, diariamente, do DDS. Utilizar, corretamente, todos os equipamentos de segurança (EPI). É responsabilidade do operador manter o equipamento em condições de funcionalidade, sendo responsável por tarefas complementares à manutenção, bem como instruções e encaminhamento para correção de eventuais defeitos e falhas observadas<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Completo<br />Curso de Operador de Guindaste. <br />Experiência anterior na função de Op. de Guindaste <br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/402/operador-de-guindaste]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
