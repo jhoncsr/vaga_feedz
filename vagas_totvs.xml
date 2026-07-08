@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 08 Jul 2026 14:22:40 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 15:18:40 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3804]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3806]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -3563,6 +3563,44 @@ geração de novas demandas.  <br /><br /><br /><b>Requisitos e qualificaçõe
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10101/vendas-gerente-de-contas-especialista-hunter]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[8204aebd-41ea-40b8-88bc-e6b8da8b0dcf]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de Software Pleno - C#]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Lexos, uma empresa TOTVS, atua como um hub de e-commerce e ERP, centralizando vendas, expedição e emissão de notas fiscais. Estamos em busca de um(a) desenvolvedor(a) Backend Pleno. <br /><br /><br />Nossa missão é garantir que os fluxos de sincronização de pedidos, estoque, preços e anúncios funcionem com alta performance e confiabilidade, tratando webhooks e notificações em tempo real. <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<br /><br /><ul><li>Desenvolver soluções técnicas de média e alta complexidade, conhecendo a fundo a arquitetura do software e sendo capaz de atuar nela através da análise de seus componentes, organização e funcionalidades;</li></ul>●  Criar testes de alta complexidade, (manuais e/ou automatizados), que cubram o comportamento desejado dos componentes técnicos desenvolvidos, utilizando os requisitos e ferramentas de testes;<br />●  Documentar as etapas de desenvolvimento e realizar seu registro nas ferramentas de versionamento e documentação;<br />●  Orientar e trabalhar com o time de desenvolvimento para encontrar soluções de negócio, arquitetura e desenho através da comunicação e trocas de conhecimento, inclusive orientar desenvolvedores de menor senioridade;<br />●  Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados;<br />●  Detalhar requisitos de média e alta complexidade através do contato com clientes e/ou áreas envolvidas no projeto ou atendimento;<br />●  Utilizar frameworks já definidos para o desenvolvimento de soluções.<br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><br /><ul><li>Formação: Superior completo em tecnologia e afins.</li><li>Lógica de Programação;</li><li>Banco de Dados (SQL e Oracle) – nível avançado para consultas e performance;</li><li>Linguagem de programação C#;</li><li>Testes unitários - nível avançado;</li><li>Arquitetura de Software – nível intermediário;</li><li>Métodos ágeis de desenvolvimento de software</li><li>Boas práticas de desenvolvimento de software</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10964/tech-engenharia-de-software-pleno-c]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São José dos Campos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[69a5f6fa-de22-4e0b-aa8e-19f03fedde21]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de Software Pleno - .Net / C#]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Lexos, uma empresa TOTVS, atua como um hub de e-commerce e ERP, centralizando vendas, expedição e emissão de notas fiscais. Estamos em busca de um(a) desenvolvedor(a) Backend Pleno para integrar nosso Squad Core, responsável pela manutenção e evolução de integrações.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<br /><br /><ul><li><strong>Manutenção e Evolução de Integrações:</strong> Atuar diretamente no Squad Core, garantindo o funcionamento contínuo e escalável de integrações críticas com grandes marketplaces (Amazon, Shopee e Mercado Livre).</li><li><strong>Sincronização de Dados:</strong> Implementar e otimizar fluxos de sincronização em tempo real para pedidos, estoque, preços e anúncios.</li><li><strong>Tratamento de Eventos:</strong> Desenvolver soluções robustas para processamento de webhooks e notificações, assegurando a integridade e a consistência das informações.</li><li><strong>Troubleshooting e Estabilidade:</strong> Atuar ativamente na investigação, diagnóstico e correção de bugs e problemas em ambiente de produção, visando a alta disponibilidade das aplicações.</li><li><strong>Desenvolvimento Backend:</strong> Criar funcionalidades e melhorias transformando requisitos técnicos em soluções de software seguras, performáticas e aderentes aos padrões de arquitetura do time.</li><li><strong>Colaboração Ágil:</strong> Participar de cerimônias ágeis e contribuir com sugestões técnicas para evolução do produto, sempre mantendo o foco nos objetivos de negócio e na qualidade das entregas.</li><li><strong>Boas Práticas:</strong> Aplicar padrões de desenvolvimento, versionamento de código e documentação técnica, compartilhando conhecimento com o time para elevar o nível técnico coletivo.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><br /><ul><li>Experiência com .NET: Sólidos conhecimentos em C# e plataforma .NET (versões 5 ou 6).</li><li>Banco de Dados: Domínio de SQL Server para modelagem e consulta de dados.</li><li>Mensageria: Experiência prática com sistemas de filas e mensageria (especialmente RabbitMQ ou SQS).</li><li>Integrações: Vivência comprovada no desenvolvimento de APIs REST e ambientes com múltiplas integrações simultâneas.</li><li>Cloud e Infraestrutura: Conhecimento em arquitetura de aplicações em ambiente Cloud (AWS).</li><li>Performance: Conhecimento em Redis (cache e performance).</li><li>DevOps: Familiaridade com Git, Azure DevOps e ciclos de CI/CD.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10963/tech-engenharia-de-software-pleno-net-c]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São José dos Campos]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -14382,13 +14420,13 @@ Identificar oportunidades de melhoria em indicadores, análises e processos de d
   <job>
     <partnerJobId><![CDATA[b6c12465-c95d-4b2c-a998-6a605d127f82]]></partnerJobId>
     <company><![CDATA[Hartbau]]></company>
-    <title><![CDATA[Consultor de Vendas BA]]></title>
+    <title><![CDATA[Consultor de Vendas Bahia]]></title>
     <posterEmail><![CDATA[ellen@hartbau.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um <strong>Consultor de Vendas</strong> para integrar nosso time Comercial para atuar na <b>BAHIA  e regiões</b> na condução de negociações estratégicas de soluções técnicas e industriais da Hartbau. Este profissional será responsável por compreender as necessidades dos clientes, desenvolver propostas consultivas e conduzir todo o ciclo comercial até o fechamento da venda. Buscamos alguém com perfil proativo, habilidade para construir relacionamentos de longo prazo e experiência na negociação de vendas complexas, contribuindo diretamente para o crescimento dos negócios e fortalecimento da marca Hartbau no mercado.<br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Conduzir o ciclo completo de vendas, desde o primeiro contato qualificado até o fechamento do negócio;</li><li>Realizar negociações consultivas, identificando necessidades e propondo soluções técnicas aderentes ao cenário de cada cliente;</li><li>Gerenciar oportunidades comerciais oriundas do SDR, marketing e prospecção própria;</li><li>Elaborar e apresentar propostas comerciais, conduzindo negociações estratégicas com diferentes níveis de decisão;</li><li>Atuar junto a instaladores, construtoras, incorporadoras, indústrias, empresas de engenharia e escritórios de projeto, desenvolvendo relacionamentos sólidos e de longo prazo;</li><li>Desenvolver relacionamento com clientes e parceiros, promovendo fidelização e geração de novas oportunidades;</li><li>Atuar em vendas B2B de soluções industriais, envolvendo negociações de maior complexidade e valor agregado;</li><li>Manter o CRM atualizado, acompanhando o pipeline de vendas e os indicadores comerciais (KPIs);</li><li>Trabalhar em conjunto com as equipes de Engenharia, Projetos e demais áreas para garantir a melhor solução ao cliente;<br /></li><li>Dialogar tecnicamente com instaladores, engenheiros, projetistas e responsáveis técnicos, compreendendo especificações, requisitos de projeto e normas aplicáveis para oferecer soluções aderentes;</li><li>Representar a Hartbau em reuniões, visitas técnicas, feiras e eventos do setor, quando necessário.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino superior completo em Administração, Gestão Comercial, Engenharia ou áreas correlatas;</li><li>Experiência com vendas consultivas e negociação de soluções B2B;</li><li>Vivência na condução de negociações e fechamento de vendas complexas;</li><li>Conhecimento em CRM e gestão de pipeline comercial;</li><li>Pacote Office;</li><li>Excelente comunicação verbal e escrita.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/conectandotalentoshb/15/consultor-de-vendas-ba]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/conectandotalentoshb/15/consultor-de-vendas-bahia]]></applyUrl>
     <companyId><![CDATA[1]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
+    <city><![CDATA[Salvador]]></city>
+    <state><![CDATA[Bahia]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -14406,8 +14444,8 @@ Identificar oportunidades de melhoria em indicadores, análises e processos de d
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um <strong>Consultor de Vendas</strong> para integrar nosso time Comercial para atuar no <b>Espírito Santo e regiões</b> na condução de negociações estratégicas de soluções técnicas e industriais da Hartbau. Este profissional será responsável por compreender as necessidades dos clientes, desenvolver propostas consultivas e conduzir todo o ciclo comercial até o fechamento da venda. Buscamos alguém com perfil proativo, habilidade para construir relacionamentos de longo prazo e experiência na negociação de vendas complexas, contribuindo diretamente para o crescimento dos negócios e fortalecimento da marca Hartbau no mercado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Conduzir o ciclo completo de vendas, desde o primeiro contato qualificado até o fechamento do negócio;</li><li>Realizar negociações consultivas, identificando necessidades e propondo soluções técnicas aderentes ao cenário de cada cliente;</li><li>Gerenciar oportunidades comerciais oriundas do SDR, marketing e prospecção própria;</li><li>Elaborar e apresentar propostas comerciais, conduzindo negociações estratégicas com diferentes níveis de decisão;</li><li>Atuar junto a instaladores, construtoras, incorporadoras, indústrias, empresas de engenharia e escritórios de projeto, desenvolvendo relacionamentos sólidos e de longo prazo;</li><li>Desenvolver relacionamento com clientes e parceiros, promovendo fidelização e geração de novas oportunidades;</li><li>Atuar em vendas B2B de soluções industriais, envolvendo negociações de maior complexidade e valor agregado;</li><li>Dialogar tecnicamente com instaladores, engenheiros, projetistas e responsáveis técnicos, compreendendo especificações, requisitos de projeto e normas aplicáveis para oferecer soluções aderentes;</li><li>Manter o CRM atualizado, acompanhando o pipeline de vendas e os indicadores comerciais (KPIs);</li><li>Trabalhar em conjunto com as equipes de Engenharia, Projetos e demais áreas para garantir a melhor solução ao cliente;</li><li>Representar a Hartbau em reuniões, visitas técnicas, feiras e eventos do setor, quando necessário.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino superior completo em Administração, Gestão Comercial, Engenharia ou áreas correlatas;</li><li>Experiência com vendas consultivas e negociação de soluções B2B;</li><li>Vivência na condução de negociações e fechamento de vendas complexas;</li><li>Conhecimento em CRM e gestão de pipeline comercial;</li><li>Pacote Office;</li><li>Excelente comunicação verbal e escrita.</li>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/conectandotalentoshb/14/consultor-de-vendas-es]]></applyUrl>
     <companyId><![CDATA[1]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
+    <city><![CDATA[Vitória]]></city>
+    <state><![CDATA[Espírito Santo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -14425,8 +14463,8 @@ Identificar oportunidades de melhoria em indicadores, análises e processos de d
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um <strong>Consultor de Vendas</strong> para integrar nosso time Comercial, para atuar no <b>Rio de Janeiro e regiões</b> na condução de negociações estratégicas de soluções técnicas e industriais da Hartbau. Este profissional será responsável por compreender as necessidades dos clientes, desenvolver propostas consultivas e conduzir todo o ciclo comercial até o fechamento da venda.Buscamos alguém com perfil proativo, habilidade para construir relacionamentos de longo prazo e experiência na negociação de vendas complexas, contribuindo diretamente para o crescimento dos negócios e fortalecimento da marca Hartbau no mercado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Conduzir o ciclo completo de vendas, desde o primeiro contato qualificado até o fechamento do negócio;</li><li>Realizar negociações consultivas, identificando necessidades e propondo soluções técnicas aderentes ao cenário de cada cliente;</li><li>Gerenciar oportunidades comerciais oriundas do SDR, marketing e prospecção própria;</li><li>Elaborar e apresentar propostas comerciais, conduzindo negociações estratégicas com diferentes níveis de decisão;</li><li>Desenvolver relacionamento com clientes e parceiros, promovendo fidelização e geração de novas oportunidades;</li><li>Atuar em vendas B2B de soluções industriais, envolvendo negociações de maior complexidade e valor agregado;</li><li>Manter o CRM atualizado, acompanhando o pipeline de vendas e os indicadores comerciais (KPIs);</li><li>Trabalhar em conjunto com as equipes de Engenharia, Projetos e demais áreas para garantir a melhor solução ao cliente;</li><li>Representar a Hartbau em reuniões, visitas técnicas, feiras e eventos do setor, quando necessário.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino superior completo em Administração, Gestão Comercial, Engenharia ou áreas correlatas;</li><li>Experiência com vendas consultivas e negociação de soluções B2B;</li><li>Vivência na condução de negociações e fechamento de vendas complexas;</li><li>Conhecimento em CRM e gestão de pipeline comercial;</li><li>Pacote Office;</li><li>Excelente comunicação verbal e escrita.</li>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/conectandotalentoshb/13/consultor-de-vendas-rj]]></applyUrl>
     <companyId><![CDATA[1]]></companyId>
-    <city><![CDATA[Joinville]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -30000,10 +30038,10 @@ Buscamos profissionais comprometidos, atentos aos detalhes e que gostem de traba
   <job>
     <partnerJobId><![CDATA[b5d0cb6d-b8f9-47aa-8250-5ddb14f235b1]]></partnerJobId>
     <company><![CDATA[Ceneged]]></company>
-    <title><![CDATA[VAGAS - PCD]]></title>
+    <title><![CDATA[VAGAS - PCD - BANCO DE TALENTOS]]></title>
     <posterEmail><![CDATA[luishenrique@ceneged.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><b>VAGAS DESTINADAS A PESSOA COM DEFICIÊNCIA</b><br /><b>Regime de trabalho - Presencial </b><br /><b><br /></b><br />Vaga (s)destinada (s):  A todos os estados em que atuamos.<br /><br /><br />Estamos em busca de profissionais comprometidos e proativos que desejam se desenvolver. <br />Se você possui interesse em aprender e crescer em um ambiente dinâmico e desafiador, essa pode ser a oportunidade perfeita para você!<br />Onde atuamos?  <br /><ul><li>Roraima </li><li> Pará </li><li> Maranhão  </li><li> Piauí </li><li> Ceará</li><li> Rio Grande Norte</li><li> Pernambuco </li><li> São Paulo </li><li> Rio de Janeiro </li><li> Mato Grosso do Sul</li></ul><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Será informado de acordo com a vaga disponibilizada.<br /><br /><b>Requisitos e qualificações</b><br /><br />Será informado durante o processo seletivo.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/77/vagas-pcd]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/77/vagas-pcd-banco-de-talentos]]></applyUrl>
     <companyId><![CDATA[9250455]]></companyId>
     <city><![CDATA[Itaitinga]]></city>
     <state><![CDATA[Ceará]]></state>
@@ -34806,25 +34844,6 @@ Autoescolas;</li><br /> - Apresentação e demonstração de produtos ou serviç
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/2585/recepcionista-comercial]]></applyUrl>
     <companyId><![CDATA[2073549]]></companyId>
     <city><![CDATA[Marabá]]></city>
-    <state><![CDATA[Pará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[30f5535b-deec-4c74-ab1f-b6a1ec5814e7]]></partnerJobId>
-    <company><![CDATA[Grupo Canopus]]></company>
-    <title><![CDATA[AUXILIAR ADMINISTRATIVO - APRENDIZ]]></title>
-    <posterEmail><![CDATA[alessandra.barros@grupocanopus.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar nas atividades administrativas;<br />Controlar Malotes: Enviar, receber e protocolar correspondências e documentos internos;<br />Realizar atendimento telefônico;<br />Realizar atendimento na recepção de vendas e pós-vendas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar nas atividades administrativas;<br />Controlar Malotes: Enviar, receber e protocolar correspondências e documentos internos;<br />Realizar atendimento telefônico;<br />Realizar atendimento na recepção de vendas e pós-vendas.<br /><br /><b>Requisitos e qualificações</b><br /><br />Estar cursando o ensino médio ou já ter concluído;<br /> Disponibilidade: 4 horas diárias livres para o trabalho e curso teórico período vespertino.<br />Será um diferencial ter conhecimento no pacote office.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/3122/auxiliar-administrativo-aprendiz]]></applyUrl>
-    <companyId><![CDATA[2073549]]></companyId>
-    <city><![CDATA[Redenção]]></city>
     <state><![CDATA[Pará]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -40706,25 +40725,6 @@ crescimento, venha fazer parte do nosso time!<br /><br /><b>Responsabilidades e 
     <posterEmail><![CDATA[livia.martins@deltasucroenergia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciamento de agendas, reuniões, viagens e compromissos da diretoria.</li><li>Organização e controle de documentos, relatórios, atas e correspondências.</li><li>Atendimento e interface com clientes, parceiros e stakeholders internos e externos.</li><li>Coordenação de eventos corporativos, reuniões estratégicas e visitas institucionais.</li><li>Elaboração e acompanhamento de apresentações, relatórios gerenciais e indicadores.</li><li>Controle de prazos, demandas e fluxo de informações da diretoria.</li><li>Apoio na tomada de decisões por meio da organização e disponibilização de informações relevantes.</li><li>Garantia da confidencialidade de informações estratégicas e sensíveis da organização.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior em Secretariado Executivo, Administração, Gestão Empresarial ou áreas correlatas</li><li>Domínio do Pacote Microsoft Office (Excel, Word, PowerPoint e Outlook).</li><li>Conhecimento em gestão de agendas e organização de processos administrativos.</li><li>Residir em Uberaba, Igarapava, Delta ou Aramina</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1791/secretaria-executiva-diretoria]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Delta]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[f4f0933d-d337-42db-b0ae-062d37f1933d]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Motorista II - Irrigação]]></title>
-    <posterEmail><![CDATA[maria.batista@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Verificar as condições do veículo e realizar as inspeções de rotinas.</li><li>Seguir as normas de segurança e diretrizes da empresa.</li><li>Fornecer água para vivência agrícolas. </li><li>Limpeza e organização de vivências. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo.</li><li>CNH D ( definitiva).</li><li>Disponibilidade para trabalhar em regime de turno.</li><li>Residir em Delta, Igarapava ou Aramina.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1786/motorista-ii-irrigacao]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Delta]]></city>
     <state><![CDATA[Minas Gerais]]></state>
@@ -50649,6 +50649,25 @@ Qualidade, CQ, P&amp;D e Engenharia.<br />
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[23c1b980-c8e5-46af-a1ef-17142e86ff1d]]></partnerJobId>
+    <company><![CDATA[AMINO QUIMICA]]></company>
+    <title><![CDATA[ESTAGIO DE MARKETING]]></title>
+    <posterEmail><![CDATA[dp@amino.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade que possa impulsionar sua carreira e proporcionar um ambiente de aprendizado dinâmico? Temos uma posição empolgante que pode ser a chave para o seu desenvolvimento profissional! Nossa equipe valoriza a criatividade, a proatividade e a vontade de aprender. Ao se juntar a nós, você terá a chance de trabalhar ao lado de profissionais experientes, participar de projetos significativos e contribuir com suas ideias inovadoras. Este é o momento perfeito para adquirir experiência prática, desenvolver habilidades essenciais e ampliar sua rede de contatos. Se você está pronto(a) para abraçar novos desafios e crescer em um ambiente estimulante, não perca essa chance! Venha descobrir tudo o que podemos conquistar juntos. Estamos ansiosos para conhecer você e explorar essa jornada profissional!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar na execução de tarefas administrativas e operacionais.<br /> - Apoiar na elaboração de relatórios e documentos.<br /> - Realizar pesquisas e análises de dados conforme demanda.<br /> - Colaborar com a equipe em projetos e atividades específicas.<br /> - Contribuir para a organização de eventos ou reuniões.<br /> - Manter atualizados os arquivos e sistemas de informação.<br /> - Atendimento a clientes ou fornecedores, quando necessário.<br /> - Participar ativamente de treinamentos e desenvolvimentos oferecidos pela empresa.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Estar matriculado em curso superior relacionado à área de atuação.<br /> - Conhecimento básico das ferramentas de informática e pacotes office.<br /> - Boa comunicação verbal e escrita.<br /> - Habilidade para trabalhar em equipe.<br /> - Capacidade de organização e proatividade.<br /> - Disponibilidade para estagiar em horário compatível com a carga horária do curso.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/aminoquimica/54/estagio-de-marketing]]></applyUrl>
+    <companyId><![CDATA[2293229]]></companyId>
+    <city><![CDATA[Diadema]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[7cb3ed9d-917c-4707-8f7e-f9fb7c3d6b51]]></partnerJobId>
     <company><![CDATA[AMINO QUIMICA]]></company>
     <title><![CDATA[BANCO DE TALENTOS]]></title>
@@ -53499,6 +53518,25 @@ Procuramos um profissional proativo, colaborativo, comunicativo e atento aos det
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[745d58bc-5a37-465a-864b-e2e5d9aa25e8]]></partnerJobId>
+    <company><![CDATA[P. B. LOPES & CIA LTDA]]></company>
+    <title><![CDATA[Comprador]]></title>
+    <posterEmail><![CDATA[valeska.celestino@pblopes.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto(a) para dar um passo decisivo na sua carreira? Estamos em busca de profissionais que se destacam pela habilidade de formar parcerias estratégicas e que possuem uma visão aguçada para o mercado. Se você é alguém que busca constantemente a excelência e deseja fazer parte de um time inovador e dinâmico, esta é a oportunidade ideal para você. Ao integrar nossa equipe, você terá a chance de impactar diretamente os resultados da empresa, colaborar com profissionais talentosos e crescer em um ambiente que valoriza suas ideias e iniciativas. Venha fazer parte de uma organização que reconhece e celebra a diversidade de experiências e perspectivas. Estamos prontos para receber seu talento e construir, juntos, um futuro promissor. Não perca essa chance de transformar sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><br /><ul><li>Conduzir processos de compras ponta a ponta, desde o recebimento da demanda até a formalização do pedido, contratação ou renovação.</li><li>Realizar cotações, concorrências, equalizações técnicas e comerciais, negociação com fornecedores e recomendação da melhor alternativa de fornecimento.</li><li>Negociar preços, prazos, condições de pagamento, SLA, reajustes, escopo de fornecimento e demais condições comerciais e contratuais.</li><li>Conduzir negociações contratuais de média complexidade, em alinhamento com áreas demandantes, jurídico, financeiro e demais áreas envolvidas, quando aplicável.</li><li>Fechar compras com senso de urgência e capacidade de decisão, mesmo em cenários de informação parcial, buscando reduzir impacto à operação e mantendo o devido nível de diligência.</li><li>Apoiar o desenvolvimento, manutenção e ampliação da base de fornecedores, promovendo competitividade, continuidade de fornecimento e mitigação de riscos.</li><li>Analisar histórico de compras, comportamento de consumo, spend, variações de preço e tendências de mercado para apoiar decisões de compra e identificar oportunidades de melhoria.</li><li>Garantir que os processos de compras estejam aderentes às políticas, procedimentos, alçadas e diretrizes de governança da companhia.</li><li>Contribuir para a padronização do processo de compras, melhoria contínua, disciplina operacional e fortalecimento da governança da área.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />FormaçãoAdministração, economia, engenharias ou correlatas.Requisitos:Senso de urgência;Capacidade de negociação ;Boa comunicação e influência;Organização e priorização ;Visão analítica;Agilidade;Capacidade de atuar com informação incompleta sem perder criticidade;Foco em solução e atendimento ao cliente interno.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspblopes/19/comprador]]></applyUrl>
+    <companyId><![CDATA[2377800]]></companyId>
+    <city><![CDATA[Londrina]]></city>
+    <state><![CDATA[Paraná]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4d800c9f-6d41-4362-b29f-611419f68063]]></partnerJobId>
     <company><![CDATA[Nutrili Alimentos]]></company>
     <title><![CDATA[Conferente de Almoxarifado]]></title>
@@ -54961,6 +54999,69 @@ correlatas.</li><li>Experiência anterior na função ou similar.</li><li>Inglê
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brasilport/306/assistente-de-operacoes-i-niteroi-ponta-d-areia-tank-clean]]></applyUrl>
     <companyId><![CDATA[76859825]]></companyId>
     <city><![CDATA[São Gonçalo]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[2bd05065-f375-4a90-be1d-fe304c851ede]]></partnerJobId>
+    <company><![CDATA[BPORT]]></company>
+    <title><![CDATA[Assistente de Compras]]></title>
+    <posterEmail><![CDATA[natalya.morais@chouest.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O profissional será responsável por prestar suporte às atividades da área de Suprimentos, atuando nos processos de aquisição de materiais e serviços, desde o recebimento das requisições até o acompanhamento da entrega e conclusão das compras. Realizará cotações, negociações com fornecedores, emissão de pedidos de compra, acompanhamento logístico, controle documental e apoio na qualificação de fornecedores. Também contribuirá para a elaboração de relatórios e indicadores da área, manterá relacionamento com fornecedores e clientes internos e apoiará auditorias e visitas técnicas, assegurando o cumprimento das políticas, normas e procedimentos da empresa, com foco em qualidade, prazo, custo, ética e compliance.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prestar
+     assistência na realização de compras de materiais e serviços da empresa,
+     por meio de requisição emitida através do sistema da empresa, executando
+     processo de compras, divulgando, cotando, negociando e finalizando o
+     pedido junto ao fornecedor, cumprindo o prazo estipulado pelo solicitante;</li>
+ <li>Prestar
+     assistência na qualificação de fornecedores, especificando todos os dados,
+     garantindo o lançamento de cotações e a finalização dos processos de
+     compras;</li>
+ <li>Negociar
+     com os fornecedores, visando o fechamento de compras dentro das melhores
+     condições de preço, qualidade e prazo de entrega;</li>
+ <li>Emitir
+     os pedidos de compra e encaminhá-los aos fornecedores, acompanhando todo o
+     processo de entrega e assegurando o cumprimento de todas as condições
+     previamente negociadas até a conclusão;</li>
+ <li>Acompanhar
+     o fluxo de entrega das compras efetuadas, junto ao recebimento e
+     almoxarifado, através de sistema manual ou do sistema integrado,
+     garantindo a entrega dentro do prazo estipulado;</li>
+ <li>Realizar
+     a solicitação de logística de materiais;</li>
+ <li>Acompanhar
+     o processo de devolução de mercadorias entregues em desacordo com o
+     pedido;</li>
+ <li>Manter
+     relacionamento com fornecedores e clientes internos, prestando suporte às
+     demandas da área e contribuindo para a agilidade, eficiência e qualidade
+     dos processos de Suprimentos;</li>
+ <li>Realizar
+     o controle e a organização da documentação relacionada aos processos de
+     compras, assegurando a integridade, a disponibilidade e a rastreabilidade
+     das informações;</li>
+ <li>Prestar
+     suporte na elaboração de relatórios gerenciais e no acompanhamento de
+     indicadores de desempenho (KPIs) da área de Suprimentos, contribuindo para
+     a análise dos resultados e a melhoria contínua dos processos;</li>
+ <li>Participar,
+     quando necessário, de visitas técnicas a fornecedores, auditorias e
+     reuniões de alinhamento, oferecendo suporte às atividades operacionais e
+     administrativas da área;</li>
+ <li>Zelar
+     pelo cumprimento das políticas, procedimentos e normas internas da
+     empresa, atuando em conformidade com os princípios de ética,
+     transparência, integridade e compliance nos processos de compras.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando Ensino Superior em Administração, Logística, Engenharia de Produção, Ciências Contábeis ou áreas correlatas;</li><li>Habilidade em Pacote Office;</li><li>Conhecimento básico em sistemas ERP;</li><li>Noções de processos de compras e suprimentos;</li><li>Noções básicas de processos financeiros, fiscais e administrativos relacionados às rotinas de compras;</li><li>Boa comunicação, organização e atenção aos detalhes.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brasilport/354/assistente-de-compras]]></applyUrl>
+    <companyId><![CDATA[76859825]]></companyId>
+    <city><![CDATA[São João da Barra]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -57472,7 +57573,7 @@ Assegurar a correta recepção, armazenagem e expedição de peças e acessório
     <company><![CDATA[Colégio Paraíso]]></company>
     <title><![CDATA[Professor(a) de Ballet Clássico]]></title>
     <posterEmail><![CDATA[andrine.oliveira@cparaiso.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional proativo e comprometido para atuar na área de Suporte de TI. O candidato será responsável por garantir o bom funcionamento dos equipamentos e sistemas utilizados no ambiente educacional, prestando suporte técnico aos usuários e contribuindo para a continuidade das atividades pedagógicas e administrativas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Formação em Ballet Clássico por escola, academia ou instituição reconhecida.<br />Capacidade de planejar e executar aulas adequadas para:<ul><li>Baby Class;</li><li>Pré-Ballet;</li><li>Ballet Infantil;</li><li>Ballet Juvenil;</li><li>Ballet Intermediário;</li><li>Ballet Avançado.</li></ul>Conhecimento de técnicas básicas de preparação corporal, alongamento e consciência corporal.<br />Disponibilidade para ensaios, apresentações, festivais e eventos institucionais.<br />Boa comunicação com alunos, famílias e equipe pedagógica.<br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência na montagem de espetáculos temáticos.Experiência comprovada no ensino de Ballet para crianças a partir do Baby Class (3 a 5 anos).Conhecimento do desenvolvimento motor, cognitivo e socioemocional das diferentes faixas etárias<br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional proativo e comprometido para atuar na área de dança destinada para crianças. O candidato será responsável por planejar e ministrar aulas de ballet clássico para crianças, promovendo o desenvolvimento motor e artístico dos estudantes. Também deverá contribuir para um ambiente que estimule a interação e criatividade, alinhando suas atividades à proposta pedagógica da instituição e incentivando o desenvolvimento integral dos alunos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Formação em Ballet Clássico por escola, academia ou instituição reconhecida.<br />Capacidade de planejar e executar aulas adequadas para:<ul><li>Baby Class;</li><li>Pré-Ballet;</li><li>Ballet Infantil;</li><li>Ballet Juvenil;</li><li>Ballet Intermediário;</li><li>Ballet Avançado.</li></ul>Conhecimento de técnicas básicas de preparação corporal, alongamento e consciência corporal.<br />Disponibilidade para ensaios, apresentações, festivais e eventos institucionais.<br />Boa comunicação com alunos, famílias e equipe pedagógica.<br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência na montagem de espetáculos temáticos.Experiência comprovada no ensino de Ballet para crianças a partir do Baby Class (3 a 5 anos).Conhecimento do desenvolvimento motor, cognitivo e socioemocional das diferentes faixas etárias<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagascolegioparaiso/48/professor-a-de-ballet-classico]]></applyUrl>
     <companyId><![CDATA[35627156]]></companyId>
     <city><![CDATA[Juazeiro do Norte]]></city>
@@ -80723,25 +80824,6 @@ Vivência em gestão de equipes e desenvolvimento de pessoas.</li><li>Domínio d
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[43006ba3-7c8f-412b-b056-f10545eb2ba5]]></partnerJobId>
-    <company><![CDATA[Real Distribuidora e Logística Ltda]]></company>
-    <title><![CDATA[Supervisor de Transporte]]></title>
-    <posterEmail><![CDATA[selecao@realdec.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de um ambiente colaborativo, onde o aprendizado e o crescimento são valorizados, esta é a sua chance.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Supervisiona pessoas e processos sob sua responsabilidade, acompanha acertos de cargas, analisa atrasos de rotas, programa reentregas e estrutura relatórios de metas.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasrealdistibuidora/26/supervisor-de-transporte]]></applyUrl>
-    <companyId><![CDATA[33236465]]></companyId>
-    <city><![CDATA[Aparecida de Goiânia]]></city>
-    <state><![CDATA[Goiás]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[f3b6b0e7-33d0-4311-876e-4b72afad4ed0]]></partnerJobId>
     <company><![CDATA[Real Distribuidora e Logística Ltda]]></company>
     <title><![CDATA[Auxiliar de estoque]]></title>
@@ -83756,44 +83838,6 @@ contribuir para o nosso sucesso coletivo.<br /><br /><b>Responsabilidades e atri
     <companyId><![CDATA[16255638]]></companyId>
     <city><![CDATA[Salvador]]></city>
     <state><![CDATA[Bahia]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[f037763c-68b7-450d-84e1-e19d2420bbc5]]></partnerJobId>
-    <company><![CDATA[E-inscrição Tecnologia e Inovação]]></company>
-    <title><![CDATA[Executivo Comercial | Fortaleza]]></title>
-    <posterEmail><![CDATA[anthony.barbosa@e-inscricao.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos procurando uma pessoa Vendedor Outbound (Field Sales) - Pleno/Sênior -  Fortaleza- para integrar nosso time e atuar diretamente com o nosso público-alvo: igrejas, ministérios, organizações cristãs e produtores de eventos cristãos. Buscamos alguém com visão estratégica, sensibilidade no relacionamento e desejo genuíno de contribuir com o crescimento de projetos que impactam vidas. Se você gosta de construir conexões verdadeiras, entende a importância do trabalho no contexto cristão e deseja atuar de forma consultiva, esta oportunidade pode ser para você.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Buscamos um(a) profissional com perfil pleno a sênior, preparado(a) para atuar de forma externa, com alto grau de autonomia, disciplina e foco em resultados. A posição exige maturidade profissional para gestão da própria agenda, cumprimento de metas e excelência nas entregas.<br /><br />Procuramos alguém com forte habilidade relacional e comercial, capaz de transitar com naturalidade em igrejas, abordar pastores e líderes com segurança, construir relacionamentos de confiança e gerar oportunidades mesmo em interações não previamente agendadas.<br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />• Experiência comprovada em <strong>field sales (vendas presenciais)</strong>, com atuação em campo e gestão ativa de carteira e oportunidades;<br />• Vivência no uso de <strong>CRM robusto</strong>, como HubSpot (ou ferramentas equivalentes), para organização de pipeline, registro de interações e acompanhamento de resultados;<br />• <strong>Excelente comunicação interpessoal</strong>, com capacidade de adaptação a diferentes perfis de interlocutores;<br />• Perfil fortemente orientado à <strong>construção e manutenção de relacionamentos de longo prazo</strong>;]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/einscricao/29/executivo-comercial-fortaleza]]></applyUrl>
-    <companyId><![CDATA[16255638]]></companyId>
-    <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[Ceará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[bbc171f3-4a6a-4513-a272-bfc4446cfd04]]></partnerJobId>
-    <company><![CDATA[E-inscrição Tecnologia e Inovação]]></company>
-    <title><![CDATA[Executivo comercial | Vitória]]></title>
-    <posterEmail><![CDATA[anthony.barbosa@e-inscricao.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos procurando uma pessoa Vendedor Outbound (Field Sales) - Pleno/Sênior -  Vitória para integrar nosso time e atuar diretamente com o nosso público-alvo: igrejas, ministérios, organizações cristãs e produtores de eventos cristãos. Buscamos alguém com visão estratégica, sensibilidade no relacionamento e desejo genuíno de contribuir com o crescimento de projetos que impactam vidas. Se você gosta de construir conexões verdadeiras, entende a importância do trabalho no contexto cristão e deseja atuar de forma consultiva, esta oportunidade pode ser para você.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Buscamos um(a) profissional com perfil pleno a sênior, preparado(a) para atuar de forma externa, com alto grau de autonomia, disciplina e foco em resultados. A posição exige maturidade profissional para gestão da própria agenda, cumprimento de metas e excelência nas entregas.<br /><br />Procuramos alguém com forte habilidade relacional e comercial, capaz de transitar com naturalidade em igrejas, abordar pastores e líderes com segurança, construir relacionamentos de confiança e gerar oportunidades mesmo em interações não previamente agendadas.<br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />• Experiência comprovada em <strong>field sales (vendas presenciais)</strong>, com atuação em campo e gestão ativa de carteira e oportunidades;<br />• Vivência no uso de <strong>CRM robusto</strong>, como HubSpot (ou ferramentas equivalentes), para organização de pipeline, registro de interações e acompanhamento de resultados;<br />• <strong>Excelente comunicação interpessoal</strong>, com capacidade de adaptação a diferentes perfis de interlocutores;<br />• Perfil fortemente orientado à <strong>construção e manutenção de relacionamentos de longo prazo</strong>;]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/einscricao/31/executivo-comercial-vitoria]]></applyUrl>
-    <companyId><![CDATA[16255638]]></companyId>
-    <city><![CDATA[Vitória]]></city>
-    <state><![CDATA[Espírito Santo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -92818,6 +92862,25 @@ Colaborar com times técnicos e documentar soluções.</li></ul><br /><br /><b>R
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[0218d8f2-ff77-4df8-af0e-d307878e2cea]]></partnerJobId>
+    <company><![CDATA[VMI Security]]></company>
+    <title><![CDATA[Inspetor de Imagem - Multilog Foz do Iguaçu]]></title>
+    <posterEmail><![CDATA[rizia.paula@vmis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A VMI está em busca de profissionais comprometidos com segurança, qualidade e excelência operacional para atuar como <strong>Inspetor de Imagem I</strong>. O profissional será responsável por operar equipamentos de inspeção por Raios X, realizar análises de imagens e garantir a correta execução dos procedimentos operacionais e de radioproteção, contribuindo para a segurança das operações e satisfação dos clientes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Operar equipamentos de inspeção (scanner) conforme procedimentos e treinamentos estabelecidos;</li><li>Monitorar e analisar imagens geradas durante as inspeções;</li><li>Garantir o correto funcionamento dos equipamentos antes do início das operações;</li><li>Orientar e apoiar o fluxo operacional durante os processos de inspeção;</li><li>Controlar e monitorar o cumprimento dos procedimentos de radioproteção;</li><li>Realizar inspeções visuais e verificações de segurança nas áreas operacionais;</li><li>Registrar e comunicar ocorrências e desvios operacionais;</li><li>Apoiar treinamentos e integração de novos colaboradores quando solicitado;</li><li>Zelar pela organização, conservação e segurança dos equipamentos e instalações;</li><li>Cumprir as normas de qualidade, segurança do trabalho, radioproteção e procedimentos internos</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo;</li><li>Conhecimento básico em informática e Pacote Office;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasvmis/149/inspetor-de-imagem-multilog-foz-do-iguacu]]></applyUrl>
+    <companyId><![CDATA[2693346]]></companyId>
+    <city><![CDATA[Lagoa Santa]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[358abf7b-a133-49b0-ad01-40c511699b6f]]></partnerJobId>
     <company><![CDATA[VMI Security]]></company>
     <title><![CDATA[Analista de Processos de Manufatura II]]></title>
@@ -94179,6 +94242,25 @@ learning e suas aplicações práticas;]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b193df69-123f-40fc-9b60-9f30ac4ebb6a]]></partnerJobId>
+    <company><![CDATA[Granarolo Brasil]]></company>
+    <title><![CDATA[Analista de Marketing Pleno]]></title>
+    <posterEmail><![CDATA[bruno.lopes@granarolo.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Analista de marketing  <br /> <br />Perfil: <br /><ul><li>Ser um bom comunicador (oral e escrito) e capacidade de trabalhar em equipe; </li></ul><br /><ul><li>Ter pensamento ágil para resolução de problemas e geração de ideias; </li></ul><br /><ul><li>Proatividade, comprometimento e foco em resultados; </li></ul><br /><ul><li>Saber trabalhar com prazos curtos e altas demandas </li></ul><br /> <br /><br /><br /> <br /> <br /><br /><br /><br /> <br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atividades que irá realizar: <br /><ul><li>Realizar estudo de mercado, benchmarking, tendência e comportamento do consumidor com o objetivo de identificar as oportunidades e ameaças; </li></ul><br /><br /><ul><li>Elaborar estratégias de marketing digital e mídias sociais com foco em branding visando fortalecimento da marca; </li></ul><br /><ul><li>Elaborar estratégias de lançamentos de produtos com avaliação constante de desempenho; </li></ul><br /><ul><li>Elaborar cronograma de publicações para os diferentes meios e materiais de comunicação (rede social, blog, email mkt etc); </li></ul><br /><ul><li>Desenvolver campanhas para cada etapa do funil de vendas utilizando estratégias de inbound marketing, gerando conteúdo de valor para as diferentes plataformas e para os diferentes estágios da jornada dos consumidores; </li></ul><br /><ul><li>Elaborar materiais e criar ações para CRM com objetivo de estreitar o relacionamento com clientes e aumento de vendas; </li></ul><br /><ul><li>Analisar dados e métricas de campanhas de marketing para avaliar o desempenho e fazer recomendações para melhorias; </li></ul><br /><ul><li>Acompanhar e coordenar as entregas das agências, influenciadores e parceiros; </li></ul><br /><ul><li>Elaborar relatórios e apresentações para comunicar resultados e recomendações para a equipe de liderança; </li></ul><br /><ul><li>Realizar verificação mensal em todos os sites e redes sociais da empresa; </li></ul><br /><ul><li>Apoio na realização de feiras e eventos (internos ou externos)</li></ul><br /> <br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Qualificações: <br /><ul><li>Profissional com pelo menos 3 anos de experiência como analista de marketing, preferencialmente de empresas B2B; </li></ul><br /><ul><li>Conhecimento em técnicas de precificação e posicionamento de produtos no PDV; </li></ul><br /><ul><li>Experiência com ferramentas de análise de dados; </li></ul><br /><ul><li>Experiência com monitoramento de desempenho de campanhas e identificação de insights para otimização; </li></ul><br /><ul><li>Experiência com gestão de redes sociais para agendamento de posts, monitoramento de engajamento e análise de métricas; </li></ul><br /><ul><li>Conhecimento em CRM e plataformas de automação de marketing como RD Station para criar fluxos de nutrição de leads e campanhas de e-mail marketing; </li></ul><br /><ul><li>Desejável conhecimento em SEO e tráfego pago. </li></ul><br /> <br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasgranarolobrasil/6/analista-de-marketing-pleno]]></applyUrl>
+    <companyId><![CDATA[2883214]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[623bf083-df94-41d2-b8c4-df5ccd3b0db0]]></partnerJobId>
