@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 15 Jul 2026 14:22:25 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 15:20:28 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3760]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3758]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerJobId>
     <company><![CDATA[Credi Shop]]></company>
@@ -3545,6 +3545,25 @@ geração de novas demandas.  <br /><br /><br /><b>Requisitos e qualificaçõe
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10963/tech-engenharia-de-software-pleno-net-c]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São José dos Campos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[164a525d-ebca-4dea-8cec-a63e51886764]]></partnerJobId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Cloud] Especialista de Desenvolvimento Cloud | AIOps]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Procuramos uma pessoa Especialista de Desenvolvimento Cloud focado em Observabilidade com IA (AIOps) e ferramentas de monitoramento enterprise. Você será responsável por projetar, implementar e evoluir soluções de observabilidade end-to-end em ambientes de nuvem pública, garantindo alta confiabilidade, detecção proativa de anomalias e redução de MTTR.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Projetar e implementar frameworks de observabilidade (métricas, logs, tracing distribuído) usando OpenTelemetry, Prometheus, Grafana, CloudWatch, X-Ray, etc.</li><li>Desenvolver soluções de AIOps: detecção de anomalias, correlação inteligente de eventos, previsão de incidentes e automação de respostas com IA/ML.</li><li>Criar e manter dashboards, alertas inteligentes e visualizações para monitoramento em larga escala, reduzindo ruído de alertas e melhorando SLOs/SLIs.</li><li>Desenvolver em Python scripts, APIs e ferramentas de automação para instrumentação, processamento de telemetria e integração com pipelines DevOps.</li><li>Atuar em ambientes K8s serverless, microsserviços e multi-account cloud (AWS/Azure/GCP).</li><li>Colaborar com times de SRE, Platform Engineering e Desenvolvimento para embeddar observabilidade no ciclo de vida das aplicações.</li><li>Participar de on-call, investigação de incidentes complexos e iniciativas de confiabilidade (chaos engineering, post-mortems).</li><li>Definir padrões, governança de telemetria, custo de observabilidade e boas práticas para o time.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida em Cloud/DevOps, com pelo menos 3 anos em observabilidade/monitoring em ambientes enterprise de grande porte.</li><li>Cloud: Proficiência em AWS (CloudWatch, X-Ray, ADOT, Lambda, EKS), Azure ou GCP.</li><li>Linguagem e Ferramentas: Avançado em Python + experiência prática com OpenTelemetry, Prometheus/Grafana, Dynatrace, Datadog, New Relic, Splunk ou Elastic.</li><li>DevOps/SRE: Terraform, Kubernetes, Docker, CI/CD (GitHub Actions/GitLab), IaC e práticas SRE.</li><li>AIOps: Experiência com aplicação de IA/ML em monitoramento (anomaly detection, intelligent alerting, root cause analysis).</li><li>Formação superior completa em TI ou áreas correlatas.</li><li>Inglês técnico (intermediário/avançado).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10984/cloud-especialista-de-desenvolvimento-cloud-aiops]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -7562,22 +7581,18 @@ para otimizar estratégias;<br /><br /><b>Responsabilidades e atribuições</b><
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[5050f0af-6b95-44f1-93a9-72fd564a7e87]]></partnerJobId>
+    <partnerJobId><![CDATA[d90c8b9f-2a67-49cd-8e98-730048a03154]]></partnerJobId>
     <company><![CDATA[TOTVS NORDESTE]]></company>
-    <title><![CDATA[Estágio em Marketing (Foco em Eventos)]]></title>
-    <posterEmail><![CDATA[taynah.mota@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Neste <b>estágio com foco em eventos</b>, sua missão será apoiar a equipe de Marketing em toda a jornada de produção das nossas ações corporativas. Você participará ativamente desde o planejamento inicial, realizando cotações com fornecedores, organização de materiais e controle financeiro de planilhas, até a montagem logística e o suporte presencial no dia dos eventos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<ul><li>Realizar cotações e apoiar na negociação com fornecedores, consolidando orçamentos para análise e aprovação;</li><li>Apoiar no controle financeiro dos eventos, incluindo solicitação de cobranças, acompanhamento de pagamentos e organização de notas fiscais;</li><li>Apoiar no planejamento logístico e operacional dos eventos da marca;</li><li>Realizar contato com fornecedores e parceiros para alinhamento de demandas;</li><li>Organizar materiais de apoio, brindes e estrutura necessária para garantir uma boa experiência ao público;</li><li>Organizar e arquivar documentos financeiros e contratos relacionados aos eventos;</li><li>Acompanhar a execução dos eventos e dar suporte à equipe durante as ações;</li><li>Auxiliar na resolução de imprevistos em tempo real com agilidade e proatividade;</li><li>Apoiar no controle de cronogramas e organização das entregas;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />O QUE ESPERAMOS DE VOCÊ:<br />Como esta é uma vaga de estágio, só podemos seguir com candidatos(as) que estejam atualmente matriculados em um curso de ensino superior (graduação, pós-graduação, MBA, especialização, mestrado ou doutorado)<br /><ul><li>Ensino superior cursando em Eventos, Administração, Marketing ou áreas correlatas;</li><li>Organização, atenção a detalhes e capacidade de gerenciar múltiplas demandas simultaneamente;</li><li>Boa comunicação interpessoal;</li><li>Proatividade e disposição para atuar em campo durante os eventos;</li><li>Afinidade com ambientes dinâmicos e alta capacidade de adaptação.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nordeste/121/estagio-em-marketing-foco-em-eventos]]></applyUrl>
+    <title><![CDATA[Analista II Protheus Backoffice (Compras | Estoque | Faturamento | Financeiro)]]></title>
+    <posterEmail><![CDATA[allanis.souza@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar na implantação e suporte de soluções Protheus nos módulos de backoffice, garantindo<br />aderência de processos, qualidade na entrega e bom relacionamento com o cliente.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />● Implantar, parametrizar e dar suporte aos módulos de Compras, Estoque, Faturamento e<br />Financeiro do Protheus<br />● Levantar e mapear processos do cliente, propondo soluções aderentes ao sistema<br />● Atuar em infraestrutura Protheus (ambiente, TOTVS Application Server, banco de dados)<br />● Conduzir reuniões e treinamentos com usuários-chave<br />● Identificar riscos e escalar quando necessário<br />● Viajar para atendimento em campo quando a operação exigir<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />● Vivência comprovada em implantação Protheus (não apenas suporte pontual)<br />● Domínio no backoffice (Compras, Estoque, Faturamento, Financeiro)<br />● Conhecimento de infraestrutura Protheus<br />● Boa comunicação, proatividade e capacidade de administrar conflitos com o cliente<br />● Disponibilidade para viagem<br />● Formação superior (desejável) ou técnico<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nordeste/123/analista-ii-protheus-backoffice-compras-estoque-faturamento-financeiro]]></applyUrl>
     <companyId><![CDATA[93813687]]></companyId>
     <city><![CDATA[Fortaleza]]></city>
     <state><![CDATA[Ceará]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
-        <highEnd>
-          <amount><![CDATA[1507.17]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -7651,6 +7666,25 @@ para otimizar estratégias;<br /><br /><b>Responsabilidades e atribuições</b><
     <companyId><![CDATA[93813687]]></companyId>
     <city><![CDATA[Teresina]]></city>
     <state><![CDATA[Piauí]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[09519017-8942-4d87-94a6-49010527ac65]]></partnerJobId>
+    <company><![CDATA[TOTVS NORDESTE]]></company>
+    <title><![CDATA[Assistente de Operações e Agendamento]]></title>
+    <posterEmail><![CDATA[allanis.souza@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Garantir o melhor aproveitamento do banco de horas contratado pelos clientes, organizando a<br />agenda dos analistas e atuando de forma ativa junto aos clientes para viabilizar agendamentos.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />● Organizar e otimizar a agenda dos analistas técnicos, evitando ociosidade;<br />● Monitorar o consumo do banco de horas contratado por cada cliente;<br />● Fazer contato ativo (ligação, e-mail) com clientes para negociar e viabilizar agendamentos;<br />● Administrar conflitos e negociações com cliente de forma cordial e assertiva;<br />● Registrar e atualizar informações em sistemas internos (Zoho, PSA, Protheus);<br />● Apoiar a equipe com relatórios e apresentações de baixa/média complexidade;<br />● Usar Excel e ferramentas de IA (Claude, ChatGPT etc.) para agilizar análises e tarefas<br />repetitivas;<br />● Administrar parceiros para contratação de mão de obra, quando necessário.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />● Ensino superior cursando ou completo (qualquer área, com preferência para Administração<br />ou Gestão);<br />● Vivência mínima de 1 ano em rotinas administrativas, atendimento ao cliente ou controle de<br />agenda;<br />● Excel básico/intermediário;<br />● Boa comunicação verbal, perfil organizado e proativo;<br />● Facilidade e à vontade para ligar e negociar com cliente.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nordeste/124/assistente-de-operacoes-e-agendamento]]></applyUrl>
+    <companyId><![CDATA[93813687]]></companyId>
+    <city><![CDATA[Natal]]></city>
+    <state><![CDATA[Rio Grande do Norte]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -29131,6 +29165,25 @@ Executar demais atividades inerentes ao cargo<br /><br /><b>Requisitos e qualifi
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[112b0c6f-6206-40f3-a4b1-6c3e8ac142d9]]></partnerJobId>
+    <company><![CDATA[Ceneged]]></company>
+    <title><![CDATA[ELETRICISTA]]></title>
+    <posterEmail><![CDATA[ggcaruaru@ceneged.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Venha fazer parte da nossa equipe e fazer a diferença na área da elétrica! Estamos em busca de candidatos com habilidades técnicas e interesse em se desenvolver profissionalmente. Se você é proativo, dedicado e busca por desafios, essa é a sua oportunidade! Junte-se a nós e faça parte de um time que valoriza o trabalho em equipe e a busca por soluções inovadoras. Venha fazer parte do nosso time de eletricistas e crescer junto conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar corte, ligação e religação de energia elétrica.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo;</li><li>NR10 Básico;</li><li>NR10 Sep;</li><li>NR35;</li><li>Linhas e Redes;</li><li>Residir na cidade sinalizada;</li><li>CNH B.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/593/eletricista]]></applyUrl>
+    <companyId><![CDATA[9250455]]></companyId>
+    <city><![CDATA[Garanhuns]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[0b757097-7f0c-4daf-9548-e6fee88365e0]]></partnerJobId>
     <company><![CDATA[Ceneged]]></company>
     <title><![CDATA[AGENTE COMERCIAL]]></title>
@@ -38687,56 +38740,6 @@ Conhecimento básico do pacote Microsoft Office;</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[d944028c-db5f-4729-9d65-0470a0deda24]]></partnerJobId>
-    <company><![CDATA[Integral Agroindustrial]]></company>
-    <title><![CDATA[Aprendiz - Manutenção I Fortaleza/CE]]></title>
-    <posterEmail><![CDATA[nfe.ti@sladm.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <b>Aprendiz </b>que queira crescer com a gente!<br /><br />Se você é uma pessoa engajada e que tem como valores a <strong>competência, confiança, fé em Deus, humildade, criatividade e sinceridade</strong>, então a Integral Agroindustrial é o lugar certo para você!<br /><br />Se identificou? Então venha fazer parte do <strong>nosso time!</strong> <br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realização de requisições, organização e reposição de peças no estoque por meio do almoxarifado;</li><li>Preenchimento e atualização de planilhas de requisição;</li><li>Apoio no processo de compras, auxiliando na entrega de notas e pedidos ao setor responsável;</li><li>Lançamento de recibos e atualização de informações no sistema TopManager;</li><li>Suporte às rotinas administrativas do setor de manutenção, contribuindo para a organização dos processos e controle de materiais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ter entre 18 e 24 anos de idade;</li><li>Ensino médio completo; </li><li><b>Diferencial: </b>Técnico ou Superior em Andamento em Mecânica, Mecatrônica ou áreas afins.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemserintegral/579/aprendiz-manutencao-i-fortaleza-ce]]></applyUrl>
-    <companyId><![CDATA[18442355]]></companyId>
-    <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[Ceará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[913.87]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[7a9261f7-71a7-4f37-bef3-b535a1a1bb2c]]></partnerJobId>
-    <company><![CDATA[Integral Agroindustrial]]></company>
-    <title><![CDATA[Auxiliar de Produção - 06h às 15h segunda á sábado | Fortaleza/CE]]></title>
-    <posterEmail><![CDATA[nfe.ti@sladm.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <b>Auxiliar de Produção</b> que queira crescer com a gente!<br /><br />Se você é uma pessoa engajada e que tem como valores a <strong>competência, confiança, fé em Deus, humildade, criatividade e sinceridade</strong>, então a Integral Agroindustrial é o lugar certo para você!<br /><br />Se identificou? Então venha fazer parte do <strong>nosso time!</strong> <br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar fabricação de produtos industrializados;</li><li>Auxiliar no abastecimento de esteiras e maquinários;</li><li>Manter limpo e higienizado o setor de trabalho;</li><li>Atender as demais atividades correlacionadas ao setor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental;</li><li>Disponibilidade de horário.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemserintegral/542/auxiliar-de-producao-06h-as-15h-segunda-a-sabado-fortaleza-ce]]></applyUrl>
-    <companyId><![CDATA[18442355]]></companyId>
-    <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[Ceará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1635.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1635.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[f03d2942-452c-485e-a590-837832a45277]]></partnerJobId>
     <company><![CDATA[Integral Agroindustrial]]></company>
     <title><![CDATA[Motorista de Caminhão - Fortaleza/CE]]></title>
@@ -40789,25 +40792,6 @@ alta performance, esta vaga é para você! Vamos conversar? <br /><br /><b>Resp
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[9b318727-d508-4789-a18e-035777b8b024]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Jovem Aprendiz - Industrial]]></title>
-    <posterEmail><![CDATA[maria.batista@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><br /><br /><b>20 VAGAS ABERTAS</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhamento de aulas teóricas e atividade práticas na área industrial.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Idade de 18 a 23 anos;</li><li>Estar cursando ou ter concluído o Ensino Médio (necessário apresentar histórico escolar);</li><li>Apresentar potencial para cursar ou estar cursando área de exatas (engenharias, cursos técnicos, etc.);</li><li>Boas noções de português e matemática;</li><li>Residir em Conceição das Alagoas;</li><li>Disponibilidade total de horário para participação nas aulas teóricas e práticas;</li><li>Noções básicas de informática;</li><li>Curiosidade e interesse pelo aprendizado;</li><li>Proatividade e energia para atuar em ambiente dinâmico e acelerado.</li></ul><b><br /></b><br /><b>Período de Inscrições: 29/06 a 12/07/2026.</b><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1797/jovem-aprendiz-industrial]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Conceição das Alagoas]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[e4d3c101-3109-4b0d-b949-8983a01f9371]]></partnerJobId>
     <company><![CDATA[Delta Sucroenergia]]></company>
     <title><![CDATA[Auxiliar de Processo Agrícola]]></title>
@@ -41123,25 +41107,6 @@ interesse.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
     <posterEmail><![CDATA[maria.batista@deltasucroenergia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />•  Operar, monitorar e ajustar sistemas de irrigação agrícola (pivô central, carretel, aspersão e/ou gotejamento), garantindo eficiência hídrica e produtividade.<br />•  Realizar regulagens avançadas, testes operacionais e ajustes finos dos equipamentos de irrigação conforme recomendação técnica.<br />•  Identificar e corrigir falhas operacionais, vazamentos, entupimentos e desalinhamentos dos sistemas.<br />•  Executar manutenções básicas e apoiar manutenções corretivas e preventivas, atuando em conjunto com a equipe técnica.<br />•  Acompanhar indicadores de desempenho da irrigação (uniformidade, pressão, vazão, lâmina aplicada).<br />•  Orientar e apoiar operadores de níveis I e II, atuando como referência técnica no campo.<br />•  Zelar pela conservação dos equipamentos, ferramentas e infraestrutura de irrigação.<br />•  Cumprir rigorosamente as normas de segurança, meio ambiente e procedimentos internos da empresa.<br />•  Registrar informações operacionais, ocorrências e atividades realizadas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />•  Ensino fundamental completo.<br />•  Experiência sólida na operação de sistemas de irrigação agrícola.<br />•  Conhecimento prático em regulagem, funcionamento e manutenção básica de equipamentos de irrigação.<br />• Disponibilidade para trabalho em turnos e atendimento emergencial, quando necessário.<br />•  Residir em Delta, Igarapava ou Aramina. <br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1811/operador-de-maquinas-ii-irrigacao]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Delta]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6ed9d9e6-3032-4c7b-b6ba-5d5ff5253f31]]></partnerJobId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Jovem Aprendiz - Industrial]]></title>
-    <posterEmail><![CDATA[maria.batista@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>20 VAGAS ABERTAS </b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhamento de aulas teóricas e atividade práticas na área industrial.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Idade de 18 a 23 anos;</li><li>Estar cursando ou ter concluído o Ensino Médio (necessário apresentar histórico escolar);</li><li>Apresentar potencial para cursar ou estar cursando área de exatas (engenharias, cursos técnicos, etc.);</li><li>Boas noções de português e matemática;</li><li>Residir em Delta;</li><li>Disponibilidade total de horário para participação nas aulas teóricas e práticas;</li><li>Noções básicas de informática;</li><li>Curiosidade e interesse pelo aprendizado;</li><li>Proatividade e energia para atuar em ambiente dinâmico e acelerado.</li></ul><br /><br /><b>Período de inscrições: 29/06 a 12/07.</b><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1795/jovem-aprendiz-industrial]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Delta]]></city>
     <state><![CDATA[Minas Gerais]]></state>
@@ -45622,45 +45587,6 @@ Estamos em busca de um(a) <strong>Editor(a) de Texto</strong> para integrar noss
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[24fd6608-72d5-43d6-a5c9-835dda6075ce]]></partnerJobId>
-    <company><![CDATA[TV TEM]]></company>
-    <title><![CDATA[Controlador(a) de Programação]]></title>
-    <posterEmail><![CDATA[isabella.gomes@tvtem.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) profissional para atuar na área de
-  Exibição, responsável por acompanhar e controlar a programação da emissora em
-  tempo real, garantindo que todos os conteúdos sejam transmitidos conforme o
-  planejamento, com qualidade técnica e alinhamento às estratégias de
-  programação.<br />
-    <br />
-    Essa pessoa terá papel fundamental no monitoramento da grade, na
-  organização dos breaks de exibição e na identificação de possíveis ajustes
-  durante a transmissão, contribuindo para a eficiência operacional e a
-  qualidade da entrega ao público.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Ajustar os roteiros de exibição conforme as
-  estratégias definidas pela emissora;</li><li>Monitorar a exibição da programação da emissora, garantindo o cumprimento
-  da grade planejada;</li><li>Acompanhar o sinal de transmissão;</li><li>Controlar a inserção de intervalos, chamadas e demais elementos da
-  programação;</li><li>Organizar e disponibilizar espaços na grade para entradas ao vivo, links e
-  conteúdos especiais;</li><li>Elaborar e encaminhar relatórios diários de exibição;</li><li>Monitorar a programação de emissoras concorrentes, acompanhando tendências
-  e movimentações do mercado;</li><li>Disponibilidade para trabalho em regime de escala.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa em Comunicação Social,
-  Jornalismo, Rádio e TV, Produção Audiovisual ou áreas correlatas, com
-  registro profissional ativo;</li><li>Conhecimento com rotinas de programação, controle mestre ou exibição de
-  TV.</li><li>Capacidade de realizar avaliação visual crítica, analisando a qualidade e a
-  conformidade da programação exibida;</li><li>Conhecimento básico em rotinas de transmissão e grade de programação;</li><li>Atenção aos detalhes e senso de organização para acompanhamento de
-  grade;</li><li>Conhecimento em ferramentas de controle de programação ou sistemas de
-  automação de exibição será um diferencial.</li><li>Boa comunicação e capacidade de trabalho em equipe.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/tvtem/166/controlador-a-de-programacao]]></applyUrl>
-    <companyId><![CDATA[24909690]]></companyId>
-    <city><![CDATA[Sorocaba]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[b344ad03-8780-43bc-8eb5-a67e6fa3ce39]]></partnerJobId>
     <company><![CDATA[TV TEM]]></company>
     <title><![CDATA[Repórter Multimídia]]></title>
@@ -48799,25 +48725,6 @@ constante evolução.</li></ul><br /><br /><br /><br /><b>Requisitos e qualifica
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[80a492e7-01f3-4869-b3ad-e7408d46bdde]]></partnerJobId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[Estagiário de Engenharia Civil]]></title>
-    <posterEmail><![CDATA[priscilla.veras@triunfologistica.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Apoiar no acompanhamento de obras e serviços de manutenção; auxiliar na elaboração e controle de cronogramas; dar suporte no controle de medições e relatórios técnicos; acompanhar indicadores e apoiar na organização de documentos técnicos; apoiar a equipe de engenharia nas rotinas administrativas e operacionais; realizar interface com áreas internas, quando necessário.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Apoiar no desenvolvimento de projetos e elaboração de desenhos técnicos (AutoCAD,<br />SolidWorks etc.);<br />• Auxiliar na análise de viabilidade técnica e levantamento de dados;<br />• Apoiar na elaboração de relatórios técnicos, planilhas e apresentações;<br />• Acompanhar visitas técnicas, inspeções em campo e testes de equipamentos;<br />• Colaborar com a área de planejamento no controle de cronogramas e custos;<br />• Realizar controle e organização de documentos técnicos e operacionais;<br />• Apoiar no monitoramento de indicadores da área e na criação de dashboards;<br />• Realizar pesquisas técnicas e levantamento de normas aplicáveis;<br />• Dar suporte na atualização de procedimentos, fluxogramas e instruções de trabalho;<br />• Apoiar a comunicação entre áreas técnicas e administrativas.<br /><br />Requisitos e qualificações<br /><br />Cursando Engenharia Civil, a partir do 3º período; Disponibilidade para estagiar 6 horas por dia; <br />Conhecimento básico em pacote Office, especialmente Excel; <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Cursando Engenharia Civil, a partir do 3º período; Disponibilidade para estagiar 6 horas por dia; <br />Conhecimento básico em pacote Office, especialmente Excel; <br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/412/estagiario-de-engenharia-civil]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[4166ad8f-39fb-463e-bd4c-681bc780b728]]></partnerJobId>
     <company><![CDATA[TRIUNFO LOGISTICA]]></company>
     <title><![CDATA[JOVEM APRENDIZ - ARM]]></title>
@@ -50225,6 +50132,25 @@ Registrar as atividades executadas e comunicar eventuais ocorrências ao superio
 <li>
 Contribuir para a organização e limpeza do ambiente de trabalho, promovendo um local seguro e adequado para a execução das atividades.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Fundamental Completo.</li><li>Atividades em construção civil</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/446/ajudante-de-manutencao-predial]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[25fff403-80e1-4653-899a-da3f1d5c20a5]]></partnerJobId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Operador de Movimentação de Carga]]></title>
+    <posterEmail><![CDATA[priscilla.veras@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar na funções de movimentações de cargas através de equipamentos, içamento e guindastes. O profissional realizará processo de movimentação da carga será feito. Sob as determinações inseridas no plano de rigging, verificar as condições da carga, o melhor modo para que ela seja amarrada e presta o auxílio ao operador de guindaste dando as sinalizações necessárias.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar na funções de movimentações de cargas através de equipamentos, içamento e guindastes. O profissional realizará processo de movimentação da carga será feito. Sob as determinações inseridas no plano de rigging, verificar as condições da carga, o melhor modo para que ela seja amarrada e presta o auxílio ao operador de guindaste dando as sinalizações necessárias.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/427/operador-de-movimentacao-de-carga]]></applyUrl>
     <companyId><![CDATA[3089272]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
@@ -97952,33 +97878,6 @@ Postura ética e discrição no tratamento de informações confidenciais. </li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[fbc52b87-cfd6-4fe4-a5a6-9e144e85422d]]></partnerJobId>
-    <company><![CDATA[Multivix]]></company>
-    <title><![CDATA[Analista de Coordenação Júnior]]></title>
-    <posterEmail><![CDATA[leonardo.diniz@multivix.edu.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional organizado, proativo e comprometido para atuar no atendimento aos docentes e discentes, prestando suporte às rotinas acadêmicas e administrativas da coordenação. Será responsável por auxiliar na organização das atividades acadêmicas, apoiar a comunicação institucional e contribuir para o bom funcionamento das demandas do setor.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimento a docentes e discentes.</li><li>Responder pela coordenação na ausência do coordenador.</li><li>Atender alunos em sala de aula quando houver necessidade.</li><li>Enviar comunicados aos alunos por e-mail.</li><li>Organizar e tirar cópias de provas.</li><li>Programar e reservar salas.</li><li>Mediar e tratar conflitos quando necessário.</li><li>Acompanhar e aplicar programas institucionais.</li><li>Realizar distribuição de provas.</li><li>Elaborar memorandos, ofícios e demais documentos internos.</li><li>Elaborar cronogramas de EAD e PEI.</li><li>Organizar calendário de provas e horários de aula.</li><li>Acompanhar o regime domiciliar.</li><li>Informar os professores sobre a situação dos alunos.</li><li>Orientar os alunos quanto à entrega de atividades.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo ou em andamento;</li><li>Conhecimento em Pacote Office;</li><li>Organização.</li><li>Capacidade para lidar com múltiplas demandas</li><li>Trabalho em equipe.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/multivix/19/analista-de-coordenacao-junior]]></applyUrl>
-    <companyId><![CDATA[5253015]]></companyId>
-    <city><![CDATA[Vitória]]></city>
-    <state><![CDATA[Espírito Santo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[3173.99]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[3173.99]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[99c5941e-3cd9-4351-8c3c-5d408fde657b]]></partnerJobId>
     <company><![CDATA[Multivix]]></company>
     <title><![CDATA[Auxiliar de Coordenação III - Exclusivo para pessoas com deficiência [PCD]]]></title>
@@ -99940,6 +99839,25 @@ Buscamos uma pessoa organizada, proativa, discreta e com vontade de aprender, qu
     <companyId><![CDATA[2394088]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[98851a5d-0692-4ea8-b92d-a9fdf83f47e3]]></partnerJobId>
+    <company><![CDATA[Grupo Unifacisa]]></company>
+    <title><![CDATA[Encanador]]></title>
+    <posterEmail><![CDATA[yasmin.dias@unifacisa.edu.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por garantir o funcionamento adequado dos sistemas hidráulicos, realizando serviços de instalação, reparo e conservação de tubulações, equipamentos e acessórios relacionados ao abastecimento de água, esgoto e, em alguns casos, gás. Atua de forma preventiva e corretiva para evitar falhas e danos nas instalações.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar manutenção preventiva e corretiva em sistemas hidráulicos;</li><li>Identificar e reparar vazamentos em tubulações, conexões e registros;</li><li>Executar desentupimentos de pias, ralos, vasos sanitários e redes de esgoto;</li><li>Instalar e substituir peças e equipamentos, como torneiras, chuveiros, válvulas, sifões e caixas de descarga;</li><li>Montar e reparar redes de água fria e quente;</li><li>Realizar testes de funcionamento e vedação após os serviços;</li><li>Interpretar esquemas e projetos hidráulicos básicos;</li><li>Utilizar ferramentas manuais e elétricas específicas da área;</li><li>Atender chamados de emergência relacionados a problemas hidráulicos;</li><li>Zelar pela organização do local de trabalho e pela conservação dos equipamentos;</li><li>Seguir normas técnicas e de segurança no trabalho;</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Curso profissionalizante na área de hidráulica;</li><li>Experiência prévia com manutenção hidráulica;</li><li>Noções de sistemas de água, esgoto e drenagem;</li><li>Conhecimento de materiais hidráulicos (PVC, cobre, PPR, entre outros);</li><li>Leitura básica de projetos hidráulicos;</li><li>Técnicas de vedação, instalação e reparo;</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cesed/23/encanador]]></applyUrl>
+    <companyId><![CDATA[10899505]]></companyId>
+    <city><![CDATA[Campina Grande]]></city>
+    <state><![CDATA[Paraíba]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
