@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Mon, 17 Aug 2026 18:16:40 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 19:16:02 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3869]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3876]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerJobId>
     <partnerRequisitionId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerRequisitionId>
@@ -1128,6 +1128,133 @@ Contribuir diretamente para a evolução e maturidade técnica da área, dissemi
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[ab98fda6-e700-4526-bb94-a6472bc4e709]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[ab98fda6-e700-4526-bb94-a6472bc4e709]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Infra] Especialista I de Infraestrutura de Cloud (AI)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Desenhar, automatizar e operar pipelines de ciclo de vida de IA na Cloud TOTVS, assegurando a execução confiável, reprodutível e escalável dos processos de ingestão e transformação de dados, treinamento de modelos, deploy e inferência. Garantir eficiência operacional e alinhamento às melhores práticas de DevOps, MLOps e LLMOps.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Projetar e implementar pipelines de IA cobrindo ingestão de dados, treinamento, avaliação, deploy e inferência
+</li>
+<li>
+Orquestrar workflows distribuídos, garantindo controle de dependências, execução confiável e recuperação de falhas
+</li>
+<li>
+Automatizar o ciclo de vida de modelos com práticas de CI/CD aplicadas a MLOps e LLMOps
+</li>
+<li>
+Implementar versionamento de dados, modelos e experimentos para rastreabilidade e governança
+</li>
+<li>
+Estruturar e gerenciar pipelines distintos para treinamento, inferência e avaliação contínua
+</li>
+<li>
+Integrar pipelines a ambientes Kubernetes, plataformas de inferência e serviços externos
+</li>
+<li>
+Garantir reprodutibilidade dos processos de treinamento e deploy
+</li>
+<li>
+Implementar gatilhos orientados a eventos (ex.: chegada de novos dados ou atualizações de modelos)
+</li>
+<li>
+Monitorar a execução dos pipelines, identificando falhas, gargalos e oportunidades de otimização
+</li>
+<li>
+Incorporar práticas de observabilidade (logs, métricas e tracing) aos pipelines
+</li>
+<li>
+Apoiar a construção de pipelines para LLMs, incluindo RAG, agentes e integração com ferramentas e APIs
+</li>
+<li>
+Colaborar com times de dados e produto para operacionalizar modelos em produção
+</li>
+<li>
+Aplicar práticas de DevSecOps ao longo de todo o ciclo de vida dos pipelines
+</li>
+<li>
+Documentar fluxos, padrões e boas práticas de orquestração</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Formação Acadêmica</strong>
+<ul>
+<li>
+Graduação em Tecnologia da Informação, Ciência da Computação, Engenharia da Computação, Sistemas de Informação ou áreas correlatas
+</li>
+<li>
+Pós-graduação ou especialização em Engenharia de Dados, Inteligência Artificial ou Machine Learning, Cloud Computing, Sistemas Distribuídos, DevOps ou Engenharia de Plataforma (desejável)
+</li>
+</ul>
+<strong>Idiomas</strong>
+<ul>
+<li>
+Inglês avançado para leitura técnica, escrita e conversação
+</li>
+<li>
+Capacidade de participar de discussões técnicas e estratégicas em inglês
+</li>
+</ul>
+<strong>Certificações Desejáveis</strong>
+<ul>
+<li>
+Kubernetes: CKA, CKAD ou CKS
+</li>
+<li>
+NVIDIA Certified – AI Infrastructure (NCP-AI)
+</li>
+<li>
+Linux: LPIC-3, RHCE ou equivalente
+</li>
+<li>
+DevOps em Cloud Providers:
+<ul>
+<li>
+AWS Certified DevOps Engineer – Professional
+</li>
+<li>
+Google Cloud Professional Cloud DevOps Engineer
+</li>
+<li>
+Oracle Cloud Infrastructure DevOps Professional
+</li>
+<li>
+AZ-400 – Azure DevOps Engineer Expert
+</li>
+</ul>
+</li>
+<li>
+Docker Certified Associate (DCA)
+</li>
+<li>
+GitHub Certified: GitHub Actions
+</li>
+<li>
+Certificações em Segurança, DevSecOps ou Arquitetura (ex.: CISSP, CCSK, TOGAF) – diferenciais
+</li>
+<li>
+Cloud (AWS, Azure, GCP e OCI):
+<ul>
+<li>
+AWS Certified Solutions Architect
+</li>
+<li>
+GCP Professional Cloud Architect
+</li>
+<li>
+Microsoft Azure Solutions Architect Expert (AZ-305)
+</li>
+<li>
+Oracle Cloud Infrastructure Architect Professional</li></ul></li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9266/infra-especialista-i-de-infraestrutura-de-cloud-ai?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[1c6de8ad-42b2-43cf-b189-1d5fedfbe7b2]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1c6de8ad-42b2-43cf-b189-1d5fedfbe7b2]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -1913,6 +2040,41 @@ percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS</
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Montes Claros]]></city>
     <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[37fb9b9f-ce1b-4da5-8f0c-f8bb8262ef0a]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[37fb9b9f-ce1b-4da5-8f0c-f8bb8262ef0a]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Vendas] Gerente de Contas Júnior - Farmer | Varejo e Distribuição]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Gerir a carteira de clientes sob sua responsabilidade e construir um relacionamento visando rentabilizar, gerar novos negócios e elevar o nível de
+satisfação da base de clientes TOTVS<br /><br /><b>Responsabilidades e atribuições</b><br /><br />● Gerir uma carteira de clientes, com alto nível de orientação e supervisão, através da construção de um
+relacionamento comercial e do entendimento/mapeamento de suas principais "dores“; ● Analisar o mapeamento de mercado oriundo de Operações e Torres de Segmentos, visando ampliar o
+Market Share TOTVS (Hunter); <br />● Executar o plano tático, com alto nível de orientação e supervisão, alinhado ao planejamento
+estratégico da DRG e dos resultados de vendas no segmento/região de atuação; <br />● Acompanhar Executivos mais seniores em visitas a clientes e/ou prospects, a fim de desenvolver
+abordagens comerciais e formas de atuação de acordo com o perfil/segmento do cliente/prospect; <br />● Elaborar propostas no CRM, com alto nível de orientação e supervisão, negociando e fechando os
+contratos com o cliente/prospect; <br />● Acompanhar e manter todos os dados relativos à trajetória dos clientes (empresas/oportunidades)
+atualizados no CRM, tais como: registro de visitas comerciais, follow up de atividades e fatos
+relevantes; <br />● Atender os leads gerados pela área de Negócios e Prospecção, com alto nível de orientação e
+supervisão, no ciclo completo de vendas; <br />● Acompanhar o ciclo de entrega dos produtos e serviços comercializados pela TOTVS, apoiando nas
+soluções dos eventuais problemas; <br />● Realizar o pós-venda junto aos clientes TOTVS, com alto nível de orientação e supervisão, garantindo a
+satisfação e retenção do cliente, além de gerar novas oportunidades de negócio; <br />● Report de pipeline e forecast no CRM, com alto nível de orientação e supervisão, utilizando a
+metodologia do TOTVS Vende, garantindo visibilidade do potencial de negócios; <br />● Informar seus clientes/prospects em eventos/treinamentos, através de e-mails, mailings, contatos
+telefônicos e WhatsApp; <br />● Desenvolver abordagens comerciais por meio de soluções cross voltadas aos segmentos de atuação
+que propiciem a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação: Graduação completa, preferencialmente no segmento de atuação.
+Conhecimentos específicos: ● Pacote Office – Excel e PowerPoint; <br />● Pacote Google Workspace intermediário; <br />● Ferramentas de BI – desejável. <br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11714/vendas-gerente-de-contas-junior-farmer-varejo-e-distribuicao?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Recife]]></city>
+    <state><![CDATA[Pernambuco]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -3546,6 +3708,26 @@ A posição está inserida na Gerência Executiva de Planejamento e Negócios, q
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Ser um dos responsáveis na visão de negócios para construção de novas ofertas para Cloud da TOTVS e melhorias contínuas nos produtos já homologados em nosso portfólio<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Alinhamento com demais áreas de cloud e da Totvs para construção de novas ofertas e melhorias contínuas nos produtos já homologados em cloud;</li><li>Pesquisa de mercado para benchmark;</li><li>Análise estratégica para entendimento do comportamento dos produtos Totvs, potenciais em cloud e possibilidades de alavancagem comercial.</li><li>Entendimento sobre conceitos técnicos de cloud e dos produtos do qual acompanha;</li><li>Apresentações dos produtos internamente, para clientes e força de vendas Totvs;</li><li>Conhecimento dos conceitos e metodologias para construção de precificação dos produtos e elaboração de forecast (projeção) de vendas e receita;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiências como product manager e/ou product owner;</li><li>Entendimento sobre conceitos técnicos de cloud e dos produtos dos quais acompanha na Totvs;</li><li>Pacote Office Completo, principalmente Excel e Power Point;</li><li>Ferramentas de gestão de projetos ágeis (exemplos: Trello; Jira);</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11416/cloud-analista-de-ofertas-senior?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[db2de088-f88e-46d3-b212-6fd5bbe4f806]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[db2de088-f88e-46d3-b212-6fd5bbe4f806]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[CS] Analista de Customer Success Pleno]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar no Sucesso do Cliente e nos interesses do negócio com a solução e serviços adquiridos, para entregar uma melhor experiência de uso em todas as etapas da jornada na TOTVS.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar carteira de clientes estratégicos em modelo High Touch;</li><li>Desenvolver e acompanhar planos de sucesso alinhados aos objetivos do cliente;</li><li>Conduzir reuniões de acompanhamento, QBRs e apresentações executivas;</li><li>Atuar preventivamente na mitigação de churn e gestão de crises;</li><li>Identificar oportunidades de upsell, cross-sell e expansão de receita;</li><li>Garantir alinhamento entre cliente e áreas internas como Produto, Suporte, Comercial e Operações;</li><li>Construir relacionamento com stakeholders técnicos e executivos;</li><li>Representar a voz do cliente internamente, contribuindo para melhorias de processos e produtos;</li><li>Garantir excelência na experiência do cliente e atingimento dos indicadores da área</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação Acadêmica: </b>Superior completo, preferencialmente em Administração de empresas, Marketing, Sistemas da Informação e afins<br /><ul><li>Customer Success (avançado);</li><li>Customer Experience (intermediário);</li><li>Pacote Office ou GSuite.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10609/cs-analista-de-customer-success-pleno?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -5326,26 +5508,6 @@ Meritocracia.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[db2de088-f88e-46d3-b212-6fd5bbe4f806]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[db2de088-f88e-46d3-b212-6fd5bbe4f806]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[CS] Analista de Customer Success Pleno]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar no Sucesso do Cliente e nos interesses do negócio com a solução e serviços adquiridos, para entregar uma melhor experiência de uso em todas as etapas da jornada na TOTVS.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar carteira de clientes estratégicos em modelo High Touch;</li><li>Desenvolver e acompanhar planos de sucesso alinhados aos objetivos do cliente;</li><li>Conduzir reuniões de acompanhamento, QBRs e apresentações executivas;</li><li>Atuar preventivamente na mitigação de churn e gestão de crises;</li><li>Identificar oportunidades de upsell, cross-sell e expansão de receita;</li><li>Garantir alinhamento entre cliente e áreas internas como Produto, Suporte, Comercial e Operações;</li><li>Construir relacionamento com stakeholders técnicos e executivos;</li><li>Representar a voz do cliente internamente, contribuindo para melhorias de processos e produtos;</li><li>Garantir excelência na experiência do cliente e atingimento dos indicadores da área</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação Acadêmica: </b>Superior completo, preferencialmente em Administração de empresas, Marketing, Sistemas da Informação e afins<br /><ul><li>Customer Success (avançado);</li><li>Customer Experience (intermediário);</li><li>Pacote Office ou GSuite.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10609/cs-analista-de-customer-success-pleno?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[b4ed3231-c079-4de0-8043-70f7d2cb01b6]]></partnerJobId>
     <partnerRequisitionId><![CDATA[b4ed3231-c079-4de0-8043-70f7d2cb01b6]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -6889,40 +7051,6 @@ decisão </li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Ótimo amb
     <posterEmail><![CDATA[emilly.alves@mor.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />• Atender em tempo hábil as solicitações de matéria-prima e produtos;<br />• Auxiliar na acuracidade do estoque;<br />• Garantir o cumprimento das normas de segurança do trabalho e organização.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Receber, abastecer, transportar e armazenar gaiolas ou pallets;<br />• Auxiliar no recebimento, movimentações e armazenamento;<br />• Auxiliar em outras atividades do setor.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />• Certificado ou experiência como Operador de empilhadeira;<br />ser alfabetizado;<br />• Disponibilidade para atuar em turnos;<br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Ótimo ambiente de trabalho</li><li>Assistência odontológica</li><li>Assistência médica</li><li>Refeitório próprio</li><li>Transporte de qualidade</li><li>Benefício assiduidade</li><li>Oportunidade de crescimento</li><li>PPR</li><li>Bônus efetivação </li><li>Bônus temporário</li><li>Unimed para efetivos</li><li>Descontos nos produtos Mor</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmor/376/operador-de-empilhadeira?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[205062]]></companyId>
-    <city><![CDATA[Santa Cruz do Sul]]></city>
-    <state><![CDATA[Rio Grande do Sul]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[4b6ce1a2-84f1-4d88-89c6-be15194a4a88]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[4b6ce1a2-84f1-4d88-89c6-be15194a4a88]]></partnerRequisitionId>
-    <company><![CDATA[Metalúrgica Mor]]></company>
-    <title><![CDATA[Mecânico de Manutenção Industrial]]></title>
-    <posterEmail><![CDATA[emilly.alves@mor.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul>
- <li>Executar serviços de
-     manutenção mecânica em máquinas, dispositivos, equipamentos, linhas
-     automatizadas;</li>
- <li>Realizar manutenções preventiva e corretiva em equipamentos;</li>
- <li>Instalar
-     peças, máquinas e equipamentos novos;</li>
- <li>Propor
-     melhoria em máquinas e processos;</li>
-<li>Realizar instalação e/ou substituição de peças.</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Executar serviços de
-     mecânica preventiva e corretiva em todos os equipamentos e máquinas,
-     assegurando o funcionamento eficaz dos mesmos. </li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso profissionalizante na área de mecânica, eletromecânica ou
-mecatrônica;</li><li>Experiência na área da mecânica. </li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Ótimo ambiente de trabalho</li><li>Assistência odontológica</li><li>Assistência médica</li><li>Refeitório próprio</li><li>Transporte de qualidade</li><li>Benefício assiduidade</li><li>Oportunidade de crescimento</li><li>PPR</li><li>Bônus efetivação </li><li>Bônus temporário</li><li>Unimed para efetivos</li><li>Descontos nos produtos Mor</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmor/282/mecanico-de-manutencao-industrial?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[205062]]></companyId>
     <city><![CDATA[Santa Cruz do Sul]]></city>
     <state><![CDATA[Rio Grande do Sul]]></state>
@@ -26424,6 +26552,26 @@ trabalho efetivos)</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[0d91e755-5918-4b94-910c-d0d13ecded54]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[0d91e755-5918-4b94-910c-d0d13ecded54]]></partnerRequisitionId>
+    <company><![CDATA[iBen Engenharia]]></company>
+    <title><![CDATA[ALMOXARIFE DE OBRAS]]></title>
+    <posterEmail><![CDATA[leticia.alves@iben.eng.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estrutura operacional do canteiro e sua finalidade é garantir o controle, a organização e a disponibilidade dos materiais necessários à execução do empreendimento. Espera-se do profissional agilidade, organização e precisão no recebimento, armazenamento, controle de estoque e distribuição dos materiais, contribuindo para evitar perdas e atrasos. É uma posição de suporte direto às equipes da obra, com impacto nos prazos, custos e eficiência da execução do projeto.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Receber, conferir e armazenar materiais da obra.</li><li>Conferir Nota fiscal x pedido de compras, garantindo a negociação com a entrega.</li><li>Controlar entradas, saídas e estoque de materiais.</li><li>Separar e distribuir materiais conforme as demandas das equipes.</li><li>Manter o almoxarifado organizado e identificado.</li><li>Registrar movimentações e apoiar o controle de inventário.</li><li>Acompanhar o consumo e sinalizar necessidades de reposição.</li><li>Zelar pela conservação dos materiais e pelo cumprimento das normas de segurança e organização do canteiro.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental ou médio completo.</li><li>Experiência prévia como Almoxarife, preferencialmente em obras ou construção civil.</li><li>Conhecimento em recebimento, conferência, armazenamento e controle de materiais.</li><li>Conhecimento básico de controle de estoque e inventário.</li><li>Noções de informática para registros e controles.</li><li>Organização, atenção aos detalhes e responsabilidade com materiais.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ibenvagas/58/almoxarife-de-obras?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3042725]]></companyId>
+    <city><![CDATA[Hortolândia]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[a3819b45-fe91-4cd7-8bcc-795f25f6bed9]]></partnerJobId>
     <partnerRequisitionId><![CDATA[a3819b45-fe91-4cd7-8bcc-795f25f6bed9]]></partnerRequisitionId>
     <company><![CDATA[iBen Engenharia]]></company>
@@ -36187,6 +36335,34 @@ Organização, comprometimento e interesse em aprendizado contínuo.</li><li>Ing
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[3ab3d7ba-afcd-4fca-b8c7-265f916fd246]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[3ab3d7ba-afcd-4fca-b8c7-265f916fd246]]></partnerRequisitionId>
+    <company><![CDATA[Popper]]></company>
+    <title><![CDATA[Auxiliar de Almoxarifado]]></title>
+    <posterEmail><![CDATA[patricia.bega@popper.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Cargo:</b> Auxiliar de Almoxarifado| <b>Setor</b>: Logística | <b>Tipo de contratação</b>: CLT | <b>Carga horária</b>: 42h semanais. Segunda a quinta das 08h às 17h30 e nas sextas das 08h às 17h| <b>Faixa salarial:</b> R$2.057,00 | <b>Local de trabalho</b>: Estrada do Cerne, 13.968, Água Branca, Campo Magro, PR.<br /><br /><br />Você, amante da organização e da eficiência logística, essa vaga é para você! Estamos à procura de um(a) incrível Auxiliar de Almoxarifado para se juntar à nossa equipe cheia de energia e determinação. Se você acha que consegue dar conta do recado (e da caixa), continue lendo!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Como Auxiliar de Almoxarifado na Popper, você será o maestro do estoque! Suas principais responsabilidades incluem:<br /><br /><br /><ul><li> <b>Desembarcar e conferir mercadorias</b> como um verdadeiro maestro do estoque</li><li> <b>Organizar o almoxarifado</b> como se fosse um jogo de Tetris, mas na vida real</li><li> <b>Controlar o estoque</b> através de registros manuais ou eletrônicos, mantendo tudo nos trinques</li><li> <b>Realizar inventários</b> e fazer malabares com datas de validade e códigos de barras</li><li> <b>Separar, embalar e expedir pedidos</b>, distribuindo sorrisos junto com os produtos</li><li> <b>Colaborar com outros departamentos</b> como um super-herói da cadeia de suprimentos</li><li>️<b> Seguir normas de segurança</b> e usar EPIs corretamente — segurança em primeiro lugar, sempre</li><li>✨ <b>Aplicar e manter os princípios de 8S</b> no ambiente de trabalho, contribuindo para organização, limpeza e otimização do espaço</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Para ser a estrela que procuramos, você precisa ter:<br /><br /><br /><ul><li> <b>Ensino Médio completo</b></li><li>⏱️ <b>Experiência de pelo menos 6 meses </b>na área de almoxarifado ou logística</li><li> <b>Informática básica</b> — o essencial para se virar nos sistemas de estoque</li><li> Conhecimento em <b>recebimento, armazenagem e expedição</b> de materiais</li><li> Conhecimento em <b>manuseio de equipamentos</b> de movimentação de carga</li><li>️ Conhecimento em <b>normas de segurança</b> do trabalho</li><li> Disponibilidade para trabalho presencial em Campo Magro, PR. </li></ul><br /><br /><br /><b>Benefícios</b><br /><br />Oferecemos um pacote de benefícios para cuidar de você:<br /><br /><br /><ul><li>Vale Refeição/Alimentação, no valor de R$33,00 por dia trabalhado (com desconto de 20%) </li><li>Vale Transporte ou Auxílio Combustível, no valor de R$300,00 por mês (com desconto de R$1,00)</li><li>Plano de Saúde Unimed, com a mensalidade 100% custeada pela empresa, com desconto da co-participação de 20% (após o período de experiência) </li><li>Total Pass - Plano de Academia</li><li>Seguro de Vida Coletivo</li><li>Estacionamento gratuito</li><li>Universidade Corporativa </li></ul><br /><br />Além de oportunidades reais de crescimento — porque queremos ver você brilhar cada vez mais!<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspopper/11/auxiliar-de-almoxarifado?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3357627]]></companyId>
+    <city><![CDATA[Campo Magro]]></city>
+    <state><![CDATA[Paraná]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2057.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2057.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[be962108-d5ce-4cb7-b595-437de9e07031]]></partnerJobId>
     <partnerRequisitionId><![CDATA[be962108-d5ce-4cb7-b595-437de9e07031]]></partnerRequisitionId>
     <company><![CDATA[Grupo Luiz Höhl]]></company>
@@ -44122,6 +44298,26 @@ Ambiente dinâmico, inovador e colaborativo]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[0caac883-7fa2-4cfe-ab52-fc42ff907cf7]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[0caac883-7fa2-4cfe-ab52-fc42ff907cf7]]></partnerRequisitionId>
+    <company><![CDATA[Emefarma]]></company>
+    <title><![CDATA[Auxiliar Administrativo Logístico]]></title>
+    <posterEmail><![CDATA[silvania.menezes@emefarma.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Tem vaga rolando no time <b>Administrativo.</b><br /><br /><br />Estamos em busca de profissionais para integrar nossa equipe. Se você busca por um ambiente dinâmico e desafiador, essa é a sua chance! Esse desafio é para quem possui ensino médio completo, perfil, proativo dinâmico e atento a detalhes. <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar de treinamentos internos e externos sempre que orientado ou solicitado pelo superior imediato, visando o desenvolvimento profissional e pessoal, através de aprimoramento e atualização técnica;</li><li> Responsabilizar-se e comprometer-se pelo bom ambiente de trabalho, de modo que todos possam participar e contribuir para a otimização dos resultados propostos;</li><li> Zelar pelas normas, instruções e procedimentos internos estabelecidos (qualidade, segurança do trabalho, segurança ambiental, meio ambiente, medicina preventiva e outras), praticando todas as orientações e participando de treinamentos pertinentes, visando a adoção de ações preventivas para a garantia de boas condições ambientais e de trabalho na empresa;</li><li>Atender e realizar outras atividades correlatas e inerentes ao cargo, conforme orientação e solicitação do superior imediato</li><li>Executar atividades relativas aos processos logísticos/administrativo e inerentes ao recebimento de materiais, inspeção, armazenagem, movimentação interna, expedição e controle de fluxo de documentos, atuando  na execução  das atividades;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Atuação e conhecimento das áreas e tarefas do CD (recebimento, armazenagem, abastecimento, separação. Check-out, expedição e inventário);</li></ul><br /><br /><b>Benefícios</b><br /><br />Assistência Médica e Odontológica - afinal é sempre bom cuidar da saúde e do sorriso não é mesmo!?<br />Pensando no seu bem-estar físico, mental e social, temos o Wellhub,<br />Vale Alimentação e Refeição - porque comer é muito bom!<br />Vale Transporte ou Auxílio Combustível - porque você precisa se locomover até a gente.<br />Seguro de Vida em Grupo e Auxílio Funeral - a gente não gosta de tocar nesse assunto, mas é importante.<br />Convênio com Farmácias parceiras - quem não gosta de uma parceria!?<br />Convênio SESC - porque cultura e lazer fazem parte da vida!<br />Day-Off no mês do seu aniversário - uma bela folga de presente!<br />Kit Escolar para filhos – para incentivar a garotada na escola;<br />Kit Baby – um mimo carinhoso para o seu bebê.<br />Auxílio baby - Pois queremos apoiar você em todas as fases da parentalidade;<br />Programa de Bolsas de Estudos - porque nos importamos com o seu desenvolvimento profissional! (Isso mesmo, queremos te ver voando cada vez mais alto!).<br />Universidade Corporativa – investir em seu desenvolvimento profissional e pessoal é importante para nós.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/emefarma/78/auxiliar-administrativo-logistico?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[10852162]]></companyId>
+    <city><![CDATA[Queimados]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[7cedb6d7-718b-487c-99c0-e48825bf5d4f]]></partnerJobId>
     <partnerRequisitionId><![CDATA[7cedb6d7-718b-487c-99c0-e48825bf5d4f]]></partnerRequisitionId>
     <company><![CDATA[Emefarma]]></company>
@@ -44131,6 +44327,26 @@ Ambiente dinâmico, inovador e colaborativo]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/emefarma/75/operador-lider-logistico?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[10852162]]></companyId>
     <city><![CDATA[Queimados]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[848e81a4-9239-4c2d-9067-ecf060a358b7]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[848e81a4-9239-4c2d-9067-ecf060a358b7]]></partnerRequisitionId>
+    <company><![CDATA[Emefarma]]></company>
+    <title><![CDATA[Assistente Planejamento de Vendas]]></title>
+    <posterEmail><![CDATA[paola.moura@emefarmario.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Tem vaga rolando no tim<i>e</i> de<b> Planejamento de Vendas</b><br /><br /><br />Esse desafio é para quem tem Ensino Superior completo, possui um perfil analítico, proativo e organizado!<br /><br /><br />Vem conosco!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atuar no suporte ao acompanhamento da performance comercial, com principal atuação na Célula Avance, aproximando o Planejamento da força de vendas e apoiando os vendedores na leitura dos resultados e na identificação de oportunidades de melhoria.<br /><br /><br /><b>Atividades:</b><br /><ul><li>Célula Avance: acompanhar semanalmente os vendedores, conduzindo reuniões de performance, apresentando cenários de vendas, orientando a utilização do PBI e acompanhando indicadores, campanhas, calendário de ações e iniciativas do Trade. </li><li>Performance comercial: acompanhar a evolução da campanha principal e campanhas paralelas, consolidando resultados e identificando pontos de atenção para direcionamento aos analistas e gestores. </li><li>Campanhas: apoiar o controle, validação de elegibilidade e envio das informações para pagamento. </li><li>Fornecedores: prestar suporte em mapas de vendas e utilização dos painéis de PBI. </li></ul><br />•	Suporte interno: atender demandas de informações de vendas das áreas internas da Emefarma. <br /><ul><li>Relatórios e gestão: apoiar a elaboração de relatórios, indicadores e materiais para reuniões comerciais, além de atender demandas pontuais dos gestores. Campanhas paralelas elaboradas para o time de vendas através do Trade, temos como função o acompanhamento dessas performances e envio para pagamento dessas campanhas caso seja elegível.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com Excel, incluindo tabela dinâmica, cruzamento e consolidação de dados. </li><li>Conhecimento em Power BI para consulta e interpretação de indicadores. </li><li>Capacidade de análise e acompanhamento de resultados de vendas.</li><li>Vivência em acompanhamento, consolidação e suporte às demandas comerciais.</li></ul><br /><br /><b>Benefícios</b><br /><br />Assistência Médica e Odontológica - afinal é sempre bom cuidar da saúde e do sorriso não é mesmo!?<br />Pensando no seu bem-estar físico, mental e social, temos o Wellhub,<br />Vale Alimentação e Refeição - porque comer é muito bom!<br />Vale Transporte ou Auxílio Combustível - porque você precisa se locomover até a gente.<br />Seguro de Vida em Grupo e Auxílio Funeral - a gente não gosta de tocar nesse assunto, mas é importante.<br />Convênio com Farmácias parceiras - quem não gosta de uma parceria!?<br />Convênio SESC - porque cultura e lazer fazem parte da vida!<br />Day-Off no mês do seu aniversário - uma bela folga de presente!<br />Kit Escolar para filhos – para incentivar a garotada na escola;<br />Kit Baby – um mimo carinhoso para o seu bebê.<br />Auxílio baby - Pois queremos apoiar você em todas as fases da parentalidade;<br />Programa de Bolsas de Estudos - porque nos importamos com o seu desenvolvimento profissional! (Isso mesmo, queremos te ver voando cada vez mais alto!).<br />Universidade Corporativa – investir em seu desenvolvimento profissional e pessoal é importante para nós.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/emefarma/77/assistente-planejamento-de-vendas?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[10852162]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -49756,26 +49972,6 @@ prática equivalente.<br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Tic
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[8f636bde-759d-4ca0-92a2-5814610db858]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[8f636bde-759d-4ca0-92a2-5814610db858]]></partnerRequisitionId>
-    <company><![CDATA[Cerradão]]></company>
-    <title><![CDATA[MOTORISTA III - ALMOXARIFADO]]></title>
-    <posterEmail><![CDATA[larissa.brito@cerradao.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar no transporte, movimentação e apoio às atividades do almoxarifado, garantindo a entrega e coleta de materiais, insumos e equipamentos de forma segura, eficiente e dentro dos prazos estabelecidos, contribuindo para a continuidade das operações da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Conferir material antes de sair do almoxarifado<br />Conferir material entregue no campo<br />Garantir integridade da carga durante o transporte<br />Realizar entrega no local correto (frente de trabalho)<br />Coletar assinatura ou confirmação de recebimento<br />Reportar divergências ou problemas<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />CNH D<br />Conhecimento básico da rotina de almoxarifado<br />Facilidade com uso de sistemas<br />Disciplina para seguir processos<br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Ticket Alimentação</li><li> Plano de saúde</li><li> Plano Odontológico</li><li> Auxilio farmácia</li><li> Seguro de vida</li><li> Transporte Fretado </li><li> Programa e Apoio e Orientações: Jurídico, psicológico, social e financeiro</li><li> PPR - Programa de Participação de Resultados</li><li>Gympass</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cerradaovagas/366/motorista-iii-almoxarifado?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[3364231]]></companyId>
-    <city><![CDATA[Frutal]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[371017c1-2cd5-46fe-b065-8cd4706f019b]]></partnerJobId>
     <partnerRequisitionId><![CDATA[371017c1-2cd5-46fe-b065-8cd4706f019b]]></partnerRequisitionId>
     <company><![CDATA[Cerradão]]></company>
@@ -51268,6 +51464,136 @@ Instituição de Ensino;</li><li>Convênio Farmácia;</li><li> Wellhub (Gympass
         </highEnd>
         <lowEnd>
           <amount><![CDATA[2500.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[766cd428-36a0-4e60-8b4f-644d0c8105a0]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[766cd428-36a0-4e60-8b4f-644d0c8105a0]]></partnerRequisitionId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[ASSISTENTE ADMINISTRATIVO | RH]]></title>
+    <posterEmail><![CDATA[priscilla.veras@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Apoiar as rotinas administrativas de Recursos Humanos, garantindo organização, controle de documentos e suporte aos processos de admissão, benefícios, ponto e atendimento aos colaboradores.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Apoiar nos processos de admissão e desligamento (conferência de documentos, cadastro em sistema, agendamento de exames)
+</li>
+<li>
+Organizar e manter atualizados os dossiês de colaboradores (físicos e/ou digitais)
+</li>
+<li>
+Auxiliar no controle de ponto eletrônico, banco de horas e frequência
+</li>
+<li>
+Apoiar a gestão de benefícios (inclusões, exclusões, atendimento a colaboradores)
+</li>
+<li>
+Realizar atendimento aos colaboradores para esclarecimento de dúvidas básicas de RH
+</li>
+<li>
+Apoiar o envio de informações para folha de pagamento
+</li>
+<li>
+Controlar e atualizar planilhas e sistemas de RH
+</li>
+<li>
+Auxiliar na organização de integração de novos colaboradores
+</li>
+<li>
+Apoiar processos de recrutamento (triagem inicial, agendamentos de entrevistas)
+</li>
+<li>
+Controlar arquivos, contratos e documentos legais</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo (desejável superior cursando em RH, Administração ou áreas correlatas).<br /><br /><b>Benefícios</b><br /><br /><b>Para sua saúde e de sua família:</b>
+
+<ul>
+ <li> Assistência
+     Médica e Odontológica (extensivo aos dependente diretos).</li>
+ <li> Alimentação
+     no local</li>
+ <li> Vale
+     transporte</li>
+ <li> Convênio
+     Farmácia: desconto em medicamentos e produtos diversos para higiene
+     pessoal</li>
+</ul>
+
+ <b>Para sua saúde e bem-estar:</b>
+
+<ul>
+ <li>GymPass
+     / Seguro de Vida.</li>
+</ul>
+
+<br />
+<b>Para seu desenvolvimento acadêmico:</b>
+
+<ul>
+ <li>Descontos
+     em instituições de ensino parceiras.</li>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/321/assistente-administrativo-rh?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f4f68620-b428-415b-9ef7-3c52a23156bd]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[f4f68620-b428-415b-9ef7-3c52a23156bd]]></partnerRequisitionId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[TECNICO DE SEGURANÇA DO TRABALHO - SMS]]></title>
+    <posterEmail><![CDATA[priscilla.veras@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Acompanhar e/ou implementar os programas de segurança, proteção e meio ambiente, seguindo ou produzindo os seguintes processos: PGR, CIPA, CAT, DDS etc., fiscalizando e acompanhando o uso dos EPI ́s, controlando a data de expiração dos equipamentos e materiais, elaborando relatórios fotográficos, além de palestras e integrações de novos funcionários.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />•Distribuir diariamente aos colaboradores, os EPI`s que serão usados, recolhendo aqueles danificados e separando-os, anotando na ficha pessoal de cada colaborador o que foi retirado e qual a data do trâmite, para fins de enviar uma notificação ao Auxiliar Administrativo para posterior compra, cumprimento da legislação e preservação da integridade física do colaborador;<br />•Fazer levantamento diário do estoque de todo o material de segurança do trabalho (entradas e saídas), anotando em planilha manual a relação dos materiais que faltam, repassando ao Administrativo, para fins de reposição de estoque;<br />•Visitar diariamente as áreas operacionais, para fins de inspecionar a segurança nas áreas;<br />•Fazer vistoria de veículos mensalmente, verificando pessoalmente os freios, faróis e etc., informando aos Terceirizados caso haja necessidade de algum reparo, lançando em planilha feita no Word os problemas relacionados ao veículo e enviando ao Gerente de Filial os problemas encontrados, para fins de manter os veículos em boas condições e segurança dos colaboradores;<br />•Fazer análise de risco baseando-se nas atividades que serão feitas pelas equipes, definindo qual será o EPI usado, qual o processo mais seguro para a realização da atividade, enumerando os possíveis riscos, para fins de preservar a integridade física dos colaboradores;<br />•Fazer diariamente a inspeção de segurança, especificando as não conformidades existentes nos locais, fazendo um relatório e encaminhando ao Gerente de Filial ou à empresa responsável, para fins de preservar a integridade física do colaborador e do Meio Ambiente;<br />•Responsável por elaborar todo trâmite relacionado à eleição da CIPA e os documentos, exigidos pelo Ministério do Trabalho e Emprego, para fins de atender a fiscalização trabalhista;<br />•Fazer cumprir as ações da CIPA em acordo com o SMS, identificar necessidades, planejar, executar e avaliar programas de treinamento de segurança industrial e meio ambiente;<br />•Controlar mensalmente o SESMT, número de acidentes ocorridos em cada setor, através de notificação do ocorrido, reunindo as CATS, análise de levantamento de acidentes, fazendo um parâmetro e calculando as horas perdidas, total de cada setor, enviando as cópias ao Gerente de Filial e a empresa CSN, para fins de controle do número de acidentes e as horas perdidas;<br />•Notificar eventualmente, através de comunicado feito em planilha Excel, uma análise do acidente ocorrido através de simulações ou depoimentos, traçando medidas corretivas, enviando ao Supervisor de área em que ocorreu o acidente, para fins de prevenir acidentes com a mesma proporção;<br />•Preencher eventualmente no site do INSS, uma CAT no prazo máximo de quarenta e oito horas após o acidente, informando a lesão ocorrida, o local e a hora, o agente causador, a situação causadora, imprimindo uma cópia e arquivando, fornecendo cópia ao colaborador, e enviando através do site do INSS, para fins de comunicar ao INSS, preservar o colaborador de possíveis dificuldades trabalhistas e a empresa de possíveis processos trabalhistas;<br />•Coordenar eventualmente a troca ou efetiva recarga de extintores, inspecionando um a um, mantendo contato direto com a empresa responsável pela manutenção dos extintores para fins da Triunfo estar preparada caso ocorra algum incêndio;<br />•Promover eventualmente a integração dos novos colaboradores, apresentando os riscos a que estão expostos, ensinando os procedimentos e análises de riscos, fazendo um treinamento total, apresentação através de Power Point, dando palestras em sala de reuniões, apresentando-os aos seus Supervisores, para fins de mostrar os riscos aos novos colaboradores, apresentar-lhes as responsabilidades e obrigações dentro da empresa;<br />•Elaborar mensalmente no Word, gerando cópias e distribuindo em locais de livre acesso aos colaboradores um jornal interno, imputando informações preventivas e atualidades, para fins de fornecer informações e gerar uma integração;<br />•Fiscalizar diariamente as Unidades, com o intuito de assegurar que o DDS (Diálogo Diário de Segurança) está sendo cumprido, arquivando e assinando o DDS, para fins de promover a conscientização e prevenção de acidentes entre os colaboradores;<br />•Preencher eventualmente uma planilha enviada pelo Porto de Itaguaí, constando a entrada e a saída de resíduos da oficina, entregando ao Chefe de Oficina, que é responsável pelo recolhimento, para fins de conformidades junto à FEEMA;<br />•Representar eventualmente, a empresa na CPATP (Comissão de Prevenção de Acidentes de Trabalhadores;<br />•Portuários), participando de reuniões ordinárias e semestrais para fins de justificar problemas e tomar as devidas providências;<br />•Planejar, coordenar, orientar tecnicamente, avaliar e realizar estudos, avaliações e inspeções das condições de trabalho, quanto aos aspectos de higiene industrial, segurança industrial e meio ambiente, em áreas, equipamentos, instalações.<br />•Elaborar documentação necessária para a abertura da Comunicação de Acidente de Trabalho e encaminhar para o Setor de Recursos Humanos para que seja emitida;<br />•Orientar os membros da CIPA para os assuntos ligados a saúde e higiene, através da participação em reuniões e da realização de palestras na semana de prevenção da empresa, visando prevenir doenças e acidentes do trabalho;<br />•Indicar e orientar a implementação de medidas preventivas de segurança em toda área industrial, administrativa e proteção ao meio ambiente;<br />•Fazer cumprir as ações da CIPA em acordo com o SMS, identificar necessidades, planejar, executar e avaliar programas de treinamento de segurança industrial e meio ambiente;<br />•Fazer plano de ação para cumprimento do Anexo SMS escopo do Contrato, apresentando evidências para PETROBRAS;<br />•Participar de programas de auditorias de SMS, segurança industrial e de meio ambiente, acompanhar as atividades operacionais nas áreas contratuais, visando à segurança do profissional envolvido, bem patrimonial e meio ambiente;<br />•Investigar a analisar acidentes e ocorrências anormais, planejando e executando Plano de Ação trazendo segurança nas operações; <br />•Elaborar planos de contingência e coordenar atividades de controle de emergências para todas as áreas contratuais, proceder de acordo com os padrões técnicos e normas operacionais;<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo; </li><li>Curso Técnico em Segurança do Trabalho;</li><li>Registro MTE.</li><li>Atuação anterior na função de Técnico de Segurança do Trabalho.</li><li>Jornada: escala 12x36 (diurno ou noturno)</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Para sua saúde e de sua família:</b><ul><li> Assistência Médica e Odontológica (extensivo aos dependente diretos).</li><li> Alimentação no local</li><li> Vale transporte</li><li> Convênio Farmácia: desconto em medicamentos e produtos diversos para higiene pessoal</li></ul><br /><br /><b>Para sua saúde e bem-estar:</b><br /><ul><li>GymPass / Seguro de Vida.</li></ul><br /><b>Para seu desenvolvimento acadêmico:</b><br /><ul><li>Descontos em instituições de ensino parceiras.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/637/tecnico-de-seguranca-do-trabalho-sms?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[3331.03]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[3331.03]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[77a51dd5-8d17-4f18-b112-2d6555288cc7]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[77a51dd5-8d17-4f18-b112-2d6555288cc7]]></partnerRequisitionId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[TECNICO DE SEGURANÇA DO TRABALHO - SMS]]></title>
+    <posterEmail><![CDATA[priscilla.veras@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Acompanhar e/ou implementar os programas de segurança, proteção e meio ambiente, seguindo ou produzindo os seguintes processos: PGR, CIPA, CAT, DDS etc., fiscalizando e acompanhando o uso dos EPI ́s, controlando a data de expiração dos equipamentos e materiais, elaborando relatórios fotográficos, além de palestras e integrações de novos funcionários.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />•Distribuir diariamente aos colaboradores, os EPI`s que serão usados, recolhendo aqueles danificados e separando-os, anotando na ficha pessoal de cada colaborador o que foi retirado e qual a data do trâmite, para fins de enviar uma notificação ao Auxiliar Administrativo para posterior compra, cumprimento da legislação e preservação da integridade física do colaborador;<br />•Fazer levantamento diário do estoque de todo o material de segurança do trabalho (entradas e saídas), anotando em planilha manual a relação dos materiais que faltam, repassando ao Administrativo, para fins de reposição de estoque;<br />•Visitar diariamente as áreas operacionais, para fins de inspecionar a segurança nas áreas;<br />•Fazer vistoria de veículos mensalmente, verificando pessoalmente os freios, faróis e etc., informando aos Terceirizados caso haja necessidade de algum reparo, lançando em planilha feita no Word os problemas relacionados ao veículo e enviando ao Gerente de Filial os problemas encontrados, para fins de manter os veículos em boas condições e segurança dos colaboradores;<br />•Fazer análise de risco baseando-se nas atividades que serão feitas pelas equipes, definindo qual será o EPI usado, qual o processo mais seguro para a realização da atividade, enumerando os possíveis riscos, para fins de preservar a integridade física dos colaboradores;<br />•Fazer diariamente a inspeção de segurança, especificando as não conformidades existentes nos locais, fazendo um relatório e encaminhando ao Gerente de Filial ou à empresa responsável, para fins de preservar a integridade física do colaborador e do Meio Ambiente;<br />•Responsável por elaborar todo trâmite relacionado à eleição da CIPA e os documentos, exigidos pelo Ministério do Trabalho e Emprego, para fins de atender a fiscalização trabalhista;<br />•Fazer cumprir as ações da CIPA em acordo com o SMS, identificar necessidades, planejar, executar e avaliar programas de treinamento de segurança industrial e meio ambiente;<br />•Controlar mensalmente o SESMT, número de acidentes ocorridos em cada setor, através de notificação do ocorrido, reunindo as CATS, análise de levantamento de acidentes, fazendo um parâmetro e calculando as horas perdidas, total de cada setor, enviando as cópias ao Gerente de Filial e a empresa CSN, para fins de controle do número de acidentes e as horas perdidas;<br />•Notificar eventualmente, através de comunicado feito em planilha Excel, uma análise do acidente ocorrido através de simulações ou depoimentos, traçando medidas corretivas, enviando ao Supervisor de área em que ocorreu o acidente, para fins de prevenir acidentes com a mesma proporção;<br />•Preencher eventualmente no site do INSS, uma CAT no prazo máximo de quarenta e oito horas após o acidente, informando a lesão ocorrida, o local e a hora, o agente causador, a situação causadora, imprimindo uma cópia e arquivando, fornecendo cópia ao colaborador, e enviando através do site do INSS, para fins de comunicar ao INSS, preservar o colaborador de possíveis dificuldades trabalhistas e a empresa de possíveis processos trabalhistas;<br />•Coordenar eventualmente a troca ou efetiva recarga de extintores, inspecionando um a um, mantendo contato direto com a empresa responsável pela manutenção dos extintores para fins da Triunfo estar preparada caso ocorra algum incêndio;<br />•Promover eventualmente a integração dos novos colaboradores, apresentando os riscos a que estão expostos, ensinando os procedimentos e análises de riscos, fazendo um treinamento total, apresentação através de Power Point, dando palestras em sala de reuniões, apresentando-os aos seus Supervisores, para fins de mostrar os riscos aos novos colaboradores, apresentar-lhes as responsabilidades e obrigações dentro da empresa;<br />•Elaborar mensalmente no Word, gerando cópias e distribuindo em locais de livre acesso aos colaboradores um jornal interno, imputando informações preventivas e atualidades, para fins de fornecer informações e gerar uma integração;<br />•Fiscalizar diariamente as Unidades, com o intuito de assegurar que o DDS (Diálogo Diário de Segurança) está sendo cumprido, arquivando e assinando o DDS, para fins de promover a conscientização e prevenção de acidentes entre os colaboradores;<br />•Preencher eventualmente uma planilha enviada pelo Porto de Itaguaí, constando a entrada e a saída de resíduos da oficina, entregando ao Chefe de Oficina, que é responsável pelo recolhimento, para fins de conformidades junto à FEEMA;<br />•Representar eventualmente, a empresa na CPATP (Comissão de Prevenção de Acidentes de Trabalhadores;<br />•Portuários), participando de reuniões ordinárias e semestrais para fins de justificar problemas e tomar as devidas providências;<br />•Planejar, coordenar, orientar tecnicamente, avaliar e realizar estudos, avaliações e inspeções das condições de trabalho, quanto aos aspectos de higiene industrial, segurança industrial e meio ambiente, em áreas, equipamentos, instalações.<br />•Elaborar documentação necessária para a abertura da Comunicação de Acidente de Trabalho e encaminhar para o Setor de Recursos Humanos para que seja emitida;<br />•Orientar os membros da CIPA para os assuntos ligados a saúde e higiene, através da participação em reuniões e da realização de palestras na semana de prevenção da empresa, visando prevenir doenças e acidentes do trabalho;<br />•Indicar e orientar a implementação de medidas preventivas de segurança em toda área industrial, administrativa e proteção ao meio ambiente;<br />•Fazer cumprir as ações da CIPA em acordo com o SMS, identificar necessidades, planejar, executar e avaliar programas de treinamento de segurança industrial e meio ambiente;<br />•Fazer plano de ação para cumprimento do Anexo SMS escopo do Contrato, apresentando evidências para PETROBRAS;<br />•Participar de programas de auditorias de SMS, segurança industrial e de meio ambiente, acompanhar as atividades operacionais nas áreas contratuais, visando à segurança do profissional envolvido, bem patrimonial e meio ambiente;<br />•Investigar a analisar acidentes e ocorrências anormais, planejando e executando Plano de Ação trazendo segurança nas operações; <br />•Elaborar planos de contingência e coordenar atividades de controle de emergências para todas as áreas contratuais, proceder de acordo com os padrões técnicos e normas operacionais;<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo; </li><li>Curso Técnico em Segurança do Trabalho;</li><li>Registro MTE.</li><li>Atuação anterior na função de Técnico de Segurança do Trabalho.</li><li>Jornada: escala 12x36 (diurno ou noturno)</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Para sua saúde e de sua família:</b><ul><li> Assistência Médica e Odontológica (extensivo aos dependente diretos).</li><li> Alimentação no local</li><li> Vale transporte</li><li> Convênio Farmácia: desconto em medicamentos e produtos diversos para higiene pessoal</li></ul><br /><br /><b>Para sua saúde e bem-estar:</b><br /><ul><li>GymPass / Seguro de Vida.</li></ul><br /><b>Para seu desenvolvimento acadêmico:</b><br /><ul><li>Descontos em instituições de ensino parceiras.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/636/tecnico-de-seguranca-do-trabalho-sms?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[3331.03]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[3331.03]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
@@ -56901,6 +57227,26 @@ na embalagem de todos os produtos conforme destinado.</li></ul><br /><br /><b>Re
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[6669194b-c104-40da-abd8-fe85e21b67a5]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[6669194b-c104-40da-abd8-fe85e21b67a5]]></partnerRequisitionId>
+    <company><![CDATA[Nutrili Alimentos]]></company>
+    <title><![CDATA[Auxiliar de Serviços Gerais - Horticultura]]></title>
+    <posterEmail><![CDATA[anamenezes@fazendasaopaulo.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) profissional para atuar como <strong>Auxiliar de Serviços Gerais</strong>, apoiando as atividades de plantio, manejo, manutenção e colheita de hortaliças.<br />A pessoa será responsável por contribuir com a rotina da horticultura, atuando em campo e estufa e garantindo organização, limpeza e suporte às atividades agrícolas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Preparar canteiros, solo e substratos conforme orientação do encarregado;</li><li>Auxiliar no plantio de mudas, semeadura e transplante;</li><li>Realizar irrigação manual e auxiliar na operação do sistema de irrigação;</li><li>Realizar capinas, podas simples, retirada de mato e controle manual de pragas;</li><li>Operar roçadeira costal, conforme treinamento e orientação;</li><li>Realizar colheita, seleção, lavagem e organização das hortaliças;</li><li>Organizar caixas, bandejas, embalagens e demais materiais de trabalho;</li><li>Auxiliar na adubação e aplicação de insumos autorizados pelo responsável técnico;</li><li>Manter a organização e limpeza das áreas de trabalho e equipamentos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo;</li><li>Experiência anterior na função ou em atividades semelhantes;</li><li>Habilidade em trabalhar em equipe;</li><li>Disposição para realizar tarefas diversas.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência médica e odontológica (opcionais, com adesão subsidiada pelo colaborador);</li><li>Convênio com farmácias;</li><li>Refeitório no local;</li><li>Transporte por rota de ônibus (Oliveira e Santo Antônio do Amparo);</li><li>Programa Celebra+.</li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nutrilivagas/95/auxiliar-de-servicos-gerais-horticultura?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[89048576]]></companyId>
+    <city><![CDATA[Oliveira]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[691a4e20-40b2-43b6-bcef-1189176b568b]]></partnerJobId>
     <partnerRequisitionId><![CDATA[691a4e20-40b2-43b6-bcef-1189176b568b]]></partnerRequisitionId>
     <company><![CDATA[Nutrili Alimentos]]></company>
@@ -59987,26 +60333,6 @@ Dar suporte à área de Gente &amp; Gestão nas rotinas e demandas do dia a dia,
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[d666492d-7458-4b3a-9755-e00d879fdf88]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[d666492d-7458-4b3a-9755-e00d879fdf88]]></partnerRequisitionId>
-    <company><![CDATA[Grupo PMZ]]></company>
-    <title><![CDATA[AP01 | AUXILIAR DE ESTOQUE]]></title>
-    <posterEmail><![CDATA[leila.duarte@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por assegurar a correta recepção de peças e acessórios, o devido acondicionamento e uma eficiente expedição das peças, garantindo a organização e limpeza da área de estoque.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Alocar as peças que chegam de rota, transferências, devoluções, em seus respectivos endereços, e realocar quando necessário;</li><li>Separar peças para vendas e transferências conforme o controle de separação na tela do celular;</li><li>Fazer as rotinas da qualidade através do aplicativo a para garantir o bom funcionamento das normas;</li><li>Periodicamente participa do inventário do estoque confrontando a posição física das peças com as quantidades no sistema, para efeitos de controle e posterior contabilização;</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior;  </li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade;</li><li>Cumprir os procedimentos de estoque da loja;</li><li>Cumprir com os horários e jornadas de trabalho determinada pela loja;</li><li>Atualizar-se quanto aos catálogos e novos produtos;</li><li>Participar de treinamentos de atualização;</li><li>Substituir auxiliar de estoque de outras lojas quando solicitado.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo</li><li>Conhecimentos básicos em informática</li><li>Boa capacidade de organização e controle de estoque</li><li>Agilidade e facilidade no manuseio de mercadorias</li><li>Proatividade e disposição para o trabalho em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte</li><li>Vale refeição</li><li>Trilha de Carreira</li><li>Gratificação por Produtividade</li><li>Desconto em Drogarias</li><li>Desconto nas principais Universidade privadas</li><li>Desconto Sesc</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/333/ap01-auxiliar-de-estoque?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[22287656]]></companyId>
-    <city><![CDATA[Macapá]]></city>
-    <state><![CDATA[Amapá]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[267f742e-51a7-41fd-b2e4-26b541e29b35]]></partnerJobId>
     <partnerRequisitionId><![CDATA[267f742e-51a7-41fd-b2e4-26b541e29b35]]></partnerRequisitionId>
     <company><![CDATA[Grupo PMZ]]></company>
@@ -60540,10 +60866,10 @@ Assegurar a correta recepção, armazenagem e expedição de peças e acessório
     <partnerJobId><![CDATA[3600b531-8347-4c6b-8f72-ccec25cfea5f]]></partnerJobId>
     <partnerRequisitionId><![CDATA[3600b531-8347-4c6b-8f72-ccec25cfea5f]]></partnerRequisitionId>
     <company><![CDATA[Grupo PMZ]]></company>
-    <title><![CDATA[PA01 | AUXILIAR DE ESTOQUE]]></title>
+    <title><![CDATA[PA01 | AUXILIAR DE ESTOQUE/OPERADOR DE CAIXA]]></title>
     <posterEmail><![CDATA[mariane.gomes@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por assegurar a correta recepção de peças e acessórios, o devido acondicionamento e uma eficiente expedição das peças, garantindo a organização e limpeza da área de estoque.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Alocar as peças que chegam de rota, transferências, devoluções, em seus respectivos endereços, e realocar quando necessário;</li><li>Separar peças para vendas e transferências conforme o controle de separação na tela do celular;</li><li>Fazer as rotinas da qualidade através do aplicativo a para garantir o bom funcionamento das normas;</li><li>Periodicamente participa do inventário do estoque confrontando a posição física das peças com as quantidades no sistema, para efeitos de controle e posterior contabilização;</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior;  </li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade;</li><li>Cumprir os procedimentos de estoque da loja;</li><li>Cumprir com os horários e jornadas de trabalho determinada pela loja;</li><li>Atualizar-se quanto aos catálogos e novos produtos;</li><li>Participar de treinamentos de atualização;</li><li>Substituir auxiliar de estoque de outras lojas quando solicitado.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo</li><li>Conhecimentos básicos em informática</li><li>Boa capacidade de organização e controle de estoque</li><li>Agilidade e facilidade no manuseio de mercadorias</li><li>Proatividade e disposição para o trabalho em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte</li><li>Vale refeição</li><li>Trilha de Carreira</li><li>Gratificação por Produtividade</li><li>Desconto em Drogarias</li><li>Desconto nas principais Universidade privadas</li><li>Desconto Sesc</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/327/pa01-auxiliar-de-estoque?applicationSource=0]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por assegurar a correta recepção de peças e acessórios, o devido acondicionamento e uma eficiente expedição das peças, garantindo a organização e limpeza da área de estoque.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Alocar as peças que chegam de rota, transferências, devoluções, em seus respectivos endereços, e realocar quando necessário;</li><li>Separar peças para vendas e transferências conforme o controle de separação na tela do celular;</li><li>Fazer as rotinas da qualidade através do aplicativo a para garantir o bom funcionamento das normas;</li><li>Periodicamente participa do inventário do estoque confrontando a posição física das peças com as quantidades no sistema, para efeitos de controle e posterior contabilização;</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior;  </li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade;</li><li>Cumprir os procedimentos de estoque da loja;</li><li>Cumprir com os horários e jornadas de trabalho determinada pela loja;</li><li>Atualizar-se quanto aos catálogos e novos produtos;</li><li>Participar de treinamentos de atualização;</li><li>Substituir auxiliar de estoque de outras lojas quando solicitado.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo</li><li>Conhecimentos básicos em informática</li><li>Boa capacidade de organização e controle de estoque</li><li>Agilidade e facilidade no manuseio de mercadorias</li><li>Proatividade e disposição para o trabalho em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte</li><li>Vale refeição</li><li>Trilha de Carreira</li><li>Gratificação por Produtividade</li><li>Desconto em Drogarias</li><li>Desconto nas principais Universidade privadas</li><li>Desconto Sesc</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/327/pa01-auxiliar-de-estoque-operador-de-caixa?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[22287656]]></companyId>
     <city><![CDATA[Altamira]]></city>
     <state><![CDATA[Pará]]></state>
@@ -74917,6 +75243,85 @@ Experiência no uso de <strong>CRM de vendas</strong> (HubSpot, Pipedrive, RD St
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[b4125ed4-0681-433e-a8a9-c839fa24feef]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[b4125ed4-0681-433e-a8a9-c839fa24feef]]></partnerRequisitionId>
+    <company><![CDATA[eCOMEX]]></company>
+    <title><![CDATA[Consultor Técnico PL/SQL – Vaga Afirmativa para PCD | Banco de Talentos]]></title>
+    <posterEmail><![CDATA[lucas.olivato@ecomex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A <strong>eCOMEX</strong> está em busca de profissionais com deficiência para compor nosso <strong>Banco de Talentos para futuras oportunidades como Consultor Técnico PL/SQL</strong>.
+Esta é uma <strong>vaga afirmativa e exclusiva para Pessoas com Deficiência (PCD)</strong>, com o objetivo de mapear profissionais que tenham experiência e conhecimentos compatíveis com a atuação de Consultor Técnico e que possam fazer parte do nosso time em futuras oportunidades.
+Buscamos profissionais que tenham interesse em atuar em um ambiente dinâmico, colaborativo e que valorizem a tecnologia, a inovação e a busca por soluções.
+Nosso compromisso é promover um ambiente cada vez mais <strong>diverso, inclusivo e acolhedor</strong>, valorizando diferentes experiências, perspectivas e trajetórias profissionais.
+<strong>Modelo de trabalho:</strong> 100% remoto.
+Os profissionais cadastrados poderão permanecer em nosso <strong>Banco de Talentos</strong> e ser considerados para futuras oportunidades compatíveis com seu perfil profissional e conhecimentos técnicos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Atuar no desenvolvimento, manutenção e sustentação de soluções utilizando <strong>PL/SQL</strong>;
+</li>
+<li>
+Realizar análise técnica e funcional de demandas, identificando necessidades e propondo soluções adequadas;
+</li>
+<li>
+Desenvolver e realizar manutenção de procedures, functions, packages, triggers e demais objetos de banco de dados;
+</li>
+<li>
+Analisar e corrigir incidentes e problemas relacionados às aplicações e ao banco de dados;
+</li>
+<li>
+Realizar consultas, análises e manipulação de dados em <strong>Oracle</strong>;
+</li>
+<li>
+Apoiar na identificação e resolução de problemas técnicos, garantindo a qualidade e o funcionamento das soluções;
+</li>
+<li>
+Interagir com diferentes áreas e equipes, contribuindo para o entendimento e atendimento das demandas;
+</li>
+<li>
+Elaborar e manter documentações técnicas relacionadas às soluções desenvolvidas;
+</li>
+<li>
+Participar de projetos, melhorias e evoluções dos sistemas e processos da área;
+</li>
+<li>
+Seguir boas práticas de desenvolvimento, qualidade e segurança da informação.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência profissional com <strong>PL/SQL</strong>;
+</li>
+<li>
+Conhecimento em <strong>Oracle Database</strong>;
+</li>
+<li>
+Experiência com desenvolvimento, manutenção e sustentação de aplicações;
+</li>
+<li>
+Conhecimento em <strong>procedures, functions, packages, triggers e consultas SQL</strong>;
+</li>
+<li>
+Capacidade de analisar e solucionar problemas técnicos;
+</li>
+<li>
+Boa capacidade de comunicação e relacionamento interpessoal;
+</li>
+<li>
+Perfil analítico, organizado, proativo e orientado à resolução de problemas;
+</li>
+<li>
+Facilidade para trabalhar de forma colaborativa e em modelo <strong>100% remoto</strong>;
+</li>
+<li>
+Desejável experiência em sistemas corporativos e/ou soluções voltadas para <strong>Comércio Exterior</strong>;
+</li>
+<li>
+Formação superior completa ou em andamento em <strong>Tecnologia da Informação, Sistemas de Informação, Ciência da Computação</strong> ou áreas correlatas.</li><br /><br /><b>Benefícios</b><br /><br />Vale Refeição (flexível para VR e/ou VA)<br /> Auxílio home office<br /> Assistência médica com atendimento em território nacional<br /> Assistência odontológica<br /> Seguro de vida<br /><b>E mais...</b><br /> Saldo Flexível Cartão Flash (para utilizar como quiser, dentro das carteiras de refeição/alimentação, mobilidade, educação, saúde e cultura)<br /> TotalPass — para cuidar da sua saúde física e bem-estar<br /> Convênio SESC — acesso a lazer, cultura, esporte e qualidade de vida<br /> Day Off no aniversário — porque seu dia merece ser especial!<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasecomex/46/consultor-tecnico-pl-sql-vaga-afirmativa-para-pcd-banco-de-talentos?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[147154]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[84531a43-5800-4bb0-954b-ec65d920d721]]></partnerJobId>
     <partnerRequisitionId><![CDATA[84531a43-5800-4bb0-954b-ec65d920d721]]></partnerRequisitionId>
     <company><![CDATA[eCOMEX]]></company>
@@ -78932,6 +79337,26 @@ Conhecimento básico em Pacote Office (Word e Excel)
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[058c268d-1dc9-423c-98bc-0c0eb5c2f39a]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[058c268d-1dc9-423c-98bc-0c0eb5c2f39a]]></partnerRequisitionId>
+    <company><![CDATA[Itaminas]]></company>
+    <title><![CDATA[TECNICO DE PCM (MATERIAIS)]]></title>
+    <posterEmail><![CDATA[joao.rezende@itaminas.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por atuar de forma multifuncional na estrutura de Planejamento e Controle da Manutenção (PCM), assegurando flexibilidade operacional, continuidade dos processos e balanceamento da carga de trabalho. Possui visão sistêmica do PCM e competência técnica para atuar nas funções de inspeção, planejamento, aprovisionamento, programação e preparação, garantindo que as atividades de manutenção sejam executadas dentro dos prazos, com controle de custos, qualidade e segurança, inclusive em cenários de ausência temporária de profissionais ou aumento de demanda operacional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar inspeções de manutenção conforme rotas estabelecidas, identificando anomalias, desvios operacionais e necessidades de intervenção.</li><li>Registrar informações técnicas de campo, abrindo ordens de serviço e garantindo qualidade e confiabilidade dos dados para suporte ao planejamento.</li><li>Disseminar boas práticas, padronizações e visão integrada dos processos de PCM.</li><li>Elaborar cronogramas de manutenção preventiva, planejando ordens de serviço, definindo escopo, sequência lógica, recursos, materiais e tempo de execução.</li><li>Garantir que as ordens de serviço estejam completas, claras e executáveis antes da programação.</li><li>Avaliar a disponibilidade de materiais necessários para execução das manutenções, solicitando-os por meio de abertura de SC e SA quando necessário.</li><li>Acompanhar prazos de entrega de materiais, tratativas de falta de itens e avaliação de alternativas técnicas.</li><li>Programar atividades de manutenção conforme capacidade de recursos, prioridades operacionais e janelas disponíveis.</li><li>Conferir materiais separados pelo almoxarifado, retirando-os e preparando-os para posicionamento nas áreas de execução.</li><li>Apoiar análises de backlog, indicadores de manutenção, gargalos e oportunidades de melhoria nos fluxos do PCM.</li><li>Atuar de forma flexível em qualquer função do PCM (inspeção, planejamento, aprovisionamento, programação ou preparação), conforme necessidade do negócio.</li><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso Técnico em <strong>Mecânica </strong>ou áreas correlatas.</li><li>Conhecimento em equipamentos industriais aplicados à mineração.</li><li>Capacidade de análise técnica, organização e controle de informações.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li><strong>Cartão Alimentação;</strong></li><li><strong>Alimentação na Empresa;</strong></li><li><strong>Seguro de Vida</strong>: Metlife, disponível para todos os colaboradores.</li><li><strong>Assistência Médico-Hospitalar</strong>: Plano de saúde Unimed BH</li><li><strong>Assistência Odontológica</strong>: Metlife, cobertura completa sem coparticipação.</li><li><strong>Kit Escolar</strong>: Concedido em janeiro para filhos/dependentes (3 a 18 anos) ou colaboradores matriculados em instituições de ensino.</li><li><strong>Transporte Fretado</strong>: Rotas abrangentes para Mário Campos, Ibirité e Sarzedo.</li><li><strong>Convênios Opcionais por Adesão</strong>: Farmácia, combustível e Clube Sesi Betim.</li><li><strong>Wellhub</strong>: Plano Silver custeado pela empresa (academias, estúdios e apps de saúde física e mental).</li><li><strong>Participação nos Lucros e Resultados (PLR).</strong></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasitaminas/205/tecnico-de-pcm-materiais?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[72685309]]></companyId>
+    <city><![CDATA[Sarzedo]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[b9e5f416-ac03-45dd-8158-e0c1a0952081]]></partnerJobId>
     <partnerRequisitionId><![CDATA[b9e5f416-ac03-45dd-8158-e0c1a0952081]]></partnerRequisitionId>
     <company><![CDATA[Itaminas]]></company>
@@ -80813,7 +81238,7 @@ avançado</li><li>Inglês avançado/intermediário</li><li>Forte capacidade anal
     <partnerJobId><![CDATA[34f4853d-4d83-4ca9-aeb6-276b463035e1]]></partnerJobId>
     <partnerRequisitionId><![CDATA[34f4853d-4d83-4ca9-aeb6-276b463035e1]]></partnerRequisitionId>
     <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
-    <title><![CDATA[#OPERADOR PRODUÇÃO I]]></title>
+    <title><![CDATA[#OPERADOR PRODUÇÃO I.]]></title>
     <posterEmail><![CDATA[bruna.viriato@foxconn.com]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A vaga de <strong>Operador(a) de Produção</strong> na Foxconn é voltada para profissionais que desejam atuar na linha de montagem e fabricação de produtos eletrônicos, contribuindo para a produção de dispositivos tecnológicos de grandes marcas globais.<br /><br /><b>Horários (segunda à sexta):</b><br />1 TURNO - Das 05:15 às 15h18<br />2 TURNO - Das 15:18 às 00:59<br />3 TURNO - Das 23:30 às 07h30<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar na <strong>linha de montagem</strong> de produtos eletrônicos.</li><li>Realizar montagem, encaixe e fixação de componentes.</li><li>Operar máquinas e equipamentos industriais.</li><li>Executar testes básicos de funcionamento e inspeção visual de qualidade.</li><li>Seguir procedimentos técnicos e padrões de segurança.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino médio completo.</li><li>Experiência na área.</li><li>Disponibilidade para trabalhar em turnos.</li><li>Facilidade para trabalho em equipe.</li><li>Atenção aos detalhes e comprometimento com metas de produção.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Transporte fretado</li><li>Refeitório no local</li><li>Convênio médico</li><li>Convênio odontológico</li><li>Seguro de vida</li><li>Cartão alimentação</li><li>PPR (Programa de Participação nos Resultados)</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasbandeirantes/12/operador-producao-i?applicationSource=0]]></applyUrl>
@@ -83743,6 +84168,26 @@ BIM da empresa.<br />
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[b40eefc7-8aa7-4766-b46b-86862d18a4d8]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[b40eefc7-8aa7-4766-b46b-86862d18a4d8]]></partnerRequisitionId>
+    <company><![CDATA[Compliance Logística]]></company>
+    <title><![CDATA[Operador de Logística JR]]></title>
+    <posterEmail><![CDATA[aline@compliancelogistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Carregamento e descarga de Caminhão- Tanque, medição de tanque, ANP44, housekeeping da base, manuseio de combustíveis, alinhamento de válvulas.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Carregamento e descarga de Caminhão- Tanque, medição de tanque, ANP44, housekeeping da base, manuseio de combustíveis, alinhamento de válvulas.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo;Residir em Cosmópolis ou Paulínia<br />Disponibilidade para escala alternadas, sendo:<br />        6:30 às 15:30 <br />        13:30 às 22:00<br />        Sábado 6:30 às 15:30 (alternado)<br /><br /><br /><br /><br /><b>Benefícios</b><br /><br />Adicional de 30% de periculosidade;<br />Vale alimentação;Vale refeição;<br />Vale transporte;<br />Convênio médico;<br />Convênio odontológico;<br />Planos de bem-estar e Wellhub;<br />Previdência privada;<br />PPR (programa de participação nos resultados).<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/compliancelogisticacarreira/18/operador-de-logistica-jr?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[101290556]]></companyId>
+    <city><![CDATA[Paulínia]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[6f3f80dd-2231-4f54-a52f-b0aa653a0b7f]]></partnerJobId>
     <partnerRequisitionId><![CDATA[6f3f80dd-2231-4f54-a52f-b0aa653a0b7f]]></partnerRequisitionId>
     <company><![CDATA[Compliance Logística]]></company>
@@ -85374,26 +85819,6 @@ Oferecer orientação individualizada e acompanhar aspectos comportamentais, com
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[8020cf21-5815-40cb-91e6-5c707253cb6a]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[8020cf21-5815-40cb-91e6-5c707253cb6a]]></partnerRequisitionId>
-    <company><![CDATA[Colégio GGE]]></company>
-    <title><![CDATA[AUXILIAR DE SALA DE ESTUDOS]]></title>
-    <posterEmail><![CDATA[coordselecaorh@ggeweb.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Promover suporte a coordenação, prezando sempre pelo correto fluxo disciplinar de acordo com o regimento interno do aluno. Ajudando na orientação de professores, familiares e alunos nas questões pedagógicas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Receber os alunos que chegam atrasados e aguardam o toque para a segunda aula dentro da biblioteca;<br />- Organizar a sala de estudos para o plantão de dúvidas; <br />- Preencher a planilha com a frequência dos alunos no plantão de dúvidas; <br />- Organizar o ambiente para a realização das avaliações dos alunos com necessidades especias que são aplicadas dentro da sala de estudos.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Educação Superior incompleta.Vivência com rede de ensino.<br /><br /><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgge/215/auxiliar-de-sala-de-estudos?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[84804947]]></companyId>
-    <city><![CDATA[Recife]]></city>
-    <state><![CDATA[Pernambuco]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[71f51ea4-ab81-4813-895e-b1fdfdebfc44]]></partnerJobId>
     <partnerRequisitionId><![CDATA[71f51ea4-ab81-4813-895e-b1fdfdebfc44]]></partnerRequisitionId>
     <company><![CDATA[Colégio GGE]]></company>
@@ -86759,6 +87184,26 @@ contribuir para o nosso sucesso coletivo.<br /><br /><b>Responsabilidades e atri
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[06b1513a-6758-44b7-b0d8-71d6f8040cce]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[06b1513a-6758-44b7-b0d8-71d6f8040cce]]></partnerRequisitionId>
+    <company><![CDATA[E-inscrição Tecnologia e Inovação]]></company>
+    <title><![CDATA[Especialista em Compliance com Foco em Fraudes e Riscos]]></title>
+    <posterEmail><![CDATA[people@e-inscricao.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos procurando uma pessoa para a posição de <b>Especialista em Compliance com Foco em Fraudes e Riscos</b> para integrar nosso time e atuar diretamente no fortalecimento da segurança, conformidade e integridade da nossa operação no setor de tecnologia e meios de pagamento. Buscamos alguém com visão analítica, proatividade e um olhar apurado para transformar dados em inteligência de proteção — identificando vulnerabilidades, investigando fraudes e otimizando processos a partir da análise técnica de dados (SQL, Python e Power BI). Se você domina a dinâmica de produtos financeiros, sabe como mitigar riscos em ecossistemas de rápido crescimento e entende o impacto das exigências regulatórias (Bacen, LGPD), esta oportunidade é para você.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Buscamos um(a) profissional preparado(a) para atuar no monitoramento e na prevenção de fraudes e riscos, com alto grau de autonomia, organização e foco em resultados. A posição exige maturidade para acompanhar múltiplas demandas operacionais e regulatórias, proatividade para antecipar vulnerabilidades nos processos e disciplina na gestão de KPIs de fraude. Procuramos alguém com forte capacidade analítica e visão estratégica de Compliance — capaz de transitar com naturalidade no ecossistema de meios de pagamento e tecnologia, construir articulação eficiente com órgãos reguladores, jurídico e outras instituições financeiras, e gerar inteligência de dados (SQL, Python e Power BI) para proteger o negócio a partir de uma atuação preventiva e assertiva.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Direito, Análise e Desenvolvimento de Sistemas, Administração, Contabilidade ou áreas correlatas.</li><li>Experiência comprovada em compliance com foco em prevenção a fraudes e gestão de riscos em empresas de tecnologia, fintechs, bancos, meios de pagamento, adquirentes ou e-commerce.</li><li>Domínio intermediário de SQL e Python para extração e manipulação de grandes bases de dados.</li><li>Conhecimento intermediário em Power BI e Excel.</li><li>Noções de matemática financeira e produtos bancários/cartão de crédito.</li><li>Habilidade no uso de ferramentas de monitoramento, detecção de fraudes e familiaridade com modelagem.</li><li>Conhecimento prático sobre o <i>modus operandi</i> de fraudes e golpes no ecossistema financeiro;</li><li>Conhecimento em legislação de proteção de dados (LGPD, GDPR) e normas do setor, além de vivência em interface com Bacen, PROCON, Ouvidoria e processos judiciais;</li><li>Capacidade de comunicação clara para articulação entre áreas internas, jurídico e parcerias com outras instituições financeiras.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Day-Off no seu aniversário;</li><li>Descanso Remunerado de 20 dias úteis;</li><li>Participe de iniciativas de bem-estar;</li><li>Pipelovers como ferramenta de desenvolvimento individual profissional;</li><li>Cresça conosco! Desenvolva sua trajetória profissional com nosso plano de carreira;</li><li>Contratação PJ (Flexibilidade e autonomia);</li><li>Ações internas com premiações em dinheiro;</li><li>Premiação trimestral de destaque da área;</li><li>87% dos colaboradores satisfeitos com a liderança (Pesquisa anônima);</li><li>Headhunter (valor por indicação de colaborador que passar do período de experiência);</li><li>Wellhub (Gympass);</li><li>Onhappy (descontos em hotéis e passagens);</li><li>Seguro de vida.</li></ul><br /><br /><br /><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/einscricao/42/especialista-em-compliance-com-foco-em-fraudes-e-riscos?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[16255638]]></companyId>
+    <city><![CDATA[Barueri]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[573c01c1-9c40-48e8-bfa5-9778070d6730]]></partnerJobId>
     <partnerRequisitionId><![CDATA[573c01c1-9c40-48e8-bfa5-9778070d6730]]></partnerRequisitionId>
     <company><![CDATA[E-inscrição Tecnologia e Inovação]]></company>
@@ -86878,26 +87323,6 @@ contribuir para o nosso sucesso coletivo.<br /><br /><b>Responsabilidades e atri
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1cef747c-a7db-4fd6-9f2c-7cb7581f073f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[1cef747c-a7db-4fd6-9f2c-7cb7581f073f]]></partnerRequisitionId>
-    <company><![CDATA[E-inscrição Tecnologia e Inovação]]></company>
-    <title><![CDATA[Executivo Comercial | Recife]]></title>
-    <posterEmail><![CDATA[anthony.barbosa@e-inscricao.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos procurando uma pessoa Vendedor Outbound (Field Sales) - Pleno/Sênior -  Recife para integrar nosso time e atuar diretamente com o nosso público-alvo: igrejas, ministérios, organizações cristãs e produtores de eventos cristãos. Buscamos alguém com visão estratégica, sensibilidade no relacionamento e desejo genuíno de contribuir com o crescimento de projetos que impactam vidas. Se você gosta de construir conexões verdadeiras, entende a importância do trabalho no contexto cristão e deseja atuar de forma consultiva, esta oportunidade pode ser para você.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Buscamos um(a) profissional com perfil pleno a sênior, preparado(a) para atuar de forma externa, com alto grau de autonomia, disciplina e foco em resultados. A posição exige maturidade profissional para gestão da própria agenda, cumprimento de metas e excelência nas entregas.<br /><br />Procuramos alguém com forte habilidade relacional e comercial, capaz de transitar com naturalidade em igrejas, abordar pastores e líderes com segurança, construir relacionamentos de confiança e gerar oportunidades mesmo em interações não previamente agendadas.<br /><br /><b>Requisitos e qualificações</b><br /><br />• Experiência comprovada em <strong>field sales (vendas presenciais)</strong>, com atuação em campo e gestão ativa de carteira e oportunidades;<br />• Vivência no uso de <strong>CRM robusto</strong>, como HubSpot (ou ferramentas equivalentes), para organização de pipeline, registro de interações e acompanhamento de resultados;<br />• <strong>Excelente comunicação interpessoal</strong>, com capacidade de adaptação a diferentes perfis de interlocutores;<br />• Perfil fortemente orientado à <strong>construção e manutenção de relacionamentos de longo prazo</strong>;<br /><br /><b>Benefícios</b><br /><br /><ul><li>Day-Off no seu aniversário</li><li>Descanso Remunerado de 20 dias úteis</li><li>Participe de iniciativas de bem-estar</li><li>Pipelovers como ferramenta de desenvolvimento individual profissional</li><li>Cresça conosco! Desenvolva sua trajetória profissional com nosso plano de carreira</li><li>Contratação PJ (Flexibilidade e autonomia)</li><li>Trabalho Remoto (com presença em alguns eventos)</li><li>Ações internas com premiações em dinheiro</li><li>Premiação trimestral de destaque da área</li><li>87% dos colaboradores satisfeitos com a liderança (Pesquisa anônima)</li><li>Headhunter (valor por indicação de colaborador que passar do período de experiência)</li><li>Wellhub (Gympass)</li><li>Onhappy (descontos em hotéis e passagens)</li><li>Seguro de vida</li></ul><br /><br /><br /><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/einscricao/28/executivo-comercial-recife?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[16255638]]></companyId>
-    <city><![CDATA[Recife]]></city>
-    <state><![CDATA[Pernambuco]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[7a01df50-7ce0-4b2a-9dd7-17619462f86e]]></partnerJobId>
@@ -91584,26 +92009,6 @@ Boa comunicação, capacidade analítica e facilidade para relacionamento com cl
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[8f5f299c-78c0-4ed2-9c6d-e03d2f69a2e0]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[8f5f299c-78c0-4ed2-9c6d-e03d2f69a2e0]]></partnerRequisitionId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Auxiliar de Logística]]></title>
-    <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Apoiar no planejamento e controle das operações logísticas.</li><li>Acompanhar processos de recebimento, armazenagem e expedição de mercadorias.</li><li>Emitir e conferir documentos de transporte e notas fiscais.</li><li>Monitorar pedidos e prazos de entrega junto a transportadoras e clientes.</li><li>Atualizar sistemas de gestão logística e relatórios de acompanhamento.</li><li>Controlar indicadores operacionais (tempo de entrega, custos, avarias).</li><li>Dar suporte na negociação e relacionamento com fornecedores e prestadores de serviço.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo (desejável superior em andamento em Logística, Administração ou áreas correlatas).</li><li>Experiência prévia em rotinas administrativas ou logísticas.</li><li>Conhecimento em informática (Excel, sistemas de gestão).</li><li>Organização, atenção aos detalhes e responsabilidade.</li><li>Boa comunicação e capacidade de trabalho em equipe.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale-transporte (opcional)</li><li>Vale Alimentação ou Refeição</li><li>Parceria com o SEST SENAT<br /></li><li>Parceria com farmácias, universidades e restaurantes.<br /></li><li>Possibilidade de Crescimento.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/211/auxiliar-de-logistica?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Maracanaú]]></city>
-    <state><![CDATA[Ceará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[f94504c6-ccd8-440e-97a6-8603db64e25f]]></partnerJobId>
     <partnerRequisitionId><![CDATA[f94504c6-ccd8-440e-97a6-8603db64e25f]]></partnerRequisitionId>
     <company><![CDATA[L'auto Cargo]]></company>
@@ -91724,26 +92129,6 @@ Boa comunicação, capacidade analítica e facilidade para relacionamento com cl
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[f6e9cbc1-b2f8-4a75-9c3f-c9144875b4e2]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[f6e9cbc1-b2f8-4a75-9c3f-c9144875b4e2]]></partnerRequisitionId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Supervisor Operacional]]></title>
-    <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Supervisionar as atividades operacionais da empresa, garantindo eficiência e qualidade nos processos.</li><li>Planejar e distribuir tarefas entre a equipe, assegurando cumprimento de prazos e metas.</li><li>Monitorar indicadores de desempenho (produtividade, custos, qualidade, segurança).</li><li>Implementar melhorias contínuas nos processos operacionais.</li><li>Garantir conformidade com normas internas, regulamentos e políticas de segurança.</li><li>Apoiar a integração entre áreas como logística, produção, manutenção e atendimento ao cliente.</li><li>Treinar e desenvolver colaboradores, promovendo engajamento e capacitação.</li><li>Elaborar relatórios gerenciais e apoiar a tomada de decisão da coordenação/gerência.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Administração, Engenharia de Produção, Logística ou áreas correlatas (ou técnico com experiência sólida).</li><li>Experiência prévia em supervisão de operações ou liderança de equipes.</li><li>Conhecimento em indicadores de performance e ferramentas de gestão.</li><li>Organização, atenção aos detalhes e responsabilidade.</li><li>Excel Avançado.</li><li>Boa comunicação e habilidade de liderança.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale-transporte (opcional)</li><li>Vale Alimentação ou Refeição</li><li>Parceria com o SEST SENAT<br /></li><li>Parceria com farmácias, universidades e restaurantes.<br /></li><li>Possibilidade de Crescimento.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/179/supervisor-operacional?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Campo Grande]]></city>
-    <state><![CDATA[Mato Grosso do Sul]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[c6905421-60fd-476d-816c-d92643b7776d]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c6905421-60fd-476d-816c-d92643b7776d]]></partnerRequisitionId>
     <company><![CDATA[L'auto Cargo]]></company>
@@ -91774,26 +92159,6 @@ Boa comunicação, capacidade analítica e facilidade para relacionamento com cl
     <companyId><![CDATA[11691971]]></companyId>
     <city><![CDATA[Benevides]]></city>
     <state><![CDATA[Pará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b05fec0c-1da4-4695-a35c-4c6de799f89b]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[b05fec0c-1da4-4695-a35c-4c6de799f89b]]></partnerRequisitionId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Supervisor Operacional]]></title>
-    <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Supervisionar as atividades operacionais da empresa, garantindo eficiência e qualidade nos processos.</li><li>Planejar e distribuir tarefas entre a equipe, assegurando cumprimento de prazos e metas.</li><li>Monitorar indicadores de desempenho (produtividade, custos, qualidade, segurança).</li><li>Implementar melhorias contínuas nos processos operacionais.</li><li>Garantir conformidade com normas internas, regulamentos e políticas de segurança.</li><li>Apoiar a integração entre áreas como logística, produção, manutenção e atendimento ao cliente.</li><li>Treinar e desenvolver colaboradores, promovendo engajamento e capacitação.</li><li>Elaborar relatórios gerenciais e apoiar a tomada de decisão da coordenação/gerência.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Administração, Engenharia de Produção, Logística ou áreas correlatas (ou técnico com experiência sólida).</li><li>Experiência prévia em supervisão de operações ou liderança de equipes.</li><li>Conhecimento em indicadores de performance e ferramentas de gestão.</li><li>Organização, atenção aos detalhes e responsabilidade.</li><li>Excel Avançado.</li><li>Boa comunicação e habilidade de liderança.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale-transporte (opcional)</li><li>Vale Alimentação ou Refeição</li><li>Parceria com o SEST SENAT<br /></li><li>Parceria com farmácias, universidades e restaurantes.<br /></li><li>Possibilidade de Crescimento.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/111/supervisor-operacional?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Campina Grande]]></city>
-    <state><![CDATA[Paraíba]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -91884,26 +92249,6 @@ Boa comunicação, capacidade analítica e facilidade para relacionamento com cl
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[7cf9ebab-0e3b-471e-ab49-6ef6f4fc442c]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[7cf9ebab-0e3b-471e-ab49-6ef6f4fc442c]]></partnerRequisitionId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Gerente Operacional]]></title>
-    <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Planejar, coordenar e supervisionar as operações diárias da empresa, garantindo eficiência e qualidade.</li><li>Implementar processos e políticas operacionais alinhados às metas estratégicas da organização.</li><li>Monitorar indicadores de desempenho (KPIs) e propor melhorias contínuas.</li><li>Controlar custos operacionais e otimizar recursos.</li><li>Negociar com fornecedores e parceiros para garantir prazos e padrões de qualidade.</li><li>Liderar equipes de supervisores e coordenadores, promovendo desenvolvimento e engajamento.</li><li>Elaborar relatórios gerenciais e apresentar resultados à diretoria.</li><li>Garantir conformidade com normas de segurança, qualidade e regulamentações aplicáveis.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação superior em Administração, Engenharia de Produção, Logística ou áreas correlatas.</li><li>Experiência sólida em gestão operacional e liderança de equipes.</li><li>Conhecimento em processos operacionais, indicadores de desempenho e gestão estratégica.</li><li>Domínio de sistemas e ferramentas de gestão logística.</li><li>Excel Avançado, conhecimento em Power BI.</li><li>Boa comunicação, liderança e capacidade de negociação.</li><li>Organização e foco em resultados.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale-transporte (opcional)</li><li>Vale Alimentação ou Refeição</li><li>Parceria com o SEST SENAT<br /></li><li>Parceria com farmácias, universidades e restaurantes.<br /></li><li>Possibilidade de Crescimento.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/69/gerente-operacional?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[João Pessoa]]></city>
-    <state><![CDATA[Paraíba]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[3bfa3d86-ba92-4bd6-ac90-265b5cc5dc75]]></partnerJobId>
     <partnerRequisitionId><![CDATA[3bfa3d86-ba92-4bd6-ac90-265b5cc5dc75]]></partnerRequisitionId>
     <company><![CDATA[L'auto Cargo]]></company>
@@ -91931,26 +92276,6 @@ Boa comunicação, capacidade analítica e facilidade para relacionamento com cl
     <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Planejar, coordenar e supervisionar as operações diárias da empresa, garantindo eficiência e qualidade.</li><li>Implementar processos e políticas operacionais alinhados às metas estratégicas da organização.</li><li>Monitorar indicadores de desempenho (KPIs) e propor melhorias contínuas.</li><li>Controlar custos operacionais e otimizar recursos.</li><li>Negociar com fornecedores e parceiros para garantir prazos e padrões de qualidade.</li><li>Liderar equipes de supervisores e coordenadores, promovendo desenvolvimento e engajamento.</li><li>Elaborar relatórios gerenciais e apresentar resultados à diretoria.</li><li>Garantir conformidade com normas de segurança, qualidade e regulamentações aplicáveis.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação superior em Administração, Engenharia de Produção, Logística ou áreas correlatas.</li><li>Experiência sólida em gestão operacional e liderança de equipes.</li><li>Conhecimento em processos operacionais, indicadores de desempenho e gestão estratégica.</li><li>Domínio de sistemas e ferramentas de gestão logística.</li><li>Excel Avançado, conhecimento em Power BI.</li><li>Boa comunicação, liderança e capacidade de negociação.</li><li>Organização e foco em resultados.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale-transporte (opcional)</li><li>Vale Alimentação ou Refeição</li><li>Parceria com o SEST SENAT<br /></li><li>Parceria com farmácias, universidades e restaurantes.<br /></li><li>Possibilidade de Crescimento.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/195/gerente-operacional?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Jaboatão dos Guararapes]]></city>
-    <state><![CDATA[Pernambuco]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[2652e19d-c4a9-487f-ae06-1b8a1854cc5f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[2652e19d-c4a9-487f-ae06-1b8a1854cc5f]]></partnerRequisitionId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Gerente Regional de Operações]]></title>
-    <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Planejar, coordenar e supervisionar as operações diárias da empresa, garantindo eficiência e qualidade.</li><li>Implementar processos e políticas operacionais alinhados às metas estratégicas da organização.</li><li>Monitorar indicadores de desempenho (KPIs) e propor melhorias contínuas.</li><li>Controlar custos operacionais e otimizar recursos.</li><li>Negociar com fornecedores e parceiros para garantir prazos e padrões de qualidade.</li><li>Liderar equipes de supervisores e coordenadores, promovendo desenvolvimento e engajamento.</li><li>Elaborar relatórios gerenciais e apresentar resultados à diretoria.</li><li>Garantir eficiência das operações da sua regional.</li><li>Garantir conformidade com normas de segurança, qualidade e regulamentações aplicáveis.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação superior em Administração, Engenharia de Produção, Logística ou áreas correlatas.</li><li>Experiência sólida em gestão operacional e liderança de equipes.</li><li>Conhecimento em processos operacionais, indicadores de desempenho e gestão estratégica.</li><li>Domínio de sistemas e ferramentas de gestão logística.</li><li>Excel Avançado, conhecimento em Power BI.</li><li>Boa comunicação, liderança e capacidade de negociação.</li><li>Organização e foco em resultados.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale-transporte (opcional)</li><li>Vale Alimentação ou Refeição</li><li>Parceria com o SEST SENAT<br /></li><li>Parceria com farmácias, universidades e restaurantes.<br /></li><li>Possibilidade de Crescimento.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/147/gerente-regional-de-operacoes?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[11691971]]></companyId>
     <city><![CDATA[Jaboatão dos Guararapes]]></city>
     <state><![CDATA[Pernambuco]]></state>
@@ -93054,7 +93379,7 @@ responsabilidade.<br /></li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><
     <company><![CDATA[ISQ Brasil]]></company>
     <title><![CDATA[Analista Técnico -Vaga para o Rio de Janeiro]]></title>
     <posterEmail><![CDATA[tspinheiro@isqbrasil.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está buscando uma oportunidade que permita crescer e se desenvolver em um ambiente dinâmico e colaborativo? Temos uma posição aberta, ideal para quem deseja fazer parte de uma equipe comprometida com a excelência. Aqui, você encontrará um espaço para aplicar suas habilidades, contribuir com soluções e participar ativamente de um processo que impacta diretamente na qualidade dos produtos e serviços oferecidos. Valorizamos o potencial de cada colaborador e incentivamos o aprendizado contínuo, proporcionando a chance de se destacar e conquistar novos desafios. Se você tem interesse em atuar em um time que preza pela qualidade e pela inovação, não deixe essa oportunidade passar. Venha fazer parte de um ambiente estimulante, onde suas contribuições serão reconhecidas e valorizadas. Junte-se a nós e inicie uma nova etapa na sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>◗ Acompanhar e orientar as interações com a rede e/ou ramal de distribuição</li><li>de gás, fornecendo informações técnicas sobre o posicionamento das redes e outros ativos da Comgás</li><li>◗ Atuar até que não exista mais risco à integridade dos ativos, conforme disposto na IN-555 ou</li><li>documento que venha a substitui-la e/ou complementá-la </li><li>◗ Executar atividades de instalação,</li><li>conversão, adequação e montagem de medidores de gás </li><li>◗ Realizar manutenção preventiva e corretiva</li><li>em aparelhos e redes de gás </li><li>◗ Atender ocorrências e emergências em campo seguindo os protocolos</li><li>de segurança estabelecidos </li><li>◗ Registrar e documentar as atividades realizadas em campo, incluindo</li><li>relatórios técnicos e notas de serviço </li><li>◗ Garantir o cumprimento das normas técnicas aplicáveis em todas as atividades executadas </li><li>◗ Manter   com a supervisão, reportandoocorrências, desvios e necessidades operacionais</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /> ◗ Formação e Certificação de Gasista pelo SENAI e Gasista de<br />Emergência (Certificado FAT) ◗ Experiência em operações de campo no setor de gás, incluindo<br />atendimento a emergências ◗ Conhecimento técnico em procedimentos de instalação, conversão,<br />adequação, montagem de medidor e manutenção de aparelhos a gás e redes de gás ◗ Conhecimento<br />em normas e regulamentações de segurança: NR-20, NBR 13103, NBR 13523, NBR 15514, NBR 15526 ◗<br />Foco em segurança com comprometimento com o cumprimento das normas e capacidade de assegurar<br />que a equipe siga os protocolos<br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Convênio com drogarias Araújo, Drogasil e Raia</li><li>Plano de saúde</li><li>TotalPass</li><li>Gympass</li><li>Convênio com o SESC</li><li>Seguro de vida</li><li>Vale Alimentação/Refeição</li><li>Vale transporte</li><li>Plano odontológico</li><li>C4life (Apoio psicológico, orientação jurídica e financeira)</li><li>Day Off</li><li>Licença Maternidade/Paternidade estendida (Empresa cidadã)</li><li>Programa de Bônus</li><li>Plano de Carreiras</li><li>Parceria com instituições de ensino, descontos em graduação, pós-graduação e muito mais!</li></ul><br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está buscando uma oportunidade que permita crescer e se desenvolver em um ambiente dinâmico e colaborativo? Temos uma posição aberta, ideal para quem deseja fazer parte de uma equipe comprometida com a excelência. Aqui, você encontrará um espaço para aplicar suas habilidades, contribuir com soluções e participar ativamente de um processo que impacta diretamente na qualidade dos produtos e serviços oferecidos. Valorizamos o potencial de cada colaborador e incentivamos o aprendizado contínuo, proporcionando a chance de se destacar e conquistar novos desafios. Se você tem interesse em atuar em um time que preza pela qualidade e pela inovação, não deixe essa oportunidade passar. Venha fazer parte de um ambiente estimulante, onde suas contribuições serão reconhecidas e valorizadas. Junte-se a nós e inicie uma nova etapa na sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><br /><br />Preenchimento das TPU’s para a PMRJ <br /><br /><br />Geração Relatório GdA <br /><br /><br />Atualização das informações no Controle de Licenciamento <br /><br /><br />Controle de DARMs e envio dos comprovantes <br /><br /><br />Análise Anexo XIII e relatório fotográfico <br /><br /><br />Controle de pagamento dos Autos de Infração e comprovantes <br /><br /><br />Análise de Autos de Infração  (Procedentes, improcedentes, Recursos) <br /><br /><br />Controle de prazos de Projeto e protocolos de licenciamento <br /><br /><br />Preenchimento e controle dados de projeto, protocolo e licença para input do BI Naturgy <br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Power BI<br />- Google Workspace<br />- Cursando ou Ensino superior em administração<br />- Pacote office<br /><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Convênio com drogarias Araújo, Drogasil e Raia</li><li>Plano de saúde</li><li>TotalPass</li><li>Gympass</li><li>Convênio com o SESC</li><li>Seguro de vida</li><li>Vale Alimentação/Refeição</li><li>Vale transporte</li><li>Plano odontológico</li><li>C4life (Apoio psicológico, orientação jurídica e financeira)</li><li>Day Off</li><li>Licença Maternidade/Paternidade estendida (Empresa cidadã)</li><li>Programa de Bônus</li><li>Plano de Carreiras</li><li>Parceria com instituições de ensino, descontos em graduação, pós-graduação e muito mais!</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/isqbrasilcarreiras/165/analista-tecnico-vaga-para-o-rio-de-janeiro?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[9424481]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
@@ -102224,6 +102549,26 @@ problemas.]]></description>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[e3583c95-1948-40b2-9fa9-677cf4b84f68]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[e3583c95-1948-40b2-9fa9-677cf4b84f68]]></partnerRequisitionId>
+    <company><![CDATA[Colegio Soka do Brasil]]></company>
+    <title><![CDATA[Orientador(a) Educacional]]></title>
+    <posterEmail><![CDATA[sabrina.nero@colegiosoka.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você deseja fazer a diferença na vida de estudantes e contribuir para a formação de uma geração mais preparada e consciente, temos uma ótima oportunidade para você. Estamos à procura de profissionais apaixonados por educação, que queiram atuar em um ambiente colaborativo e dinâmico, onde o desenvolvimento integral dos estudantes é a prioridade. <br /><br />Você será responsável por acompanhar o desenvolvimento socioemocional e acadêmico dos estudantes, realizar atendimentos e mediações com alunos, famílias e equipe docente, implementar ações preventivas e interventivas, contribuir para planos pedagógicos e projetos de protagonismo estudantil, garantir processos de educação inclusiva e especial (incluindo PDIs) e fortalecer vínculos entre escola e famílias, apoiando a gestão pedagógica. <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Acompanhar o desenvolvimento socioemocional e acadêmico dos estudantes.<br /> - Comunicar-se com pais e responsáveis sobre o progresso e as necessidades dos alunos.<br /> - Implementar ações preventivas e interventivas.<br /> - Realizar atendimentos e mediações com alunos, famílias e equipe docente.<br /> - Manter registros e relatórios sobre o acompanhamento dos alunos.<br /> - Contribuir para planos pedagógicos e projetos de protagonismo estudantil.<br />- Garantir processos de educação inclusiva e especial (incluindo PDIs).<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação em Pedagogia e/ou Psicologia (obrigatório).<br />- Especialização em Educação Inclusiva e Especial (obrigatório).<br /> - Experiência desejada: 5 anos como docente e 3 anos como orientador(a) ou função pedagógica similar.<br />- Habilidade de comunicação e escuta ativa.<br /> - Capacidade de trabalhar em equipe e promover a colaboração.<br /> - Identificação com os valores humanísticos Soka.<br /> <br /><br /> <br /><br /><br /><br /><b>Benefícios</b><br /><br />- Vale alimentação<br />- Vale transporte<br />- Seguro de vida<br />- Refeições no local (desconto de taxa simbólica por mês)<br />- Assistência médica - Porto Saúde<br />- Plano Odontológico - opcional - Porto Saúde<br />- Bolsa de Estudos para filhos ou dependentes legais, no que tange à prestação de serviço educacional (não inclui alimentação, uniforme, cursos-extras e período extracurricular)<br />- TotalPass<br />-English Pass<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagascolegiosoka/9/orientador-a-educacional?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[72518259]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[3df46f11-1d28-48f7-8cdb-88dd1f700596]]></partnerJobId>
     <partnerRequisitionId><![CDATA[3df46f11-1d28-48f7-8cdb-88dd1f700596]]></partnerRequisitionId>
     <company><![CDATA[Colegio Soka do Brasil]]></company>
@@ -103279,6 +103624,47 @@ Disponibilidade para trabalho em turnos.</li><br /><br /><br /><br /><br /><b>Be
     <companyId><![CDATA[72197109]]></companyId>
     <city><![CDATA[Itaituba]]></city>
     <state><![CDATA[Pará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[8d198463-3830-4e18-b011-bdc193a48522]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[8d198463-3830-4e18-b011-bdc193a48522]]></partnerRequisitionId>
+    <company><![CDATA[Grupo3NF]]></company>
+    <title><![CDATA[Assistente Operacional de Navegação Jr I]]></title>
+    <posterEmail><![CDATA[selecao1@3nf.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) profissional organizado(a), proativo(a) e atento(a) aos detalhes para atuar no suporte às operações de navegação, realizando inspeções em embarcações, acompanhamento de manutenção e apoio logístico às atividades de bordo. A posição contribui diretamente para a segurança, organização e continuidade das operações.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar movimentação de tripulação;
+</li><li>
+Executar inspeções operacionais e visuais em balsas e empurradores;
+</li><li>
+Utilizar checklists para verificar condições estruturais, limpeza, conservação e segurança;
+</li><li>
+Registrar e acompanhar não conformidades até sua tratativa;
+</li><li>
+Verificar o uso e as condições dos EPIs, sinalizações e demais itens de segurança;
+</li><li>
+Apoiar o controle de manutenções preventivas e corretivas, incluindo abertura e acompanhamento de solicitações de serviço;
+</li><li>
+Apoiar atividades de drenagem e limpeza de balsas e empurradores;
+</li><li>
+Solicitar e acompanhar a entrega de rancho, materiais, ferramentas e suprimentos;
+</li><li>
+Apoiar o envio de peças e equipamentos para embarcações em viagem;
+</li><li>
+Manter contato com as bases operacionais para envio e recebimento de documentos e informações;
+</li><li>
+Auxiliar na coleta e consolidação de dados operacionais para relatórios.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo;</li><li>Pacote Office;
+</li><li>NR 20, NR 23, NR 29, NR 30 e NR 35;</li><li>Possuir veículo próprio.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de Saúde Hapvida - 100%;</li><li>Plano Odontológico Hapvida - 50%;</li><li>Vale Alimentação;</li><li>Vale Transporte;</li><li>Auxílio Combustível;</li><li>Seguro de Vida;</li><li>Cesta de R$150,00 após experiência.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupo3nf/39/assistente-operacional-de-navegacao-jr-i?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[72197109]]></companyId>
+    <city><![CDATA[Porto Velho]]></city>
+    <state><![CDATA[Rondônia]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -106976,6 +107362,26 @@ Proatividade e disposição para aprender.</li><br /><br /><b>Benefícios</b><br
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/orletti/13/vendedor-a-de-acessorios-serra-es?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[106603631]]></companyId>
     <city><![CDATA[Serra]]></city>
+    <state><![CDATA[Espírito Santo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[63dbdb99-8c49-4ba7-b1d8-3de91b1d2a70]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[63dbdb99-8c49-4ba7-b1d8-3de91b1d2a70]]></partnerRequisitionId>
+    <company><![CDATA[GRUPO ORLETTI]]></company>
+    <title><![CDATA[Banco de Talentos - Grande Vitória/ES]]></title>
+    <posterEmail><![CDATA[rithielly.santos@grupoorletti.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Faça parte do nosso Banco de Talentos!Estamos sempre em busca de profissionais talentosos, comprometidos e com vontade de aprender e crescer. Se você deseja fazer parte de uma equipe colaborativa, inovadora e que valoriza a diversidade de ideias e experiências, cadastre seu currículo.Ao integrar nosso Banco de Talentos, seu perfil poderá ser considerado para futuras oportunidades alinhadas às suas qualificações. Venha construir sua carreira conosco e fazer a diferença!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Manter seu cadastro atualizado em nosso Banco de Talentos.</li><li>Demonstrar interesse em aprender, desenvolver novas habilidades e crescer profissionalmente.</li><li>Atuar com comprometimento, ética e responsabilidade.</li><li>Colaborar com a equipe, contribuindo para um ambiente de trabalho respeitoso e produtivo.</li><li>Estar disponível para participar de processos seletivos compatíveis com seu perfil e experiência.</li><li>Desempenhar as atividades da função de acordo com a vaga para a qual for selecionado, seguindo os padrões, normas e procedimentos da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino fundamental, médio, técnico ou superior (completo ou em andamento), de acordo com os requisitos da oportunidade.<br /><br /><b>Benefícios</b><br /><br />Ticket Alimentação ou RefeiçãoPlano de Saúde coparticipativo<br />‍Plano Odontologico<br />⛑️Seguro de Vida<br />️Convênio com o Sesc.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/orletti/18/banco-de-talentos-grande-vitoria-es?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[106603631]]></companyId>
+    <city><![CDATA[Vitória]]></city>
     <state><![CDATA[Espírito Santo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
