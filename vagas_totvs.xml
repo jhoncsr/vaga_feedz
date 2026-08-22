@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 21 Aug 2026 23:19:12 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 00:16:02 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3900]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3901]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerJobId>
     <partnerRequisitionId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerRequisitionId>
@@ -97581,13 +97581,52 @@ Plataforma de cursos VMI Security<br /><br /></li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[c84a9322-7324-4d5b-8eeb-aff7fd05e3f4]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[c84a9322-7324-4d5b-8eeb-aff7fd05e3f4]]></partnerRequisitionId>
+    <company><![CDATA[KLAVI TECNOLOGIA LTDA]]></company>
+    <title><![CDATA[Technical Support Engineer (Open Finance)]]></title>
+    <posterEmail><![CDATA[larissa.santos@klavi.ai]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) profissional para atuar na sustentação técnica da infraestrutura de Open Finance da Klavi, garantindo o acompanhamento e a resolução de questões relacionadas a integrações via APIs, transações de pagamento, autenticação, certificados e demais componentes do ecossistema. A posição terá forte interface com instituições participantes do Open Finance, órgãos oficiais e times internos de Engenharia, Produto, Operações e Segurança, atuando na investigação de incidentes, acompanhamento de atualizações técnicas e regulatórias e evolução contínua da infraestrutura.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar tickets técnicos
+relacionados ao Open Finance junto a órgãos oficiais e instituições
+participantes, realizando análise, priorização, acompanhamento e comunicação
+das soluções e resultados.</li><li>Investigar e solucionar problemas
+técnicos relacionados a integrações via APIs de Open Finance, transações de
+pagamento, fluxos de autenticação e serviços da plataforma, utilizando logs,
+dados sistêmicos e interações com APIs e parceiros. </li><li>Participar das reuniões dos
+Grupos de Trabalho (GTs) do Open Finance, acompanhando decisões e atualizações,
+contribuindo com perspectivas técnicas e disseminando informações relevantes
+para os times internos. </li><li>Acompanhar atualizações de
+versões das APIs e evoluções dos frameworks de segurança do Open Finance,
+realizando análises técnicas e de impacto e apoiando os times de Engenharia e
+Operações na implementação das mudanças necessárias. </li><li>Gerenciar o ciclo de vida de
+certificados e certificações relacionados ao Open Finance, atuando em parceria
+com os times de Segurança, Engenharia e Testes nos processos de aquisição,
+atualização, renovação e validação. </li><li>Apoiar os times de Produto e
+Operações em questões técnicas relacionadas à infraestrutura de Open Finance,
+contribuindo para a resolução de problemas e evolução dos processos. </li><li>Facilitar a comunicação técnica
+entre instituições participantes do Open Finance e os times internos,
+garantindo alinhamento e acompanhamento das demandas.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência de pelo menos 3 anos em desenvolvimento de software, integração de sistemas, suporte técnico ou funções técnicas relacionadas. </li><li>Conhecimento sólido de programação em pelo menos uma linguagem, como Go ou Java, com capacidade para leitura de código-fonte e desenvolvimento de scripts ou ferramentas de apoio. </li><li>Conhecimento sólido de APIs RESTful, protocolos HTTP, mTLS, JSON e processos de integração via APIs. </li><li>Experiência com consultas e análise de dados em bancos de dados, especialmente PostgreSQL e SQL, utilizando informações de negócio e sistema para investigação e troubleshooting. </li><li>Conhecimento de mecanismos de autenticação e autorização, incluindo OAuth 2.0 e OpenID Connect, com capacidade para investigar questões técnicas relacionadas à segurança. </li><li>Experiência com troubleshooting e ferramentas de logs, monitoramento e distributed tracing, como Grafana, analisando logs, chamadas de APIs, métricas e dados para identificação de causa raiz e resolução de problemas. </li><li>Capacidade de interpretar documentação técnica, incluindo especificações de APIs, release notes e padrões técnicos, avaliando impactos sobre sistemas e integrações. </li><li>Boa capacidade de comunicação e colaboração para atuar com instituições participantes do Open Finance e diferentes áreas internas, incluindo Produto, Operações, Engenharia e Segurança.</li><li>Inglês avançado a fluente.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de Saúde, Plano Odontológico e Seguro de Vida;</li><li>Vale Refeição, Alimentação e Auxílio Home Office;</li><li>Licença Parental estendida: a licença maternidade é de 6 meses e a licença parental é de 30 dias;</li><li>Auxílio Creche;</li><li>Incentivo a Educação;</li><li>Wellhub;</li><li>Day Off aniversário;</li><li>Chat GPT Pro;</li><li>Bônus anual.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasklavi/20/technical-support-engineer-open-finance?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[72690043]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[976691f3-3ab6-4e80-9062-e76837e3a237]]></partnerJobId>
     <partnerRequisitionId><![CDATA[976691f3-3ab6-4e80-9062-e76837e3a237]]></partnerRequisitionId>
     <company><![CDATA[KLAVI TECNOLOGIA LTDA]]></company>
-    <title><![CDATA[Senior Data Science Consultant (Credit)]]></title>
+    <title><![CDATA[Senior Data Science Consultant (Credit & Risk)]]></title>
     <posterEmail><![CDATA[larissa.santos@klavi.ai]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Consultor(a) Sênior de Ciência de Dados para liderar a geração de valor a partir de dados na Klavi, atuando na definição da estratégia analítica e no desenvolvimento de modelos que sustentam decisões de crédito e risco para instituições financeiras. Essa pessoa terá papel estratégico na liderança técnica, combinando profundidade em modelagem estatística com forte senso analítico exploratório (EDA), traduzindo análises complexas em recomendações acionáveis, com foco especial em crédito a partir de dados de Open Finance. Atuará de forma colaborativa com os times de Soluções, Comercial, Produto e Engenharia de Dados.<br />Esta é uma posição sênior de contribuição individual, sem gestão direta de pessoas, com responsabilidade por liderança técnica, interlocução executiva e influência transversal.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar no desenvolvimento, validação e manutenção de modelos de crédito (scoring, probabilidade de default, elegibilidade, propensão), da concepção ao deploy em produção.</li><li>Definir e supervisionar rotinas de backtest e monitoramento de performance dos modelos (KS, Gini, PSI, curvas ROC, calibração), garantindo estabilidade e aderência ao longo do tempo e acionando processos de retreinamento quando necessário.</li><li>Conduzir e supervisionar análises exploratórias de dados (EDA) para identificar padrões, tendências e oportunidades de negócio, com foco em precisão e relevância dos insights gerados.</li><li>Definir e orientar análises voltadas à medição de market share e ao apoio a decisões de crédito para clientes do setor financeiro, utilizando dados de Open Finance como diferencial competitivo.</li><li>Traduzir análises, resultados e limitações de modelos em recomendações acionáveis para lideranças internas e clientes, apoiando decisões estratégicas de negócio.</li><li>Atuar em parceria com áreas como Comercial, Soluções e Produto, garantindo alinhamento de objetivos, priorização de demandas e mensuração de impacto.</li><li>Atuar de forma próxima ao time de Engenharia de Dados, garantindo a implementação, operacionalização e monitoramento de soluções de dados e modelos em entregas orientadas ao cliente (ex.: features, automações, insights e produtos de dados).</li><li>Definir o roadmap técnico da área de Ciência de Dados de Crédito, alinhado às prioridades estratégicas da empresa e à evolução dos modelos de crédito e risco.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Ciência de Dados, Estatística, Matemática, Computação ou áreas correlatas.</li><li>Experiência sólida como Cientista de Dados Sênior, Especialista ou em posição de liderança técnica de dados.</li><li>5+ anos de experiência em instituições financeiras (ou contextos similares de dados em escala), com pelo menos parte desse tempo em posições sênior ou de liderança.</li><li>Experiência prática e comprovada em modelagem de crédito e/ou fraude (scoring, probabilidade de default, detecção de fraude), incluindo definição de política de crédito.</li><li>Domínio de metodologias de validação e backtest de modelos (KS, Gini, PSI, estabilidade populacional, calibração, monitoramento de drift).</li><li>Forte senso analítico e experiência prática em análise exploratória de dados (EDA) para geração de insights de negócio.</li><li>Experiência em análises de mercado e/ou medição de market share.</li><li>Proficiência avançada em Python, SQL, Spark, e bibliotecas de modelagem estatística/ML (ex.: scikit-learn, XGBoost, statsmodels).</li><li>Inglês avançado a fluente.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de Saúde, Plano Odontológico e Seguro de Vida;</li><li>Vale Refeição, Alimentação e Auxílio Home Office;</li><li>Licença Parental estendida: a licença maternidade é de 6 meses e a licença parental é de 30 dias;</li><li>Auxílio Creche;</li><li>Incentivo a Educação;</li><li>Wellhub;</li><li>Day Off aniversário;</li><li>Chat GPT Pro;</li><li>Bônus anual.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasklavi/19/senior-data-science-consultant-credit?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasklavi/19/senior-data-science-consultant-credit-risk?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[72690043]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -97624,10 +97663,10 @@ Plataforma de cursos VMI Security<br /><br /></li></ul>]]></description>
     <partnerJobId><![CDATA[d55d49ca-04a5-4ac5-a942-cb14b5e967fe]]></partnerJobId>
     <partnerRequisitionId><![CDATA[d55d49ca-04a5-4ac5-a942-cb14b5e967fe]]></partnerRequisitionId>
     <company><![CDATA[KLAVI TECNOLOGIA LTDA]]></company>
-    <title><![CDATA[Solution Selling Consultant (Credit)]]></title>
+    <title><![CDATA[Solution Selling Consultant (Credit & Risk)]]></title>
     <posterEmail><![CDATA[larissa.santos@klavi.ai]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Consultor(a) de Vendas de Soluções para atuar na estrutura de Produtos &amp; Soluções da Klavi, conectando os desafios dos clientes ao portfólio e às capacidades da empresa. A posição terá foco no diagnóstico consultivo de necessidades relacionadas a crédito e serviços financeiros, transformando problemas de negócio em soluções baseadas em dados e tecnologia. Atuará em parceria com o time Comercial ao longo do ciclo de vendas, desde o discovery até o desenho da solução, a construção da proposta de valor e do business case, além de atuar como ponte entre os clientes e os times de Produto, Dados e Tecnologia.<br />Esta é uma posição sênior de contribuição individual, sem gestão direta de pessoas, com responsabilidade por liderança técnica, interlocução executiva e influência transversal.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir conversas de discovery com clientes e prospects, mapeando jornadas, processos, políticas e desafios de crédito.</li><li>Traduzir necessidades de negócio em soluções e casos de uso para diferentes etapas da jornada de crédito.</li><li>Avaliar bases, fontes, variáveis e sinais relevantes, qualificando as demandas antes de envolver os times especializados.</li><li>Trabalhar com os times de Produto, Dados e Tecnologia no desenho, na validação e na viabilidade de soluções mais complexas.</li><li>Apresentar e discutir resultados de backtests, traduzindo os achados em impacto de negócio e recomendações para a estratégia de crédito.</li><li>Conduzir discussões com times de Crédito, Risco e Modelagem, sustentando premissas, resultados, limitações e aplicabilidade das soluções.</li><li>Relacionar resultados analíticos a indicadores de aprovação, inadimplência, risco, conversão, eficiência e rentabilidade.</li><li>Atuar em parceria com o time Comercial em oportunidades estratégicas, estruturando propostas de valor, business cases e análises de ROI.</li><li>Desenvolver e conduzir apresentações executivas, workshops, demonstrações e propostas customizadas.</li><li>Identificar novos casos de uso e transformar aprendizados e tendências de crédito, dados e Open Finance em oportunidades para o portfólio da Klavi.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em crédito, risco, produtos financeiros, Solution Selling, Solution Consulting, Pre-Sales, consultoria ou áreas relacionadas.</li><li>Conhecimento sólido da esteira, das políticas e dos processos de decisão de crédito.</li><li>Experiência com produtos ou operações de crédito em bancos, fintechs, financeiras, bureaus ou empresas de tecnologia.</li><li>Capacidade de interpretar e apresentar backtests e análises de performance de crédito para públicos técnicos e executivos.</li><li>Segurança para discutir metodologias, variáveis, segmentações e resultados com times de Crédito, Risco e Modelagem.</li><li>Forte capacidade analítica para avaliar fontes de dados e transformar problemas de negócio em soluções.</li><li>Experiência com clientes enterprise e atuação em ciclos de venda complexos.</li><li>Perfil sênior, consultivo, hands-on e autônomo, com comunicação clara e capacidade de transitar entre crédito, negócio, dados e tecnologia.</li><li>Inglês em nível avançado a fluente.</li><li>Disponibilidade para trabalhar em modelo híbrido (4 vezes por semana no escritório) em São Paulo (Av. Paulista – estação Brigadeiro), sendo os primeiros 3 meses em regime 100% presencial. </li></ul><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de Saúde, Plano Odontológico e Seguro de Vida;</li><li>Vale Refeição, Alimentação e Auxílio Home Office;</li><li>Licença Parental estendida: a licença maternidade é de 6 meses e a licença parental é de 30 dias;</li><li>Auxílio Creche;</li><li>Incentivo a Educação;</li><li>Wellhub;</li><li>Day Off aniversário;</li><li>Chat GPT Pro;</li><li>Bônus anual.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasklavi/17/solution-selling-consultant-credit?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasklavi/17/solution-selling-consultant-credit-risk?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[72690043]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
