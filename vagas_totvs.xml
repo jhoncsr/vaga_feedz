@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 27 Aug 2026 20:16:05 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2026 21:16:05 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3867]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3861]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerJobId>
     <partnerRequisitionId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerRequisitionId>
@@ -3423,6 +3423,26 @@ geração de novas demandas.  <br /><br /><br /><b>Requisitos e qualificaçõe
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11189/vendas-gerente-de-contas-junior-hunter?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[638cdb18-b872-4810-9cfe-b2b9b12e171a]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[638cdb18-b872-4810-9cfe-b2b9b12e171a]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia Especialista de Dados e IA]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você fará parte da área de Inteligência de Dados e IA (IDeIA), responsável pelas plataformas de dados utilizadas pelos times de produto da TOTVS.<br /><br /><br />Todos os dias, terabytes de dados de ERP passam por essas plataformas e sustentam projetos de dezenas de times internos. Do agronegócio ao varejo, da construção à saúde, esses dados apoiam a operação e a tomada de decisão de milhares de empresas brasileiras.<br /><br /><br />Nesta posição, você atuará em parceria com os times que desenvolvem nossos produtos, ajudando a transformar necessidades de negócio em soluções de dados seguras, eficientes e escaláveis. Suas responsabilidades incluirão o desenho técnico das soluções, a revisão de arquiteturas, o apoio na resolução de questões técnicas e a identificação de oportunidades de evolução das plataformas.<br /><br /><br />A atuação é principalmente consultiva. Os times de produtos internos conduzem a implementação, enquanto você orienta as decisões arquiteturais, compartilha boas práticas e contribui para ampliar o uso de dados e IA nas soluções TOTVS.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir o onboarding de novos times nas plataformas de dados;</li><li>Elaborar desenhos técnicos em conjunto com os times e revisar a arquitetura dos projetos;</li><li>Orientar engenheiros na resolução de dúvidas por chat, chamados e videochamadas;</li><li>Acompanhar soluções, considerando custo, desempenho, confiabilidade e experiência de uso;</li><li>Criar automações e agentes de apoio que ampliem a autonomia dos usuários das plataformas;</li><li>Disseminar boas práticas de arquitetura, engenharia de dados e uso responsável de IA;</li><li>Propor evoluções e melhorias para as plataformas com base nos aprendizados da operação;</li><li>Construir e sustentar pipelines de dados batch e streaming em produção;</li><li>Atuar com orquestração de cargas, tratamento de falhas, monitoramento e rastreabilidade;</li><li>Integrar dados por meio de APIs e sistemas de mensageria, considerando a consistência dos dados;</li><li>Definir estratégias de cargas completas e incrementais;</li><li>Apoiar a definição da camada de consumo considerando volume, latência e custo;</li><li>Disponibilizar dados por APIs REST, MCP ou ferramentas de BI;</li><li>Atuar na gestão e otimização de custos em nuvem, incluindo análise de billing e utilização de recursos;</li><li>Apoiar a aplicação de boas práticas de segurança, autenticação, autorização e controle de acesso;</li><li>Atuar com segurança e isolamento de dados entre clientes em ambientes multi-tenant;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Experiência com serviços de nuvem para ingestão, processamento e consumo de dados;</b></li><li><b>Experiência com modelagem dimensional e arquiteturas de dados em camadas;</b></li><li><b>Conhecimento de data warehouses, bancos de dados de baixa latência e mecanismos de cache;</b></li><li><b>Experiência com pipelines batch e streaming em produção;</b></li><li><b>Conhecimento de APIs REST, sistemas de mensageria e integração de dados;</b></li><li><b>Conhecimento de autenticação, autorização e controle de acesso;</b></li><li><b>Capacidade para analisar diferentes cenários e orientar decisões arquiteturais;</b></li><li><b>Capacidade para discutir arquitetura com engenheiros e sustentar recomendações técnicas;</b></li><li><b>Comunicação escrita clara, estruturada e adequada a diferentes públicos;</b></li><li><b>Autonomia para investigar problemas e propor soluções;</b></li><li><b>Pensamento crítico para identificar oportunidades de automação e aprimorar a experiência de uso;</b></li><li><b>Inglês para leitura e compreensão de documentação técnica;</b></li><li><b>Conhecimentos em GCP, especialmente BigQuery, Cloud Storage, Cloud Run, Cloud SQL, AlloyDB, Pub/Sub e Dataflow;</b></li><li><b>Conhecimentos em SQL, Python e JavaScript (Node.js);</b></li><li><b>Conhecimentos em APIs REST, MCP e DuckDB;</b></li><li><b>Conhecimentos em Looker Studio ou ferramentas de BI e visualização;</b></li><li><b>Conhecimentos em Jenkins e GitHub Actions;</b></li><li><b>Conhecimentos em Terraform e Git;</b></li><li><b>Conhecimentos em Jira e Zendesk;</b></li><li><b>Conhecimentos ou experiência com Gemini e OpenAI (Codex).</b></li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11861/tech-engenharia-especialista-de-dados-e-ia?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -22875,26 +22895,6 @@ Facilidade para negociação interna e trabalho sob pressão.</li><br /><br /><b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[48b2dd0a-9481-4161-9e13-39b460d21cde]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[48b2dd0a-9481-4161-9e13-39b460d21cde]]></partnerRequisitionId>
-    <company><![CDATA[Stefanini IHM]]></company>
-    <title><![CDATA[Estágio em Engenharia Elétrica - Contagem]]></title>
-    <posterEmail><![CDATA[ybcampos@ihm.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Stefanini IHM está em busca de estudantes de Engenharia Elétrica, que desejam desenvolver seus conhecimentos na área de projetos elétricos, atuando na elaboração e organização de documentação técnica para montagem de painéis elétricos industriais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Interpretar desenhos e diagramas elétricos de painéis elétricos industriais;</li><li>Elaborar documentos técnicos do tipo <strong>"De/Para"</strong>, contendo todas as informações necessárias para orientar a montagem elétrica sem a necessidade de consulta ao projeto original;</li><li>Identificar e documentar a origem e o destino dos condutores, identificação de cabos, bornes e componentes elétricos;</li><li>Especificar informações técnicas como cores, bitolas, comprimentos dos cabos e demais características necessárias para a montagem;</li><li>Garantir a padronização, organização e rastreabilidade da documentação técnica;</li><li>Revisar e validar informações dos documentos antes da liberação para a produção;</li><li>Apoiar a equipe de engenharia e montagem na interpretação de projetos elétricos e esclarecimento de dúvidas;</li><li>Contribuir para a melhoria contínua dos processos de documentação técnica e montagem de painéis elétricos;</li><li>Organizar e manter atualizada a documentação técnica dos projetos, assegurando conformidade com os padrões internos da empresa.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando Engenharia Elétrica, Engenharia de Controle e Automação, Técnico em Eletrotécnica ou áreas correlatas;</li><li>Conhecimento em leitura e interpretação de desenhos elétricos;</li><li>Conhecimento básico em diagramas unifilares, multifilares e esquemas elétricos;</li><li>Familiaridade com componentes elétricos utilizados em painéis elétricos;</li><li>Conhecimento básico do Pacote Office, especialmente Excel;</li><li>Organização, atenção aos detalhes e boa capacidade analítica;</li><li>Facilidade para trabalhar com documentação técnica;</li><li>Boa comunicação e disposição para aprender;</li><li>Comprometimento com prazos e qualidade das entregas.</li></ul><br /><br /><b>Benefícios</b><br /><br />‍ Desconto em cursos, universidades e instituições de idiomas;<br /> LinkedIn Learning - cursos online, gratuitos, atualizados e com certificado;<br /> Mentoring;<br /> Telemedicina gratuita para consultas com mais de 30 especialidades médicas, psicólogos e nutricionistas;<br /> Clube de vantagens e descontos nos melhores estabelecimentos;<br /> Clube de viagens;<br /> Convênio para Pet;<br />e muito mais...<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ihmstefanini/149/estagio-em-engenharia-eletrica-contagem?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[1306131]]></companyId>
-    <city><![CDATA[Contagem]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[338f0537-3d56-4430-8757-85f113a40bd9]]></partnerJobId>
     <partnerRequisitionId><![CDATA[338f0537-3d56-4430-8757-85f113a40bd9]]></partnerRequisitionId>
     <company><![CDATA[Stefanini IHM]]></company>
@@ -29789,26 +29789,6 @@ Atendimento ao cliente; </li><li>Envio de declaração com movimento; </li><li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[9288ecb7-be73-4b2f-93e9-e22160827654]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[9288ecb7-be73-4b2f-93e9-e22160827654]]></partnerRequisitionId>
-    <company><![CDATA[Bright Bee / Bright School]]></company>
-    <title><![CDATA[AUXILIAR DE MANUTENÇÃO]]></title>
-    <posterEmail><![CDATA[nathaliamiranda@brightbee.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>Você é uma pessoa organizada, proativa e que gosta de colocar a mão na massa? </b>Temos uma oportunidade incrível para você! <br />Estamos em busca de um profissional para atuar como <b>Auxiliar de Manutenção</b>, apoiando as atividades de manutenção preventiva e corretiva em instalações prediais. Se você gosta de trabalhar em equipe e tem vontade de crescer em um ambiente dinâmico, essa pode ser a sua chance!<br /><b>Vem ser Bright!</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar nas atividades de manutenção preventiva e corretiva em instalações prediais (hidráulica, elétrica, mobiliário, entre outros);</li><li>Realizar reparos simples, como troca de lâmpadas, conserto de torneiras, ajustes em portas e mobiliário;</li><li> Auxiliar na instalação e remoção de equipamentos e materiais;</li><li>Apoiar na identificação de necessidades de manutenção durante inspecções regulares;</li><li>Colaborar na organização do espaço de trabalho e do almoxarifado de materiais de manutenção.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo ou em andamento; </li><li>Experiência anterior em atividades de manutenção;</li><li>Conhecimento básico em hidráulica, elétrica e manutenção predial;</li><li>Habilidade para operar ferramentas manuais e elétricas;</li><li>Capacidade de trabalhar em equipe;</li><li>Organização e comprometimento;</li><li>Noções básicas de segurança do trabalho;</li><li>Disponibilidade para trabalhar em tempo integral, carga horaria de 44horas/semanais, de segunda a sábado. </li></ul><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Refeição;</li><li>Vale Combustivel ou Vale Transporte. </li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brightbee/62/auxiliar-de-manutencao?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[42390397]]></companyId>
-    <city><![CDATA[Teresina]]></city>
-    <state><![CDATA[Piauí]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[de17ed1a-89ff-48fd-a2d7-c0729ea1d0f1]]></partnerJobId>
     <partnerRequisitionId><![CDATA[de17ed1a-89ff-48fd-a2d7-c0729ea1d0f1]]></partnerRequisitionId>
     <company><![CDATA[Bright Bee / Bright School]]></company>
@@ -34469,6 +34449,26 @@ PRODUTIVIDADE  </li><li>SUPORTE A LIDERANÇA E APOIO A EQUIPE</li></ul><br />
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[0e21589d-ed41-44a3-b9cd-0f199bbb8a56]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[0e21589d-ed41-44a3-b9cd-0f199bbb8a56]]></partnerRequisitionId>
+    <company><![CDATA[Grupo Canopus]]></company>
+    <title><![CDATA[ENCARREGADOS DE PECAS]]></title>
+    <posterEmail><![CDATA[iolanda.silva@grupocanopus.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />- Analisar lista de compra de peças de caminhões e veiculos pesados;- Realizar pedido diário de reposição e recebimento de peças;<br />- Supervisionar o estoque de peças, acessórios, lubrificantes, considerando: análise da demanda; <br />- Vendas perdidas; os parâmetros para sugestão de pedidos de peças; pedidos colocados no período; pedidos especiais e volume de estoque.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Analisar lista de compra de peças de caminhões e veiculos pesados- Realizar pedido diário de reposição e recebimento de peças;<br />- Supervisionar o estoque de peças, acessórios, lubrificantes, considerando: análise da demanda; vendas perdidas; os parâmetros para sugestão de pedidos de peças; pedidos colocados no período; pedidos especiais e volume de estoque.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Indispensável experiência com gestão de estoque e peças de camimhões e veiculos pesados; - Ensino médio;<br />- Informática básica (Windows, Word e Excel);<br /><br /><br /><b>Benefícios</b><br /><br />O que temos: Plano de Saúde, Plano odontológico, Vale Transporte (de acordo com a região), Seguro de vida e Vale Alimentação.Nosso Diferencial: Homenagem por tempo de empresa e Vantagens Canopus (programa de parceria de descontos)]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/3318/encarregados-de-pecas?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[2073549]]></companyId>
+    <city><![CDATA[Rondonópolis]]></city>
+    <state><![CDATA[Mato Grosso]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[51a2b18a-d622-45a6-80ca-a1824a5103ed]]></partnerJobId>
     <partnerRequisitionId><![CDATA[51a2b18a-d622-45a6-80ca-a1824a5103ed]]></partnerRequisitionId>
     <company><![CDATA[Grupo Canopus]]></company>
@@ -35601,26 +35601,6 @@ Organização, comprometimento e interesse em aprendizado contínuo.</li><li>Ing
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[be962108-d5ce-4cb7-b595-437de9e07031]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[be962108-d5ce-4cb7-b595-437de9e07031]]></partnerRequisitionId>
-    <company><![CDATA[Grupo Luiz Höhl]]></company>
-    <title><![CDATA[Consultor(a) Estratégico(a) de Negócios | Acreúna]]></title>
-    <posterEmail><![CDATA[shaiene.costa@grupoluizhohl.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) profissional para prospectar e desenvolver novos negócios, realizando visitas consultivas a clientes e oferecendo soluções completas em máquinas agrícolas, implementos e serviços John Deere, com foco em resultados comerciais e relacionamento de longo prazo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Identificar oportunidades de negócios, analisando necessidades dos clientes e tendências do setor;</li><li>Realizar a prospecção ativa e gestão do relacionamento com produtores e empresas do agronegócio;</li><li>Conduzir o processo de venda consultiva, apresentando soluções técnicas e comerciais;</li><li>Elaborar propostas comerciais, negociar condições e acompanhar todo o ciclo de vendas até a finalização do negócio;</li><li>Participar de feiras, eventos e visitas a campo para ampliar networking e fortalecer a presença da marca;</li><li>Acompanhar indicadores comerciais e propor estratégias para melhoria de resultados.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo;</li><li>Desejável Ensino Superior cursando em Agronegócio, Administração, Engenharia Agrícola ou áreas correlatas;</li><li>Experiência com máquinas e implementos agrícolas;</li><li>Experiência comercial no agronegócio;</li><li>Comunicação clara e assertiva;</li><li>Noções básicas de informática;</li><li>CNH categoria B;</li><li>Imprescindível Disponibilidade para viagens.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Auxílio alimentação/refeição flexível no valor de R$ 840,00; </li><li>Plano de Saúde (Unimed); </li><li>Plano Odontológico; </li><li>Day off no aniversário de tempo de empresa; </li><li>Seguro de vida; </li><li>Bolsa educação; </li><li>Parceria com instituições de ensino; </li><li>Universidade corporativa; </li><li>Plano de Carreira; </li><li>Total Pass e Apoio Pass; </li><li>PLR. </li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenoglh/152/consultor-a-estrategico-a-de-negocios-acreuna?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[20091464]]></companyId>
-    <city><![CDATA[Acreúna]]></city>
-    <state><![CDATA[Goiás]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[3ec29aed-e76a-4d55-9d32-0525956140cc]]></partnerJobId>
     <partnerRequisitionId><![CDATA[3ec29aed-e76a-4d55-9d32-0525956140cc]]></partnerRequisitionId>
     <company><![CDATA[Grupo Luiz Höhl]]></company>
@@ -35804,26 +35784,6 @@ um diferencial a experiência com PDCA, Fluxograma, IA, Prevenção de Perdas,
           <amount><![CDATA[3006.29]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[d806c229-55f5-489c-83c8-9e7e36d20d34]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[d806c229-55f5-489c-83c8-9e7e36d20d34]]></partnerRequisitionId>
-    <company><![CDATA[Grupo Luiz Höhl]]></company>
-    <title><![CDATA[Consultor(a) Estratégico(a) de Negócios | Goiânia]]></title>
-    <posterEmail><![CDATA[sthanley.santos@grupoluizhohl.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) profissional para prospectar e desenvolver novos negócios, realizando visitas consultivas a clientes e oferecendo soluções completas em máquinas agrícolas e serviços John Deere, tendo atuação direcionada à implementos agrícolas, com foco em resultados comerciais e relacionamento de longo prazo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Identificar oportunidades de negócios, analisando necessidades dos clientes e tendências do setor;</li><li>Realizar a prospecção ativa e gestão do relacionamento com produtores e empresas do agronegócio;</li><li>Conduzir o processo de venda consultiva, apresentando soluções técnicas e comerciais;</li><li>Elaborar propostas comerciais, negociar condições e acompanhar todo o ciclo de vendas até a finalização do negócio;</li><li>Participar de feiras, eventos e visitas a campo para ampliar networking e fortalecer a presença da marca;</li><li>Acompanhar indicadores comerciais e propor estratégias para melhoria de resultados</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo;</li><li>Desejável Ensino Superior cursando em Agronegócio, Administração, Engenharia Agrícola ou áreas correlatas;</li><li>Experiência com máquinas e implementos agrícolas;</li><li>Experiência comercial no agronegócio;</li><li>Comunicação clara e assertiva;</li><li>Noções básicas de informática;</li><li>CNH categoria B;</li><li>Imprescindível Disponibilidade para viagens e para morar na região de Goiânia/GO</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Auxílio alimentação/refeição flexível no valor de R$ 840,00; </li><li>Plano de Saúde (Unimed); </li><li>Plano Odontológico; </li><li>Day off no aniversário de tempo de empresa; </li><li>Seguro de vida; </li><li>Bolsa educação; </li><li>Parceria com instituições de ensino; </li><li>Universidade corporativa; </li><li>Plano de Carreira; </li><li>Total Pass e Apoio Pass; </li><li>PLR. </li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenoglh/187/consultor-a-estrategico-a-de-negocios-goiania?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[20091464]]></companyId>
-    <city><![CDATA[Goiânia]]></city>
-    <state><![CDATA[Goiás]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -50373,6 +50333,86 @@ Cumprir os procedimentos operacionais e de <strong>Saúde, Segurança e Meio Amb
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[83172ffb-5a17-48ee-b800-f2dc4a3e6256]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[83172ffb-5a17-48ee-b800-f2dc4a3e6256]]></partnerRequisitionId>
+    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
+    <title><![CDATA[Supervisor de Infraestrutura]]></title>
+    <posterEmail><![CDATA[priscilla.veras@triunfologistica.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><li>Supervisionar as atividades de manutenção e conservação da infraestrutura da unidade;
+</li>
+<li>
+Coordenar equipes próprias e empresas terceirizadas;
+</li>
+<li>
+Planejar e acompanhar serviços de manutenção preventiva, corretiva e predial;
+</li>
+<li>
+Acompanhar a execução de serviços de elétrica, hidráulica, civil, climatização, pintura, estruturas e demais sistemas de infraestrutura;
+</li>
+<li>
+Realizar inspeções periódicas nas instalações, identificando necessidades de manutenção e melhorias;
+</li>
+<li>
+Elaborar e acompanhar planos de manutenção preventiva e corretiva;
+</li>
+<li>
+Controlar chamados e ordens de serviço, garantindo atendimento dentro dos prazos estabelecidos;
+</li>
+<li>
+Acompanhar contratos de fornecedores e prestadores de serviços;
+</li>
+<li>
+Solicitar e acompanhar orçamentos, materiais e serviços necessários às atividades;
+</li>
+<li>
+Controlar custos da área, buscando otimização de recursos e redução de desperdícios;
+</li>
+<li>
+Garantir o cumprimento dos procedimentos de segurança durante a execução das atividades;
+</li>
+<li>
+Acompanhar indicadores de desempenho da área e elaborar relatórios gerenciais;
+</li>
+<li>
+Apoiar projetos de expansão, adequação e melhoria das instalações;
+</li>
+<li>
+Garantir a organização, limpeza e conservação das áreas sob sua responsabilidade;
+</li>
+<li>
+Atuar na identificação e solução de problemas relacionados à infraestrutura;
+</li>
+<li>
+Garantir o cumprimento das normas internas, requisitos legais e procedimentos de SSMA;
+</li>
+<li>
+Participar de auditorias e inspeções, providenciando tratativas para eventuais não conformidades;
+</li>
+<li>
+Promover a melhoria contínua dos processos e das condições de infraestrutura.</li><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Supervisionar as atividades relacionadas à <strong>infraestrutura, conservação, manutenção predial e suporte às instalações da empresa</strong>, garantindo a disponibilidade, segurança, funcionalidade e conservação dos ambientes e equipamentos, de acordo com os procedimentos internos, requisitos legais e normas de Segurança, Meio Ambiente e Qualidade.<br /><br /><b>Requisitos e qualificações</b><br /><br /><br /><li>Experiência anterior em supervisão de infraestrutura, facilities, manutenção predial ou áreas correlatas;
+</li>
+<li>
+Experiência com gestão de equipes próprias e terceirizadas;
+</li>
+<li>
+Conhecimento em manutenção preventiva e corretiva;
+</li>
+<li>
+Experiência com gestão de fornecedores e contratos;</li><li>Ensino médio completo.</li><br /><br /><br /><b>Benefícios</b><br /><br />Assistência Médica e Odontológica | HapVida.Convênio FarmáciaAlimentação no local<br />GymPass<br />Seguro de Vida.<br />Descontos em instituições de ensino parceiras. Vale transporte.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/628/supervisor-de-infraestrutura?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3089272]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[649cf1cd-96c0-4f22-8122-9d99800c07a9]]></partnerJobId>
     <partnerRequisitionId><![CDATA[649cf1cd-96c0-4f22-8122-9d99800c07a9]]></partnerRequisitionId>
     <company><![CDATA[TRIUNFO LOGISTICA]]></company>
@@ -58387,6 +58427,82 @@ Conhecimento em alinhamento a laser e instrumentos de medição</li>]]></descrip
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[eb073977-b890-4259-86de-3f7252e1f986]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[eb073977-b890-4259-86de-3f7252e1f986]]></partnerRequisitionId>
+    <company><![CDATA[Edan]]></company>
+    <title><![CDATA[Supervisor de logística]]></title>
+    <posterEmail><![CDATA[luiz.domingues@edantex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Ei, você! <br />
+Quer trabalhar numa empresa que valoriza as pessoas e é uma das maiores
+importadoras de itens de decoração do Brasil?
+
+Estamos com vagas para Supervisor de Logística
+
+ Cargo: Supervisor
+de Logística
+
+ Localização: Cambuí
+- MG
+
+⏳ Tipo de
+contratação: CLT
+
+ Horários: 
+
+1º turno: segunda a quinta das 08h00 às 18h00 e sexta das
+08h00 às 17h00 (com intervalo de 1h de refeição)<br /><br /><b>Responsabilidades e atribuições</b><br /><br />✅Supervisionar o armazenamento
+dos produtos no centro de distribuição, envolvendo o planejamento e otimização
+do layout e a organização do espaço de armazenamento de forma lógica e
+eficiente, de acordo com os critérios estabelecidos;
+
+✅Planejar e organizar as
+atividades de picking, garantida a eficiência na coleta de produtos de acordo
+com as ordens de pedido, bem como monitorar e otimizar os processos para
+garantir as metas de produtividade condicionais;
+
+✅Planejar e organizar as
+atividades de picking, garantida a eficiência na coleta de produtos de acordo
+com as ordens de pedido, bem como monitorar e otimizar os processos para
+garantir as metas de produtividade condicionais;
+
+✅Supervisionar as atividades de
+controle de estoque, envolvendo inventários periódicos e atualização dos
+registros de entrada e saída de mercadorias no sistema de gestão de estoque da
+empresa;
+
+✅ fornecer treinamento contínuo
+às equipes subordinadas, garantindo que os colaboradores compreendam os
+procedimentos de trabalho, as normas de segurança e os requisitos de qualidade;
+
+✅ Atender e realizar outras
+atividades profissionais correlatas e específicas à carga, conforme orientação
+e solicitação do superior imediato.
+
+✅Demais atividades correlatas.<br /><br /><b>Requisitos e qualificações</b><br /><br />Superior
+Completo ou em andamento, preferencialmente em Administração, Logística,
+Engenharia da Produção ou cursos afins.
+
+ Domínio dos métodos, técnicas e processos de trabalho
+envolvidos ao gerenciamento de operações logísticas.
+
+ Familiaridade com sistemas de gerenciamento de centro de
+distribuição e tecnologias relacionadas.
+
+ Conhecimento sobre planejamento, organização e controle.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/edan/217/supervisor-de-logistica?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[64614668]]></companyId>
+    <city><![CDATA[Cambuí]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[65879600-f890-4a11-bc08-20b92a4e33bc]]></partnerJobId>
     <partnerRequisitionId><![CDATA[65879600-f890-4a11-bc08-20b92a4e33bc]]></partnerRequisitionId>
     <company><![CDATA[Edan]]></company>
@@ -60102,53 +60218,13 @@ Assegurar a correta recepção, armazenagem e expedição de peças e acessório
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[079fb01b-b50d-4e3a-966a-64a4a7e3656f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[079fb01b-b50d-4e3a-966a-64a4a7e3656f]]></partnerRequisitionId>
-    <company><![CDATA[Grupo PMZ]]></company>
-    <title><![CDATA[PA03 | AUXILIAR DE ESTOQUE -CENTRO DE DISTRIBUIÇÃO]]></title>
-    <posterEmail><![CDATA[mariane.gomes@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Executar atividades operacionais no Centro de Distribuição (CD), incluindo descarga, conferência, separação e carregamento de mercadorias. Auxiliar na movimentação física de produtos, conferência de notas fiscais, manuseio de sucatas e processos de garantia. Também poderá atuar em outras atividades internas do CD conforme orientação do supervisor. A organização e limpeza do ambiente de trabalho e ferramentas são responsabilidades de todos os colaboradores do CD.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Receber mercadorias entregues por transportadoras, conferindo notas fiscais (NFs) e conhecimentos de transporte eletrônico (CTEs), garantindo conformidade e ausência de avarias.</li><li>Identificar corretamente as mercadorias recebidas no dia.</li><li>Separar produtos de acordo com as especificações dos pedidos, garantindo a qualidade na entrega final.</li><li>Executar a descarga e o carregamento de mercadorias com atenção às especificações de cada item.</li><li>Avaliar o tipo de produto recebido (leve, frágil, pesado) e garantir sua correta estocagem.</li><li>Verificar danos nos produtos e reportar ocorrências aos supervisores.</li><li>Controlar o fluxo de caminhões na pista para manter a movimentação eficiente.</li><li>Assegurar a organização e limpeza do estoque, cumprindo as normas de segurança.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Capacidade de organizar e manter a área de trabalho limpa e segura<br /> - Boa comunicação e trabalho em equipe<br /> - Agilidade e atenção aos detalhes<br /> - Disponibilidade para turno Integral<br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Refeição no local</li><li>Vale Transporte/Rota</li><li>Desconto Drogaria</li><li>Desconto Universidade</li><li>Desconto Sesc</li><li>Gratificação por produtividade</li><li>Trilha de Carreira</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/396/pa03-auxiliar-de-estoque-centro-de-distribuicao?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[22287656]]></companyId>
-    <city><![CDATA[Belém]]></city>
-    <state><![CDATA[Pará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[05540995-3415-44a0-bd98-358ac2ab1e30]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[05540995-3415-44a0-bd98-358ac2ab1e30]]></partnerRequisitionId>
-    <company><![CDATA[Grupo PMZ]]></company>
-    <title><![CDATA[PA03 | AUXILIAR DE ESTOQUE]]></title>
-    <posterEmail><![CDATA[mariane.gomes@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por assegurar a correta recepção de peças e acessórios, o devido acondicionamento e uma eficiente expedição das peças, garantindo a organização e limpeza da área de estoque.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Alocar as peças que chegam de rota, transferências, devoluções, em seus respectivos endereços, e realocar quando necessário;</li><li>Separar peças para vendas e transferências conforme o controle de separação na tela do celular;</li><li>Fazer as rotinas da qualidade através do aplicativo a para garantir o bom funcionamento das normas;</li><li>Periodicamente participa do inventário do estoque confrontando a posição física das peças com as quantidades no sistema, para efeitos de controle e posterior contabilização;</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior;  </li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade;</li><li>Cumprir os procedimentos de estoque da loja;</li><li>Cumprir com os horários e jornadas de trabalho determinada pela loja;</li><li>Atualizar-se quanto aos catálogos e novos produtos;</li><li>Participar de treinamentos de atualização;</li><li>Substituir auxiliar de estoque de outras lojas quando solicitado.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo</li><li>Conhecimentos básicos em informática</li><li>Boa capacidade de organização e controle de estoque</li><li>Agilidade e facilidade no manuseio de mercadorias</li><li>Proatividade e disposição para o trabalho em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte</li><li>Vale refeição</li><li>Trilha de Carreira</li><li>Gratificação por Produtividade</li><li>Desconto em Drogarias</li><li>Desconto nas principais Universidade privadas</li><li>Desconto Sesc</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/395/pa03-auxiliar-de-estoque?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[22287656]]></companyId>
-    <city><![CDATA[Belém]]></city>
-    <state><![CDATA[Pará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[daf6fe7d-98dc-4ea8-9c88-9f7f2bf90538]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[daf6fe7d-98dc-4ea8-9c88-9f7f2bf90538]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[1d25ab86-310d-49fb-8d8d-e7ef6236ab1b]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[1d25ab86-310d-49fb-8d8d-e7ef6236ab1b]]></partnerRequisitionId>
     <company><![CDATA[Grupo PMZ]]></company>
     <title><![CDATA[PA03 | VENDEDOR(A) DE PEÇAS AUTOMOTIVAS]]></title>
-    <posterEmail><![CDATA[danielle.lima@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável pelo atendimento a clientes no balcão de peças, ou através de Vendas Corporativas Internas, buscando a venda de peças e acessórios, inteirando-se das necessidades do cliente, prestando informações, verificando estoque e informando preços e condições de pagamento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimento aos clientes.</li><li>Negociar preços, prazos, condições de pagamento e descontos da venda.</li><li>Orientar quanto às especificações das peças, agregando outras peças ou produtos</li><li>Fazer contatos com clientes potenciais e existentes.</li><li>Cadastrar pedido no sistema.</li><li>Fazer captação de novos clientes via e-mail e telefone.</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior.</li><li>Realizar devoluções de mercadorias e processo de garantia</li><li>Conhecer e oferecer aos clientes produtos que estão em campanhas vigentes.</li><li>Realizar contato com clientes não visitados, clientes top 30, Clientes não positivados, clientes com limite de crédito disponível.</li><li>Atualizar-se quanto aos catálogos e novos produtos</li><li>Participar de treinamentos de atualização</li><li>Participar do desenvolvimento de auxiliares de balcão</li><li>Substituir balconistas de outras lojas quando solicitado</li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo</li><li>Experiência mínimo 6 meses</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte</li><li>Vale refeição</li><li>Trilha de Carreira</li><li>Gratificação por Venda</li><li>Desconto Drogaria</li><li>Desconto Universidade</li><li>Desconto Sesc</li><li>Bônus Trimestral</li><li>Bônus Anual</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/383/pa03-vendedor-a-de-pecas-automotivas?applicationSource=0]]></applyUrl>
+    <posterEmail><![CDATA[mariane.gomes@grupopmz.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável pelo atendimento a clientes no balcão de peças, ou telefone, buscando a venda de peças e acessórios, inteirando-se das necessidades do cliente, prestando informações, verificando estoque e informando preços e condições de pagamento.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimento aos clientes.</li><li>Negociar preços, prazos, condições de pagamento e descontos da venda.</li><li>Orientar quanto às especificações das peças, agregando outras peças ou produtos</li><li>Fazer contatos com clientes potenciais e existentes.</li><li>Cadastrar pedido no sistema.</li><li>Fazer captação de novos clientes via e-mail e telefone.</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior.</li><li>Realizar devoluções de mercadorias e processo de garantia	</li><li>Conhecer e oferecer aos clientes produtos que estão em campanhas vigentes.</li><li>Realizar contato com clientes não visitados, clientes top 30, Clientes não positivados, clientes com limite de crédito disponível.</li><li>Atualizar-se quanto aos catálogos e novos produtos</li><li>Participar de treinamentos de atualização</li><li>Participar do desenvolvimento de auxiliares de balcão</li><li>Substituir balconistas de outras lojas quando solicitado	</li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo</li><li>Experiência mínimo 6 meses</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte</li><li>Vale refeição</li><li>Trilha de Carreira</li><li>Gratificação por Produtividade</li><li>Desconto Drogaria</li><li>Desconto Universidade</li><li>Desconto Sesc</li><li>Bônus Trimestral</li><li>Bônus Anual</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/424/pa03-vendedor-a-de-pecas-automotivas?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[22287656]]></companyId>
     <city><![CDATA[Belém]]></city>
     <state><![CDATA[Pará]]></state>
@@ -60171,26 +60247,6 @@ Assegurar a correta recepção, armazenagem e expedição de peças e acessório
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/316/pa03-jovem-aprendiz?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[22287656]]></companyId>
     <city><![CDATA[Belém]]></city>
-    <state><![CDATA[Pará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[78273927-db95-4988-bf3e-4c7636515753]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[78273927-db95-4988-bf3e-4c7636515753]]></partnerRequisitionId>
-    <company><![CDATA[Grupo PMZ]]></company>
-    <title><![CDATA[PA04 | AUXILIAR DE ESTOQUE]]></title>
-    <posterEmail><![CDATA[mariane.gomes@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por assegurar a correta recepção de peças e acessórios, o devido acondicionamento e uma eficiente expedição das peças, garantindo a organização e limpeza da área de estoque.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Alocar as peças que chegam de rota, transferências, devoluções, em seus respectivos endereços, e realocar quando necessário;</li><li>Separar peças para vendas e transferências conforme o controle de separação na tela do celular;</li><li>Fazer as rotinas da qualidade através do aplicativo a para garantir o bom funcionamento das normas;</li><li>Periodicamente participa do inventário do estoque confrontando a posição física das peças com as quantidades no sistema, para efeitos de controle e posterior contabilização;</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior;  </li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade;</li><li>Cumprir os procedimentos de estoque da loja;</li><li>Cumprir com os horários e jornadas de trabalho determinada pela loja;</li><li>Atualizar-se quanto aos catálogos e novos produtos;</li><li>Participar de treinamentos de atualização;</li><li>Substituir auxiliar de estoque de outras lojas quando solicitado.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo</li><li>Conhecimentos básicos em informática</li><li>Boa capacidade de organização e controle de estoque</li><li>Agilidade e facilidade no manuseio de mercadorias</li><li>Proatividade e disposição para o trabalho em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte</li><li>Vale refeição</li><li>Trilha de Carreira</li><li>Gratificação por Produtividade</li><li>Desconto em Drogarias</li><li>Desconto nas principais Universidade privadas</li><li>Desconto Sesc</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/405/pa04-auxiliar-de-estoque?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[22287656]]></companyId>
-    <city><![CDATA[Castanhal]]></city>
     <state><![CDATA[Pará]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -61482,6 +61538,26 @@ Garantia do cumprimento da legislação trabalhista e previdenciária.</li><br /
           <amount><![CDATA[1000.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[75b25c67-5325-4547-aa97-c8ca573fc5dc]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[75b25c67-5325-4547-aa97-c8ca573fc5dc]]></partnerRequisitionId>
+    <company><![CDATA[NSA Contabilidade]]></company>
+    <title><![CDATA[Assistente de Regularidade Fiscal PJ]]></title>
+    <posterEmail><![CDATA[thamis.rds@gmail.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto(a) para dar um passo significativo na sua carreira e contribuir para um ambiente dinâmico e desafiador? Temos uma oportunidade empolgante que pode ser o próximo grande capítulo da sua trajetória profissional. Nossa equipe valoriza a proatividade, a atenção aos detalhes e a busca por excelência, e estamos em busca de pessoas com esse perfil para se unir a nós. Aqui, você terá a chance de trabalhar ao lado de profissionais experientes, aprender e crescer em um ambiente que valoriza a inovação e o desenvolvimento contínuo. Se você está em busca de uma experiência enriquecedora que permitirá ampliar suas habilidades e fazer a diferença em nossa organização, não perca a oportunidade de se candidatar. Estamos ansiosos para conhecer seu talento e potencial!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a regularização fiscal das empresas no âmbito federal, estadual e municipal;</li><li>Manter atualizada as certidões de clientes, através de controle interno no sistema ZEN;</li><li>Atuar com atenção ao controle de certidões e envio de parcelamento aos clientes;</li><li>Ser proativo no atendimento e sinalizações aos clientes;</li><li>Análise e interpretação de dados.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li> Conhecimento de Tributação;</li><li>Noção de navegação em sites Federais, Estaduais e Municipais, dentre outros necessários;</li><li>Excel intermediário;</li><li>Conhecimento/noções das legislações federais e estaduais básicas;</li><li>Capacidade de análise documental e domínio dos sistemas integradores.</li><li>Cursando graduação em Ciências Contábeis ou Direito.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de saúde Unimed</li><li>Assistência odontológica Bradesco</li><li>Vale Refeição</li><li>Wellhub (Gympass)</li><li>Convênio farmácia<br /></li><li>Convênio SESI</li><li>Day off no aniversário</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nsacontabilidade/52/assistente-de-regularidade-fiscal-pj?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[77616499]]></companyId>
+    <city><![CDATA[Volta Redonda]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -78436,46 +78512,6 @@ CNH  “D”<br /><br /><b>Benefícios</b><br /><br />Vale RefeiçãoParceiras d
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[e19cc4d8-3952-4bd0-871b-6a166c132d52]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[e19cc4d8-3952-4bd0-871b-6a166c132d52]]></partnerRequisitionId>
-    <company><![CDATA[Nutriport Comercial LTDA]]></company>
-    <title><![CDATA[Vendedor(a) Externo I - Canal Farma,- Uberlândia , MG]]></title>
-    <posterEmail><![CDATA[jaqueline.santos@nutriport.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /> Realizar atendimento ao cliente, identificação de necessidades e apresentação de produtos.<br />- Acompanhar o processo de vendas, desde a abordagem até o fechamento.<br />- Cooperar com a equipe para alcançar metas de vendas estabelecidas.<br />- Garantir a satisfação do cliente, solucionando dúvidas e problemas de forma eficaz.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a prospecção de novos clientes e manter o relacionamento com clientes existentes.</li><li> Apresentar produtos e serviços, destacando suas características e benefícios.</li><li> Elaborar e acompanhar propostas comerciais. </li><li>Cumprir metas de vendas estabelecidas pela empresa.</li><li>Update e manter registros no sistema de gestão de vendas</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Disponibilidade para viagens e atuação em campo</li><li>CNH categoria B ativa</li><li>Bom relacionamento interpessoal</li><li>Foco e habilidade em negociação e vendas.</li><li>Residir em Uberlândia e regiões.</li></ul><br /><br /><b>Benefícios</b><br /><br />Benefícios compatíveis com o mercado.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nutriportvagas/46/vendedor-a-externo-i-canal-farma-uberlandia-mg?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[16245336]]></companyId>
-    <city><![CDATA[Uberlândia]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[972e1e28-1272-4592-b200-5d5920b0e960]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[972e1e28-1272-4592-b200-5d5920b0e960]]></partnerRequisitionId>
-    <company><![CDATA[Nutriport Comercial LTDA]]></company>
-    <title><![CDATA[Consultor(a) de Vendas Hospitalar Jr - Nutricionista - Cascavel , PR]]></title>
-    <posterEmail><![CDATA[jaqueline.santos@nutriport.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><br /><br /><br /><ul><li>Visitação a Clientes (Hospitais);</li><li>Executar atividades relacionadas à venda de produtos de nutrição;</li><li>Planejar objetivos e estratégias de venda;</li><li>Treinamento de produto aos clientes;</li><li>Prospecção de novos clientes no setor.</li></ul><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li> Desenvolver e manter relacionamentos com profissionais de saúde e gestores de hospitais para entender suas necessidades e oferecer soluções personalizadas.</li><li>Apresentar produtos e serviços de forma clara, destacando seus benefícios e diferenciais em relação à concorrência.</li><li>Realizar reuniões de acompanhamento e negociações com clientes, visando a conclusão de vendas e a fidelização.</li><li>Analisar o mercado e a concorrência para identificar oportunidades de vendas e estratégias de posicionamento.</li><li>Monitorar e reportar resultados de vendas, identificando áreas de melhoria e propondo ações corretivas.</li><li>Participar de eventos e feiras do setor para promover produtos e estabelecer networking com potencial clientes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><strong>Registro no Conselho de Nutrição ativo</strong></li><li>Disponibilidade para viagens e atuação em campo</li><li><strong>CNH categoria B ativa</strong></li><li>Bom relacionamento interpessoal</li><li>Foco e habilidade em negociação e vendas.</li></ul><br /><br /><b>Benefícios</b><br /><br />Compatíveis com o mercado.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nutriportvagas/45/consultor-a-de-vendas-hospitalar-jr-nutricionista-cascavel-pr?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[16245336]]></companyId>
-    <city><![CDATA[Cascavel]]></city>
-    <state><![CDATA[Paraná]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[1483e9d9-2ae4-4da9-98d7-d914285df8c2]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1483e9d9-2ae4-4da9-98d7-d914285df8c2]]></partnerRequisitionId>
     <company><![CDATA[Nutriport Comercial LTDA]]></company>
@@ -78517,26 +78553,6 @@ CNH  “D”<br /><br /><b>Benefícios</b><br /><br />Vale RefeiçãoParceiras d
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[800d2992-f43b-4481-8519-700479222b83]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[800d2992-f43b-4481-8519-700479222b83]]></partnerRequisitionId>
-    <company><![CDATA[Nutriport Comercial LTDA]]></company>
-    <title><![CDATA[Assistente de Vendas II]]></title>
-    <posterEmail><![CDATA[jaqueline.santos@nutriport.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Atendimento de clientes via telefone e através de portais eletrônico;</li><li>Emissão de pedidos e proposta de preços;</li><li>Preenchimento de relatórios estatísticos de vendas;</li><li>Preenchimento e solicitação dos processos de devolução;</li><li>Atendimento dos representantes comerciais.</li></ul><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar a equipe de vendas no atendimento a clientes, prezando pela excelência no serviço.</li><li>Realizar o acompanhamento de pedidos e elaboração de relatórios de vendas.</li><li>Coordenar a atualização de informações em sistemas de gestão de vendas.</li><li>Colaborar na manutenção do relacionamento com clientes, buscando fidelização.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo ou cursando em administração e áreas correlatas;</li><li>Pacote Office com ênfase em Word e Excel Intermediário;</li><li>Vivencia em vendas internas B2B;</li><li>Habilidade em cálculos matemáticos;</li><li>Raciocínio analítico;</li><li>Habilidade de comunicação escrita e verbal;</li><li>Empatia, colaboração e adaptabilidade;</li></ul><br /><br /><b>Benefícios</b><br /><br />Benefícios compatíveis com o mercado.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nutriportvagas/52/assistente-de-vendas-ii?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[16245336]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[54178ca6-f601-4ff5-843e-82a6ed750ba6]]></partnerJobId>
     <partnerRequisitionId><![CDATA[54178ca6-f601-4ff5-843e-82a6ed750ba6]]></partnerRequisitionId>
     <company><![CDATA[Nutriport Comercial LTDA]]></company>
@@ -78544,26 +78560,6 @@ CNH  “D”<br /><br /><b>Benefícios</b><br /><br />Vale RefeiçãoParceiras d
     <posterEmail><![CDATA[luziane.cerqueira@nutriport.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />- Realizar a análise e apuração de impostos e tributos, garantindo conformidade com a legislação vigente.<br />- Elaborar e enviar declarações fiscais e relatórios periódicos aos órgãos competentes.<br />- Manter atualizados os registros contábeis relacionados às operações fiscais da empresa.<br />- Efetuar conciliações de contas relacionadas a impostos e tributos.<br />- Auxiliar na resolução de pendências e auditorias fiscais.<br />- Colaborar na identificação de oportunidades para a otimização de processos e redução de custos relacionados à área fiscal.<br />- Apoiar a equipe na implementação de novas normas e procedimentos relacionados à legislação tributária.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar a apuração de impostos diretos e indiretos, garantindo conformidade com a legislação vigente.<br /> - Elaborar e enviar declarações fiscais e acessórias dentro dos prazos estabelecidos.<br /> - Analisar dados e informações contábeis para garantir a correta tributação das operações da empresa.<br /> - Auxiliar na elaboração de relatórios de desempenho fiscal e levantamento de tributos a pagar.<br /> - Participar de auditorias internas e externas, fornecendo informações e documentos necessários.<br /> - Manter-se atualizado sobre a legislação tributária e fiscal, propondo melhorias nos processos.<br /> - Colaborar com as áreas internas para esclarecer dúvidas relacionadas a questões fiscais.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Conhecimento em ferramentas e softwares específicos da área<br />- Habilidades de comunicação verbal e escrita<br />- Capacidade de trabalho em equipe<br />- Proatividade e autonomia<br />- Organizado(a) e com boa gestão do tempo<br />- Disposição para aprendizado contínuo<br />- Habilidade em resolução de problemas<br /><br /><br /><b>Benefícios</b><br /><br />Compatíveis com o mercado]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nutriportvagas/44/analista-fiscal-jr?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[16245336]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b387cf61-e07e-4f98-99de-e6c59142a7c3]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[b387cf61-e07e-4f98-99de-e6c59142a7c3]]></partnerRequisitionId>
-    <company><![CDATA[Nutriport Comercial LTDA]]></company>
-    <title><![CDATA[Consultor(a) de Vendas Hospitalar Jr - Nutricionista]]></title>
-    <posterEmail><![CDATA[jaqueline.santos@nutriport.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Visitação a Clientes (Hospitais);</li><li>Executar atividades relacionadas à venda de produtos de nutrição;</li><li>Planejar objetivos e estratégias de venda;</li><li>Treinamento de produto aos clientes;</li><li>Prospecção de novos clientes no setor.</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li> Desenvolver e manter relacionamentos com profissionais de saúde e gestores de hospitais para entender suas necessidades e oferecer soluções personalizadas.</li><li>Apresentar produtos e serviços de forma clara, destacando seus benefícios e diferenciais em relação à concorrência.</li><li>Realizar reuniões de acompanhamento e negociações com clientes, visando a conclusão de vendas e a fidelização.</li><li>Analisar o mercado e a concorrência para identificar oportunidades de vendas e estratégias de posicionamento.</li><li>Monitorar e reportar resultados de vendas, identificando áreas de melhoria e propondo ações corretivas.</li><li>Participar de eventos e feiras do setor para promover produtos e estabelecer networking com potencial clientes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><strong>Registro no Conselho de Nutrição ativo</strong></li><li>Disponibilidade para viagens e atuação em campo</li><li><strong>CNH categoria B ativa</strong></li><li>Bom relacionamento interpessoal</li><li>Foco e habilidade em negociação e vendas.</li></ul><br /><br /><b>Benefícios</b><br /><br />Compatíveis com o mercado.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nutriportvagas/42/consultor-a-de-vendas-hospitalar-jr-nutricionista?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[16245336]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -78623,58 +78619,6 @@ CNH  “D”<br /><br /><b>Benefícios</b><br /><br />Vale RefeiçãoParceiras d
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[203feaaa-17ff-450b-bb03-bfad4733c72e]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[203feaaa-17ff-450b-bb03-bfad4733c72e]]></partnerRequisitionId>
-    <company><![CDATA[Nutriport Comercial LTDA]]></company>
-    <title><![CDATA[Analista Fiscal Sênior]]></title>
-    <posterEmail><![CDATA[jaqueline.santos@nutriport.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />RESPONSABILIDADES E ATRIBUIÇÕES<br /><br /><br />Conferência e lançamentos de notas Fiscais<br />Analise de livros fiscais<br />Emissão e cálculo de guias ICMS-ST, ICMS, ISS, PIS e CONFINS; <br />Emissão de NFTS<br />Lançamento de notas fiscais de serviços no site da PMSP<br />Entrega de obrigações acessórias GIA,EFD Fiscal, EFD Contribuições, DCTF e EFD/REINF;<br />Conciliar as contas relacionadas a tributos garantindo alinhamento com a contabilidade;<br />Acompanhar as atualizações da legislação tributária.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar a análise e interpretação da legislação tributária, garantindo o correto cumprimento das obrigações fiscais da empresa.<br /> - Elaborar e revisar declarações e relatórios fiscais, como SPED Fiscal, DCTF e EFD-Contribuições.<br /> - Conduzir auditorias internas para verificar a conformidade tributária e identificar oportunidades de melhoria.<br /> - Prestar suporte às áreas contábil e financeira em questões relacionadas a tributos e legislação.<br /> - Monitorar alterações na legislação fiscal e promover atualizações nos processos internos.<br /> - Elaborar e apresentar relatórios sobre a situação fiscal da empresa à gestão.<br /> - Atuar em projetos de planejamento tributário, buscando melhorias e economia fiscal.<br /> - Desenvolver e implementar procedimentos internos para o aprimoramento do controle fiscal.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior em Ciências Contábeis, Direito ou áreas relacionadas;<br /> - Experiência comprovada em legislação tributária e obrigações fiscais;<br /> - Conhecimento em apuração de tributos (ICMS, IPI, ISS, IRPJ, CSLL);<br /> - Domínio de software de gestão tributária e ERP;<br /> - Habilidade com ferramentas de Excel avançado;<br /> - Capacidade de análise e interpretação de normas fiscais;<br /> - Atualização constante sobre alterações na legislação tributária;<br /> - Boa comunicação e trabalho em equipe.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nutriportvagas/10/analista-fiscal-senior?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[16245336]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[58ea049c-0311-49cd-b7ee-f38997fcad7a]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[58ea049c-0311-49cd-b7ee-f38997fcad7a]]></partnerRequisitionId>
-    <company><![CDATA[Nutriport Comercial LTDA]]></company>
-    <title><![CDATA[Assistente de Vendas II]]></title>
-    <posterEmail><![CDATA[jaqueline.santos@nutriport.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul>
-<li>Atendimento de clientes via telefone e através de portais eletrônico;</li>
-<li>Emissão de pedidos e proposta de preços;</li>
-<li>Preenchimento de relatórios estatísticos de vendas;</li>
-<li>Preenchimento e solicitação dos processos de devolução;</li>
-<li>Atendimento dos representantes comerciais.</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Apoiar a equipe de vendas no atendimento a clientes, prezando pela excelência no serviço.<br /> - Realizar o acompanhamento de pedidos e elaboração de relatórios de vendas.<br /> - Coordenar a atualização de informações em sistemas de gestão de vendas.<br /> - Colaborar na manutenção do relacionamento com clientes, buscando fidelização.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
-<li>Superior completo em administração e áreas correlatas;</li>
-<li>Pacote Office com ênfase em Word e Excel Intermediário;</li>
-<li>Vivencia em vendas internas B2B;</li>
-<li>Habilidade em cálculos matemáticos;</li>
-<li>Raciocínio analítico;</li>
-<li>Habilidade de comunicação escrita e verbal;</li>
-<li>Empatia, colaboração e adaptabilidade;</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nutriportvagas/23/assistente-de-vendas-ii?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[16245336]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[a5ddf792-32ca-402e-9202-7e4b46ba514a]]></partnerJobId>
@@ -92553,10 +92497,10 @@ responsabilidade;<br /></li><li>Conhecimento em pacote office (word, excel);</li
     <partnerJobId><![CDATA[9d08b019-0ceb-473d-9ab0-53c796bd97eb]]></partnerJobId>
     <partnerRequisitionId><![CDATA[9d08b019-0ceb-473d-9ab0-53c796bd97eb]]></partnerRequisitionId>
     <company><![CDATA[ISQ Brasil]]></company>
-    <title><![CDATA[Analista Técnico Sênior - Vaga para região do Ipiranga (SP)]]></title>
+    <title><![CDATA[Analista Técnico Sênior (Integridade) - Vaga para região do Ipiranga (SP)]]></title>
     <posterEmail><![CDATA[evsilva@isqbrasil.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está buscando uma oportunidade que permita crescer e se desenvolver em um ambiente dinâmico e colaborativo? Temos uma posição aberta, ideal para quem deseja fazer parte de uma equipe comprometida com a excelência. Aqui, você encontrará um espaço para aplicar suas habilidades, contribuir com soluções e participar ativamente de um processo que impacta diretamente na qualidade dos produtos e serviços oferecidos. Valorizamos o potencial de cada colaborador e incentivamos o aprendizado contínuo, proporcionando a chance de se destacar e conquistar novos desafios. Se você tem interesse em atuar em um time que preza pela qualidade e pela inovação, não deixe essa oportunidade passar. Venha fazer parte de um ambiente estimulante, onde suas contribuições serão reconhecidas e valorizadas. Junte-se a nós e inicie uma nova etapa na sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Experiência em gestão de projetos, com domínio de metodologias, planejamento, acompanhamento de cronogramas, gestão de riscos e indicadores;</li><li>Atuação estruturada em PMO, com foco em governança, padronização de processos e suporte à tomada de decisão; </li><li>Forte capacidade de atuação com visão gerencial e executiva, garantindo interface eficiente com diferentes níveis; </li><li>Experiência na elaboração e condução de racionais executivos e reports gerenciais, com periodicidade quinzenal, assegurando clareza, objetividade e direcionamento estratégico; </li><li>Perfil analítico, com habilidade para consolidar informações, estruturar apresentações gerenciais, identificar desvios e propor planos de ação consistentes</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Gestão integrada do projeto e das frentes de trabalho;</li><li>Controle de cronogramas, entregáveis e indicadores;</li><li>Acompanhamento de estudos de integridade, RBI e vida remanescente;</li><li>Gestão de riscos técnicos e operacionais;</li><li>Consolidação de históricos de manutenção e operação;</li><li>Estruturação e gestão de bases georreferenciadas (GIS);</li><li>Desenvolvimento de dashboards e relatórios gerenciais em Power BI;</li><li>Acompanhamento físico e financeiro dos contratos e investimentos (CAPEX);</li><li>Suporte técnico e estratégico para tomada de decisão.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Convênio com drogarias Araújo, Drogasil e Raia</li><li>Plano de saúde</li><li>TotalPass</li><li>Gympass</li><li>Convênio com o SESC</li><li>Seguro de vida</li><li>Vale Alimentação/Refeição</li><li>Vale transporte</li><li>Plano odontológico</li><li>C4life (Apoio psicológico, orientação jurídica e financeira)</li><li>Day Off</li><li>Licença Maternidade/Paternidade estendida (Empresa cidadã)</li><li>Programa de Bônus</li><li>Plano de Carreiras</li><li>Parceria com instituições de ensino, descontos em graduação, pós-graduação e muito mais!</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/isqbrasilcarreiras/127/analista-tecnico-senior-vaga-para-regiao-do-ipiranga-sp?applicationSource=0]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está buscando uma oportunidade que permita crescer e se desenvolver em um ambiente dinâmico e colaborativo? Temos uma posição aberta, ideal para quem deseja fazer parte de uma equipe comprometida com a excelência. Aqui, você encontrará um espaço para aplicar suas habilidades, contribuir com soluções e participar ativamente de um processo que impacta diretamente na qualidade dos produtos e serviços oferecidos. Valorizamos o potencial de cada colaborador e incentivamos o aprendizado contínuo, proporcionando a chance de se destacar e conquistar novos desafios. Se você tem interesse em atuar em um time que preza pela qualidade e pela inovação, não deixe essa oportunidade passar. Venha fazer parte de um ambiente estimulante, onde suas contribuições serão reconhecidas e valorizadas. Junte-se a nós e inicie uma nova etapa na sua carreira!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Experiência em gestão de projetos, com domínio de metodologias, planejamento, acompanhamento de cronogramas, gestão de riscos e indicadores;</li><li>Atuação estruturada em PMO, com foco em governança, padronização de processos e suporte à tomada de decisão; </li><li>Forte capacidade de atuação com visão gerencial e executiva, garantindo interface eficiente com diferentes níveis; </li><li>Experiência na elaboração e condução de racionais executivos e reports gerenciais, com periodicidade quinzenal, assegurando clareza, objetividade e direcionamento estratégico; </li><li>Perfil analítico, com habilidade para consolidar informações, estruturar apresentações gerenciais, identificar desvios e propor planos de ação consistentes</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Gestão integrada do projeto e das frentes de trabalho;</li><li>Controle de cronogramas, entregáveis e indicadores;</li><li>Acompanhamento de estudos de integridade, RBI e vida remanescente;</li><li>Gestão de riscos técnicos e operacionais;</li><li>Consolidação de históricos de manutenção e operação;</li><li>Estruturação e gestão de bases georreferenciadas (GIS);</li><li>Desenvolvimento de dashboards e relatórios gerenciais em Power BI;</li><li>Acompanhamento físico e financeiro dos contratos e investimentos (CAPEX);</li><li>Suporte técnico e estratégico para tomada de decisão.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Convênio com drogarias Araújo, Drogasil e Raia</li><li>Plano de saúde</li><li>TotalPass</li><li>Gympass</li><li>Convênio com o SESC</li><li>Seguro de vida</li><li>Vale Alimentação/Refeição</li><li>Vale transporte</li><li>Plano odontológico</li><li>C4life (Apoio psicológico, orientação jurídica e financeira)</li><li>Day Off</li><li>Licença Maternidade/Paternidade estendida (Empresa cidadã)</li><li>Programa de Bônus</li><li>Plano de Carreiras</li><li>Parceria com instituições de ensino, descontos em graduação, pós-graduação e muito mais!</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/isqbrasilcarreiras/127/analista-tecnico-senior-integridade-vaga-para-regiao-do-ipiranga-sp?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[9424481]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -100545,6 +100489,26 @@ Conhecimento legislação tributária<br /></li></ul><br /><br /><b>Benefícios<
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[7d890de4-e069-493d-b32d-aa101d40bb15]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[7d890de4-e069-493d-b32d-aa101d40bb15]]></partnerRequisitionId>
+    <company><![CDATA[Growth Supplements Carreiras]]></company>
+    <title><![CDATA[MOTORISTA]]></title>
+    <posterEmail><![CDATA[teresinha.cantelli@grwt.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <b>Motorista</b> para integrar no nosso time. Se você tem paixão por excelência, domínio técnico na sua área e busca um ambiente onde o sucesso coletivo é prioridade, essa oportunidade é para você. Aqui, você terá o espaço para realizar o transporte de cargas, matérias-primas ou produtos acabados, garantindo a entrega no prazo estipulado, a integridade da mercadoria e o cumprimento de todas as normas de segurança e legislação de trânsito e os procedimentos internos da empresa.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir o caminhão com segurança, respeitando as leis de trânsito e os limites de velocidade;</li><li>Realizar a entrega de mercadorias nos locais e horários definidos, seguindo a programação logística;</li><li>Acompanhar as operações de carga e descarga, assegurando que o acondicionamento e a amarração da carga estejam corretos e de acordo com as normas (ex: peso, distribuição, segurança);</li><li>Reportar atrasos, desvios e ocorrências de segurança (acidentes, roubos, avarias) à base operacional;</li><li>Praticar direção defensiva e econômica, visando a redução do consumo de combustível, a diminuição do desgaste do veículo e a prevenção de multas;</li><li>Realizar outras atividades pertinentes à função, conforme a necessidade da área e/ou orientação do superior imediato.</li><br /><br /></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>CNH C;</li><li>Experiência mínima 1 ano na função</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale alimentação R$1.100,00</li><li>Convenio Farmácia</li><li>Seguro de Vida</li><li>Desconto Exclusivo para compra de produtos Growth </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/growthtalentos/47/motorista?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[112227475]]></companyId>
+    <city><![CDATA[Arujá]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[50f7adb1-689a-4e01-ae86-dabef6adc140]]></partnerJobId>
     <partnerRequisitionId><![CDATA[50f7adb1-689a-4e01-ae86-dabef6adc140]]></partnerRequisitionId>
     <company><![CDATA[KAUFFER - EQUIPAMENTOS DE PILATES]]></company>
@@ -108009,6 +107973,26 @@ Manter-se atualizado(a) quanto à legislação tributária vigente.</li></ul><br
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[5e26762a-21cd-4a6c-977d-604124c63e9f]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[5e26762a-21cd-4a6c-977d-604124c63e9f]]></partnerRequisitionId>
+    <company><![CDATA[Escola Americana de Vitória]]></company>
+    <title><![CDATA[Banco de Talentos - Estágios]]></title>
+    <posterEmail><![CDATA[fernanda.botelho@escolaamericana.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Join the EAV Team!---<br />Faça parte da Escola Americana de Vitória!<br /><br /><br />Banco de Talentos: Programa de Estágio<br /><br /><br />Nosso Banco de Talentos do Programa de Estágio está aberto para você que está interessado em aprender, em aplicar os conhecimentos acadêmicos na prática e que deseja fazer a diferença na sua carreira profissional. <br /><br /><br /><ul><li><b>Estágio Nutrição</b> - com inglês</li><li><b>Estágio Artes</b> - com inglês</li><li><b>Estágio Artes</b></li><li><b>Estágio Letras Português</b></li><li><b>Estágio Letras Inglês</b></li><li><b>Estágio Psicologia</b> - Educação Inclusiva </li><li><b>Estágio Educação Física</b></li><li><b>Estágio Laboratório </b></li><li><b>Estágio Administração</b> - com inglês</li><li><b>Estágio Marketing</b> - com inglês</li><li><b>Estágio Pedagogia</b></li><li><b>Estágio Pedagogia</b> - com inglês</li><li><b>Estágio Pedagogia Gestão</b> - com inglês</li><li><b>Estágio Contabilidade</b></li><li><b>Estágio Recursos Humanos </b></li></ul><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na rotina e organização.</li><li>Contribuir com a criação de materiais e documentos.</li><li>Colaborar com a equipe e atender a comunidade.</li><li>Participar ativamente da rotina escolar e aprender, na prática, com os profissionais da escola.</li></ul><b><i></i></b><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação, em andamento, no curso da vaga de habilitação.</li><li>Proatividade e engajamento no trabalho em equipe.</li><li>Comunicação cordial.</li><li>Para as vagas com proficiência em inglês é necessário . Para as demais, o inglês é sempre um diferencial muito bem-vindo!</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><b>Local de trabalho:</b> Presencial <br /><b>Bolsa de estágio</b>: R$ 1.300,00]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/escolaamericanavagas/27/banco-de-talentos-estagios?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11209252]]></companyId>
+    <city><![CDATA[Vitória]]></city>
+    <state><![CDATA[Espírito Santo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[2f5267f4-de60-4c38-94b5-998ec3192577]]></partnerJobId>
     <partnerRequisitionId><![CDATA[2f5267f4-de60-4c38-94b5-998ec3192577]]></partnerRequisitionId>
     <company><![CDATA[Escola Americana de Vitória]]></company>
@@ -108214,7 +108198,7 @@ Manter-se atualizado(a) quanto à legislação tributária vigente.</li></ul><br
     <company><![CDATA[Escola Americana de Vitória]]></company>
     <title><![CDATA[Professor(a) Inglês - Anos Finais e Ensino Médio]]></title>
     <posterEmail><![CDATA[fernanda.botelho@escolaamericana.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Join the EAV Team!---<br />Faça parte da Escola Americana de Vitória!<br /><br /><br />Buscamos um(a) <b>Professor(a) de Inglês </b> para integrar a equipe de Middle/ High da nossa Escola! <br /><br /><br /><b>Local de trabalho:</b> Presencial | <b>Unidade Aeroporto </b><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Ministram aulas (comunicação e expressão, integração social e iniciação às ciências) nas quatro primeiras séries do ensino fundamental. Preparam aulas; efetuam registros burocráticos e pedagógicos; participam na elaboração do projeto pedagógico; planejam o curso de acordo com as diretrizes educacionais. Atuam em reuniões administrativas e pedagógicas; organizam eventos e atividades sociais, culturais e pedagógicas. Para o desenvolvimento das atividades utilizam constantemente capacidades de comunicação, no sentido de garantir o adequado desempenho da área e o alcance de resultados de acordo com as diretrizes gerais da Escola Americana de Vitória.<b><i></i></b><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo em Licenciatura em Letras Inglês;</li></ul><ul><li>Mínima de 1 ano de atuação em atividade escolar;</li></ul><ul><li>Inglês fluente, nível mínimo C1;</li><li>Compreensão completa da operação de uma escola;</li><li>Forte habilidade organizacional e comunicação interpessoal;</li><li>Alto grau de recursos de multitarefa e gerenciamento de tempo;</li><li>Conhecimento/Habilidades Especiais; Pacote Office (Word, Excel e Powerpoint) e internet.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência médica (Conforme CCT)</li><li>Assistência odontológica</li><li>Seguro de vida</li><li>Ticket-alimentação</li><li>Vale-transporte</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Join the EAV Team!---<br />Faça parte da Escola Americana de Vitória!<br /><br /><br />Buscamos um(a) <b>Professor(a) de Inglês </b> para integrar a equipe de Middle/ High da nossa Escola! <br /><br /><br /><b>Local de trabalho:</b> Presencial | <b>Unidade Aeroporto </b><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Ministram aulas (comunicação e expressão, integração social e iniciação às ciências) nas quatro primeiras séries do ensino fundamental. Preparam aulas; efetuam registros burocráticos e pedagógicos; participam na elaboração do projeto pedagógico; planejam o curso de acordo com as diretrizes educacionais. Atuam em reuniões administrativas e pedagógicas; organizam eventos e atividades sociais, culturais e pedagógicas. Para o desenvolvimento das atividades utilizam constantemente capacidades de comunicação, no sentido de garantir o adequado desempenho da área e o alcance de resultados de acordo com as diretrizes gerais da Escola Americana de Vitória.<b><i></i></b><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo em Licenciatura em Letras Inglês;</li></ul><ul><li>Mínima de 1 ano de atuação em atividade escolar;</li></ul><ul><li>Inglês fluente, nível mínimo C1;</li><li>Compreensão completa da operação de uma escola;</li><li>Forte habilidade organizacional e comunicação interpessoal;</li><li>Alto grau de recursos de multitarefa e gerenciamento de tempo;</li><li>Conhecimento/Habilidades Especiais; Pacote Office (Word, Excel e Powerpoint) e internet.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência médica (Conforme CCT)</li><li>Assistência odontológica</li><li>Seguro de vida</li><li>Ticket-alimentação</li><li>Vale-transporte</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/escolaamericanavagas/11/professor-a-ingles-anos-finais-e-ensino-medio?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[11209252]]></companyId>
     <city><![CDATA[Vitória]]></city>
