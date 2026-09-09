@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 09 Sep 2026 19:15:48 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 20:15:51 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3960]]></expectedJobCount>
+  <expectedJobCount><![CDATA[3962]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerJobId>
     <partnerRequisitionId><![CDATA[06e65ab6-7adc-428b-bd67-fe454a163b3d]]></partnerRequisitionId>
@@ -1197,6 +1197,26 @@ Salário + Produtividade;</li></ul>]]></description>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[b0b0a7ba-1376-4fd9-aff5-cf1e1c979957]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[b0b0a7ba-1376-4fd9-aff5-cf1e1c979957]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Coordenação de Desenvolvimento de Software | Inteligência Artificial]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Coordenador de Desenvolvimento de Software será o facilitador e líder estratégico do time responsável pelo Smart Harness, plataforma que integra ambiente de desenvolvimento (VS Code, CLI) e agentes de IA em um ecossistema construído majoritariamente em Go, com componentes complementares em .NET (serviço de autenticação) e Angular/TypeScript (frontend e extensão VS Code). <br />Sua missão é garantir a entrega coesa entre squads que atuam em diferentes camadas do produto — CLI, agentes, autenticação e frontend —, conectando visão de arquitetura, segurança e experiência do desenvolvedor à entrega contínua de valor. <br />No dia a dia, será responsável por gerir talentos, remover impedimentos, garantir qualidade e consistência arquitetural entre os serviços, e assegurar que a integração com Identity/RAC e pipelines de release funcione de forma confiável..<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Coordenar e liderar as squads responsáveis pelos componentes do Smart Harness, majoritariamente em Go, UI Angular e extensão VS Code.</li><li>Planejar, acompanhar e reportar projetos, metas e indicadores de desempenho do time.</li><li>Garantir consistência arquitetural e qualidade entre serviços em Go e componentes complementares em .NET e Angular/TypeScript, incluindo padrões de segurança, observabilidade e resiliência.</li><li>Acompanhar a orquestração e o ciclo de release da plataforma (Docker Compose, pipelines Azure DevOps, empacotamento e distribuição da extensão VS Code).</li><li>Zelar pela integridade dos fluxos de autenticação e autorização (OAuth/OIDC via Fluig Identity, integração com RAC), garantindo segurança sem comprometer a experiência do desenvolvedor.</li><li>Atuar na priorização técnica e na gestão de backlog em conjunto com stakeholders e outras áreas da companhia.</li><li>Conduzir a gestão de pessoas: acompanhamento de desempenho, feedback contínuo e PDIs.</li><li>Promover boas práticas de engenharia, DevOps, testes automatizados e documentação viva (wiki de arquitetura por repositório).</li><li> Apoiar decisões técnicas com visão de negócio, escalabilidade e sustentabilidade da plataforma.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Formação em Ciência da Computação, Engenharia de Computação/Software, Sistemas de</li><li>Informação ou Análise e Desenvolvimento de Sistemas.</li><li>Experiência sólida em desenvolvimento de software com Go (stack majoritária do time); vivência complementar em .NET/C# ou Angular/TypeScript é um diferencial, dado o caráter poliglota do time.</li><li>• Vivência em arquiteturas orientadas a serviços, containers (Docker) e orquestração local/CI (Docker Compose, pipelines Azure DevOps ou similares).</li><li>Conhecimento em fluxos de autenticação/autorização (OAuth2, OIDC, JWT) e integração com</li><li>provedores de identidade.</li><li>Experiência prévia em liderança ou coordenação de times técnicos (histórico de migração de IC</li><li>para liderança é desejável).</li><li>Capacidade de atuar com múltiplas squads e integrações entre diferentes camadas de um produto</li><li>(frontend, backend, ferramentas de desenvolvedor).</li><li>Comunicação clara, visão sistêmica e orientação a resultados.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12244/tech-coordenacao-de-desenvolvimento-de-software-inteligencia-artificial?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[ac913bad-b7f2-4747-83c4-3544de3d3712]]></partnerJobId>
     <partnerRequisitionId><![CDATA[ac913bad-b7f2-4747-83c4-3544de3d3712]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -2052,26 +2072,6 @@ Apoio interno à equipe de análise de produto.</li></ul>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[f4f0d792-c242-4500-b357-2857e4fd1d3b]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[f4f0d792-c242-4500-b357-2857e4fd1d3b]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Projetos] Coordenação de Projetos de ERP]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Garantir a entrega do serviço contratado pelo cliente ou grupo de clientes sob sua responsabilidade, através da mobilização dos recursos necessários para atingimento dos objetivos estabelecidos (visando o resultado financeiro da TOTVS), garantindo uma gestão eficiente do serviço e a satisfação do cliente.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />● Garantir a comunicação e a transparência nos resultados e questões dos serviços e projetos para as partes interessadas, por meio de reuniões, apresentações e status reports; <br />● Atuar como “dono” de serviços e projeto, sendo o responsável e mantendo o relacionamento entre áreas envolvidas (clientes e demais área TOTVS), para viabilizar a resolução das questões de projeto/serviço e endereçamento de melhorias contínuas nos processos; <br />● Realizar a gestão eficiente do serviço (alta complexidade, independente do porte, escopo e linha de produto), garantindo o cumprimento do prazo, custo e escopo estabelecidos (gerindo receita, custos e despesas), assim como identificando e tratando riscos previamente; <br /> ● Identificar e formar potenciais sucessores, repassando conhecimentos técnicos, conceituais e ferramentas de gestão; <br />● Atuar de forma alinhada com a área comercial para garantir uma atuação estruturada na gestão de Projetos, negociações e oportunidades; <br />● Ter visão apurada de resultados x custo (ROL, Margem, EBITDA), através das ferramentas de gestão de projeto (PSA); <br />● Ter approach comercial para ofertar aos clientes novas soluções de serviço, garantindo no cliente uma receita contínua de novos serviços; <br />● Garantir o cumprimento e atingimento das metas, garantindo a produtividade (apontamento do time), o NPS e a margem dos projetos entregues; <br />● Dominar a Metodologia de Implantação da TOTVS (MIT), garantindo a assertividade de entrega, a documentação do projeto e o escopo contratado.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo; </li><li>Vivência com gestão de projetos de implantação de ERP ou software de gestão; </li><li>Vivência com gestão de projetos na metodologia PMBOK e cascata; </li><li>Vivência com gestão de pessoas; </li><li>Conhecimentos em regras e processos de negócios;</li><li>Disponibilidade para atuar híbrido - 3x ou mais presencial no cliente ou no nosso escritório; </li><li>Disponibilidade para viagens.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada TOTVER;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para TOTVERS;</li><li>Programa + Cuidado, programa de apoio pessoal para TOTVERS e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10773/projetos-coordenacao-de-projetos-de-erp?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[Belo Horizonte]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[df8ef729-d530-4deb-8b40-cbfece95d1cb]]></partnerJobId>
     <partnerRequisitionId><![CDATA[df8ef729-d530-4deb-8b40-cbfece95d1cb]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -2507,40 +2507,6 @@ ou MBA completos, preferencialmente no segmento de atuação; </li><li>Vivênci
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional que ficará responsável por prospectar e identificar novas oportunidades de negócios. Sua principal responsabilidade será prospectar e qualificar leads de acordo com o perfil de cliente ideal da TOTVS, garantindo que aqueles que se encaixam perfeitamente com as nossas soluções sejam identificados e abordados de maneira eficaz.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><b>O QUE VOCÊ VAI FAZER:<br /></b><li>Apoiar a prospecção de novas contas, conforme orientações recebidas, por meio de ligações, páginas de perfil profissional, WhatsApp e outras ferramentas;</li><li>Qualificar e acompanhar o lead do início até a reunião realizada, conforme orientações recebidas, acionando profissionais e/ou áreas responsáveis quando necessário;</li><li>Qualificar leads, conforme orientações recebidas, através de pesquisas na internet, páginas de perfil profissional, contatos telefônicos ou via WhatsApp;</li><li>Prospectar novas contas, conforme orientações recebidas, por meio de contatos telefônicos, e-mail, WhatsApp e agendamento de visitas/demonstrações presenciais ou online.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino médio completo;</li><li>Vivência com vendas outbound B2B de software/SaaS;</li><li>Disponibilidade para atuar no modelo híbrido, com 3 dias presenciais e 2 dias em home office.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11945/pre-vendas-auxiliar-de-prospeccao-comercial-bdr?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[Porto Alegre]]></city>
-    <state><![CDATA[Rio Grande do Sul]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a6334098-ec9a-45cd-a195-d1673380e67f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[a6334098-ec9a-45cd-a195-d1673380e67f]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Gerente de Contas Sênior - Farmer /Manufatura]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável pela gestão da carteira de clientes e canais. Deve atuar como um mentor, com foco no desenvolvimento de canais com alta performance de 
-vendas, qualidade nas entregas e no relacionamento com o cliente.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Garantir o atendimento às cláusulas contratuais de homologação de canais, orientando a execução das atividades propostas, 
-com validação e acompanhamento contínuo;  Assegurar a disseminação das informações corporativas, como conteúdos relacionados à produtos, campanhas comerciais, 
-código de conduta e ética e orientações sobre uso das marcas TOTVS;  <br />Planejar e realizar treinamentos e eventos promovidos pela TOTVS, analisando as tendências de mercado e promovendo os 
-temas por meio de ações junto aos canais, a fim de aumentar continuamente o pipeline de vendas de sua responsabilidade. <br /> Garantir a qualificação e homologação de novos canais de acordo com o perfil e avaliação de potencial das empresas 
-candidatas a CNT TOTVS; <br /> Garantir o processo de notificação e desomologação dos canais que descumprirem as regras pré-estabelecidas ou que 
-apresentem baixa performance; <br />Atender e acompanhar o atendimento da carteira de clientes ativos para garantir a satisfação dos clientes, com foco em 
-retenção dos clientes, renovação e expansão dos contratos. <br />Direcionar e acompanhar a evolução da solução de ocorrências ou demandas críticas identificadas no cliente, além de 
-gerenciar conflitos e propor melhorias de processo junto às áreas internas na TOTVS;  Acompanhar as oportunidades de negócio existentes e gerir e reportar resultados de forecast e pipeline para a companhia 
-através da ferramenta de CRM. <br /> Analisar relatórios e indicadores de performance de vendas dos canais, com foco em aplicar ações de melhoria nos processos; 
-bem como gestão dos Planos de ação com foco em desvio de indicadores. <br /> Orientar Executivos mais juniores em visitas a clientes e/ou prospects, dominando e repassando conhecimentos sobre 
-abordagens comerciais e formas de atuação de acordo com o perfil/segmento do cliente/prospect;  Desenvolver abordagens comerciais por meio de soluções cross voltadas aos segmentos de atuação que propiciem a 
-percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS. <br />Estar atualizado com as tendências do segmento de atuação, buscando novos modelos de negócios pautados em tecnologia; <br />Orientar Executivos mais juniores em visitas a clientes e/ou prospects, dominando e repassando conhecimentos sobre 
-abordagens comerciais e formas de atuação de acordo com o perfil/segmento do cliente/prospect;  Realizar o pós-venda junto aos clientes TOTVS, com baixo nível de orientação e supervisão, garantindo a satisfação e 
-retenção do cliente, além de gerar novas oportunidades;<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo; </li><li><b><i>Conhecimento e vivência no segmento (Manufatura/Indústria)</i></b>; </li><li>Vivência com vendas complexas e consultivas B2B de software de tecnologia e ERP;</li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li>Habilidade de negociação, comunicação e gestão de relacionamento com decisores;</li><li>Perfil organizado, proativo, resiliente e orientado a resultados;</li><li>Alta autonomia, disciplina e senso de responsabilidade para gerenciar carteira, pipeline e agenda;</li><li>Disponibilidade para viagens e atuação em modelo híbrido.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada TOTVER;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para TOTVERS;</li><li>Programa + Cuidado, programa de apoio pessoal para TOTVERS e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10749/vendas-gerente-de-contas-senior-farmer-manufatura?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Porto Alegre]]></city>
     <state><![CDATA[Rio Grande do Sul]]></state>
@@ -19171,6 +19137,26 @@ oportunidade!</b>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[c7c29da1-be2a-42ff-ad36-7f16e004ff30]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[c7c29da1-be2a-42ff-ad36-7f16e004ff30]]></partnerRequisitionId>
+    <company><![CDATA[Unimarka Distribuidora]]></company>
+    <title><![CDATA[Operador de Logística]]></title>
+    <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa ativa, gosta de estar sempre em movimento e tem vontade de atuar na área de separação e expedição da Logística? <b>Então essa vaga é para você!</b><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar no processo logístico de movimentação das mercadorias;</li><li>Realizar a organização, armazenagem e separação dos pedidos;</li><li>Organizar a avaliar o acondicionamento das mercadorias nos veículos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Atenção concentrada a detalhes; </li><li>Foco em resultados;</li><li>Iniciativa; </li><li>Responsabilidade e compromisso.</li></ul><br /><br /><b>Benefícios</b><br /><br />Salário compatível com o mercado;<br />Produtividade sobre o desempenho;<br />Ticket alimentação; <br />Participação nos resultados;<br />Plano de saúde e odontológico;<br />️Seguro de vida;<br />Compra de produtos da empresa com desconto;<br />Vale transporte;<br />Educação corporativa;<br />☕Café da manhã e da tarde;<br />Material escolar para filhos entre 5 e 10 anos;<br />‍♀️Convênio com o Sesc.<br /><br /><ul><br /><br /></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/1238/operador-de-logistica?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[65466539]]></companyId>
+    <city><![CDATA[Viana]]></city>
+    <state><![CDATA[Espírito Santo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[dbcbc183-7dba-4c8c-90d1-b2eeaa08e2ed]]></partnerJobId>
     <partnerRequisitionId><![CDATA[dbcbc183-7dba-4c8c-90d1-b2eeaa08e2ed]]></partnerRequisitionId>
     <company><![CDATA[Unimarka Distribuidora]]></company>
@@ -30549,6 +30535,77 @@ Se você deseja atuar em um ambiente educacional bilíngue, colaborativo e inova
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[8f1f1385-97d2-4685-95e6-0d0455d784d6]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[8f1f1385-97d2-4685-95e6-0d0455d784d6]]></partnerRequisitionId>
+    <company><![CDATA[All Wert Incorporação e Urbanismo]]></company>
+    <title><![CDATA[Engenheiro de Planejamento e Controle]]></title>
+    <posterEmail><![CDATA[tiane.conte@allwert.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Analista de Planejamento e Controle</strong> para atuar no acompanhamento e controle do portfólio de obras, apoiando a gestão na análise de prazos, evolução física, custos e desempenho dos empreendimentos.
+A posição terá atuação próxima às equipes de obra, projetos, orçamento, suprimentos e empresas contratadas, com foco em transformar os dados de planejamento em <strong>informações confiáveis para tomada de decisão e atuação preventiva sobre desvios</strong>.Perfil que buscamos:Procuramos alguém <strong>analítico, organizado e questionador</strong>, que não se limite a atualizar informações, mas consiga entender a lógica do planejamento, identificar inconsistências, antecipar riscos e apoiar a equipe na tomada de decisão.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Elaborar, analisar e acompanhar cronogramas físico-financeiros de obras;
+</li>
+<li>
+Realizar atualizações periódicas dos cronogramas e acompanhar avanço físico;
+</li>
+<li>
+Analisar <strong>caminho crítico, desvios de prazo, tendências e impactos no prazo final</strong>;
+</li>
+<li>
+Acompanhar marcos contratuais e principais datas dos empreendimentos;
+</li>
+<li>
+Elaborar e acompanhar <strong>Curvas S, indicadores de desempenho e projeções de conclusão</strong>;
+</li>
+<li>
+Apoiar a elaboração e análise de <strong>planos de recuperação e replanejamentos</strong>;
+</li>
+<li>
+Realizar análises comparativas entre <strong>linha de base, realizado e projeção</strong>;
+</li>
+<li>
+Apoiar a integração entre <strong>planejamento, orçamento e controle de custos</strong>;
+</li>
+<li>
+Acompanhar medições e sua aderência ao avanço físico das obras;
+</li>
+<li>
+Desenvolver relatórios gerenciais, dashboards e apresentações executivas;
+</li>
+<li>
+Realizar análise crítica das informações fornecidas por construtoras, gerenciadoras e demais parceiros;
+</li>
+<li>
+Apoiar a padronização e melhoria dos processos e ferramentas de planejamento e controle;
+</li>
+<li>
+Participar das reuniões de planejamento e apoiar as equipes na identificação antecipada de riscos e restrições.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação em <strong>Engenharia Civil, Arquitetura, Engenharia de Produção ou áreas correlatas</strong>;
+</li>
+<li>
+Experiência com planejamento e/ou controle de obras;</li>
+<li>
+Excel intermediário/avançado;
+</li>
+<li>
+Conhecimento de planejamento físico-financeiro, Curva S, caminho crítico, linha de base e análise de desvios;
+</li>
+<li>
+Capacidade analítica e facilidade para trabalhar com grande volume de informações;
+</li>
+<li>
+Boa comunicação e capacidade de interação com equipes multidisciplinares.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/allwert/251/engenheiro-de-planejamento-e-controle?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[71175882]]></companyId>
+    <city><![CDATA[Porto Belo]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[8292f686-f929-49ed-b1d6-7bad359ddf5c]]></partnerJobId>
     <partnerRequisitionId><![CDATA[8292f686-f929-49ed-b1d6-7bad359ddf5c]]></partnerRequisitionId>
     <company><![CDATA[All Wert Incorporação e Urbanismo]]></company>
@@ -33193,7 +33250,7 @@ Vontade de aprender e se desenvolver profissionalmente</li></ul>]]></description
     <company><![CDATA[GRUPO CEUMA]]></company>
     <title><![CDATA[Operador de Computador - IMPERATRIZ]]></title>
     <posterEmail><![CDATA[rhunidadeceuma2@ceuma.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Operador (a) de Computador para atuar na melhoria dos processos da empresa, garantindo a qualidade e eficiência dos nossos serviços de tecnologia. O profissional será responsável pelo atendimento aos usuários e pela manutenção da infraestrutura de informática e laboratórios.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar suporte a usuários via telefone, sistema de solicitações e ferramentas de atendimento remoto; através de acesso remoto na tentativa de solucionar o problema; acompanhamento na solução das solicitações junto ao atendimento nível 2; instalação de softwares, hardwares, montagem e manutenção nos equipamentos de informática de computadores da instituição.Promover a manutenção preventiva e instalação de software e hardware dos computadores dos laboratórios de informática da instituição.Verificar o funcionamento da infraestrutura dos laboratórios, cabeamento de rede, elétrico, switch, ar condicionado, bancadas, nobreak e data show para atendimento das necessidades dos usuários nas áreas de negócio CEUMA.<b>Realizar outras atribuições referentes ao cargo e conforme solicitação do superior imediato.</b><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médico completo;<br /></li><li>Cursos ou tecnólogo na área de tecnologia e/ou computação;</li><li>Pacote Office Completo;</li><li>Conhecimento em manutenção de hardware, formatação e instalação de sistemas/softwares.</li><li>Noções de infraestrutura de rede e cabeamento estruturado.</li><li>Proatividade, boa comunicação interpessoal e foco na resolução de problemas.</li><li>Informática Básica.<br /><br /></li></ul><br /><br /><b>Benefícios</b><br /><br />Plano de assistência medica (opcional);<br />Vale Transporte (opcional).]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Operador (a) de Computador para atuar na melhoria dos processos da empresa, garantindo a qualidade e eficiência dos nossos serviços de tecnologia. O profissional será responsável pelo atendimento aos usuários e pela manutenção da infraestrutura de informática e laboratórios.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar suporte a usuários via telefone, sistema de solicitações e ferramentas de atendimento remoto; através de acesso remoto na tentativa de solucionar o problema; acompanhamento na solução das solicitações junto ao atendimento nível 2; instalação de softwares, hardwares, montagem e manutenção nos equipamentos de informática de computadores da instituição.Promover a manutenção preventiva e instalação de software e hardware dos computadores dos laboratórios de informática da instituição.Verificar o funcionamento da infraestrutura dos laboratórios, cabeamento de rede, elétrico, switch, ar condicionado, bancadas, nobreak e data show para atendimento das necessidades dos usuários nas áreas de negócio CEUMA.<b>Realizar outras atribuições referentes ao cargo e conforme solicitação do superior imediato.</b><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médico completo;<br /></li><li>Cursos ou tecnólogo na área de tecnologia e/ou computação;</li><li>Pacote Office Completo;</li><li>Conhecimento em manutenção de hardware, formatação e instalação de sistemas/softwares.</li><li>Noções de infraestrutura de rede e cabeamento estruturado.</li><li>Proatividade, boa comunicação interpessoal e foco na resolução de problemas.</li><li>Informática Básica.<br /><b>ANEXAR CURRICULO</b></li></ul><br /><br /><b>Benefícios</b><br /><br />Plano de assistência medica (opcional);<br />Vale Transporte (opcional).]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ceumatrabalheconosco/202/operador-de-computador-imperatriz?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[1220822]]></companyId>
     <city><![CDATA[Imperatriz]]></city>
@@ -41929,6 +41986,26 @@ alta performance, esta vaga é para você! Vamos conversar? <br /><br /><b>Resp
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1341/banco-de-talentos-agua-comprida?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Conceição das Alagoas]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[a9dd1579-e2d9-4216-ad19-0a326990ffe5]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[a9dd1579-e2d9-4216-ad19-0a326990ffe5]]></partnerRequisitionId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Analista Financeiro (Contas a Receber)]]></title>
+    <posterEmail><![CDATA[mayra.kikuichi@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) profissional para atuar na área de Contas a Receber, Crédito, Cobrança e Seguros, sendo responsável pela gestão da carteira de clientes, análise e concessão de crédito, acompanhamento da inadimplência, administração das apólices de seguros e suporte aos processos de sinistros. Procuramos uma pessoa organizada, analítica, proativa e com forte relacionamento interpessoal.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar análises de crédito para concessão, revisão e manutenção de limites de clientes; </li><li>Monitorar e controlar a carteira de contas a receber;</li><li>Realizar conciliações de recebimentos e baixas bancárias; </li><li>Realizar ações de cobrança preventiva e corretiva, acompanhando clientes inadimplentes; </li><li>Acompanhar e liberar ordens de venda bloqueadas no sistema;</li><li>Controlar as apólices de seguros: realizar cotações e renovações junto as corretoras e seguradoras;</li><li>Conduzir e acompanhar processos de sinistros, garantindo o cumprimento de prazos, documentação necessária e recebimento de indenizações;</li><li>Elaborar relatórios gerenciais, controles financeiros e indicadores de desempenho da área.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior completo ou cursando em Ciências Contábeis, Administração, Gestão Financeira, Economia ou áreas correlatas;</li><li>Experiência nas rotinas de Contas a Receber, Crédito e Cobrança;</li><li>Excel/Office em nível intermediário ou avançado;</li><li>Capacidade de acompanhar múltiplas demandas e cumprir prazos;</li><li>Senso de urgência e foco em resultados;</li><li>Boa comunicação verbal e escrita.</li></ul><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração Competitiva</li><li>Vale Alimentação</li><li>Plano de Saúde </li><li>Plano Odontológico</li><li>Refeitório</li><li>Transporte Fretado</li><li>Convênio com farmácias, universidades e clubes</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/2015/analista-financeiro-contas-a-receber?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Delta]]></city>
     <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -58227,26 +58304,6 @@ administrativo.<br />
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[526229bb-8d9f-4e85-8fea-f73ab076844a]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[526229bb-8d9f-4e85-8fea-f73ab076844a]]></partnerRequisitionId>
-    <company><![CDATA[P. B. LOPES & CIA LTDA]]></company>
-    <title><![CDATA[Técnico de segurança do trabalho]]></title>
-    <posterEmail><![CDATA[valeska.celestino@pblopes.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O Técnico em Segurança do Trabalho será responsável por planejar, coordenar e supervisionar atividades relacionadas à segurança e saúde ocupacional, garantindo o cumprimento das normas e regulamentos de segurança no ambiente de trabalho. Atuará como técnico, desenvolvendo e implementando políticas de prevenção de acidentes, promovendo treinamentos, e realizando auditorias, com foco na mitigação de riscos e melhoria contínua dos processos de segurança.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a análise de riscos no ambiente de trabalho e elaborar planos de ação para mitigação de acidentes.</li><li>Desenvolver e implementar programas de prevenção de acidentes, promovendo a saúde e segurança dos colaboradores.</li><li>Coordenar e realizar auditorias de segurança e inspeções periódicas, identificando áreas de risco e propondo melhorias.</li><li>Supervisionar a implementação de normas de segurança e saúde ocupacional conforme a legislação vigente (NRs).</li><li>Elaborar relatórios técnicos, laudos e pareceres, com foco na prevenção e controle de acidentes de trabalho.</li><li>Conduzir investigações de acidentes, identificando causas e propondo ações corretivas e preventivas.</li><li>Promover campanhas educativas, treinamentos e programas de conscientização de segurança para os colaboradores.</li><li>Supervisionar o cumprimento das normas de segurança durante a execução de tarefas críticas e de alto risco.</li><li>Gerenciar a utilização e o controle de EPIs (Equipamentos de Proteção Individual) e EPCs (Equipamentos de Proteção Coletiva), assegurando que todos os colaboradores estejam adequadamente equipados.</li><li>Assessorar a liderança da empresa em questões de segurança, propondo melhorias nos processos operacionais.</li><li>Coordenar a CIPA (Comissão Interna de Prevenção de Acidentes) e organizar as SIPATs (Semanas Internas de Prevenção de Acidentes de Trabalho).</li></ul>Atenderá as unidades do Paraná, São Paulo e Mato Grosso do Sul.<br /><br /><b>Requisitos e qualificações</b><br /><br />Formação técnica completa em Segurança do Trabalho.· Desejável: Cursos de especialização e atualização na área de segurança do trabalho e saúde ocupacional.Conhecimento no sistema Protheus, será diferencial.Competências Comportamentais: Liderança, proatividade, comunicação eficaz, resolução de problemas, trabalho em equipe, foco em resultados.Disponibilidade para viagens é imprescindível, atenderá unidades do PR ,SP e MS.<br /><br /><b>Benefícios</b><br /><br />Vale alimentaçãoTotalPass<br />Plano odontológico<br />Plano de saúde<br />Bolsa de estudos<br />Auxílio natalidade<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspblopes/30/tecnico-de-seguranca-do-trabalho?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2377800]]></companyId>
-    <city><![CDATA[Londrina]]></city>
-    <state><![CDATA[Paraná]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[33995a87-354a-4081-8d1b-c98b269976a8]]></partnerJobId>
     <partnerRequisitionId><![CDATA[33995a87-354a-4081-8d1b-c98b269976a8]]></partnerRequisitionId>
     <company><![CDATA[P. B. LOPES & CIA LTDA]]></company>
@@ -58894,35 +58951,15 @@ mantendo a regularidade das operações;</li><li>Executar outras tarefas correla
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[63a0e796-da1e-4d62-857f-5e140c2f0ee1]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[63a0e796-da1e-4d62-857f-5e140c2f0ee1]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[77601896-dfa4-41c5-a8a0-0fb36c80e7e1]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[77601896-dfa4-41c5-a8a0-0fb36c80e7e1]]></partnerRequisitionId>
     <company><![CDATA[OSS Hospital do Tricentenário]]></company>
-    <title><![CDATA[TÉCNICO DE NUTRIÇÃO - HOSPITAL NOSSA SENHORA DE APARECIDA - PAULISTA (Contrato por prazo determinado)]]></title>
+    <title><![CDATA[VAGAS EXCLUSIVAS PCD - HOSPITAL NOSSA SENHORA DE APARECIDA - PAULISTA]]></title>
     <posterEmail><![CDATA[rh@hnsape.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 02 a 09/09/2026 (até 17h)</b><br /><br /><br />Tipo de Contrato: Contrato por prazo determinado de 90 dias<br />Regime/ Jornada de Trabalho - <br />Plantonista 12 X 36 - Diurno e Noturno<br />Salário: Compatível praticado na instituição<br /><br /><br /><b>Vaga destinada à ampla concorrência e também para Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Verificar o cumprimento do cardápio; </li><li>Contribuir na elaboração do Manual de Boas Práticas e acompanhar sua implantação e execução;</li><li>Participar da elaboração dos Procedimentos Operacionais Padrão (POP) e acompanhar sua implantação e execução;</li><li>Elaborar relatórios técnicos de não conformidades sempre que necessário, coletando dados e evidências; </li><li>Orientar e acompanhar a execução das atividades de recebimento, armazenamento, pré-preparo e preparo de alimentos;</li><li>Avaliar as características organolépticas dos alimentos e preparações culinárias, utilizando critérios estabelecidos no Plano de Indicadores de Qualidade; </li><li>Supervisionar as atividades de higienização de alimentos, utensílios, equipamentos, ambientes e pessoal;</li><li>Orientar e monitorar o uso correto de uniformes e Equipamentos de Proteção Individual (EPI);</li><li>Coletar dados e informações relacionadas às Unidades de Alimentação e Nutrição (UAN); </li><li>Participar do planejamento, execução e avaliação dos programas de formação continuada da equipe;</li><li>Colaborar para o cumprimento e a aplicação das normas de segurança ocupacional, realizando auditorias e treinamentos;</li><li>Monitorar programas de manutenção preventiva e periódica dos equipamentos. </li><li>Registrar as atividades previstas no PCMSO dos funcionários da UAN. </li><li>Auxiliar no planejamento e execução dos procedimentos de rotina, como a escala de trabalho dos funcionários e controle de ponto. </li><li>Acompanhar as atividades de controle de qualidade em todo o processo produtivo.</li><li>Colaborar no desenvolvimento de preparações culinárias e respectivas fichas técnicas de preparações. </li><li>Cooperar no controle periódico das sobras, do resto-ingestão e análise de desperdício mensalmente. </li><li>Participar do levantamento de dados para os cálculos de informações nutricionais. </li><li>Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso técnico em Nutrição e Dietética.</li><li>Declaração do Conselho Regional de Nutricionistas (CRN-PE) da 6ª Região de que está devidamente registrado.</li><li>Experiência mínima de 6 (seis) meses comprovada na função.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Transporte (opcional);</li><li>Refeitório;</li><li>Credenciamento com o SESC;</li><li>Seguro de vida.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/268/tecnico-de-nutricao-hospital-nossa-senhora-de-aparecida-paulista-contrato-por-prazo-determinado?applicationSource=0]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b><u>Vagas Exclusivas para Pessoas com Deficiência para Contratação Imediata</u></b><b><u><br /></u></b><br /><b>Período de inscrição: 27/08 a 30/09/2026 (até 17:00).<br /></b><b><br /></b><b>Aqui você não entra para uma lista de espera, você entra para fazer a diferença no nosso dia a dia, por isso não esqueça de anexar seu laudo médico atualizado.</b><br /><b><br /></b><br /><b>Tipo de Contrato: </b>Por prazo determinado<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Você poderá ter a oportunidade em atuar em várias áreas: Administrativas, assistenciais e operacionais em diversos cargos e funções.<br /><br /><b>Requisitos e qualificações</b><br /><br />Certifique-se de preencher todos os campos das perguntas com informações completas e precisas, anexe seus documentos mais recentes. Isso ajuda nossa Instituição a entender melhor seu perfil e como suas habilidades podem ser aproveitadas.<br />Verifique se seus dados de contato (telefone, e-mail) estão atualizados para que a empresa possa entrar em contato facilmente.<br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Transporte (opcional);</li><li>Refeitório;</li><li>Seguro de vida;</li><li>Credenciamento com o SESC.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/260/vagas-exclusivas-pcd-hospital-nossa-senhora-de-aparecida-paulista?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[75944743]]></companyId>
     <city><![CDATA[Paulista]]></city>
-    <state><![CDATA[Pernambuco]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[392c8cb4-3f6f-468e-870e-8a0e310cbb73]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[392c8cb4-3f6f-468e-870e-8a0e310cbb73]]></partnerRequisitionId>
-    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
-    <title><![CDATA[TÉCNICO DE ENFERMAGEM - UPAE SERRA TALHADA - CADASTRO DE RESERVA]]></title>
-    <posterEmail><![CDATA[rh@upaeserratalhada.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 04 a 09/09/2026 - até às 16h</b><br /><br /><br />Tipo de Contrato: Por prazo indeterminado<br />Regime/Jornada de Trabalho: Ferista - Diarista - 44h semanais;<br />Salário: Compatível praticado na instituição.<br /><br /><br />Cadastro reserva (validade de 6 meses)<br /><br /><br /><b>Vaga extensiva a Pessoas com Deficiência (PCD).</b><br /><b>Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prestar assistência direta ao paciente, promovendo cuidados de enfermagem essenciais;</li><li>Administrar medicamentos e tratamentos conforme prescrição médica;</li><li>Realizar procedimentos de enfermagem, como curativos e coletas de materiais para exames;</li><li>Monitorar sinais vitais e observar a evolução do estado de saúde dos pacientes;</li><li>Manter registros atualizados sobre o atendimento prestado e as condições dos pacientes;</li><li>Assistir na higiene pessoal e conforto dos pacientes;</li><li>Colaborar com a equipe de saúde na elaboração e execução do plano de cuidados;</li><li>Orientar pacientes e familiares sobre cuidados e tratamentos a serem seguidos;</li><li>Garantir a organização e limpeza do ambiente de trabalho e dos materiais utilizados;</li><li>Organizar sala de exames para realização dos mesmos conforme censo de exames solicitados;</li><li>Enviar exames para laudos da Teleimagem para laudo externo;</li><li>Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso Técnico de Enfermagem concluído;</li><li>Registro ativo no Conselho Regional de Enfermagem de Pernambuco - COREN-PE;</li><li>Experiência mínima comprovada de 6 meses como Técnico de Enfermagem;</li><li>Disponibilidade de horário: Diarista;</li><li>Noção básica de Informática;</li><li>Noções de lavagem, descontaminação e CME;</li><li>Conhecimento em segurança do paciente, controle de infecções e biossegurança.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Cartão Alimentação: R$ 20,00 por dia trabalhado no mês;</li><li>Assistência médica UNIMED e Hapvida (opcionais);</li><li>Assistência Odontológica;</li><li>Cartão benefícios BULLLA;</li><li>Seguro de vida;</li><li>Credenciamento com o SESC.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/273/tecnico-de-enfermagem-upae-serra-talhada-cadastro-de-reserva?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[75944743]]></companyId>
-    <city><![CDATA[Serra Talhada]]></city>
     <state><![CDATA[Pernambuco]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -61932,26 +61969,6 @@ No dia a dia, suas principais atividades serão:<br /><br />
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[798effb6-59eb-4de9-bb7c-4c2e8617f300]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[798effb6-59eb-4de9-bb7c-4c2e8617f300]]></partnerRequisitionId>
-    <company><![CDATA[Grupo PMZ]]></company>
-    <title><![CDATA[MT06 | AUXILIAR DE ESTOQUE (LOJA)]]></title>
-    <posterEmail><![CDATA[barbara.guerreiro@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por assegurar a correta recepção de peças e acessórios, o devido acondicionamento e uma eficiente expedição das peças, garantindo a organização e limpeza da área de estoque.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Alocar as peças que chegam de rota, transferências, devoluções, em seus respectivos endereços, e realocar quando necessário;</li><li>Separar peças para vendas e transferências conforme o controle de separação na tela do celular;</li><li>Fazer as rotinas da qualidade através do aplicativo a para garantir o bom funcionamento das normas;</li><li>Periodicamente participa do inventário do estoque confrontando a posição física das peças com as quantidades no sistema, para efeitos de controle e posterior contabilização;</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior;  </li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade;</li><li>Cumprir os procedimentos de estoque da loja;</li><li>Cumprir com os horários e jornadas de trabalho determinada pela loja;</li><li>Atualizar-se quanto aos catálogos e novos produtos;</li><li>Participar de treinamentos de atualização;</li><li>Substituir auxiliar de estoque de outras lojas quando solicitado.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo</li><li>Conhecimentos básicos em informática</li><li>Boa capacidade de organização e controle de estoque</li><li>Agilidade e facilidade no manuseio de mercadorias</li><li>Proatividade e disposição para o trabalho em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte</li><li>Vale refeição</li><li>Trilha de Carreira</li><li>Gratificação por Produtividade</li><li>Desconto em Drogarias</li><li>Desconto nas principais Universidade privadas</li><li>Desconto Sesc</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/278/mt06-auxiliar-de-estoque-loja?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[22287656]]></companyId>
-    <city><![CDATA[Cuiabá]]></city>
-    <state><![CDATA[Mato Grosso]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[2d0678b1-b892-4f77-80ad-e0eadc1beba7]]></partnerJobId>
     <partnerRequisitionId><![CDATA[2d0678b1-b892-4f77-80ad-e0eadc1beba7]]></partnerRequisitionId>
     <company><![CDATA[Grupo PMZ]]></company>
@@ -64512,82 +64529,6 @@ participação em licitações.
     <posterEmail><![CDATA[gleidson.figueiredo@pensalab.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto(a) para dar um passo decisivo na sua carreira? Temos uma oportunidade empolgante que pode transformar sua trajetória profissional! Estamos em busca de profissionais dinâmicos e apaixonados por vendas, que queiram fazer parte de um time comprometido em alcançar resultados excepcionais. Aqui, você terá a chance de contribuir de forma significativa para o crescimento da organização, atuando em um ambiente colaborativo e inovador. Valorizamos a criatividade, a proatividade e a busca incessante por novos desafios, proporcionando um espaço onde suas ideias podem brilhar. Junte-se a nós e ajude a construir o futuro das vendas em nossa empresa! Se você está pronto(a) para essa jornada, queremos conhecê-lo(a). Venha fazer a diferença!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Prospectar novos clientes e identificar oportunidades de negócios em sua região de atuação;</li><li>Realizar visitas comerciais periódicas para apresentação de soluções, levantamento de demandas e fortalecimento do relacionamento com clientes;</li><li>Elaborar propostas comerciais e conduzir negociações técnicas e comerciais;</li><li>Atuar na venda consultiva de equipamentos, identificando as necessidades do cliente e recomendando a melhor solução;</li><li>Acompanhar processos de cotação, pedidos, contratos e pós-venda;</li><li>Desenvolver e manter relacionamento com clientes estratégicos, distribuidores e parceiros comerciais;</li><li>Trabalhar em conjunto com áreas técnicas, engenharia, aplicação e pós-venda para garantir o correto atendimento ao cliente;</li><li>Participar de reuniões, feiras, eventos e demonstrações técnicas de equipamentos;</li><li>Realizar acompanhamento de metas, pipeline de vendas e indicadores comerciais;</li><li>Atualizar CRM e relatórios de visitas comerciais;</li><li>Monitorar movimentações de mercado, concorrência e tendências do segmento;</li><li>Garantir a satisfação do cliente durante todas as etapas do processo comercial;</li><li>Apoiar processos de instalação, treinamento e start-up quando necessário;</li><li>Atuar na recuperação de clientes inativos e expansão da carteira de negócios;</li><li>Assegurar o cumprimento das políticas comerciais e estratégias da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior completo em <b>Química</b>, Química Industrial, Engenharia Química ou áreas correlatas.</li></ul><ul><li>Conhecimento prático de <b>instrumentação analítica</b></li><li>Ensino técnico ou superior completo/cursando em Engenharia, Química ou áreas correlatas;</li><li>Experiência comprovada em vendas externas de equipamentos industriais, laboratoriais ou analíticos;</li><li>Conhecimento em técnicas de negociação e vendas consultivas;</li><li>Capacidade de interpretação técnica e comercial de especificações e demandas de clientes;</li><li>Experiência com prospecção de novos clientes e gestão de carteira;</li><li>Conhecimento em CRM e ferramentas de gestão comercial;</li><li>Boa comunicação verbal e escrita;</li><li>Perfil proativo, organizado e orientado a resultados;</li><li>Disponibilidade para viagens;</li><li>CNH categoria B ativa;</li><li>Pacote Office intermediário;</li><li>Desejável inglês técnico/intermediário.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Jornada de trabalho: Hibrida;</li><li>Vale Alimentação/Refeição - R$: 1.090,00</li><li>Plano de Saúde;</li><li>Plano Odontológico;</li><li>Seguro de Vida;</li><li>Vale transporte;</li><li>Day Off de aniversário;</li><li>Wellhub;</li><li>Política parental (Empresa Cidadã);</li><li>Participação nos Resultados;</li><li>Vacina da gripe;</li><li>Gift de Natal.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/pensalab/113/executivo-de-vendas-iii-rio-grande-do-sul?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[1204811]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[42e7f474-ac1e-493e-be21-60c0742aa815]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[42e7f474-ac1e-493e-be21-60c0742aa815]]></partnerRequisitionId>
-    <company><![CDATA[Pensalab]]></company>
-    <title><![CDATA[Analista de Projetos]]></title>
-    <posterEmail><![CDATA[wilson.rodrigues@pensalab.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar no planejamento, acompanhamento e controle de projetos, garantindo o cumprimento dos prazos, custos, qualidade e escopo estabelecidos. Suportar tecnicamente as equipes envolvidas, realizar interface com clientes (interno e externo) e fornecedores (nacional e internacional) e contribuir para a melhoria contínua dos processos de gestão de projetos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Elaborar e acompanhar cronogramas físicos e financeiros dos projetos;
-</li>
-<li>
-Monitorar indicadores de desempenho, prazos, custos e recursos;
-</li>
-<li>
-Realizar controle de documentação técnica e administrativa dos projetos;
-</li>
-<li>
-Apoiar na elaboração de propostas técnicas, relatórios gerenciais e apresentações;
-</li>
-<li>Coordenar reuniões de KICKOFF dos projetos e emitir atas e planos de ação;</li><li>Coordenar reuniões de acompanhamento e emitir atas e planos de ação;</li>
-<li>
-Fazer interface entre suprimentos, fornecedores, operação e clientes;
-</li>
-<li>
-Identificar riscos e propor ações corretivas e preventivas;
-</li>
-<li>
-Garantir aderência às normas técnicas, procedimentos internos e requisitos contratuais;
-</li>
-<li>
-Acompanhar atividades de comissionamento, startup e entrega técnica, quando aplicável;
-</li>
-<li>
-Apoiar na gestão de contratos e controle de mudanças de escopo;
-</li>
-<li>
-Contribuir para padronização e melhoria contínua dos processos de gestão de projetos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong><br /></strong><br /><ul><li>Ensino superior completo em Engenharia, Administração, Gestão de Projetos ou áreas correlatas;</li>
-<li>
-Experiência prévia em acompanhamento e gestão de projetos industriais, engenharia, automação ou áreas correlatas;
-</li>
-<li>
-Vivência com planejamento e controle de projetos multidisciplinares;</li></ul><ul>
-<li>Sistemas: MS Project e pacote Office avançado;</li>
-<li>
-Leitura e interpretação de documentação técnica;
-</li>
-<li>
-Conhecimento em metodologias de gestão de projetos;
-</li><li>Conhecimento em ZWCAD ou AUTOCAD;</li></ul><ul><li>Inglês Intermediário / Avançado</li><li>Espanhol básico (desejável)</li></ul><b><br /></b><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><li><ul>
- <li>Jornada de trabalho:
-     Hibrida;</li>
- <li>Vale Alimentação/Refeição -
-     R$: 1.090,00</li>
- <li>Plano de Saúde;</li>
- <li>Plano Odontológico;</li>
- <li>Seguro de Vida;</li>
- <li>Vale transporte;</li>
- <li>Day Off de aniversário;</li>
- <li>Wellhub;</li>
- <li>Política parental (Empresa
-     Cidadã);</li>
- <li>Participação nos Resultados;</li>
- <li>Vacina da gripe;</li>
- <li>Gift de Natal.</li>
-</ul></li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/pensalab/111/analista-de-projetos?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[1204811]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -86020,6 +85961,26 @@ Disponibilidade para deslocamentos entre unidades, quando necessário.</li></ul>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[108dd8b5-f81c-4c9e-95e2-66e6b54deb8c]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[108dd8b5-f81c-4c9e-95e2-66e6b54deb8c]]></partnerRequisitionId>
+    <company><![CDATA[Colégio GGE]]></company>
+    <title><![CDATA[AUXILIAR DE COORDENAÇÃO FORMATIVA]]></title>
+    <posterEmail><![CDATA[coordselecaorh@ggeweb.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Promover suporte ao coordenador formativo, prezando sempre pelo correto fluxo disciplinar de acordo com o regimento interno do aluno. Ajudando na orientação de professores e alunos nas questões comportamentais.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Suporte a coordenação formativa, nas orientações aos alunos e profesores;<br />Observar entrada, intervalo e saída dos alunos;<br />Seguir o calendário pedagógico anual com datas de avaliações, provas, eventos e projetos;<br />Alinhar com o coordenador formativo o detalhamento prévio da quantidade de séries, turmas e alunos da sua unidade;<br />Demais atividades da função.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Educação Superior incompleta Experiência com trabalho em equipe; <br />Vivência escolar em funções administrativas ou pedagógicas.<br /><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgge/235/auxiliar-de-coordenacao-formativa?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[84804947]]></companyId>
+    <city><![CDATA[João Pessoa]]></city>
+    <state><![CDATA[Paraíba]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[33e4c30d-bc59-4656-8feb-73128f6cf4ea]]></partnerJobId>
     <partnerRequisitionId><![CDATA[33e4c30d-bc59-4656-8feb-73128f6cf4ea]]></partnerRequisitionId>
     <company><![CDATA[Colégio GGE]]></company>
@@ -93025,26 +92986,6 @@ Boa comunicação, capacidade analítica e facilidade para relacionamento com cl
     <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Liderar o processo de planejamento financeiro anual, revisão de forecast e construção de cenários.<br /><li>Gerenciar o P&amp;L  das unidades de negócio, garantindo acuracidade, controle e visão estratégica.</li><li>Mapear riscos e oportunidades nas linhas de receitas, despesas e investimentos, contribuindo para a melhoria da rentabilidade da empresa.<br /></li><li>Apoiar as diversas áreas da empresa na realização de análises de desempenho(ex.: real x orçado), além de propor indicadores financeiros para acompanhamento.</li><li>Gerenciar a área de precificação da empresa.</li>Elaborar e manutenir o tarifário da empresa: Clientes corporativos (BIDs, Propostas Comerciais) e tabela de preços padrão da companhia.<br /><ul><li>Elaborar apresentações gerenciais para diretoria e conselho.</li><li>Acompanhar indicadores de performance de (KPIs) e propor ações corretivas.</li><li>Avaliar viabilidade financeira de projetos e investimentos (ROI).</li><li>Liderar iniciativas de melhoria contínua, automação de processos e transformação digital.</li><li>Manter relação com investidores, atendendo eventuais demandas e realizando apresentações periódicas de resultado.</li><li>Gestão de time, promovendo desenvolvimento técnico e comportamental.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino  Superior Completo (Administração, Contábeis, Economia e Engenharias).</li><li>Pós-graduação em Finanças e Projetos.</li><li>Conhecimento e aplicação de metodologias e ferramentas de melhoria contínua e qualidade.</li><li>Pacote Office e Power BI avançado.<br />Familiaridade com KPIs logísticos (OTD, nível de serviço, custo por km, utilização de frota).<br /></li><li>Forte domínio em finanças (noções de contabilidade, BP, DRE e Análise de Liquidez).</li><li>Conhecimento e gestão e Processos e Projetos.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale-transporte (opcional)</li><li>Vale Alimentação ou Refeição</li><li>Parceria com o SEST SENAT<br /></li><li>Parceria com farmácias, universidades e restaurantes.<br /></li><li>Possibilidade de Crescimento.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/157/gerente-executivo-de-planejamento-e-pricing?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[11691971]]></companyId>
-    <city><![CDATA[Natal]]></city>
-    <state><![CDATA[Rio Grande do Norte]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[802bcb6e-4c5b-46fa-9199-3e3f0c9aefe3]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[802bcb6e-4c5b-46fa-9199-3e3f0c9aefe3]]></partnerRequisitionId>
-    <company><![CDATA[L'auto Cargo]]></company>
-    <title><![CDATA[Estagiário]]></title>
-    <posterEmail><![CDATA[mateus.almeida@lauto.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar inicio a sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar atividades administrativas, operacionais ou técnicas da área de atuação.</li><li>Auxiliar na organização de documentos, relatórios e planilhas.</li><li>Participar de projetos e tarefas sob supervisão de gestores e analistas.</li><li>Contribuir com ideias e soluções para melhoria de processos.</li><li>Aprender e aplicar conhecimentos adquiridos na formação acadêmica.</li><li>Apoiar no atendimento interno e externo, conforme necessidade.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Estar regularmente matriculado em um curso superior.</li><li>Disponibilidade para cumprir carga horária de estágio (6 horas diárias).</li><li>Conhecimento em informática (Pacote Office, e-mails, internet, Power BI).</li><li>Interesse em aprender e desenvolver competências profissionais.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Bolsa: 1.300,00 reais (Incluso ajuda de custos com o transporte).</li><li>Possibilidade de Crescimento.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/24/estagiario?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[11691971]]></companyId>
     <city><![CDATA[Natal]]></city>
     <state><![CDATA[Rio Grande do Norte]]></state>
@@ -108026,6 +107967,117 @@ equipamentos, com o intuito de minimizar os impactos gerados no caso de uma emer
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[a782ee57-97b6-4851-be58-4a32710f8e79]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[a782ee57-97b6-4851-be58-4a32710f8e79]]></partnerRequisitionId>
+    <company><![CDATA[Thermas de São Pedro]]></company>
+    <title><![CDATA[COZINHEIRO(A)]]></title>
+    <posterEmail><![CDATA[leticia.seehagen@thermas.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><li>Preparar e finalizar alimentos conforme fichas técnicas e padrões de qualidade;</li><li>Organizar e higienizar a cozinha, equipamentos e utensílios;</li><li>Auxiliar no controle de insumos e armazenamento dos alimentos;</li><li>Garantir a qualidade, sabor e apresentação dos pratos;</li><li>Cumprir as normas de higiene e segurança alimentar;</li><li>Apoiar a equipe nas rotinas da cozinha.<br /><br /><b>Disponibilidade para trabalhar aos finais de semana e feriados.<br /></b></li><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>técnicas e padrões de qualidade;</li><li>Organizar e higienizar a cozinha, equipamentos e utensílios;</li><li>Auxiliar no controle de insumos e armazenamento dos alimentos;</li><li>Garantir a qualidade, sabor e apresentação dos pratos;</li><li>Cumprir as normas de higiene e segurança alimentar;</li><li>Apoiar a equipe nas rotinas da cozinha.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência na função;</li><li>Organização, agilidade e trabalho em equipe;</li><li><b>Disponibilidade para trabalhar aos finais de semana e feriados.<br /></b><br /></li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Transporte fretado;</li><li>Refeição no local;</li><li>Vale alimentação;</li><li>Cartão Amigo Saúde;</li><li>Cartão Farmácia;</li><li>Médico no complexo;</li><li>Assistente Social</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/thermasdesaopedro/20/cozinheiro-a?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[6784299]]></companyId>
+    <city><![CDATA[São Pedro]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[180047e9-e6c7-4f23-914b-c455a981b13d]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[180047e9-e6c7-4f23-914b-c455a981b13d]]></partnerRequisitionId>
+    <company><![CDATA[Thermas de São Pedro]]></company>
+    <title><![CDATA[STEWARD]]></title>
+    <posterEmail><![CDATA[leticia.seehagen@thermas.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />- Responsável pela limpeza, higienização e organização da cozinha, utensílios, equipamentos e áreas de apoio, garantindo o cumprimento das normas de higiene e segurança alimentar. <br /><br />- Realiza a lavagem de louças e panelas, organiza materiais, realiza o descarte correto de resíduos e auxilia na manutenção da organização da operação, contribuindo para o bom funcionamento da equipe.<br /><br /> <strong>Local:</strong> São Pedro/SP – presencial<br /> <strong>Horário:</strong> 15hs às 23h20<br /> <strong>Escala:</strong> 6x1, com folga durante a semana e 1 domingo no mês<br /> Disponibilidade para trabalhar aos <strong>finais de semana e feriados</strong>.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar a lavagem e higienização de louças, panelas, utensílios e equipamentos utilizados na cozinha.</li><li>Manter a limpeza e organização das áreas de produção, armazenamento e apoio, conforme os padrões estabelecidos.</li><li>Efetuar a coleta e o descarte adequado de resíduos, respeitando as normas ambientais e de segurança.</li><li>Auxiliar na organização e armazenamento de utensílios e materiais após a higienização.</li><li>Abastecer os setores com materiais de limpeza e itens necessários para a operação.</li><li>Zelar pela conservação dos equipamentos e comunicar eventuais necessidades de manutenção.</li><li>Cumprir rigorosamente as normas de higiene, segurança do trabalho e segurança alimentar.</li><li>Apoiar a equipe de cozinha sempre que necessário, contribuindo para o bom andamento das operações.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Desejável experiência na função de Steward, Auxiliar de Cozinha ou Serviços Gerais.</li><li><b>Disponibilidade para trabalhar em finais de semana e feriados</b>.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Transporte fretado;</li><li>Refeição no local;</li><li>Vale alimentação;</li><li>Cartão Amigo Saúde;</li><li>Cartão Farmácia;</li><li>Médico no complexo;</li><li>Assistente Social;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/thermasdesaopedro/19/steward?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[6784299]]></companyId>
+    <city><![CDATA[São Pedro]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1994.90]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1994.90]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3b26758c-e80b-45d1-a27d-b733e60e8ed6]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[3b26758c-e80b-45d1-a27d-b733e60e8ed6]]></partnerRequisitionId>
+    <company><![CDATA[Thermas de São Pedro]]></company>
+    <title><![CDATA[BARTENDER]]></title>
+    <posterEmail><![CDATA[leticia.seehagen@thermas.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><li>Estamos buscando <strong>Bartender</strong> para fazer parte do nosso time!<br /><br /> <b>Vaga CLT (efetiva ou intermitente)</b></li><li> <strong>Horário:</strong> 15h às 23h20<br /> <strong>Escala:</strong> 6x1, com folga durante a semana e 1 domingo no mês<br /> Necessária disponibilidade para trabalhar aos <strong>finais de semana e feriados</strong>.</li><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Preparar e servir bebidas alcoólicas e não alcoólicas, seguindo receitas e padrões de qualidade.<br /> - Manter a área do bar limpa e organizada, garantindo a higiene e o correto armazenamento dos insumos.<br /> - Atender aos clientes de forma cordial e eficiente, garantindo uma experiência positiva.<br /> - Controlar o estoque de bebidas e insumos, realizando pedidos de reposição quando necessário.<br /> - Cumprir com as normas de saúde e segurança alimentar.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Experiência anterior em atendimento em bar ou restaurante.<br /> - Capacidade de comunicação e atendimento ao cliente.<br /> - Organização e limpeza no ambiente de trabalho.<br /> - <b>Flexibilidade de horário, incluindo finais de semana e feriados</b>.<br /> <br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Transporte fretado;</li><li>Refeição no local;</li><li>Vale alimentação;</li><li>Cartão Amigo Saúde;</li><li>Cartão Farmácia;<br /></li><li>Médico no complexo;</li><li>Assistente Social;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/thermasdesaopedro/18/bartender?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[6784299]]></companyId>
+    <city><![CDATA[São Pedro]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2558.21]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2558.21]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[bf93314a-125e-49f1-832d-ed5cf6a9947e]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[bf93314a-125e-49f1-832d-ed5cf6a9947e]]></partnerRequisitionId>
+    <company><![CDATA[Thermas de São Pedro]]></company>
+    <title><![CDATA[ATENDENTE DE BAR E RESTAURANTE]]></title>
+    <posterEmail><![CDATA[leticia.seehagen@thermas.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><li>Atender clientes com cordialidade e agilidade;</li><li>Anotar e realizar pedidos de alimentos e bebidas;</li><li>Servir pratos, bebidas e demais produtos;</li><li>Organizar e preparar mesas para atendimento;</li><li>Auxiliar na organização e limpeza do salão e área de atendimento;</li><li>Apoiar a equipe nas rotinas do bar e restaurante;</li><li>Zelar pela qualidade do atendimento e pela satisfação dos clientes.<br /><br /> <strong>Local:</strong> São Pedro/SP – presencial<br /> <strong>Horário:</strong> 8hs ás 16h20 ou das 15hs ás 23h20<br /> <strong>Escala:</strong> 6x1, com folga durante a semana<br /> Disponibilidade para trabalhar aos <strong>finais de semana e feriados</strong>.</li><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Atender clientes com cordialidade e agilidade;</li><li>Anotar e realizar pedidos de alimentos e bebidas;</li><li>Servir pratos, bebidas e demais produtos;</li><li>Organizar e preparar mesas para atendimento;</li><li>Auxiliar na organização e limpeza do salão e área de atendimento;</li><li>Apoiar a equipe nas rotinas do bar e restaurante;</li><li>Zelar pela qualidade do atendimento e pela satisfação dos clientes.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com atendimento será um diferencial;</li><li>Boa comunicação, simpatia e cordialidade;</li><li>Agilidade e facilidade para trabalhar em equipe;</li><li><b>Disponibilidade para trabalhar aos finais de semana e feriados.</b></li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul>
+ <li>Transporte
+     fretado;</li>
+ <li>Refeição
+     no local;</li>
+ <li>Vale
+     alimentação;</li>
+ <li>Cartão
+     Amigo Saúde;</li>
+ <li>Cartão
+     Farmácia;</li>
+ <li>Médico
+     no complexo;</li>
+ <li>Assistência
+     Social</li>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/thermasdesaopedro/17/atendente-de-bar-e-restaurante?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[6784299]]></companyId>
+    <city><![CDATA[São Pedro]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4d938f01-8a82-40db-9a54-d80a33d1d238]]></partnerJobId>
     <partnerRequisitionId><![CDATA[4d938f01-8a82-40db-9a54-d80a33d1d238]]></partnerRequisitionId>
     <company><![CDATA[Thermas de São Pedro]]></company>
@@ -108736,10 +108788,10 @@ Desejável experiência em concessionária ou área comercial.</li><br /><br /><
     <partnerJobId><![CDATA[6354f466-9d71-4534-a59c-d9d22d2587d3]]></partnerJobId>
     <partnerRequisitionId><![CDATA[6354f466-9d71-4534-a59c-d9d22d2587d3]]></partnerRequisitionId>
     <company><![CDATA[GRUPO ORLETTI]]></company>
-    <title><![CDATA[Banco de Talentos - Linhares/ES]]></title>
+    <title><![CDATA[04-Banco de Talentos - Linhares/ES]]></title>
     <posterEmail><![CDATA[rithielly.santos@grupoorletti.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Faça parte do nosso Banco de Talentos!Estamos sempre em busca de profissionais talentosos, comprometidos e com vontade de aprender e crescer. Se você deseja fazer parte de uma equipe colaborativa, inovadora e que valoriza a diversidade de ideias e experiências, cadastre seu currículo.Ao integrar nosso Banco de Talentos, seu perfil poderá ser considerado para futuras oportunidades alinhadas às suas qualificações. Venha construir sua carreira conosco e fazer a diferença!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Manter seu cadastro atualizado em nosso Banco de Talentos.</li><li>Demonstrar interesse em aprender, desenvolver novas habilidades e crescer profissionalmente.</li><li>Atuar com comprometimento, ética e responsabilidade.</li><li>Colaborar com a equipe, contribuindo para um ambiente de trabalho respeitoso e produtivo.</li><li>Estar disponível para participar de processos seletivos compatíveis com seu perfil e experiência.</li><li>Desempenhar as atividades da função de acordo com a vaga para a qual for selecionado, seguindo os padrões, normas e procedimentos da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino fundamental, médio, técnico ou superior (completo ou em andamento), de acordo com os requisitos da oportunidade.<br /><br /><b>Benefícios</b><br /><br />Ticket Alimentação ou RefeiçãoPlano de Saúde coparticipativo<br />‍Plano Odontologico<br />⛑️Seguro de Vida<br />️Convênio com o Sesc.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/orletti/19/banco-de-talentos-linhares-es?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/orletti/19/04-banco-de-talentos-linhares-es?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[106603631]]></companyId>
     <city><![CDATA[Linhares]]></city>
     <state><![CDATA[Espírito Santo]]></state>
@@ -108982,6 +109034,26 @@ Proatividade e disposição para aprender.</li><br /><br /><b>Benefícios</b><br
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[3ae0a659-dd4b-4e45-948d-035260ee613f]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[3ae0a659-dd4b-4e45-948d-035260ee613f]]></partnerRequisitionId>
+    <company><![CDATA[GRUPO ORLETTI]]></company>
+    <title><![CDATA[03-Banco de Talentos-Serra]]></title>
+    <posterEmail><![CDATA[lidiane.gomes@grupoorletti.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Faça parte do nosso Banco de Talentos!Estamos sempre em busca de profissionais talentosos, comprometidos e com vontade de aprender e crescer. Se você deseja fazer parte de uma equipe colaborativa, inovadora e que valoriza a diversidade de ideias e experiências, cadastre seu currículo.Ao integrar nosso Banco de Talentos, seu perfil poderá ser considerado para futuras oportunidades alinhadas às suas qualificações. Venha construir sua carreira conosco e fazer a diferença!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Manter seu cadastro atualizado em nosso Banco de Talentos.</li><li>Demonstrar interesse em aprender, desenvolver novas habilidades e crescer profissionalmente.</li><li>Atuar com comprometimento, ética e responsabilidade.</li><li>Colaborar com a equipe, contribuindo para um ambiente de trabalho respeitoso e produtivo.</li><li>Estar disponível para participar de processos seletivos compatíveis com seu perfil e experiência.</li><li>Desempenhar as atividades da função de acordo com a vaga para a qual for selecionado, seguindo os padrões, normas e procedimentos da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino fundamental, médio, técnico ou superior (completo ou em andamento), de acordo com os requisitos da oportunidade.<br /><br /><b>Benefícios</b><br /><br />Ticket Alimentação ou RefeiçãoPlano de Saúde coparticipativo<br />‍Plano Odontologico<br />⛑️Seguro de Vida<br />️Convênio com o Sesc.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/orletti/8/03-banco-de-talentos-serra?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[106603631]]></companyId>
+    <city><![CDATA[Serra]]></city>
+    <state><![CDATA[Espírito Santo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[85631dbd-6dbb-427b-97e5-12ff7b3eb4bc]]></partnerJobId>
     <partnerRequisitionId><![CDATA[85631dbd-6dbb-427b-97e5-12ff7b3eb4bc]]></partnerRequisitionId>
     <company><![CDATA[GRUPO ORLETTI]]></company>
@@ -109128,30 +109200,10 @@ Desejável CNH categoria B.</li></ul><br /><br /><b>Benefícios</b><br /><br /> 
     <partnerJobId><![CDATA[63dbdb99-8c49-4ba7-b1d8-3de91b1d2a70]]></partnerJobId>
     <partnerRequisitionId><![CDATA[63dbdb99-8c49-4ba7-b1d8-3de91b1d2a70]]></partnerRequisitionId>
     <company><![CDATA[GRUPO ORLETTI]]></company>
-    <title><![CDATA[Banco de Talentos - Grande Vitória/ES]]></title>
+    <title><![CDATA[01-Banco de Talentos - Vitória/ES]]></title>
     <posterEmail><![CDATA[rithielly.santos@grupoorletti.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Faça parte do nosso Banco de Talentos!Estamos sempre em busca de profissionais talentosos, comprometidos e com vontade de aprender e crescer. Se você deseja fazer parte de uma equipe colaborativa, inovadora e que valoriza a diversidade de ideias e experiências, cadastre seu currículo.Ao integrar nosso Banco de Talentos, seu perfil poderá ser considerado para futuras oportunidades alinhadas às suas qualificações. Venha construir sua carreira conosco e fazer a diferença!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Manter seu cadastro atualizado em nosso Banco de Talentos.</li><li>Demonstrar interesse em aprender, desenvolver novas habilidades e crescer profissionalmente.</li><li>Atuar com comprometimento, ética e responsabilidade.</li><li>Colaborar com a equipe, contribuindo para um ambiente de trabalho respeitoso e produtivo.</li><li>Estar disponível para participar de processos seletivos compatíveis com seu perfil e experiência.</li><li>Desempenhar as atividades da função de acordo com a vaga para a qual for selecionado, seguindo os padrões, normas e procedimentos da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino fundamental, médio, técnico ou superior (completo ou em andamento), de acordo com os requisitos da oportunidade.<br /><br /><b>Benefícios</b><br /><br />Ticket Alimentação ou RefeiçãoPlano de Saúde coparticipativo<br />‍Plano Odontologico<br />⛑️Seguro de Vida<br />️Convênio com o Sesc.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/orletti/18/banco-de-talentos-grande-vitoria-es?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[106603631]]></companyId>
-    <city><![CDATA[Vitória]]></city>
-    <state><![CDATA[Espírito Santo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3ae0a659-dd4b-4e45-948d-035260ee613f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[3ae0a659-dd4b-4e45-948d-035260ee613f]]></partnerRequisitionId>
-    <company><![CDATA[GRUPO ORLETTI]]></company>
-    <title><![CDATA[Banco de Talentos]]></title>
-    <posterEmail><![CDATA[lidiane.gomes@grupoorletti.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Faça parte do nosso Banco de Talentos!Estamos sempre em busca de profissionais talentosos, comprometidos e com vontade de aprender e crescer. Se você deseja fazer parte de uma equipe colaborativa, inovadora e que valoriza a diversidade de ideias e experiências, cadastre seu currículo.Ao integrar nosso Banco de Talentos, seu perfil poderá ser considerado para futuras oportunidades alinhadas às suas qualificações. Venha construir sua carreira conosco e fazer a diferença!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Manter seu cadastro atualizado em nosso Banco de Talentos.</li><li>Demonstrar interesse em aprender, desenvolver novas habilidades e crescer profissionalmente.</li><li>Atuar com comprometimento, ética e responsabilidade.</li><li>Colaborar com a equipe, contribuindo para um ambiente de trabalho respeitoso e produtivo.</li><li>Estar disponível para participar de processos seletivos compatíveis com seu perfil e experiência.</li><li>Desempenhar as atividades da função de acordo com a vaga para a qual for selecionado, seguindo os padrões, normas e procedimentos da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino fundamental, médio, técnico ou superior (completo ou em andamento), de acordo com os requisitos da oportunidade.<br /><br /><b>Benefícios</b><br /><br />Ticket Alimentação ou RefeiçãoPlano de Saúde coparticipativo<br />‍Plano Odontologico<br />⛑️Seguro de Vida<br />️Convênio com o Sesc.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/orletti/8/banco-de-talentos?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/orletti/18/01-banco-de-talentos-vitoria-es?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[106603631]]></companyId>
     <city><![CDATA[Vitória]]></city>
     <state><![CDATA[Espírito Santo]]></state>
@@ -109208,10 +109260,10 @@ Desejável CNH categoria B.</li></ul><br /><br /><b>Benefícios</b><br /><br /> 
     <partnerJobId><![CDATA[a6b62024-5b0b-4673-b14c-bdc5bc0f41eb]]></partnerJobId>
     <partnerRequisitionId><![CDATA[a6b62024-5b0b-4673-b14c-bdc5bc0f41eb]]></partnerRequisitionId>
     <company><![CDATA[GRUPO ORLETTI]]></company>
-    <title><![CDATA[Banco de Talentos]]></title>
+    <title><![CDATA[02-Banco de Talentos-MG]]></title>
     <posterEmail><![CDATA[lidiane.gomes@grupoorletti.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Faça parte do nosso Banco de Talentos!Estamos sempre em busca de profissionais talentosos, comprometidos e com vontade de aprender e crescer. Se você deseja fazer parte de uma equipe colaborativa, inovadora e que valoriza a diversidade de ideias e experiências, cadastre seu currículo.Ao integrar nosso Banco de Talentos, seu perfil poderá ser considerado para futuras oportunidades alinhadas às suas qualificações. Venha construir sua carreira conosco e fazer a diferença!<br /><br /><b>Regiões: Ipatinga, Governador Valadares e Teófilo Otoni</b><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Manter seu cadastro atualizado em nosso Banco de Talentos.</li><li>Demonstrar interesse em aprender, desenvolver novas habilidades e crescer profissionalmente.</li><li>Atuar com comprometimento, ética e responsabilidade.</li><li>Colaborar com a equipe, contribuindo para um ambiente de trabalho respeitoso e produtivo.</li><li>Estar disponível para participar de processos seletivos compatíveis com seu perfil e experiência.</li><li>Desempenhar as atividades da função de acordo com a vaga para a qual for selecionado, seguindo os padrões, normas e procedimentos da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino fundamental, médio, técnico ou superior (completo ou em andamento), de acordo com os requisitos da oportunidade.<br /><br /><b>Benefícios</b><br /><br />Ticket Alimentação ou RefeiçãoPlano de Saúde coparticipativo<br />‍Plano Odontologico<br />⛑️Seguro de Vida<br />️Convênio com o Sesc.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/orletti/15/banco-de-talentos?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/orletti/15/02-banco-de-talentos-mg?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[106603631]]></companyId>
     <city><![CDATA[Governador Valadares]]></city>
     <state><![CDATA[Minas Gerais]]></state>
@@ -111863,47 +111915,6 @@ cuidados aos pacientes.
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[a44c17ca-9e3c-43c2-b677-a27167bf689e]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[a44c17ca-9e3c-43c2-b677-a27167bf689e]]></partnerRequisitionId>
-    <company><![CDATA[Hospital HELP]]></company>
-    <title><![CDATA[Técnico de Imobilização]]></title>
-    <posterEmail><![CDATA[alana.souza@fundacaopedroamerico.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Técnico(a) de Imobilização</strong> para atuar no Hospital HELP, prestando assistência à equipe multiprofissional na execução de procedimentos de imobilização e contribuindo para a movimentação e locomoção segura dos pacientes, garantindo qualidade e segurança no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar procedimentos de imobilização conforme protocolos institucionais e normas técnicas;
-</li>
-<li>
-Auxiliar a equipe assistencial durante procedimentos que exijam imobilização de pacientes;
-</li>
-<li>
-Apoiar na locomoção, transferência e movimentação segura dos pacientes;
-</li>
-<li>
-Zelar pela correta utilização, conservação e organização dos materiais e equipamentos de imobilização;
-</li>
-<li>
-Cumprir os protocolos de segurança do paciente, biossegurança e qualidade assistencial;
-</li>
-<li>
-Atuar em colaboração com a equipe multiprofissional para garantir um atendimento humanizado e seguro.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Curso Técnico de Imobilização concluído;
-</li>
-<li>
-Registro ou certidão de regularidade profissional na Associação Brasileira dos Técnicos em Imobilizações;
-</li>
-<li>
-Disponibilidade para atuar em escala <strong>12x36</strong>;</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hospitalhelp/37/tecnico-de-imobilizacao?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[88303066]]></companyId>
-    <city><![CDATA[Campina Grande]]></city>
-    <state><![CDATA[Paraíba]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[9e750589-7dd1-41e3-a8b8-7ffa3a420431]]></partnerJobId>
     <partnerRequisitionId><![CDATA[9e750589-7dd1-41e3-a8b8-7ffa3a420431]]></partnerRequisitionId>
     <company><![CDATA[Hospital HELP]]></company>
@@ -114386,6 +114397,50 @@ de tempo de projetos definidas no Anexo VII – Planejamento e Controle. </li></
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ce2f4ede-c61f-4732-a932-06b443275575]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[ce2f4ede-c61f-4732-a932-06b443275575]]></partnerRequisitionId>
+    <company><![CDATA[De Vivo, Castro, Cunha e Whitaker Advogados]]></company>
+    <title><![CDATA[Advogado(a) Pleno - Propriedade Intelectual]]></title>
+    <posterEmail><![CDATA[jsantana@devivocastro.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos
+com uma oportunidade para Advogado(a) Júnior, com atuação em Propriedade
+Intelectual e Antipirataria. Buscamos
+um profissional com vivência prática na área, repertório técnico e interesse em
+aprofundar sua atuação em temas relacionados à proteção de marcas, ativos
+intelectuais e combate à pirataria. <br /><br />A
+posição envolve atuação em demandas consultivas e contenciosas, elaboração de
+notificações e peças jurídicas, acompanhamento de medidas de proteção de
+direitos de propriedade intelectual, pesquisas, análise de casos e suporte na
+definição de estratégias junto aos clientes.<br /><br />Procuramos alguém que queira seguir construindo sua
+carreira em uma área especializada, dinâmica e estratégica para os negócios.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gestão de carteira de processos judiciais, com atuação em demandas envolvendo
+infração de marcas, trade dress e outros direitos de propriedade intelectual,
+incluindo elaboração de peças, acompanhamento processual, realização e
+acompanhamento de diligências e medidas de busca e apreensão, bem como
+interface com fóruns e demais órgãos competentes.</li><li>Gestão de carteira de processos administrativos perante o INPI, abrangendo
+elaboração e protocolo de oposições, pedidos e manifestações, acompanhamento de
+processos, análise de publicações, comunicações com clientes e elaboração de
+relatórios relacionados às marcas.</li><li> Atuação consultiva em Propriedade Intelectual, incluindo elaboração de
+pareceres e análises jurídicas envolvendo direitos autorais e questões
+marcárias, bem como pesquisas de anterioridade, análise de viabilidade de
+registros e avaliação de colidências entre marcas.</li><li> Apoio à expansão e desenvolvimento da área de Propriedade Intelectual do
+escritório, incluindo elaboração de materiais e relatórios para potenciais e
+novos clientes, identificação de oportunidades de atuação, mapeamento de
+potenciais demandas e desenvolvimento de estratégias de integração com outras
+áreas do escritório (cross-selling).</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação completa em Direito e OAB ativa;</li><li>Experiência prática em Propriedade Intelectual e Antipirataria;</li><li>Familiaridade com marcas e patentes;</li><li>Excelente capacidade de redação e análise;</li><li>Organização, autonomia e atenção aos detalhes.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de saúde;</li><li>Plano odontológico;</li><li>Seguro de vida;</li><li>Vale transporte ou estacionamento;</li><li>Bônus;</li><li>Wellhub.</li></ul><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/devivocastrocarreiras/5/advogado-a-pleno-propriedade-intelectual?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[552696]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[1d591f45-7776-42d2-ba9c-ddf26e26e329]]></partnerJobId>
