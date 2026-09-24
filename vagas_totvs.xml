@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 24 Sep 2026 19:16:07 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 20:21:12 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[3992]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4002]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerRequisitionId>
@@ -1315,6 +1315,26 @@ Você será responsável por liderar a ideação e prototipação de soluções 
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[20a918b9-dda4-4386-9f37-e80c472aaca1]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[20a918b9-dda4-4386-9f37-e80c472aaca1]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de Software QA - Sênior]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Ser o guardião da confiança no dinheiro: garantir que cada transação, cobrança e comunicação financeira funcione como esperado, inclusive quando tudo dá errado.Esta não é uma vaga de execução de caso de teste. É uma vaga de estratégia de qualidade e de construção de automação em um sistema onde o defeito custa dinheiro. A pessoa vai elevar a qualidade da Aliança de Payments construindo estratégia de teste, código de automação e prevenção de defeito, e não apenas detecção.Fará parte da Aliança de Payments da RD Station, responsável por toda a experiência de dinheiro dentro da plataforma: a infraestrutura financeira da qual os demais produtos dependem para funcionar. O time atua em três frentes conectadas: checkout e cobrança recorrente (contratação, assinaturas, planos, faturas, régua de cobrança e meios de pagamento); infraestrutura de pagamentos (integrações com adquirentes e PSPs, antifraude, conciliação, split e chargebacks); e Payments como produto (soluções como links de pagamento e checkout, que permitem ao nosso cliente receber dos clientes dele).Estamos em um momento de expansão, com novos modelos de cobrança, novos fluxos de pagamento e evolução da base transacional. Quem entrar agora vai atuar desde o refinamento, influenciando a definição do produto; vai desenhar e escrever a base de automação da Aliança; e vai ver o impacto do trabalho com número e prazo, porque defeito evitado é receita preservada e chamado que não existiu.É a chance de construir uma especialização escassa no mercado: QA que programa e entende a engrenagem de pagamentos de um SaaS de ponta a ponta.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Qualidade desde o refinamento (shift-left): Atuar junto com Produto, Design e Engenharia desde o refinamento, questionando regra de negócio, critério de aceite e cenário de exceção antes de existir linha de código.</li><li>Estratégia de teste por frente: Definir o que vale automatizar, o que exige teste exploratório, o que precisa de validação manual em fluxo com dinheiro real e o que não compensa testar.</li><li>Automação das jornadas críticas: Projetar, escrever e manter a automação de API, integração e E2E de checkout, contratação, cobrança recorrente, troca de meio de pagamento, recebimento e estorno.</li><li>Framework de automação como software de produção: Construir e evoluir estrutura de projeto, camada de abstração sobre APIs e sandboxes, helpers, factories e fixtures, com código revisado em pull request como qualquer outro do time.</li><li>Teste além do caminho feliz: Cobrir recusa, timeout de adquirente, retentativa, cobrança duplicada, quebra de idempotência, webhook fora de ordem ou repetido, estorno parcial, chargeback e divergência de conciliação.</li><li>Massa de teste e sandboxes: Construir e manter massa de dados e ambientes de sandbox com PSPs e adquirentes, automatizando o provisionamento para que qualquer pessoa do time reproduza um cenário sem depender de ajuda.</li><li>Qualidade no pipeline de CI/CD: Integrar a suíte ao pipeline com resultado confiável, tempo de execução saudável, baixo índice de testes instáveis (flaky) e gates explícitos do que bloqueia o merge e o deploy.</li><li>Investigação de causa raiz: Investigar defeitos e incidentes de produção navegando por log, fila, banco e trace, e transformar cada um em teste de regressão automatizado e em aprendizado documentado.</li><li>Monitoramento da qualidade em produção: Acompanhar dados como taxa de erro por meio de pagamento, falha de webhook e divergência de conciliação, reportando risco antes de virar chamado ou perda de receita.</li><li>Multiplicação da cultura de qualidade: Revisar testes escritos por pessoas desenvolvedoras e sustentar os critérios de release, porque qualidade é responsabilidade do time, e não de uma pessoa.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Segmento: Experiência prévia em Payments, Fintech ou Billing, envolvendo checkout, cobrança recorrente, meios de pagamento (cartão, PIX, boleto), gateways, adquirentes ou plataformas de recebimento.</li><li>Experiência: Mínimo de 3 anos em QA de produto em contexto B2B com sistemas transacionais ou financeiros.</li><li>Automação autoral: Experiência prática escrevendo e mantendo código de automação de testes (API e E2E) integrado a CI/CD, com autoria comprovável, e não apenas execução de scripts feitos por outros.</li><li>Arquitetura de suíte: Vivência em projetar um projeto de automação do zero ou em refatorar uma suíte existente para torná-la confiável e sustentável.</li><li>Teste exploratório e baseado em risco: Saber decidir onde vale investir esforço quando não dá para testar tudo.</li><li>Análise de causa raiz: Experiência investigando defeitos e incidentes em logs e dados.</li><li>Múltiplas frentes: Capacidade de trabalhar com dependências cruzadas entre times, e não apenas em entregas isoladas por sprint.</li><li>Programação: Proficiência real em pelo menos uma linguagem usada em automação (Ruby, JavaScript/TypeScript, Python, Java, C# ou equivalente), com código limpo, modular e sustentável, e não apenas roteiros lineares de teste.</li><li>Frameworks de automação: Fluência em pelo menos um framework maduro de API e E2E, como RSpec e Capybara, Cypress, Playwright, pytest ou similar. A ferramenta é negociável; o fundamento, não.</li><li>API e contrato: Teste de API e de contrato (Postman, Insomnia ou equivalente), com leitura de contratos REST, webhooks, idempotência, retry, paginação e máquina de estados de transação.</li><li>SQL: Para validar dados, conciliar registros e montar massa de teste.</li><li>Git e CI/CD: Bom uso de branch, pull request e code review, além de configuração e manutenção de jobs de teste em pipelines (GitHub Actions, Jenkins ou equivalente).</li><li>Design de teste: Partição de equivalência, valor limite, tabela de decisão e teste baseado em risco, aplicados a regras de negócio complexas.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12499/tech-engenharia-de-software-qa-senior?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[544465e7-4b90-4a7d-89f1-1acda8bd1518]]></partnerJobId>
     <partnerRequisitionId><![CDATA[544465e7-4b90-4a7d-89f1-1acda8bd1518]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -2587,26 +2607,6 @@ Idioma: Inglês ou Espanhol – avançado<br /><br /><br /><b>Benefícios</b><br
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[486806c7-6dca-478a-b84f-688a403ac659]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[486806c7-6dca-478a-b84f-688a403ac659]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Gerente de Contas Júnior - Segmento de RH]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional para garantir o cumprimento das metas através da comercialização de produtos e serviços TOTVS com um processo que permita buscar um suspect, compreender suas necessidades, apresentar produtos e serviços, gerar oportunidades, propor, adequar, vender e entregar soluções, sempre mantendo um contínuo relacionamento técnico e empresarial.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b><br /><ul><li>Gerir sua carteira de clientes e construir um relacionamento visando rentabilizar, blindar e elevar o nível de satisfação da base TOTVS em relação às responsabilidades do AR nos indicadores de NPS (Farmer); </li><li>Prospectar novos negócios na base instalada e/ou em novos clientes, visando ampliar Market Share TOTVS (Hunter); </li><li>Planejar e executar o plano tático alinhado ao planejamento estratégico da DRG e resultados de vendas no segmento/região de atuação;</li><li>Ser especialista e liderar o assunto no seu negócio, sendo capaz de estabelecer discursos e formas de atuação altamente adequadas ao perfil de cada cliente/prospect/segmento; </li><li>Assegurar o cumprimento das metas individuais e metas de venda do time do Comercial em que estiver atuando, de acordo com a estratégia da TOTVS; </li><li>Visitar e assistir a base instalada e os novos clientes, garantindo sempre a excelência do atendimento TOTVS e buscando recorrentemente novos negócios; </li><li>Atender e se relacionar com o mercado e com a base instalada, através de visitas, reuniões, contatos telefônicos e e-mails; </li><li>Planejar, executar e liderar o processo de vendas de um produto ou serviço TOTVS ao mercado; </li><li>Levantar e analisar as informações do negócio, compilar e montar um plano de trabalho apoiado pela metodologia de vendas TOTVS;</li><li>Registrar no CRM e comunicar a área de Estratégia Comercial/Operações e Segmentos, informações relevantes sobre mercado/carteira;</li><li>Atuar como facilitador para a solução das demandas dos clientes e prospects; </li><li>Realizar a interface com as áreas internas da TOTVS; </li><li>Entregar e acompanhar a entrega dos produtos e/ou serviços TOTVS, garantindo que os acordos sejam cumpridos e os objetivos atendidos; </li><li>Realizar pós-venda com o objetivo de garantir o atendimento e gerar novas oportunidades (Cross Sell e Up Sell); </li><li>Ser referência técnica e comercial no seu segmento de atuação; </li><li>Atuar de forma consultiva em abordagens comerciais por meio de soluções segmentadas conforme área de atuação, potencializando a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><br /><ul><li>Ensino Superior Completo, preferencialmente no segmento de atuação</li><li>Vivência com vendas B2B de software de tecnologia e ERP; </li><li>Perfil Cross (Híbrido), de prospecção de novos negócios e gestão de carteira;</li><li>Familiaridade com segmento de Varejo &amp; Distribuição e Manufatura;</li><li>Vivência com vendas consultivas de soluções voltadas para RH. </li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada TOTVER;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para TOTVERS;</li><li>Programa + Cuidado, programa de apoio pessoal para TOTVERS e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9129/vendas-gerente-de-contas-junior-segmento-de-rh?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[2d180f24-2f27-471e-bd1e-94de44ef05b9]]></partnerJobId>
     <partnerRequisitionId><![CDATA[2d180f24-2f27-471e-bd1e-94de44ef05b9]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -3449,24 +3449,24 @@ Conhecimentos específicos: <br /><br /><br />● Sistemas operacionais (Windows
     <partnerJobId><![CDATA[9db50e09-3369-4165-86ce-5d74410f6531]]></partnerJobId>
     <partnerRequisitionId><![CDATA[9db50e09-3369-4165-86ce-5d74410f6531]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Serviços]Analista de Serviços Pleno (afirmativa para pessoas com deficiência)]]></title>
+    <title><![CDATA[[Serviços] Analista de Serviços Pleno (afirmativa para pessoas com deficiência)]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Contribuir diretamente na implantação e sustentação de software em clientes e projetos internos da TOTVS, visando garantir a satisfação do cliente e o sucesso do projeto
 em que está alocado.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />● Realizar atividade de média complexidade em Serviços, com nível moderado de
-supervisão e orientação, presencial ou remotamente; ● Implantar e sustentar softwares em clientes, com nível moderado de orientação e
+supervisão e orientação, presencial ou remotamente; ● Implantar e sustentar softwares em clientes, com nível moderado de orientação e
 supervisão, atuando conforme a Metodologia de Implantação TOTVS e os processos
-estabelecidos pela área; <br />● Cumprir as metas e alcançar os resultados estabelecidas pela área, realizando as
-atividades designadas, os processos e os procedimentos da área; <br />● Realizar as atividades essenciais, como parametrização, simulação, testes funcionais e
+estabelecidos pela área; <br />● Cumprir as metas e alcançar os resultados estabelecidas pela área, realizando as
+atividades designadas, os processos e os procedimentos da área; <br />● Realizar as atividades essenciais, como parametrização, simulação, testes funcionais e
 sustentação, com nível moderado de complexidade, a fim de garantir a correta
-implantação do software; <br />● Orientar assistentes e analistas I na execução das atividades do dia a dia,
-disseminando conhecimento e compartilhando documentos de apoio; <br />● Identificar e sugerir melhoria e/ou inovação de processo da área, com base em seu
-conhecimento técnico e de negócio, comunicando formalmente às áreas responsáveis;<br /> ● Analisar e solucionar a "causa raiz" de eventuais problemas, acionando e direcionando
-ações à liderança do projeto/área; <br />● Dominar aproximadamente 70% dos módulos relacionados à sua área de atuação x
+implantação do software; <br />● Orientar assistentes e analistas I na execução das atividades do dia a dia,
+disseminando conhecimento e compartilhando documentos de apoio; <br />● Identificar e sugerir melhoria e/ou inovação de processo da área, com base em seu
+conhecimento técnico e de negócio, comunicando formalmente às áreas responsáveis;<br /> ● Analisar e solucionar a "causa raiz" de eventuais problemas, acionando e direcionando
+ações à liderança do projeto/área; <br />● Dominar aproximadamente 70% dos módulos relacionados à sua área de atuação x
 produtos e os pontos de integração com as demais áreas, para a implantação de
 soluções através das ferramentas. Identificar e sugerir soluções inovadoras, além de
 analisar a causa raiz (quando relacionada à sua área de atuação).
 ● Atuar excepcionalmente nas pré-vendas dos módulos ou rotinas em que domina, para
-geração de novas demandas.  <br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino Superior Completo (áreas correlacionadas: tecnologia, engenharia ou administração/processos.</li><li><b><i>Conhecimento e vivência com o Totvs Protheus.</i></b></li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Planejamento e controle de produção, Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li><b>Obrigatório ter veículo próprio.</b></li><li>Disponibilidade para viagens e atuação em modelo híbrido/alocação em clientes.<br /><b>Ribeirão Preto e Região.</b></li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada TOTVER;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para TOTVERS;</li><li>Programa + Cuidado, programa de apoio pessoal para TOTVERS e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+geração de novas demandas.  <br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo (áreas correlacionadas: tecnologia, engenharia ou administração/processos.</li><li><b><i>Conhecimento e vivência com o Totvs Protheus.</i></b></li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Planejamento e controle de produção, Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li><b>Obrigatório ter veículo próprio.</b></li><li>Disponibilidade para viagens e atuação em modelo híbrido/alocação em clientes.<br /><b>Ribeirão Preto e Região.</b></li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada TOTVER;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para TOTVERS;</li><li>Programa + Cuidado, programa de apoio pessoal para TOTVERS e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10572/servicos-analista-de-servicos-pleno-afirmativa-para-pessoas-com-deficiencia?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
@@ -3592,6 +3592,26 @@ que agreguem valor ao produto, garantindo a satisfação do cliente dentro da
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11189/vendas-gerente-de-contas-junior-hunter?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[df8df172-8ccf-48a2-9460-c353a76f772d]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[df8df172-8ccf-48a2-9460-c353a76f772d]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Tech Lead]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Líder Técnico com sólida experiência em projetos de Inteligência Artificial e Inteligência de Dados para atuar na liderança técnica de squads multidisciplinares. Essa pessoa será responsável por garantir a qualidade das entregas técnicas, desenvolver soluções e contribuir com a governança dos projetos e clientes.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Implementar  e dar suporte a soluções baseadas em inteligência artificial e automação de processos;</li><li>Garantir a qualidade do desenho e entrega de soluções com IA;</li><li>Atuar na identificação de oportunidades de uso de IA para otimização de serviços e rotinas operacionais nos clientes;</li><li>Colaborar com equipes multidisciplinares (negócio, tecnologia e operação) na definição de requisitos e entrega de projetos;</li><li>Garantir a integração de ferramenta de IA com sistemas corporativos e outras ferramentas;</li><li>Monitorar o desempenho das soluções implantadas, realizando ajustes e melhorias contínuas;</li><li>Elaborar documentação técnica e relatórios de acompanhamento das entregas;</li><li>Apoiar na disseminação de conhecimento sobre o uso de IA dentro da organização. </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino superior completo em Engenharia da Computação, Ciência da Computação, Sistemas de Informação ou áreas correlatas;</li><li>Cursos profissionais (IA);</li><li>Cursos profissionais (Protheus);</li><li>Conhecimento e experiência com o ERP TOTVS Protheus (Framework e ADVPL);</li><li>Experiência comprovada em desenvolvimento de software/sistemas corporativos;</li><li>Conhecimento sólido em ferramentas/plataformas (Machine Learning, IA Generativa, LLM, GPT ou Gemini);</li><li>Conhecimento sólido em banco de dados;</li><li>Conhecimento em linguagens Python, JavaScript e ADVPL;</li><li>Conhecimento em conceitos de NLP (Processamento de Linguagem Natural) e Computer Vision, quando aplicável;</li><li>Conhecimento em extração, transformação e carga de dados (ETL) aplicados a pipelines de IA - desejável;</li><li>Conhecimento em ferramentas e serviços de nuvem (AWS, Azure ou GCP);</li><li>Experiência com arquitetura de APIs, microsserviços e integração com sistemas diversos.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12264/tech-tech-lead?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -22974,6 +22994,26 @@ Comprometimento com prazos e qualidade.</li></ul><br /><br /><b>Benefícios</b><
     <companyId><![CDATA[47033991]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[5ed3a41a-baf6-4299-be5e-da81a6c6a650]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[5ed3a41a-baf6-4299-be5e-da81a6c6a650]]></partnerRequisitionId>
+    <company><![CDATA[EasyChef Foods]]></company>
+    <title><![CDATA[Vendedor Externo (RS)]]></title>
+    <posterEmail><![CDATA[lucas.santos@easychef.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos à procura de um Vendedor Externo entusiasmado para contribuir na geração de vendas da nossa empresa. O profissional será responsável por fechar acordos de vendas e manter boas relações com os clientes. Deve ser um excelente comunicador e ter habilidades interpessoais excelentes, para além de ter iniciativa e saber como buscar oportunidades no mercado. Para além disso, deve ter desenvoltura para apresentar produtos ou serviços presencialmente, além de lidar com reclamações e dúvidas. O objetivo é contribuir para o crescimento da empresa desenvolvendo negócios na região de Curitiba prospectando novos clientes nos canais Cash &amp; Carry, Distribuição e Varejo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Planejamento de rotina através de Agenda diária de visitas a clientes e tarefas relacionadas a função;<br /><br /><br />Atuando presencialmente, por e-mail ou telefone mantendo contato com os clientes;<br /><br /><br />Responder a perguntas sobre produtos ou a empresa;<br /><br /><br />Identificar as reais necessidades do cliente, avaliar o perfil do cliente e fechar vendas;<br /><br /><br />Inserir e atualizar as informações do cliente no banco de dados;<br /><br /><br />Receber e processar pedidos de maneira precisa;<br /><br /><br />Lidar com queixas para preservar a reputação da empresa;<br /><br /><br />Analisar os dados do público-alvo, para elaborar assim uma estratégia de venda, organizar uma agenda de principais clientes ativos e inativos;<br /><br /><br />Manter registros de ligações, vendas e inserir informações úteis (Sales Force);<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência comprovada na área de vendas externas com foco no B2B. Desejável vivência na venda de alimentos congelados;<br /><br /><br />Histórico comprovado de cumprimento bem-sucedido de metas de vendas;<br /><br /><br />Conhecimento no Pacote Office (por exemplo: software de CRM - Salesforce).<br /><br /><br />Realização de treinamento para equipe de vendas e participação em workshops de/para clientes;<br /><br /><br />Disponibilidades para viagens;<br /><br /><br />Ter CNH<br /><br /><br />Profissional bastante organizado;<br /><br /><br />Habilidade em negociação;<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsereasy/26/vendedor-externo-rs?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[47033991]]></companyId>
+    <city><![CDATA[Porto Alegre]]></city>
+    <state><![CDATA[Rio Grande do Sul]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -51980,26 +52020,6 @@ negócio e capacidade de relacionamento com áreas internas.<br /><br /><b>Requi
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[79d62334-9406-4520-b0d6-492cc3f15aca]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[79d62334-9406-4520-b0d6-492cc3f15aca]]></partnerRequisitionId>
-    <company><![CDATA[SW - Tech for food service]]></company>
-    <title><![CDATA[Analista de Suporte (implantação/Onboarding)]]></title>
-    <posterEmail><![CDATA[maria.lopes@swfast.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado(a) por tecnologia e atendimento ao cliente, temos uma oportunidade empolgante esperando por você! Nossa equipe está em busca de profissionais proativos. Ao se juntar ao nosso time, você terá a chance de trabalhar em um ambiente dinâmico e colaborativo, onde suas ideias serão valorizadas e você poderá influenciar diretamente os processos. Oferecemos um espaço repleto de desafios e aprendizados, onde a evolução profissional é incentivada e reconhecida. Se você está pronto(a) para fazer a diferença e acredita que o atendimento é a chave do sucesso, não deixe essa chance passar! Venha fazer parte da nossa história e ajude-nos a construir um futuro ainda mais promissor!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Você fará parte da área de Implantação e Consultoria, atuando de forma integrada com equipes de suporte e atendimento. Nosso objetivo é garantir que cada cliente tenha uma experiência de implantação ágil, organizada e que traga valor desde o primeiro uso do sistema. Atuamos no segmento Food Service (restaurantes, bares, franquias e operações de alimentação), oferecendo soluções que otimizam processos e aumentam a eficiência do negócio.<br /><br /><br />Conduzir todo o processo de implantação do software, desde o levantamento de requisitos até o go-live.<br />Realizar treinamentos remotos e presenciais com clientes, garantindo a correta utilização do sistema.<br />Configurar, parametrizar e validar o funcionamento da solução conforme necessidades do cliente.<br />Acompanhar e monitorar o andamento da implantação, garantindo prazos e qualidade.<br />Documentar processos e etapas do projeto, mantendo histórico atualizado.<br />Trabalhar de forma colaborativa com as equipes de suporte, desenvolvimento e comercial para assegurar uma transição suave.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino superior completo ou cursando em Administração, Sistemas de Informação ou áreas correlatas.<br />Experiência obrigatória em implantação de Software.<br /><br />Vivência no segmento de Food Service será considerada um diferencial.<br /><br /><br />Conhecimento em configuração de sistemas, parametrização e treinamento de usuários.<br /><br /><br />Familiaridade com ferramentas de gestão de projetos e atendimento (CRM, ERP, Help Desk).<br /><br /><br />Capacidade de análise de processos e identificação de melhorias.<br /><br /><br />Comunicação clara e empática.<br /><br /><br />Organização e gestão de prioridades.<br /><br /><br />Proatividade e foco em solução de problemas.<br /><br /><br />Didática para conduzir treinamentos e apresentações.<br /><br /><br />Resiliência para lidar com diferentes perfis de clientes.<br /><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br />Bradesco Nacional - sem descontos (incluindo dependentes - cônjuge e filhos)Bradesco Odonto - sem descontos (incluindo dependentes - cônjuge e filhos)<br />Vale refeição <br />Wellhub (Gympass)<br />Vale transporte com desconto de 6%<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/swcarreiras/5/analista-de-suporte-implantacao-onboarding?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[70963173]]></companyId>
-    <city><![CDATA[Campinas]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[27a38a23-530a-4c02-8547-63b5f1d09b30]]></partnerJobId>
     <partnerRequisitionId><![CDATA[27a38a23-530a-4c02-8547-63b5f1d09b30]]></partnerRequisitionId>
     <company><![CDATA[PROS Agência de Comunicação]]></company>
@@ -57262,26 +57282,6 @@ Médio Completo;</li><li>Experiência mínima comprovada de 6 (seis) meses em de
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[b7557784-725b-4015-b1da-c5743754047b]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[b7557784-725b-4015-b1da-c5743754047b]]></partnerRequisitionId>
-    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
-    <title><![CDATA[FONOAUDIÓLOGO - HOSPITAL BRITES DE ALBUQUERQUE - OLINDA]]></title>
-    <posterEmail><![CDATA[wilmarosa@live.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><b>Período de inscrição: 17 a 24/09/2026 até às 17h</b><br /><b>01 vaga + cadastro de reserva (validade de 6 meses)</b><br /><b><br /></b><br /><ul><li><b>Tipo de Contrato: </b>Por prazo indeterminado</li><li><b>Jornada:</b> 30h semanais</li><li><b>Regime de Trabalho:</b> Diarista</li><li><b>Salário: </b>Compatível praticado na instituição; </li></ul><b><br /></b><br /><b>Vaga Extensiva a Pessoas com Deficiência (PCD)</b><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar avaliação fonoaudiológica de pacientes internados, avaliando deglutição, fala, linguagem e voz para identificar alterações e planejar intervenções seguras ao admitir o paciente ou sempre que houver mudança no quadro clínico;</li><li>Realizar terapias e condutas de reabilitação da fala, voz e deglutição, aplicando exercícios, adaptações de dieta e estratégias comunicativas para prevenir complicações;</li><li>Dar orientações à equipe, pacientes e familiares por meio de treinamentos, reuniões e materiais educativos para garantir continuidade do cuidado e prevenir complicações, sempre quando houver alta, mudança de conduta ou solicitação da equipe;</li><li>Atuar junto à equipe multidisciplinar no planejamento terapêutico, participando de reuniões, discutindo casos e propondo condutas para abordagem integral do paciente;</li><li>Registrar atendimentos, avaliações e condutas em prontuário eletrônico para assegurar continuidade do cuidado e respaldo técnico;</li><li>Executar outras tarefas correlatas ao cargo, conforme determinação da liderança.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa em Fonoaudiologia;</li><li>Declaração vigente de que está devidamente regularizado no Conselho Regional de Fonoaudiologia 4ª Região (Nada consta).</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Transporte (opcional);</li><li>Refeitório;</li><li>Plano de saúde UNIMED e Hapvida (opcionais);</li><li>Assistência Odontológica (opcional);</li><li>Seguro de vida;</li><li>Credenciamento com o SESC;</li><li>Cartão de benefícios Bullla.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/290/fonoaudiologo-hospital-brites-de-albuquerque-olinda?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[75944743]]></companyId>
-    <city><![CDATA[Olinda]]></city>
-    <state><![CDATA[Pernambuco]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[02bc43cb-76df-413a-bdb0-bebc9a979801]]></partnerJobId>
     <partnerRequisitionId><![CDATA[02bc43cb-76df-413a-bdb0-bebc9a979801]]></partnerRequisitionId>
     <company><![CDATA[OSS Hospital do Tricentenário]]></company>
@@ -58501,6 +58501,26 @@ Contribuir para a melhoria dos processos e controles fiscais, garantindo o cumpr
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[c77e5938-8976-452b-97d2-50cb24d12a22]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[c77e5938-8976-452b-97d2-50cb24d12a22]]></partnerRequisitionId>
+    <company><![CDATA[BRAM OFFSHORE]]></company>
+    <title><![CDATA[Analista de Tesouraria I]]></title>
+    <posterEmail><![CDATA[louise.oliveira@chouest.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos buscando um profissional para atuar na área Financeira como Analista de Tesouraria I, apoiando as rotinas de fluxo de caixa, pagamentos, operações bancárias e câmbio, garantindo a organização, atualização e conferência dos processos financeiros da área.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Registrar e manter atualizado as entradas e saídas do fluxo de caixa;</li><li>Acompanhar a projeção diária do fluxo de caixa;</li><li>Realizar pagamentos e preparar impostos;</li><li>Emitir comprovantes de pagamento para as áreas solicitantes;</li><li>Integrar e conferir os processos de pagamento;</li><li>Consultar inadimplências financeiras;</li><li>Emitir extratos bancários;</li><li>Manter atualizado as contas bancárias ativas e inativas;</li><li>Solicitar, cancelar e controlar os cartões de créditos corporativos;</li><li>Controlar e emitir contratos de Câmbio;</li><li>Arquivar os documentos da área.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior completo em <u><b>Contabilidade preferencialmente</b></u>, considerando também áreas correlatas;</li><li>Experiência profissional na área de Tesouraria;</li><li>Bom nível de Excel;</li><li>Inglês intermediário.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de Saúde e Odontológico, extensivo aos dependentes;</li></ul><br /><br /><ul><li>Vale Alimentação/ Refeição;</li></ul><br /><br /><ul><li>Vale Transporte;</li></ul><br /><br /><ul><li>Plataforma de cursos Online para todos os colaboradores;</li></ul><br /><br /><ul><li>Plataforma para apoiar no cuidado a saúde mental;</li></ul><br /><br /><ul><li>Previdência Privada;</li></ul><br /><br /><ul><li>Benefício de Academias e Plataforma de Incentivo a rotina saudável.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bramoffshore/403/analista-de-tesouraria-i?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[5672510]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[68d002c7-6e15-434a-9334-16c3bec917a1]]></partnerJobId>
     <partnerRequisitionId><![CDATA[68d002c7-6e15-434a-9334-16c3bec917a1]]></partnerRequisitionId>
     <company><![CDATA[BRAM OFFSHORE]]></company>
@@ -58873,6 +58893,106 @@ relacionadas à prontidão da embarcação.</li></ul><br /><br /><b>Requisitos e
     <companyId><![CDATA[10416057]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[9ae1b593-4b80-4ed6-a41d-5a262db6a788]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[9ae1b593-4b80-4ed6-a41d-5a262db6a788]]></partnerRequisitionId>
+    <company><![CDATA[Edan]]></company>
+    <title><![CDATA[COORDENADOR DE AUDITORIA ESTOQUE]]></title>
+    <posterEmail><![CDATA[vera.paula@wiler.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Ei, você!  É analítico, meticuloso, investigativo e tem um perfil super mão na massa? Curte transformar a eficiência operacional de uma empresa — processos, acuracidade, segurança de estoque e prevenção de perdas — em resultados sólidos e sustentáveis de verdade? Então essa oportunidade é sua! Estamos em busca de um Coordenador de Auditoria de Estoque para acelerar nossos controles, mitigar riscos e garantir a excelência operacional das nossas unidades. Cargo: Coordenador de Auditoria de Estoque Localização: CAMBUÍ - MG⏳ Tipo de contratação: CLT Horário: Segunda a sexta-feira, das 8h às 18h(Presencial) - ter disponibilidade para eventuais trabalhos noturnos para inventários.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />✓ 
+Planejar, estruturar, coordenar e acompanhar o calendário de inventários
+rotativos, diários, mensais, sem giro, giro negativo e inventários gerais,
+assegurando a qualidade e confiabilidade dos resultados.<br />
+✓  Coordenar e acompanhar a execução das
+contagens físicas, auditando a qualidade dos trabalhos realizados pelas equipes
+e garantindo o cumprimento dos procedimentos estabelecidos.<br />
+✓  Analisar criticamente os resultados
+dos inventários, confrontando estoque físico, Kardex, WMS, ERP e informações
+contábeis, identificando divergências, recorrências, riscos e impactos.<br />
+✓  Investigar divergências de estoque,
+identificando causas, pontos de falha e impactos nos saldos, conduzindo a
+tratativa junto às áreas responsáveis.<br />
+✓  Realizar análises de estoque e
+acompanhar os procedimentos necessários para ajustes de saldos, assegurando que
+sejam realizados de forma criteriosa, documentada, rastreável e devidamente
+justificada.<br />
+✓  Controlar e auditar os fluxos de
+entrada, movimentação, transferência e saída de produtos nos sistemas WMS e
+ERP, assegurando a integridade e rastreabilidade das movimentações.<br />
+✓  Auditar os processos de recebimento,
+armazenagem, movimentação, separação e expedição, verificando o cumprimento dos
+procedimentos e padrões internos.<br />
+✓  Realizar conferências físicas e
+documentais, confrontando produtos, quantidades, volumes, notas fiscais,
+pedidos, romaneios e demais documentos relacionados às movimentações.<br />
+✓  Coordenar e acompanhar a
+identificação, registro e tratamento de faltas, sobras, avarias, perdas e
+quebras identificadas ou não identificadas, avaliando suas causas e impactos.<br />
+✓  Realizar o levantamento e
+acompanhamento das perdas de estoque, mantendo registros das ocorrências e
+apoiando a definição de ações para prevenção e redução de perdas.<br />
+✓  Fiscalizar o manuseio, movimentação,
+acondicionamento e organização dos produtos, verificando o cumprimento dos
+padrões de armazenagem, layout, segurança e prevenção de avarias.<br />
+✓  Auditar e acompanhar o processo de
+carregamento dos veículos, verificando produtos, quantidades, volumes,
+documentação e condições das cargas antes da liberação.<br />
+✓  Aplicar e acompanhar checklists
+operacionais direcionados à identificação de irregularidades, riscos, desvios e
+não conformidades nos processos de estoque.<br />
+✓  Desenvolver e acompanhar controles
+específicos para armazenamento e exposição de produtos de alto valor ou grande
+visibilidade, conforme regras internas aplicáveis.<br />
+✓  Monitorar e consolidar KPIs de estoque
+e operação, incluindo acuracidade, divergências, perdas, avarias, produtividade
+de conferência e tempos de expedição e capatazia.<br />
+✓  Elaborar análises e relatórios
+gerenciais, apresentando resultados, desvios, tendências, causas, impactos e
+evolução dos planos de ação.<br />
+✓  Coordenar e acompanhar, junto às áreas
+responsáveis, a definição, implementação e efetividade de planos de ação
+corretivos e preventivos, visando eliminar causas e evitar recorrências.<br />
+✓  Comunicar desvios e falhas de processo
+de forma estruturada e construtiva, promovendo a integração com as equipes
+auditadas e orientando quanto às medidas necessárias para correção.✓ 
+Orientar tecnicamente as equipes operacionais quanto aos procedimentos
+de controle de estoque, inventário, conferência, armazenagem, segurança e
+utilização adequada de EPIs.<br />
+✓  Participar da integração e treinamento
+de novos colaboradores, disseminando procedimentos, critérios de controle e
+boas práticas relacionadas à gestão e auditoria de estoques.<br />
+✓  Atuar em parceria com as áreas de
+Recebimento, Expedição, Logística, Operações, Fiscal, Contábil, Compras,
+Planejamento e demais áreas envolvidas, promovendo a solução integrada de
+desvios.<br />
+✓  Elaborar e manter atualizados
+procedimentos, critérios, controles, checklists e documentações relacionados
+aos processos de auditoria, inventário e gestão de estoques.<br />
+✓  Identificar oportunidades de melhoria,
+automação e otimização dos processos e sistemas de controle, atuando em
+conjunto com as áreas responsáveis.<br />
+✓  Assegurar a rastreabilidade das
+auditorias, movimentações, ocorrências, ajustes e ações realizadas, mantendo
+registros e evidências adequados.<br />
+✓  Apoiar auditorias internas e externas
+relacionadas a estoques e inventários, disponibilizando informações,
+documentos, evidências e esclarecimentos necessários.<br />
+✓  Executar outras atividades correlatas
+e inerentes ao cargo, conforme necessidade da organização e orientação da
+liderança imediata.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Superior completo em Logística, Contabilidade, Administração, Engenharia, Gestão de Estoques ou áreas correlatas. Desejável pós-graduação ou MBA em Logística, Gestão de Operações ou áreas relacionadas.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/edan/237/coordenador-de-auditoria-estoque?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[64614668]]></companyId>
+    <city><![CDATA[Cambuí]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -66362,131 +66482,6 @@ Conferir retenções na fonte em notas fiscais eletrônicas; </li><li>Realizar 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[4e9dd9fd-8315-4f92-b670-6304d4035025]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[4e9dd9fd-8315-4f92-b670-6304d4035025]]></partnerRequisitionId>
-    <company><![CDATA[Ciclo Cosméticos]]></company>
-    <title><![CDATA[Executivo de Vendas]]></title>
-    <posterEmail><![CDATA[gestaodepessoas@ciclocosmeticos.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Desenvolver e expandir negócios junto às principais contas
-estratégicas da empresa, garantindo crescimento sustentável de faturamento,
-rentabilidade, distribuição, execução comercial e fortalecimento das marcas nos
-canais de varejo físico e digital.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Gerenciar
-     carteira de clientes estratégicos nacionais e regionais. </li>
- <li>Desenvolver
-     relacionamento com compradores, gerentes comerciais, diretores e
-     stakeholders das contas. </li>
- <li>Elaborar
-     e conduzir negociações comerciais. </li>
- <li>Realizar
-     reuniões periódicas de negócio com clientes. </li>
- <li>Construir
-     planos de crescimento por cliente. </li>
- <li>Identificar
-     oportunidades de expansão de mix e distribuição.</li></ul>
-
-<ul>
- <li>Desenvolver
-     e acompanhar JBP (Joint Business Plan) junto aos clientes. </li>
- <li>Elaborar
-     forecast de vendas. </li>
- <li>Garantir
-     o cumprimento das metas comerciais. </li>
- <li>Acompanhar sell-in e sell-out. </li>
- <li>Monitorar
-     estoque, ruptura e cobertura dos clientes. </li>
- <li>Propor
-     ações corretivas para aumento de giro.</li></ul>
-
-<ul>
- <li>Negociar
-     ações promocionais e calendário comercial. </li>
- <li>Desenvolver
-     campanhas exclusivas para clientes estratégicos. </li>
- <li>Garantir
-     execução dos lançamentos. </li>
- <li>Acompanhar
-     indicadores de performance das ações.</li></ul>
-
-<ul>
- <li>Desenvolver
-     estratégias de crescimento para contas digitais. </li>
- <li>Monitorar
-     performance de sortimento, preço e disponibilidade. </li>
- <li>Acompanhar
-     indicadores de conversão e sell-out. </li>
- <li>Negociar
-     campanhas promocionais e datas sazonais. </li>
- <li>Buscar
-     aumento de share dentro dos clientes online.</li></ul>
-
-<ul>
- <li>Gerenciar
-     investimentos comerciais. </li>
- <li>Avaliar
-     ROI das negociações e campanhas. </li>
- <li>Monitorar
-     inadimplência e exposição financeira dos clientes.</li></ul>
-
-<ul>
- <li>Analisar
-     concorrência. </li>
- <li>Mapear
-     tendências do mercado de cosméticos e perfumaria. </li>
- <li>Identificar
-     oportunidades de novos canais e categorias. </li>
- <li>Apresentar
-     insights e recomendações para crescimento dos negócios. </li>
-</ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Ensino
-     Superior completo. </li>
- <li>Experiência
-     mínima de 5 anos em vendas para grandes contas. </li>
- <li>Experiência
-     comprovada em gestão de Key Accounts. </li>
- <li>Vivência
-     com negociações de médio e grande porte. </li>
- <li>Experiência
-     em varejo, perfumaria, higiene pessoal, beleza, farmacêutico ou bens de
-     consumo. </li>
- <li>Conhecimento
-     avançado de Excel. </li>
- <li>Conhecimento
-     em análise de indicadores comerciais. </li>
- <li>Disponibilidade
-     para viagens. </li>
- <li>CNH
-     ativa. </li>
- <li>Veiculo
-     Próprio.</li><li>Residir em SP Capital ou mediações.</li><li>Ter disponibilidade para deslocamento para o bairro Vila Nova Conceição - SP.</li>
-</ul><b>Diferenciais</b>
-
-<ul>
- <li>Experiência
-     no segmento de cosméticos e perfumaria. </li>
- <li>Experiência
-     em marketplaces e e-commerce. </li>
- <li>Experiência
-     em construção de JBP. </li>
- <li>Conhecimento
-     em gestão de verbas comerciais. </li>
- <li>Relacionamento
-     prévio com contas estratégicas do setor. </li>
-</ul><br /><br /><br /><b>Benefícios</b><br /><br /><br /><br /><ul><li>Vale Alimentação  ou Vale Refeiçãode  R$35,00 p/ dia útil.</li><li>Participação nos Lucros (PPLR).</li><li>Notebook Corporativo.</li><li>Celular Corporativo</li><li>Reembolso por KM.</li><li>RV podendo chegar até R$ 6.000,00.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ciclocosmeticos/26/executivo-de-vendas?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[3483941]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[eb0461de-f592-407f-990e-4760dcbe5d0d]]></partnerJobId>
     <partnerRequisitionId><![CDATA[eb0461de-f592-407f-990e-4760dcbe5d0d]]></partnerRequisitionId>
     <company><![CDATA[Dancor Indústria Mecânica]]></company>
@@ -67062,26 +67057,6 @@ Day Off;
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[5ab64850-d6ae-468a-a759-5e5705bbc2da]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[5ab64850-d6ae-468a-a759-5e5705bbc2da]]></partnerRequisitionId>
-    <company><![CDATA[MC2 LIVE MARKETING]]></company>
-    <title><![CDATA[ANALISTA FINANCEIRO SÊNIOR]]></title>
-    <posterEmail><![CDATA[fernanda.assis@mc2.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Procuramos uma pessoa com <strong>boa experiência em Finanças</strong>, atenção aos detalhes e forte capacidade de organização, que tenha facilidade para trabalhar com prazos, acompanhar pendências, fazer follow-ups e interagir com diferentes áreas para garantir o cumprimento dos processos financeiros.<br />Além da execução das atividades financeiras, essa pessoa terá um papel importante na <strong>organização dos processos, identificação de gargalos, otimização do tempo da equipe e acompanhamento dos indicadores da área</strong>.<br /><strong>Vaga PJ | 100% presencial — condição inegociável. </strong><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Gestão Financeira</b><ul><li>Acompanhar o fluxo de caixa diário, semanal e mensal.</li><li>Executar e acompanhar conciliações bancárias e financeiras.</li><li>Acompanhar contas a pagar e contas a receber.</li><li>Acompanhar faturamento, emissão de notas fiscais e recebimentos.</li><li>Controlar vencimentos, pendências e compromissos financeiros.</li><li>Apoiar o fechamento financeiro mensal.</li><li>Organizar e manter atualizadas as informações e controles financeiros.</li><li>Apoiar a identificação e resolução de inconsistências nos processos financeiros.</li></ul><br /><br /><b>Financeiro dos Projetos</b><ul><li>Acompanhar receitas, custos e margem dos projetos, mantendo as informações financeiras atualizadas.</li><li>Acompanhar orçamento x realizado dos projetos, identificando e sinalizando desvios.</li><li>Apoiar Produção e Atendimento nas demandas que envolvam impactos financeiros.</li><li>Analisar e sinalizar impactos financeiros decorrentes de alterações de escopo, custos e fornecedores durante a execução dos projetos.</li><li>Apoiar análises de custos, precificação e viabilidade financeira dos projetos.</li><li>Apoiar o acompanhamento da rentabilidade dos projetos, identificando pontos de atenção e oportunidades de melhoria.</li><li>Acompanhar pendências financeiras dos projetos junto às áreas responsáveis, realizando follow-ups e sinalizando riscos de prazo, custo ou recebimento.</li></ul><br /><br /><b>Processos, Organização e Prazos</b><ul><li>Organizar e acompanhar os fluxos e processos financeiros da empresa.</li><li>Garantir o acompanhamento das etapas e prazos definidos para cada processo.</li><li>Monitorar pendências junto às áreas e realizar os devidos follow-ups.</li><li>Cobrar, de forma organizada e assertiva, o cumprimento dos prazos e procedimentos financeiros pelas áreas envolvidas.</li><li>Identificar gargalos, retrabalhos e oportunidades de melhoria nos processos.</li><li>Propor alternativas para simplificar rotinas e otimizar o tempo da equipe.</li><li>Apoiar a padronização dos processos e controles financeiros.</li><li>Contribuir para a organização das demandas da área, considerando prioridades, prazos e impactos financeiros.</li><li>Apoiar a implantação de novos controles e melhorias nos processos da área.</li></ul><br /><br /><b>Indicadores e Análises</b><ul><li>Apoiar a elaboração, atualização e acompanhamento dos indicadores financeiros.</li><li>Organizar dados e informações para os acompanhamentos gerenciais.</li><li>Apoiar análises de fluxo de caixa, contas a pagar, contas a receber, faturamento e demais indicadores da área.</li><li>Identificar desvios e pontos de atenção nos indicadores e reportá-los à gestão.</li><li>Contribuir para a melhoria dos controles e relatórios financeiros.</li><li>Apoiar a construção e atualização de relatórios e dashboards da área.</li></ul><br /><br /><b>Interface com as Áreas</b><ul><li>Atuar em parceria com Produção, Atendimento, Compras e demais áreas para garantir o cumprimento dos processos financeiros.</li><li>Orientar as áreas sobre prazos, documentos e procedimentos necessários para a realização das atividades financeiras.</li><li>Acompanhar demandas e pendências até sua conclusão.</li><li>Realizar follow-ups com as áreas responsáveis, mantendo visibilidade sobre o andamento das demandas.</li><li>Sinalizar à gestão situações que possam gerar impacto financeiro, atraso ou descumprimento de processos.</li></ul><br /><br /><b></b><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino superior completo em Administração, Ciências Contábeis, Economia ou áreas correlatas.</li><li>Experiência como Analista Financeiro Sênior ou em posição equivalente.</li><li>Boa experiência em rotinas financeiras.</li><li>Conhecimento de fluxo de caixa.</li><li>Experiência com contas a pagar e contas a receber.</li><li>Experiência com conciliação bancária.</li><li>Experiência com faturamento e emissão de notas fiscais.</li><li>Excel intermediário/avançado.</li><li>Conhecimento de indicadores financeiros.</li><li>Conhecimento de controles e processos financeiros.</li><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração 7.000,00 ( PJ)</li><li>Descanso Remunerado</li></ul><br /><ul><li>13ª Nota Fiscal </li><li>Descanso Remunerado - Após 12 meses de Contrato</li><li>Ajuda de Custo - R$ 600,00 - Cartão Flash</li><li>Parceria com Total Pass</li><li>Day - Off de Aniversário</li><li>Incentivo de Resultado - Conforme Programa (PLR)</li><li>Rendimento por Performance - Metas - Conforme Programa ( Bônus)</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mc2vagas/19/analista-financeiro-senior?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[5400796]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[2129c112-053c-4b19-bbbf-5a1db8ac2c02]]></partnerJobId>
@@ -69850,6 +69825,46 @@ alinhamentos em decisões e ações concretas.]]></description>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[8e69b883-7608-40c7-9480-cf839f067e62]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[8e69b883-7608-40c7-9480-cf839f067e62]]></partnerRequisitionId>
+    <company><![CDATA[SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL]]></company>
+    <title><![CDATA[ANALISTA DE INFORMÁTICA -  IST TÊXTIL E CONFECÇÃO]]></title>
+    <posterEmail><![CDATA[veronicagarcia@fiepb.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Controlar atendimentos e ordens de serviços, dimensionando requisitos e funcionalidade das solicitações; Estabelecer e desenvolver a manutenção dos diversos sistemas web do SENAI e FIEPB; Desenvolver recursos informatizados como sites e programas, ferramentas de apoio ao usuário; Acompanhar o treinamento dos usuários nos sistemas web desenvolvidos; Emitir proposta de soluções e apoio às suas implantações, visando transformar os objetivos estratégicos da Instituição em soluções competitivas de negócios. </li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><i>Estudar as regras de
+funcionamento do negócio/atividade solicitado e adequar os sistemas web
+desenvolvidos para alcançar os objetivos;</i>;</li><li><i>Dimensionar requisitos e
+funcionalidade de comunicação adequando às necessidades das áreas e da empresa;</i></li><li><i>Escolher ferramentas de
+desenvolvimento mensurando sua otimização e facilidade de aplicação/ resultados obtidos;</i></li><li><i>Definir alternativas físicas de implantação e especificar o layout e
+configurações interativas da web;</i></li><li><i>Monitorar desempenho do
+site e desempenho monitorando suas falhas ou necessidades de aprimoramento;</i></li><li><i>Prever taxa de crescimento
+de acesso ao site com base nas informações e análises;</i></li><li><i>Executar procedimentos para
+melhoria de desempenho do site;</i></li><li><i>Auxiliar as áreas em
+desenhos e atividades multimídia avançados;</i></li><li><i>Sugerir e definir em conjunto com Coordenador e Gerente as ferramentas e
+recursos necessários ao pleno funcionamento da comunicação interna;</i></li><li><i>Analisar resultados das
+suas atividades e emitir parecer quanto aos resultados;</i></li><li><i>Realizar demais atividades
+correlatas ao cargo/função.</i></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação de Nível Superior Completo em Bacharelado em Sistemas de Informação, Ciências da Computação, Engenharia da Computação, Software;</li><li>Desejável experiência mínima de 06 (seis) meses comprovada na área de formação. </li></ul><br /><ul><li><i><strong>Cadastro curricular completo e atualizado na plataforma (<u>Informar nome completo</u>).</strong></i></li></ul><br /><br /><ul><li>Carga horária: 40 horas semanais</li></ul><br /><br /><b>Período de Inscrições:</b> 24/09/2026 a 28/09/2026<br /><br /><br /><b>Observações:</b><br />O não preenchimento das informações obrigatórias no momento da inscrição poderá acarretar a desclassificação do candidato. Inscrições realizadas fora do período informado não serão consideradas válidas<b>. </b><b>Não serão analisados documentos enviados em anexo.</b><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de saúde;</li><li>Convênios com Cooperativas de Crédito;</li><li>Licença Prêmio;</li><li>Material Escolar;</li><li>Estabilidade para Aposentadoria;</li><li>Vale alimentação (R$ 725,00);</li><li>Cesta Natalina;</li><li>Auxílio transporte;</li><li>Auxílio Morte Funeral.</li><br /><br /><b>*Conforme Acordo Coletivo de Trabalho Vigente</b><br /><br /><br /><b><br /></b><br /><b>ETAPAS DO PROCESSO</b><br /><b>1. Cadastro</b><br /><b>2. Análise Curricular</b><br /><b>3. Avaliação de Habilidades Técnicas</b><br /><b>4. Entrevista com a Equipe de Seleção e Gestor</b><br /><b>5. Aguardando Convocação</b><br /><b>6. Convocação para Admissão</b><br /><b>7. Exame Admissional|Documentação</b><br /><b>8. Contratação</b><br /><br /></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/senaipboportunidades/107/analista-de-informatica-ist-textil-e-confeccao?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[80346365]]></companyId>
+    <city><![CDATA[Campina Grande]]></city>
+    <state><![CDATA[Paraíba]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[4781.74]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[4781.74]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[f13b3c8b-8178-48d3-8331-c10dbdbfee6f]]></partnerJobId>
     <partnerRequisitionId><![CDATA[f13b3c8b-8178-48d3-8331-c10dbdbfee6f]]></partnerRequisitionId>
     <company><![CDATA[SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL]]></company>
@@ -70030,46 +70045,6 @@ Crédito;</li><li>Licença Prêmio;</li><li>Material Escolar;</li><li>Estabilida
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/senaipboportunidades/101/consultor-determinado-processo-produtivo-industriais-ist-eficiencia-operacional?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[80346365]]></companyId>
     <city><![CDATA[Campina Grande]]></city>
-    <state><![CDATA[Paraíba]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[4781.74]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[4781.74]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[8e69b883-7608-40c7-9480-cf839f067e62]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[8e69b883-7608-40c7-9480-cf839f067e62]]></partnerRequisitionId>
-    <company><![CDATA[SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL]]></company>
-    <title><![CDATA[ANALISTA DE INFORMÁTICA -  IST TÊXTIL E CONFECÇÃO]]></title>
-    <posterEmail><![CDATA[veronicagarcia@fiepb.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Controlar atendimentos e ordens de serviços, dimensionando requisitos e funcionalidade das solicitações; Estabelecer e desenvolver a manutenção dos diversos sistemas web do SENAI e FIEPB; Desenvolver recursos informatizados como sites e programas, ferramentas de apoio ao usuário; Acompanhar o treinamento dos usuários nos sistemas web desenvolvidos; Emitir proposta de soluções e apoio às suas implantações, visando transformar os objetivos estratégicos da Instituição em soluções competitivas de negócios. </li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><i>Estudar as regras de
-funcionamento do negócio/atividade solicitado e adequar os sistemas web
-desenvolvidos para alcançar os objetivos;</i>;</li><li><i>Dimensionar requisitos e
-funcionalidade de comunicação adequando às necessidades das áreas e da empresa;</i></li><li><i>Escolher ferramentas de
-desenvolvimento mensurando sua otimização e facilidade de aplicação/ resultados obtidos;</i></li><li><i>Definir alternativas físicas de implantação e especificar o layout e
-configurações interativas da web;</i></li><li><i>Monitorar desempenho do
-site e desempenho monitorando suas falhas ou necessidades de aprimoramento;</i></li><li><i>Prever taxa de crescimento
-de acesso ao site com base nas informações e análises;</i></li><li><i>Executar procedimentos para
-melhoria de desempenho do site;</i></li><li><i>Auxiliar as áreas em
-desenhos e atividades multimídia avançados;</i></li><li><i>Sugerir e definir em conjunto com Coordenador e Gerente as ferramentas e
-recursos necessários ao pleno funcionamento da comunicação interna;</i></li><li><i>Analisar resultados das
-suas atividades e emitir parecer quanto aos resultados;</i></li><li><i>Realizar demais atividades
-correlatas ao cargo/função.</i></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação de Nível Superior Completo em Bacharelado em Sistemas de Informação, Ciências da Computação, Engenharia da Computação, Software;</li><li>Desejável experiência mínima de 06 (seis) meses comprovada na área de formação. </li></ul><br /><ul><li><i><strong>Cadastro curricular completo e atualizado na plataforma (<u>Informar nome completo</u>).</strong></i></li></ul><br /><br /><ul><li>Carga horária: 40 horas semanais</li></ul><br /><br /><b>Período de Inscrições:</b> 24/09/2026 a 28/09/2026<br /><br /><br /><b>Observações:</b><br />O não preenchimento das informações obrigatórias no momento da inscrição poderá acarretar a desclassificação do candidato. Inscrições realizadas fora do período informado não serão consideradas válidas<b>. </b><b>Não serão analisados documentos enviados em anexo.</b><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de saúde;</li><li>Convênios com Cooperativas de Crédito;</li><li>Licença Prêmio;</li><li>Material Escolar;</li><li>Estabilidade para Aposentadoria;</li><li>Vale alimentação (R$ 725,00);</li><li>Cesta Natalina;</li><li>Auxílio transporte;</li><li>Auxílio Morte Funeral.</li><br /><br /><b>*Conforme Acordo Coletivo de Trabalho Vigente</b><br /><br /><br /><b><br /></b><br /><b>ETAPAS DO PROCESSO</b><br /><b>1. Cadastro</b><br /><b>2. Análise Curricular</b><br /><b>3. Avaliação de Habilidades Técnicas</b><br /><b>4. Entrevista com a Equipe de Seleção e Gestor</b><br /><b>5. Aguardando Convocação</b><br /><b>6. Convocação para Admissão</b><br /><b>7. Exame Admissional|Documentação</b><br /><b>8. Contratação</b><br /><br /></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/senaipboportunidades/107/analista-de-informatica-ist-textil-e-confeccao?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[80346365]]></companyId>
-    <city><![CDATA[João Pessoa]]></city>
     <state><![CDATA[Paraíba]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -102764,6 +102739,27 @@ resultados;</li><li>Experiência com gestão de processos e rotinas operacionais
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[ccdf190d-1810-420d-b4ba-82170e5ecc7b]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[ccdf190d-1810-420d-b4ba-82170e5ecc7b]]></partnerRequisitionId>
+    <company><![CDATA[Grupo Vênus]]></company>
+    <title><![CDATA[GERENTE DE LOJA]]></title>
+    <posterEmail><![CDATA[andreia.menezes@grupovenusrv.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por garantir a excelência no atendimento ao cliente e impulsionar os resultados de vendas da lojas localizadas no Décio, Atacadão e Calçadão e Hub em Rio Verde - GO, assegurando o cumprimento das metas estabelecidas pela empresa. Atua na gestão das operações das unidades, acompanhando processos internos, indicadores e rotinas operacionais, visando manter a organização, produtividade e fluidez das atividades.
+Também é responsável pela liderança das lojas e hub, acompanhamento e engajamento da equipe, garantindo a execução das estratégias da empresa e promovendo um ambiente colaborativo, focado em performance e resultados.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhar e impulsionar o atingimento dos indicadores de desempenho (KPIs): faturamento, ticket médio, PA (peças por atendimento), taxa de conversão e fidelização;</li><li>Acompanhar o desempenho individual da equipe, fornecendo feedbacks constantes e alinhamentos de conduta;</li><li>Elaborar escalas de trabalho, folgas e férias, garantindo o dimensionamento adequado da equipe na loja;</li><li>Promover um clima organizacional motivador e alinhado com a cultura da empresa;</li><li>Controlar o estoque da loja: acompanhar recebimento, inventários, prevenção de perdas, produtos próximos do vencimento e reposição na área de vendas;</li><li>Garantir que a equipe ofereça um atendimento consultivo, personalizado e encantador, focado na experimentação de produtos (perfumaria, maquiagem e cuidados pessoais);</li><li>Gerenciar o relacionamento com clientes e incentivar o uso de ferramentas de CRM e programas de fidelidade.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prévia em gestão de equipes no varejo (diferencial se for no segmento de cosméticos, beleza ou franquias);</li><li>Domínio de rotinas de varejo e gestão de KPIs de vendas;</li><li>Conhecimento em sistemas de gestão de loja (PDV) e Pacote Office (Excel intermediário);</li><li>Noções de prevenção de perdas e gestão de estoque;</li><li>Liderança inspiradora e foco em desenvolvimento de pessoas;</li><li>Orientação para resultados e visão de dono;</li><li>Excelente comunicação e habilidade de negociação;</li><li>Paixão pelo universo da beleza e do atendimento ao cliente.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Alimentação;</li><li>Plano odontológico;</li><li>Plano de saúde;</li><li>Caju+ (Conexa Saúde, Psicologia Viva e Wellhub);</li><li>Desconto exclusivo em produtos O Boticário;</li><li>Day off + Presente de aniversário;</li><li>Seguro de vida;</li><li>Vale transporte;</li><li>Remuneração variável.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/portaldecarreirasgrupovenus/59/gerente-de-loja?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[90872087]]></companyId>
+    <city><![CDATA[Rio Verde]]></city>
+    <state><![CDATA[Goiás]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[b2695daf-c872-4900-89c4-6fcf274a92f4]]></partnerJobId>
     <partnerRequisitionId><![CDATA[b2695daf-c872-4900-89c4-6fcf274a92f4]]></partnerRequisitionId>
     <company><![CDATA[Grupo Vênus]]></company>
@@ -112467,26 +112463,6 @@ Boa comunicação, organização, responsabilidade e perfil acolhedor.</li><br /
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[f780b46a-fb20-448a-9c85-c8d957cd54d7]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[f780b46a-fb20-448a-9c85-c8d957cd54d7]]></partnerRequisitionId>
-    <company><![CDATA[MARK BUILDING]]></company>
-    <title><![CDATA[RECEPCIONISTA]]></title>
-    <posterEmail><![CDATA[carla.wanderley@markbuilding.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><li>Recepciona, identifica e encaminha visitantes, clientes, pacientes ou fornecedores.</li><br /><li>Presta atendimento telefônico, responde a dúvidas e fornece informações gerais.</li><br /><li>Confere documentos, registra entradas e saídas e efetua agendamentos ou reservas.</li><br /><li>Organiza o local de trabalho e gerencia informações para direcionar a pessoa certa ao setor procurado.</li><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento ao público: Recepcionar e acolher visitantes, clientes e fornecedores, identificando as necessidades e prestando informações orientadoras.</li><li>Comunicação e telefonia: Atender e transferir chamadas telefônicas, registrar recados, gerenciar o fluxo de e-mails institucionais e direcionar contatos para as áreas responsáveis.</li><li>Controle de acessos: Registrar a entrada e saída de pessoas nas dependências da empresa, emitindo crachás e zelando pelas normas de segurança interna.</li><li>Gestão de correspondências: Receber, protocolar, triar e distribuir documentos, cartas e encomendas entregues na recepção.</li><li>Suporte administrativo: Realizar agendamentos, organizar a agenda de salas de reunião, atualizar cadastros básicos no sistema e zelar pela organização da área de recepção.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Escolaridade mínima: Ensino Médio completo.</li><li>Qualificação desejável: Cursos profissionalizantes ou de extensão em Atendimento ao Cliente, Técnicas de Recepção ou Secretariado Básico.</li><li>Informática: Conhecimento básico a intermediário no Pacote Office (Word, Excel e Outlook) IA e facilidade para operar sistemas internos de cadastro ou agendamento.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>VT </li><li>VA </li><li>Convênio Odontológico (extensivo dependentes) </li><li>Seguro de Vida em Grupo </li><li>Cartão Good Card (farmácia) </li><li>Gympass (academia e esportes) </li><li>Convenio Sesc/Senac e Firjan </li><li>Desconto em cursos e faculdades </li><li>Desconto em cursos de idiomas.</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/markbuildingcarreiras/3/recepcionista?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[75719352]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[5a3daed7-19e2-4084-8a73-2013d9c7ea9e]]></partnerJobId>
     <partnerRequisitionId><![CDATA[5a3daed7-19e2-4084-8a73-2013d9c7ea9e]]></partnerRequisitionId>
     <company><![CDATA[Rischioto]]></company>
@@ -113576,6 +113552,26 @@ clientes pela confiabilidade, transparência e evolução contínua.<br /><br />
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[883da35e-8e6b-46a7-b658-c5b2a3110742]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[883da35e-8e6b-46a7-b658-c5b2a3110742]]></partnerRequisitionId>
+    <company><![CDATA[OrangeDoor]]></company>
+    <title><![CDATA[Analista de Dados]]></title>
+    <posterEmail><![CDATA[gabriel.ferreira@orangedoor.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Construir uma fundação de dados confiável, governada e acionável para suportar visão 360, segmentação, inteligência artificial, analytics e jornadas de relacionamento do cliente<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Mapear fontes, entidades, owners, regras de qualidade, volumes, periodicidade, sensibilidade e consumidores do dado.</li><li>Desenhar e implementar pipelines de ingestão batch, streaming, API ou mecanismos de compartilhamento como Zero Copy, quando aplicável.</li><li>Construir transformações, harmonização, deduplicação, identidade, reconciliação e regras de qualidade com rastreabilidade.</li><li>Modelar dados para Data 360, CRM, Marketing Cloud, Tableau, IA e integrações, respeitando modelos nativos e contratos de dados.</li><li>Implementar controles de consentimento, retenção, mascaramento, criptografia, segregação e mínimo privilégio.</li><li>Criar monitoração, alertas, logs, métricas de latência, completude, falhas, rejeições e reprocessamento.</li><li>Preparar massa, evidências e procedimentos para testes funcionais, reconciliação, volume, segurança e UAT.</li><li>Trabalhar com MuleSoft e Arquitetura na definição de interfaces, eventos, contratos, idempotência e tratamento de erros.</li><li>Documentar catálogo, linhagem, dicionário, regras, SLAs, runbooks e decisões arquiteturais.</li><li>Apoiar incidentes e análise de causa, garantindo correção definitiva e prevenção de recorrência.</li><li>Participar de refinamentos e plannings, estimando esforço, dependências e riscos antes do Ready to Dev.</li><li>Usar IA de forma controlada para acelerar análise, documentação, testes e engenharia, sem expor dados do cliente</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com engenharia de dados, SQL e modelagem relacional/dimensional.</li><li>Pipelines ETL/ELT, APIs, batch e/ou streaming; tratamento de falhas e reprocessamento.</li><li>Cloud, data lake/warehouse, versionamento, CI/CD e observabilidade de dados.</li><li>Qualidade, reconciliação, segurança e documentação técnica.</li></ul><br /><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/orangedoorcarreiras/8/analista-de-dados?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[73182008]]></companyId>
+    <city><![CDATA[Brasília]]></city>
+    <state><![CDATA[Distrito Federal]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[546c6a9c-af05-46e7-8623-1c1caaa07ebb]]></partnerJobId>
     <partnerRequisitionId><![CDATA[546c6a9c-af05-46e7-8623-1c1caaa07ebb]]></partnerRequisitionId>
     <company><![CDATA[WASD Mídia Digital]]></company>
@@ -114071,6 +114067,66 @@ Transporte fretado.</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[70729897-12a2-448f-9639-2f91962e9e62]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[70729897-12a2-448f-9639-2f91962e9e62]]></partnerRequisitionId>
+    <company><![CDATA[Vix Paula Hermanny]]></company>
+    <title><![CDATA[Extra Natal | Salvador Shopping]]></title>
+    <posterEmail><![CDATA[adriano.filho@vixbrasil.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><strong>A ViX está em busca de novos talentos para fazer parte do nosso Extra Natal!</strong><strong><br /></strong>Estamos em busca de profissionais para atuar em nossas lojas durante o período de Extra Natal, apoiando a operação em um momento de maior movimento e fluxo de clientes.<br /><br />As oportunidades contemplam diferentes frentes da operação, como <strong>Vendas, Caixa e Estoque</strong>. A posição será definida de acordo com a experiência, perfil e aderência de cada profissional às necessidades da operação.<br /><br /><strong>Se você procura um lugar onde a criatividade encontra propósito, onde o cuidado com os detalhes é tão importante quanto o cuidado com as pessoas e onde crescer também significa evoluir com consciência, a ViX pode ser o seu próximo mergulho.</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Vendedora</strong><br /><ul><li>Atender clientes de forma consultiva, identificando necessidades e apresentando produtos de acordo com cada perfil;</li><li>Apoiar a organização e apresentação da loja;</li><li>Conhecer produtos, coleções e características da marca;</li><li>Contribuir para o alcance das metas e resultados da loja.</li></ul><strong>Caixa</strong><ul><li>Realizar operações de caixa, pagamentos, trocas e demais processos relacionados à função;</li><li>Conferir e registrar corretamente as vendas;</li><li>Apoiar a organização da loja e o fluxo da operação;</li><li>Contribuir para uma experiência de atendimento alinhada aos padrões da marca.</li></ul><strong>Estoque</strong><ul><li>Receber, conferir, organizar e armazenar produtos;</li><li>Apoiar o abastecimento da loja;</li><li>Realizar movimentações e controles de estoque;</li><li>Manter o estoque organizado e adequado à rotina da operação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior em varejo, atendimento, vendas, caixa ou estoque, de acordo com a posição de interesse;</li><li>Disponibilidade para atuar em escala de varejo, incluindo finais de semana e feriados;</li><li>Disponibilidade para trabalhar durante o período de Extra Natal;</li><li>Boa comunicação e relacionamento interpessoal;</li><li>Organização e atenção aos detalhes;</li><li>Facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Fazer parte do nosso time também é ter acesso a uma experiência pensada para acompanhar você em cada etapa dessa jornada.<br /></b><br /><br />VR;<br />Vale-Transporte;<br />TotalPass;<br />Descontos em instituições de ensino parceiras;<br />Desconto exclusivo nos produtos VIX.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vixbrasilvagas/30/extra-natal-salvador-shopping?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11362165]]></companyId>
+    <city><![CDATA[Salvador]]></city>
+    <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[46744319-4160-42c3-aefa-48f0f2229b65]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[46744319-4160-42c3-aefa-48f0f2229b65]]></partnerRequisitionId>
+    <company><![CDATA[Vix Paula Hermanny]]></company>
+    <title><![CDATA[Extra Natal | Iguatemi Fortaleza]]></title>
+    <posterEmail><![CDATA[adriano.filho@vixbrasil.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><strong>A ViX está em busca de novos talentos para fazer parte do nosso Extra Natal!</strong><strong><br /></strong>Estamos em busca de profissionais para atuar em nossas lojas durante o período de Extra Natal, apoiando a operação em um momento de maior movimento e fluxo de clientes.<br /><br />As oportunidades contemplam diferentes frentes da operação, como <strong>Vendas, Caixa e Estoque</strong>. A posição será definida de acordo com a experiência, perfil e aderência de cada profissional às necessidades da operação.<br /><br /><br /><strong>Se você procura um lugar onde a criatividade encontra propósito, onde o cuidado com os detalhes é tão importante quanto o cuidado com as pessoas e onde crescer também significa evoluir com consciência, a ViX pode ser o seu próximo mergulho.</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Vendedora</strong><br /><ul><li>Atender clientes de forma consultiva, identificando necessidades e apresentando produtos de acordo com cada perfil;</li><li>Apoiar a organização e apresentação da loja;</li><li>Conhecer produtos, coleções e características da marca;</li><li>Contribuir para o alcance das metas e resultados da loja.</li></ul><strong>Caixa</strong><ul><li>Realizar operações de caixa, pagamentos, trocas e demais processos relacionados à função;</li><li>Conferir e registrar corretamente as vendas;</li><li>Apoiar a organização da loja e o fluxo da operação;</li><li>Contribuir para uma experiência de atendimento alinhada aos padrões da marca.</li></ul><strong>Estoque</strong><ul><li>Receber, conferir, organizar e armazenar produtos;</li><li>Apoiar o abastecimento da loja;</li><li>Realizar movimentações e controles de estoque;</li><li>Manter o estoque organizado e adequado à rotina da operação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior em varejo, atendimento, vendas, caixa ou estoque, de acordo com a posição de interesse;</li><li>Disponibilidade para atuar em escala de varejo, incluindo finais de semana e feriados;</li><li>Disponibilidade para trabalhar durante o período de Extra Natal;</li><li>Boa comunicação e relacionamento interpessoal;</li><li>Organização e atenção aos detalhes;</li><li>Facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Fazer parte do nosso time também é ter acesso a uma experiência pensada para acompanhar você em cada etapa dessa jornada.<br /></b><br /><br />VR;<br />Vale-Transporte;<br />TotalPass;<br />Descontos em instituições de ensino parceiras;<br />Desconto exclusivo nos produtos VIX.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vixbrasilvagas/31/extra-natal-iguatemi-fortaleza?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11362165]]></companyId>
+    <city><![CDATA[Fortaleza]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[167ba834-d844-455d-ab31-042b2241d582]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[167ba834-d844-455d-ab31-042b2241d582]]></partnerRequisitionId>
+    <company><![CDATA[Vix Paula Hermanny]]></company>
+    <title><![CDATA[Extra Natal | Brasília]]></title>
+    <posterEmail><![CDATA[adriano.filho@vixbrasil.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><strong>A ViX está em busca de novos talentos para fazer parte do nosso Extra Natal!</strong><strong><br /></strong>Estamos em busca de profissionais para atuar em nossas lojas durante o período de Extra Natal, apoiando a operação em um momento de maior movimento e fluxo de clientes.<br /><br />As oportunidades contemplam diferentes frentes da operação, como <strong>Vendas, Caixa e Estoque</strong>. A posição será definida de acordo com a experiência, perfil e aderência de cada profissional às necessidades da operação.<br /><br /><b>Nossas Lojas:</b><ul><li>Partage</li><li>Iguatemi Brasília</li></ul><br /><br /><strong>Se você procura um lugar onde a criatividade encontra propósito, onde o cuidado com os detalhes é tão importante quanto o cuidado com as pessoas e onde crescer também significa evoluir com consciência, a ViX pode ser o seu próximo mergulho.</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Vendedora</strong><br /><ul><li>Atender clientes de forma consultiva, identificando necessidades e apresentando produtos de acordo com cada perfil;</li><li>Apoiar a organização e apresentação da loja;</li><li>Conhecer produtos, coleções e características da marca;</li><li>Contribuir para o alcance das metas e resultados da loja.</li></ul><strong>Caixa</strong><ul><li>Realizar operações de caixa, pagamentos, trocas e demais processos relacionados à função;</li><li>Conferir e registrar corretamente as vendas;</li><li>Apoiar a organização da loja e o fluxo da operação;</li><li>Contribuir para uma experiência de atendimento alinhada aos padrões da marca.</li></ul><strong>Estoque</strong><ul><li>Receber, conferir, organizar e armazenar produtos;</li><li>Apoiar o abastecimento da loja;</li><li>Realizar movimentações e controles de estoque;</li><li>Manter o estoque organizado e adequado à rotina da operação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior em varejo, atendimento, vendas, caixa ou estoque, de acordo com a posição de interesse;</li><li>Disponibilidade para atuar em escala de varejo, incluindo finais de semana e feriados;</li><li>Disponibilidade para trabalhar durante o período de Extra Natal;</li><li>Boa comunicação e relacionamento interpessoal;</li><li>Organização e atenção aos detalhes;</li><li>Facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Fazer parte do nosso time também é ter acesso a uma experiência pensada para acompanhar você em cada etapa dessa jornada.<br /></b><br /><br />VR;<br />Vale-Transporte;<br />TotalPass;<br />Descontos em instituições de ensino parceiras;<br />Desconto exclusivo nos produtos VIX.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vixbrasilvagas/28/extra-natal-brasilia?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11362165]]></companyId>
+    <city><![CDATA[Brasília]]></city>
+    <state><![CDATA[Distrito Federal]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[5b984ea4-dce3-474a-a66f-c8263ff751ef]]></partnerJobId>
     <partnerRequisitionId><![CDATA[5b984ea4-dce3-474a-a66f-c8263ff751ef]]></partnerRequisitionId>
     <company><![CDATA[Vix Paula Hermanny]]></company>
@@ -114081,6 +114137,26 @@ Transporte fretado.</li></ul>]]></description>
     <companyId><![CDATA[11362165]]></companyId>
     <city><![CDATA[Brasília]]></city>
     <state><![CDATA[Distrito Federal]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[cea19a1c-4664-4330-9317-5f6845167803]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[cea19a1c-4664-4330-9317-5f6845167803]]></partnerRequisitionId>
+    <company><![CDATA[Vix Paula Hermanny]]></company>
+    <title><![CDATA[Extra Natal | Cuiabá]]></title>
+    <posterEmail><![CDATA[adriano.filho@vixbrasil.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><strong>A ViX está em busca de novos talentos para fazer parte do nosso Extra Natal!</strong><strong><br /></strong>Estamos em busca de profissionais para atuar em nossas lojas durante o período de Extra Natal, apoiando a operação em um momento de maior movimento e fluxo de clientes.<br /><br />As oportunidades contemplam diferentes frentes da operação, como <strong>Vendas, Caixa e Estoque</strong>. A posição será definida de acordo com a experiência, perfil e aderência de cada profissional às necessidades da operação.<br /><br /><strong>Se você procura um lugar onde a criatividade encontra propósito, onde o cuidado com os detalhes é tão importante quanto o cuidado com as pessoas e onde crescer também significa evoluir com consciência, a ViX pode ser o seu próximo mergulho.</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Vendedora</strong><br /><ul><li>Atender clientes de forma consultiva, identificando necessidades e apresentando produtos de acordo com cada perfil;</li><li>Apoiar a organização e apresentação da loja;</li><li>Conhecer produtos, coleções e características da marca;</li><li>Contribuir para o alcance das metas e resultados da loja.</li></ul><strong>Caixa</strong><ul><li>Realizar operações de caixa, pagamentos, trocas e demais processos relacionados à função;</li><li>Conferir e registrar corretamente as vendas;</li><li>Apoiar a organização da loja e o fluxo da operação;</li><li>Contribuir para uma experiência de atendimento alinhada aos padrões da marca.</li></ul><strong>Estoque</strong><ul><li>Receber, conferir, organizar e armazenar produtos;</li><li>Apoiar o abastecimento da loja;</li><li>Realizar movimentações e controles de estoque;</li><li>Manter o estoque organizado e adequado à rotina da operação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior em varejo, atendimento, vendas, caixa ou estoque, de acordo com a posição de interesse;</li><li>Disponibilidade para atuar em escala de varejo, incluindo finais de semana e feriados;</li><li>Disponibilidade para trabalhar durante o período de Extra Natal;</li><li>Boa comunicação e relacionamento interpessoal;</li><li>Organização e atenção aos detalhes;</li><li>Facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Fazer parte do nosso time também é ter acesso a uma experiência pensada para acompanhar você em cada etapa dessa jornada.<br /></b><br /><br />VR;<br />Vale-Transporte;<br />TotalPass;<br />Descontos em instituições de ensino parceiras;<br />Desconto exclusivo nos produtos VIX.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vixbrasilvagas/24/extra-natal-cuiaba?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11362165]]></companyId>
+    <city><![CDATA[Cuiabá]]></city>
+    <state><![CDATA[Mato Grosso]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -114111,6 +114187,46 @@ Transporte fretado.</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[81d36350-59f2-44c0-a40b-d40b81ac1825]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[81d36350-59f2-44c0-a40b-d40b81ac1825]]></partnerRequisitionId>
+    <company><![CDATA[Vix Paula Hermanny]]></company>
+    <title><![CDATA[Extra Natal | Pernambuco]]></title>
+    <posterEmail><![CDATA[adriano.filho@vixbrasil.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><strong>A ViX está em busca de novos talentos para fazer parte do nosso Extra Natal!</strong><strong><br /></strong>Estamos em busca de profissionais para atuar em nossas lojas durante o período de Extra Natal, apoiando a operação em um momento de maior movimento e fluxo de clientes.<br /><br />As oportunidades contemplam diferentes frentes da operação, como <strong>Vendas, Caixa e Estoque</strong>. A posição será definida de acordo com a experiência, perfil e aderência de cada profissional às necessidades da operação.<br /><br /><b>Nossas Lojas:</b><ul><li>Rio Mar</li><li>Shopping Recife</li></ul><br /><br /><strong>Se você procura um lugar onde a criatividade encontra propósito, onde o cuidado com os detalhes é tão importante quanto o cuidado com as pessoas e onde crescer também significa evoluir com consciência, a ViX pode ser o seu próximo mergulho.</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Vendedora</strong><br /><ul><li>Atender clientes de forma consultiva, identificando necessidades e apresentando produtos de acordo com cada perfil;</li><li>Apoiar a organização e apresentação da loja;</li><li>Conhecer produtos, coleções e características da marca;</li><li>Contribuir para o alcance das metas e resultados da loja.</li></ul><strong>Caixa</strong><ul><li>Realizar operações de caixa, pagamentos, trocas e demais processos relacionados à função;</li><li>Conferir e registrar corretamente as vendas;</li><li>Apoiar a organização da loja e o fluxo da operação;</li><li>Contribuir para uma experiência de atendimento alinhada aos padrões da marca.</li></ul><strong>Estoque</strong><ul><li>Receber, conferir, organizar e armazenar produtos;</li><li>Apoiar o abastecimento da loja;</li><li>Realizar movimentações e controles de estoque;</li><li>Manter o estoque organizado e adequado à rotina da operação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior em varejo, atendimento, vendas, caixa ou estoque, de acordo com a posição de interesse;</li><li>Disponibilidade para atuar em escala de varejo, incluindo finais de semana e feriados;</li><li>Disponibilidade para trabalhar durante o período de Extra Natal;</li><li>Boa comunicação e relacionamento interpessoal;</li><li>Organização e atenção aos detalhes;</li><li>Facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Fazer parte do nosso time também é ter acesso a uma experiência pensada para acompanhar você em cada etapa dessa jornada.<br /></b><br /><br />VR;<br />Vale-Transporte;<br />TotalPass;<br />Descontos em instituições de ensino parceiras;<br />Desconto exclusivo nos produtos VIX.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vixbrasilvagas/29/extra-natal-pernambuco?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11362165]]></companyId>
+    <city><![CDATA[Recife]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[51cd1fa0-0e5f-49bd-bb22-f4b8662585e7]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[51cd1fa0-0e5f-49bd-bb22-f4b8662585e7]]></partnerRequisitionId>
+    <company><![CDATA[Vix Paula Hermanny]]></company>
+    <title><![CDATA[Extra Natal | Pátio Batel]]></title>
+    <posterEmail><![CDATA[adriano.filho@vixbrasil.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><strong>A ViX está em busca de novos talentos para fazer parte do nosso Extra Natal!</strong><strong><br /></strong>Estamos em busca de profissionais para atuar em nossas lojas durante o período de Extra Natal, apoiando a operação em um momento de maior movimento e fluxo de clientes.<br /><br />As oportunidades contemplam diferentes frentes da operação, como <strong>Vendas, Caixa e Estoque</strong>. A posição será definida de acordo com a experiência, perfil e aderência de cada profissional às necessidades da operação.<br /><br /><strong>Se você procura um lugar onde a criatividade encontra propósito, onde o cuidado com os detalhes é tão importante quanto o cuidado com as pessoas e onde crescer também significa evoluir com consciência, a ViX pode ser o seu próximo mergulho.</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Vendedora</strong><br /><ul><li>Atender clientes de forma consultiva, identificando necessidades e apresentando produtos de acordo com cada perfil;</li><li>Apoiar a organização e apresentação da loja;</li><li>Conhecer produtos, coleções e características da marca;</li><li>Contribuir para o alcance das metas e resultados da loja.</li></ul><strong>Caixa</strong><ul><li>Realizar operações de caixa, pagamentos, trocas e demais processos relacionados à função;</li><li>Conferir e registrar corretamente as vendas;</li><li>Apoiar a organização da loja e o fluxo da operação;</li><li>Contribuir para uma experiência de atendimento alinhada aos padrões da marca.</li></ul><strong>Estoque</strong><ul><li>Receber, conferir, organizar e armazenar produtos;</li><li>Apoiar o abastecimento da loja;</li><li>Realizar movimentações e controles de estoque;</li><li>Manter o estoque organizado e adequado à rotina da operação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior em varejo, atendimento, vendas, caixa ou estoque, de acordo com a posição de interesse;</li><li>Disponibilidade para atuar em escala de varejo, incluindo finais de semana e feriados;</li><li>Disponibilidade para trabalhar durante o período de Extra Natal;</li><li>Boa comunicação e relacionamento interpessoal;</li><li>Organização e atenção aos detalhes;</li><li>Facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Fazer parte do nosso time também é ter acesso a uma experiência pensada para acompanhar você em cada etapa dessa jornada.<br /></b><br /><br />VR;<br />Vale-Transporte;<br />TotalPass;<br />Descontos em instituições de ensino parceiras;<br />Desconto exclusivo nos produtos VIX.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vixbrasilvagas/26/extra-natal-patio-batel?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11362165]]></companyId>
+    <city><![CDATA[Curitiba]]></city>
+    <state><![CDATA[Paraná]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[cd23a8a8-4d50-4284-a9cd-f25d271b153a]]></partnerJobId>
     <partnerRequisitionId><![CDATA[cd23a8a8-4d50-4284-a9cd-f25d271b153a]]></partnerRequisitionId>
     <company><![CDATA[Vix Paula Hermanny]]></company>
@@ -114121,6 +114237,26 @@ Estamos à procura de um <strong>Auxiliar de Logística</strong> para integrar n
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vixbrasilvagas/17/auxiliar-de-logistica-temporario?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[11362165]]></companyId>
     <city><![CDATA[Petrópolis]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4eab860e-db53-4ccd-9053-212db1a97398]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[4eab860e-db53-4ccd-9053-212db1a97398]]></partnerRequisitionId>
+    <company><![CDATA[Vix Paula Hermanny]]></company>
+    <title><![CDATA[Extra Natal | Santa Catarina]]></title>
+    <posterEmail><![CDATA[adriano.filho@vixbrasil.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><strong>A ViX está em busca de novos talentos para fazer parte do nosso Extra Natal!</strong><strong><br /></strong>Estamos em busca de profissionais para atuar em nossas lojas durante o período de Extra Natal, apoiando a operação em um momento de maior movimento e fluxo de clientes.<br /><br />As oportunidades contemplam diferentes frentes da operação, como <strong>Vendas, Caixa e Estoque</strong>. A posição será definida de acordo com a experiência, perfil e aderência de cada profissional às necessidades da operação.<br /><br /><b>Nossas Lojas:</b><ul><li>Balneário Shopping</li><li>Santa Catarina Outlet</li><li>Florianópolis</li></ul><br /><br /><strong>Se você procura um lugar onde a criatividade encontra propósito, onde o cuidado com os detalhes é tão importante quanto o cuidado com as pessoas e onde crescer também significa evoluir com consciência, a ViX pode ser o seu próximo mergulho.</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Vendedora</strong><br /><ul><li>Atender clientes de forma consultiva, identificando necessidades e apresentando produtos de acordo com cada perfil;</li><li>Apoiar a organização e apresentação da loja;</li><li>Conhecer produtos, coleções e características da marca;</li><li>Contribuir para o alcance das metas e resultados da loja.</li></ul><strong>Caixa</strong><ul><li>Realizar operações de caixa, pagamentos, trocas e demais processos relacionados à função;</li><li>Conferir e registrar corretamente as vendas;</li><li>Apoiar a organização da loja e o fluxo da operação;</li><li>Contribuir para uma experiência de atendimento alinhada aos padrões da marca.</li></ul><strong>Estoque</strong><ul><li>Receber, conferir, organizar e armazenar produtos;</li><li>Apoiar o abastecimento da loja;</li><li>Realizar movimentações e controles de estoque;</li><li>Manter o estoque organizado e adequado à rotina da operação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior em varejo, atendimento, vendas, caixa ou estoque, de acordo com a posição de interesse;</li><li>Disponibilidade para atuar em escala de varejo, incluindo finais de semana e feriados;</li><li>Disponibilidade para trabalhar durante o período de Extra Natal;</li><li>Boa comunicação e relacionamento interpessoal;</li><li>Organização e atenção aos detalhes;</li><li>Facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Fazer parte do nosso time também é ter acesso a uma experiência pensada para acompanhar você em cada etapa dessa jornada.<br /></b><br /><br />VR:<br />Vale-Transporte;<br />TotalPass;<br />Descontos em instituições de ensino parceiras;<br />Desconto exclusivo nos produtos VIX.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vixbrasilvagas/27/extra-natal-santa-catarina?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11362165]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -114272,6 +114408,26 @@ Estamos à procura de um <strong>Auxiliar de Logística</strong> para integrar n
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[d777912a-a715-49c3-9f2a-f190f023fd90]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[d777912a-a715-49c3-9f2a-f190f023fd90]]></partnerRequisitionId>
+    <company><![CDATA[Vix Paula Hermanny]]></company>
+    <title><![CDATA[Extra Natal | Iguatemi Porto Alegre]]></title>
+    <posterEmail><![CDATA[adriano.filho@vixbrasil.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><strong>A ViX está em busca de novos talentos para fazer parte do nosso Extra Natal!</strong><strong><br /></strong>Estamos em busca de profissionais para atuar em nossas lojas durante o período de Extra Natal, apoiando a operação em um momento de maior movimento e fluxo de clientes.<br /><br />As oportunidades contemplam diferentes frentes da operação, como <strong>Vendas, Caixa e Estoque</strong>. A posição será definida de acordo com a experiência, perfil e aderência de cada profissional às necessidades da operação.<br /><br /><strong>Se você procura um lugar onde a criatividade encontra propósito, onde o cuidado com os detalhes é tão importante quanto o cuidado com as pessoas e onde crescer também significa evoluir com consciência, a ViX pode ser o seu próximo mergulho.</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Vendedora</strong><br /><ul><li>Atender clientes de forma consultiva, identificando necessidades e apresentando produtos de acordo com cada perfil;</li><li>Apoiar a organização e apresentação da loja;</li><li>Conhecer produtos, coleções e características da marca;</li><li>Contribuir para o alcance das metas e resultados da loja.</li></ul><strong>Caixa</strong><ul><li>Realizar operações de caixa, pagamentos, trocas e demais processos relacionados à função;</li><li>Conferir e registrar corretamente as vendas;</li><li>Apoiar a organização da loja e o fluxo da operação;</li><li>Contribuir para uma experiência de atendimento alinhada aos padrões da marca.</li></ul><strong>Estoque</strong><ul><li>Receber, conferir, organizar e armazenar produtos;</li><li>Apoiar o abastecimento da loja;</li><li>Realizar movimentações e controles de estoque;</li><li>Manter o estoque organizado e adequado à rotina da operação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior em varejo, atendimento, vendas, caixa ou estoque, de acordo com a posição de interesse;</li><li>Disponibilidade para atuar em escala de varejo, incluindo finais de semana e feriados;</li><li>Disponibilidade para trabalhar durante o período de Extra Natal;</li><li>Boa comunicação e relacionamento interpessoal;</li><li>Organização e atenção aos detalhes;</li><li>Facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Fazer parte do nosso time também é ter acesso a uma experiência pensada para acompanhar você em cada etapa dessa jornada.<br /></b><br /><br />VR;<br />Vale-Transporte;<br />TotalPass;<br />Descontos em instituições de ensino parceiras;<br />Desconto exclusivo nos produtos VIX.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vixbrasilvagas/25/extra-natal-iguatemi-porto-alegre?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11362165]]></companyId>
+    <city><![CDATA[Porto Alegre]]></city>
+    <state><![CDATA[Rio Grande do Sul]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[9fb27d1a-66ca-43d8-9451-b196c659e889]]></partnerJobId>
     <partnerRequisitionId><![CDATA[9fb27d1a-66ca-43d8-9451-b196c659e889]]></partnerRequisitionId>
     <company><![CDATA[Vix Paula Hermanny]]></company>
@@ -114321,6 +114477,26 @@ Estamos à procura de um <strong>Auxiliar de Logística</strong> para integrar n
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vixbrasilvagas/11/estoquista-iguatemi-ribeirao-preto?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[11362165]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[58715a52-297d-44e5-ad31-40e0a9c4b7ba]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[58715a52-297d-44e5-ad31-40e0a9c4b7ba]]></partnerRequisitionId>
+    <company><![CDATA[Vix Paula Hermanny]]></company>
+    <title><![CDATA[Estoquista | Extra Natal | São Paulo]]></title>
+    <posterEmail><![CDATA[adriano.filho@vixbrasil.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>A VIX está em busca de novos talentos para fazer parte do nosso Extra Natal!</b><b><br /></b>Estamos em busca de <b>Estoquista </b>para atuar em nossas lojas durante o período de Extra Natal, apoiando a operação em um momento de maior movimento e fluxo de clientes.<br /><br />A posição será responsável pela <b>organização do estoque, recebimento e movimentação de mercadorias, reposição de produtos e suporte à equipe de Vendas,</b> contribuindo para a agilidade da operação e para a disponibilidade dos produtos em loja.<br /><br /><br /><b>Nossas Lojas:</b><br /><ul><li>Iguatemi</li><li>Pátio Higienópolis</li><li>JK Iguatemi</li><li>Catarina Fashion Outlet</li><li>Boa Vista Village </li><li>Iguatemi Ribeirão Preto</li><li>Iguatemi Campinas</li></ul><br /><br /><br /><br /><strong>Se você procura um lugar onde a criatividade encontra propósito, onde o cuidado com os detalhes é tão importante quanto o cuidado com as pessoas e onde crescer também significa evoluir com consciência, a ViX pode ser o seu próximo mergulho.</strong><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Manter a loja e o estoque limpos, organizados e adequados à operação;</li><li>Atender às solicitações das equipes, prestando apoio às demandas necessárias para o bom funcionamento da loja;</li><li>Realizar o recebimento, a conferência e a separação de mercadorias;</li><li>Apoiar a equipe de Vendas no encaminhamento e abastecimento de produtos do estoque para a loja;</li><li>Zelar pela conservação e apresentação dos produtos, garantindo que estejam em condições adequadas para exposição em vitrine e área de vendas;</li><li>Apoiar a equipe nas demais atividades relacionadas à organização e à rotina da loja.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Organização; </li><li>Proatividade;</li><li>Senso de urgência:</li><li>Trabalho em equipe;</li><li>Escuta ativa. </li></ul><br /><br /><br /><b>Benefícios</b><br /><br />Fazer parte do nosso time também é ter acesso a uma experiência pensada para acompanhar você em cada etapa dessa jornada.<br /><br /><br />VR/VA:<br />Vale-Transporte;<br />TotalPass;<br />Descontos em instituições de ensino parceiras;<br />Desconto exclusivo nos produtos VIX.<br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vixbrasilvagas/23/estoquista-extra-natal-sao-paulo?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11362165]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
