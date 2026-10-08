@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 08 Oct 2026 15:16:01 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 16:16:17 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[4099]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4100]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerRequisitionId>
@@ -1275,26 +1275,6 @@ Salário + Produtividade;</li></ul>]]></description>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />O Coordenador de Desenvolvimento de Software será o facilitador e líder estratégico do time responsável pelo Smart Harness, plataforma que integra ambiente de desenvolvimento (VS Code, CLI) e agentes de IA em um ecossistema construído majoritariamente em Go, com componentes complementares em .NET (serviço de autenticação) e Angular/TypeScript (frontend e extensão VS Code). <br />Sua missão é garantir a entrega coesa entre squads que atuam em diferentes camadas do produto — CLI, agentes, autenticação e frontend —, conectando visão de arquitetura, segurança e experiência do desenvolvedor à entrega contínua de valor. <br />No dia a dia, será responsável por gerir talentos, remover impedimentos, garantir qualidade e consistência arquitetural entre os serviços, e assegurar que a integração com Identity/RAC e pipelines de release funcione de forma confiável..<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Coordenar e liderar as squads responsáveis pelos componentes do Smart Harness, majoritariamente em Go, UI Angular e extensão VS Code.</li><li>Planejar, acompanhar e reportar projetos, metas e indicadores de desempenho do time.</li><li>Garantir consistência arquitetural e qualidade entre serviços em Go e componentes complementares em .NET e Angular/TypeScript, incluindo padrões de segurança, observabilidade e resiliência.</li><li>Acompanhar a orquestração e o ciclo de release da plataforma (Docker Compose, pipelines Azure DevOps, empacotamento e distribuição da extensão VS Code).</li><li>Zelar pela integridade dos fluxos de autenticação e autorização (OAuth/OIDC via Fluig Identity, integração com RAC), garantindo segurança sem comprometer a experiência do desenvolvedor.</li><li>Atuar na priorização técnica e na gestão de backlog em conjunto com stakeholders e outras áreas da companhia.</li><li>Conduzir a gestão de pessoas: acompanhamento de desempenho, feedback contínuo e PDIs.</li><li>Promover boas práticas de engenharia, DevOps, testes automatizados e documentação viva (wiki de arquitetura por repositório).</li><li> Apoiar decisões técnicas com visão de negócio, escalabilidade e sustentabilidade da plataforma.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Formação em Ciência da Computação, Engenharia de Computação/Software, Sistemas de</li><li>Informação ou Análise e Desenvolvimento de Sistemas.</li><li>Experiência sólida em desenvolvimento de software com Go (stack majoritária do time); vivência complementar em .NET/C# ou Angular/TypeScript é um diferencial, dado o caráter poliglota do time.</li><li>• Vivência em arquiteturas orientadas a serviços, containers (Docker) e orquestração local/CI (Docker Compose, pipelines Azure DevOps ou similares).</li><li>Conhecimento em fluxos de autenticação/autorização (OAuth2, OIDC, JWT) e integração com</li><li>provedores de identidade.</li><li>Experiência prévia em liderança ou coordenação de times técnicos (histórico de migração de IC</li><li>para liderança é desejável).</li><li>Capacidade de atuar com múltiplas squads e integrações entre diferentes camadas de um produto</li><li>(frontend, backend, ferramentas de desenvolvedor).</li><li>Comunicação clara, visão sistêmica e orientação a resultados.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12244/tech-coordenacao-de-desenvolvimento-de-software-inteligencia-artificial?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[7bf03193-954d-4e15-a464-9928b41a949a]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[7bf03193-954d-4e15-a464-9928b41a949a]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Tech Lead]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Líder Técnico com sólida experiência em projetos de Inteligência Artificial e Inteligência de Dados para atuar na liderança técnica de squads multidisciplinares. Essa pessoa será responsável por garantir a qualidade das entregas técnicas, desenvolver soluções e contribuir com a governança dos projetos e clientes.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Implementar e dar suporte a soluções baseadas em inteligência artificial e automação de processos;</li><li>Garantir a qualidade do desenho e entrega de soluções com IA;</li><li>Atuar na identificação de oportunidades de uso de IA para otimização de serviços e rotinas operacionais nos clientes;</li><li>Colaborar com equipes multidisciplinares (negócio, tecnologia e operação) na definição de requisitos e entrega de projetos;</li><li>Garantir a integração de ferramenta de IA com sistemas corporativos e outras ferramentas;</li><li>Monitorar o desempenho das soluções implantadas, realizando ajustes e melhorias contínuas;</li><li>Elaborar documentação técnica e relatórios de acompanhamento das entregas;</li><li>Apoiar na disseminação de conhecimento sobre o uso de IA dentro da organização.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino superior completo em Engenharia da Computação, Ciência da Computação, Sistemas de Informação ou áreas correlatas;</li><li>Cursos profissionais (IA);</li><li>Cursos profissionais (Protheus);</li><li>Conhecimento e experiência com o ERP TOTVS Protheus (Framework e ADVPL);</li><li>Experiência comprovada em desenvolvimento de software/sistemas corporativos;</li><li>Conhecimento sólido em ferramentas/plataformas (Machine Learning, IA Generativa, LLM, GPT ou Gemini);</li><li>Conhecimento sólido em banco de dados;</li><li>Conhecimento em linguagens Python, JavaScript e ADVPL;</li><li>Conhecimento em conceitos de NLP (Processamento de Linguagem Natural) e Computer Vision, quando aplicável;</li><li>Conhecimento em extração, transformação e carga de dados (ETL) aplicados a pipelines de IA - desejável;</li><li>Conhecimento em ferramentas e serviços de nuvem (AWS, Azure ou GCP);</li><li>Experiência com arquitetura de APIs, microsserviços e integração com sistemas diversos.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12246/tech-tech-lead?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -5276,26 +5256,6 @@ Pós-graduação na área de Marketing, Negócios ou similares;</li><li>Habilida
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Contribuir diretamente na implantação e sustentação de softwares para clientes e projetos da TOTVS, garantindo a satisfação do cliente e o sucesso do projeto.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Configurar o sistema conforme necessidades específicas de cada cliente, com o apoio do Product Owner.</li><li>Realizar atendimento de implantação via reuniões virtuais, e-mail ou telefone, com possibilidade de viagens, seguindo processos estabelecidos pela área.</li><li>Sustentar ambientes digitais durante os projetos, incluindo gestão de incidentes e análise de logs.</li><li>Garantir a validação de soluções alinhadas às necessidades do cliente.</li><li>Elaborar documentações, incluindo manuais de uso e procedimentos para trocas de versão.</li><li>Preparar e ministrar treinamentos aos clientes.</li><li>Realizar trocas de versão nos ambientes de clientes.</li><li>Manter comunicação frequente com clientes e áreas internas, informando sobre o progresso das demandas por e-mail, calls e registros em sistema.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Inglês fluente, com conforto para conduzir reuniões neste idioma.</li><li>Flexibilidade de horário para atender clientes no fuso horário da Europa e Indonésia (planejadamente).</li><li>Habilidades interpessoais: Boa comunicação oral e escrita trabalho em equipe.</li><li>Formação: Graduação completa (preferencialmente em áreas relacionadas ao segmento de atuação).</li><li>Experiência em implantação de software</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11939/servicos-analista-de-implantacao-pleno?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[0f3a15db-4e21-4df1-aba8-47549eaf425d]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[0f3a15db-4e21-4df1-aba8-47549eaf425d]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Especialista em Engenharia de Software - iPaaS]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Liderar tecnicamente o desenho, a construção e a sustentação de fluxos de integração utilizando a plataforma iPaaS. Garantir a conectividade eficiente, segura e escalável entre múltiplos ecossistemas (ERPs, CRMs, E-commerces e plataformas de terceiros), traduzindo regras de negócio complexas em soluções de integração de alto desempenho.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<br /><ul><li>Desenhar, configurar e orquestrar diagramas e fluxos de integração complexos dentro da plataforma iPaaS.<br /></li><li>Realizar o mapeamento de dados (De-Para) e a transformação de formatos (JSON, XML, CSV, Base64, etc.) entre sistemas de origem e destino.<br /></li><li>Configurar e consumir APIs REST, SOAP, Webhooks e atuar com componentes de banco de dados (JDBC).<br /></li><li>Atuar com componentes de mensageria assíncrona (Kafka, Google Pub/Sub, SQS, RabbitMQ) embarcados na plataforma.<br /></li><li>Realizar troubleshooting avançado (análise de logs, rastreabilidade de mensagens com erro e reprocessamento).<br /></li><li>Interagir com áreas de negócio, arquitetos e clientes (internos ou externos) para levantamento de requisitos de integração.<br /></li><li>Atuar como referência técnica para Analistas I e II, disseminando boas práticas de construção e governança no iPaaS.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li><b>Formação Acadêmica:</b> Ensino Superior completo em Tecnologia da Informação, Engenharia de Software, Sistemas de Informação ou áreas correlatas.<br /></li><li><b>Experiência com iPaaS:</b> Sólida experiência comprovada no uso de plataformas iPaaS (TOTVS iPaaS, Boomi, MuleSoft, Sensedia, etc.) para orquestração de serviços.<br /></li><li><b>APIs e Web Services:</b> Domínio absoluto na criação e consumo de APIs RESTful e serviços SOAP, com profundo entendimento de verbos HTTP e códigos de status.<br /></li><li><b>Bancos de Dados:</b> Conhecimento avançado em linguagem SQL e conectividade com bancos de dados relacionais.<br /></li><li><b>Lógica e Scripts:</b> Capacidade de escrever scripts e funções customizadas (geralmente em JavaScript, Groovy ou Java) para transformações de dados que a interface visual do iPaaS não cubra.<br /></li><li><b>Mensageria:</b> Experiência prática com arquitetura orientada a eventos e filas.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12025/tech-especialista-em-engenharia-de-software-ipaas?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -46066,6 +46026,26 @@ Facilidade para trabalhar em equipe.</li><br /><br /><b>Benefícios</b><br /><br
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[2a4f8d3c-6370-4d10-952d-f4b116d5fa36]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[2a4f8d3c-6370-4d10-952d-f4b116d5fa36]]></partnerRequisitionId>
+    <company><![CDATA[Bianchini]]></company>
+    <title><![CDATA[Estagiário (a)]]></title>
+    <posterEmail><![CDATA[recrutamento.rg@bianchinisa.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais motivados e comprometidos para se juntarem à nossa equipe.Se você é uma pessoa que gosta de desafios e busca crescer profissionalmente, essa pode ser a oportunidade perfeita para você. Neste cargo, você terá a chance de desenvolver suas habilidades, aprender com profissionais experientes e contribuir para projetos empolgantes. <br />Se você é proativo, possui espírito de equipe e está em busca de novos desafios, venha fazer parte do nosso time. <br />Aplique agora e Faça parte dessa jornada de crescimento e sucesso<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Buscamos um profissional dedicado para oferecer suporte aos nossos colaboradores na gestão de documentos relacionados à saúde do trabalho. Você será responsável por garantir que toda a documentação esteja atualizada e organizada, agendar Exames de Saúde Ocupacional (ASO), ajudar na organização do ambiente de trabalho, manter o arquivo digital de documentos e realizar a digitação de registros e controles.<br /><br /><b>Requisitos e qualificações</b><br /><br />Técnico em Enfermagem em andamento<br /><br /><b>Benefícios</b><br /><br />• Vale-alimentação<br />• Refeitório no local<br />• Transporte fretado]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bianchinivagas/270/estagiario-a?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[1352906]]></companyId>
+    <city><![CDATA[Rio Grande]]></city>
+    <state><![CDATA[Rio Grande do Sul]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[a8071e77-2e79-48d0-b90e-d6fc641e1da6]]></partnerJobId>
     <partnerRequisitionId><![CDATA[a8071e77-2e79-48d0-b90e-d6fc641e1da6]]></partnerRequisitionId>
     <company><![CDATA[Bianchini]]></company>
@@ -50797,6 +50777,26 @@ Organização e atenção aos detalhes;</li><br /><br /><b>Benefícios</b><br />
     <companyId><![CDATA[99384]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0f50897a-4668-46a3-bf3b-1f5ed1218a6e]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[0f50897a-4668-46a3-bf3b-1f5ed1218a6e]]></partnerRequisitionId>
+    <company><![CDATA[Concremat]]></company>
+    <title><![CDATA[Auxiliar de Desenhista (VAGA inclusiva para pessoas com deficiência)]]></title>
+    <posterEmail><![CDATA[recrutamento@concremat.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você busca uma oportunidade para atuar como <strong>Auxiliar de Desenhista</strong>, contribuindo para a elaboração e organização de projetos de redes de gás natural?Nesta posição, você será responsável por <strong>auxiliar na elaboração e revisão de desenhos em AutoCAD</strong>, preparando plantas, perfis e detalhes conforme os padrões estabelecidos.Entre suas atividades estarão a <strong>inserção de informações de topografia e cadastros de interferências</strong>, além da execução de correções indicadas pela equipe técnica e pelo cliente.Você também atuará no <strong>levantamento de extensões e quantitativos dos projetos</strong>, bem como na organização dos arquivos e controle das revisões dos desenhos.A posição envolverá ainda a <strong>preparação de folhas, conferência de escalas e geração de arquivos em PDF</strong>, garantindo a correta emissão dos documentos dentro dos prazos estabelecidos.Se você deseja desenvolver sua experiência com desenho técnico e projetos de redes de gás natural, venha integrar o nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na elaboração e revisão de desenhos de redes de gás natural em AutoCAD, sob orientação dos projetistas. </li><li>Apoiar a preparação de plantas, perfis e detalhes, conforme os padrões do contrato. </li><li>Inserir informações de topografia e cadastros de interferências nos desenhos. </li><li>Executar correções indicadas pela equipe técnica e pelo cliente. </li><li>Apoiar o levantamento de extensões e quantitativos dos projetos. </li><li>Organizar arquivos e controlar as revisões dos desenhos. </li><li>Preparar folhas, conferir escalas e gerar arquivos em PDF para emissão, atendendo aos prazos estabelecidos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimento prático básico em AutoCAD 2D e interpretação de desenhos técnicos, podendo ter sido adquirido em cursos, projetos acadêmicos ou estágios. </li><li>AutoCAD</li><li>Curso básico de AutoCAD 2D e noções de leitura e interpretação de desenhos técnicos. </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/concremat/1575/auxiliar-de-desenhista-vaga-inclusiva-para-pessoas-com-deficiencia?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[99384]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -61404,7 +61404,7 @@ em Fonoaudiologia.<br /><br /><b>Benefícios</b><br /><br /><ul><li>Totalpass <
     <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
     <title><![CDATA[ENFERMEIRO ADMINISTRATIVO | HMG]]></title>
     <posterEmail><![CDATA[michelle.gomes@labcmi.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional organizado, responsável e com perfil analítico para atuar como <strong>Enfermeiro Administrativo</strong>, contribuindo para a organização e o acompanhamento dos processos administrativos e assistenciais da instituição. É desejável um perfil proativo, comprometido e com boa comunicação, capaz de atuar de forma integrada com as equipes, garantindo o cumprimento dos protocolos, a qualidade dos processos e um atendimento humanizado aos pacientes, acompanhantes e colaboradores.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar leitura e análise crítica diária das ocorrências de enfermagem, garantindo rastreabilidade das informações, alinhamento da equipe e conferência da adequada distribuição de pacientes conforme complexidade assistencial.</li><li>Supervisionar a organização, funcionamento e prontidão dos recursos assistenciais críticos, incluindo carro de emergência, maleta de transporte, equipamentos e cilindros de oxigênio, assegurando conformidade com protocolos institucionais.</li><li>Garantir o controle sistemático de checagens obrigatórias (geladeira, lacres, equipamentos), assegurando registros adequados e acionamento de plano de contingência quando necessário.</li><li>Gerenciar a organização e funcionalidade dos ambientes de apoio (depósito de equipamentos, DML e expurgo), assegurando condições adequadas de armazenamento, higienização e disponibilidade dos recursos.</li><li>Assegurar o gerenciamento seguro de medicamentos e materiais, incluindo controle de validade, reconstituição, reposição e rastreabilidade, em conformidade com normas institucionais e regulatórias.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino superior completo em Enfermagem.<br /><br /><b>Benefícios</b><br /><br /><ul><li>Totalpass</li><li>Vale transporte</li><li>Alimentação no local</li><li>Day off de aniversário</li><li>Plano de saúde</li><li>Plano odontológico.</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional organizado, responsável e com perfil analítico para atuar como <strong>Enfermeiro Administrativo</strong>, contribuindo para a organização e o acompanhamento dos processos administrativos e assistenciais da instituição. É desejável um perfil proativo, comprometido e com boa comunicação, capaz de atuar de forma integrada com as equipes, garantindo o cumprimento dos protocolos, a qualidade dos processos e um atendimento humanizado aos pacientes, acompanhantes e colaboradores.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar leitura e análise crítica diária das ocorrências de enfermagem, garantindo rastreabilidade das informações, alinhamento da equipe e conferência da adequada distribuição de pacientes conforme complexidade assistencial;</li><li>Supervisionar a organização, funcionamento e prontidão dos recursos assistenciais críticos, incluindo carro de emergência, maleta de transporte, equipamentos e cilindros de oxigênio, assegurando conformidade com protocolos institucionais;</li><li>Garantir o controle sistemático de checagens obrigatórias, assegurando registros adequados e acionamento de plano de contingência quando necessário;</li><li>Gerenciar a organização e funcionalidade dos ambientes de apoio, assegurando condições adequadas de armazenamento, higienização e disponibilidade dos recursos;</li><li>Assegurar o gerenciamento seguro de medicamentos e materiais, incluindo controle de validade, reconstituição, reposição e rastreabilidade, em conformidade com normas institucionais e regulatórias;</li><li>Garantir disponibilidade e adequação de recursos materiais para admissões e procedimentos, supervisionando reposição de materiais processados e interface com CME;</li><li>Validar e supervisionar a montagem e liberação de leitos por meio de checklists estruturados, garantindo segurança e prontidão assistencial.</li><li>Coordenar e otimizar os fluxos de admissão, alta e transferências internas, articulando gestão de leitos e garantindo continuidade do cuidado, com atenção especial à dinâmica da UTI neonatal.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino superior completo em Enfermagem. Possuir COREN ativo.<br /><br /><b>Benefícios</b><br /><br /><ul><li>Totalpass</li><li>Vale transporte</li><li>Alimentação no local</li><li>Day off de aniversário</li><li>Plano de saúde</li><li>Plano odontológico.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmicarreira/4510/enfermeiro-administrativo-hmg?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[24910672]]></companyId>
     <city><![CDATA[Salvador]]></city>
@@ -64331,6 +64331,41 @@ Valorizamos a diversidade e acreditamos no potencial de cada pessoa.<br /><br />
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/35/estoquista-crato?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[24859610]]></companyId>
     <city><![CDATA[Crato]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[7bb7dc33-a530-4928-bae3-21fb92fbcb36]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[7bb7dc33-a530-4928-bae3-21fb92fbcb36]]></partnerRequisitionId>
+    <company><![CDATA[Auto Peças Padre Cicero]]></company>
+    <title><![CDATA[ESTAGIÁRIO - FORTALEZA (CE)]]></title>
+    <posterEmail><![CDATA[alice.rodrigues@pecicero.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /> Estamos em busca de um(a) profissional <strong>organizado(a), ágil e atento(a) aos detalhes</strong> para atuar como <strong>Estagiário(a) de Contas a Pagar</strong> em nossa unidade.A função exige <strong>responsabilidade no controle e conferência de documentos financeiros, lançamento de contas e apoio nas rotinas de pagamentos</strong>, contribuindo para a organização e o bom funcionamento do setor financeiro.Se você gosta de <strong>trabalhar em equipe, tem iniciativa, organização e busca crescimento profissional</strong>, essa oportunidade é para você.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
+ <li>Realizar
+     conciliação bancária;</li>
+ <li>Conferir
+     lançamentos financeiros e extratos bancários;</li>
+ <li>Identificar
+     e tratar divergências nos lançamentos;</li>
+ <li>Apoiar
+     nas rotinas de contas a pagar e contas a receber;</li>
+ <li>Organizar
+     documentos e informações financeiras;</li>
+ <li>Apoiar
+     a equipe financeira nas atividades administrativas e de controle.</li>
+</ul><ul>
+</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Habilidades técnicas</b>:<b></b><ul><li>Conhecimento básico de Excel;</li><li>Noções de lançamentos contábeis;</li><li>Organização de documentos e informações financeiras;</li><li>Facilidade para trabalhar com números e planilhas.</li></ul><b>Requisitos e Qualificações</b><br /><ul><li>Estar cursando Contabilidade, Administração, Economia ou áreas afins;</li><li>Conhecimento básico em Excel/Google Planilhas;</li><li>Interesse e afinidade com a área financeira;</li><li>Conhecimentos básicos de rotinas financeiras e/ou contábeis serão considerados um diferencial.</li></ul><ul>
+</ul></li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li><b>Vale Alimentação</b></li><li><b>Incentivo à educação</b>, com apoio para cursos e capacitações</li><li><b>Incentivo à saúde</b>, com acesso ao programa Total Pass (academias)</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/108/estagiario-fortaleza-ce?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[24859610]]></companyId>
+    <city><![CDATA[Fortaleza]]></city>
     <state><![CDATA[Ceará]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -77518,13 +77553,12 @@ Técnico em edificações ou Técnico administrativo;</li><li>Residir
     <posterEmail><![CDATA[milena.barbosa@ctaengenharia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Aqui na nossa empresa, acreditamos que respeito, diversidade e inclusão fazem parte do dia a dia. Não fazemos distinção entre pessoas e valorizamos cada profissional por sua capacidade, talento e dedicação. Todas as nossas vagas são abertas para todos os perfis, incluindo Pessoas com Deficiência (PcD) e pessoas LGBTQIA+, sempre com igualdade de oportunidades e respeito às diferenças.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />•   Monitorar
 o plano de transferência do projeto para operação; <br />•    Participar
-de estudos de riscos (APRs e HAZOPs). <br />•    Preparar
-análise de processo decisório de seleção de alternativas de escopo do projeto;<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação: </b> <ul><li>Engenharias
-de Petróleo, Civil, Mecânica, Elétrica, Eletrônica, de Produção. </li></ul><br /><b>Requisitos:</b><br /><br />•   Experiência
-com projetos do setor de óleo e gás;<br />•   Conhecimento
-básico de Power BI; <br />•   Conhecimento
-básico no Módulo PS do SAP ERP; <br />•   Primavera
-P6 (nível consulta). <br /><br /><br /><b>Benefícios</b><br /><br />Plano de Saúde e Odontológico | Seguro de Vida em Grupo | Vale Refeição ou alimentação | Vale transporte | Parceria com instituição de ensino e idioma]]></description>
+de estudos de riscos; <br />•    Preparar
+análise de processo decisório de seleção de alternativas de escopo do projeto;<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação: </b> <ul><li>Engenharias
+de Petróleo, Civil, Mecânica, Elétrica, Eletrônica, de Produção. </li></ul><br /><b>Requisitos:</b><br /><br /><ul><li>Experiência
+com projetos do setor de óleo e gás;</li><li>Conhecimento em Power BI;</li><li>Conhecimento
+no Módulo PS do SAP ERP;</li></ul><br /><ul><li><b>Experiência em instalações terrestres; </b></li><li>Primavera
+P6 (nível consulta). </li></ul><br /><br /><br /><b>Benefícios</b><br /><br />Plano de Saúde e Odontológico | Seguro de Vida em Grupo | Vale Refeição ou alimentação | Vale transporte | Parceria com instituição de ensino e idioma]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/317/analista-tecnico-de-projetos-afirmativa-pcd?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[14023532]]></companyId>
     <city><![CDATA[Salvador]]></city>
@@ -78203,49 +78237,6 @@ mercado e demais informações que impactem nos negócios da empresa;</li></ul><
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nutriportvagas/25/assistente-administrativo-vendas-internas-pcd?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[16245336]]></companyId>
     <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[5cc61237-302b-4dc9-9493-65afb2154b45]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[5cc61237-302b-4dc9-9493-65afb2154b45]]></partnerRequisitionId>
-    <company><![CDATA[Yosen]]></company>
-    <title><![CDATA[Propagandista Interno]]></title>
-    <posterEmail><![CDATA[catharina.gil@yosen.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar na geração de demanda dos produtos nutracêuticos da Yosen por meio de visitações técnicas realizadas remotamente a prescritores, como médicos, nutricionistas e demais profissionais da saúde, além do relacionamento com pontos de venda estratégicos.<br /><br /><br />A posição tem como foco o desenvolvimento de relacionamento, a educação técnica sobre o portfólio e o fortalecimento da marca, contribuindo para a recomendação dos produtos, o aumento do sell-out e a expansão da presença da Yosen nas regiões sob sua responsabilidade.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar visitações técnicas remotas a médicos, nutricionistas e demais profissionais da saúde.
-</li>
-<li>
-Apresentar o portfólio Yosen, seus diferenciais e materiais técnicos.
-</li>
-<li>
-Desenvolver relacionamento com prescritores, pontos de venda e parceiros estratégicos.
-</li>
-<li>
-Prospectar novos contatos e identificar oportunidades para geração de demanda.
-</li>
-<li>
-Apoiar ações de lançamento, campanhas e iniciativas de relacionamento.
-</li>
-<li>
-Registrar interações e oportunidades no CRM, mantendo a carteira organizada.
-</li>
-<li>
-Compartilhar percepções do mercado e acompanhar indicadores da atuação.</li><li>Participar de eventos, treinamentos e ações promocionais da empresa, quando necessário.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou em andamento em Farmácia, Nutrição, Administração, Marketing, Comunicação ou áreas correlatas.</li><li>Experiência prévia com relacionamento comercial, atendimento, televendas, visitação médica/nutricional, geração de demanda ou áreas relacionadas será um diferencial.</li>
-<li>
-Boa comunicação oral e escrita, com capacidade de adaptar a abordagem a diferentes públicos.
-</li>
-<li>
-Organização, disciplina de rotina e facilidade para gerir carteira e agenda de contatos remotamente.</li></ul><br /><br /><b>Benefícios</b><br /><br /><li>Auxílio combustível ou vale transporte.</li><li>Dia de folga (day off) no mês de aniversário.</li><li>Desconto exclusivo nos produtos da Yosen.</li><li>Convênio Wellhub/Gympass.</li><li>Conexa Saúde e Psicologia Viva (2 consultas grátis de psicoterapia e 2 de nutrição).<br /></li><li>Segunda a sexta-feira, das 8h30 às 17h30 (1h de almoço), no SUPERA - Parque de Inovação e Tecnologia (Av. Drª. Nadir Águiar, 1805 - Jardim Dr. Paulo Gomes Romeo, Ribeirão Preto - SP)</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/yosencarreiras/61/propagandista-interno?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[20475456]]></companyId>
-    <city><![CDATA[Ribeirão Preto]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -117146,6 +117137,26 @@ antes de produção.</li></ul><br /><br /><br /><ul><li>Executar treinamentos op
 de uso. </li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior (em desenvolvimento) em Tecnologia da Informação ou áreas afins.  </li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale alimentação.</li><li>Seguro de vida.</li><li>Plano de saúde coparticipação.</li><li>Convênio odontológico.</li><li>Wellhub (antigo Gympass).</li><li>Programa de Saúde Mental.</li><li>Auxílio Creche.</li><li>Folga aniversário.</li><li>Convênio farmácia.</li><li>Wellz.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimedrondonopolis/12/assistente-de-negocios-em-ti-disponivel-para-pcd?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[86446392]]></companyId>
+    <city><![CDATA[Rondonópolis]]></city>
+    <state><![CDATA[Mato Grosso]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[a8e5ebe0-53d9-4dcd-b53e-d3d9a751a6f9]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[a8e5ebe0-53d9-4dcd-b53e-d3d9a751a6f9]]></partnerRequisitionId>
+    <company><![CDATA[Hospital Dr. Mário Perrone]]></company>
+    <title><![CDATA[Auxiliar de Farmácia - Disponível para PCD]]></title>
+    <posterEmail><![CDATA[janaina.silva@unimedrondonopolis.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Prestar atendimento no que se refere as solicitações de medicamentos e materiais hospitalares, separar e dispensar.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Dispensar (procura, identificação, seleção, preparação) medicamentos e materiais hospitalares, atendendo às requisições médicas.</li><li>Montar e distribuir kits hospitalares e cirúrgicos.</li><li>Fracionar (Corte), selar, etiquetar e embalar comprimidos.</li><li>Guardar e controlar os medicamentos psicotrópicos.</li><li>Controlar a temperatura da geladeira para que os medicamentos armazenados sejam mantidos dentro da faixa estipulada pelo fabricante.</li><li>Arquivar as prescrições e solicitações médicas do dia anterior e separar mensalmente.</li><li>Executar o processo de reposição, armazenamento e controle de estoque dos carrinhos de emergência alocados em todos os setores estratégicos do hospital.</li><li>Receber a devolução de medicamentos e materiais da enfermagem, realizando uma conferência por lote e validade e armazenar no estoque.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Alimentação.</li><li>Plano de saúde com coparticipação.</li><li>Plano Odontológico Uniodonto.</li><li>Convênio Farmácia Unimed Rondonópolis.</li><li>Seguro de Vida.</li><li>Programa Saúde Mental.</li><li>Wellz.</li><li>Auxílio Creche.</li><li>Folga aniversário.</li><li>Wellhub (antigo Gympass).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hospitaldrmarioperrone/15/auxiliar-de-farmacia-disponivel-para-pcd?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[86264362]]></companyId>
     <city><![CDATA[Rondonópolis]]></city>
     <state><![CDATA[Mato Grosso]]></state>
     <country><![CDATA[Brasil]]></country>
