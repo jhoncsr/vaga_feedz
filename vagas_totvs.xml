@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 08 Oct 2026 20:20:40 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 22:15:40 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[4119]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4121]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerRequisitionId>
@@ -1098,6 +1098,80 @@ Salário + Produtividade;</li></ul>]]></description>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3a885748-a7b3-40b5-bbc7-65e0a6fc7e47]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[3a885748-a7b3-40b5-bbc7-65e0a6fc7e47]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Pessoa Desenvolvedora Pleno C# (Vaga afirmativa para Pessoas com Deficiência)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você fará parte do time responsável pelo produto TEF, um ecossistema de soluções que compõem a arquitetura de processamento de pagamentos.Na posição, você terá contato com tecnologias e soluções que participam de toda a jornada de uma transação financeira, desde a captura e processamento até a autorização dos pagamentos, envolvendo diferentes meios, como cartões, QR Codes, códigos de barras, documentos e PIX.É uma oportunidade para atuar em um produto estratégico, conectado diretamente ao ecossistema de pagamentos e às necessidades do varejo.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<br /><ul><li>Analisar requisitos e traduzi-los em soluções técnicas;
+</li>
+<li>
+Identificar riscos, pontos de falha e oportunidades de melhoria;
+</li>
+<li>
+Desenvolver soluções utilizando C++ e C#;
+</li>
+<li>
+Propor soluções para problemas complexos envolvendo integração de sistemas;
+</li>
+<li>
+Participar de revisões de código e contribuir com feedbacks técnicos;
+</li>
+<li>
+Atuar em um ambiente ágil, participando de cerimônias Scrum e utilizando Kanban;
+</li>
+<li>
+Criar documentação e testes confiáveis;
+</li>
+<li>
+Diagnosticar e solucionar problemas utilizando ferramentas de debugging;
+</li>
+<li>
+Participar de atualizações em produção e eventuais plantões, conforme necessidade da operação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino superior completo em áreas relacionadas à Tecnologia;
+</li>
+<li>
+Experiência de 3 a 5 anos;
+</li>
+<li>
+Experiência com desenvolvimento em C++;
+</li>
+<li>
+Conhecimento em Cloud;
+</li>
+<li>
+Conhecimento em banco de dados relacional;
+</li>
+<li>
+Git e versionamento de código;
+</li>
+<li>
+APIs RESTful e Web Services;
+</li>
+<li>
+Docker e containerização;
+</li>
+<li>
+CI/CD, como GitHub Actions, GitLab CI ou Jenkins;
+</li>
+<li>
+Padrões de design, como MVC e SOLID, e Clean Code;
+</li>
+<li>
+Conhecimento em Scrum;</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12648/tech-pessoa-desenvolvedora-pleno-c-vaga-afirmativa-para-pessoas-com-deficiencia?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -2623,6 +2697,26 @@ com uso de IA para geração de códigos</li></ul><br /><br /><b>Benefícios</b>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[8ea95bbf-dc4f-406e-b354-ed6a5284baa3]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[8ea95bbf-dc4f-406e-b354-ed6a5284baa3]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[CS] Analista de Customer Success Junior | Ponto (Remoto)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Analista de Customer Success  para atuar de forma estratégica na gestão de uma carteira de clientes SMB, com nossos produtos de ponto eletrônico, sendo responsável por impulsionar a adoção das soluções, fortalecer o relacionamento executivo e atuar diretamente na retenção e expansão do valor percebido pelos clientes.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar estrategicamente uma carteira de clientes de médio  porte.<br /><br /></li><li>Desenvolver e manter relacionamento com executivos e tomadores de decisão dos clientes, ponto focal RH e Gestão de TI.<br /><br /></li><li>Construir planos de sucesso alinhados aos objetivos de negócio dos clientes.<br /><br /></li><li>Conduzir agendas executivas, comitês e reuniões de acompanhamento com alto nível de consultoria.<br /><br /></li><li>Atuar de forma proativa na identificação e mitigação de riscos de churn.<br /><br /></li><li>Elaborar e executar estratégias para aumento da adoção das soluções e geração de valor contínuo.<br /><br /></li><li>Liderar internamente as demandas dos clientes, envolvendo os stakeholders necessários (Produto, Suporte, Comercial, Implantação, entre outros), sem depender da atuação direta da liderança.<br /><br /></li><li>Influenciar decisões e promover alinhamento entre as áreas para garantir a evolução das iniciativas dos clientes.<br /><br /></li><li>Identificar oportunidades de expansão de relacionamento e geração de novos negócios em parceria com as áreas comerciais.<br /><br /></li><li>Acompanhar indicadores de sucesso do cliente, propondo planos de ação sempre que necessário.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em Customer Success, Customer Experience, Consultoria ou Gestão de Contas Estratégicas. <br /><br /></li><li>Perfil altamente consultivo, analítico e orientado à geração de valor para o cliente.<br /><br /></li><li>Vivência na gestão de médias e/ou grandes contas).<br /><br /></li><li>Conhecimento do mercado de Recursos Humanos (RH),Departamento Pessoal ou tecnologia para RH.<br /><br /></li><li>Capacidade de conduzir negociações e conversas estratégicas em ambientes complexos.<br /><br /></li><li>Elevada autonomia, protagonismo e senso de dono.<br /><br /></li><li>Excelente comunicação verbal e escrita.<br /><br /></li><li>Facilidade para articulação e influência de stakeholders internos e externos.<br /><br /></li><li>Experiência em estratégias de adoção, engajamento, retenção e mitigação de churn. <br /><br /></li><li>Formação superior em Recursos Humanos, Administração, Gestão de Projetos ou áreas correlatas.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12698/cs-analista-de-customer-success-junior-ponto-remoto?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Florianópolis]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[30a9559d-e0d1-47a5-a7d3-a1405f4aca75]]></partnerJobId>
     <partnerRequisitionId><![CDATA[30a9559d-e0d1-47a5-a7d3-a1405f4aca75]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -3348,7 +3442,7 @@ com uso de IA para geração de códigos</li></ul><br /><br /><b>Benefícios</b>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Vendas] Analista Comercial Júnior (afirmativa para pessoas com deficiência)]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Sua missão é garantir suporte total aos Executivos de Vendas (ESN’s) do segmento de Supermercados, sendo o ponto de conexão central entre a área comercial, o cliente e a Fábrica de Software. Buscamos um perfil com alta maturidade, foco em processos e atenção aos detalhes para gerenciar propostas, abertura de tickets e o acolhimento de novos profissionais, transformando a burocracia interna em eficiência de mercado.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><b>Ponte Comercial x Fábrica:</b> Realizar o intermédio entre o time técnico (Fábrica) e os ESN's/Clientes, abrindo e acompanhando rigorosamente tickets de customizações ou chamados de suporte;</li><li>Abertura e acompanhamento de tickets (chamados internos) de assuntos diversos;</li><li><b>Elaboração e Gestão de Propostas:</b> Criar e atualizar propostas comerciais de base com agilidade, a partir das diretrizes dos Executivos(as) ou via e-mail da área;</li><li><b>Onboarding e Acolhimento dos Executivos Comerciais:</b> Apoiar a integração de novos ESN's no time, auxiliando no direcionamento e acompanhamento dos treinamentos corporativos obrigatórios;</li><li><b>Apoio à Gestão Comercial:</b> Monitorar as propostas comerciais no CRM, atualizando o status de cada etapa para garantir previsibilidade nas operações.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo;</li><li>Domínio do GSuite (Google Workspace);</li><li><b>Maturidade profissional:</b> Pessoa comprometida, resiliente e que mantenha uma postura construtiva diante dos desafios, buscando soluções e assumindo protagonismo nas suas entregas.</li><li><b>Disciplina e precisão:</b> Perfil organizado, detalhista e consistente, que valorize a qualidade dos dados e execute atividades com atenção, mesmo quando fazem parte da rotina operacional.</li><li><b>Curiosidade e melhoria de processos:</b> Interesse genuíno por entender como as atividades podem ser realizadas de forma mais simples, eficiente e automatizada, contribuindo com novas ideias para a evolução da área.</li><li><b>Relacionamento e colaboração:</b> Comunicação clara, facilidade para trabalhar em equipe e disposição para apoiar o time comercial e atuar em conjunto com as áreas de tecnologia.</li><li>Disponibilidade para atuar 3x ou mais presencial no nosso escritório em Ribeirão Preto.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Sua missão é garantir suporte total aos Executivos de Vendas (ESN’s) do segmento de Supermercados, sendo o ponto de conexão central entre a área comercial, o cliente e a Fábrica de Software. Buscamos um perfil com alta maturidade, foco em processos e atenção aos detalhes para gerenciar propostas, abertura de tickets e o acolhimento de novos profissionais, transformando a burocracia interna em eficiência de mercado.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Elaborar e divulgar o forecast semanal da produção comercial baseado na extração das propostas do CRM e ancorado por critérios de conversão do funil de vendas;</li><li>Elaborar e acompanhar comunicação, treinamentos e orientar o time comercial;</li><li>Mensurar e incentivar a aderência do time comercial por meio dos reports de resultado;</li><li>Garantir a perpetuidade das atividades sob sua responsabilidade por meio da automatização e da documentação dos processos;</li><li>Participar ativamente dos fechamentos mensais munindo a liderança com informações que apoiem na entrega do resultado.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo, preferencialmente em Administração, Economia, Ciências Contábeis e Engenharia</li><li>Boa capacidade de adaptação a mudanças;</li><li>Perfil analítico e entregas de qualidade;</li><li>Comprometimento com prazos e entregas;</li><li>Experiência prévia em atendimento e relacionamento com clientes internos;</li><li>Conhecimento avançado em Excel, Power Point e nas ferramentas do Google (Google Drive, Docs, Planilhas, etc.); </li><li>Disponibilidade para atuar 3x ou mais presencial no nosso escritório em Ribeirão Preto.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12580/vendas-analista-comercial-junior-afirmativa-para-pessoas-com-deficiencia?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Ribeirão Preto]]></city>
@@ -7945,26 +8039,6 @@ para otimizar estratégias;<br /><br /><b>Responsabilidades e atribuições</b><
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[5ea55993-5f09-438c-b5ec-6148c5a30b98]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[5ea55993-5f09-438c-b5ec-6148c5a30b98]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS NORDESTE]]></company>
-    <title><![CDATA[SDR Outbound - Assistente de Prospecção]]></title>
-    <posterEmail><![CDATA[taynah.mota@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar na prospecção ativa e qualificação de leads para as unidades TOTVS Nordeste, com foco em outbound, contribuindo para a geração de oportunidades consistentes para o time comercial. O Assistente de Prospecção (SDR) será responsável por estruturar cadências, mapear decisores, conduzir abordagens consultivas e garantir um pipeline previsível de reuniões qualificadas — apoiando também demandas pontuais de inbound quando necessário.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Identificar novas oportunidades pesquisando mercados, segmentos e empresas estratégicas.<br /><br /></li><li>Conduzir cadências multicanal (telefone, WhatsApp, e-mail e redes profissionais).<br /><br /></li><li>Qualificar leads com abordagem consultiva utilizando frameworks como SPIN, GPCT e BANT (quando aplicável).<br /><br /></li><li>Mapear decisores, influenciadores e dores prioritárias.<br /><br /></li><li>Registrar todo o histórico no CRM e manter o pipeline organizado e atualizado.<br /><br /></li><li>Acompanhar indicadores do funil: contatos feitos, respostas, reuniões marcadas, no-show e conversões.<br /><br /></li><li>Apoiar campanhas de prospecção e testar novas abordagens para melhorar resultados.<br /><br /></li><li>Participar das reuniões de alinhamento trazendo feedbacks do mercado e das abordagens realizadas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência anterior como SDR, Inside Sales, pré-vendas ou prospecção.<br /><br /></li><li>Habilidade de comunicação persuasiva com escuta ativa.<br /><br /></li><li>Familiaridade com ferramentas de CRM e gestão de pipeline.<br /><br /></li><li>Proatividade, organização e gestão de tempo.<br /><br /></li><li>Inteligência emocional e resiliência para lidar com objeções e rejeições.<br /><br /></li><li>Orientação forte para metas, métricas e resultados.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li></ul><br /><ul><li>Vale refeição e / ou alimentação;</li><li>Vale transporte;</li><li>Seguro de vida;</li><li>Escritório que estimula a criatividade e produtividade;</li><li>Plano de Saúde </li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nordeste/118/sdr-outbound-assistente-de-prospeccao?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[93813687]]></companyId>
-    <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[Ceará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[6362f2d1-a1ff-466d-a378-ac32255beec3]]></partnerJobId>
     <partnerRequisitionId><![CDATA[6362f2d1-a1ff-466d-a378-ac32255beec3]]></partnerRequisitionId>
     <company><![CDATA[TOTVS NORDESTE]]></company>
@@ -12441,59 +12515,6 @@ relacionadas à área.</li></ul><br /><br /><b>Requisitos e qualificações</b><
     <posterEmail><![CDATA[victoria.souza@grupoagromave.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável pelo controle de acesso e apoio à segurança da unidade, garantindo a organização do fluxo de pessoas e veículos e o cumprimento dos procedimentos internos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Controlar a entrada e saída de colaboradores, visitantes, fornecedores e prestadores de serviços conforme as normas internas;</li><li>Manter a guarita organizada, limpa e em condições adequadas de funcionamento;</li><li>Monitorar o fluxo de pessoas e veículos nas áreas de acesso da empresa;</li><li>Realizar o recebimento e direcionamento de correspondências, documentos e pequenos volumes;</li><li>Apoiar na organização do estacionamento e fluxo de veículos na unidade;</li><li>Comunicar imediatamente à liderança situações fora da rotina, ocorrências ou irregularidades identificadas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Fundamental ou Médio completo;</li><li>Desejável experiência anterior com portaria, controle de acesso, atendimento ou atividades similares.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência Médica;</li><li>Assistência Odontológica;</li><li>Seguro de vida em Grupo;</li><li>Auxílio Educação;</li><li>Plano de Carreira;</li><li>Day Off e Cartão Presente;</li><li>Programa Tempo de Casa;</li><li>PPR.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupoagromave/164/agente-de-portaria?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[22331475]]></companyId>
-    <city><![CDATA[Sorriso]]></city>
-    <state><![CDATA[Mato Grosso]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b94ae27d-5cfa-4281-93a0-e16a18bfb857]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[b94ae27d-5cfa-4281-93a0-e16a18bfb857]]></partnerRequisitionId>
-    <company><![CDATA[Agromave]]></company>
-    <title><![CDATA[Auxiliar de Copa & Serviços]]></title>
-    <posterEmail><![CDATA[victoria.souza@grupoagromave.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por apoiar a rotina de atendimento e organização dos ambientes da empresa, garantindo o preparo da copa, salas de reuniões e suporte a eventos internos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Preparar e servir café, água, chás e lanches;
-</li>
-<li>
-Atender colaboradores, clientes e visitantes com cordialidade;
-</li>
-<li>
-Organizar coffee breaks para reuniões, treinamentos e eventos;
-</li>
-<li>
-Preparar e organizar salas de reuniões antes e após os encontros;
-</li>
-<li>
-Manter a copa, utensílios e equipamentos limpos e organizados;
-</li>
-<li>
-Controlar o estoque de produtos da copa e solicitar reposições quando necessário;
-</li>
-<li>
-Apoiar na preparação e organização de eventos internos;
-</li>
-<li>
-Zelar pela organização, conservação e boa apresentação dos ambientes;
-</li>
-<li>
-Cumprir os padrões de higiene, limpeza e organização da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino Médio completo;
-</li>
-<li>
-Organização, responsabilidade e atenção aos detalhes;
-</li>
-<li>
-Cordialidade e disposição para atendimento;
-</li>
-<li>
-Experiência anterior na função será considerada um diferencial.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência Médica;</li><li>Assistência Odontológica;</li><li>Seguro de vida em Grupo;</li><li>Auxílio Educação;</li><li>Plano de Carreira;</li><li>Day Off e Cartão Presente;</li><li>Programa Tempo de Casa;</li><li>PPR.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupoagromave/163/auxiliar-de-copa-servicos?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[22331475]]></companyId>
     <city><![CDATA[Sorriso]]></city>
     <state><![CDATA[Mato Grosso]]></state>
@@ -39574,6 +39595,26 @@ que esperamos:</b>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[b90e93db-cd84-4f91-9c08-4dda0c1a80bf]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[b90e93db-cd84-4f91-9c08-4dda0c1a80bf]]></partnerRequisitionId>
+    <company><![CDATA[Grupo Consulth]]></company>
+    <title><![CDATA[Operador de Cobrança]]></title>
+    <posterEmail><![CDATA[renata.santos@consulth.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Acreditamos no poder das relações humanas para impulsionar soluções estratégicas que transformam negócios. Se você está pronto para fazer parte de uma equipe de alta performance, esta vaga é para você! Vamos conversar? <br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Contato com clientes para negociar valores pendentes.</li><li>Negociação de prazos e parcelamentos com clientes inadimplentes.</li><li>Emissão e envio de boletos e faturas.</li><li>Acompanhamento de inadimplências e atualização de status de cobrança.</li><li>Registro e controle de cobranças realizadas.</li><li>Suporte ao setor financeiro no controle de recebimentos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo ou cursando superior.</li><li>Experiência em cobrança ou atendimento ao cliente.</li><li>Conhecimento em informática (Pacote Office).</li><li>Boa comunicação verbal e escrita.</li><li>Capacidade de negociação, organização e atenção aos detalhes.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b></b><b> </b>Vale refeição  Plano de saúde <br /> DayOff especial de aniversário <br />️‍♂️ Gympass <br /> Vale transporte <br /> Plano odontológico <br /> Parceria com farmácia <br /> Parceria com instituições de ensino <br /> Convênio com clínica de psicologia <br /> Dia da fruta  <br />‍♀️ Ginastica laboral<br />  Auxílio creche<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/facapartedogrupoconsulth/190/operador-de-cobranca?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[104888295]]></companyId>
+    <city><![CDATA[Joinville]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[e2176a5a-019c-4fe7-aa92-b8e45fac0ed4]]></partnerJobId>
     <partnerRequisitionId><![CDATA[e2176a5a-019c-4fe7-aa92-b8e45fac0ed4]]></partnerRequisitionId>
     <company><![CDATA[Grupo Consulth]]></company>
@@ -41594,6 +41635,26 @@ preservação ambiental.</li></ul><br /><br /><b>Requisitos e qualificações</b
     <companyId><![CDATA[80034046]]></companyId>
     <city><![CDATA[Juiz de Fora]]></city>
     <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[397a6435-f574-453e-b5c4-c49c1e8e8b56]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[397a6435-f574-453e-b5c4-c49c1e8e8b56]]></partnerRequisitionId>
+    <company><![CDATA[Shineray do Brasil]]></company>
+    <title><![CDATA[Jovem auxiliar de Manutenção de Veículos]]></title>
+    <posterEmail><![CDATA[jamilysousa@grupobci.rec.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma oportunidade que ofereça um ambiente dinâmico e a chance de fazer parte de uma equipe comprometida com a excelência, temos a vaga ideal para você! Aqui, promovemos um espaço onde todos têm a chance de se desenvolver, aprender e crescer profissionalmente. Valorizamos a dedicação e o entusiasmo, proporcionando um suporte contínuo para que cada colaborador possa brilhar. Ao se juntar a nós, você estará contribuindo para um processo produtivo que é essencial para o nosso sucesso. Se você é uma pessoa motivada e disposta a contribuir, venha conhecer um pouco mais sobre nós e descubra como pode fazer a diferença. Estamos ansiosos para receber seu contato e iniciar essa jornada juntos!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na execução de serviços de manutenção preventiva e corretiva de veículos automotores e motocicletas;<br /><br /></li><li>Realizar inspeções de componentes, identificando possíveis desgastes e avarias;<br /><br /></li><li>Apoiar na desmontagem e montagem de componentes e na substituição de peças;<br /><br /></li><li>Auxiliar na realização de testes de funcionamento de componentes e sistemas;<br /><br /></li><li>Manusear ferramentas, instrumentos e equipamentos utilizados nas atividades de manutenção;<br /><br /></li><li>Zelar pela organização e conservação das ferramentas, equipamentos e ambiente de trabalho;<br /><br /></li><li>Cumprir os procedimentos técnicos e as normas de qualidade, segurança e preservação do meio ambiente.<br /><br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo</li><li>Ter entre 18 a 22 anos</li><li>Ter disponibilidade de horário para atuar 4h diárias no período da manhã</li><li>Ser a primeira oportunidade como jovem aprendiz</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Refeitório no local; </li><li>Seguro de Vida; </li><li>Vale Transporte ou Auxílio Combustível. </li></ul><br /><br /><br /><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashineraydobrasil/207/jovem-auxiliar-de-manutencao-de-veiculos?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[82658351]]></companyId>
+    <city><![CDATA[Cabo de Santo Agostinho]]></city>
+    <state><![CDATA[Pernambuco]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -57469,6 +57530,30 @@ coligadas e controladas, realizar conciliações e auxiliar na preparação de P
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[d63693e1-c4ed-467a-ba27-84eec63c17fd]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[d63693e1-c4ed-467a-ba27-84eec63c17fd]]></partnerRequisitionId>
+    <company><![CDATA[Grupo GEOPAR]]></company>
+    <title><![CDATA[SONDADOR]]></title>
+    <posterEmail><![CDATA[lucivonejorge@cscgeopar.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por operar sondas de perfuração dos tipos hidráulicas e mecânicas para a perfuração de solo e rocha em superfície e subsolo, visando a recuperação dos testemunhos, bem como realizar manutenções e reparos conforme descritos na Matriz de Responsabilidade.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Operar sondas de superfície ou de subsolo, utilizando sondas mecânicas, hidráulicas e sondas rotopneumáticas quando se tratar do método Air Core ou RC. Inspecionar o acesso e o local onde será instalada a sonda e checar todo o equipamento a ser operado.</li><li>Conduzir a instalação dos equipamentos na praça de sondagem, orientando os profissionais durante todo o processo de furo.</li><li>Verificar o preparo do fluido de perfuração (lama) a ser usado nas operações, controlando suas propriedades e observando se o mesmo está em condições apropriadas para a recuperação do testemunho. </li><li>Instruir a equipe da operação na montagem do barrilete, orientando-os quando da sua composição para iniciar as operações de furo.</li><li>Perfurar o solo ou rocha de acordo com as características litológicas de cada área para melhor recuperação do testemunho, perfazendo furos com desvios controlados.</li><li>Orientar os Ajudantes quanto ao preenchimento de todos os campos dos Boletins de Sondagens, apontando metragens perfuradas, material utilizado e atividades realizadas no turno, bem como o nome dos profissionais envolvidos nas operações, para posterior encaminhamento ao Supervisor.</li><li>Informar e receber informações dos turnos de trabalho, relatando todas as ocorrências de manobras, evitando perdas de tempo e, consequentemente, de produtividade.</li><li>Realizar pequenos reparos de manutenção preventiva e corretiva na sonda, mangueira e bombas hidráulicas, acessórios de perfuração (cabeçote do barrilete, alimentadores, alçadores e overshot) e nas trocas de buchas e camisas nas bombas de lama, quando necessário.</li><li>Preencher o formulário de Análise Preliminar de Tarefas (APT) e formulário de Permissão para Trabalhos Especiais (PTE), registrando os dados e as atividades realizadas no dia.</li><li>Verificar o preparo do fluído (lama) a ser usado nas operações, controlando suas propriedades, observando se o mesmo está em condições apropriadas para a lubrificação da broca tricone quando da perfuração do poço.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Fundamental completo. </li><li>Experiência de 6 meses na área de atuação.</li><li>Disponibilidade para residir em alojamentos. </li><li>Disponibilidade para viagens. </li><li>Experiência na área de mineração. </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupogeopar/104/sondador?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[927307]]></companyId>
+    <city><![CDATA[Parauapebas]]></city>
+    <state><![CDATA[Pará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <lowEnd>
+          <amount><![CDATA[2642.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[ba18da99-ae95-4c5c-83e6-7cb096db18c7]]></partnerJobId>
     <partnerRequisitionId><![CDATA[ba18da99-ae95-4c5c-83e6-7cb096db18c7]]></partnerRequisitionId>
     <company><![CDATA[Grupo GEOPAR]]></company>
@@ -60423,10 +60508,10 @@ Assegurar a correta recepção, armazenagem e expedição de peças e acessório
     <partnerJobId><![CDATA[57eb70e5-2c83-4e95-b2ad-1a0f3b7c1582]]></partnerJobId>
     <partnerRequisitionId><![CDATA[57eb70e5-2c83-4e95-b2ad-1a0f3b7c1582]]></partnerRequisitionId>
     <company><![CDATA[Grupo PMZ]]></company>
-    <title><![CDATA[PA03 | AUXILIAR DE ESTOQUE]]></title>
+    <title><![CDATA[PA03 | AUXILIAR DE GARANTIA]]></title>
     <posterEmail><![CDATA[mariane.gomes@grupopmz.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por assegurar a correta recepção de peças e acessórios, o devido acondicionamento e uma eficiente expedição das peças, garantindo a organização e limpeza da área de estoque.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Alocar as peças que chegam de rota, transferências, devoluções, em seus respectivos endereços, e realocar quando necessário;</li><li>Separar peças para vendas e transferências conforme o controle de separação na tela do celular;</li><li>Fazer as rotinas da qualidade através do aplicativo a para garantir o bom funcionamento das normas;</li><li>Periodicamente participa do inventário do estoque confrontando a posição física das peças com as quantidades no sistema, para efeitos de controle e posterior contabilização;</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior;  </li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade;</li><li>Cumprir os procedimentos de estoque da loja;</li><li>Cumprir com os horários e jornadas de trabalho determinada pela loja;</li><li>Atualizar-se quanto aos catálogos e novos produtos;</li><li>Participar de treinamentos de atualização;</li><li>Substituir auxiliar de estoque de outras lojas quando solicitado.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo</li><li>Conhecimentos básicos em informática</li><li>Boa capacidade de organização e controle de estoque</li><li>Agilidade e facilidade no manuseio de mercadorias</li><li>Proatividade e disposição para o trabalho em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte</li><li>Vale refeição</li><li>Trilha de Carreira</li><li>Gratificação por Produtividade</li><li>Desconto em Drogarias</li><li>Desconto nas principais Universidade privadas</li><li>Desconto Sesc</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/440/pa03-auxiliar-de-estoque?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/440/pa03-auxiliar-de-garantia?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[22287656]]></companyId>
     <city><![CDATA[Marituba]]></city>
     <state><![CDATA[Pará]]></state>
@@ -62244,99 +62329,6 @@ Presente aniversário<br />]]></description>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[afe2241e-8d30-49cf-bfc2-e92216734db1]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[afe2241e-8d30-49cf-bfc2-e92216734db1]]></partnerRequisitionId>
-    <company><![CDATA[SIMEROS TECHNOLOGIES]]></company>
-    <title><![CDATA[Engenheiro de Equipamentos Subsea]]></title>
-    <posterEmail><![CDATA[sayonara.numer@simeros.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar no desenvolvimento de produtos e soluções de engenharia para
-sistemas submarinos de produção de óleo e gás, abrangendo desde a concepção até
-a validação experimental e qualificação.O profissional será responsável pelo desenvolvimento de projetos de
-dispositivos e equipamentos subsea, incluindo análise estrutural, definição de
-materiais, especificação de fabricação e acompanhamento de testes, garantindo
-aderência a requisitos técnicos, operacionais e normativos.
-
-
-
-Inclui interface direta com fornecedores, fabricação, montagem e
-validação experimental, bem como disponibilidade para atividades offshore,
-conforme necessidade dos projetos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>    Desenvolver
-  conceitos e projetos detalhados de dispositivos e equipamentos subsea,
-  considerando requisitos funcionais, operacionais e normativos;</li><li>     Realizar
-  análises estruturais e dimensionamento mecânico de componentes e sistemas,
-  incluindo avaliação de esforços, fadiga e vida útil;</li><li>          Desenvolver
-  projetos de unidades experimentais e bancadas de teste, quando aplicável à
-  validação de produtos;</li><li>         Elaborar
-  e revisar documentação técnica de projeto, incluindo memoriais de cálculo,
-  relatórios técnicos, desenhos e especificações;</li><li>    Desenvolver
-  especificações técnicas de fabricação, incluindo materiais, processos,
-  critérios de aceitação e requisitos de qualidade;</li><li>          Elaborar
-  procedimentos técnicos de montagem e testes de validação;</li><li>          Acompanhar
-  e inspecionar a fabricação de componentes e equipamentos junto a
-  fornecedores;</li><li>          Especificar,
-  acompanhar e avaliar montagem e testes de validação (FAT) de equipamentos e
-  sistemas;</li><li>     Avaliar
-  desempenho de equipamentos com base em resultados de testes experimentais e
-  propor melhorias de projeto;</li><li>          Garantir
-  conformidade dos projetos com normas e códigos aplicáveis (DNV, API, ISO,
-  NORSOK, entre outros);</li><li>       Trabalhar
-  em interface com equipes de testes, fabricação e fornecedores para garantir a
-  execução adequada dos projetos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa em Engenharia
-Mecânica ou áreas correlatas. Pós-graduação desejável em sistemas submarinos.</li><li>Experiência comprovada no
-desenvolvimento de dispositivos e equipamentos <i>subsea;</i></li><li>Experiência em projetos mecânicos
-envolvendo análise estrutural e detalhamento técnico;</li><li>Domínio de software CAD 3D (ex.:
-SolidWorks ou similar);</li><li>Experiência com ferramentas de
-simulação numérica (ex.: Abaqus ou similar);</li><li>Conhecimento de materiais
-metálicos e poliméricos;</li><li>Conhecimento de processos de
-fabricação mecânica;</li><li> Inglês avançado (leitura,
-escrita e fala).</li><li>Experiência com aplicação de
-normas offshore (DNV, ISO, API, NORSOK);</li><li>Conhecimento de metodologias de
-qualificação de tecnologia (testes, validação experimental, TRL);</li><li> Experiência com
-acompanhamento de testes experimentais (laboratório ou campo);</li><li>Noções de operação e
-instalação <i>offshore;</i></li><li>Experiência em gestão de projetos
-de engenharia.</li></ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br />
-
-<b>Requisitos indispensáveis:</b><b> </b><ul><li>Disponibilidade para viagens e
-atividades offshore eventuais;</li><li>Disponibilidade para
-acompanhamento de fabricação em fornecedores e execução de testes.</li></ul><br /><br /><b>Benefícios</b><br /><br />Assistência médica<br />Assistência odontológica<br />Convênio com Farmácia<br />Estacionamento<br />Refeitório<br />Vale alimentação<br />Seguro de vida<br />Vale combustível<br />PLR<br />Wellhub (Antigo Gympass)<br />Presente aniversário<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenasimeros/24/engenheiro-de-equipamentos-subsea?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[10808150]]></companyId>
-    <city><![CDATA[Cachoeirinha]]></city>
-    <state><![CDATA[Rio Grande do Sul]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[0dfce955-4b17-4e1c-862b-56005336d844]]></partnerJobId>
     <partnerRequisitionId><![CDATA[0dfce955-4b17-4e1c-862b-56005336d844]]></partnerRequisitionId>
     <company><![CDATA[SIMEROS TECHNOLOGIES]]></company>
@@ -62450,34 +62442,6 @@ de fabricação;</li><li>Língua Inglesa em nível intermediário (leitura);</li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[09a62178-bf52-4ef2-b519-8c3b6ae60fd6]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[09a62178-bf52-4ef2-b519-8c3b6ae60fd6]]></partnerRequisitionId>
-    <company><![CDATA[WR Engenharia]]></company>
-    <title><![CDATA[Técnico em Contratos de Serviço e Compras]]></title>
-    <posterEmail><![CDATA[cecilia.alves@wrengenharia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Realizar os processos de contratação de serviços
-e acompanhar a gestão dos contratos, contribuindo para o atendimento às
-necessidades das obras e para o cumprimento das condições comerciais, técnicas
-e contratuais da empresa<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir processos de cotação e negociação para
-contratação de serviços, visando atender às demandas das obras dentro
-das condições;</li><li>Interagir com as equipes de Obras para realizar
-a equalização técnica das propostas;</li><li>Intermediar a elaboração e formalização dos
-contratos junto ao setor Jurídico;</li><li>Acompanhar a vigência e o encerramento dos
-contratos;</li><li>Realizar os processos de contratação de serviços e o acompanhamento comercial e administrativo dos contratos sob responsabilidade de Suprimentos;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Necessário formação Superior ou Técnica em Engenharia Civil ou áreas correlatas;</li><li>Necessário experiência em atividades relacionadas a Compras, Contratos, Suprimentos ou áreas correlatas;</li><li>Desejável experiência ou conhecimento da rotina de obras e Construção Civil;</li><li>Conhecimento em leitura e interpretação de projetos de engenharia.</li></ul><br /><br /><b>Benefícios</b><br /><br /> Vale-transporte – pra garantir sua ida e volta com tranquilidade.<br />️ Vale-refeição e alimentação – almoço garantido, todo dia!<br /> Participação nos Lucros e Resultados (PLR) – quando a gente cresce junto, todo mundo ganha!<br /> Short Day de aniversário – no seu dia, você é VIP: pode sair até meio-dia pra comemorar do jeitinho que quiser!<br />‍♀️Wellhub (Gympass) <br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/wrengenharia/70/tecnico-em-contratos-de-servico-e-compras?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[24773223]]></companyId>
-    <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[Ceará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[876f8259-fb14-49c9-aedd-2b8957cef0dc]]></partnerJobId>
     <partnerRequisitionId><![CDATA[876f8259-fb14-49c9-aedd-2b8957cef0dc]]></partnerRequisitionId>
     <company><![CDATA[WR Engenharia]]></company>
@@ -62507,26 +62471,6 @@ contratos;</li><li>Realizar os processos de contratação de serviços e o acomp
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/wrengenharia/63/encarregado-de-instalacoes?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[24773223]]></companyId>
     <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[Ceará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[c32484ee-78f3-4b46-9ed5-76cf30dc443d]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[c32484ee-78f3-4b46-9ed5-76cf30dc443d]]></partnerRequisitionId>
-    <company><![CDATA[WR Engenharia]]></company>
-    <title><![CDATA[TÉCNICO(A) EM SEGURANÇA DO TRABALHO]]></title>
-    <posterEmail><![CDATA[cecilia.alves@wrengenharia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar na prevenção de acidentes e na promoção de um ambiente de trabalho seguro no canteiro de obras, garantindo o cumprimento da legislação trabalhista e das Normas Regulamentadoras. Identificar e controlar riscos, orientar as equipes e acompanhar as ações de SST, contribuindo para a segurança dos colaboradores e a continuidade das operações.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Supervisionar e fiscalizar o canteiro de obras para garantir que esteja de acordo com as normas da legislação trabalhista e de segurança, lançamento de eventos de SST no e-social, fiscalizar se os funcionários estão fazendo o uso correto dos EPIs, promover treinamentos e DDS sobre prevenção de acidentes e sobre o uso correto dos EPIs, análise da obra e identificação de riscos, Condução das tratativas de EPC (Equipamento de Proteção Coletiva) da obra.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Necessário formação técnica em Segurança do Trabalho;</li><li>Necessário experiência anterior em canteiros de obras, preferencialmente em obras verticais;</li><li>Desejável conhecimento e domínio das Normas Regulamentadoras (NRs) aplicáveis à construção civil e experiência com gestão de riscos ocupacionais e de segurança em campo;</li><li>Desejável disponibilidade para acompanhamento de obra de shopping, incluindo flexibilidade de horário conforme necessidade da obra.</li></ul><br /><br /><b>Benefícios</b><br /><br /> <strong>Vale-transporte (VT)</strong> – pra garantir sua ida e volta com tranquilidade.<br /> <strong>Vale-cesta</strong> – um benefício para dar aquele reforço no seu dia a dia.<br />️ <strong>Refeição no local</strong> – pra você não precisar se preocupar com o almoço durante a jornada.<br /> <strong>Participação nos Lucros (PL)</strong> – reconhecimento pelo resultado e pelo nosso crescimento juntos.Wellhub (Gympass)<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/wrengenharia/71/tecnico-a-em-seguranca-do-trabalho?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[24773223]]></companyId>
-    <city><![CDATA[Juazeiro do Norte]]></city>
     <state><![CDATA[Ceará]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -68098,66 +68042,6 @@ Efetuar pintura de placas com rolos de espuma, garantindo acabamento adequado e 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[9207a08f-d4a6-45db-939a-d60121316d6a]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[9207a08f-d4a6-45db-939a-d60121316d6a]]></partnerRequisitionId>
-    <company><![CDATA[SCHÜTZ VASITEX]]></company>
-    <title><![CDATA[AUX DE PRODUÇÃO - LR]]></title>
-    <posterEmail><![CDATA[w.oliveira@vasitex.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Executar a operação de retirada do IBC (Intermediate Bulk Container) do interior da grade, apoiando o processo produtivo da Linha RECO, assegurando segurança, organização e cumprimento dos procedimentos operacionais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Executar a retirada do IBC do interior da grade, utilizando ferramentas apropriadas e seguindo os procedimentos estabelecidos.
-
-Realizar a desmontagem dos IBCs, separando corretamente seus componentes conforme orientação do processo produtivo.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio ou Fundamental<br /><br /><b>Benefícios</b><br /><br /><ul>
- <li>Assistência Médica c/
-     coparticipação (titular: mensalidade paga pela empresa/ dependentes:
-     pago pelo colaborador) * Coparticipação é paga, somente quando utilizado.</li>
- <li>Assistência Odontológica
-     (titular: pago pela empresa/ dependentes: pago pelo colaborador)</li>
- <li>Seguro de vida
-     (sem desconto)</li>
- <li>Restaurante na empresa
-     (Sem desconto)</li>
- <li>Cartão Farmácia</li>
- <li>Vale
-     alimentação de 210,00 ou cesta básica.</li>
- <li>Total Pass (Incentivo para
-     prática de exercícios físicos)</li>
- <li>PPE-R
-     (PROGRAMA DE PARTICIPAÇÃO ESPECIAL DOS RESULTADOS)</li>
- <li>Estacionamento gratuito</li>
- <li>Parcerias institucionais com
-     faculdades e escolas de idiomas</li>
- <li>Programa de bolsa de estudos</li>
- <li>Programas de saúde mental</li>
- <li>Médico
-     Assistencial dentro da empresa (Sua saúde é prioridade para nós)</li>
- <li>No seu aniversário: Você
-     ganha um par de ingressos CINEMARK + pipoca e refrigerante, para curtir o
-     seu dia com quem ama.</li>
- <li>Ações de endomarketing
-     como:</li>
- <ul>
-  <li>Material escolar para os
-      filhos até 14 anos</li>
-  <li>Presente de dia
-      das crianças para os filhos até 12 anos</li>
-  <li>Cesta de natal</li>
-  <li>Open house kids</li>
-  <li>E muito mais.</li>
- </ul>
-</ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/schutzvasitex/185/aux-de-producao-lr?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[1867923]]></companyId>
-    <city><![CDATA[Guarulhos]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[3318f22e-47fd-4981-8957-93786e7d8f3e]]></partnerJobId>
     <partnerRequisitionId><![CDATA[3318f22e-47fd-4981-8957-93786e7d8f3e]]></partnerRequisitionId>
     <company><![CDATA[SCHÜTZ VASITEX]]></company>
@@ -73390,7 +73274,7 @@ Ensino Fundamental completo.
     <company><![CDATA[Rede Reis de Supermercados]]></company>
     <title><![CDATA[BANCO DE TALENTOS - FILIAL 29 - BOM VIZINHO]]></title>
     <posterEmail><![CDATA[katharina.rh@supreis.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas talentosas e motivadas para se unirem à nossa equipe em uma emocionante oportunidade profissional! <br /><u><b><i>VAGAS DISPONÍVEIS:</i></b></u><br /><ul><li><b>Auxiliar de supermercado (CAIXA)</b></li><li><b>Auxiliar de Padaria </b></li><li><b>Auxiliar de Açougue</b></li><li><b>Repositor de Mercadorias e Hortifrúti</b></li><li><b>Serviços Gerais </b></li><li><b>Padeiro </b></li><li><b>Encarregados</b></li><li><b>Atendente de Petiscaria </b></li><li><b>Auxiliar de Manipulação de Alimentos </b></li></ul><br /><br /><br />Se você está pronto(a) para dar o próximo passo na sua carreira e deseja fazer parte de um ambiente dinâmico e colaborativo, esta pode ser a chance que você estava esperando. Junte-se a nós e faça parte de uma jornada que transforma o potencial em sucesso. Estamos ansiosos para conhecer pessoas que compartilham nossa visão e entusiasmo!<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Zelar pelo bom funcionamento do equipamento do setor<br />• Ajudar na separação e organização de produtos para exposição;<br />• Informar ao setor responsável sobre irregularidades nos preços ou códigos dos produtos.<br />• Atender clientes com simpatia e resolver dúvidas básicas.<br />• Zelar pela guarda, conservação, limpeza e segurança dos equipamentos, instrumentos e<br />utensílios peculiares ao trabalho, bem como dos locais.<br />• Realizar as atividades previstas para o cargo, atendendo à Missão, Visão e Valores da<br />organização.<br />• Cumprir as normas de segurança do trabalho da empresa, utilizando os EPI’s (equipamentos<br />de proteção individual) e EPC’s (equipamentos de proteção coletiva) necessários para a<br />função, zelando pela sua integridade física e de todos os colaboradores.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental ou médio completo </li><li>Disponibilidade de horário</li><li>Ética e responsabilidade</li><li>Iniciativa </li><li>Proatividade</li><li>Capacidade de multitarefas e organização. </li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Alimentação </li><li>Prémio Assiduidade </li><li>Convênio UNIDONTO NACIONAL</li><li>Convênio Universidades</li><li>Universidade Cooporativa</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas talentosas e motivadas para se unirem à nossa equipe em uma emocionante oportunidade profissional! <br /><u><b><i>VAGAS DISPONÍVEIS:</i></b></u><br /><ul><li><b>Auxiliar de supermercado (CAIXA)</b></li><li><b>Auxiliar de Padaria </b></li><li><b>Auxiliar de Açougue</b></li><li><b>Repositor de Mercadorias e Hortifrúti</b></li><li><b>Serviços Gerais </b></li><li><b>Padeiro </b></li><li><b>Encarregados</b></li><li><b>Atendente de Petiscaria </b></li><li><b>Auxiliar de Manipulação de Alimentos </b></li></ul><br /><br /><br />Se você está pronto(a) para dar o próximo passo na sua carreira e deseja fazer parte de um ambiente dinâmico e colaborativo, esta pode ser a chance que você estava esperando. Junte-se a nós e faça parte de uma jornada que transforma o potencial em sucesso. Estamos ansiosos para conhecer pessoas que compartilham nossa visão e entusiasmo!<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Zelar pelo bom funcionamento do equipamento do setor<br />• Ajudar na separação e organização de produtos para exposição;<br />• Informar ao setor responsável sobre irregularidades nos preços ou códigos dos produtos.<br />• Atender clientes com simpatia e resolver dúvidas básicas.<br />• Zelar pela guarda, conservação, limpeza e segurança dos equipamentos, instrumentos e<br />utensílios peculiares ao trabalho, bem como dos locais.<br />• Realizar as atividades previstas para o cargo, atendendo à Missão, Visão e Valores da<br />organização.<br />• Cumprir as normas de segurança do trabalho da empresa, utilizando os EPI’s (equipamentos<br />de proteção individual) e EPC’s (equipamentos de proteção coletiva) necessários para a<br />função, zelando pela sua integridade física e de todos os colaboradores.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental ou médio completo </li><li>Disponibilidade de horário</li><li>Ética e responsabilidade</li><li>Iniciativa </li><li>Proatividade</li><li>Capacidade de multitarefas e organização. </li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Alimentação </li><li>Prémio Assiduidade </li><li>Convênio UNIDONTO NACIONAL</li><li>Convênio Universidades</li><li>Universidade Cooporativa</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasredereis/17/banco-de-talentos-filial-29-bom-vizinho?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[64786094]]></companyId>
     <city><![CDATA[Itumbiara]]></city>
@@ -99675,6 +99559,26 @@ quando necessário.</li></ul><br /><br /><b>Requisitos e qualificações</b><br 
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[cd68f883-f015-47b1-a392-f6a48d5434cf]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[cd68f883-f015-47b1-a392-f6a48d5434cf]]></partnerRequisitionId>
+    <company><![CDATA[EMBRATOP GEO TECNOLOGIAS LTDA]]></company>
+    <title><![CDATA[Vendedor]]></title>
+    <posterEmail><![CDATA[rh@embratop.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />No dia a dia, suas principais responsabilidades serão:<ul><li>Prospectar novos clientes e realizar visitas a empresas e escritórios técnicos.</li><li>Apresentar soluções e realizar demonstrações dos equipamentos.</li><li>Elaborar propostas comerciais, conduzir negociações e acompanhar todo o ciclo de vendas.</li><li>Manter um relacionamento próximo com a carteira de clientes e identificar novas oportunidades de negócios.</li><li>Participar de eventos, feiras e ações comerciais da empresa.</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Experiência em vendas externas ou representação comercial, preferencialmente no segmento de tecnologia.</li><li>Boa comunicação, habilidade de negociação e facilidade para construir relacionamentos com diferentes perfis de clientes.</li><li>Capacidade de apresentar soluções técnicas de forma clara e objetiva.</li><li>Organização para gerenciar visitas, propostas e metas comerciais.</li><li>Autonomia para planejar a rotina e foco em resultados.</li><li>Ensino superior em Gestão Comercial, Engenharia Cartográfica, Agrimensura ou áreas afins.</li><li>Disponibilidade para realizar visitas a clientes na região.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimentos básicos em topografia, geoprocessamento, mapeamento ou áreas correlatas.</li><li>Interesse em aprender e se desenvolver na comercialização de soluções em SLAM.</li><li>Habilitação B ativa e regularizada.</li><li>Disponibilidade para viagens.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheaquiembratop/6/vendedor?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11268019]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[0205d8aa-015f-4ff1-bc6b-4c780669fb5b]]></partnerJobId>
     <partnerRequisitionId><![CDATA[0205d8aa-015f-4ff1-bc6b-4c780669fb5b]]></partnerRequisitionId>
     <company><![CDATA[EMBRATOP GEO TECNOLOGIAS LTDA]]></company>
@@ -104495,34 +104399,6 @@ Foco na qualidade do atendimento.</li></ul><br /><br /><b>Benefícios</b><br /><
         </highEnd>
         <lowEnd>
           <amount><![CDATA[3173.99]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[df5d947a-44fe-4c8d-8cc1-a91645aa42b4]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[df5d947a-44fe-4c8d-8cc1-a91645aa42b4]]></partnerRequisitionId>
-    <company><![CDATA[Multivix]]></company>
-    <title><![CDATA[Auxiliar de Coordenação III - Exclusivo para pessoas com deficiência [PCD]]]></title>
-    <posterEmail><![CDATA[luana.angelo@multivix.edu.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade que possa impulsionar sua carreira e proporcionar um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, acreditamos que cada colaborador(a) é fundamental para o sucesso coletivo e valorizamos a troca de ideias e a colaboração. Neste papel, você terá a chance de se desenvolver em um ambiente que incentiva a inovação e a proatividade, além de trabalhar ao lado de profissionais experientes que estão sempre dispostos a compartilhar conhecimentos. Se você é alguém que busca desafios e deseja contribuir para o crescimento de uma organização que preza pelo desenvolvimento de todos os seus integrantes, não perca a oportunidade de se candidatar. Venha construir uma trajetória de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento ao aluno; </li><li>Afixar avisos referente às aulas nos murais; </li><li>Realizar impressão de provas; </li><li>Preparar as capas de provas dos cursos e imprimir as atas; </li><li>Acompanhar e aplicar prova quando necessário, contratar fiscais; </li><li>Auxiliar na distribuição de provas; </li><li>Entrar em contato com alunos através de canais de atendimento; </li><li>Fazer o controle de luzes, ar-condicionados, janelas e portas ao fim do expediente; </li><li>Receber documentos de estágio e atestados; </li><li>Entre outras demandas do setor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Pacote Office básico; </li><li>Experiência com atendimento.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale alimentação </li><li>Vale-transporte </li><li>Plano odontológico </li><li>Plano de saúde coparticipativo</li><li>Seguro de vida </li><li>Telemedicina </li><li>Desconto sindical de até 70% em cursos de graduação ou pós-graduação na unidade Multivix em que a(o) colaboradora/colaborador atua.</li></ul><br /><br /><b>Jornada de Trabalho: de segunda a sexta-feira de 12h00 às 22h00; sábados alternados.</b><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/multivix/48/auxiliar-de-coordenacao-iii-exclusivo-para-pessoas-com-deficiencia-pcd?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[5253015]]></companyId>
-    <city><![CDATA[Vitória]]></city>
-    <state><![CDATA[Espírito Santo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[2210.32]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2210.32]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
@@ -111128,7 +111004,7 @@ no ponto de venda.<br /><br /><b>Responsabilidades e atribuições</b><br /><br 
     <company><![CDATA[Comercial Amazônia de Petróleo Ltda]]></company>
     <title><![CDATA[CAIXA RODOVIA ( Posto Amazonia 40 - Rodovia BR 364)]]></title>
     <posterEmail><![CDATA[rhgerencia@amazoniapetroleo.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /> VAGA: CAIXA RODVIA<br /><br /><b>stamos contratando Caixa para atuar em nossa unidade localizada em rodovia. O profissional será responsável pelo atendimento aos clientes, operação e fechamento do caixa, recebimento de pagamentos, conferência de valores, emissão de cupons e notas fiscais, além de manter a organização do ambiente e apoiar nas demais atividades da unidade quando necessário. Buscamos uma pessoa responsável, organizada, ágil, atenciosa e com boa comunicação, que tenha facilidade para trabalhar em equipe e disponibilidade para atuar em escala. Experiência com atendimento ao cliente e operação de caixa será um diferencial.</b><br /><br /> LOCAL DE TRABALHO<br />Amazônia Petróleo – Unidade 40<br /> Rodovia BR-364, S/N- KM 368 Sentido Rondonopólis - Cuiabá MT, lado Direito  <br /><br />✅ Escala: 12x36<br /><br /> Venha fazer parte do time Amazônia Petróleo!#Vagas #AmazôniaPetróleo #Frentista #Cuiabá #Bairrodistrito #VagasDeEmprego #Emprego #Oportunidade #EstamosContratando #Recrutamento #RH #TrabalheConosco<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Receber pagamentos diversos;<br />Emitir notas fiscais e cupons fiscais;<br />Controlar numerários;<br />Realizar o fechamento de caixa, prestando contas dos valores recebidos;<br />Auxiliar no abastecimento de veículos, quando necessário.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Receber pagamentos diversos;<br />Emitir notas fiscais e cupons fiscais;<br />Controlar numerários;<br />Realizar o fechamento de caixa, prestando contas dos valores recebidos;<br />Auxiliar no abastecimento de veículos, quando necessário.<br /><br /><br /><b>Benefícios</b><br /><br />Vale - CombustívelVale Alimentação / Refeição ( conforme política vigente)<br />Plano Odontológico<br />Convênio com faculdades, desconto de até 60%<br />Programa de Bonificação por produtividade<br />Oportunidade de crescimento interno<br />Ambiente estruturado e seguro para o trabalho<br /><br /><br /><br /><br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br /> VAGA: CAIXA RODVIA<br /><br />Estamos contratando Caixa para atuar em nossa unidade localizada em rodovia. O profissional será responsável pelo atendimento aos clientes, operação e fechamento do caixa, recebimento de pagamentos, conferência de valores, emissão de cupons e notas fiscais, além de manter a organização do ambiente e apoiar nas demais atividades da unidade quando necessário. Buscamos uma pessoa responsável, organizada, ágil, atenciosa e com boa comunicação, que tenha facilidade para trabalhar em equipe e disponibilidade para atuar em escala. Experiência com atendimento ao cliente e operação de caixa será um diferencial.<br /><br /> LOCAL DE TRABALHO<br />Amazônia Petróleo – Unidade 40<br /> Rodovia BR-364, S/N- KM 368 Sentido Rondonopólis - Cuiabá MT, lado Direito  <br /><br />✅ Escala: 12x36<br /><br /> Venha fazer parte do time Amazônia Petróleo!#Vagas #AmazôniaPetróleo #Frentista #Cuiabá #Bairrodistrito #VagasDeEmprego #Emprego #Oportunidade #EstamosContratando #Recrutamento #RH #TrabalheConosco<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Receber pagamentos diversos;<br />Emitir notas fiscais e cupons fiscais;<br />Controlar numerários;<br />Realizar o fechamento de caixa, prestando contas dos valores recebidos;<br />Auxiliar no abastecimento de veículos, quando necessário.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Receber pagamentos diversos;<br />Emitir notas fiscais e cupons fiscais;<br />Controlar numerários;<br />Realizar o fechamento de caixa, prestando contas dos valores recebidos;<br />Auxiliar no abastecimento de veículos, quando necessário.<br /><br /><br /><b>Benefícios</b><br /><br />Vale - CombustívelVale Alimentação / Refeição ( conforme política vigente)<br />Plano Odontológico<br />Convênio com faculdades, desconto de até 60%<br />Programa de Bonificação por produtividade<br />Oportunidade de crescimento interno<br />Ambiente estruturado e seguro para o trabalho<br /><br /><br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/amazoniapetroleo/45/caixa-rodovia-posto-amazonia-40-rodovia-br-364?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[99857112]]></companyId>
     <city><![CDATA[Cuiabá]]></city>
@@ -111437,6 +111313,54 @@ Rua Santos Costa, n°1566 – RIBEIRAO DO LIPA, Cuiabá – MT<br /><br />✅ Es
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/amazoniapetroleo/22/frentista-posto-amazonia-09-bairro-boa-esperanca?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[99857112]]></companyId>
     <city><![CDATA[Cuiabá]]></city>
+    <state><![CDATA[Mato Grosso]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[fc800336-c55b-4f16-98b8-c88ee79c4e62]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[fc800336-c55b-4f16-98b8-c88ee79c4e62]]></partnerRequisitionId>
+    <company><![CDATA[Comercial Amazônia de Petróleo Ltda]]></company>
+    <title><![CDATA[FRENTISTA ( Posto Amazonia 44 - Rodovia BR 163/364 - Jangada- MT)]]></title>
+    <posterEmail><![CDATA[rhgerencia@amazoniapetroleo.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /> VAGA: FRENTISTA<br /><br />Realizar o atendimento aos clientes na pista, efetuando o abastecimento de veículos, comercialização de produtos e serviços, garantindo a segurança das operações, a organização do ambiente de trabalho e a excelência no atendimento.<br /><br /> LOCAL DE TRABALHO<br />Amazônia Petróleo – Unidade 44<br /> Rodovia BR-163/364, S/N- KM 499 - Jangada MT.<br /><br />✅ Escala: 6x1 (1 folga semanal + 1 domingo de folga no mês)<br /> Horário: 14h20 às 22h40<br /> Domingos e feriados: pagamento em 100%<br />⏰ Horas extras: remuneradas conforme legislação<br /><br /> Venha fazer parte do time Amazônia Petróleo!#Vagas #AmazôniaPetróleo #Frentista #Cuiabá #Jangada #VagasDeEmprego #Emprego #Oportunidade #EstamosContratando #Recrutamento #RH #TrabalheConosco<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atender os clientes;<br />Realizar o abastecimento dos veículos;<br />Efetuar a venda de produtos de pista;<br />Executar a limpeza e organização da pista de abastecimento;<br />Realizar a medição volumétrica dos tanques;<br />Efetuar a calibragem dos pneus dos clientes, quando necessário;<br />Atuar conforme os Procedimentos Operacionais Padrão (POP);<br />Cumprir as normas de segurança previstas na NR-20.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Boa comunicação e atendimento ao cliente.<br />Proatividade e comprometimento.<br />Responsabilidade e pontualidade.<br />Organização e atenção aos detalhes.<br />Trabalho em equipe.<br />Agilidade e dinamismo.<br />Ética e postura profissional.<br />Compromisso com a segurança e cumprimento das normas.<br /><br /><b>Benefícios</b><br /><br />Vale - CombustívelVale Alimentação / Refeição ( conforme política vigente)<br />Plano Odontológico<br />Convênio com faculdades, desconto de até 60%<br />Programa de Bonificação por produtividade<br />Oportunidade de crescimento interno<br />Ambiente estruturado e seguro para o trabalho<br /><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/amazoniapetroleo/48/frentista-posto-amazonia-44-rodovia-br-163-364-jangada-mt?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[99857112]]></companyId>
+    <city><![CDATA[Jangada]]></city>
+    <state><![CDATA[Mato Grosso]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2190.50]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1685.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d8d81007-8922-4a6f-8aa9-9ee6ac850f0b]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[d8d81007-8922-4a6f-8aa9-9ee6ac850f0b]]></partnerRequisitionId>
+    <company><![CDATA[Comercial Amazônia de Petróleo Ltda]]></company>
+    <title><![CDATA[CAIXA RODOVIA ( Posto Amazonia 44 - Rodovia BR 163/364 - Jangada MT)]]></title>
+    <posterEmail><![CDATA[rhgerencia@amazoniapetroleo.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /> VAGA: CAIXA RODVIA<br /><br />Estamos contratando Caixa para atuar em nossa unidade localizada em rodovia. O profissional será responsável pelo atendimento aos clientes, operação e fechamento do caixa, recebimento de pagamentos, conferência de valores, emissão de cupons e notas fiscais, além de manter a organização do ambiente e apoiar nas demais atividades da unidade quando necessário. Buscamos uma pessoa responsável, organizada, ágil, atenciosa e com boa comunicação, que tenha facilidade para trabalhar em equipe e disponibilidade para atuar em escala. Experiência com atendimento ao cliente e operação de caixa será um diferencial.<br /><br /> LOCAL DE TRABALHO<br />Amazônia Petróleo – Unidade 44<br /> Rodovia BR-163/364, S/N- KM 499 Jangada - MT<br /><br />✅ Escala: 6x1 (1 folga semanal + 1 domingo de folga no mês)<br /> Horário: 14h20 às 22h40<br /> Domingos e feriados: pagamento em 100%<br />⏰ Horas extras: remuneradas conforme legislação<br /><br /> Venha fazer parte do time Amazônia Petróleo!#Vagas #AmazôniaPetróleo #Frentista #Cuiabá #jangada #VagasDeEmprego #Emprego #Oportunidade #EstamosContratando #Recrutamento #RH #TrabalheConosco<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Receber pagamentos diversos;<br />Emitir notas fiscais e cupons fiscais;<br />Controlar numerários;<br />Realizar o fechamento de caixa, prestando contas dos valores recebidos;<br />Auxiliar no abastecimento de veículos, quando necessário.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Receber pagamentos diversos;<br />Emitir notas fiscais e cupons fiscais;<br />Controlar numerários;<br />Realizar o fechamento de caixa, prestando contas dos valores recebidos;<br />Auxiliar no abastecimento de veículos, quando necessário.<br /><br /><br /><b>Benefícios</b><br /><br />Vale - CombustívelVale Alimentação / Refeição ( conforme política vigente)<br />Plano Odontológico<br />Convênio com faculdades, desconto de até 60%<br />Programa de Bonificação por produtividade<br />Oportunidade de crescimento interno<br />Ambiente estruturado e seguro para o trabalho<br /><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/amazoniapetroleo/47/caixa-rodovia-posto-amazonia-44-rodovia-br-163-364-jangada-mt?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[99857112]]></companyId>
+    <city><![CDATA[Jangada]]></city>
     <state><![CDATA[Mato Grosso]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -112954,26 +112878,6 @@ Ensino médio completo.<br /><br /><b>Benefícios</b><br /><br />* Vale-transpor
     <posterEmail><![CDATA[itala.oliveira@anbeauty.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Buscamos profissionais talentosos, dinâmicos e que compartilhem da nossa paixão por excelência e atendimento encantador para integrar a equipe da <b>AmericaNews Beauty</b>. Aqui, você terá a oportunidade de crescer em um ambiente dinâmico, colaborativo e referência no mercado de luxo. Se você tem foco em resultados, gosta de inovar e quer transformar a jornada dos nossos clientes, a sua vaga é aqui!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li><b>Gestão Financeira e Caixa:</b> Apoio no fechamento diário de caixa, depósitos bancários, controle de despesas e envio de relatórios e comprovantes ao setor financeiro.</li><li><b>Controle de Estoque e Inventário:</b> Recebimento, conferência, etiquetagem e reposição de produtos; movimentação de mercadorias entre lojas via sistema e apoio na realização de inventários periódicos.</li><li><b>Rotinas Administrativas e Operacionais:</b> Envio de relatórios de vendas, controle de insumos e materiais de loja, tratativa de vouchers e interface com a administração do shopping para solicitações de serviços.</li><li><b>Tratativa de Ocorrências:</b> Apoio na identificação de divergências ou avarias no recebimento de cargas e acompanhamento de processos de devolução junto à logística e fornecedores.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo<br /> - Experiência anterior em atendimento ao cliente<br /> - Habilidade de comunicação<br /> - Organização e atenção aos detalhes<br /> - Capacidade de trabalhar em equipe<br /> - Conhecimento básico de informática<br /> - Disponibilidade para trabalhar em horários flexíveis<br /> - Proatividade e vontade de aprender<br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência médica</li><li>Assistência odontológica</li><li>Convênios e descontos comerciais</li><li>Vale-refeição/Alimentação</li><li>Vale-transporte</li><li>TotalPass</li><li>Desconto em nossas lojas</li><li>Day off de aniversário</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasanbeauty/14/assistente-de-loja?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[74485736]]></companyId>
-    <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[Ceará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a33b5e63-bb12-4f82-b36d-cf6800eb39bf]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[a33b5e63-bb12-4f82-b36d-cf6800eb39bf]]></partnerRequisitionId>
-    <company><![CDATA[ANbeauty]]></company>
-    <title><![CDATA[Vendedor de loja]]></title>
-    <posterEmail><![CDATA[itala.oliveira@anbeauty.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos profissionais talentosos, dinâmicos e que compartilhem da nossa paixão por excelência e atendimento encantador para integrar a equipe da <b>AmericaNews Beauty</b>. Aqui, você terá a oportunidade de crescer em um ambiente dinâmico, colaborativo e referência no mercado de luxo. Se você tem foco em resultados, gosta de inovar e quer transformar a jornada dos nossos clientes, a sua vaga é aqui!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Como Vendedor(a) na American News, você será um embaixador da nossa marca, responsável por transformar a visita do cliente em uma experiência inesquecível. Suas principais atribuições incluem:<ul><li><b>Atendimento de Excelência (Padrão Luxury):</b> Recepcionar cada cliente com hospitalidade e calor humano, garantindo um atendimento personalizado que supere as expectativas e crie conexões genuínas.</li><li><b>Consultoria Especializada:</b> Atuar como um consultor de beleza, apresentando nossa curadoria de marcas internacionais de luxo com profundo conhecimento técnico sobre fragrâncias, notas olfativas e produtos de cuidado pessoal.</li><li><b>Storytelling e Encantamento:</b> Utilizar a arte da comunicação para narrar a história dos produtos, conectando as fragrâncias a memórias e emoções, valorizando a jornada de compra do cliente.</li><li><b>Gestão de Vendas e Metas:</b> Focar proativamente no alcance das metas de vendas individuais e da loja, mantendo uma postura dinâmica, resiliente e voltada para resultados consistentes.</li><li><b>Experiência do Cliente:</b> Garantir que o ambiente de loja reflita o padrão da American News, cuidando da organização, apresentação dos produtos e do clima acolhedor desde a entrada até o fechamento da venda.</li><li><b>Desenvolvimento Contínuo:</b> Participar ativamente de treinamentos exclusivos com embaixadores de grandes marcas internacionais, buscando constante aprimoramento técnico sobre as novidades do mercado de perfumaria de luxo.</li><li><b>Trabalho em Equipe:</b> Colaborar com o time de loja para manter a energia positiva, compartilhar conhecimentos e garantir que todos os clientes recebam o mesmo alto padrão de atendimento.</li><li><b>Rotinas Operacionais:</b> Apoiar nas rotinas de loja (conforme escala de shopping), como organização de estoque, precificação e manuseio de sistemas de caixa/vendas, sempre mantendo a ética e o zelo pela empresa.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li><b>Escolaridade:</b> Ensino Médio Completo.</li><li><b>Experiência Profissional:</b> Vivência anterior sólida na área de vendas ou atendimento ao cliente no setor varejista.</li><li><b>Diferencial:</b> Experiência prévia no segmento de beleza, moda, cosméticos ou mercado de luxo.</li><li><b>Disponibilidade:</b> Horário flexível para atuação em regime de escala de shopping center em Fortaleza.</li><li><b>Perfil Comportamental:</b> Profissional altamente comunicativo, com excelente dicção, postura elegante, inteligência relacional e forte orientação para o cumprimento de metas e resultados.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência médica</li><li>Assistência odontológica</li><li>Convênios e descontos comerciais</li><li>Vale-refeição/Alimentação</li><li>Vale-transporte</li><li>TotalPass</li><li>Desconto em nossas lojas</li><li>Day off de aniversário</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasanbeauty/13/vendedor-de-loja?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[74485736]]></companyId>
     <city><![CDATA[Fortaleza]]></city>
     <state><![CDATA[Ceará]]></state>
@@ -117894,6 +117798,46 @@ Apoiar a melhoria e padronização dos processos, além do desenvolvimento e cad
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/facapartedojah/6/analista-de-pcp-sorocaba-sp?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[35686896]]></companyId>
     <city><![CDATA[Sorocaba]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[aa0ee942-98a6-4896-8f47-ac3d5fe7c88b]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[aa0ee942-98a6-4896-8f47-ac3d5fe7c88b]]></partnerRequisitionId>
+    <company><![CDATA[Conam – Consultoria em Administração Municipal]]></company>
+    <title><![CDATA[Product Owner / Product Manager Pleno]]></title>
+    <posterEmail><![CDATA[larissa.pereira@conam.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos buscando um(a) <strong>Product Owner / Product Manager Pleno</strong> para atuar na gestão e evolução de um conjunto de produtos digitais da CONAM, incluindo aplicações web, mobile e sistemas de apoio e integração com nossas principais soluções. A posição combina atividades de <strong>gestão de produto, análise de negócio e acompanhamento de desenvolvimento</strong>, trabalhando diretamente com as equipes de Desenvolvimento, Qualidade, Suporte e demais áreas da organização. Buscamos alguém que tenha facilidade para compreender problemas, processos e necessidades dos usuários e consiga transformá-los em soluções de software bem definidas e priorizadas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conhecer os produtos sob sua responsabilidade e os processos de negócio relacionados;</li><li>Levantar e analisar necessidades junto às áreas internas e, eventualmente, junto aos clientes;</li><li>Participar do discovery de novas funcionalidades e soluções;</li><li>Estruturar requisitos, histórias de usuário, regras de negócio e critérios de aceite;</li><li>Gerenciar e priorizar o backlog dos produtos;</li><li>Manter e acompanhar o roadmap;</li><li>Conduzir refinamentos com Desenvolvimento e QA;</li><li>Esclarecer dúvidas funcionais durante o desenvolvimento;</li><li>Acompanhar as entregas e validar os resultados;</li><li>Identificar oportunidades de melhoria nos produtos e processos;</li><li>Propor novas funcionalidades e integrações;</li><li>Acompanhar feedback e indicadores de utilização;</li><li>Manter a documentação dos produtos organizada e atualizada;</li><li>Atuar como ponto de conexão entre negócio, usuários e tecnologia.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com gestão ou evolução de produtos de software;</li><li>Experiência como Product Owner, Product Manager, Analista de Negócios, Analista de Sistemas ou função semelhante;</li><li>Experiência com levantamento e documentação de requisitos;</li><li>Vivência com backlog e priorização de demandas;</li><li>Conhecimento de metodologias ágeis;</li><li>Boa capacidade de análise de processos;</li><li>Facilidade para compreender sistemas e integrações;</li><li>Boa comunicação;</li><li>Organização;</li><li>Autonomia;</li><li>Capacidade de negociação e priorização.<br />Não é necessário que sua experiência anterior tenha sido exclusivamente com o título de Product Owner ou Product Manager. Profissionais vindos de <strong>Análise de Negócios ou Análise de Sistemas</strong> são bem-vindos, desde que tenham experiência compatível com as responsabilidades da posição.</li></ul><br /><br /><b>Benefícios</b><br /><br />No regime de contratação CLT:<br /><br />* Vale-Refeição de R$ 40,00 por dia, com possibilidade de utilização como Vale-Alimentação;<br />* Refeitório próprio no local, para quem preferir utilizá-lo;<br />* Convênio médico 100% custeado pela empresa para o colaborador após o período de experiência;<br />* Vale-Transporte;<br />* Plano Odontológico;<br />* Seguro de Vida;<br />* Gympass;<br />* Convênio com instituições de ensino;<br />* Day Off no mês do aniversário.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/conam/5/product-owner-product-manager-pleno?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[808763]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[56eb808a-480c-4465-ab8b-4fcf6cfdba64]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[56eb808a-480c-4465-ab8b-4fcf6cfdba64]]></partnerRequisitionId>
+    <company><![CDATA[Conam – Consultoria em Administração Municipal]]></company>
+    <title><![CDATA[Administrador de Redes]]></title>
+    <posterEmail><![CDATA[larissa.pereira@conam.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Administrador(a) de Redes para atuar na área de Infraestrutura e Suporte Técnico, sendo responsável pela administração, manutenção e evolução da infraestrutura de TI da CONAM. O profissional atuará diretamente na sustentação de redes, servidores Linux e Windows, bancos de dados, serviços de infraestrutura, ambientes de aplicação e equipamentos de TI, além de prestar suporte técnico aos usuários internos e clientes. Também terá participação em projetos de infraestrutura, implantação de novos clientes e atividades em conjunto com as equipes de DevOps e Segurança da Informação.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Administrar, configurar, monitorar e manter servidores Linux e seus respectivos serviços.</li><li>Realizar instalação, configuração, atualização e manutenção de servidores, sistemas e aplicações.</li><li>Administrar redes de computadores, incluindo DNS, DHCP, VPN, VLAN, Firewall e demais serviços de infraestrutura.</li><li>Monitorar o desempenho, disponibilidade e utilização dos servidores, identificando e solucionando problemas.</li><li>Administrar bancos de dados PostgreSQL, realizando cópias, transferências, restaurações e manutenções.</li><li>Criar, configurar e acompanhar rotinas de backup dos servidores e ambientes dos clientes.</li><li>Realizar restaurações parciais ou completas de backups de aplicações PostgreSQL e DataFlex.</li><li>Instalar, configurar e atualizar ambientes de aplicação, incluindo Apache, PHP, PostgreSQL e DataFlex.</li><li>Executar atualizações dos sistemas CONAM, servidores e serviços relacionados.</li><li>Administrar usuários, grupos, permissões e acessos em servidores Linux.</li><li>Configurar e administrar tarefas automatizadas utilizando CRON e scripts em Bash/Shell Script.</li><li>Administrar Security Groups na AWS, realizando liberações e bloqueios de acesso conforme as necessidades de infraestrutura.</li><li>Realizar instalação, configuração e manutenção de estações de trabalho Windows e Linux.</li><li>Prestar suporte técnico aos usuários internos, auxiliando na resolução de problemas relacionados a hardware, software, redes, impressoras e sistemas corporativos.</li><li>Realizar manutenção de hardware, incluindo montagem de computadores, substituição de componentes e diagnóstico de falhas.</li><li>Instalar e configurar impressoras, antivírus, ferramentas de acesso remoto e demais softwares utilizados pela empresa.</li><li>Prestar suporte aos ambientes Microsoft 365, incluindo Outlook, Teams, OneDrive, SharePoint e pacote Office.</li><li>Realizar manutenção e configuração de equipamentos e cabeamento de rede.</li><li>Administrar e solucionar problemas relacionados à infraestrutura de telefonia e ramais.</li><li>Manter atualizado o inventário de equipamentos e ativos de TI.</li><li>Participar da implantação de novos clientes, realizando a configuração e preparação dos ambientes de infraestrutura.</li><li>Realizar visitas técnicas a clientes para instalação, manutenção e suporte de servidores e infraestrutura, quando necessário.</li><li>Apoiar demonstrações presenciais de sistemas em processos de licitação.</li><li>Participar e liderar projetos de infraestrutura do departamento.</li><li>Atuar em projetos de maior complexidade em conjunto com as equipes de DevOps e Segurança da Informação.</li><li>Apoiar tecnicamente os profissionais de níveis 1 e 2 de suporte, manutenção de redes e administração de redes.</li><li>Elaborar e manter documentações técnicas relacionadas aos ambientes e procedimentos de infraestrutura.</li><li>Garantir a segurança, disponibilidade e integridade dos ambientes sob sua responsabilidade.</li><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo ou formação profissionalizante na área de Tecnologia da Informação.</li><li>Mínimo de 4 anos de experiência profissional com redes de computadores e administração de servidores.</li><li>Conhecimento avançado em Linux.</li><li>Experiência com administração e manutenção de servidores Linux.</li><li>Conhecimentos de redes TCP/IP, incluindo IP, máscara de sub-rede, gateway, DNS e DHCP.</li><li>Experiência com serviços de infraestrutura, como DNS, DHCP, VPN, VLAN e Firewall.</li><li>Conhecimento em administração de servidores e serviços como Apache, PHP, SSH e CUPS.</li><li>Conhecimento em Bash, Shell Script e Prompt de Comando.</li><li>Conhecimento em administração de bancos de dados PostgreSQL.</li><li>Experiência com instalação, configuração e manutenção de computadores Windows e Linux.</li><li>Conhecimento em manutenção e diagnóstico de hardware.</li><li>Conhecimento em rotinas de backup, restauração e transferência de bancos de dados.</li><li>Conhecimento em ferramentas e conceitos de monitoramento de servidores.</li><li>Conhecimento em Docker.</li><li>Disponibilidade para realizar atendimentos e visitas técnicas a clientes, quando necessário.</li><li>Capacidade para atuar na identificação e resolução de problemas de infraestrutura com autonomia.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br />* Vale-Refeição de R$ 40,00 por dia, com possibilidade de utilização como Vale-Alimentação;<br />* Refeitório próprio no local, para quem preferir utilizá-lo;<br />* Convênio médico 100% custeado pela empresa para o colaborador após o período de experiência;<br />* Vale-Transporte;<br />* Plano Odontológico;<br />* Seguro de Vida;<br />* Gympass;<br />* Convênio com instituições de ensino;<br />* Day Off no mês do aniversário.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/conam/3/administrador-de-redes?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[808763]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
