@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 13 Oct 2026 14:16:50 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 15:21:46 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[4113]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4118]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerRequisitionId>
@@ -1398,26 +1398,6 @@ Conhecimento em Scrum;</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Sa�
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[dce23568-1b29-42c8-97aa-d20a8e3009f3]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[dce23568-1b29-42c8-97aa-d20a8e3009f3]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Especialista SRE | IA | REMOTO]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você fará parte do time de Site Reliability Engineering (SRE), sendo responsável por estabelecer padrões de qualidade dos serviços de infraestrutura, acompanhando as inovações do mercado e garantindo a excelência do ecossistema tecnológico dos ambientes Cloud TOTVS.<br />Será responsável por assegurar a confiabilidade, disponibilidade, desempenho, segurança e evolução contínua dos serviços sob sua responsabilidade, atuando como referência técnica na implementação de soluções, automação de processos, observabilidade, governança e melhoria contínua, contribuindo diretamente para os objetivos estratégicos da companhia.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Monitorar continuamente a saúde dos sistemas, criar alertas eficazes e garantir cobertura proativa de incidentes.</li><li>Responder rapidamente a incidentes críticos, coordenando mitigação, comunicação e resolução.</li><li>Gerir mudanças, atualizações e implantações com foco em segurança, estabilidade e disponibilidade.</li><li>Construir e manter pipelines, bibliotecas e automações para provisionamento, deploy e operação em ambientes Cloud de alta disponibilidade.</li><li>Estabelecer e garantir padrões de security by design em infraestrutura, código e dados.</li><li>Projetar e evoluir soluções de observabilidade ponta a ponta, integrando logs, métricas, traces e eventos.</li><li>Criar, gerenciar e melhorar indicadores de confiabilidade (SLIs, SLOs, MTTR, MTTA).</li><li>Conduzir post-mortems blameless e implementar ações corretivas e preventivas.</li><li>Influenciar decisões arquiteturais e operacionais visando resiliência, escalabilidade e custo eficiente.</li><li>Documentar padrões técnicos, playbooks e comunicar impactos técnicos em linguagem de negócio.</li><li>Definir prioridades estratégicas do backlog de SRE, equilibrando confiabilidade, velocidade de entrega, segurança e custos.</li><li>Apoiar auditorias, conformidade e governança de segurança em alinhamento com times de risco e compliance.</li><li>Capacidade de mentorar e influenciar tecnicamente outros times, promovendo cultura de automação, segurança e confiabilidade e fomentando a cultura de ownership sobre sistemas em produção.</li><li>Disseminar conhecimento técnico por meio de mentorias, treinamentos, workshops, documentações e apresentações internas e externas, contribuindo para o desenvolvimento da equipe.</li><li>Buscar continuamente novas tecnologias, soluções e referências de mercado junto a fabricantes e fornecedores, avaliando sua viabilidade técnica e de negócio.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Domínio de conceitos avançados de SRE, DevSecOps e gestão de incidentes.</li><li>Automação de infraestrutura e pipelines em alto nível, utilizando Shell, Python, Go, Node.js ou Groovy.</li><li>Experiência com monitoramento e observabilidade distribuída (Prometheus, Grafana, Loki, ELK/Elastic Stack, Datadog, New Relic, OpenTelemetry).</li><li>Atuação sólida com Cloud pública (GCP, AWS ou equivalente), incluindo provisionamento, automação e otimização de custos.</li><li>Experiência em CI/CD e DevSecOps avançado, com ferramentas como Git/GitOps, Jenkins, ArgoCD, Maven, SonarQube/Cloud.</li><li>Proficiência em contêineres e orquestração (Docker, Kubernetes) e Infraestrutura como Código (Terraform, Ansible, CloudFormation, Chef).</li><li>Vivência com serviços de mensageria e data streaming como Kafka, Redis Streams, Google Pub/Sub, Dataflow.</li><li>Experiência com bancos de dados SQL e NoSQL, incluindo PostgreSQL, AloyDB, MySQL, MongoDB, Elasticsearch, BigQuery.</li><li>Experiência em gestão de incidentes e troubleshooting em sistemas complexos, utilizando PagerDuty, Opsgenie, StatusPage, Splunk ou equivalentes.</li><li>Conhecimento em segurança da informação, compliance e governança de ambientes cloud (LGPD, Privacy by Design, SAST/DAST, IAM, Secret Management).</li><li>Familiaridade com ambientes de alto volume de dados, tráfego e experiência com design resiliente.</li><li>Experiência ou interesse em DataOps/MLOps, atuando com pipelines de dados e IA em larga escala (desejável).</li><li>Background em arquitetura e desenvolvimento de software, com domínio de versionamento, APIs, microserviços e padrões REST/gRPC.</li><li>Vivência em metodologias ágeis (Scrum, Kanban ou similares).</li><li>Uso de IA assistiva e ferramentas de produtividade como GitHub Copilot, ChatGPT ou similares (diferencial).</li><li>Conhecimento de redes TCP/IP, DNS, HTTP/HTTPS, TLS, Load Balancers, CDN, VPN, proxies e troubleshooting de conectividade.</li><li>Administração avançada Linux, análise de performance, gerenciamento de processos, memória, disco, rede e troubleshooting em ambientes produtivos.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11535/tech-especialista-sre-ia-remoto?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[86c72481-ad6c-4ffd-a413-0ed493014a59]]></partnerJobId>
     <partnerRequisitionId><![CDATA[86c72481-ad6c-4ffd-a413-0ed493014a59]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -2113,41 +2093,6 @@ documentos online e/ou envio de e-mails.<br /><br /><br /><b>Requisitos e qualif
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
     <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[37fb9b9f-ce1b-4da5-8f0c-f8bb8262ef0a]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[37fb9b9f-ce1b-4da5-8f0c-f8bb8262ef0a]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Gerente de Contas Júnior - Farmer | Varejo e Distribuição]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Gerir a carteira de clientes sob sua responsabilidade e construir um relacionamento visando rentabilizar, gerar novos negócios e elevar o nível de
-satisfação da base de clientes TOTVS<br /><br /><b>Responsabilidades e atribuições</b><br /><br />● Gerir uma carteira de clientes, com alto nível de orientação e supervisão, através da construção de um
-relacionamento comercial e do entendimento/mapeamento de suas principais "dores“; ● Analisar o mapeamento de mercado oriundo de Operações e Torres de Segmentos, visando ampliar o
-Market Share TOTVS (Hunter); <br />● Executar o plano tático, com alto nível de orientação e supervisão, alinhado ao planejamento
-estratégico da DRG e dos resultados de vendas no segmento/região de atuação; <br />● Acompanhar Executivos mais seniores em visitas a clientes e/ou prospects, a fim de desenvolver
-abordagens comerciais e formas de atuação de acordo com o perfil/segmento do cliente/prospect; <br />● Elaborar propostas no CRM, com alto nível de orientação e supervisão, negociando e fechando os
-contratos com o cliente/prospect; <br />● Acompanhar e manter todos os dados relativos à trajetória dos clientes (empresas/oportunidades)
-atualizados no CRM, tais como: registro de visitas comerciais, follow up de atividades e fatos
-relevantes; <br />● Atender os leads gerados pela área de Negócios e Prospecção, com alto nível de orientação e
-supervisão, no ciclo completo de vendas; <br />● Acompanhar o ciclo de entrega dos produtos e serviços comercializados pela TOTVS, apoiando nas
-soluções dos eventuais problemas; <br />● Realizar o pós-venda junto aos clientes TOTVS, com alto nível de orientação e supervisão, garantindo a
-satisfação e retenção do cliente, além de gerar novas oportunidades de negócio; <br />● Report de pipeline e forecast no CRM, com alto nível de orientação e supervisão, utilizando a
-metodologia do TOTVS Vende, garantindo visibilidade do potencial de negócios; <br />● Informar seus clientes/prospects em eventos/treinamentos, através de e-mails, mailings, contatos
-telefônicos e WhatsApp; <br />● Desenvolver abordagens comerciais por meio de soluções cross voltadas aos segmentos de atuação
-que propiciem a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação: Graduação completa, preferencialmente no segmento de atuação.
-Conhecimentos específicos: ● Pacote Office – Excel e PowerPoint; <br />● Pacote Google Workspace intermediário; <br />● Ferramentas de BI – desejável. <br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11714/vendas-gerente-de-contas-junior-farmer-varejo-e-distribuicao?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[Recife]]></city>
-    <state><![CDATA[Pernambuco]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -3167,6 +3112,26 @@ com uso de IA para geração de códigos</li></ul><br /><br /><b>Benefícios</b>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[01e6d20b-3056-485d-bead-a905b2833ecd]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[01e6d20b-3056-485d-bead-a905b2833ecd]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Vendas] Gerência Comercial - Hunter | Manufatura e Supply Chain]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Gestor(a) Comercial Hunter</strong> para liderar um time de vendas com atuação no mercado do Interior de São Paulo, com foco nas regiões de <strong>Campinas, Jundiaí e entorno</strong>.Essa posição será responsável por liderar uma equipe com forte atuação <strong>hunter</strong>, direcionada à abertura de novos clientes, geração de demanda, prospecção, desenvolvimento de oportunidades e crescimento de receita.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Liderar, desenvolver e engajar o time comercial, garantindo alta performance e foco em resultados;</li><li>Construir e acompanhar a estratégia comercial da região, ampliando presença e geração de novas oportunidades;</li><li>Garantir uma operação comercial <strong>hunter</strong>, com disciplina de prospecção e geração de demanda;</li><li>Acompanhar indicadores de vendas, pipeline, conversão, cobertura e produtividade do time;</li><li>Atuar próximo aos executivos em oportunidades estratégicas, apoiando a evolução do pipeline até o fechamento;</li><li>Desenvolver planos de ação para geração de demanda e aceleração das oportunidades;</li><li>Realizar gestão de forecast e pipeline, garantindo previsibilidade dos resultados;</li><li>Desenvolver relacionamento com clientes e prospects estratégicos da região;</li><li>Identificar oportunidades de mercado, movimentos da concorrência e novas possibilidades de negócio;</li><li>Trabalhar de forma integrada com as demais áreas da empresa, fortalecendo a atuação conjunta para geração de negócios.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Vivência em <strong>gestão comercial B2B</strong>, preferencialmente em tecnologia, serviços ou soluções corporativas;</li><li>Ensino superior completo;</li><li>Vivência comprovada na liderança de <strong>times comerciais hunter</strong>;</li><li>Perfil altamente comercial, com orientação para prospecção, geração de demanda e fechamento;</li><li>Forte capacidade de gestão por indicadores e pipeline;</li><li>Habilidade para desenvolver pessoas, dar direcionamento e construir um time de alta performance;</li><li>Perfil empreendedor, dinâmico, mão na massa e com senso de urgência;</li><li>Boa capacidade de negociação e relacionamento com clientes;</li><li>Residir na região, para a atuação presencial e visitas a clientes na região de Campinas, Jundiaí e Interior.</li><li>Disponibilidade para viagens.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração variável com potencial de ganho atrativa;</li><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada colaborador(a);</li><li>Programa +Saudáveis, que cuida de cada colaborador(a) com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para colaboradores;</li><li>Programa + Cuidado, programa de apoio pessoal para colaboradores e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Wellhub.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12560/vendas-gerencia-comercial-hunter-manufatura-e-supply-chain?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Campinas]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[ea320506-0864-465d-9051-f9a7e991af67]]></partnerJobId>
     <partnerRequisitionId><![CDATA[ea320506-0864-465d-9051-f9a7e991af67]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -3484,6 +3449,26 @@ que agreguem valor ao produto, garantindo a satisfação do cliente dentro da
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[db02d2a2-0cc9-4ae3-81e7-8b26a06e8e45]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[db02d2a2-0cc9-4ae3-81e7-8b26a06e8e45]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Design] Designer Digital Sênior]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Acompanhar o planejamento e executar as iniciativas relacionadas a branding, com o objetivo de zelar pela nossas marcas, torná-las fortes e conhecidas, com discursos e<br />identidades visuais coesos, alinhados à estratégia da companhia, para todas as marcas do grupo TOTVS, em âmbito nacional e internacional.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Desenvolvimento das peças de comunicação pontuais como anúncios, vídeos, slides de<br />apresentações, icones, banners e outros, com o apoio do gerente na definição de<br />prioridades, negociações de médio e alto grau de complexidade. Baixo nível de<br />supervisão.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />● Formação: Ensino Superior em Comunicação Social, Marketing ou similares.<br />● Conhecimentos:<br />○ Illustrator, InDesign, Photoshop, Pacote Office;<br />○ Desejável conhecimento em After Effects.<br /><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12719/design-designer-digital-senior?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[7c4d9c22-bb80-4ffe-8995-98b3066a116f]]></partnerJobId>
     <partnerRequisitionId><![CDATA[7c4d9c22-bb80-4ffe-8995-98b3066a116f]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -3505,6 +3490,26 @@ metodologia do TOTVS Vende, garantindo visibilidade do potencial de negócios;</
 telefônicos e WhatsApp; </li><li>Desenvolver abordagens comerciais por meio de soluções cross voltadas aos segmentos de atuação 
 que propiciem a percepção de valor pelo cliente/prospect sobre os produtos e serviços TOTVS.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo; </li><li><b><i>Conhecimento e vivência no segmento (Food Service)</i></b>; </li><li>Vivência com vendas complexas e consultivas B2B de software de tecnologia e ERP;</li><li>Experiência na atuação comercial Porta a Porta.</li><li><b>Disponibilidade para viagens e atuação em modelo híbrido.</b></li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração variável com potencial de ganho atrativa;</li><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada colaborador(a);</li><li>Programa +Saudáveis, que cuida de cada colaborador(a) com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para colaboradores;</li><li>Programa + Cuidado, programa de apoio pessoal para colaboradores e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Wellhub.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12572/vendas-gerente-de-contas-junior-hunter-food?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[c8df8d0d-ce6c-47ba-9a23-102e7d73a447]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[c8df8d0d-ce6c-47ba-9a23-102e7d73a447]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de Software Sênior - ADVPL | TI]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Desenvolver e sustentar funcionalidades de software, que agreguem valor ao produto, garantindo a satisfação do cliente dentro da área de atuação<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<br /><ul><li>Desenvolver soluções técnicas de média complexidade, com nível de supervisão moderado e pouco apoio, através do desenvolvimento de requisitos de softwares utilizando-se das tecnologias envolvidas no projeto; <br /></li><li>Compreender a arquitetura do software e ser capaz de atuar nela através da análise de seus componentes, organização e funcionalidades; <br /></li><li>Criar testes de média complexidade, sejam estes manuais ou automatizados, que cubram o comportamento desejado dos componentes técnicos desenvolvidos utilizando os requisitos e ferramentas de testes; <br /></li><li>Documentar as etapas de desenvolvimento realizando o registro do desenvolvimento nas ferramentas de versionamento e documentação; <br /></li><li>Trabalhar com o time de desenvolvimento para encontrar soluções de negócio, arquitetura e desenho através da comunicação e trocas de conhecimento; <br /></li><li>Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados; <br /></li><li>Orientar desenvolvedores de menor senioridade apoiando suas dúvidas, disseminando seu conhecimento, desenhando e arquitetando soluções ou indicando documentação de apoio; <br /></li><li>Detalhar requisitos de baixa e média complexidade através do contato com clientes e áreas envolvidas no projeto/atendimento; <br /></li><li>Utiliza frameworks já definidos para o desenvolvimento de soluções</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Formação: : Superior completo em tecnologia e afins. </li><ul><li>Lógica de Programação; <br /></li><li>Banco de Dados – nível intermediário; <br /></li><li>Linguagem de programação utilizada pelo time (exemplo: ADVLP, PO.UI, Angular); <br /></li><li>Fundamento em testes unitários; <br /></li><li>Arquitetura web – nível básico; <br /></li><li>Métodos ágeis de desenvolvimento de software – desejável nível Intermediário; <br /></li><li>Regras de negócio do Protheus e seus módulos.</li></ul></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12119/tech-engenharia-de-software-senior-advpl-ti?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -5815,6 +5820,26 @@ A posição está inserida na Gerência Executiva de Planejamento e Negócios, q
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Desenvolver e sustentar funcionalidades de software, que agreguem valor ao produto, garantindo a satisfação do cliente dentro da área de atuação<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver soluções técnicas de média complexidade, com nível de supervisão moderado e pouco apoio, através do desenvolvimento de requisitos de softwares utilizando-se das tecnologias envolvidas no projeto; <br /></li><li>Compreender a arquitetura do software e ser capaz de atuar nela através da análise de seus componentes, organização e funcionalidades; <br /></li><li>Criar testes de média complexidade, sejam estes manuais ou automatizados, que cubram o comportamento desejado dos componentes técnicos desenvolvidos utilizando os requisitos e ferramentas de testes; <br /></li><li>Documentar as etapas de desenvolvimento realizando o registro do desenvolvimento nas ferramentas de versionamento e documentação; <br /></li><li>Trabalhar com o time de desenvolvimento para encontrar soluções de negócio, arquitetura e desenho através da comunicação e trocas de conhecimento; <br /></li><li>Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados; <br /></li><li>Orientar desenvolvedores de menor senioridade apoiando suas dúvidas, disseminando seu conhecimento, desenhando e arquitetando soluções ou indicando documentação de apoio; <br /></li><li>Detalhar requisitos de baixa e média complexidade através do contato com clientes e áreas envolvidas no projeto/atendimento; <br /></li><li>Utiliza frameworks já definidos para o desenvolvimento de soluções</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação: : Superior completo em tecnologia e afins. </li></ul><ul><li>Lógica de Programação; <br /></li><li>Banco de Dados – nível intermediário; <br /></li><li>Linguagem de programação utilizada pelo time (exemplo: ADVLP, PO.UI, Angular); <br /></li><li>Fundamento em testes unitários; <br /></li><li>Arquitetura web – nível básico; <br /></li><li>Métodos ágeis de desenvolvimento de software – desejável nível Intermediário; <br /></li><li>Regras de negócio do Protheus e seus módulos.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9092/tech-engenharia-de-software-pleno-advpl-ti?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e97d5718-a6eb-4cdb-b5e0-82632b537d30]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[e97d5718-a6eb-4cdb-b5e0-82632b537d30]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Vendas] Agente de Prospecção de Negócios - Cloud]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar como protagonista na geração de novas oportunidades de negócios para as soluções TOTVS Cloud, conectando-se com empresas de diferentes segmentos e contribuindo diretamente para a expansão da estratégia de Cloud da TOTVS. O profissional será responsável por identificar potenciais clientes, compreender seus desafios de negócio e conduzir abordagens consultivas que despertem interesse e gerem valor desde o primeiro contato. Em um ambiente dinâmico, colaborativo e orientado a resultados, o APN II trabalhará em parceria com times de Marketing,<br />Vendas, Pré-Vendas e Produto, participando de iniciativas estratégicas voltadas à aceleração da adoção de soluções em nuvem. Entre os principais desafios estão a prospecção qualificada de contas, a construção de relacionamentos com tomadores de decisão, a geração consistente de oportunidades e a contribuição para o crescimento sustentável da receita de Cloud.<br />Esta é uma oportunidade para profissionais que desejam desenvolver uma visão consultiva de negócios, aprofundar conhecimentos em tecnologia e transformação digital e fazer parte da principal empresa de tecnologia do Brasil, impactando diretamente a jornada de modernização dos clientes por meio da computação em nuvem.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar prospecção ativa de novos clientes por meio de diferentes canais de contato, como telefone, e- mail, LinkedIn e outras ferramentas de relacionamento;</li><li>Identificar e qualificar oportunidades de negócios para as soluções TOTVS Cloud, entendendo o cenário, as necessidades e os desafios dos potenciais clientes;</li><li>Agendar e conduzir reuniões de descoberta, garantindo a coleta de informações relevantes para o avanço das oportunidades;</li><li>Desenvolver abordagens consultivas e personalizadas, gerando interesse e valor para os prospects durante as interações comerciais;</li><li>Atuar na geração e no desenvolvimento de pipeline, contribuindo para o atingimento das metas de crescimento da unidade de Cloud;.</li><li>Registrar e atualizar informações das oportunidades nos sistemas corporativos, garantindo a qualidade dos dados e a previsibilidade do funil comercial;</li><li>Trabalhar em conjunto com os times de Marketing, Pré-Vendas, Vendas e Sucesso do Cliente para potencializar a conversão de oportunidades;</li><li>Participar de campanhas, eventos, webinars e ações estratégicas voltadas à geração de demanda e expansão da base de clientes;</li><li>Acompanhar indicadores de desempenho, produtividade e conversão, propondo ações para otimizar os resultados;</li><li>Manter-se atualizado sobre tendências de mercado, computação em nuvem, transformação digital e portfólio de soluções TOTVS;</li><li>Apoiar a construção de estratégias de prospecção para contas-alvo, segmentos específicos e iniciativas comerciais prioritárias;</li><li>Contribuir para a melhoria contínua dos processos, scripts, playbooks e práticas de prospecção da operação de Cloud.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior completa ou em andamento em Administração, Marketing, Gestão Comercial, Tecnologia da Informação, Sistemas de Informação ou áreas correlatas;</li><li>Experiência prévia em prospecção de negócios, geração de demanda, pré-vendas, desenvolvimento de negócios (BDR/SDR) ou vendas consultivas.</li><li>Vivência com qualificação de oportunidades e gestão de funil comercial;</li><li>Conhecimento em técnicas de prospecção outbound e inbound;</li><li>Experiência na utilização de CRM para gestão de leads, oportunidades e atividades comerciais;</li><li>Excelente comunicação verbal e escrita, com capacidade de adaptar a abordagem para diferentes perfis de clientes;</li><li>Perfil analítico, organizado e orientado a resultados;</li><li>Capacidade de atuar em ambientes dinâmicos, com foco no atingimento de metas e indicadores de desempenho;</li><li>Conhecimento em soluções de tecnologia, transformação digital ou computação em nuvem;</li><li>Familiaridade com processos de vendas B2B e metodologias de qualificação de oportunidades;</li><li>Conhecimento em ferramentas de prospecção, inteligência comercial e social selling, como LinkedIn Sales Navigator, CRM e plataformas de automação comercial;</li><li>Domínio do pacote Microsoft Office ou do Google Workspace.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10472/vendas-agente-de-prospeccao-de-negocios-cloud?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -17209,26 +17234,6 @@ Parceria com a Neurometa.]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[3c6b5e83-c714-47ad-b895-f10ce82c3bf6]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[3c6b5e83-c714-47ad-b895-f10ce82c3bf6]]></partnerRequisitionId>
-    <company><![CDATA[Universidade Tiradentes]]></company>
-    <title><![CDATA[COORDENADOR(A) FINANCEIRO]]></title>
-    <posterEmail><![CDATA[tania_cristina@unit.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O Complexo de Especialidades em Saúde Prof. Amélia Uchoa busca Coordenador(a) Financeiro(a) para atuar na gestão e coordenação das rotinas financeiras da instituição, garantindo organização, controle, cumprimento de prazos, qualidade dos processos e confiabilidade das informações financeiras.O profissional será responsável por coordenar as atividades relacionadas a contas a pagar, contas a receber e faturamento, acompanhando os fluxos financeiros e contribuindo para a sustentabilidade e eficiência operacional da instituição.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Coordenar e acompanhar as rotinas do setor financeiro;</li><li>Supervisionar os processos de contas a pagar, incluindo conferência de documentos, programação e acompanhamento de pagamentos;</li><li>Coordenar as atividades de contas a receber, realizando acompanhamento de recebimentos, baixas, conciliações e controle de inadimplência;</li><li>Coordenar e acompanhar o processo de faturamento, garantindo a correta emissão, conferência e envio das cobranças;</li><li>Acompanhar glosas, pendências e inconsistências relacionadas ao faturamento, contribuindo para a recuperação de valores;</li><li>Realizar e acompanhar conciliações bancárias e financeiras;</li><li>Controlar fluxo de caixa, entradas e saídas financeiras;</li><li>Elaborar e acompanhar relatórios financeiros e indicadores da área;</li><li>Acompanhar contas em aberto, vencimentos e recebimentos previstos;</li><li>Garantir o cumprimento dos prazos financeiros e dos procedimentos internos;</li><li>Conferir documentos fiscais, títulos, boletos, notas fiscais e demais documentos relacionados às operações financeiras;</li><li>Apoiar o planejamento financeiro e a elaboração de previsões de receitas e despesas;</li><li>Identificar inconsistências nos processos financeiros e propor melhorias;</li><li>Acompanhar contratos, fornecedores e prestadores de serviços sob a perspectiva financeira;</li><li>Manter organização e atualização dos controles financeiros;</li><li>Fornecer informações e relatórios para apoio à tomada de decisão da gestão;</li><li>Trabalhar em conjunto com os setores administrativo, contábil, faturamento, recepção e demais áreas envolvidas nos processos financeiros;</li><li>Orientar e acompanhar a equipe financeira, distribuindo atividades e monitorando resultados;</li><li>Garantir o cumprimento das políticas, normas e procedimentos internos da instituição;</li><li>Zelar pela confidencialidade das informações financeiras e administrativas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência comprovada em contas a pagar, contas a receber e faturamento;</li><li>Experiência profissional no setor hospitalar, clínicas, centros médicos ou instituições de saúde;</li><li>Ensino superior completo em Administração, Ciências Contábeis, Gestão Financeira, Economia ou áreas correlatas;</li><li>Experiência com gestão e acompanhamento de processos financeiros;</li><li>Conhecimento de conciliação bancária e fluxo de caixa;</li><li>Conhecimento intermediário de Excel ou ferramentas de planilhas;</li><li>Capacidade de análise e controle de informações financeiras.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência médica (com coparticipação);</li><li>Assistência odontológica;</li><li>Seguro de vida;</li><li>Bolsas de Estudo. (Após 06 meses de contrato);</li><li>Day off de aniversário.</li><li>Conexa (Telemedicina e Saúde Mental)</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasunit/203/coordenador-a-financeiro?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[963717]]></companyId>
-    <city><![CDATA[Aracaju]]></city>
-    <state><![CDATA[Sergipe]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[c8c73b4d-8f8a-46c2-9f84-a03255205497]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c8c73b4d-8f8a-46c2-9f84-a03255205497]]></partnerRequisitionId>
     <company><![CDATA[Universidade Tiradentes]]></company>
@@ -20686,6 +20691,26 @@ suas expectativas e a se preparar melhor para futuras conversas.<br /><br /><br 
     <description><![CDATA[<b>Descrição</b><br /><br />Buscamos profissionais dedicados e comprometidos para fazer parte de um time dinâmico e inovador, com oportunidades de aprendizado, desenvolvimento e crescimento profissional. Valorizamos o trabalho em equipe, a colaboração e novas ideias. Venha fazer parte do nosso time e contribuir para um futuro mais eficiente e sustentável!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar o pedreiro em serviços de alvenaria, concreto e acabamentos- Preparar e transportar materiais e ferramentas<br />- Auxiliar no preparo de argamassa e concreto<br />- Apoiar reparos e manutenção das instalações<br />- Manter o local de trabalho limpo e organizado<br />- Utilizar EPIs e seguir as normas de segurança<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental completo<br /> - Conhecimento básico em materiais e ferramentas de construção<br />- Disposição para atividades físicas e trabalho em equipe<br />- Organização, responsabilidade e comprometimento<br />- Conhecimento e cumprimento das normas de segurança do trabalho<br /><br /><br /><b>Benefícios</b><br /><br />- Vale-alimentação - Consulta médica <br />- Policlínica UniFOA <br />- Atendimento odontológico – UniFOA <br />- Seguro de vida <br />- Bolsa de estudo (conforme acordo coletivo) <br />- Convênio com farmácias <br />- Apoio psicológico <br />- Wellhub<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/centraldorecrutadorunifoa/104/auxiliar-de-manutencao-extensiva-a-pcd?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[1149996]]></companyId>
+    <city><![CDATA[Volta Redonda]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4497dc7e-d8fa-4410-818c-1346b47fb038]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[4497dc7e-d8fa-4410-818c-1346b47fb038]]></partnerRequisitionId>
+    <company><![CDATA[H.FOA - Hospital da Fundação Oswaldo Aranha]]></company>
+    <title><![CDATA[Auxiliar Financeiro - Extensiva à PcD]]></title>
+    <posterEmail><![CDATA[leone.silva@foa.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional organizado, proativo e comprometido para atuar no suporte às rotinas financeiras da instituição. Será responsável por auxiliar nos processos de controle financeiro, garantindo a correta organização de documentos, o acompanhamento de pagamentos e a conformidade das operações financeiras e fiscais. A função exige atenção aos detalhes, habilidade para lidar com prazos e bom relacionamento interpessoal para atendimento às demandas internas e de fornecedores.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Controlar contas a pagar e prazos de vencimento;</li><li>Realizar conciliações bancárias;</li><li>Conferir notas fiscais e boletos;</li><li>Efetuar lançamentos de notas fiscais;</li><li>Organizar documentos financeiros;</li><li>Apoiar o controle do fluxo de caixa;</li><li>Atender e acompanhar demandas de fornecedores;</li><li>Executar rotinas tributárias com foco em retenções na fonte.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Conhecimento básico em Excel;</li><li>Conhecimento básico em documentos fiscais e tributação de impostos retidos;</li><li>Organização, atenção aos detalhes e responsabilidade.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale-alimentação</li><li>Refeição no local</li><li>Assistência à saúde</li><li>Plano odontológico</li><li>Seguro de vida</li><li>Folga no aniversário</li><li>Incentivo acadêmico</li><li>Wellhub</li><li>Convênio Farmácia</li><li>Vale Transporte</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/centraldorecrutadorhfoa/129/auxiliar-financeiro-extensiva-a-pcd?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[1324688]]></companyId>
     <city><![CDATA[Volta Redonda]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
     <country><![CDATA[Brasil]]></country>
@@ -24570,128 +24595,6 @@ Pela melhoria concreta da operação em cinco frentes:
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a549bbca-5837-4370-81f7-69222b248a35]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[a549bbca-5837-4370-81f7-69222b248a35]]></partnerRequisitionId>
-    <company><![CDATA[BOMLIXO]]></company>
-    <title><![CDATA[Supervisor de Manutenção]]></title>
-    <posterEmail><![CDATA[andressa.pinheiro@bomlixo.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Supervisionar e garantir o funcionamento adequado das
-instalações industriais e administrativas, máquinas e equipamentos, assegurando
-a continuidade operacional, a segurança, a confiabilidade e a eficiência dos
-processos produtivos. Atuar na gestão dos recursos, equipes e processos de
-manutenção, contribuindo para a disponibilidade dos equipamentos, a redução de
-paradas não programadas e a continuidade das operações da fábrica.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Planejar,
-     coordenar e acompanhar a execução das atividades de manutenção preventiva,
-     corretiva e preditiva;</li>
- <li>Supervisionar
-     a equipe de manutenção, distribuindo atividades e acompanhando prazos,
-     qualidade e segurança na execução dos serviços;</li>
- <li>Realizar
-     a gestão da equipe, acompanhando desempenho, assiduidade, disciplina e
-     aderência às normas, procedimentos e práticas da área;</li>
- <li>Conduzir
-     o desenvolvimento técnico e comportamental da equipe, promovendo
-     orientação, capacitação e acompanhamento de desempenho;</li>
- <li>Atuar
-     na condução de ações de gestão de pessoas, conforme políticas e
-     procedimentos internos;</li>
- <li>Garantir
-     o funcionamento adequado de máquinas, equipamentos, sistemas de apoio à
-     produção e utilidades da planta industrial;</li>
- <li>Realizar
-     a gestão dos contratos de manutenção, acompanhando a execução dos serviços
-     e o desempenho de fornecedores e prestadores de serviços terceirizados,
-     garantindo a qualidade das entregas e o atendimento às condições
-     contratadas;</li>
- <li>Realizar
-     rotinas administrativas da manutenção, incluindo registros em sistema,
-     abertura e encerramento de ordens de serviço e atualização de informações
-     técnicas;</li>
- <li>Controlar
-     o uso e o estoque de peças de reposição, materiais, ferramentas e insumos
-     utilizados na manutenção, garantindo disponibilidade e adequada utilização
-     dos recursos;</li>
- <li>Monitorar
-     indicadores de desempenho da manutenção, tais como MTBF, MTTR,
-     disponibilidade de máquinas e custos da área, propondo e acompanhando
-     ações de melhoria voltadas à disponibilidade e confiabilidade dos
-     equipamentos;</li>
- <li>Participar
-     da análise de falhas operacionais e atuar na implementação de ações
-     corretivas e preventivas;</li>
- <li>Elaborar
-     relatórios técnicos e consolidar informações da área para suporte à tomada
-     de decisão;</li>
- <li>Apoiar
-     a elaboração, o acompanhamento e o cumprimento do orçamento (budget) da
-     área, contribuindo para o controle de custos, despesas e investimentos
-     planejados;</li>
- <li>Garantir
-     o cumprimento das normas de segurança do trabalho, qualidade, meio
-     ambiente e boas práticas industriais;</li>
- <li>Apoiar
-     projetos de melhoria contínua e otimização dos processos de manutenção;</li>
- <li>Contribuir
-     para o planejamento e controle dos recursos necessários à manutenção;</li>
- <li>Garantir
-     a organização, atualização e rastreabilidade da documentação técnica da
-     manutenção, incluindo planos preventivos, registros de intervenções e
-     histórico das atividades da área.</li>
-</ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Ensino
-     superior completo em Engenharia Mecânica, Engenharia Elétrica, Engenharia
-     Eletromecânica ou áreas correlatas;</li>
- <li>Experiência
-     em manutenção industrial e gestão de equipes técnicas;</li>
- <li>Vivência
-     em ambientes industriais de transformação, preferencialmente nos segmentos
-     de plástico, extrusão, reciclagem ou conversão plástica;</li>
- <li>Conhecimento
-     em manutenção mecânica, elétrica, pneumática e hidráulica;</li>
- <li>Vivência
-     em planejamento e controle da manutenção (PCM);</li>
- <li>Conhecimento
-     em sistemas informatizados de gestão da manutenção (CMMS);</li>
- <li>Capacidade
-     de organização, planejamento e tomada de decisão;</li>
- <li>Capacidade
-     analítica, orientação para resultados e melhoria contínua;</li>
- <li>Boa
-     comunicação, relacionamento interpessoal e liderança de equipes.</li>
-</ul><br /><br /><b>Benefícios</b><br /><br /><ul>
- <li>Assistência
-     médica</li>
- <li>Assistência
-     odontológica</li>
- <li>Café
-     da manhã</li>
- <li>Restaurante
-     na empresa</li>
- <li>Vale-alimentação</li>
- <li>Seguro
-     de vida</li>
- <li>Cesta
-     de Natal</li>
- <li>Wellhub
-     (Gympass)</li>
- <li>Starbem
-     (Plataforma de saúde digital)</li>
-</ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasbomlixo/190/supervisor-de-manutencao?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[15251734]]></companyId>
-    <city><![CDATA[Goiânia]]></city>
-    <state><![CDATA[Goiás]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[d2a1d73c-b0c9-4404-a3ba-7e5b0e594a7b]]></partnerJobId>
@@ -40164,6 +40067,26 @@ alta performance, esta vaga é para você! Vamos conversar? <br /><br /><b>Resp
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[770b2885-dd28-4787-b99b-b2b7d8f888b6]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[770b2885-dd28-4787-b99b-b2b7d8f888b6]]></partnerRequisitionId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Analista Financeiro (Contas a Receber)]]></title>
+    <posterEmail><![CDATA[maria.batista@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) profissional para atuar na área de Contas a Receber, Crédito, Cobrança e Seguros, sendo responsável pela gestão da carteira de clientes, análise e concessão de crédito, acompanhamento da inadimplência, administração das apólices de seguros e suporte aos processos de sinistros. Procuramos uma pessoa organizada, analítica, proativa e com forte relacionamento interpessoal.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar análises de crédito para concessão, revisão e manutenção de limites de clientes; </li><li>Monitorar e controlar a carteira de contas a receber;</li><li>Realizar conciliações de recebimentos e baixas bancárias; </li><li>Realizar ações de cobrança preventiva e corretiva, acompanhando clientes inadimplentes; </li><li>Acompanhar e liberar ordens de venda bloqueadas no sistema;</li><li>Controlar as apólices de seguros: realizar cotações e renovações junto as corretoras e seguradoras;</li><li>Conduzir e acompanhar processos de sinistros, garantindo o cumprimento de prazos, documentação necessária e recebimento de indenizações;</li><li>Elaborar relatórios gerenciais, controles financeiros e indicadores de desempenho da área.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior completo ou cursando em Ciências Contábeis, Administração, Gestão Financeira, Economia ou áreas correlatas;</li><li>Experiência nas rotinas de Contas a Receber, Crédito e Cobrança;</li><li>Excel/Office em nível intermediário ou avançado;</li><li>Capacidade de acompanhar múltiplas demandas e cumprir prazos;</li><li>Senso de urgência e foco em resultados;</li><li>Boa comunicação verbal e escrita.</li></ul><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração Competitiva</li><li>Vale Alimentação</li><li>Plano de Saúde </li><li>Plano Odontológico</li><li>Refeitório</li><li>Transporte Fretado</li><li>Convênio com farmácias, universidades e clubes</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/2093/analista-financeiro-contas-a-receber?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Delta]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[9a3894ea-c9ab-4939-bc8c-d4042d658948]]></partnerJobId>
     <partnerRequisitionId><![CDATA[9a3894ea-c9ab-4939-bc8c-d4042d658948]]></partnerRequisitionId>
     <company><![CDATA[Delta Sucroenergia]]></company>
@@ -40340,29 +40263,6 @@ correlatas.<br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração Compe
     <posterEmail><![CDATA[isabelam@deltasucroenergia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na criação e revisão de conteúdo para redes sociais, site, campanhas internas e materiais institucionais;</li><li>Apoiar na produção de materiais gráficos e audiovisuais, captações de fotos e vídeos e edições de vídeos;</li><li>Apoiar a organização de eventos corporativos e ações de endomarketing;</li><li>Contribuir com a cobertura dos eventos e produção das notícias institucionais.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Residir em Uberaba</li><li>Domínio da escrita/ortografia;</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração Competitiva</li><li>Vale Alimentação</li><li>Plano de Saúde </li><li>Plano Odontológico</li><li>Refeitório</li><li>Transporte Fretado</li><li>Convênio com farmácias, universidades e clubes</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/2069/estagiario-a-comunicacao-e-marketing?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Delta]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[fc72210d-bd9a-4ded-8b8b-6a415a1d896b]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[fc72210d-bd9a-4ded-8b8b-6a415a1d896b]]></partnerRequisitionId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Auxiliar de Desenvolvimento Agronômico]]></title>
-    <posterEmail><![CDATA[kauany.cardoso@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li> Auxiliar na instalação e avaliação de trabalhos a campo
-com auxílio de ferramentas agrícolas; </li><li> Realizar tratos culturais para manter a sanidade dos
-ensaios, bem como: controle de pragas, doenças e daninhas; </li><li> Cumprir com as normas de segurança do trabalho e
-preservação ambiental.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li> Residir em Delta ou Igarapava</li><li>Ensino fundamental completo;</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração Competitiva</li><li>Vale Alimentação</li><li>Plano de Saúde </li><li>Plano Odontológico</li><li>Refeitório</li><li>Transporte Fretado</li><li>Convênio com farmácias, universidades e clubes</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/2065/auxiliar-de-desenvolvimento-agronomico?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Delta]]></city>
     <state><![CDATA[Minas Gerais]]></state>
@@ -43211,6 +43111,26 @@ Manter o bom convívio no ambiente de trabalho e evitar confrontos desnecessári
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[9f5f2d1c-3e0b-40a4-a8c3-379a02b3d007]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[9f5f2d1c-3e0b-40a4-a8c3-379a02b3d007]]></partnerRequisitionId>
+    <company><![CDATA[PERFORMA_IT]]></company>
+    <title><![CDATA[Desenvolvedor .net Senior]]></title>
+    <posterEmail><![CDATA[ivana.freitas@performait.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Desenvolvedor(a) .NET</strong> para integrar nosso time e participar de projetos desafiadores e inovadores. Se você é apaixonado(a) por tecnologia e tem vontade de trabalhar em um ambiente colaborativo, esta é sua oportunidade de fazer parte da Performa! <br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver e manter APIs em .NET 9 / ASP.NET Core com Clean Architecture.</li><li>Implementar autenticação e autorização com SSO corporativo.</li><li>Integrar com serviços internos e externos e persistir dados em PostgreSQL.</li><li>Escrever testes automatizados e documentar decisões técnicas.</li><li>Atuar no ciclo de entrega com Azure DevOps, Docker e Kubernetes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>C#, .NET 6+ e ASP.NET Core Web API.</li><li>Clean Architecture, SOLID e injeção de dependência.</li><li>Entity Framework Core e banco relacional.</li><li>JWT, OAuth 2.0 / OpenID Connect.</li><li>Integração entre sistemas e padrões de resiliência.</li><li>Testes automatizados (xUnit/NUnit, Moq).</li><li>Git, code review, Docker e CI/CD.</li></ul><br /><br /><b>Benefícios</b><br /><br /><strong>Para te apoiar nessa jornada com a gente:</strong><ul><li> Jornada de Trabalho: 40h semanais</li><li> Convênio médico</li><li> Ajuda de Custo</li><li>️‍♀️ Gympass</li><li> Plano Odontológico</li><li> Parceria com escolas de Inglês e espanhol</li><li> Day Off de Aniversário</li><li> / Subsídio da máquina (notebook, computador)</li><li>️ Descanso Remunerado</li><li> Bônus Anual</li></ul><strong>Aqui você...</strong><ul><li>Vivenciará uma Cultura Horizontal e Mindset Ágil através de um ambiente de colaboração e melhoria contínua, estamos sempre buscando melhorar e aprender. Com o propósito de desenvolver pessoas para construir o futuro!</li><li>Trabalhamos com autonomia junto com responsabilidade e comprometimento para atingir ótimos resultados.</li><li>Trabalhamos com tecnologias de ponta, modernas e rentáveis, nós aceleramos jornadas digitais através da parceria com nossos clientes e hoje atendemos a diversos projetos nacionais e internacionais dos mais variados setores do mercado.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/performait/185/desenvolvedor-net-senior?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[548725]]></companyId>
+    <city><![CDATA[Fortaleza]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[8f7444bb-621f-4b31-8d0e-d54e875e118f]]></partnerJobId>
     <partnerRequisitionId><![CDATA[8f7444bb-621f-4b31-8d0e-d54e875e118f]]></partnerRequisitionId>
     <company><![CDATA[Grupo Weiku]]></company>
@@ -45443,30 +45363,6 @@ sistemas
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[41f27f73-a566-445e-a5d6-6faebd39b774]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[41f27f73-a566-445e-a5d6-6faebd39b774]]></partnerRequisitionId>
-    <company><![CDATA[TV TEM]]></company>
-    <title><![CDATA[Estágio em Jornalismo - G1]]></title>
-    <posterEmail><![CDATA[beatriz.bueno@tvtem.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é curioso, gosta de descobrir boas histórias e quer entender, na prática, como uma notícia ganha vida? No <strong>G1 em Itapetininga</strong>, você terá a oportunidade de vivenciar a rotina de uma redação, acompanhar a produção de reportagens e aprender com profissionais que fazem o jornalismo acontecer todos os dias. Buscamos alguém que goste de pesquisar, fazer perguntas, aprender e, principalmente, olhar para o que acontece ao redor pensando: <strong>“será que isso pode virar uma boa história?”. </strong>Se você se identifica, essa oportunidade pode ser para você. <br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Apoiar pesquisas, levantamento de informações e apuração de fatos;</li><li>Colaborar na produção de pautas e no contato com fontes;</li><li>Acompanhar a produção de reportagens e a rotina da redação;</li><li>Atuar em parceria com repórteres, editores e demais profissionais da equipe;</li><li>Contribuir com ideias e sugestões de pautas e reportagens.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Estar cursando Jornalismo a partir do <strong>4º semestre</strong>;</li><li><strong>Ter, no mínimo, 2 anos restantes até a conclusão do curso</strong>;</li><li>Boa comunicação oral e escrita;</li><li>Interesse em aprender e se desenvolver na área;</li><li>Curiosidade e vontade de descobrir e contar boas histórias;</li><li>Proatividade para buscar informações e sugerir ideias;</li><li>Disponibilidade e flexibilidade de horário.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Convênio médico Unimed - pago integral pela empresa;</li><li>Wellhub (Gympass) – podendo incluir 3 beneficiários;</li><li>Plataforma de desenvolvimento Feedz;</li><li>Universidade corporativa Tem Educa e Uniglobo;</li><li>Vale transporte - pago integral pela empresa;</li><li>Ginástica laboral;</li><li>⁠Quick Massage;</li><li>⁠Espaço de jogos;</li><li>Parcerias de desconto com escolas, universidades e comercio local;</li><li>Vale Cesta de Natal;</li><li>Presente de aniversário; </li><li>⁠Ações de endomarketing ativas durante o ano.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/estagiotvtem/187/estagio-em-jornalismo-g1?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[24909690]]></companyId>
-    <city><![CDATA[Itapetininga]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[1de04271-1b7a-4d5e-9a5c-6276dbda63e6]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1de04271-1b7a-4d5e-9a5c-6276dbda63e6]]></partnerRequisitionId>
     <company><![CDATA[TV TEM]]></company>
@@ -46233,10 +46129,10 @@ estratégias de desenvolvimento e clima organizacional;• Organizar e acompanha
     <partnerJobId><![CDATA[e198a63d-c7a9-4b9d-b0a7-9a9818ee9324]]></partnerJobId>
     <partnerRequisitionId><![CDATA[e198a63d-c7a9-4b9d-b0a7-9a9818ee9324]]></partnerRequisitionId>
     <company><![CDATA[MUSASHI DA AMAZÔNIA]]></company>
-    <title><![CDATA[OPERADOR PRODUÇÃO JR - Destinadas a PCD]]></title>
+    <title><![CDATA[OPERADOR PRODUÇÃO JR - PCD]]></title>
     <posterEmail><![CDATA[keila.freitas@musashi.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais apaixonados pela produção e que desejam fazer parte de um ambiente colaborativo e inovador. Oferecemos um espaço onde a diversidade é valorizada e onde cada voz é ouvida, promovendo o crescimento e o desenvolvimento de todos. <br /><br />Aqui, desafios são transformados em oportunidades, e você poderá se destacar em um setor em expansão. Venha trazer sua energia e suas ideias para um lugar que acredita no potencial de cada colaborador(a). <br /><br /><br />Junte-se a nós e faça parte de um time que se dedica a construir um futuro melhor. Não perca a chance de se candidatar e crescer conosco - sua carreira pode decolar aqui!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Monitorar e operar máquinas e equipamentos da produção, garantindo seu funcionamento adequado.<br /> - Realizar o controle de qualidade dos produtos, seguindo as normas e procedimentos estabelecidos.<br /> - Executar tarefas de embalagem e montagem de produtos, conforme as diretrizes da linha de produção.<br /> - Auxiliar na organização e limpeza do ambiente de trabalho, contribuindo para a segurança e eficiência operacional.<br /> - Registrar informações e dados de produção em relatórios, assegurando a rastreabilidade dos processos.<br /> - Colaborar com a equipe, participando de treinamentos e reuniões para a melhoria contínua dos processos.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br /> - Experiência anterior em ambientes de produção ou indústria será um diferencial.<br /> - Conhecimento sobre normas de segurança do trabalho e práticas de qualidade.<br /> - Habilidade para trabalhar em equipe e colaborar com colegas.<br /> - Facilidade para seguir instruções e procedimentos operacionais.<br /> - Boa comunicação e organização.<br /> - Disponibilidade para atuar em turnos, se necessário.<br /> - Comprometimento com prazos e metas estabelecidas.<br />- Apresentar Laudo Médico atualizado.<br /><br /><br /><b>Benefícios</b><br /><br /><b>O que oferecemos:</b><br /><ul><li>Assistência Médica - SAMEL</li><li>Assistência Odontológica - UNIODONTO</li><li>Cesta de alimentos</li><li>Alimentação na empresa</li><li>Transporte  </li><li>Cursos/Capacitações</li><li>Seguro de vida</li><li>PLR (participação nos Lucros e Resultados)</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/musashidaamazoniavagas/23/operador-producao-jr-destinadas-a-pcd?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/musashidaamazoniavagas/23/operador-producao-jr-pcd?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[30744386]]></companyId>
     <city><![CDATA[Manaus]]></city>
     <state><![CDATA[Amazonas]]></state>
@@ -58386,6 +58282,27 @@ Total Pass;Clude telemedicina;Day Off (aniversário);Descanso Remunerado de 20 d
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[7d3fa53d-44b1-414b-a445-5523036f3cd2]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[7d3fa53d-44b1-414b-a445-5523036f3cd2]]></partnerRequisitionId>
+    <company><![CDATA[Grupo RAX]]></company>
+    <title><![CDATA[Assistente de Importação]]></title>
+    <posterEmail><![CDATA[beatrizfontes@raxbrasil.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Buscamos um(a) Assistente  para </b><b>xecutar as atividades operacionais de importação, realizando a conferência documental, o acompanhamento de processos e o suporte direto ao Analista.</b><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conferir os documentos de embarque.</li><li>Registrar e atualizar os processos no sistema e no Siscomex.</li><li>Emissão de Guias para recolhimento ou liberação do ICMS.</li><li>Acompanhar as etapas do desembaraço aduaneiro.</li><li>Solicitar numerário e acompanhar o pagamento de taxas.</li><li>Contatar armadores, agentes de carga e terminais.</li><li>Atualizar os clientes sobre o status dos processos.</li><li>Apoiar na elaboração de prévias de custos.</li><li>Emissão de Guias para recolhimento ou liberação do ICMS</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Superior completo ou cursando em Comércio Exterior, Logística ou áreas correlatas;</li><li>·      
+Noções de classificação fiscal e Incoterms.</li><li>Connhecimento em processos de importação e despacho aduaneiro.</li><br /><br /><b>Benefícios</b><br /><br /> <strong>Plano de Saúde </strong> – sem coparticipação<br /> <strong>Plano Odontológico</strong> – 100% custeado pela empresa<br /> <strong>Bolsa de Estudos</strong><br /> <strong>Cartão Flash</strong> – entre R$1.200,00 e R$1.400,00<br />️ <strong>TotalPass</strong> – acesso a academias e programas de bem-estar<br /> <strong>Convênio com SESC</strong> – lazer, cultura e entretenimento<br /> <strong>Parcerias com Universidades</strong> – descontos em graduação e pós-graduação]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/raxbrasil/25/assistente-de-importacao?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[28537964]]></companyId>
+    <city><![CDATA[Santos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4253cb1a-9d50-4445-b061-987d3290c30b]]></partnerJobId>
     <partnerRequisitionId><![CDATA[4253cb1a-9d50-4445-b061-987d3290c30b]]></partnerRequisitionId>
     <company><![CDATA[Grupo RAX]]></company>
@@ -59001,26 +58918,6 @@ No dia a dia, suas principais atividades serão:<br /><br />
     <posterEmail><![CDATA[danielle.lima@grupopmz.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por auxiliar nas vendas de peças automotivas direto com cliente observando os parâmetros comerciais pré-determinados.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar no atendimento aos clientes no balcão ou telefone, através da venda de peças e acessórios, inteirando-se das necessidades do cliente, prestando informações, verificando estoque e informando preços e condições de pagamento;· Elaborar orçamentos de acordo com a necessidade do cliente;· Executar outras tarefas relacionadas com o cargo, a critério do superior<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo</li><li>Conhecimento básico de informática</li><li>Proatividade e dinamismo.</li><li>Habilidade para lidar com o público.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Ticket Restaurante</li><li>Vale Transporte</li><li>Gratificação por venda</li><li>Trilha de carreira</li><li>Universidade PMZ</li><li>Desconto Drogaria</li><li>Desconto Universidade.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/410/am02-auxiliar-de-vendas?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[22287656]]></companyId>
-    <city><![CDATA[Manaus]]></city>
-    <state><![CDATA[Amazonas]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[9897a8b8-92fc-4a2f-9c66-cdc9f65ee353]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[9897a8b8-92fc-4a2f-9c66-cdc9f65ee353]]></partnerRequisitionId>
-    <company><![CDATA[Grupo PMZ]]></company>
-    <title><![CDATA[AM 02 | ASSISTENTE DE CONTROLADORIA]]></title>
-    <posterEmail><![CDATA[ingrid.vieira@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Realizar atividades da área de Controladoria, contribuindo para a organização, consolidação e conferência de informações financeiras e gerenciais, auxiliando na elaboração de relatórios, controles e indicadores, visando garantir a qualidade dos dados e o cumprimento das rotinas da área.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar coleta, organização e consolidação de informações financeiras e gerenciais.</li><li>Apoiar a elaboração e atualização de planilhas e relatórios gerenciais.</li><li>Realizar conferências de dados e identificar divergências para análise da equipe responsável.</li><li>Apoiar o acompanhamento das despesas, receitas, custos e resultados da organização.</li><li>Auxiliar na atualização e controle do orçamento empresarial.</li><li>Dar suporte na preparação de informações para análise do realizado x orçado.</li><li>Apoiar a apuração de indicadores de desempenho (KPIs).</li><li>Auxiliar nas rotinas de fechamento gerencial, garantindo o cumprimento dos prazos estabelecidos.</li><li>Manter atualizados os controles e bases de dados utilizados pela área.</li><li>Dar suporte na extração de informações em sistemas ERP e demais ferramentas corporativas.</li><li>Organizar documentos, registros e evidências relacionados às atividades da controladoria.</li><li>Apoiar a equipe na identificação de oportunidades de melhoria nos processos e controles internos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior (completo ou cursando) em Ciências Contábeis, Administração, Economia ou áreas correlatas;</li><li>Noções de Contabilidade Básica e Gestão financeira;</li><li>Excel Intermediário.</li></ul><br /><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale refeição;</li><li>Vale transporte;</li><li>Trilha de carreira;</li><li>Universidade PMZ;</li><li>Desconto em Universidades privadas;</li><li>Desconto em drogarias;</li><li>Convênio com Sesc;</li><li>Assistência médica*;</li><li>Assistência odontológica*.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/406/am-02-assistente-de-controladoria?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[22287656]]></companyId>
     <city><![CDATA[Manaus]]></city>
     <state><![CDATA[Amazonas]]></state>
@@ -60767,6 +60664,26 @@ em Fonoaudiologia.<br /><br /><b>Benefícios</b><br /><br /><ul><li>Totalpass <
     <posterEmail><![CDATA[julio.silva@labcmi.org.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Oportunidade para atuar como Analista de Captação, na Crescer, unidade estratégica responsável por fortalecer a sustentabilidade das ações filantrópicas com o propósito de ampliar o impacto da LABCMI na saúde materno-infantil, articulando diferentes frentes de mobilização, relacionamento e comunicação com a sociedade.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Mapeamento, prospecção e negociação com empresas parceiras, apoiadores e doadores para captação de recursos financeiros para iniciativas regulares e/ou patrocínio de eventos e campanhas da instituição. Elaborar e acompanhar propostas, projetos e documentações para captação de recursos. Acompanhar processos administrativos relacionados às parcerias e doações. Auxiliar na identificação de editais, oportunidades e fontes de financiamento. Realizar interface com demais setores para execução das ações e projetos. Realizar controle e acompanhamento de indicadores e resultados de captação.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino superior em Administração, Marketing, Relações Públicas, Comunicação ou áreas correlatas<br /><br /><b>Benefícios</b><br /><br />Plano de saúde e odontológico (sem coparticipação da instituição); Ticket Alimentação/Refeição; Total Pass; Day Off no aniversário; Desconto em redes de farmácias; Desconto em cursos de  graduação e pós-graduação na Anhanguera e Estácio]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmicarreira/4589/analista-de-captacao-crescer?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[24910672]]></companyId>
+    <city><![CDATA[Salvador]]></city>
+    <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[39c79199-c2ef-4344-bd77-450faa65c078]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[39c79199-c2ef-4344-bd77-450faa65c078]]></partnerRequisitionId>
+    <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
+    <title><![CDATA[ESTAGIÁRIO DE COMUNICAÇÃO | CSC]]></title>
+    <posterEmail><![CDATA[julio.silva@labcmi.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Oportunidade para atuar como Estagiário(a) de Comunicação no setor de Comunicação Institucional, na Central de Serviços Compartilhados (CSC) da Liga Álvaro Bahia.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Apoiar na atualização da Intranet corporativa e produção de conteúdos para os canais internos de comunicação. Auxiliar na elaboração de materiais de comunicação, como produção de textos curtos para cards, comunicados e campanhas; realizar o disparo programado de e-mails e comunicados internos e prestar suporte operacional às rotinas da Comunicação Interna.<br /><br /><b>Requisitos e qualificações</b><br /><br />Superior em andamento no curso de Comunicação Social - Habilitação em Jornalismo ou Relações Públicas, a partir do 4° semestre. Disponibilidade para estagiar das 12h às 17h, de segunda a sexta-feira, presencial.<br /><br /><b>Benefícios</b><br /><br />Plano odontológico (sem coparticipação da instituição); Total Pass; Day Off no aniversário; Desconto em redes de farmácias; Desconto em cursos de graduação e pós-graduação na Anhanguera e Estácio.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmicarreira/4586/estagiario-de-comunicacao-csc?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[24910672]]></companyId>
     <city><![CDATA[Salvador]]></city>
     <state><![CDATA[Bahia]]></state>
@@ -65093,26 +65010,6 @@ e busca crescimento profissional,</b> essa oportunidade é para você.<br /><br
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[71637dc2-7ad9-4fe4-8f05-1aa55abab1f3]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[71637dc2-7ad9-4fe4-8f05-1aa55abab1f3]]></partnerRequisitionId>
-    <company><![CDATA[Xmobots]]></company>
-    <title><![CDATA[Analista Fiscal Jr]]></title>
-    <posterEmail><![CDATA[tamires.silva@xmobots.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Na XMobots, buscamos pessoas que queiram transformar o mundo com tecnologia de ponta.<br />Se você é movido por inovação, ama ambientes dinâmicos, valoriza o aprendizado contínuo e quer crescer profissionalmente em um time apaixonado pelo que faz, essa vaga pode ser sua!Estamos em busca de talentos que queiram pilotar novas missões conosco e construir o presente e futuro da robótica. Explore nossas oportunidades e venha fazer parte de algo grande. <br />Venha para a Xmobots, juntos vamos voar mais alto!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Escrituração e lançamento de notas fiscais de materiais, serviços, CT-e e faturas, garantindo o correto destaque dos impostos;</li><li>Registro de notas de débito e crédito;</li><li>Desenvolvimento de controles e relatórios relacionados a rotina tributária;</li><li>Realizar cálculo de impostos das notas fiscais;</li><li>Conferência prévia de notas ficais x pedidos de compras;</li><li>Faturamento de notas fiscais mercadoria e serviço;</li><li>Análise de possíveis divergências entre NFe x pedido de venda;</li><li>Análise e conferência das operações fiscais (remessas conserto, demonstração, garantia etc.);</li><li>Controle de pendências relacionadas ao recebimento de nota fiscal e estoque de terceiros.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou cursando em Administração de Empresas, Ciências Contábeis ou área correlatas;</li><li>Vivência na área fiscal com experiência em Escrituração e Faturamento;</li><li>Desejável conhecimento em ERP Protheus;</li><li>Possuir Excel Básico/intermediário; </li></ul><br /><ul><li>Residir em São Carlos - SP ou com disponibilidade para mudança. </li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Refeição</li><li>Vale Alimentação</li><li>Auxílio Combustível</li><li>Auxílio Creche</li><li>Plano de Saúde - Unimed</li><li>Plano Odontológico</li><li>Convênio Farmácia</li><li>Day Off de Aniversário</li><li>Seguro de Vida</li><li>Parcerias com SESI / SESC</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/xmobotscarreiras/121/analista-fiscal-jr?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[5048086]]></companyId>
-    <city><![CDATA[São Carlos]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[ce4f2270-04c2-4c4c-b105-de02043c3a2a]]></partnerJobId>
     <partnerRequisitionId><![CDATA[ce4f2270-04c2-4c4c-b105-de02043c3a2a]]></partnerRequisitionId>
     <company><![CDATA[Xmobots]]></company>
@@ -68621,6 +68518,111 @@ alinhamentos em decisões e ações concretas.]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[2e90423f-74ee-4b81-ba04-1dd17d6babdc]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[2e90423f-74ee-4b81-ba04-1dd17d6babdc]]></partnerRequisitionId>
+    <company><![CDATA[SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL]]></company>
+    <title><![CDATA[INSTRUTOR EDUCACIONAL SUPERIOR (GESTÃO)  SENAI STÊNIO LOPES]]></title>
+    <posterEmail><![CDATA[veronicagarcia@fiepb.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Ministrar aula nos cursos que compõem a grade do CET/SENAI, conforme sua capacitação/formação; Planejar as aulas e desenvolver metodologias de aprendizado; Manter o local/ambiente de aula conforme as condições de utilização; Realizar atividades de orientação técnica conforme especificações da Coordenação Técnica Pedagógica; Atuar pontualmente como Consultor em determinadas situações como forma de disponibilizar e viabilizar soluções através dos serviços do SENAI.</li></ul><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar e desenvolver situações de ensino voltadas para a qualificação profissional específicas da área em questão;</li><li>Avaliar o processo de ensino-aprendizagem;</li><li>Definir metodologias e técnicas de ensino;</li><li>Elaborar e propor cronograma de atividades pedagógicas;</li><li>Elaborar material pedagógico;</li><li>Sistematizar estudos, informações e experiências sobre a área ensinada;</li><li>Atuar como Consultor em situações pontuais para viabilizar ou disponibilizar soluções técnicas dos Centros Técnicos, Tecnológico e Educacionais do SENAI; Garantir segurança, higiene e proteção ambiental nas situações de ensino-aprendizagem;</li><li>Fazer registros de documentação escolar, de oficinas e de laboratórios;</li><li>Ministrar provas e sistemas de avaliação dos alunos;</li><li>Planejar metas e estratégias de ações educacionais;</li><li>Realizar as demais atividades correlatas ao cargo/função.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação de Nível Superior Completo em Administração ou Logística; </li><li>Experiência mínima de 6 meses nas áreas de Logística, Contabilidade e ou Produção;</li><li><i><strong>Cadastro curricular completo e atualizado na plataforma (<u>Informar nome completo</u>).</strong></i></li></ul><b><i><br /></i></b><br /><ul><li>Carga horária: 40horas semanais</li></ul><br /><br /><b>Período de Inscrições:</b> 13/10/2026 a 16/10/2026<br /><br /><br /><br /><br /><b>Observações:</b><br />O não preenchimento das informações obrigatórias no momento da inscrição poderá acarretar a desclassificação do candidato. Inscrições realizadas fora do período informado não serão consideradas válidas. <b>Não serão analisados documentos enviados em anexo.</b><br /><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de saúde;</li><li>Convênios com Cooperativas de Crédito;</li><li>Licença Prêmio;</li><li>Material Escolar;</li><li>Estabilidade para Aposentadoria;</li><li>Vale alimentação (R$ 725,00);</li><li>Cesta Natalina;</li><li>Auxílio transporte;</li><li>Auxílio Morte Funeral.</li><br /><br /><b>*Conforme Acordo Coletivo de Trabalho Vigente</b><br /><br /><br /><ul><b><br /></b><br /><b>CONTEÚDO PROGRAMÁTICO: AVALIAÇÃO PRÁTICA – AULA EXPOSITIVA</b><br />1- Processos administrativos de apoio contábil financeiro ou;<br />2- Operacionalização de sistemas de gestão da qualidade ou;<br />3- Separação, expedição e distribuição de materiais e produtos, em conformidade com as normas internas e procedimentos técnicos.<br /><br /><br /></ul><br /><br /><br /><b>ETAPAS DO PROCESSO</b><br /><b>1. Cadastro</b><br /><b>2. Análise Curricular</b><br /><b>3. Avaliação de Habilidades Técnicas</b><br /><b>4. Entrevista com a Equipe de Seleção e Gestor</b><br /><b>5. Avaliação Prática - Aula Expositiva</b><br /><b>6. Aguardando Convocação</b><br /><b>7. Convocação para Admissão</b><br /><b>8. Exame Admissional|Documentação</b><br /><b>9. Contratação</b><br /><br /><br /></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/senaipboportunidades/118/instrutor-educacional-superior-gestao-senai-stenio-lopes?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[80346365]]></companyId>
+    <city><![CDATA[Campina Grande]]></city>
+    <state><![CDATA[Paraíba]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[4759.44]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[4759.44]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[812154f6-6c10-49f8-8a37-d91646b62120]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[812154f6-6c10-49f8-8a37-d91646b62120]]></partnerRequisitionId>
+    <company><![CDATA[SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL]]></company>
+    <title><![CDATA[INSTRUTOR EDUCACIONAL TÉCNICO (ELETROELETRÔNICA) SENAI STENIO LOPES]]></title>
+    <posterEmail><![CDATA[veronicagarcia@fiepb.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Ministrar aulas técnicas em cursos profissionalizantes, conforme sua capacitação e grade do CET/SENAI; Responder pela organização dos recursos a serem utilizado no aprendizado; Manter o local/ambiente de aula conforme as condições de utilização; Realizar atividades de orientação conforme especificações da Coordenação Técnica Pedagógica.</li></ul><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar
+e desenvolver situações de ensino e aprendizagem voltadas para a qualificação
+profissional de jovens e adultos orientando-os nas técnicas específicas da área
+em questão;</li><li>Avaliar
+o processo de ensino-aprendizagem;</li><li>Definir
+metodologias e técnicas de ensino;</li><li>Elaborar
+e propor cronograma de atividades pedagógicas;</li><li>Elaborar
+material pedagógico;</li><li>Sistematizar
+estudos, informações e experiências sobre a área ensinada;</li><li><i>Garantir
+segurança, higiene e proteção ambiental nas situações de ensino-aprendizagem;</i></li><li>Fazer
+registros de documentação escolar, de oficinas e de laboratórios;</li><li>Planejar
+metas e estratégias de ações educacionais;</li><li>Realizar
+as demais atividades correlatas ao cargo/função.</li><li>Realizar demais atividades
+correlatas ao cargo/função.</li></ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação de Nível Médio completo com habilitação técnica em Eletroeletrônica;</li><li>Experiência mínima de 06 meses na área de formação;</li></ul><br /><ul><li><i><strong>Cadastro curricular completo e atualizado na plataforma (<u>Informar nome completo</u>).</strong></i></li></ul><br /><br /><ul><li>Carga horária: 40 horas semanais</li></ul><br /><br /><b>Período de Inscrições:</b> 13/10/2026 a 15/06/2026 às 17:00<br /><br /><br /><br /><br /><b>Observações:</b><br />O não preenchimento das informações obrigatórias no momento da inscrição poderá acarretar a desclassificação do candidato. Inscrições realizadas fora do período informado não serão consideradas válidas. <b>Não serão analisados documentos enviados em anexo. </b><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de saúde;</li><li>Convênios com Cooperativas de Crédito;</li><li>Licença Prêmio;</li><li>Material Escolar para filhos;</li><li>Estabilidade para Aposentadoria;</li><li>Vale alimentação (R$ 725,00);</li><li>Cesta Natalina;</li><li>Vale transporte;</li><li>Seguro de Vida;</li><li>Universidade Corporativa;</li><li>Ajuda financeira para filhos com deficiências, TDAH e TEA;</li><li>Day Off (Aniversário).</li><br /><br /><b>*Conforme Acordo Coletivo de Trabalho Vigente</b><br /><b><br /></b><br /><b><br /></b><br /><b>CONTEÚDO PROGRAMÁTICO: AVALIAÇÃO PRÁTICA – AULA EXPOSITIVA</b><br /><br />1- Gestão da Manutenção de Sistemas Eletroeletrônicos;<br />2- Projetos de Instalações Elétricas Prediais;<br />3- Projetos de Acionamento e Controle Industriais<br /><br /><br /><br /><br /><b>ETAPAS DO PROCESSO</b><br /><b>1. Cadastro</b><br /><b>2. Análise Curricular</b><br /><b>3. Avaliação de Habilidades Técnicas</b><br /><b>4. Entrevista com a Equipe de Seleção e Gestor</b><br /><b>5 Avaliação Prática - Aula Expositiva</b><br /><b>6. Aguardando Convocação</b><br /><b>7. Convocação para Admissão</b><br /><b>8. Exame Admissional|Documentação</b><br /><b>9. Contratação</b><br /><br /></ul><ul></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/senaipboportunidades/117/instrutor-educacional-tecnico-eletroeletronica-senai-stenio-lopes?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[80346365]]></companyId>
+    <city><![CDATA[Campina Grande]]></city>
+    <state><![CDATA[Paraíba]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[4178.05]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[4178.05]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[c3bb37c1-25fa-45f7-9c90-3d124f63abf6]]></partnerJobId>
@@ -76772,6 +76774,26 @@ P6 (nível consulta). </li></ul><br /><br /><br /><b>Benefícios</b><br /><br />
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[9bfc1de7-d11f-4088-a7e3-f6caf3b7931b]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[9bfc1de7-d11f-4088-a7e3-f6caf3b7931b]]></partnerRequisitionId>
+    <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
+    <title><![CDATA[TÉCNICO DE SEGURANÇA DO TRABALHO - Temporário]]></title>
+    <posterEmail><![CDATA[joyce.rh@ctaengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Na CTA, acreditamos que respeito, diversidade e inclusão fazem parte do dia a dia. Não fazemos distinção entre pessoas e valorizamos cada profissional por sua capacidade, talento e dedicação. Todas as nossas vagas são abertas para todos os perfis, incluindo Pessoas com Deficiência (PcD) e pessoas LGBTQIA+, sempre com igualdade de oportunidades e respeito às diferenças.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Local de Trabalho: REDUC;</li><li>Horário: Seg a Sex de 07:30 às 16:30;</li><li>Contratação temporária;</li><li>Prestação de Serviços de apoio a Fiscalização dos contratos;</li><li>Realizar análise de documentos;</li><li>Prestação de Serviços de apoio ao grupo de planejanmento e Intervenção; </li><li>Serviços de Apoio as demandas de Parada de Manutenção;</li><li>Apoio às atividades administrativas do Controle de Emergência (Mesa de Operações).</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso Técnico de segurança do Trabalho<b> </b></li></ul><ul><li>Pacote Office;</li><li>CNH categoria B;</li><li>Desejável conhecimento da ferramenta Office;</li><li>Desejéval experiência com treinamentos;</li><li>Desejável conhecimento em sistemas integrados de gestão, como exemplo o SAP;</li></ul><br /><br /><br /><b>Benefícios</b><br /><br />Plano de Saúde e Odontológico | Seguro de Vida em Grupo | Vale Refeição ou alimentação | Vale transporte | Parceria com instituição de ensino e idioma]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/392/tecnico-de-seguranca-do-trabalho-temporario?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[14023532]]></companyId>
+    <city><![CDATA[Duque de Caxias]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[3666dcd5-1d10-4553-b57a-ebea845d5034]]></partnerJobId>
     <partnerRequisitionId><![CDATA[3666dcd5-1d10-4553-b57a-ebea845d5034]]></partnerRequisitionId>
     <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
@@ -83269,92 +83291,6 @@ educacional a fim de facilitar o aprendizado; Levantar e interpretar dados rela
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[1479bcfe-389b-455c-a18f-189462148966]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[1479bcfe-389b-455c-a18f-189462148966]]></partnerRequisitionId>
-    <company><![CDATA[Colégio GGE]]></company>
-    <title><![CDATA[COORDENADOR (a) PEDAGÓGICO]]></title>
-    <posterEmail><![CDATA[coordselecaorh@ggeweb.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Garantir um ambiente favorável para o aprendizado junto aos alunos, professores e familiares, acompanhando e orientando o desempenho acadêmico dos alunos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Alunos</strong>
-<ul>
-<li>
-Orientar em aulas, estudos, provas e projetos.
-</li>
-<li>
-Acompanhar desempenho pedagógico.
-</li>
-<li>
-Atender dificuldades, bom desempenho e participação em projetos.
-</li>
-<li>
-Observar necessidades afetivas e emocionais.
-</li>
-</ul>
-<strong>Família</strong>
-<ul>
-<li>
-Informar sobre rotina, aulas, provas e projetos.
-</li>
-<li>
-Acompanhar desempenho, dificuldades, conquistas, projetos e plantão pedagógico.
-</li>
-</ul>
-<strong>Professor</strong>
-<ul>
-<li>
-Orientar sobre filosofia da escola.
-</li>
-<li>
-Acompanhar conteúdos, provas, projetos, indicadores internos e dar feedback.
-</li>
-</ul>
-<strong>Rotina e acompanhamento</strong>
-<ul>
-<li>
-Controlar conteúdos, performance e procedimentos administrativos.
-</li>
-<li>
-Garantir cumprimento de horários, uniforme, substituições, provas e lançamentos de notas.
-</li>
-<li>
-Guiar professores e alunos conforme filosofia da escola.
-</li>
-</ul>
-<strong>Rotinas pedagógicas</strong>
-<ul>
-<li>
-Acompanhar lançamentos de conteúdos e notas no sistema.
-</li>
-<li>
-Verificar conformidade semanal e padrão na correção de provas.
-</li>
-<li>
-Criar grupos focais e preencher planilhas de acompanhamento.
-</li>
-</ul>
-<strong>Projetos pedagógicos</strong>
-<ul>
-<li>
-Divulgar projeto, levantar público participante, acompanhar execução e registrar agentes.
-</li>
-<li>
-Avaliar resultados, criar grupos focais se necessário.
-</li>
-<li>
-Preencher documentos finais e enviar registros para marketing.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior em Pedagogia ou áreas afins.<br /> - Conhecimento em metodologia de ensino e aprendizagem.<br /> - Experiência anterior em coordenação pedagógica ou em funções relacionadas.<br /> - Habilidade de planejamento e organização de atividades educativas.<br /> - Capacidade de liderança e trabalho em equipe.<br /> - Conhecimento em avaliação e acompanhamento de processos educativos.<br /> - Boa comunicação verbal e escrita.<br /> - Domínio das tecnologias aplicadas à educação.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgge/133/coordenador-a-pedagogico?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[84804947]]></companyId>
-    <city><![CDATA[Recife]]></city>
-    <state><![CDATA[Pernambuco]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[3740c6ee-ca22-4fd0-b097-61ec5a62f4a2]]></partnerJobId>
     <partnerRequisitionId><![CDATA[3740c6ee-ca22-4fd0-b097-61ec5a62f4a2]]></partnerRequisitionId>
     <company><![CDATA[Colégio GGE]]></company>
@@ -89562,6 +89498,26 @@ Boa comunicação, capacidade analítica e facilidade para relacionamento com cl
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[11f0585e-e66f-4298-a2b2-75166c9e1932]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[11f0585e-e66f-4298-a2b2-75166c9e1932]]></partnerRequisitionId>
+    <company><![CDATA[L'auto Cargo]]></company>
+    <title><![CDATA[Ajudante de Cargas]]></title>
+    <posterEmail><![CDATA[flavia.costa@lauto.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Auxiliar na carga e descarga de mercadorias em caminhões, armazéns e aeroportos.</li><li>Organizar e movimentar volumes conforme orientações da equipe de logística.</li><li>Conferir mercadorias recebidas e expedidas, garantindo integridade e quantidade correta.</li><li>Apoiar na separação e armazenagem de produtos.</li><li>Cumprir normas de segurança e procedimentos operacionais.</li><li>Manter o ambiente de trabalho limpo e organizado.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo.</li><li>Disponibilidade para atuar em regime de escala e horários flexíveis.</li><li>Comprometimento, disciplina e responsabilidade.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale-transporte (opcional)</li><li>Vale Alimentação ou Refeição</li><li>Parceria com o SEST SENAT<br /></li><li>Parceria com farmácias,  universidades e restaurantes.<br /></li><li>Possibilidade de Crescimento.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/57/ajudante-de-cargas?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11691971]]></companyId>
+    <city><![CDATA[Teresina]]></city>
+    <state><![CDATA[Piauí]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[8010faa8-ea1b-4f31-9b2d-aac6c882ea0d]]></partnerJobId>
     <partnerRequisitionId><![CDATA[8010faa8-ea1b-4f31-9b2d-aac6c882ea0d]]></partnerRequisitionId>
     <company><![CDATA[L'auto Cargo]]></company>
@@ -94522,6 +94478,34 @@ orientações da liderança.<br /><br /><b>Responsabilidades e atribuições</b>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[022a1d9f-dde2-46a2-baa7-a02b884ece14]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[022a1d9f-dde2-46a2-baa7-a02b884ece14]]></partnerRequisitionId>
+    <company><![CDATA[CR Duarte Engenharia]]></company>
+    <title><![CDATA[Jovem Aprendiz - SAC]]></title>
+    <posterEmail><![CDATA[vbarroso@crduarte.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Aprendiz do SAC tem a missão de apoiar as rotinas de atendimento ao cliente, contribuindo para uma comunicação clara, cordial e eficiente por meio dos canais digitais da empresa.Contribuirá para o atendimento das solicitações recebidas via WhatsApp, utilizando a plataforma Blip para apoiar a organização das conversas, o registro e o encaminhamento dos chamados às áreas responsáveis, colaborando para a qualidade e agilidade no atendimento ao cliente<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento ao cliente via WhatsApp e e-mail, esclarecendo dúvidas e direcionando solicitações.</li><li>Registro, atualização e acompanhamento de demandas no CRM.</li><li>Monitoramento de solicitações junto aos setores internos e controle de prazos.</li><li>Suporte às demandas financeiras de rotina, como consultas cadastrais e segunda via de boletos.</li><li>Utilização de sistemas internos para consultas e atualização de informações.</li><li>Organização de documentos, planilhas e registros do SAC.</li><li>Apoio às rotinas administrativas e à melhoria dos processos de atendimento.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ter até 22 anos.</li><li>Preferencialmente estar cursando nível superior em Administração, Comunicação ou áreas correlatas.</li><li>Ter disponibilidade para trabalhar 4 horas diárias, no período da manhã ou da tarde.</li><li>Possuir boa escrita, domínio da língua portuguesa e comunicação clara e cordial.</li><li>Ter organização, atenção aos detalhes e disposição para aprender.</li><li>Ter disponibilidade para atuar no bairro Papicu, em frente ao Shopping RioMar.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração: R$ 761,55</li><li>️ Vale-alimentação de<b> R$ 270,00.</b></li><li> Vale-transporte ou auxílio mobilidade (Uber/99).</li><li> Day Off no mês do seu aniversário.</li><li> Acesso ao <b>Wellhub (Gympass).</b></li><li> Plano odontológico por adesão.</li><li> Programa de qualidade de vida com ações de saúde e bem-estar, incluindo <b>ginástica laboral e sessões de massagem.</b></li><li> Plano de Carreira com oportunidades de <b>efetivação e crescimento profissional.</b></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirascrduarte/56/jovem-aprendiz-sac?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11497262]]></companyId>
+    <city><![CDATA[Fortaleza]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[761.55]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[761.55]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[93453cda-2352-4468-a5e3-1d67295854a1]]></partnerJobId>
     <partnerRequisitionId><![CDATA[93453cda-2352-4468-a5e3-1d67295854a1]]></partnerRequisitionId>
     <company><![CDATA[MUNDO LEILÃO]]></company>
@@ -99019,6 +99003,30 @@ tributária e da suporte em auditorias e planejamentos fiscais.<br /><br /><b>Re
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[7da23afb-dc45-4ebb-b636-13cb42caca3a]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[7da23afb-dc45-4ebb-b636-13cb42caca3a]]></partnerRequisitionId>
+    <company><![CDATA[Growth Supplements Carreiras]]></company>
+    <title><![CDATA[ATENDENTE]]></title>
+    <posterEmail><![CDATA[dienifer.marques@grwt.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <b>Atendente</b> para integrar no nosso time. Se você tem paixão por excelência, domínio técnico na sua área e busca um ambiente onde o sucesso coletivo é prioridade, essa oportunidade é para você. Aqui, você terá o espaço para prestar serviços de apoio ao cliente, através de atendimento via e-mail e Whatsapp; Atuar como ele entre a empresa e o 
+cliente, oferecendo suporte, orientações e soluções para suas necessidades.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar acesso na plataforma de pedidos, verificando os detalhes do pedido informando ao cliente o código de rastreio e 
+prazo de entrega da encomenda; </li><li>Solicitar imagens e informações de produtos em caso de possíveis faltas ou avarias; </li><li>Direcionar atendimentos aos Nutricionistas; </li><li>Informar prazos e disponibilidade de produtos;</li><li> Realizar atendimento da plataforma Reclame Aqui solicitando moderação; </li><li>Solicitar estorno de pagamento através da plataforma de cobrança;
+Acessar plataforma de emissão de notas ficais para realizar conferências e emissão de nota fiscal em caso de trocas ou 
+avarias;</li><li> Realizar outras atividades pertinentes à função, conforme a necessidade da área e/ou orientação do superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo; </li><li>Vivência com atendimento ao cliente; </li><li>Boa comunicação escrita e verbal; </li><li>Boa leitura e interpretação de texto; </li><li>Conhecimento gramatical; </li><li>Organização e atenção aos detalhes;</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale alimentação R$1.100,00</li><li>Convenio Farmácia</li><li>Seguro de Vida</li><li>Desconto Exclusivo para compra de produtos Growth </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/growthtalentos/51/atendente?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[112227475]]></companyId>
+    <city><![CDATA[Tijucas]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[90316601-91fc-4a61-8d4e-755fe1b7193d]]></partnerJobId>
     <partnerRequisitionId><![CDATA[90316601-91fc-4a61-8d4e-755fe1b7193d]]></partnerRequisitionId>
     <company><![CDATA[Growth Supplements Carreiras]]></company>
@@ -99038,26 +99046,6 @@ Pacote Office em geral (Word, Power Point, etc.);</li></ul><br /><br /><b>Benef�
     <companyId><![CDATA[112227475]]></companyId>
     <city><![CDATA[Tijucas]]></city>
     <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[7d890de4-e069-493d-b32d-aa101d40bb15]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[7d890de4-e069-493d-b32d-aa101d40bb15]]></partnerRequisitionId>
-    <company><![CDATA[Growth Supplements Carreiras]]></company>
-    <title><![CDATA[MOTORISTA]]></title>
-    <posterEmail><![CDATA[teresinha.cantelli@grwt.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <b>Motorista</b> para integrar no nosso time. Se você tem paixão por excelência, domínio técnico na sua área e busca um ambiente onde o sucesso coletivo é prioridade, essa oportunidade é para você. Aqui, você terá o espaço para realizar o transporte de cargas, matérias-primas ou produtos acabados, garantindo a entrega no prazo estipulado, a integridade da mercadoria e o cumprimento de todas as normas de segurança e legislação de trânsito e os procedimentos internos da empresa.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir o caminhão com segurança, respeitando as leis de trânsito e os limites de velocidade;</li><li>Realizar a entrega de mercadorias nos locais e horários definidos, seguindo a programação logística;</li><li>Acompanhar as operações de carga e descarga, assegurando que o acondicionamento e a amarração da carga estejam corretos e de acordo com as normas (ex: peso, distribuição, segurança);</li><li>Reportar atrasos, desvios e ocorrências de segurança (acidentes, roubos, avarias) à base operacional;</li><li>Praticar direção defensiva e econômica, visando a redução do consumo de combustível, a diminuição do desgaste do veículo e a prevenção de multas;</li><li>Realizar outras atividades pertinentes à função, conforme a necessidade da área e/ou orientação do superior imediato.</li><br /><br /></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>CNH C;</li><li>Experiência mínima 1 ano na função</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale alimentação R$1.100,00</li><li>Convenio Farmácia</li><li>Seguro de Vida</li><li>Desconto Exclusivo para compra de produtos Growth </li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/growthtalentos/47/motorista?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[112227475]]></companyId>
-    <city><![CDATA[Arujá]]></city>
-    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -100402,26 +100390,6 @@ Remuneração Variável (Bonificação)WellhubPlano de Carreira: após 6 meses d
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[05f87190-7514-426d-b2aa-f056aa95158d]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[05f87190-7514-426d-b2aa-f056aa95158d]]></partnerRequisitionId>
-    <company><![CDATA[FitS]]></company>
-    <title><![CDATA[Executivo (a) Comercial]]></title>
-    <posterEmail><![CDATA[tamires.lauria@fitbank.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar de forma estratégica na originação de novos negócios e na expansão da carteira de clientes, conduzindo vendas consultivas com foco na geração de receita recorrente, no fortalecimento de relacionamentos e no desenvolvimento sustentável da base. Também é responsável por manter alinhamento com os objetivos comerciais da organização, assegurar a qualidade do pipeline e dos processos de venda, conduzir negociações de ponta a ponta e contribuir para o atingimento das metas estabelecidas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar na originação (prospecção) de novos negócios e na expansão da carteira de clientes por meio de vendas consultivas. </li></ul><br /><ul><li>Identificar oportunidades em contas novas e existentes (upsell e cross-sell), compreendendo necessidades e conectando soluções ao contexto do cliente. </li></ul><br /><ul><li>Conduzir reuniões de diagnóstico, apresentações comerciais e negociações até o fechamento. </li></ul><br /><ul><li>Desenvolver e manter relacionamento estratégico com decisores e stakeholders. </li></ul><br /><ul><li>Contribuir para retenção e crescimento sustentável da receita. <br /><br />Atuação em processos e gestão comercial <br /><ul><li>Gerenciar pipeline, forecast e etapas do funil com organização e previsibilidade. </li></ul><br /><ul><li>Registrar e acompanhar oportunidades e interações utilizando as ferramentas disponibilizadas para o processo de vendas (CRM e demais plataformas de apoio comercial), garantindo qualidade e rastreabilidade das informações. </li></ul><br /><ul><li>Atuar de forma integrada com áreas internas.  </li></ul><br /><ul><li>Apoiar o handoff para implantação e acompanhar o pós-venda comercial, garantindo continuidade e identificação de novas oportunidades. </li></ul><br /><ul><li>Utilizar indicadores e análises de dados para direcionar prioridades comerciais, acompanhar performance e apoiar a tomada de decisão estratégica. </li></ul><br /></li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação compatível com a atuação em vendas e desenvolvimento de negócios. <br /> <br /><ul><li>Ensino superior completo em Administração, Economia, Marketing, Gestão Comercial ou áreas correlatas. </li></ul><br /><ul><li>MBA ou pós-graduação em áreas relacionadas à gestão de negócios ou marketing. </li></ul><br /><ul><li>Diferencial Idiomas: Inglês <br /><br />Experiência prévia em atividades relacionadas à atuação do cargo. <br />Vivência em contextos, áreas ou responsabilidades compatíveis com a posição. <br />Experiência com sistemas, plataformas ou ferramentas relacionadas à função. <br /> <br />Ex.: <br /><ul><li>Experiência em mercados de tecnologia, pagamentos ou serviços financeiros. </li></ul><br /><ul><li>Experiência em vendas consultivas B2B, com foco em geração de novos negócios e expansão de contas. </li></ul><br /><ul><li>Noções básicas de métricas comerciais (pipeline, SLA, follow-up, taxa de conversão etc.). </li></ul><br /><ul><li>Conhecimento em CRM, PipeDrive e ferramentas de análise de vendas. </li></ul><br /><ul><li>Atuação em ciclos de vendas de média e longa duração. </li></ul><br /><ul><li>Experiência em originação (prospecção) e gestão de carteira de clientes. </li></ul><br /><ul><li>Vivência em negociações comerciais complexas, envolvendo múltiplos stakeholders. </li></ul><br /></li></ul><br /><br /><br /><b>Benefícios</b><br /><br />Plano de Saúde: SulAmérica<br />Descanso remunerado (30 dias)<br />Remuneração Variável (Bonificação)<br />Plano de Carreira: após 6 meses de empresa, e de acordo com o desempenho, você já poderá estar elegível para promoção.<br />Parcerias exclusivas com a ESPM, escolas de idiomas, locadoras, restaurantes da região e muito mais.<br /><br /><br /><br /><i>Além disso, contamos com o Programa Partnership: após 1 ano de empresa, você poderá ser convidado a se tornar sócio da companhia! </i><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fits/45/executivo-a-comercial?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[16164762]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[795b294f-703a-405c-aebf-bc4248c39d23]]></partnerJobId>
     <partnerRequisitionId><![CDATA[795b294f-703a-405c-aebf-bc4248c39d23]]></partnerRequisitionId>
     <company><![CDATA[FitS]]></company>
@@ -100429,26 +100397,6 @@ Remuneração Variável (Bonificação)WellhubPlano de Carreira: após 6 meses d
     <posterEmail><![CDATA[tamires.lauria@fitbank.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Atuar na originação de novos negócios e na expansão da carteira de clientes, conduzindo vendas consultivas com foco na geração de receita, fortalecimento de relacionamento e desenvolvimento sustentável da base. Responsável por executar o processo comercial de ponta a ponta, garantindo organização do pipeline, qualidade das oportunidades e contribuição para o atingimento das metas comerciais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li> Atuar na originação (prospecção) de novos negócios e na expansão da carteira de clientes por meio de vendas consultivas. </li></ul><br /><ul><li> Identificar oportunidades em contas novas e existentes (upsell e cross-sell). </li></ul><br /><ul><li>  Conduzir reuniões de diagnóstico, apresentações comerciais e negociações conforme diretrizes comerciais. </li></ul><br /><ul><li> Desenvolver relacionamento com decisores e stakeholders das contas atendidas. </li></ul><br /><ul><li>Contribuir para retenção e crescimento da receita da base. <br />Atuação em processos e gestão comercial <br /><ul><li>  Gerenciar pipeline, forecast e etapas do funil com organização e disciplina comercial. </li></ul><br /><ul><li> Registrar e acompanhar oportunidades e interações utilizando as ferramentas disponibilizadas para o processo de vendas, garantindo qualidade das informações. </li></ul><br /><ul><li>  Atuar de forma integrada com áreas internas para evolução das oportunidades. </li></ul><br /><ul><li> Apoiar o handoff para implantação e acompanhar o pós-venda comercial. </li></ul><br /><ul><li>Utilizar indicadores e análises de dados para acompanhamento de performance e priorização das oportunidades. </li></ul><br /></li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação compatível com a atuação em vendas e desenvolvimento de negócios. <br /><ul><li>Ensino superior completo ou em andamento em Administração, Economia, Marketing, Gestão Comercial ou áreas correlatas. </li></ul><br /><ul><li>Cursos relacionados a vendas consultivas, negociação ou gestão comercial serão considerados diferenciais. </li></ul><br /><ul><li>Diferencial: Inglês intermediário e experiência com ferramentas de IA.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br />Plano de Saúde: SulAmérica<br />Descanso remunerado (30 dias)<br />Remuneração Variável (Bonificação)<br />Plano de Carreira: após 6 meses de empresa, e de acordo com o desempenho, você já poderá estar elegível para promoção.<br />Parcerias exclusivas com a ESPM, escolas de idiomas, locadoras, restaurantes da região e muito mais.<br /><br /><br /><br /><i>Além disso, contamos com o Programa Partnership: após 1 ano de empresa, você poderá ser convidado a se tornar sócio da companhia! </i><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fits/40/atuacao-comercial-hunter-farming?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[16164762]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[d9ee3b4f-f7f4-4be1-a4fa-86971cfce395]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[d9ee3b4f-f7f4-4be1-a4fa-86971cfce395]]></partnerRequisitionId>
-    <company><![CDATA[FitS]]></company>
-    <title><![CDATA[Gerente Comercial]]></title>
-    <posterEmail><![CDATA[larissa.freitas@fitbank.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos redefinindo a infraestrutura financeira do país e buscamos pessoas ambiciosas, inquietas e movidas por crescimento. Aqui, você não será apenas mais um executivo de vendas: será parte da transformação de negócios tradicionais para a economia digital.<br /><br />Se você está nos primeiros anos da sua carreira, tem vontade de aprender, resiliência para superar desafios e quer atuar no centro da inovação financeira, seu lugar é aqui.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Hackear o mercado:<strong> </strong>Desenvolver e executar estratégias comerciais agressivas e inteligentes para escalar nossa receita. Lembrando que temos claro o nosso ICP.<br /><br />Abrir caminhos: Apoio na prospecção e no fechamento de grandes contas, transformando leads frios em parcerias de longo prazo.<br /><br />Dominar dados: Gerenciar o pipeline e as ferramentas de vendas (CRM, funil) com foco cirúrgico em conversão e indicadores de performance.<br /><br />Construir ecossistemas: Cultivar relacionamentos de alto nível com clientes e parceiros estratégicos do setor.<br /><br /><i>O que você fará no dia a dia?</i><ul><li>Ler o mercado e a concorrência, identificando brechas e antecipando tendências para ajustar nosso pitch.</li><li>Liderar negociações complexas e contratos comerciais, garantindo o melhor deal para o ecossistema.</li><li>Executar o go-to-market de novas soluções, garantindo que nossas inovações cheguem aos players certos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação:<strong> </strong>Graduação em Administração, Economia, Engenharia, Marketing ou áreas que tenham proporcionado uma base analítica. (Pós-graduação ou MBA são muito bem-vindos, mas seu resultado prático fala mais alto.)<br /><br />DNA Comercial: Experiência com vendas B2B dentro do ecossistema de serviços financeiros ou tecnologia. Experiencia em BaaS será considerado um diferencial.<br /><br />Visão de Funil: Domínio prático de estratégias de Inbound e Outbound Marketing.<br /><br />Soft Skills:<strong> </strong>Comunicação magnética, capacidade de escuta ativa e facilidade para conduzir negociações complexas.<br /><br /><b>Benefícios</b><br /><br />Plano de Saúde: SulAmérica<br />Descanso remunerado (30 dias)<br />Remuneração Variável (Bonificação)<br />Plano de Carreira: após 6 meses de empresa, e de acordo com o desempenho, você já poderá estar elegível para promoção.<br />Parcerias exclusivas com a ESPM, escolas de idiomas, locadoras, restaurantes da região e muito mais.<br /><br /><br /><br /><i>Além disso, contamos com o Programa Partnership: após 1 ano de empresa, você poderá ser convidado a se tornar sócio da companhia! </i><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fits/39/gerente-comercial?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[16164762]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -101629,6 +101577,34 @@ mercadorias será considerada um diferencial.</li></ul><br /><br /><b>Benefício
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/portaldecarreirasgrupovenus/65/estoquista?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[90872087]]></companyId>
     <city><![CDATA[Quirinópolis]]></city>
+    <state><![CDATA[Goiás]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[596cfa09-6fb9-45bc-b6b8-60935c6ab694]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[596cfa09-6fb9-45bc-b6b8-60935c6ab694]]></partnerRequisitionId>
+    <company><![CDATA[Grupo Vênus]]></company>
+    <title><![CDATA[ANALISTA DE RH - RECRUTAMENTO E SELEÇÃO]]></title>
+    <posterEmail><![CDATA[andreia.menezes@grupovenusrv.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><br />Atuar nos processos de Recrutamento e Seleção, desde o alinhamento do perfil das vagas com os gestores até a atração, triagem, entrevista e encaminhamento de candidatos, buscando profissionais alinhados às necessidades do negócio e à cultura da empresa. Acompanhar as etapas dos processos seletivos, garantindo agilidade, organização, qualidade nas entregas e uma experiência positiva aos candidatos e gestores. Apoiar também as iniciativas e os projetos de Gente e Cultura voltados ao desenvolvimento de pessoas, clima organizacional, comunicação interna e fortalecimento da cultura da empresa.<br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir os processos de Recrutamento e Seleção, desde o alinhamento do perfil com os gestores até o encaminhamento dos candidatos aprovados;</li><li>Divulgar vagas em diferentes canais, realizar triagem de currículos e busca ativa de profissionais;</li><li>Conduzir entrevistas individuais e coletivas, apoiar dinâmicas de grupo e demais etapas de avaliação dos candidatos;</li><li>Manter contato com candidatos, fornecendo informações e atualizações sobre as etapas do processo seletivo, garantindo uma experiência positiva;</li><li>Registrar e atualizar as informações dos candidatos e das vagas no sistema FEEDZ ATS;</li><li>Elaborar pareceres de entrevistas e apresentar aos gestores informações que contribuam para a tomada de decisão;</li><li>Acompanhar o andamento das vagas, as aprovações e reprovações, garantindo alinhamento com os gestores e cumprimento dos prazos;</li><li>Monitorar indicadores de Recrutamento e Seleção, contribuindo para a análise dos resultados e a melhoria dos processos;</li><li>Manter o banco de talentos atualizado e apoiar ações de atração de profissionais e fortalecimento da marca empregadora;</li><li>Apoiar projetos e iniciativas de Gente e Cultura relacionados a clima organizacional, desenvolvimento de pessoas, comunicação interna e cultura organizacional;</li><li>Zelar pela confidencialidade das informações e pelo cumprimento das políticas, procedimentos e diretrizes internas do Grupo Vênus.</li></ul>
+
+
+
+
+
+
+
+<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>      Ensino superior em andamento ou completo em Psicologia, Administração, Gestão de Recursos Humanos ou áreas correlatas.</li><li>Conhecimento em processos de Recrutamento e Seleção, incluindo triagem de currículos, entrevistas e dinâmicas;</li><li>Pacote Office, especialmente Excel, ou Google Planilhas, em nível intermediário;</li><li>Vivência com ferramentas de Recrutamento e Seleção (ATS, Feedz, Gupy ou similares) será um diferencial.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Alimentação;</li><li>Day off no Aniversário;</li><li>Presente de Aniversário;</li><li>Plano Odontológico;</li><li>Plano de Saúde;</li><li>Seguro de vida;</li><li>Caju + ( Conexa Saúde, Psicologia Viva e Wellhub);</li><li>Desconto exclusivo em produtos O Boticário;</li><li>Vale Transporte.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/portaldecarreirasgrupovenus/70/analista-de-rh-recrutamento-e-selecao?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[90872087]]></companyId>
+    <city><![CDATA[Rio Verde]]></city>
     <state><![CDATA[Goiás]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -108557,6 +108533,26 @@ produtos intermediários<br /><br /><br /><b>Requisitos e qualificações</b><br
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[5504bd72-0dab-4e69-88ee-c2c33eb3a99e]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[5504bd72-0dab-4e69-88ee-c2c33eb3a99e]]></partnerRequisitionId>
+    <company><![CDATA[WSI - Marketing e Vendas]]></company>
+    <title><![CDATA[Coordenadora Comercial]]></title>
+    <posterEmail><![CDATA[rh@wsidm.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de uma pessoa para atuar como <strong>Coordenadora Comercial</strong>, contribuindo diretamente para a estruturação, crescimento e evolução da área de Inteligência Comercial da WSI.<br />Essa é uma posição para quem tem <strong>forte experiência comercial, domínio de CRM e visão de processos de vendas</strong>, e gosta de transformar dados, processos e oportunidades em resultados.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Gerenciar projetos e carteira de clientes de Inteligência Comercial;</li><li>Realizar onboarding de novos clientes, alinhando expectativas, cronograma e próximos passos;</li><li>Conduzir briefings e levantamentos necessários para estruturação dos projetos;</li><li>Estruturar e acompanhar processos comerciais e jornadas de atendimento;</li><li>Desenvolver, configurar e acompanhar CRM, automações e processos no Pipelead;</li><li>Estruturar scripts, playbooks e fluxos de atendimento;</li><li>Acompanhar integrações com canais de marketing e WhatsApp;</li><li>Realizar reuniões periódicas com as equipes dos clientes;</li><li>Acompanhar indicadores, taxas de conversão, funis e KPIs de atendimento;</li><li>Identificar gargalos comerciais e operacionais e propor soluções;</li><li>Orientar e acompanhar a atuação das secretárias dentro dos processos definidos;</li><li>Realizar reuniões de acompanhamento e apresentação de resultados com clientes;</li><li>Identificar oportunidades de melhoria e expansão dentro da carteira;</li><li>Desenvolver oportunidades relacionadas a novos funis, automações, Academia e demais soluções da WSI;</li><li>Acompanhar a saúde dos projetos e garantir evolução contínua da carteira;</li><li>Realizar status reports e acompanhamento das consultoras;</li><li>Desenvolver e apoiar tecnicamente as consultoras de Inteligência Comercial e IA;</li><li>Coordenar, conforme expansão da estrutura, as consultoras de IC e IA;</li><li>Participar de reuniões comerciais, fechamentos e eventos estratégicos da área;</li><li>Contribuir para a estruturação e crescimento da área de Inteligência Comercial.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa em áreas colarretadas; </li><li>Experiência profissional na área comercial;</li><li>Experiência com CRM;</li><li>Conhecimento de processos comerciais e funil de vendas;</li><li>Experiência com acompanhamento de indicadores e conversão;</li><li>Capacidade de analisar processos, identificar gargalos e propor melhorias;</li><li>Experiência com gestão de carteira ou relacionamento com clientes;</li><li>Boa comunicação e capacidade de conduzir reuniões;</li><li>Perfil consultivo e orientação para resultados;</li><li>Experiência profissional na área comercial;</li><li>Experiência com CRM;</li><li>Conhecimento de processos comerciais e funil de vendas;</li><li>Experiência com acompanhamento de indicadores e conversão;</li><li>Capacidade de analisar processos, identificar gargalos e propor melhorias;</li><li>Experiência com gestão de carteira ou relacionamento com clientes;</li><li>Boa comunicação e capacidade de conduzir reuniões;</li><li>Perfil consultivo e orientação para resultados;</li><li>Disponibilidade para atuação híbrida em São Paulo.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>DayOff de aniversário;</li><li>Folga remunerada;</li><li>Reembolso de deslocamento</li><li>Remuneração variável. </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaswsidm/27/coordenadora-comercial?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[2394088]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[7575989d-2402-45bf-8ef3-e2ea0a59961b]]></partnerJobId>
     <partnerRequisitionId><![CDATA[7575989d-2402-45bf-8ef3-e2ea0a59961b]]></partnerRequisitionId>
     <company><![CDATA[WSI - Marketing e Vendas]]></company>
@@ -109449,26 +109445,6 @@ Organização para atuação no setor.</li>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e0b4552e-cb9a-4553-a3a6-4c171f70a37a]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[e0b4552e-cb9a-4553-a3a6-4c171f70a37a]]></partnerRequisitionId>
-    <company><![CDATA[CASIO BRASIL]]></company>
-    <title><![CDATA[VENDEDOR(A) DE CALCULADORAS - VAREJO (BRASIL)]]></title>
-    <posterEmail><![CDATA[dkamel@casio.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) profissional para atuar na área de vendas de calculadoras, sendo responsável por acompanhar todo o pipeline comercial e realizar a gestão completa das rotinas de sua carteira de clientes junto ao Varejo em geral (Online &amp; Offline). A posição envolve atuação integrada nas operações do Brasil, com foco na alavancagem de resultados, expansão de vendas e aumento de market share.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b> Principais responsabilidades</b><ul><li>Planejar e executar estratégias comerciais para atingimento de metas;</li><li>Atender clientes ativos, prospectar novos clientes e identificar oportunidades de negócios;</li><li>Elaborar propostas comerciais, pedidos e acompanhar faturamento, entregas e devoluções;</li><li>Administrar demandas de pós-venda e relacionamento com clientes;</li><li>Acompanhar indicadores, metas mensais e semestrais, mantendo controles e relatórios atualizados;</li><li>Contribuir com estratégias de marketing e planos de ação do departamento comercial;</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b> Requisitos</b><ul><li>Expertise em vendas de bens de consumo duráveis (Eletrônicos, Informática e Papelaria);</li><li>Graduação Completa;</li><li>Conhecimentos em Excel (Tabela Dinâmica e PROCV);</li><li>Disponibilidade para Viagens;</li><li>Residir em São Paulo (SP).</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência Médica Bradesco Saúde (Sem mensalidade e sem copay);</li><li>Assistência Odontológica Bradesco;</li><li>Seguro de Vida;</li><li>Previdência Privada;</li><li>Desconto em Produtos;</li><li>PLR;</li><li>Vale Refeição;</li><li>Convênios com parceiros;</li><li>Total Pass;</li><li>Zenklub;</li><li>Modelo Híbrido de Trabalho (50%);</li><li>Jornada 5x2 (40h semanais).</li></ul><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/casiobr/13/vendedor-a-de-calculadoras-varejo-brasil?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2460017]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[af84d6b5-0335-41e3-a4b8-9e3c6cfeeba6]]></partnerJobId>
@@ -117175,6 +117151,26 @@ Apoiar a melhoria e padronização dos processos, além do desenvolvimento e cad
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4c64a09b-c0ae-4be5-bcad-c52d09d28100]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[4c64a09b-c0ae-4be5-bcad-c52d09d28100]]></partnerRequisitionId>
+    <company><![CDATA[Conam – Consultoria em Administração Municipal]]></company>
+    <title><![CDATA[Suporte - Contabilidade]]></title>
+    <posterEmail><![CDATA[larissa.pereira@conam.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Técnico de Suporte Pleno</strong> para integrar nossa equipe, atuando no atendimento aos clientes, resolução de problemas técnicos e implantação de sistemas voltados à contabilidade e à gestão pública.Buscamos um profissional com perfil analítico, boa comunicação, autonomia e foco na satisfação do cliente, capaz de compreender regras de negócio, identificar necessidades, propor soluções e contribuir para o uso eficiente dos sistemas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prestar suporte técnico aos clientes por telefone, chat, e-mail, sistema de chamados, videochamadas e atendimentos presenciais.</li><li>Investigar, analisar e solucionar problemas técnicos, falhas sistêmicas e erros operacionais.</li><li>Realizar implantações de sistemas, levantando requisitos, identificando regras de negócio e mapeando fluxos de trabalho dos clientes.</li><li>Acompanhar a utilização dos sistemas, orientando os usuários e identificando oportunidades de melhoria.</li><li>Planejar e ministrar treinamentos para clientes, de forma presencial ou remota.</li><li>Registrar e acompanhar chamados técnicos, mantendo uma comunicação clara com os clientes e as equipes internas.</li><li>Interagir com a equipe de desenvolvimento para reportar falhas, solicitar análises e acompanhar correções e melhorias.</li><li>Realizar apresentações das funcionalidades dos sistemas para clientes e potenciais clientes.</li><li>Auxiliar na análise técnica de editais de licitação, verificando a aderência do sistema aos requisitos solicitados.</li><li>Participar de provas de conceito (POCs), preparando ambientes e demonstrando funcionalidades conforme as necessidades identificadas.</li><li>Zelar pela segurança, integridade e confidencialidade das informações dos clientes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou formação técnica na área de atuação.</li><li>Conhecimento em contabilidade, administração pública ou sistemas de gestão pública.</li><li>Experiência profissional de 3 a 6 anos em suporte técnico, atendimento ao cliente ou implantação de sistemas.</li><li>Conhecimentos básicos em Windows e Pacote Office (Word, Excel e PowerPoint).</li><li>Boa comunicação verbal e escrita.</li><li>Capacidade de análise, investigação e resolução de problemas.</li><li>Organização, autonomia e habilidade para gerenciar demandas simultâneas.</li><li>Facilidade para trabalhar em equipe e lidar com diferentes perfis de clientes.</li></ul><br /><br /><b>Benefícios</b><br /><br />* Vale-Refeição de R$ 40,00 por dia, com possibilidade de utilização como Vale-Alimentação;<br />* Refeitório próprio no local, para quem preferir utilizá-lo;<br />* Convênio médico 100% custeado pela empresa para o colaborador após o período de experiência;<br />* Vale-Transporte;<br />* Plano Odontológico;<br />* Seguro de Vida;<br />* Gympass;<br />* Convênio com instituições de ensino;<br />* Day Off no mês do aniversário.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/conam/6/suporte-contabilidade?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[808763]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[aa0ee942-98a6-4896-8f47-ac3d5fe7c88b]]></partnerJobId>
