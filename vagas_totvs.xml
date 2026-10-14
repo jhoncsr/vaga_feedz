@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 14 Oct 2026 17:22:11 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 18:22:22 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[4138]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4142]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerRequisitionId>
@@ -1098,6 +1098,26 @@ Salário + Produtividade;</li></ul>]]></description>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[5bb2e9d8-92fc-4128-b949-bf50786303e3]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[5bb2e9d8-92fc-4128-b949-bf50786303e3]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Especialista em Qualidade de Software]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Garantir a qualidade das entregas da plataforma de agentes de Inteligência Artificial da TOTVS, substituindo testes manuais por uma estratégia robusta de automação.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver e manter automações de testes unitários, de integração e E2E para os microsserviços em Python (FastAPI) e frontend em Angular;<br /></li><li>Integrar os testes automatizados ao pipeline de CI/CD em colaboração com os SREs;<br /></li><li>Validar a qualidade de aplicações baseadas em nuvem, PostgreSQL, Redis e diversos modelos de LLM de mercado.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida em automação de testes e garantia de qualidade de software utilizando Python e frontend;<br /></li><li>Conhecimento em microsserviços, FastAPI, PostgreSQL, Redis e ambientes de nuvem;<br /></li><li>Familiaridade com a integração de testes em pipelines de CI/CD;<br /></li><li>Capacidade de leitura em inglês para compreensão de documentações técnicas;<br /></li><li>Experiência com controle de versão com Git.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12712/tech-especialista-em-qualidade-de-software?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -3281,6 +3301,26 @@ que agreguem valor ao produto, garantindo a satisfação do cliente dentro da
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11189/vendas-gerente-de-contas-junior-hunter?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[15ad6dc4-952d-4624-b3f8-52499d7b9c9c]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[15ad6dc4-952d-4624-b3f8-52499d7b9c9c]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Pré-vendas] Auxiliar de Prospecção Comercial - BDR]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional que ficará responsável por prospectar e identificar novas oportunidades de negócios. Sua principal responsabilidade será prospectar e qualificar leads de acordo com o perfil de cliente ideal da TOTVS, garantindo que aqueles que se encaixam perfeitamente com as nossas soluções sejam identificados e abordados de maneira eficaz.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><b>O QUE VOCÊ VAI FAZER:<br /></b><li>Apoiar a prospecção de novas contas, conforme orientações recebidas, por meio de ligações, páginas de perfil profissional, WhatsApp e outras ferramentas;</li><li>Qualificar e acompanhar o lead do início até a reunião realizada, conforme orientações recebidas, acionando profissionais e/ou áreas responsáveis quando necessário;</li><li>Qualificar leads, conforme orientações recebidas, através de pesquisas na internet, páginas de perfil profissional, contatos telefônicos ou via WhatsApp;</li><li>Prospectar novas contas, conforme orientações recebidas, por meio de contatos telefônicos, e-mail, WhatsApp e agendamento de visitas/demonstrações presenciais ou online.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino médio completo;</li><li>Vivência com vendas outbound B2B de software/SaaS;</li><li>Disponibilidade para atuar no modelo híbrido, com 3 dias presenciais e 2 dias em home office.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12678/pre-vendas-auxiliar-de-prospeccao-comercial-bdr?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -5743,26 +5783,6 @@ A posição está inserida na Gerência Executiva de Planejamento e Negócios, q
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Desenvolver e sustentar funcionalidades de software, que agreguem valor ao produto, garantindo a satisfação do cliente dentro da área de atuação<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver soluções técnicas de média complexidade, com nível de supervisão moderado e pouco apoio, através do desenvolvimento de requisitos de softwares utilizando-se das tecnologias envolvidas no projeto; <br /></li><li>Compreender a arquitetura do software e ser capaz de atuar nela através da análise de seus componentes, organização e funcionalidades; <br /></li><li>Criar testes de média complexidade, sejam estes manuais ou automatizados, que cubram o comportamento desejado dos componentes técnicos desenvolvidos utilizando os requisitos e ferramentas de testes; <br /></li><li>Documentar as etapas de desenvolvimento realizando o registro do desenvolvimento nas ferramentas de versionamento e documentação; <br /></li><li>Trabalhar com o time de desenvolvimento para encontrar soluções de negócio, arquitetura e desenho através da comunicação e trocas de conhecimento; <br /></li><li>Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados; <br /></li><li>Orientar desenvolvedores de menor senioridade apoiando suas dúvidas, disseminando seu conhecimento, desenhando e arquitetando soluções ou indicando documentação de apoio; <br /></li><li>Detalhar requisitos de baixa e média complexidade através do contato com clientes e áreas envolvidas no projeto/atendimento; <br /></li><li>Utiliza frameworks já definidos para o desenvolvimento de soluções</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação: : Superior completo em tecnologia e afins. </li></ul><ul><li>Lógica de Programação; <br /></li><li>Banco de Dados – nível intermediário; <br /></li><li>Linguagem de programação utilizada pelo time (exemplo: ADVLP, PO.UI, Angular); <br /></li><li>Fundamento em testes unitários; <br /></li><li>Arquitetura web – nível básico; <br /></li><li>Métodos ágeis de desenvolvimento de software – desejável nível Intermediário; <br /></li><li>Regras de negócio do Protheus e seus módulos.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/9092/tech-engenharia-de-software-pleno-advpl-ti?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e97d5718-a6eb-4cdb-b5e0-82632b537d30]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[e97d5718-a6eb-4cdb-b5e0-82632b537d30]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Vendas] Agente de Prospecção de Negócios - Cloud]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar como protagonista na geração de novas oportunidades de negócios para as soluções TOTVS Cloud, conectando-se com empresas de diferentes segmentos e contribuindo diretamente para a expansão da estratégia de Cloud da TOTVS. O profissional será responsável por identificar potenciais clientes, compreender seus desafios de negócio e conduzir abordagens consultivas que despertem interesse e gerem valor desde o primeiro contato. Em um ambiente dinâmico, colaborativo e orientado a resultados, o APN II trabalhará em parceria com times de Marketing,<br />Vendas, Pré-Vendas e Produto, participando de iniciativas estratégicas voltadas à aceleração da adoção de soluções em nuvem. Entre os principais desafios estão a prospecção qualificada de contas, a construção de relacionamentos com tomadores de decisão, a geração consistente de oportunidades e a contribuição para o crescimento sustentável da receita de Cloud.<br />Esta é uma oportunidade para profissionais que desejam desenvolver uma visão consultiva de negócios, aprofundar conhecimentos em tecnologia e transformação digital e fazer parte da principal empresa de tecnologia do Brasil, impactando diretamente a jornada de modernização dos clientes por meio da computação em nuvem.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar prospecção ativa de novos clientes por meio de diferentes canais de contato, como telefone, e- mail, LinkedIn e outras ferramentas de relacionamento;</li><li>Identificar e qualificar oportunidades de negócios para as soluções TOTVS Cloud, entendendo o cenário, as necessidades e os desafios dos potenciais clientes;</li><li>Agendar e conduzir reuniões de descoberta, garantindo a coleta de informações relevantes para o avanço das oportunidades;</li><li>Desenvolver abordagens consultivas e personalizadas, gerando interesse e valor para os prospects durante as interações comerciais;</li><li>Atuar na geração e no desenvolvimento de pipeline, contribuindo para o atingimento das metas de crescimento da unidade de Cloud;.</li><li>Registrar e atualizar informações das oportunidades nos sistemas corporativos, garantindo a qualidade dos dados e a previsibilidade do funil comercial;</li><li>Trabalhar em conjunto com os times de Marketing, Pré-Vendas, Vendas e Sucesso do Cliente para potencializar a conversão de oportunidades;</li><li>Participar de campanhas, eventos, webinars e ações estratégicas voltadas à geração de demanda e expansão da base de clientes;</li><li>Acompanhar indicadores de desempenho, produtividade e conversão, propondo ações para otimizar os resultados;</li><li>Manter-se atualizado sobre tendências de mercado, computação em nuvem, transformação digital e portfólio de soluções TOTVS;</li><li>Apoiar a construção de estratégias de prospecção para contas-alvo, segmentos específicos e iniciativas comerciais prioritárias;</li><li>Contribuir para a melhoria contínua dos processos, scripts, playbooks e práticas de prospecção da operação de Cloud.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior completa ou em andamento em Administração, Marketing, Gestão Comercial, Tecnologia da Informação, Sistemas de Informação ou áreas correlatas;</li><li>Experiência prévia em prospecção de negócios, geração de demanda, pré-vendas, desenvolvimento de negócios (BDR/SDR) ou vendas consultivas.</li><li>Vivência com qualificação de oportunidades e gestão de funil comercial;</li><li>Conhecimento em técnicas de prospecção outbound e inbound;</li><li>Experiência na utilização de CRM para gestão de leads, oportunidades e atividades comerciais;</li><li>Excelente comunicação verbal e escrita, com capacidade de adaptar a abordagem para diferentes perfis de clientes;</li><li>Perfil analítico, organizado e orientado a resultados;</li><li>Capacidade de atuar em ambientes dinâmicos, com foco no atingimento de metas e indicadores de desempenho;</li><li>Conhecimento em soluções de tecnologia, transformação digital ou computação em nuvem;</li><li>Familiaridade com processos de vendas B2B e metodologias de qualificação de oportunidades;</li><li>Conhecimento em ferramentas de prospecção, inteligência comercial e social selling, como LinkedIn Sales Navigator, CRM e plataformas de automação comercial;</li><li>Domínio do pacote Microsoft Office ou do Google Workspace.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10472/vendas-agente-de-prospeccao-de-negocios-cloud?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -9581,6 +9601,26 @@ aplicável).</li></ul>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[5619b895-860a-44b6-b5bc-803961013302]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[5619b895-860a-44b6-b5bc-803961013302]]></partnerRequisitionId>
+    <company><![CDATA[MOTOMCO]]></company>
+    <title><![CDATA[Vendedor / Closer]]></title>
+    <posterEmail><![CDATA[bruno.martins@motomco.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Salario fixo + Comissão;</li><li>Contrato CLT;</li><li>Seg à Sex - carga horária de 44 hrs.</li></ul><br /><br />Estamos em busca de profissionais dinâmicos que desejam fazer parte de uma equipe comprometida em proporcionar experiências memoráveis aos nossos clientes enquanto impulsionam as vendas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prospectar novos clientes visando a venda dos produtos da empresa;</li><li>Gerar a proposta e encaminhar ao cliente, assim como manter contato para fechamento da venda.</li><li>Negociar prazos e condições, conforme orientações da gestão;</li><li>Acompanhar a entrega dos pedidos dentro dos prazos negociados com o cliente.</li><li>Manter o relacionamento comercial ativo com os clientes em potencial e aos fidelizados;</li><li>Acompanhamento de carteira de clientes ativos.</li><li>Cadastro de pedidos, para controle e faturamento, quando necessário;</li><li>Contato com clientes, via e-mail, DigiSac ou telefone;</li><li>Manter-se atualizada sobre mudanças de mercado;</li><li>Realizar viagens a clientes ou feiras conforme necessidade.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo em Gestão Comercial, Vendas ou áreas correlatas.</li><li>Excel Intermediário.</li><li>Experiência prévia em atendimento ao cliente e vendas.</li><li>Experiência com a venda consultiva e remota, sistema CRM e vendas B2B e B2C.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de Saúde Unimed – cuidado com a saúde, foco em prevenção e qualidade de vida.</li><li>Vale Refeição – R$ 60,00 por dia, com desconto 1%.</li><li>Vale Transporte (VT) – desconto reduzido de 3% em folha.</li><li>Auxílio Medicamento – R$ 180,00 mensais para apoio com despesas farmacêuticas.</li><li>Plataforma de Saúde Mental – apoio ao bem-estar emocional e psicológico.</li><li>TotalPass – acesso a academias e atividades físicas.</li><li>Day Off no aniversário – um dia de folga para celebrar sua data.</li><li>Clube de Descontos (Clube Gazeta) – descontos em diversos parceiros.</li><li>Licença parental estendida – +15 dias para mães e +5 dias para pais.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/timemotomco/102/vendedor-closer?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[10046699]]></companyId>
+    <city><![CDATA[Curitiba]]></city>
+    <state><![CDATA[Paraná]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[721a2d88-b672-44ab-b9a0-a7c16324f88a]]></partnerJobId>
@@ -20620,6 +20660,26 @@ suas expectativas e a se preparar melhor para futuras conversas.<br /><br /><br 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[2add6e13-e733-4f46-8b6d-aedeb244e7f0]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[2add6e13-e733-4f46-8b6d-aedeb244e7f0]]></partnerRequisitionId>
+    <company><![CDATA[H.FOA - Hospital da Fundação Oswaldo Aranha]]></company>
+    <title><![CDATA[Ajudante de Cozinha- Extensiva á PCD]]></title>
+    <posterEmail><![CDATA[pedro.bruno@foa.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de novos talentos para se juntarem à nossa equipe como Ajudante de Cozinha. Se você é uma pessoa proativa, organizada e que gosta de trabalhar em equipe, essa pode ser a oportunidade.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar na preparação dos alimentos conforme orientações do chef de cozinha. - Realizar a higienização e corte de alimentos. - Apoiar na organização e limpeza da cozinha e dos utensílios. - Auxiliar no controle de estoque de alimentos, verificando validade e quantidade. - Colaborar no processo de montagem dos pratos a serem servidos. - Seguir as normas de segurança alimentar e higiene durante todo o processo. - Manter a organização e limpeza do ambiente de trabalho.<br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência prévia em cozinha. - Conhecimento em normas de higiene e segurança alimentar. - Agilidade e proatividade. - Capacidade de trabalho em equipe. - Disponibilidade para horários flexíveis.<br /><br /><b>Benefícios</b><br /><br />Vale-alimentação - Refeição no local - Assistência à saúde - Plano odontológico - Seguro de vida - Folga no aniversário - Incentivo acadêmico- Convênio Farmácia- Wellhub]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/centraldorecrutadorhfoa/131/ajudante-de-cozinha-extensiva-a-pcd?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[1324688]]></companyId>
+    <city><![CDATA[Volta Redonda]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4497dc7e-d8fa-4410-818c-1346b47fb038]]></partnerJobId>
     <partnerRequisitionId><![CDATA[4497dc7e-d8fa-4410-818c-1346b47fb038]]></partnerRequisitionId>
     <company><![CDATA[H.FOA - Hospital da Fundação Oswaldo Aranha]]></company>
@@ -20665,65 +20725,6 @@ suas expectativas e a se preparar melhor para futuras conversas.<br /><br /><br 
   <ul><li>Garantir o cumprimento das normas e procedimentos.</li></ul>
  <ul></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior</li><li>Conhecimento das normas da ANVISA, NR-32,  técnicas de higienização hospitalar, gestão de resíduos e rotinas de controle de infecção.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale-alimentação</li><li>Refeição no local</li><li>Assistência à saúde</li><li>Plano odontológico</li><li>Seguro de vida</li><li>Folga no aniversário</li><li>Incentivo acadêmico</li><li>Wellhub</li><li>Convênio Farmácia</li><li>Vale Transporte</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/centraldorecrutadorhfoa/128/supervisor-a-operacional-extensiva-a-pcd?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[1324688]]></companyId>
-    <city><![CDATA[Volta Redonda]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b522f34d-f569-46c3-b402-152095f5d02b]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[b522f34d-f569-46c3-b402-152095f5d02b]]></partnerRequisitionId>
-    <company><![CDATA[H.FOA - Hospital da Fundação Oswaldo Aranha]]></company>
-    <title><![CDATA[Ajudante de Cozinha - Extensiva à PCD]]></title>
-    <posterEmail><![CDATA[pedro.bruno@foa.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de novos talentos para se juntarem à nossa
-equipe como Ajudante de Cozinha. Se você é uma pessoa proativa, organizada e
-que gosta de trabalhar em equipe, essa pode ser a oportunidade.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar na preparação dos alimentos conforme orientações
-do chef de cozinha.
-
-- Realizar a higienização e corte de alimentos.
-
-- Apoiar na organização e limpeza da cozinha e dos
-utensílios.
-
-- Auxiliar no controle de estoque de alimentos, verificando
-validade e quantidade.
-
-- Colaborar no processo de montagem dos pratos a serem
-servidos.
-
-- Seguir as normas de segurança alimentar e higiene durante
-todo o processo.
-
-- Manter a organização e limpeza do ambiente de trabalho.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Experiência prévia em cozinha.
-
-- Conhecimento em normas de higiene e segurança alimentar.
-
-- Agilidade e proatividade.
-
-- Capacidade de trabalho em equipe.
-
-- Disponibilidade para horários flexíveis.<br /><br /><b>Benefícios</b><br /><br />- Vale-alimentação 
-
-- Refeição no local 
-
-- Assistência à saúde 
-
-- Plano odontológico 
-
-- Seguro de vida 
-
-- Folga no aniversário 
-
-- Incentivo acadêmico- Convênio Farmácia- Wellhub]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/centraldorecrutadorhfoa/126/ajudante-de-cozinha-extensiva-a-pcd?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[1324688]]></companyId>
     <city><![CDATA[Volta Redonda]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
@@ -23965,26 +23966,6 @@ Belo Horizonte, Contagem, Itabirito, Ouro Preto, Congonhas e Mariana.<br /><br /
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ihmstefanini/153/cientista-de-dados-foco-em-pesquisa-operacional?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[1306131]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[55c2de1d-92eb-41a8-9af4-3f99b16c54f7]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[55c2de1d-92eb-41a8-9af4-3f99b16c54f7]]></partnerRequisitionId>
-    <company><![CDATA[Stefanini Manufacturing]]></company>
-    <title><![CDATA[Técnico de Segurança - Conceição do Mato Dentro/MG]]></title>
-    <posterEmail><![CDATA[smfriedrich@ihm.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Técnico(a) de Segurança</strong> dinâmico(a), comprometido(a) e atento(a) aos detalhes para se juntar à nossa equipe e atuar em projetos na área de <strong>Segurança do Trabalho</strong>. Nesta oportunidade, você terá a chance de contribuir diretamente para a implementação e acompanhamento de práticas de segurança, promovendo um ambiente de trabalho mais seguro e colaborando para a proteção da saúde e do bem-estar dos colaboradores.<br /><strong>Local de atuação:</strong> Conceição do Mato Dentro/MG<br /><strong>Modelo:</strong> Presencial, no clientePara essa oportunidade, buscamos <strong>profissionais de Conceição do Mato Dentro e região ou de Belo Horizonte</strong>.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Mobilizar e organizar o canteiro sob a perspectiva de segurança;</li><li>Inspecionar e fiscalizar as atividades e frentes de trabalho;</li><li>Verificar o uso adequado de EPIs e EPCs;</li><li>Identificar riscos, atos e condições inseguras;</li><li>Orientar as equipes e acompanhar as ações corretivas;</li><li>Realizar treinamentos, integrações e DDS;</li><li>Elaborar e controlar documentos, checklists, análises de risco e permissões de trabalho;</li><li>Acompanhar atividades críticas, como trabalho em altura, escavações, içamentos e trabalhos a quente;</li><li>Investigar e registrar acidentes, incidentes e quase acidentes;</li><li>Controlar EPIs, treinamentos, exames e documentação de terceiros;</li><li>Promover a cultura de prevenção e cumprimento da legislação aplicável.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação concluída;</li><li>Conhecimento em informática e no Pacote Office;</li><li>Conhecimento e experiência em Segurança do Trabalho aplicada a obras;</li><li>Capacidade de identificar riscos e propor medidas preventivas;</li><li>Boa comunicação e habilidade para orientar equipes operacionais;</li><li>Postura firme, ética e imparcial na fiscalização;</li><li>Organização para controle de documentos e cumprimento de prazos;</li><li>Disponibilidade e capacidade para atuar em campo e em ambientes com múltiplas frentes de trabalho.</li></ul><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br />‍ Desconto em cursos, universidades e instituições de idiomas;<br /> LinkedIn Learning - cursos online, gratuitos, atualizados e com certificado;<br /> Mentoring;<br /> Telemedicina gratuita para consultas com mais de 30 especialidades médicas, psicólogos e nutricionistas;<br /> Clube de vantagens e descontos nos melhores estabelecimentos;<br /> Clube de viagens;<br /> Convênio para Pet;<br />e muito mais...<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ihmstefanini/156/tecnico-de-seguranca-conceicao-do-mato-dentro-mg?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[1306131]]></companyId>
-    <city><![CDATA[Conceição do Mato Dentro]]></city>
     <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -29873,6 +29854,26 @@ Seguro de vida;]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[7b03fcf6-6a50-41a2-9f46-bea26b0408ac]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[7b03fcf6-6a50-41a2-9f46-bea26b0408ac]]></partnerRequisitionId>
+    <company><![CDATA[Ceneged]]></company>
+    <title><![CDATA[BANCO DE TALENTOS - EXCLUSIVO PARA MULHERES]]></title>
+    <posterEmail><![CDATA[anamartins@ceneged.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><strong>Banco de Talentos Feminino | Oportunidades em Todo o Brasil</strong><strong><br /></strong>Acreditamos na força da diversidade e no potencial das mulheres para transformar o mercado de trabalho! <br />Estamos construindo nosso <strong>Banco de Talentos Feminino</strong>, com o objetivo de conectar mulheres a futuras oportunidades profissionais em diferentes áreas e unidades da empresa, em todo o território nacional.Buscamos mulheres que desejam desenvolver suas carreiras, compartilhar seus conhecimentos e contribuir com suas habilidades, experiências e talentos.<br /><strong>Áreas de interesse:</strong> Administrativa, Comercial, Operacional, Recursos Humanos, Técnica, Manutenção, Liderança e outras áreas, conforme as oportunidades disponíveis.<strong>Como funciona?</strong>Ao realizar seu cadastro, seu perfil poderá ser considerado em processos seletivos futuros, de acordo com os requisitos das vagas, sua experiência profissional, suas qualificações e sua disponibilidade.✨ <strong>Quer fazer parte dessa iniciativa?</strong>Cadastre seu currículo em nosso Banco de Talentos Feminino e venha construir novas possibilidades de carreira conosco!<br /><em>Este cadastro não representa uma candidatura a uma vaga específica nem garante participação em processos seletivos ou contratação. As oportunidades serão divulgadas conforme a necessidade da empresa.</em><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Será informado de acordo com a vaga disponibilizada.<br /><br /><b>Requisitos e qualificações</b><br /><br />Será informado durante o processo seletivo.<br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário compatível com o mercado;</li><li>Vale transporte ou vale combustível;</li><li>Vale alimentação - Ifood benefícios;</li><li>Plano de saúde e odontológico 100% custeados pela empresa;</li><li>Bulla Saúde plataforma para cuidar da saúde física e mental (Telemedicina 24h para colaboradores e dependentes, descontos em farmácias - ePharma e mais benefícios;</li><li>Wellhub;</li><li>Seguro de vida;</li><li>Parcerias de descontos: saúde, bem estar, lazer, educação e idiomas.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/761/banco-de-talentos-exclusivo-para-mulheres?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[9250455]]></companyId>
+    <city><![CDATA[Itaitinga]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[b5d0cb6d-b8f9-47aa-8250-5ddb14f235b1]]></partnerJobId>
     <partnerRequisitionId><![CDATA[b5d0cb6d-b8f9-47aa-8250-5ddb14f235b1]]></partnerRequisitionId>
     <company><![CDATA[Ceneged]]></company>
@@ -33294,6 +33295,26 @@ comunicação, verbal e escrita;<br />Disponibilidade de horário.<br /><br /><b
     <companyId><![CDATA[2073549]]></companyId>
     <city><![CDATA[Dourados]]></city>
     <state><![CDATA[Mato Grosso do Sul]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[322829a3-1d63-49a7-be09-86d33211f99e]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[322829a3-1d63-49a7-be09-86d33211f99e]]></partnerRequisitionId>
+    <company><![CDATA[Grupo Canopus]]></company>
+    <title><![CDATA[CONSULTOR DE VENDAS]]></title>
+    <posterEmail><![CDATA[tainara.abreu@grupocanopus.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Realizar a venda de veículos novos e seminovos, consórcio e seguros;Acompanhar o processo do cliente desde a venda até a entrega dos veículos;<br />Realizar diariamente a prospecção de vendas e demais atividades da função.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar a venda de veículos novos e seminovos, consórcio e seguros;Acompanhar o processo do cliente desde a venda até a entrega dos veículos;<br />Realizar diariamente a prospecção de vendas e demais atividades da função.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo;Informática básica (Windows, Word e Excel);<br />CNH B;<br />Vivência na área comercial será um diferencial.<br /><br /><br /><b>Benefícios</b><br /><br />O que temos: Plano de Saúde, Plano odontológico, Vale Transporte (de acordo com a região), Seguro de vida e Vale Alimentação.Nosso Diferencial: Homenagem por tempo de empresa e Vantagens Canopus (programa de parceria de descontos)<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/3359/consultor-de-vendas?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[2073549]]></companyId>
+    <city><![CDATA[Cuiabá]]></city>
+    <state><![CDATA[Mato Grosso]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -37002,35 +37023,6 @@ Diferencial: experiência em empresas de médio/grande porte.</li><br /><br /><b
         </highEnd>
         <lowEnd>
           <amount><![CDATA[2024.58]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[f7c2d979-9b4d-475b-83eb-608616571be9]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[f7c2d979-9b4d-475b-83eb-608616571be9]]></partnerRequisitionId>
-    <company><![CDATA[Integral Agroindustrial]]></company>
-    <title><![CDATA[Auxiliar de Produção - 14h às 22h20 Segunda à Sábado | Fortaleza/CE]]></title>
-    <posterEmail><![CDATA[nfe.ti@sladm.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <b>Auxiliar de Produção</b> que queira crescer com a gente!<br /><br />Se você é uma pessoa engajada e que tem como valores a <strong>competência, confiança, fé em Deus, humildade, criatividade e sinceridade</strong>, então a Integral Agroindustrial é o lugar certo para você!<br /><br />Se identificou? Então venha fazer parte do <strong>nosso time!</strong> <br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar fabricação de produtos industrializados;</li><li>Auxiliar no abastecimento de esteiras e maquinários;</li><li>Manter limpo e higienizado o setor de trabalho;</li><li>Atender as demais atividades correlacionadas ao setor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental;</li><li>Disponibilidade de horário.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b><strong>Nossos Benefícios:</strong></b>
-<br /><br /><ul><li>Acesso à universidade corporativa;</li><li>Convênio com instituições de ensino/SENAI/CNA;</li><li>Convênio com Farmácias e ótica;</li><li>Plano Odontológico - Opcional;</li><li>Plano de Saúde Unimed – Opcional; (empresa paga 50%);</li><li>Plano de Saúde Hapvida - Opcional; </li><li>Alimentação na empresa (café da manhã, almoço e jantar);</li><li>PassCard ônibus; </li><li>Cartão premiação por assiduidade;</li><li>Seguro de vida;</li><li>Gympass/Wellhub - Descontos em academias;</li><li>Cuidando do nosso time: Massoterapia, Atendimento nutricional e Psicológico;</li><li>Desconto nos nossos produtos.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemserintegral/982/auxiliar-de-producao-14h-as-22h20-segunda-a-sabado-fortaleza-ce?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[18442355]]></companyId>
-    <city><![CDATA[Fortaleza]]></city>
-    <state><![CDATA[Ceará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1635.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1635.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
@@ -47475,125 +47467,6 @@ social e financeiro;</li><li>PPR - Programa de Participação de Resultados;</li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6298299a-0e48-43b1-9bd0-2ce8043b5d82]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[6298299a-0e48-43b1-9bd0-2ce8043b5d82]]></partnerRequisitionId>
-    <company><![CDATA[Cerradão]]></company>
-    <title><![CDATA[Supervisor de Caldeiraria]]></title>
-    <posterEmail><![CDATA[rodrigo.zavatti@cerradao.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Supervisionar, planejar e executar atividades de manutenção de caldeiraria e civil em equipamentos e instalações industriais, garantindo máxima disponibilidade e eficiência operacional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Supervisionar a equipe de soldadores, caldeireiros e os recursos necessários para a fabricação, montagem e manutenção de estruturas metálicas, tubulações, tanques, dutos, equipamentos, suportações e proteções;</li><li>Planejar as atividades conforme a programação da produção, definindo prioridades, recursos humanos e locais adequados para a execução dos serviços, garantindo a entrega das demandas planejadas com segurança;</li><li>Assegurar o cumprimento das normas técnicas, de segurança, qualidade e meio ambiente, incluindo as NRs e demais padrões regulamentares aplicáveis;</li><li>Controlar materiais, ferramentas e equipamentos, garantindo disponibilidade, consumo eficiente e realização da manutenção preventiva;</li><li>Supervisionar as manutenções corretivas, preventivas e preditivas, assegurando a redução de paradas não programadas e o cumprimento dos padrões de qualidade e segurança;</li><li>Desenvolver e implementar planos de manutenção, analisar indicadores de desempenho, gerir a equipe e promover o desenvolvimento técnico dos colaboradores;</li><li>Atuar no controle orçamentário, na análise de causas raízes e na implementação de melhorias contínuas, alinhando as metas operacionais aos objetivos estratégicos da empresa.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior em Engenharia Mecânica ou áreas correlatas;</li><li>Experiência em supervisão de equipes de caldeiraria, preferencialmente no setor industrial ou de manutenção.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Ticket Alimentação;</li><li> Plano de saúde;</li><li> Plano Odontológico;</li><li> Auxilio farmácia;</li><li> Seguro de vida;</li><li> Transporte Fretado; </li><li> Programa e Apoio e Orientações: Jurídico, psicológico, social e financeiro;</li><li> PPR - Programa de Participação de Resultados;</li><li>Wellhub (antigo Gympass).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cerradaovagas/531/supervisor-de-caldeiraria?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[3364231]]></companyId>
-    <city><![CDATA[Frutal]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[30b8b189-063d-4819-b786-c3dbab66af94]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[30b8b189-063d-4819-b786-c3dbab66af94]]></partnerRequisitionId>
-    <company><![CDATA[Cerradão]]></company>
-    <title><![CDATA[Operador de gerador II]]></title>
-    <posterEmail><![CDATA[esouza@usinacerradao.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Operar, monitorar e realizar ajustes
-intermediários em turbo geradores e sistemas auxiliares, assegurando a
-continuidade e eficiência no fornecimento de energia. Supervisionar variáveis
-operacionais complexas, analisar desvios e realizar intervenções técnicas para
-estabilizar processos. Executar manobras de startup e shutdown, garantindo a
-conformidade com normas técnicas, de segurança e ambientais. Atuar no suporte a
-manutenções preventivas e corretivas, promovendo a melhoria contínua dos
-processos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />·       
-Monitorar e ajustar parâmetros complexos de
-operação;
-
-·       
-Realizar startup e shutdown de turbo geradores e
-sistemas auxiliares;
-
-·       
-Inspecionar equipamentos quanto a desgastes ou
-falhas potenciais;
-
-·       
-Operar sistemas de controle automatizado (SCADA
-ou similares);
-
-·       
-Interpretar gráficos de tendência e relatórios
-operacionais;
-
-·       
-Realizar limpeza e manutenção básica dos
-equipamentos;
-
-·       
-Participar de diagnósticos de falhas em
-equipamentos;
-
-·       
-Realizar as atividades de operadores de nível I;
-
-·       
-Garantir o cumprimento de rotinas operacionais
-específicas;
-
-·       
-Supervisionar testes de funcionamento em
-sistemas auxiliares;
-
-·       
-Registrar dados operacionais em sistemas
-informatizados;
-
-·       
-Implementar ajustes em válvulas e manômetros;
-
-·       
-Conduzir ações corretivas para evitar
-interrupções;
-
-·       
-Propor melhorias no desempenho do turbo gerador;
-
-·       
-Contribuir para análises de causa raiz de
-falhas;
-
-·       
-Garantir o atendimento às normas ambientais
-aplicáveis;
-
-·       
-Participar de treinamentos de capacitação
-técnica;
-
-·       
-Atuar como suporte técnico em inspeções
-externas;
-
-·       
-Monitorar o consumo de insumos e eficiência
-energética.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino
-técnico completo em Mecânica, Elétrica ou áreas correlatas.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Ticket Alimentação;</li><li> Plano de saúde;</li><li> Plano Odontológico;</li><li> Auxilio farmácia;</li><li> Seguro de vida;</li><li> Transporte Fretado; </li><li> Programa e Apoio e Orientações: Jurídico, psicológico, social e financeiro;</li><li> PPR - Programa de Participação de Resultados;</li><li>Wellhub (antigo Gympass).</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cerradaovagas/554/operador-de-gerador-ii?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[3364231]]></companyId>
-    <city><![CDATA[Frutal]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[7a48c681-a079-4151-a2ec-49797ccbfbb2]]></partnerJobId>
     <partnerRequisitionId><![CDATA[7a48c681-a079-4151-a2ec-49797ccbfbb2]]></partnerRequisitionId>
     <company><![CDATA[Cerradão]]></company>
@@ -48557,26 +48430,6 @@ Garantir cumprimento de procedimentos internos, normas de segurança e complianc
           <amount><![CDATA[1835.33]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[0a08b2de-bc73-4015-b8bf-58587a8b3877]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[0a08b2de-bc73-4015-b8bf-58587a8b3877]]></partnerRequisitionId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[Auxiliar de Operações | Residuos]]></title>
-    <posterEmail><![CDATA[priscilla.veras@triunfologistica.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Auxiliar nos procedimentos de armazenamento de carga e descarga, arrumando e limpando as<br />áreas do terminal; Auxiliar os trabalhos de estiva dos navios, fornecendo o material<br />necessário para embarque e desembarque das cargas no costado do navio, além de fazer a<br />arrumação e limpeza do armazém onde se localiza o estoque; Prestar serviços de estiva e<br />desestiva, ajudando nas diversas operações dos Navios que chegam ao Porto de Itaguaí,<br />controlando ainda, a quantidade de caminhões, para carga e descarga de mercadorias.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Apoio nas operações de carga e descarga de materiais e equipamentos;<br />• Organização, limpeza e armazenamento de cargas no pátio e armazéns;<br />• Separação e movimentação de materiais operacionais;<br />• Apoio às equipes de operação, seguindo normas de segurança;<br />• Controle e organização de equipamentos e materiais utilizados nas operações.<br /><br /><b>Requisitos e qualificações</b><br /><br />• Ensino médio completo;<br />• Disponibilidade para atuar em área operacional;<br />• Facilidade para trabalho em equipe;<br />• Comprometimento com segurança e organização;<br />• Disponibilidade de horário será um diferencial.<br /><br /><b>Benefícios</b><br /><br /><b>Para sua saúde e de sua família:</b><ul><li> Assistência Médica e Odontológica (extensivo aos dependente diretos).</li><li> Alimentação no local</li><li> Vale transporte</li><li> Convênio Farmácia: desconto em medicamentos e produtos diversos para higiene pessoal</li></ul><br /><br /><b>Para sua saúde e bem-estar:</b><br /><ul><li>GymPass / Seguro de Vida.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/671/auxiliar-de-operacoes-residuos?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -62922,6 +62775,51 @@ contínuo em aprendizado e desenvolvimento profissional.</li></ul><br /><br /><b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[3148ddc4-1668-48de-94b8-65b94a401d0d]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[3148ddc4-1668-48de-94b8-65b94a401d0d]]></partnerRequisitionId>
+    <company><![CDATA[Auto Peças Padre Cicero]]></company>
+    <title><![CDATA[ENTREGADOR - CRATO]]></title>
+    <posterEmail><![CDATA[alice.rodrigues@pecicero.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <strong>Entregadores(as)</strong> comprometidos e responsáveis para integrar nossa equipe. Na Auto Peças Padre Cícero, você terá a missão de garantir que nossos clientes recebam seus produtos com agilidade, segurança e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar entregas de autopeças de acordo com as rotas estabelecidas;
+</li>
+<li>
+Garantir a conferência e integridade dos produtos no ato da entrega;
+</li>
+<li>
+Zelar pela organização, conservação e bom uso do veículo/moto disponibilizado pela empresa;
+</li>
+<li>
+Cumprir prazos e rotas de entrega de forma eficiente;
+</li>
+<li>
+Apoiar em atividades operacionais no setor de expedição, quando necessário;
+</li>
+<li>
+Tratar os clientes com cordialidade, reforçando a boa imagem da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo;
+</li>
+<li>
+CNH definitiva (categoria A);
+</li><li>Necessário moto própria com caixote;</li>
+<li>
+Disponibilidade para trabalhar em horário comercial;
+</li>
+<li>
+Comprometimento, responsabilidade e atenção no trânsito.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li><b>Salário:</b> Comissão + 30% de periculosidade. Para além disso, oferecemos ajuda de custo integrado ao salário.</li><li><strong>Vale Refeição</strong> no valor de R$422,00 mensais, com contribuição simbólica de R$16</li><li><strong>Plano de Saúde Hapvida</strong></li><li><strong>Plano Odontológico</strong> com mensalidades acessíveis entre R$10 e R$17</li><li><strong>Descontos em farmácias</strong> conveniadas (Montese)</li><li><strong>Incentivo à educação</strong>, com apoio para cursos e capacitações</li><li><strong>Incentivo à saúde</strong>, com acesso ao programa Total Pass (academias)</li><li><strong>Cartão Libercard</strong>, com vantagens exclusivas para compras e serviços</li></ul><br /><ul>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/116/entregador-crato?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[24859610]]></companyId>
+    <city><![CDATA[Crato]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[8dfe8353-0735-42dd-bc28-96ec45eeb2d8]]></partnerJobId>
     <partnerRequisitionId><![CDATA[8dfe8353-0735-42dd-bc28-96ec45eeb2d8]]></partnerRequisitionId>
     <company><![CDATA[Auto Peças Padre Cicero]]></company>
@@ -63005,11 +62903,11 @@ Valorizamos a diversidade e acreditamos no potencial de cada pessoa.<br /><br />
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[fe91e8f2-3fac-4979-bee0-04ff60cb27da]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[fe91e8f2-3fac-4979-bee0-04ff60cb27da]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[cd4ad99c-fe7a-41aa-a8e7-b1753b62ee60]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[cd4ad99c-fe7a-41aa-a8e7-b1753b62ee60]]></partnerRequisitionId>
     <company><![CDATA[Auto Peças Padre Cicero]]></company>
-    <title><![CDATA[ENTREGADOR - CE]]></title>
-    <posterEmail><![CDATA[kairo.nascimento@pecicero.com.br]]></posterEmail>
+    <title><![CDATA[ENTREGADOR - FORTALEZA]]></title>
+    <posterEmail><![CDATA[alice.rodrigues@pecicero.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <strong>Entregadores(as)</strong> comprometidos e responsáveis para integrar nossa equipe. Na Auto Peças Padre Cícero, você terá a missão de garantir que nossos clientes recebam seus produtos com agilidade, segurança e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar entregas de autopeças de acordo com as rotas estabelecidas;
 </li>
 <li>
@@ -63028,15 +62926,15 @@ Apoiar em atividades operacionais no setor de expedição, quando necessário;
 Tratar os clientes com cordialidade, reforçando a boa imagem da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo;
 </li>
 <li>
-CNH válida (categoria A);
-</li>
+CNH definitiva (categoria A);
+</li><li>Necessário moto própria com caixote;</li>
 <li>
 Disponibilidade para trabalhar em horário comercial;
 </li>
 <li>
-Comprometimento, responsabilidade e atenção no trânsito.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li><strong>Vale Refeição</strong> no valor de R$396,00 mensais, com contribuição simbólica de R$16</li><li><strong>Plano de Saúde Hapvida </strong>(mensalidade de R$104)</li><li><strong>Plano Odontológico</strong> com mensalidades acessíveis entre R$10 e R$17</li><li><strong>Descontos em farmácias</strong> conveniadas (Montese)</li><li><strong>Incentivo à educação</strong>, com apoio para cursos e capacitações</li><li><strong>Incentivo à saúde</strong>, com acesso ao programa Total Pass (academias)</li><li><strong>Cartão Libercard</strong>, com vantagens exclusivas para compras e serviços</li><li><strong>Parceria com a Auto Escola Ávila</strong>, facilitando a formação e habilitação de colaboradores</li>
+Comprometimento, responsabilidade e atenção no trânsito.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li><b>Salário:</b> Comissão + 30% de periculosidade. Para além disso, oferecemos ajuda de custo integrado ao salário.</li><li><strong>Vale Refeição</strong> no valor de R$422,00 mensais, com contribuição simbólica de R$16</li><li><strong>Plano de Saúde Hapvida</strong></li><li><strong>Plano Odontológico</strong> com mensalidades acessíveis entre R$10 e R$17</li><li><strong>Descontos em farmácias</strong> conveniadas (Montese)</li><li><strong>Incentivo à educação</strong>, com apoio para cursos e capacitações</li><li><strong>Incentivo à saúde</strong>, com acesso ao programa Total Pass (academias)</li><li><strong>Cartão Libercard</strong>, com vantagens exclusivas para compras e serviços</li></ul><br /><ul>
 </ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/113/entregador-ce?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/114/entregador-fortaleza?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[24859610]]></companyId>
     <city><![CDATA[Fortaleza]]></city>
     <state><![CDATA[Ceará]]></state>
@@ -63415,6 +63313,51 @@ Parceria com Auto Escola Ávila (facilitação de habilitação)</li><li>Parceri
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[132f931b-b06f-4b56-beee-ce1c405e5d8a]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[132f931b-b06f-4b56-beee-ce1c405e5d8a]]></partnerRequisitionId>
+    <company><![CDATA[Auto Peças Padre Cicero]]></company>
+    <title><![CDATA[ENTREGADOR - MARANGUAPE]]></title>
+    <posterEmail><![CDATA[alice.rodrigues@pecicero.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <strong>Entregadores(as)</strong> comprometidos e responsáveis para integrar nossa equipe. Na Auto Peças Padre Cícero, você terá a missão de garantir que nossos clientes recebam seus produtos com agilidade, segurança e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar entregas de autopeças de acordo com as rotas estabelecidas;
+</li>
+<li>
+Garantir a conferência e integridade dos produtos no ato da entrega;
+</li>
+<li>
+Zelar pela organização, conservação e bom uso do veículo/moto disponibilizado pela empresa;
+</li>
+<li>
+Cumprir prazos e rotas de entrega de forma eficiente;
+</li>
+<li>
+Apoiar em atividades operacionais no setor de expedição, quando necessário;
+</li>
+<li>
+Tratar os clientes com cordialidade, reforçando a boa imagem da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo;
+</li>
+<li>
+CNH definitiva (categoria A);
+</li><li>Necessário moto própria com caixote;</li>
+<li>
+Disponibilidade para trabalhar em horário comercial;
+</li>
+<li>
+Comprometimento, responsabilidade e atenção no trânsito.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li><b>Salário:</b> Comissão + 30% de periculosidade. Para além disso, oferecemos ajuda de custo integrado ao salário.</li><li><strong>Vale Refeição</strong> no valor de R$422,00 mensais, com contribuição simbólica de R$16</li><li><strong>Plano de Saúde Hapvida</strong></li><li><strong>Plano Odontológico</strong> com mensalidades acessíveis entre R$10 e R$17</li><li><strong>Descontos em farmácias</strong> conveniadas (Montese)</li><li><strong>Incentivo à educação</strong>, com apoio para cursos e capacitações</li><li><strong>Incentivo à saúde</strong>, com acesso ao programa Total Pass (academias)</li><li><strong>Cartão Libercard</strong>, com vantagens exclusivas para compras e serviços</li></ul><br /><ul>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/115/entregador-maranguape?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[24859610]]></companyId>
+    <city><![CDATA[Maranguape]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[87d757b1-94c3-4987-8c3e-37b084eba2fe]]></partnerJobId>
     <partnerRequisitionId><![CDATA[87d757b1-94c3-4987-8c3e-37b084eba2fe]]></partnerRequisitionId>
     <company><![CDATA[Auto Peças Padre Cicero]]></company>
@@ -63562,6 +63505,51 @@ Familiaridade com rotas urbanas e rodoviárias.</li></ul><br /><br /><b>Benefíc
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[a9210166-078a-4280-ba6c-1c1f737d9963]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[a9210166-078a-4280-ba6c-1c1f737d9963]]></partnerRequisitionId>
+    <company><![CDATA[Auto Peças Padre Cicero]]></company>
+    <title><![CDATA[ENTREGADOR - MARANHÃO]]></title>
+    <posterEmail><![CDATA[alice.rodrigues@pecicero.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <strong>Entregadores(as)</strong> comprometidos e responsáveis para integrar nossa equipe. Na Auto Peças Padre Cícero, você terá a missão de garantir que nossos clientes recebam seus produtos com agilidade, segurança e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar entregas de autopeças de acordo com as rotas estabelecidas;
+</li>
+<li>
+Garantir a conferência e integridade dos produtos no ato da entrega;
+</li>
+<li>
+Zelar pela organização, conservação e bom uso do veículo/moto disponibilizado pela empresa;
+</li>
+<li>
+Cumprir prazos e rotas de entrega de forma eficiente;
+</li>
+<li>
+Apoiar em atividades operacionais no setor de expedição, quando necessário;
+</li>
+<li>
+Tratar os clientes com cordialidade, reforçando a boa imagem da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo;
+</li>
+<li>
+CNH definitiva (categoria A);
+</li><li>Necessário moto própria com caixote;</li>
+<li>
+Disponibilidade para trabalhar em horário comercial;
+</li>
+<li>
+Comprometimento, responsabilidade e atenção no trânsito.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li><b>Salário:</b> Comissão + 30% de periculosidade. Para além disso, oferecemos ajuda de custo integrado ao salário.</li></ul><br /><ul><li><strong>Vale Refeição</strong> no valor de R$422,00 mensais, com contribuição simbólica de R$16</li><li><strong>Plano de Saúde Hapvida</strong></li><li><strong>Plano Odontológico</strong> com mensalidades acessíveis entre R$10 e R$17</li><li><strong>Descontos em farmácias</strong> conveniadas (Montese)</li><li><strong>Incentivo à educação</strong>, com apoio para cursos e capacitações</li><li><strong>Incentivo à saúde</strong>, com acesso ao programa Total Pass (academias)</li><li><strong>Cartão Libercard</strong>, com vantagens exclusivas para compras e serviços</li>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/120/entregador-maranhao?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[24859610]]></companyId>
+    <city><![CDATA[São Luís]]></city>
+    <state><![CDATA[Maranhão]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[8c521217-743a-4614-b227-ce35a772b198]]></partnerJobId>
     <partnerRequisitionId><![CDATA[8c521217-743a-4614-b227-ce35a772b198]]></partnerRequisitionId>
     <company><![CDATA[Auto Peças Padre Cicero]]></company>
@@ -63654,26 +63642,6 @@ Valorizamos a diversidade e acreditamos no potencial de cada pessoa.<br /><br />
     <posterEmail><![CDATA[kailane.magalhaes@pecicero.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional <b>organizado, ágil e atento aos detalhes</b> para atuar como <b>Estoquista </b>em nossa unidade.   <br /><br />A função exige<b> responsabilidade no controle e movimentação de peças automotivas, garantindo a acuracidade do estoque e o bom funcionamento da operação logística</b>.   <br />Se você gosta de<b> trabalhar em equipe, tem iniciativa e busca crescimento profissional,</b> essa oportunidade é para você.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a <b>conferência de peças</b> recebidas, comparando com a nota fiscal.</li><li>Fazer a <b>separação de pedidos de clientes</b> com precisão e agilidade.</li><li><b>Armazenar peças nas prateleiras</b> conforme categorias, marcas e especificações.</li><li>Utilizar <b>coletor de dados</b> em todas as atividades operacionais.</li><li>Registrar movimentações no sistema de estoque (WMS).</li><li>Controlar o fluxo de entrada e saída de produtos.</li><li>Participar de <b>inventários periódicos</b> para garantir acuracidade.</li><li>Manter a área de estoque <b>limpa, organizada e segura.</b></li><li>Reportar divergências ou avarias à supervisão imediatamente.</li><li>Colaborar com a equipe de logística para otimização dos processos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Ensino médio completo.</b></li><li>Organização, atenção aos detalhes e responsabilidade.</li><li>Agilidade para lidar com grande volume de peças.</li><li>Boa comunicação e capacidade de trabalho em equipe.</li><li>Disponibilidade para atuar em ambiente dinâmico e seguir rotinas operacionais.</li></ul><br /><br />  <b>Diferenciais:</b><ul><li>Experiência anterior como estoquista ou em áreas de logística.</li><li>Conhecimento básico em controle de estoque.</li><li>Familiaridade com uso de coletor de dados.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li><b>Vale Transporte</b> com desconto de 6% sobre o salário</li><li><b>Vale Refeição</b> no valor de R$396,00 mensais, com contribuição simbólica de R$16</li><li><b>Plano de Saúde Hapvida</b> <strong> </strong>(mensalidade de R$104)</li><li><b>Plano Odontológico</b> com mensalidades acessíveis entre R$10 e R$17</li><li><b>Descontos em farmácias</b> conveniadas (Montese)</li><li><b>Incentivo à educação</b>, com apoio para cursos e capacitações</li><li><b>Incentivo à saúde</b>, com acesso ao programa Total Pass (academias)</li><li><b>Cartão Libercard</b>, com vantagens exclusivas para compras e serviços</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/10/estoquista-ma-sao-luis?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[24859610]]></companyId>
-    <city><![CDATA[São Luís]]></city>
-    <state><![CDATA[Maranhão]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[af47c835-0dcb-4b71-a0fe-0323b5a032ae]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[af47c835-0dcb-4b71-a0fe-0323b5a032ae]]></partnerRequisitionId>
-    <company><![CDATA[Auto Peças Padre Cicero]]></company>
-    <title><![CDATA[ENTREGADOR MARANHÃO]]></title>
-    <posterEmail><![CDATA[kailane.magalhaes@pecicero.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <strong>Entregadores(as)</strong> comprometidos e responsáveis para integrar nossa equipe. Na Auto Peças Padre Cícero, você terá a missão de garantir que nossos clientes recebam seus produtos com agilidade, segurança e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar entregas de autopeças de acordo com as rotas estabelecidas;</li><li>Garantir a conferência e integridade dos produtos no ato da entrega;</li><li>Zelar pela organização, conservação e bom uso do veículo/moto disponibilizado pela empresa;</li><li>Cumprir prazos e rotas de entrega de forma eficiente;</li><li>Apoiar em atividades operacionais no setor de expedição, quando necessário;</li><li>Tratar os clientes com cordialidade, reforçando a boa imagem da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo;</li><li>CNH válida (categoria A);</li><li>Disponibilidade para trabalhar em horário comercial;</li><li>Comprometimento, responsabilidade e atenção no trânsito.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li><strong>Vale Refeição</strong> no valor de R$396,00 mensais, com contribuição simbólica de R$16</li><li><strong>Plano de Saúde Hapvida</strong> <strong> </strong>(mensalidade de R$104)</li><li><strong>Plano Odontológico</strong> com mensalidades acessíveis entre R$10 e R$17</li><li><strong>Descontos em farmácias</strong> conveniadas (Montese)</li><li><strong>Incentivo à educação</strong>, com apoio para cursos e capacitações</li><li><strong>Incentivo à saúde</strong>, com acesso ao programa Total Pass (academias)</li><li><strong>Cartão Libercard</strong>, com vantagens exclusivas para compras e serviços</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/7/entregador-maranhao?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[24859610]]></companyId>
     <city><![CDATA[São Luís]]></city>
     <state><![CDATA[Maranhão]]></state>
@@ -63808,6 +63776,51 @@ Valorizamos a diversidade e acreditamos no potencial de cada pessoa.<br /><br />
     <companyId><![CDATA[24859610]]></companyId>
     <city><![CDATA[João Pessoa]]></city>
     <state><![CDATA[Paraíba]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[207e1cff-c823-42e1-a91a-2388facf4620]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[207e1cff-c823-42e1-a91a-2388facf4620]]></partnerRequisitionId>
+    <company><![CDATA[Auto Peças Padre Cicero]]></company>
+    <title><![CDATA[ENTREGADOR - PERNAMBUCO]]></title>
+    <posterEmail><![CDATA[alice.rodrigues@pecicero.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <strong>Entregadores(as)</strong> comprometidos e responsáveis para integrar nossa equipe. Na Auto Peças Padre Cícero, você terá a missão de garantir que nossos clientes recebam seus produtos com agilidade, segurança e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar entregas de autopeças de acordo com as rotas estabelecidas;
+</li>
+<li>
+Garantir a conferência e integridade dos produtos no ato da entrega;
+</li>
+<li>
+Zelar pela organização, conservação e bom uso do veículo/moto disponibilizado pela empresa;
+</li>
+<li>
+Cumprir prazos e rotas de entrega de forma eficiente;
+</li>
+<li>
+Apoiar em atividades operacionais no setor de expedição, quando necessário;
+</li>
+<li>
+Tratar os clientes com cordialidade, reforçando a boa imagem da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo;
+</li>
+<li>
+CNH definitiva (categoria A);
+</li><li>Necessário moto própria com caixote;</li>
+<li>
+Disponibilidade para trabalhar em horário comercial;
+</li>
+<li>
+Comprometimento, responsabilidade e atenção no trânsito.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li><b>Salário:</b> Comissão + 30% de periculosidade. Para além disso, oferecemos ajuda de custo integrado ao salário.</li></ul><br /><ul><li><strong>Vale Refeição</strong> no valor de R$422,00 mensais, com contribuição simbólica de R$16</li><li><strong>Plano de Saúde Hapvida</strong></li><li><strong>Plano Odontológico</strong> com mensalidades acessíveis entre R$10 e R$17</li><li><strong>Descontos em farmácias</strong> conveniadas (Montese)</li><li><strong>Incentivo à educação</strong>, com apoio para cursos e capacitações</li><li><strong>Incentivo à saúde</strong>, com acesso ao programa Total Pass (academias)</li><li><strong>Cartão Libercard</strong>, com vantagens exclusivas para compras e serviços</li>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/119/entregador-pernambuco?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[24859610]]></companyId>
+    <city><![CDATA[Jaboatão dos Guararapes]]></city>
+    <state><![CDATA[Pernambuco]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -63989,26 +64002,6 @@ Zelar pelos equipamentos e materiais utilizados no desempenho das atividades.</l
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[737e0ab2-dbb6-457f-a604-8a151e226eb9]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[737e0ab2-dbb6-457f-a604-8a151e226eb9]]></partnerRequisitionId>
-    <company><![CDATA[Auto Peças Padre Cicero]]></company>
-    <title><![CDATA[ENTREGADOR - RECIFE]]></title>
-    <posterEmail><![CDATA[ana.beatriz@pecicero.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais comprometidos, ágeis e responsáveis para atuar como <strong>Entregador </strong>em nossa unidade. A função envolve a entrega de peças automotivas aos clientes, garantindo pontualidade, organização e segurança no transporte. O trabalho exige deslocamentos frequentes, manuseio de mercadorias e interação direta com clientes e equipe interna.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar entregas de peças automotivas nos endereços dos clientes com pontualidade</li><li>Conferir pedidos antes da saída para entrega</li><li>Garantir a integridade das mercadorias durante o transporte</li><li>Coletar assinaturas e comprovantes de entrega</li><li>Manter organização dos documentos de transporte e notas fiscais</li><li><strong>Zelar pelo veículo próprio utilizado.</strong></li><li>Utilizar o aplicativo <strong>ATIVEMOB</strong> para controle de rotas e entregas</li><li>Apoiar a equipe logística em atividades complementares quando necessário</li><li>Cumprir normas de segurança e procedimentos internos</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino médio completo</li><li>Organização, responsabilidade e atenção aos detalhes</li><li>Boa comunicação e cordialidade no atendimento ao cliente</li><li>Capacidade de trabalho em equipe</li><li>Disponibilidade para deslocamentos frequentes durante a jornada</li><li><strong>Veículo próprio disponível para uso nas entregas</strong></li><br /><br /><b>Benefícios</b><br /><br /><strong>Direitos:</strong><ul><li>Ajuda de custo para deslocamento</li><li>Vale Refeição: R$422,00/mês (contribuição simbólica de R$16 Mensal)</li></ul><strong>Benefícios:</strong><ul><li>Plano de Saúde Hapvida (mensalidade de R$109,70) ou Unimed (valores tabelados)</li><li>Plano Odontológico (R$10 a R$17)</li><li>Incentivo à educação (apoio a cursos e capacitações)</li><li>Incentivo à saúde (Total Pass – academias)</li><li>Cartão Libercard</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/89/entregador-recife?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[24859610]]></companyId>
-    <city><![CDATA[Recife]]></city>
-    <state><![CDATA[Pernambuco]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[89d37915-e775-4a59-a800-ba888b1e3ce4]]></partnerJobId>
     <partnerRequisitionId><![CDATA[89d37915-e775-4a59-a800-ba888b1e3ce4]]></partnerRequisitionId>
     <company><![CDATA[Auto Peças Padre Cicero]]></company>
@@ -64172,16 +64165,41 @@ Cumprir as normas de <strong>segurança, higiene e saúde no trabalho</strong>.<
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[607fd163-d346-4714-aaad-342f3a9e4990]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[607fd163-d346-4714-aaad-342f3a9e4990]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[c1a94799-aab0-44e6-aac9-85bceac2ed1e]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[c1a94799-aab0-44e6-aac9-85bceac2ed1e]]></partnerRequisitionId>
     <company><![CDATA[Auto Peças Padre Cicero]]></company>
-    <title><![CDATA[ENTREGADOR RECIFE]]></title>
-    <posterEmail><![CDATA[kailane.magalhaes@pecicero.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <strong>Entregadores(as)</strong> comprometidos e responsáveis para integrar nossa equipe. Na Auto Peças Padre Cícero, você terá a missão de garantir que nossos clientes recebam seus produtos com agilidade, segurança e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar entregas de autopeças de acordo com as rotas estabelecidas;</li><li>Garantir a conferência e integridade dos produtos no ato da entrega;</li><li>Zelar pela organização, conservação e bom uso do veículo/moto disponibilizado pela empresa;</li><li>Cumprir prazos e rotas de entrega de forma eficiente;</li><li>Apoiar em atividades operacionais no setor de expedição, quando necessário;</li><li>Tratar os clientes com cordialidade, reforçando a boa imagem da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo;</li><li>CNH válida (categoria A);</li><li>Disponibilidade para trabalhar em horário comercial;</li><li>Comprometimento, responsabilidade e atenção no trânsito.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li><strong>Vale Refeição</strong> no valor de R$396,00 mensais, com contribuição simbólica de R$16</li><li><strong>Plano de Saúde Hapvida</strong> (mensalidade de R$104)</li><li><strong>Plano Odontológico</strong> com mensalidades acessíveis entre R$10 e R$17</li><li><strong>Descontos em farmácias</strong> conveniadas (Montese)</li><li><strong>Incentivo à educação</strong>, com apoio para cursos e capacitações</li><li><strong>Incentivo à saúde</strong>, com acesso ao programa Total Pass (academias)</li><li><strong>Cartão Libercard</strong>, com vantagens exclusivas para compras e serviços</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/8/entregador-recife?applicationSource=0]]></applyUrl>
+    <title><![CDATA[ENTREGADOR - PIAUÍ]]></title>
+    <posterEmail><![CDATA[alice.rodrigues@pecicero.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <strong>Entregadores(as)</strong> comprometidos e responsáveis para integrar nossa equipe. Na Auto Peças Padre Cícero, você terá a missão de garantir que nossos clientes recebam seus produtos com agilidade, segurança e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar entregas de autopeças de acordo com as rotas estabelecidas;
+</li>
+<li>
+Garantir a conferência e integridade dos produtos no ato da entrega;
+</li>
+<li>
+Zelar pela organização, conservação e bom uso do veículo/moto disponibilizado pela empresa;
+</li>
+<li>
+Cumprir prazos e rotas de entrega de forma eficiente;
+</li>
+<li>
+Apoiar em atividades operacionais no setor de expedição, quando necessário;
+</li>
+<li>
+Tratar os clientes com cordialidade, reforçando a boa imagem da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo;
+</li>
+<li>
+CNH definitiva (categoria A);
+</li><li>Necessário moto própria com caixote;</li>
+<li>
+Disponibilidade para trabalhar em horário comercial;
+</li>
+<li>
+Comprometimento, responsabilidade e atenção no trânsito.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li><b>Salário:</b> Comissão + 30% de periculosidade. Para além disso, oferecemos ajuda de custo integrado ao salário.</li></ul><br /><ul><li><strong>Vale Refeição</strong> no valor de R$422,00 mensais, com contribuição simbólica de R$16</li><li><strong>Plano de Saúde Hapvida</strong></li><li><strong>Plano Odontológico</strong> com mensalidades acessíveis entre R$10 e R$17</li><li><strong>Descontos em farmácias</strong> conveniadas (Montese)</li><li><strong>Incentivo à educação</strong>, com apoio para cursos e capacitações</li><li><strong>Incentivo à saúde</strong>, com acesso ao programa Total Pass (academias)</li><li><strong>Cartão Libercard</strong>, com vantagens exclusivas para compras e serviços</li>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/117/entregador-piaui?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[24859610]]></companyId>
-    <city><![CDATA[Recife]]></city>
-    <state><![CDATA[Pernambuco]]></state>
+    <city><![CDATA[Teresina]]></city>
+    <state><![CDATA[Piauí]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -64324,26 +64342,6 @@ Valorizamos a diversidade e acreditamos no potencial de cada pessoa. Caso necess
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[b336bddd-14cf-4221-8e03-8d7ee48f5548]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[b336bddd-14cf-4221-8e03-8d7ee48f5548]]></partnerRequisitionId>
-    <company><![CDATA[Auto Peças Padre Cicero]]></company>
-    <title><![CDATA[ENTREGADOR - PIAUI]]></title>
-    <posterEmail><![CDATA[kailane.magalhaes@pecicero.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <strong>Entregadores(as)</strong> comprometidos e responsáveis para integrar nossa equipe. Na Auto Peças Padre Cícero, você terá a missão de garantir que nossos clientes recebam seus produtos com agilidade, segurança e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar entregas de autopeças de acordo com as rotas estabelecidas;</li><li>Garantir a conferência e integridade dos produtos no ato da entrega;</li><li>Zelar pela organização, conservação e bom uso do veículo/moto disponibilizado pela empresa;</li><li>Cumprir prazos e rotas de entrega de forma eficiente;</li><li>Apoiar em atividades operacionais no setor de expedição, quando necessário;</li><li>Tratar os clientes com cordialidade, reforçando a boa imagem da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo;</li><li>CNH válida (categoria A);</li><li>Disponibilidade para trabalhar em horário comercial;</li><li>Comprometimento, responsabilidade e atenção no trânsito.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li><strong>Vale Refeição</strong> no valor de R$396,00 mensais, com contribuição simbólica de R$16</li><li><strong>Plano de Saúde Hapvida</strong> (mensalidade de R$104)</li><li><strong>Plano Odontológico</strong> com mensalidades acessíveis entre R$10 e R$17</li><li><strong>Descontos em farmácias</strong> conveniadas (Montese)</li><li><strong>Incentivo à educação</strong>, com apoio para cursos e capacitações</li><li><strong>Incentivo à saúde</strong>, com acesso ao programa Total Pass (academias)</li><li><strong>Cartão Libercard</strong>, com vantagens exclusivas para compras e serviços</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/4/entregador-piaui?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[24859610]]></companyId>
-    <city><![CDATA[Teresina]]></city>
-    <state><![CDATA[Piauí]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[01bd460d-6abb-4aae-89a2-b46b79ece2c4]]></partnerJobId>
     <partnerRequisitionId><![CDATA[01bd460d-6abb-4aae-89a2-b46b79ece2c4]]></partnerRequisitionId>
     <company><![CDATA[Auto Peças Padre Cicero]]></company>
@@ -64373,6 +64371,51 @@ Valorizamos a diversidade e acreditamos no potencial de cada pessoa. Caso necess
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/36/operadora-de-caixa-pi?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[24859610]]></companyId>
     <city><![CDATA[Natal]]></city>
+    <state><![CDATA[Rio Grande do Norte]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[81926185-73bf-47cc-8fea-9bd5344977aa]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[81926185-73bf-47cc-8fea-9bd5344977aa]]></partnerRequisitionId>
+    <company><![CDATA[Auto Peças Padre Cicero]]></company>
+    <title><![CDATA[ENTREGADOR - RIO GRANDE DO NORTE]]></title>
+    <posterEmail><![CDATA[alice.rodrigues@pecicero.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <strong>Entregadores(as)</strong> comprometidos e responsáveis para integrar nossa equipe. Na Auto Peças Padre Cícero, você terá a missão de garantir que nossos clientes recebam seus produtos com agilidade, segurança e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar entregas de autopeças de acordo com as rotas estabelecidas;
+</li>
+<li>
+Garantir a conferência e integridade dos produtos no ato da entrega;
+</li>
+<li>
+Zelar pela organização, conservação e bom uso do veículo/moto disponibilizado pela empresa;
+</li>
+<li>
+Cumprir prazos e rotas de entrega de forma eficiente;
+</li>
+<li>
+Apoiar em atividades operacionais no setor de expedição, quando necessário;
+</li>
+<li>
+Tratar os clientes com cordialidade, reforçando a boa imagem da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo;
+</li>
+<li>
+CNH definitiva (categoria A);
+</li><li>Necessário moto própria com caixote;</li>
+<li>
+Disponibilidade para trabalhar em horário comercial;
+</li>
+<li>
+Comprometimento, responsabilidade e atenção no trânsito.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li><b>Salário:</b> Comissão + 30% de periculosidade. Para além disso, oferecemos ajuda de custo integrado ao salário.</li></ul><br /><ul><li><strong>Vale Refeição</strong> no valor de R$422,00 mensais, com contribuição simbólica de R$16</li><li><strong>Plano de Saúde Hapvida</strong></li><li><strong>Plano Odontológico</strong> com mensalidades acessíveis entre R$10 e R$17</li><li><strong>Descontos em farmácias</strong> conveniadas (Montese)</li><li><strong>Incentivo à educação</strong>, com apoio para cursos e capacitações</li><li><strong>Incentivo à saúde</strong>, com acesso ao programa Total Pass (academias)</li><li><strong>Cartão Libercard</strong>, com vantagens exclusivas para compras e serviços</li>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/118/entregador-rio-grande-do-norte?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[24859610]]></companyId>
+    <city><![CDATA[Parnamirim]]></city>
     <state><![CDATA[Rio Grande do Norte]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -64444,26 +64487,6 @@ Valorizamos a diversidade e acreditamos no potencial de cada pessoa. Caso necess
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[0c73bb30-051b-4e63-beeb-56fe951ddfbf]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[0c73bb30-051b-4e63-beeb-56fe951ddfbf]]></partnerRequisitionId>
-    <company><![CDATA[Auto Peças Padre Cicero]]></company>
-    <title><![CDATA[ENTREGADOR - RIO GRANDE DO NORTE]]></title>
-    <posterEmail><![CDATA[ana.beatriz@pecicero.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais comprometidos, ágeis e responsáveis para atuar como <strong>Entregador</strong> em nossa unidade. A função envolve a entrega de peças automotivas aos clientes, garantindo pontualidade, organização e segurança no transporte. O trabalho exige deslocamentos frequentes, manuseio de mercadorias e interação direta com clientes e equipe interna.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar entregas de peças automotivas nos endereços dos clientes com pontualidade</li><li>Conferir pedidos antes da saída para entrega</li><li>Garantir a integridade das mercadorias durante o transporte</li><li>Coletar assinaturas e comprovantes de entrega</li><li>Manter organização dos documentos de transporte e notas fiscais</li><li><strong>Zelar pelo veículo próprio utilizado.</strong></li><li>Utilizar o aplicativo <strong>ATIVEMOB</strong> para controle de rotas e entregas</li><li>Apoiar a equipe logística em atividades complementares quando necessário</li><li>Cumprir normas de segurança e procedimentos internos</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo</li><li>Organização, responsabilidade e atenção aos detalhes</li><li>Boa comunicação e cordialidade no atendimento ao cliente</li><li>Capacidade de trabalho em equipe</li><li>Disponibilidade para deslocamentos frequentes durante a jornada</li><li><strong>Veículo próprio disponível para uso nas entregas</strong></li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Ajuda de custo para deslocamento</li><li>Vale Refeição: R$422,00/mês (contribuição simbólica de R$16 Mensal)</li></ul><strong>Benefícios:</strong><ul><li>Plano de Saúde Hapvida (mensalidade de R$109,70) ou Unimed (valores tabelados)</li><li>Plano Odontológico (R$10 a R$17)</li><li>Incentivo à educação (apoio a cursos e capacitações)</li><li>Incentivo à saúde (Total Pass – academias)</li><li>Cartão Libercard</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/87/entregador-rio-grande-do-norte?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[24859610]]></companyId>
-    <city><![CDATA[Parnamirim]]></city>
-    <state><![CDATA[Rio Grande do Norte]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[f6f97709-270b-4787-8829-90a6741f96eb]]></partnerJobId>
     <partnerRequisitionId><![CDATA[f6f97709-270b-4787-8829-90a6741f96eb]]></partnerRequisitionId>
     <company><![CDATA[Auto Peças Padre Cicero]]></company>
@@ -64494,26 +64517,6 @@ Valorizamos a diversidade e acreditamos no potencial de cada pessoa. Caso necess
     <posterEmail><![CDATA[ana.hadassa@pecicero.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos contratando uma <strong>Operadora de Caixa</strong> para atuar diretamente no atendimento ao cliente, realizando operações de pagamento e garantindo o controle correto do caixa.Buscamos uma profissional com bom relacionamento interpessoal, agilidade e comprometimento com o atendimento de qualidade.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar operações de caixa, como abertura e fechamento de caixa, recebimento e pagamento de valores.</li><li>Atender clientes de forma cordial e eficiente, esclarecendo dúvidas e oferecendo suporte nas transações.</li><li>Emitir notas fiscais e recibos, garantindo a correta documentação das transações.</li><li> Controlar o fluxo de entrada e saída de dinheiro, realizando conciliações diárias e reportando diferenças.</li><li>Identificar e prevenir fraudes e irregularidades nas transações.</li><li>Trabalhar em equipe com demais setores para garantir a eficiência nos serviços prestados.</li><li> Cumprir com normas e procedimentos da empresa, assegurando a conformidade nas atividades realizadas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.</li><li>Experiência prévia em funções de atendimento ao público ou operação de caixa.</li><li>Conhecimento em sistemas de gestão de vendas e financeiras.</li><li>Habilidade em lidar com numerário e realizar conferências.</li><li>Boa comunicação e habilidade em resolver conflitos.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li><b>Vale Transporte</b> com desconto de 6% sobre o salário</li><li><b>Vale Refeição</b> no valor de R$396,00 mensais, com contribuição simbólica de R$16</li><li><b>Plano de Saúde Hapvida</b> <strong> </strong>(mensalidade de R$110)</li><li><b>Plano Odontológico</b> com mensalidades acessíveis entre R$10 e R$17</li><li><b>Descontos em farmácias</b> conveniadas (Montese)</li><li><b>Incentivo à educação</b>, com apoio para cursos e capacitações</li><li><b>Incentivo à saúde</b>, com acesso ao programa Total Pass (academias)</li><li><b>Cartão Libercard</b>, com vantagens exclusivas para compras e serviços</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/53/operadora-de-caixa-rn?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[24859610]]></companyId>
-    <city><![CDATA[Parnamirim]]></city>
-    <state><![CDATA[Rio Grande do Norte]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[49d9c07f-7586-460a-8631-79644a550ec3]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[49d9c07f-7586-460a-8631-79644a550ec3]]></partnerRequisitionId>
-    <company><![CDATA[Auto Peças Padre Cicero]]></company>
-    <title><![CDATA[ENTREGADOR RN]]></title>
-    <posterEmail><![CDATA[kailane.magalhaes@pecicero.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <strong>Entregadores(as)</strong> comprometidos e responsáveis para integrar nossa equipe. Na Auto Peças Padre Cícero, você terá a missão de garantir que nossos clientes recebam seus produtos com agilidade, segurança e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar entregas de autopeças de acordo com as rotas estabelecidas;</li><li>Garantir a conferência e integridade dos produtos no ato da entrega;</li><li>Zelar pela organização, conservação e bom uso do veículo/moto disponibilizado pela empresa;</li><li>Cumprir prazos e rotas de entrega de forma eficiente;</li><li>Apoiar em atividades operacionais no setor de expedição, quando necessário;</li><li>Tratar os clientes com cordialidade, reforçando a boa imagem da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino fundamental completo;</li><li>CNH válida (categoria A);</li><li>Disponibilidade para trabalhar em horário comercial;</li><li>Comprometimento, responsabilidade e atenção no trânsito.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li><strong>Vale Refeição</strong> no valor de R$396,00 mensais, com contribuição simbólica de R$16</li><li><strong>Plano de Saúde Hapvida</strong> <strong> </strong>(mensalidade de R$104)</li><li><strong>Plano Odontológico</strong> com mensalidades acessíveis entre R$10 e R$17</li><li><strong>Descontos em farmácias</strong> conveniadas (Montese)</li><li><strong>Incentivo à educação</strong>, com apoio para cursos e capacitações</li><li><strong>Incentivo à saúde</strong>, com acesso ao programa Total Pass (academias)</li><li><strong>Cartão Libercard</strong>, com vantagens exclusivas para compras e serviços</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspecicero/6/entregador-rn?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[24859610]]></companyId>
     <city><![CDATA[Parnamirim]]></city>
     <state><![CDATA[Rio Grande do Norte]]></state>
@@ -77164,6 +77167,46 @@ rotinas e no acompanhamento dos serviços.<br /><br /><b>Requisitos e qualifica�
     <companyId><![CDATA[14023532]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4d957936-a859-4a30-a012-1820409dba7c]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[4d957936-a859-4a30-a012-1820409dba7c]]></partnerRequisitionId>
+    <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
+    <title><![CDATA[TÉCNICO DE SEGURANÇA DO TRABALHO]]></title>
+    <posterEmail><![CDATA[joyce.rh@ctaengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Na CTA Engenharia, acreditamos que respeito, diversidade e inclusão fazem parte do dia a dia. Não fazemos distinção entre pessoas e valorizamos cada profissional por sua capacidade, talento e dedicação. Todas as nossas vagas são abertas para todos os perfis, incluindo Pessoas com Deficiência (PcD) e pessoas LGBTQIA+, sempre com igualdade de oportunidades e respeito às diferenças.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar na capilarização da Cultura de Segurança;<br /></li><li>Elaborar e implementar programa de gestão de SMS nas atividades contratadas;</li><li>Implementar Análise de Segurança da Tarefa (AST);</li><li>Realizar auditorias comportamentais;</li><li>Elaborar análise de risco.</li><li>Realizar treinamentos.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação técnica em segurança do trabalho completa. </li><li>Experiência em segurança do trabalho no setor  indústrial;</li></ul><br /><br /><b>Benefícios</b><br /><br />Plano de Saúde e Odontológico | Seguro de Vida em Grupo | Vale Refeição ou alimentação | Transporte | Parceria com instituição de ensino e idioma]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/400/tecnico-de-seguranca-do-trabalho?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[14023532]]></companyId>
+    <city><![CDATA[Canoas]]></city>
+    <state><![CDATA[Rio Grande do Sul]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[dcacbffc-b9e5-4873-869a-758bf18de8e6]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[dcacbffc-b9e5-4873-869a-758bf18de8e6]]></partnerRequisitionId>
+    <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
+    <title><![CDATA[AUXILIAR DE LABORATÓRIO]]></title>
+    <posterEmail><![CDATA[joyce.rh@ctaengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Na CTA Engenharia, acreditamos que respeito, diversidade e inclusão fazem parte do dia a dia. Não fazemos distinção entre pessoas e valorizamos cada profissional por sua capacidade, talento e dedicação. Todas as nossas vagas são abertas para todos os perfis, incluindo Pessoas com Deficiência (PcD) e pessoas LGBTQIA+, sempre com igualdade de oportunidades e respeito às diferenças.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>As atividades contemplam a realização dos serviços de limpeza, transporte de amostras, preparo de materiais para amostragem, troca de cilindros de gás e outras atividades.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência como auxiliar de laboratório ou atividade industrial;</li><li>Nível médio completo com CNH no mínimo de categoria B e curso de MOPP.</li></ul><br /><br /><b>Benefícios</b><br /><br />Plano de Saúde e Odontológico | Seguro de Vida em Grupo | Vale Refeição ou alimentação | Transporte | Parceria com instituição de ensino e idioma]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/399/auxiliar-de-laboratorio?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[14023532]]></companyId>
+    <city><![CDATA[Canoas]]></city>
+    <state><![CDATA[Rio Grande do Sul]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -92662,6 +92705,41 @@ Acompanhar estado clínico dos pacientes e comunicar intercorrências;</li></ul>
 <li>
 Disponibilidade para atuar em escala hospitalar.</li><li>Capacidade de tomada de decisão, trabalho em equipe e agilidade em situações de pressão.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Refeitório na unidade;</li><li>Vale transporte;</li><li>Plano de saúde; </li><li>Plano odontológico;</li><li>Seguro de vida.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscosantacasa/54/enfermeiro-a-enfermaria-hospital-metropolitano?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[97350692]]></companyId>
+    <city><![CDATA[Lauro de Freitas]]></city>
+    <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[6cdc9038-9694-4969-87b1-7520b726cddf]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[6cdc9038-9694-4969-87b1-7520b726cddf]]></partnerRequisitionId>
+    <company><![CDATA[Santa Casa Ruy Barbosa]]></company>
+    <title><![CDATA[Auxiliar Administrativo - Hospital Metropolitano]]></title>
+    <posterEmail><![CDATA[psiorg.rhcsc1@scrb.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Auxiliar Administrativo será responsável por prestar suporte às rotinas administrativas da instituição, garantindo organização, qualidade no atendimento e eficiência nos processos internos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar atendimento ao público de forma presencial e por canais digitais (telefone, WhatsApp e sistemas internos);
+</li>
+<li>
+Efetuar agendamentos, confirmações e remarcações de atendimentos, conforme procedimentos institucionais;
+</li>
+<li>
+Realizar cadastro e atualização de dados em sistema;
+</li>
+<li>
+Apoiar a equipe nas demandas administrativas, contribuindo para a organização e fluidez das atividades;
+</li>
+<li>
+Auxiliar no controle de documentos, informações e rotinas operacionais do setor;
+</li>
+<li>
+Manter comunicação clara e cordial com usuários e equipe interna.</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo<br /><br /><b>Benefícios</b><br /><br /><ul><li>Refeitório na unidade;</li><li>Vale transporte;</li><li>Plano de saúde; </li><li>Plano odontológico;</li><li>Seguro de vida.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscosantacasa/51/auxiliar-administrativo-hospital-metropolitano?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[97350692]]></companyId>
     <city><![CDATA[Lauro de Freitas]]></city>
     <state><![CDATA[Bahia]]></state>
@@ -109165,6 +109243,26 @@ Benefícios compatíveis com a posição.</li>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[5089aced-e985-4840-9a6c-0e84c33edc58]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[5089aced-e985-4840-9a6c-0e84c33edc58]]></partnerRequisitionId>
+    <company><![CDATA[Grupo Unifacisa]]></company>
+    <title><![CDATA[Produtor de Conteúdo]]></title>
+    <posterEmail><![CDATA[yasmin.dias@unifacisa.edu.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Produtor de Conteúdo será responsável por planejar roteiros e produções audiovisuais, realizar a gravação e edição profissional de vídeos, e contribuir com senso criativo para o desenvolvimento de conteúdos alinhados à identidade e aos objetivos estratégicos da instituição, atuando com autonomia no manuseio de equipamentos de audiovisual e em ferramentas profissionais de edição.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar roteiros e estruturas de produção para vídeos institucionais, campanhas e conteúdos para redes sociais;</li><li>Realizar a gravação de vídeos, garantindo qualidade técnica de imagem e áudio;</li><li>Editar vídeos de forma profissional, aplicando cortes, trilha sonora, color grading e efeitos visuais quando necessário;</li><li>Operar equipamentos de audiovisual (câmeras, microfones, iluminação e acessórios de captação);</li><li>Desenvolver conceitos criativos para os conteúdos, propondo formatos, narrativas e abordagens visuais;</li><li>Trabalhar em conjunto com a equipe de marketing no alinhamento de linguagem, identidade visual e objetivos de cada peça;</li><li>Organizar e manter o acervo de arquivos de imagem e vídeo produzidos;</li><li>Garantir o cumprimento de prazos de produção e entrega dos conteúdos;</li><li>Acompanhar tendências de linguagem audiovisual e novos formatos de conteúdo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo ou em andamento em Arte e Mídia, Publicidade e Propaganda ou áreas correlatas;</li><li><b>Experiência prévia em produção, gravação e edição de vídeos</b>;</li><li>Habilidade no manuseio de equipamentos de audiovisual (câmeras, áudio e iluminação);</li><li>Domínio das ferramentas Adobe Premiere, Lightroom e After Effects;</li><li>Bom senso criativo e atenção à estética e qualidade visual dos conteúdos;</li><li>Organização, proatividade e capacidade de gestão de múltiplos projetos simultaneamente;</li><li>Disponibilidade para atuação em horários flexíveis, conforme demanda de gravações e eventos.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cesed/97/produtor-de-conteudo?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[10899505]]></companyId>
+    <city><![CDATA[Campina Grande]]></city>
+    <state><![CDATA[Paraíba]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[9bc1a794-f720-47e6-b6ff-4f36e7218be2]]></partnerJobId>
     <partnerRequisitionId><![CDATA[9bc1a794-f720-47e6-b6ff-4f36e7218be2]]></partnerRequisitionId>
     <company><![CDATA[Grupo Unifacisa]]></company>
@@ -111820,6 +111918,26 @@ facilitar o atendimento ao cliente. </b><b></b><br /><br /><b>Requisitos e quali
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupoclassicvagas/7/vendedor-instrumentos-musicais-e-audio-profissional?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[2254902]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[226874f3-3059-4c2e-ba91-0e987a80a89c]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[226874f3-3059-4c2e-ba91-0e987a80a89c]]></partnerRequisitionId>
+    <company><![CDATA[Grupo Classic - Página de Carreira]]></company>
+    <title><![CDATA[Coordenador de TI]]></title>
+    <posterEmail><![CDATA[leandra.nonato@grupoclassic.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O coordenador de TI será responsável pela área de Tecnologia e Informação de todo o Grupo Classic, atuando conforme os requisitos propostos.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Gestor responsável por cuidar da segurança, disponibilidade e proteção de dados das empresas do grupo;<br />-  Gestão de equipe interna e consultoria externa para melhor performance técnica e eficiência;<br />- Planejamento e condução de projetos de modernização da infraestrutura e redes estruturadas, garantindo padronização e resiliência;<br />- Gestão orçamentária, contratos e relacionamento com fornecedores estratégicos, assegurando SLA, compliance e otimização de custos;<br />- Atuação como interface entre TI, áreas de negócio e fornecedores, traduzindo demandas estratégicas em soluções tecnológicas viáveis;<br />- Remodelagem da gestão de sistemas e ferramentas para atender às necessidades de negócio, com mapeamentos de todos os sistemas e processos;<br />-Implementação do modelo de construção de software sob demanda, melhorando a entrega de valor para os clientes internos e externos.<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Superior Completo na área de Tecnologia da Informação;- Desejável pós-graduação na área<br /><br /><br /><br /><br /><b>Benefícios</b><br /><br />Contratação em modalidade PJ]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupoclassicvagas/8/coordenador-de-ti?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[2254902]]></companyId>
+    <city><![CDATA[Contagem]]></city>
     <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
