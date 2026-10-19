@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Mon, 19 Oct 2026 13:16:25 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 14:21:57 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[4163]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4165]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerRequisitionId>
@@ -1132,6 +1132,26 @@ Salário + Produtividade;</li></ul>]]></description>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[117bbbbf-4044-464a-bb94-16df59e578a7]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[117bbbbf-4044-464a-bb94-16df59e578a7]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Pessoa Desenvolvedora Sênior (C# / .Net)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Lexos, empresa do grupo TOTVS, desenvolve o Lexos Hub, a plataforma que conecta lojistas aos principais marketplaces e canais de venda do Brasil (Mercado Livre, Amazon, Magalu, Shopee, entre outros). Buscamos um(a) Desenvolvedor(a) Analista III para atuar na evolução do Hub, construindo e mantendo integrações, serviços e componentes de uma plataforma multi-tenant que processa alto volume de pedidos, anúncios e documentos fiscais.<br />Buscamos alguém que atue com autonomia em problemas complexos, participe das decisões de arquitetura do time, seja referência técnica para desenvolvedores menos experientes e cuide da qualidade e da operação do que entrega em produção.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<ul><li>Desenvolver e evoluir integrações do Lexos Hub com marketplaces, ERPs e serviços fiscais, lidando com APIs externas, webhooks, filas e processamento assíncrono.</li><li>Projetar e implementar serviços backend com foco em escalabilidade, resiliência e isolamento multi-tenant.</li><li>Participar das decisões de arquitetura do time, propondo soluções e documentando trade-offs técnicos.</li><li>Garantir qualidade por meio de testes automatizados, code review criterioso e boas práticas de engenharia.</li><li>Diagnosticar e resolver problemas de performance em banco de dados e serviços, incluindo análise de queries e otimização de consultas em cenários de alto volume.</li><li>Atuar na operação do que desenvolve: monitoramento, observabilidade, tratamento de incidentes e participação em pós-mortems.</li><li>Seguir e contribuir com o processo de gestão de mudanças (GMUD) e de versionamento de banco de dados da empresa.</li><li>Apoiar tecnicamente desenvolvedores júnior e pleno, por meio de pareamento, revisões e compartilhamento de conhecimento.</li><li>Colaborar com Product Managers, QA e Tech Leads no refinamento de requisitos e no planejamento das entregas da squad.</li><li>Contribuir com a redução planejada de dívida técnica e com a padronização de práticas entre as squads.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><ul><li>Experiência sólida (5+ anos) em desenvolvimento backend com C# / .NET, construindo APIs e serviços em produção.</li><li>Experiência com SQL Server (ou banco relacional equivalente): modelagem, índices, análise de planos de execução e otimização de queries em bases de grande volume.</li><li>Experiência com integrações via APIs REST, autenticação OAuth, webhooks e tratamento de falhas (retries, idempotência, circuit breaker).</li><li>Vivência com mensageria e processamento assíncrono (RabbitMQ, Azure Service Bus, Kafka ou similares).</li><li>Domínio de boas práticas de arquitetura: separação de domínios, injeção de dependência, padrões como hexagonal / ports-and-adapters e Clean Architecture.</li><li>Experiência com testes automatizados (unitários, integração) e pipelines de CI/CD.</li><li>Experiência com Git e fluxos de code review em times ágeis (Scrum/Kanban).</li><li>Capacidade de atuar com autonomia, comunicar decisões técnicas com clareza e orientar outros desenvolvedores.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12732/tech-pessoa-desenvolvedora-senior-c-net?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São José dos Campos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[c3d671e4-b944-4a54-86f0-761775ea37aa]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c3d671e4-b944-4a54-86f0-761775ea37aa]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -1139,6 +1159,26 @@ Salário + Produtividade;</li></ul>]]></description>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Prestar serviços de sustentação aos nossos clientes, provendo soluções com empatia e pro atividade segundo nossa metodologia de processos. Garantir a satisfação dos clientes com os produtos e serviços TOTVS.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Realizar atividades de alta complexidade em quaisquer etapas da prestação do serviço de Suporte;</li><li>Conduzir tecnicamente os serviços de sustentação. Garantir a viabilidade técnica da solução e identificar os riscos durante a execução do serviço;</li><li>Conduzir tecnicamente os atendimentos em que atua, garantindo a viabilidade técnica da solução e identificando os riscos durante a execução do serviço;</li><li>Multiplicar o conhecimento técnico necessário para os demais Assistentes/Técnicos e Analistas da equipe em reuniões, treinamentos, capacitações e outros;</li><li>Analisar e identificar problemas (tickets, projeto, produto, processo, capacitação etc.) de maior complexidade e direcionar plano de ação para as áreas responsáveis e/ou para sua Coordenação;</li><li>Realizar o atendimento aos clientes por meio dos canais TOTVS, esclarecendo dúvidas sobre assuntos de alta complexidade referentes ao sistema. Registrar sugestões e incidentes;</li><li>Prestar o atendimento por meio de canais de abertura de tickets, de acordo com o processo definido procurando sanar questões e cumprir metas estabelecidas;</li><li>Registrar a solicitação do cliente no sistema, com todas as evidências (tickets abertos) de detalhamento necessárias para todos os impactados;</li><li>Posicionar a liderança sobre as solicitações ou incidentes que não forem evoluídos após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área;</li><li>Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e outros), quanto para o resultado e as metas da área;</li><li>Diagnosticar as necessidades da área para identificar e sugerir melhorias e/ou inovações nos processos/metodologias;</li><li>Analisar as necessidades do cliente para identificar oportunidades e oferecer novos serviços da área;</li><li>Participar de comunidades, fóruns técnicos e canais de comunicação do segmento. Acompanhar as documentações e apoiar nos retornos e soluções para clientes internos e externos;</li><li>Contribuir de forma efetiva para a melhoria dos processos, sendo referência para o time;</li><li>Apontar diariamente as ordens de serviço nos projetos em que atuou;</li><li>Registrar todas as interações realizadas durante o atendimento das demandas em sistemas de chamado, e-mails, documentações específicas e demais canais utilizados no atendimento.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><ul><li>Prestar suporte técnico de nível avançado aos usuários dos módulos de Backoffice, Materiais</li><li>Conhecimento intermediário ou avançado em Controladoria.</li><li>Conhecimento intermediário ou avançado em lógica de programação, ADVPL e instruções de SQL.</li><li>Domínio das regras de negócio de acordo com a área de atuação;</li><li>Mapear processos de negócio e propor melhorias tecnológicas para redução de chamados e automação de tarefas.</li><li>Documentar processos técnicos e apoiar na mentoria de analistas de níveis inferiores</li></ul><br /><br /><i>Disponibilidade para atuar em horário NOTURNO, de segunda a sexta (20h até as 06h)</i><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/10748/suporte-analista-de-suporte-tecnico-jr-protheus-noturna-remota?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[a12f8526-581c-4a70-ab3b-12373ae9bfa9]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[a12f8526-581c-4a70-ab3b-12373ae9bfa9]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Suporte] Analista de Suporte Técnico Pleno - Protheus - Vaga Afirmativa para pessoas com Deficiência (Remoto)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Prestar serviços de sustentação aos nossos clientes, provendo soluções com empatia e pro atividade segundo nossa metodologia de processos. Garantir a satisfação dos clientes com os produtos e serviços TOTVS.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atividades de alta complexidade em quaisquer etapas da prestação do serviço de Suporte;</li><li>Conduzir tecnicamente os serviços de sustentação. Garantir a viabilidade técnica da solução e identificar os riscos durante a execução do serviço;</li><li>Conduzir tecnicamente os atendimentos em que atua, garantindo a viabilidade técnica da solução e identificando os riscos durante a execução do serviço;</li><li>Multiplicar o conhecimento técnico necessário para os demais Assistentes/Técnicos e Analistas da equipe em reuniões, treinamentos, capacitações e outros;</li><li>Analisar e identificar problemas (tickets, projeto, produto, processo, capacitação etc.) de maior complexidade e direcionar plano de ação para as áreas responsáveis e/ou para sua Coordenação;</li><li>Realizar o atendimento aos clientes por meio dos canais TOTVS, esclarecendo dúvidas sobre assuntos de alta complexidade referentes ao sistema. Registrar sugestões e incidentes;</li><li>Prestar o atendimento por meio de canais de abertura de tickets, de acordo com o processo definido procurando sanar questões e cumprir metas estabelecidas;</li><li>Registrar a solicitação do cliente no sistema, com todas as evidências (tickets abertos) de detalhamento necessárias para todos os impactados;</li><li>Posicionar a liderança sobre as solicitações ou incidentes que não forem evoluídos após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área;</li><li>Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e outros), quanto para o resultado e as metas da área;</li><li>Diagnosticar as necessidades da área para identificar e sugerir melhorias e/ou inovações nos processos/metodologias;</li><li>Analisar as necessidades do cliente para identificar oportunidades e oferecer novos serviços da área;</li><li>Participar de comunidades, fóruns técnicos e canais de comunicação do segmento. Acompanhar as documentações e apoiar nos retornos e soluções para clientes internos e externos;</li><li>Contribuir de forma efetiva para a melhoria dos processos, sendo referência para o time;</li><li>Apontar diariamente as ordens de serviço nos projetos em que atuou;</li><li>Registrar todas as interações realizadas durante o atendimento das demandas em sistemas de chamado, e-mails, documentações específicas e demais canais utilizados no atendimento.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Área: </b>Tecnologia da Informação / Sistema Protheus Foco: Backoffice (Materiais, Custos, Faturamento) e Desenvolvimento ADVPL <br /><b><br /></b><br /><b>Conhecimentos específicos: </b><ul><li>Prestar suporte técnico de nível avançado aos usuários dos módulos de Backoffice, Materiais</li><li>Conhecimento intermediário ou avançado em Controladoria.</li><li>Conhecimento intermediário ou avançado em lógica de programação, ADVPL e instruções de SQL. </li><li>Domínio das regras de negócio de acordo com a área de atuação;</li><li>Mapear processos de negócio e propor melhorias tecnológicas para redução de chamados e automação de tarefas.</li><li>Documentar processos técnicos e apoiar na mentoria de analistas de níveis inferiores<br /></li></ul><br /><br /><br /><b>Disponibilidade para atuar em horário NOTURNO, de segunda a sexta (20h até as 06h)</b><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8694/suporte-analista-de-suporte-tecnico-pleno-protheus-vaga-afirmativa-para-pessoas-com-deficiencia-remoto?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -1329,26 +1369,6 @@ Conhecimento em Scrum;</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Sa�
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><br /><br /><br />Atuar em projetos dos diferentes pilares (RPA e IA), buscando o autodesenvolvimento nas metodologias e boas práticas; Executar o desenvolvimento e a sustentação das soluções de RPA e IA com desenvoltura, trabalhando de forma supervisionada pela liderança técnica, mas com dinamismo, eficiência e energia em todas às entregas aos clientes TOTVS;<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><br /><br /><ul><li>Interagir com a equipe (interna e externa), clientes e outros Stakeholders (com média supervisão) para diagnóstico de necessidades e aplicação de soluções em robotização e IA</li><li>Manter o compromisso com a qualidade, prazo e entrega através do alinhamento constante com a liderança</li><li>Direcionar esforços para adquirir conhecimento, através de conceitos, metodologias e ofertas da estrutura</li><li>Colaborar para o bom ambiente do time, na busca constante por novos conhecimentos e promovendo o bom relacionamento interpessoal</li><li>Realizar suas atividades, seguindo às prioridades e prazos estabelecidos e, acima de tudo, responsável pela qualidade técnica do projeto, com foco em resolução de problemas</li><li>Atuar de forma colaborativa, com flexibilidade e resiliência, contribuindo para os resultados da área</li><li>Conduzir iniciativas de média complexidade (com média supervisão e direcionamento), tanto internas como em projetos (com envolvimento de clientes), aumentando de forma gradativa seu nível de interlocução</li><li>Ser referência comportamental para os assistentes, estagiários e aprendizes, compartilhado conhecimentos e experiências</li><li>Participar ativamente na geração de valor das entregas dos projetos e aplicar os resultados em diferentes entregas</li><li>Solucionar problemas (com suporte/orientação, sempre que necessário), fundamentar ideias e pontos de vista com base informações/dados e na comparação das mesmas</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><br /><br /><ul><li>Superior completo ou em formação preferivelmente nas áreas de Engenharia, Economia, Administração de Empresas, Psicologia e Ciência da Computação;</li><li>Experiência na área;</li><li>Pacote office, G Suite, Automation Anywhere e infraestrutura (VM e conexões);</li><li>Certificações em ferramentas de RPA/IA - desejável.</li></ul><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12515/tech-analista-de-servicos-e-ia-junior?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a12f8526-581c-4a70-ab3b-12373ae9bfa9]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[a12f8526-581c-4a70-ab3b-12373ae9bfa9]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Suporte] Analista de Suporte Técnico Pleno - Protheus - Vaga Afirmativa para pessoas com Deficiência (Remoto)]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Prestar serviços de sustentação aos nossos clientes, provendo soluções com empatia e pro atividade segundo nossa metodologia de processos. Garantir a satisfação dos clientes com os produtos e serviços TOTVS.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atividades de alta complexidade em quaisquer etapas da prestação do serviço de Suporte;</li><li>Conduzir tecnicamente os serviços de sustentação. Garantir a viabilidade técnica da solução e identificar os riscos durante a execução do serviço;</li><li>Conduzir tecnicamente os atendimentos em que atua, garantindo a viabilidade técnica da solução e identificando os riscos durante a execução do serviço;</li><li>Multiplicar o conhecimento técnico necessário para os demais Assistentes/Técnicos e Analistas da equipe em reuniões, treinamentos, capacitações e outros;</li><li>Analisar e identificar problemas (tickets, projeto, produto, processo, capacitação etc.) de maior complexidade e direcionar plano de ação para as áreas responsáveis e/ou para sua Coordenação;</li><li>Realizar o atendimento aos clientes por meio dos canais TOTVS, esclarecendo dúvidas sobre assuntos de alta complexidade referentes ao sistema. Registrar sugestões e incidentes;</li><li>Prestar o atendimento por meio de canais de abertura de tickets, de acordo com o processo definido procurando sanar questões e cumprir metas estabelecidas;</li><li>Registrar a solicitação do cliente no sistema, com todas as evidências (tickets abertos) de detalhamento necessárias para todos os impactados;</li><li>Posicionar a liderança sobre as solicitações ou incidentes que não forem evoluídos após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área;</li><li>Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e outros), quanto para o resultado e as metas da área;</li><li>Diagnosticar as necessidades da área para identificar e sugerir melhorias e/ou inovações nos processos/metodologias;</li><li>Analisar as necessidades do cliente para identificar oportunidades e oferecer novos serviços da área;</li><li>Participar de comunidades, fóruns técnicos e canais de comunicação do segmento. Acompanhar as documentações e apoiar nos retornos e soluções para clientes internos e externos;</li><li>Contribuir de forma efetiva para a melhoria dos processos, sendo referência para o time;</li><li>Apontar diariamente as ordens de serviço nos projetos em que atuou;</li><li>Registrar todas as interações realizadas durante o atendimento das demandas em sistemas de chamado, e-mails, documentações específicas e demais canais utilizados no atendimento.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Área: </b>Tecnologia da Informação / Sistema Protheus Foco: Backoffice (Materiais, Custos, Faturamento) e Desenvolvimento ADVPL <br /><b><br /></b><br /><b>Conhecimentos específicos: </b><ul><li>Prestar suporte técnico de nível avançado aos usuários dos módulos de Backoffice, Materiais</li><li>Conhecimento intermediário ou avançado em Controladoria.</li><li>Conhecimento intermediário ou avançado em lógica de programação, ADVPL e instruções de SQL. </li><li>Domínio das regras de negócio de acordo com a área de atuação;</li><li>Mapear processos de negócio e propor melhorias tecnológicas para redução de chamados e automação de tarefas.</li><li>Documentar processos técnicos e apoiar na mentoria de analistas de níveis inferiores<br /></li></ul><br /><br /><br /><b>Disponibilidade para atuar em horário NOTURNO, de segunda a sexta (20h até as 06h)</b><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/8694/suporte-analista-de-suporte-tecnico-pleno-protheus-vaga-afirmativa-para-pessoas-com-deficiencia-remoto?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -3282,26 +3302,6 @@ geração de novas demandas.  <br /><br /><br /><b>Requisitos e qualificações<
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11189/vendas-gerente-de-contas-junior-hunter?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Carlos]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[117bbbbf-4044-464a-bb94-16df59e578a7]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[117bbbbf-4044-464a-bb94-16df59e578a7]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Pessoa Desenvolvedora Sênior (C# / .Net)]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Lexos, empresa do grupo TOTVS, desenvolve o Lexos Hub, a plataforma que conecta lojistas aos principais marketplaces e canais de venda do Brasil (Mercado Livre, Amazon, Magalu, Shopee, entre outros). Buscamos um(a) Desenvolvedor(a) Analista III para atuar na evolução do Hub, construindo e mantendo integrações, serviços e componentes de uma plataforma multi-tenant que processa alto volume de pedidos, anúncios e documentos fiscais.<br />Buscamos alguém que atue com autonomia em problemas complexos, participe das decisões de arquitetura do time, seja referência técnica para desenvolvedores menos experientes e cuide da qualidade e da operação do que entrega em produção.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<ul><li>Desenvolver e evoluir integrações do Lexos Hub com marketplaces, ERPs e serviços fiscais, lidando com APIs externas, webhooks, filas e processamento assíncrono.</li><li>Projetar e implementar serviços backend com foco em escalabilidade, resiliência e isolamento multi-tenant.</li><li>Participar das decisões de arquitetura do time, propondo soluções e documentando trade-offs técnicos.</li><li>Garantir qualidade por meio de testes automatizados, code review criterioso e boas práticas de engenharia.</li><li>Diagnosticar e resolver problemas de performance em banco de dados e serviços, incluindo análise de queries e otimização de consultas em cenários de alto volume.</li><li>Atuar na operação do que desenvolve: monitoramento, observabilidade, tratamento de incidentes e participação em pós-mortems.</li><li>Seguir e contribuir com o processo de gestão de mudanças (GMUD) e de versionamento de banco de dados da empresa.</li><li>Apoiar tecnicamente desenvolvedores júnior e pleno, por meio de pareamento, revisões e compartilhamento de conhecimento.</li><li>Colaborar com Product Managers, QA e Tech Leads no refinamento de requisitos e no planejamento das entregas da squad.</li><li>Contribuir com a redução planejada de dívida técnica e com a padronização de práticas entre as squads.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><ul><li>Experiência sólida (5+ anos) em desenvolvimento backend com C# / .NET, construindo APIs e serviços em produção.</li><li>Experiência com SQL Server (ou banco relacional equivalente): modelagem, índices, análise de planos de execução e otimização de queries em bases de grande volume.</li><li>Experiência com integrações via APIs REST, autenticação OAuth, webhooks e tratamento de falhas (retries, idempotência, circuit breaker).</li><li>Vivência com mensageria e processamento assíncrono (RabbitMQ, Azure Service Bus, Kafka ou similares).</li><li>Domínio de boas práticas de arquitetura: separação de domínios, injeção de dependência, padrões como hexagonal / ports-and-adapters e Clean Architecture.</li><li>Experiência com testes automatizados (unitários, integração) e pipelines de CI/CD.</li><li>Experiência com Git e fluxos de code review em times ágeis (Scrum/Kanban).</li><li>Capacidade de atuar com autonomia, comunicar decisões técnicas com clareza e orientar outros desenvolvedores.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12732/tech-pessoa-desenvolvedora-senior-c-net?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São José dos Campos]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -9032,6 +9032,86 @@ Ensino superior completo ou em andamento em Administração, Marketing, Gestão 
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscofundacaomt/161/pesquisador-fitopatologia-vaga-disponivel-tambem-para-pcd-s?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[9363486]]></companyId>
     <city><![CDATA[Rondonópolis]]></city>
+    <state><![CDATA[Mato Grosso]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[a98ef173-11a5-4903-8183-c7a8fc6c7d37]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[a98ef173-11a5-4903-8183-c7a8fc6c7d37]]></partnerRequisitionId>
+    <company><![CDATA[Fundação MT]]></company>
+    <title><![CDATA[Auxiliar Agrícola - Vaga disponível também para PCD's]]></title>
+    <posterEmail><![CDATA[luanalima@fundacaomt.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O profissional selecionado fará parte da equipe de Operações, atuando no apoio às atividades agrícolas e aos ensaios de pesquisa, auxiliando no preparo do solo, plantio, tratos culturais, aplicações com bomba costal, colheita e processamento de amostras, além de contribuir para a organização e conservação dos materiais e equipamentos utilizados nas atividades.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar a execução de ensaios e atividades agrícolas, desde o preparo do solo até o plantio e a colheita;</li><li>Auxiliar nos tratos culturais, como capina, irrigação, aplicações com bomba costal e CO2 e manutenção dos experimentos;</li><li>Realizar coleta, identificação, pesagem e organização de amostras e materiais;</li><li>Apoiar a preparação, limpeza e organização de equipamentos e áreas de trabalho;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Fundamental;</li><li>Disponibilidade para viagens;</li></ul><br /><br /><b>Benefícios</b><br /><br />- Seguro de Vida;- Plano de Saúde;<br />- Plano Odontológico;<br />- Previdência Privada;<br />- Vale Alimentação;<br /><br />- Gympass;<br />- Sesc;<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscofundacaomt/166/auxiliar-agricola-vaga-disponivel-tambem-para-pcd-s?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[9363486]]></companyId>
+    <city><![CDATA[Sapezal]]></city>
+    <state><![CDATA[Mato Grosso]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[8037fd67-ebe4-4e31-88bb-ae8726f717a0]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[8037fd67-ebe4-4e31-88bb-ae8726f717a0]]></partnerRequisitionId>
+    <company><![CDATA[Fundação MT]]></company>
+    <title><![CDATA[Analista de Pesquisa - Vaga disponível também para PCD's]]></title>
+    <posterEmail><![CDATA[luanalima@fundacaomt.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O profissional selecionado fará parte da equipe de operações, sendo responsável por instalar, conduzir e manter protocolos de campo, realizar avaliações técnicas, planejar atividades operacionais e assegurar o bom funcionamento de máquinas e equipamentos por meio de regulagens e manutenções preventivas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar da instalação, condução e manutenção dos protocolos de campo;</li><li>Avaliar e conduzir avaliações dos protocolos;</li><li>Planejamento de atividades operacionais;</li><li>Efetuar regulagens e manutenção preventiva de máquinas e equipamentos;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo em Ciências Agrárias ou áreas correlatas;</li><li>Conhecimento nas culturas de soja, milho e algodão;</li><li>Conhecimento de manejos fitossanitários e tratos culturais;</li><li>Conhecimento em experimentação agrícola;</li><li>Disponibilidade para viagens;</li></ul><br /><br /><b>Benefícios</b><br /><br />Seguro de Vida;Plano de Saúde;<br />Plano Odontológico;<br />Previdência Privada;<br />Vale Alimentação;<br /><br />Gympass;<br />Sesc;<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscofundacaomt/164/analista-de-pesquisa-vaga-disponivel-tambem-para-pcd-s?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[9363486]]></companyId>
+    <city><![CDATA[Sapezal]]></city>
+    <state><![CDATA[Mato Grosso]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[49348b88-dff7-499d-982c-9dc1a9ba624d]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[49348b88-dff7-499d-982c-9dc1a9ba624d]]></partnerRequisitionId>
+    <company><![CDATA[Fundação MT]]></company>
+    <title><![CDATA[Analista de Pesquisa - Vaga disponível também para PCD's]]></title>
+    <posterEmail><![CDATA[luanalima@fundacaomt.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O profissional selecionado fará parte da equipe de operações, sendo responsável por instalar, conduzir e manter protocolos de campo, realizar avaliações técnicas, planejar atividades operacionais e assegurar o bom funcionamento de máquinas e equipamentos por meio de regulagens e manutenções preventivas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Participar da instalação, condução e manutenção dos protocolos de campo;</li><li>Avaliar e conduzir avaliações dos protocolos;</li><li>Planejamento de atividades operacionais;</li><li>Efetuar regulagens e manutenção preventiva de máquinas e equipamentos;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo em Ciências Agrárias ou áreas correlatas;</li><li>Conhecimento nas culturas de soja, milho e algodão;</li><li>Conhecimento de manejos fitossanitários e tratos culturais;</li><li>Conhecimento em experimentação agrícola;</li><li>Disponibilidade para viagens;</li></ul><br /><br /><b>Benefícios</b><br /><br />Seguro de Vida;Plano de Saúde;<br />Plano Odontológico;<br />Previdência Privada;<br />Vale Alimentação;<br /><br />Gympass;<br />Sesc;<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscofundacaomt/167/analista-de-pesquisa-vaga-disponivel-tambem-para-pcd-s?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[9363486]]></companyId>
+    <city><![CDATA[Sorriso]]></city>
+    <state><![CDATA[Mato Grosso]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[1185e8a2-4442-4b4c-bff6-c9f6f5f837b4]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[1185e8a2-4442-4b4c-bff6-c9f6f5f837b4]]></partnerRequisitionId>
+    <company><![CDATA[Fundação MT]]></company>
+    <title><![CDATA[Auxiliar Agrícola - Vaga disponível também para PCD's]]></title>
+    <posterEmail><![CDATA[luanalima@fundacaomt.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O profissional selecionado fará parte da equipe de Operações, atuando no apoio às atividades agrícolas e aos ensaios de pesquisa, auxiliando no preparo do solo, plantio, tratos culturais, aplicações com bomba costal, colheita e processamento de amostras, além de contribuir para a organização e conservação dos materiais e equipamentos utilizados nas atividades.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar a execução de ensaios e atividades agrícolas, desde o preparo do solo até o plantio e a colheita;</li><li>Auxiliar nos tratos culturais, como capina, irrigação, aplicações com bomba costal e CO2 e manutenção dos experimentos;</li><li>Realizar coleta, identificação, pesagem e organização de amostras e materiais;</li><li>Apoiar a preparação, limpeza e organização de equipamentos e áreas de trabalho;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Fundamental;</li><li>Disponibilidade para viagens;</li></ul><br /><br /><b>Benefícios</b><br /><br />- Seguro de Vida;- Plano de Saúde;<br />- Plano Odontológico;<br />- Previdência Privada;<br />- Vale Alimentação;<br /><br />- Gympass;<br />- Sesc;<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscofundacaomt/165/auxiliar-agricola-vaga-disponivel-tambem-para-pcd-s?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[9363486]]></companyId>
+    <city><![CDATA[Sorriso]]></city>
     <state><![CDATA[Mato Grosso]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -21271,6 +21351,26 @@ Boa comunicação para interface com áreas internas.</li><br /><br /><b>Benefí
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[9edc7c21-0dc8-4ada-b8b1-bd1d3b5ec205]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[9edc7c21-0dc8-4ada-b8b1-bd1d3b5ec205]]></partnerRequisitionId>
+    <company><![CDATA[Grupo Guaraves]]></company>
+    <title><![CDATA[An. Fiscal Jr]]></title>
+    <posterEmail><![CDATA[leyla.karla@guaraves.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Analista Fiscal é responsável por garantir o correto cumprimento das obrigações fiscais da empresa, apurando tributos, elaborando e enviando declarações acessórias, analisando legislações e assegurando a conformidade com as normas tributárias vigentes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a apuração de tributos diretos e indiretos (ISS, ICMS, PIS, COFINS, IRPJ, CSLL etc.);</li><li>Elaborar e transmitir declarações fiscais como SPED Fiscal, SPED Contribuições, DCTF, EFD-Reinf, DIRF, entre outras;</li><li>Analisar documentos fiscais e escrituração fiscal de entradas e saídas;</li><li>Acompanhar e interpretar a legislação tributária federal, estadual e municipal;</li><li>Atender auditorias e fiscalizações, fornecendo as informações e documentos necessários;</li><li>Apoiar na emissão de guias de recolhimento e no cumprimento de obrigações acessórias;</li><li>Sugerir melhorias em processos e sistemas para garantir a eficiência fiscal e tributária;</li><li>Auxiliar no planejamento tributário da empresa.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Ciências Contábeis, Administração, Economia ou áreas afins;</li><li>Experiência anterior na área fiscal/tributária;</li><li>Conhecimento em legislação tributária e obrigações acessórias;</li><li>Domínio do Pacote Office, especialmente Excel;</li><li>Familiaridade com sistemas ERP (ex: TOTVS, SAP, Domínio, Protheus etc.).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasguaraves/444/an-fiscal-jr?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[6994713]]></companyId>
+    <city><![CDATA[Guarabira]]></city>
+    <state><![CDATA[Paraíba]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[fe7df1eb-cd21-44b4-838e-05a220d74214]]></partnerJobId>
     <partnerRequisitionId><![CDATA[fe7df1eb-cd21-44b4-838e-05a220d74214]]></partnerRequisitionId>
     <company><![CDATA[Grupo Guaraves]]></company>
@@ -28866,26 +28966,6 @@ correlatas a função</li></ul><br /><br /><b>Requisitos e qualificações</b><b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[dde53e4c-2887-444f-bfc0-100ed13a7cc9]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[dde53e4c-2887-444f-bfc0-100ed13a7cc9]]></partnerRequisitionId>
-    <company><![CDATA[Ceneged]]></company>
-    <title><![CDATA[ELETRICISTA PREDIAL - MA]]></title>
-    <posterEmail><![CDATA[tarcianalima@ceneged.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você já imaginou fazer parte de uma equipe comprometida com a qualidade, a segurança e a excelência dos serviços prestados? Estamos em busca de profissionais dedicados, responsáveis e apaixonados pela área elétrica para integrar nosso time.<br /><br /><br />Na CENEGED, valorizamos o conhecimento técnico, a proatividade e o compromisso com a segurança em cada atividade realizada. Como Eletricista Predial, você terá a oportunidade de atuar em um ambiente que incentiva o desenvolvimento profissional, a troca de experiências e a busca contínua por melhorias.<br /><br /><br />Aqui, cada colaborador desempenha um papel fundamental para garantir o funcionamento seguro e eficiente das instalações elétricas, contribuindo diretamente para a qualidade dos serviços oferecidos aos nossos clientes.<br /><br /><br />Venha fazer parte da nossa equipe e construir uma trajetória de crescimento, aprendizado e conquistas. Juntos, transformamos desafios em resultados e fazemos a diferença todos os dias!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Instalação e Manutenção;</li><li>Corretiva de Sistema Fotovoltaico</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso de Eletricista Predial;</li><li>NR10 Básico;</li><li>NR10 SEP;</li><li>Carteira de vacina atualizada;</li><li>Disponibilidade para viagens/atuar no Maranhão</li><li>Ter feito os cursos nas escolas homologadas pela Equatorial será um diferencial</li><li>Esino médio completo</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Seguro de vida</li><li>Plano de saúde </li><li>Vale Alimentação</li><li>Salario compatível com o mercado</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/763/eletricista-predial-ma?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[9250455]]></companyId>
-    <city><![CDATA[Presidente Dutra]]></city>
-    <state><![CDATA[Maranhão]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[fa747392-3986-40bf-98b2-8f136e50d146]]></partnerJobId>
     <partnerRequisitionId><![CDATA[fa747392-3986-40bf-98b2-8f136e50d146]]></partnerRequisitionId>
     <company><![CDATA[Ceneged]]></company>
@@ -28927,13 +29007,13 @@ cilindradas;  <br />Habilidade com Informática e experiência em campo.<br /><b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[b146833b-a1a6-4ff7-ba67-81e3292d5a8f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[b146833b-a1a6-4ff7-ba67-81e3292d5a8f]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[d19e509f-c859-47cf-8c5d-174ffcbc7f3c]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[d19e509f-c859-47cf-8c5d-174ffcbc7f3c]]></partnerRequisitionId>
     <company><![CDATA[Ceneged]]></company>
-    <title><![CDATA[Agente Comercial Motociclista - São Luis MA]]></title>
+    <title><![CDATA[Agente Comercial Leiturista a Pé - São Luis MA]]></title>
     <posterEmail><![CDATA[larissacampos@ceneged.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais para atuar na área comercial em campo, realizando atividades conforme os procedimentos da empresa e garantindo um atendimento de qualidade aos clientes. A função envolve execução de rotinas comerciais, atendimento ao cliente com foco em notificações, leitura de medidores de energia; cobrança e negociações de clientes, coleta de informações em campo e apoio às demais atividades relacionadas à função. Procuramos pessoas proativas, responsáveis e com boa comunicação.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Realizar atividades comerciais conforme procedimentos e normas; • Entrega de notificação ao cliente, negociação e cobrança de dividas; • Executar demais atividades correlatas a função.<br /><br /><b>Requisitos e qualificações</b><br /><br />• Ensino médio completo; • CNH A definitiva; • Possui moto própria (a partir de 150 cilindradas e a partir do ano de 2017).<br /><br /><b>Benefícios</b><br /><br /><b>• Vale Alimentação;</b> <b>• Periculosidade;</b> <b>• Plano de saúde 100% custeado pela empresa;</b> <b>• Plano odontológico; </b> <b>• </b><b>Parceria de descontos em faculdades e farmácias; </b> <b>•</b><b>Agregação da moto;</b> <b>• Seguro de vida. </b>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/611/agente-comercial-motociclista-sao-luis-ma?applicationSource=0]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade que lhe permita desenvolver suas habilidades em um ambiente dinâmico e desafiador, temos uma proposta que pode despertar seu interesse! Buscamos profissionais dedicados e apaixonados por conectar-se com as pessoas, impulsionando relacionamentos e construindo uma rede sólida de contatos. Aqui, você terá a chance de fazer a diferença no dia a dia, contribuindo para o crescimento e sucesso de uma empresa que valoriza a inovação e o trabalho em equipe. Se você aprecia o contato direto com o público e deseja crescer profissionalmente, venha conhecer um espaço onde suas ideias são ouvidas e sua iniciativa é valorizada. Junte-se a nós e faça parte de um time comprometido com a excelência e a transformação. Estamos ansiosos para receber seu talento!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar a leitura dos medidores de energia;<br />Entrega de faturas de energia;<br />Entrega de notificações.<br /><br /><b>Requisitos e qualificações</b><br /><br />A partir do ensino fundamental completo;<br />Habilidade com informática(Sistemas);  <br />Experiência em atividades externas.<br /><br /><b>Benefícios</b><br /><br />Salário compatível com o mercado;  <br />Vale transporte;<br />Vale Alimentação;<br />Plano de saúde 100% custeado pela empresa;  <br />Seguro de vida]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/619/agente-comercial-leiturista-a-pe-sao-luis-ma?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[9250455]]></companyId>
     <city><![CDATA[São Luís]]></city>
     <state><![CDATA[Maranhão]]></state>
@@ -28947,14 +29027,13 @@ cilindradas;  <br />Habilidade com Informática e experiência em campo.<br /><b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[30848362-f999-41b6-ab51-9c4e124d9083]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[30848362-f999-41b6-ab51-9c4e124d9083]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[b146833b-a1a6-4ff7-ba67-81e3292d5a8f]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[b146833b-a1a6-4ff7-ba67-81e3292d5a8f]]></partnerRequisitionId>
     <company><![CDATA[Ceneged]]></company>
-    <title><![CDATA[Técnico de Segurança do Trabalho]]></title>
-    <posterEmail><![CDATA[ivananunes@ceneged.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional comprometido com a promoção de um ambiente de trabalho seguro e com a disseminação da cultura de prevenção. Essa pessoa será responsável por atuar diretamente nas rotinas de Segurança do Trabalho, contribuindo para a proteção dos colaboradores e para a melhoria contínua dos processos da área.
-<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Entre suas principais atividades, estão a realização de inspeções de segurança em campo, identificando riscos e propondo ações preventivas; a condução de treinamentos de segurança, fortalecendo a conscientização dos colaboradores; o acompanhamento de indicadores de segurança e das atividades da CIPA; além da investigação de acidentes, analisando causas e propondo medidas corretivas e preventivas.Também será responsável pela elaboração e controle de relatórios relacionados à Segurança do Trabalho, apoiando a gestão na tomada de decisões e garantindo o cumprimento das normas e procedimentos da área.Procuramos alguém proativo, atento aos detalhes e comprometido com a segurança e o bem-estar das equipes.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Técnico em Segurança do Trabalho;Registro MTE;<br />Experiência na função;<br />Experiência com pacote office e sistemas;<br />CNH - AB;<br />Disponibilidade para viagens;<br /><br /><br /><b>Benefícios</b><br /><br />Vale AlimentaçãoPlano de saúde 100% custeado pela empresa<br />Cartão BULLA<br />Programa de Apoio Psicológico<br />Seguro de vida.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/352/tecnico-de-seguranca-do-trabalho?applicationSource=0]]></applyUrl>
+    <title><![CDATA[Agente Comercial Motociclista - São Luis MA]]></title>
+    <posterEmail><![CDATA[larissacampos@ceneged.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais para atuar na área comercial em campo, realizando atividades conforme os procedimentos da empresa e garantindo um atendimento de qualidade aos clientes. A função envolve execução de rotinas comerciais, atendimento ao cliente com foco em notificações, leitura de medidores de energia; cobrança e negociações de clientes, coleta de informações em campo e apoio às demais atividades relacionadas à função. Procuramos pessoas proativas, responsáveis e com boa comunicação.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Realizar atividades comerciais conforme procedimentos e normas; • Entrega de notificação ao cliente, negociação e cobrança de dividas; • Executar demais atividades correlatas a função.<br /><br /><b>Requisitos e qualificações</b><br /><br />• Ensino médio completo; • CNH A definitiva; • Possui moto própria (a partir de 150 cilindradas e a partir do ano de 2017).<br /><br /><b>Benefícios</b><br /><br /><b>• Vale Alimentação;</b> <b>• Periculosidade;</b> <b>• Plano de saúde 100% custeado pela empresa;</b> <b>• Plano odontológico; </b> <b>• </b><b>Parceria de descontos em faculdades e farmácias; </b> <b>•</b><b>Agregação da moto;</b> <b>• Seguro de vida. </b>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/611/agente-comercial-motociclista-sao-luis-ma?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[9250455]]></companyId>
     <city><![CDATA[São Luís]]></city>
     <state><![CDATA[Maranhão]]></state>
@@ -40975,26 +41054,6 @@ para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6013ad4c-f44f-4a8c-a9ec-7f3341250f69]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[6013ad4c-f44f-4a8c-a9ec-7f3341250f69]]></partnerRequisitionId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Auxiliar de Processo Agrícola - Irrigação]]></title>
-    <posterEmail><![CDATA[kauany.cardoso@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />-<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo.</li><li>Disponibilidade para trabalhar em regime de turno.</li><li>Residir em Delta, Igarapava ou Aramina.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração Competitiva</li><li>Vale Alimentação</li><li>Plano de Saúde </li><li>Plano Odontológico</li><li>Refeitório</li><li>Transporte Fretado</li><li>Convênio com farmácias, universidades e clubes</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/2081/auxiliar-de-processo-agricola-irrigacao?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Delta]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[8e76e4e4-bb46-4500-87c5-b3096ed8e49c]]></partnerJobId>
     <partnerRequisitionId><![CDATA[8e76e4e4-bb46-4500-87c5-b3096ed8e49c]]></partnerRequisitionId>
     <company><![CDATA[Delta Sucroenergia]]></company>
@@ -46220,27 +46279,6 @@ O estagiário deve estar cursando a graduação com, no mínimo, 2 anos restante
           <amount><![CDATA[1000.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[285f8847-aae7-46b1-8911-bcb59504f046]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[285f8847-aae7-46b1-8911-bcb59504f046]]></partnerRequisitionId>
-    <company><![CDATA[TV TEM]]></company>
-    <title><![CDATA[Estágio em Operações de Tecnologia]]></title>
-    <posterEmail><![CDATA[andressa.barreto@tvtem.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Quer aprender a fazer TV? O estagiário em Operações de Tecnologia atuará no monitoramento de anormalidades nos sistemas, além de auxiliar no "ingest" de comerciais e chamadas no sistema de exibição da emissora.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar e reportar anormalidades com os sistemas;</li></ul><br /><br /><ul><li>Auxiliar no "ingest" de comerciais e chamadas no sistema de exibição da emissora.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando o ensino técnico ou superior em eletrônica, eletrônica automotiva, engenharia elétrica, ou áreas correlatas;</li></ul><br /><br /><ul>
-<li>Será um grande diferencial o conhecimento em Google Workspace.</li></ul><br /><br /><b>Benefícios</b><br /><br />Convênio médico Unimed - pago integral pela empresa;<br />Wellhub (Gympass) – podendo incluir 3 beneficiários;<br />Plataforma de desenvolvimento Feedz;<br />Universidade corporativa Tem Educa e Uniglobo;<br />Vale transporte - pago integral pela empresa;<br />Ginástica laboral;<br />⁠Quick Massage;<br />⁠Espaço de jogos;<br />Parcerias de desconto com escolas, universidades e comercio local;<br />Vale Cesta de Natal;<br />Presente de aniversário; <br />⁠Ações de endomarketing ativas durante o ano.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/estagiotvtem/179/estagio-em-operacoes-de-tecnologia?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[24909690]]></companyId>
-    <city><![CDATA[São José do Rio Preto]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -84189,6 +84227,26 @@ para fazer manuntenção. Realiza a monitoria de corredores e banheiros da escol
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[f3e931bf-1fd1-4529-b36e-0157c20eea86]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[f3e931bf-1fd1-4529-b36e-0157c20eea86]]></partnerRequisitionId>
+    <company><![CDATA[300 Franchising]]></company>
+    <title><![CDATA[Analista de Tráfego e Performance]]></title>
+    <posterEmail><![CDATA[guisela.briesemeister@300f.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Analista de Tráfego e Performance necessita possuir conhecimento multidisciplinar em Marketing Digital, deve ser um profissional direcionado por dados (data driven) e capacidade analítica para compreender qual o melhor canal e todas as possibilidades de otimização e relação entre as métricas que cada canal apresenta.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Colaborar com nosso time de canais de mídia paga online (prioritariamente Instagram/Facebook Ads / LinkedIn Ads e Google Ads), desde apoiar o planejamento até a operação;</li><li>Gerar estudos de palavra-chave e de segmentação de públicos, tópicos, canais etc., para planejamento e implementação de campanhas;</li><li>Acompanhar métricas diárias propondo novas otimizações com base em metas, propor melhorias de otimização da conversão com base em dados;</li><li>Interagir muito com a equipe de criação, garantindo assets criativos que sejam performáticos e construam marca e resultados;</li><li>Gerenciar e controlar orçamentos e pagamentos garantindo que o previsto x realizado seja atendido em todas as campanhas;</li><li>Criar relatórios ou Dashboards para mensuração de resultados das contas, fornecer diagnóstico de performance das campanhas, e ações de melhoria para manutenção ou otimização da conta;</li><li>Gerir de múltiplas contas e orçamentos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em Marketing de performance ou digital, growth B2C, testes A/B</li><li>Gestão de budgets expressivos;</li><li>Conhecimentos avançados de Google Ads, Facebook Ads, LinkedIn Ads, Google Tag Manager e Google Analytics;</li><li>Conhecimentos no uso de plataformas de gestão e CRM, (Hubspot) será um diferencial;</li><li>Capacidade de entender e colaborar nos fluxos de automação e inbound marketing;</li><li>Ser organizado (a), orientado a resultados e atento a detalhes.</li></ul><br /><br /><b>Benefícios</b><br /><br /> Day Off de Aniversário<br /> Sextas com frutas fresquinhas no escritório<br /> TotalPass<br />️ Seguro de Vida<br />️ Clube de Descontos (parcerias exclusivas com Postos Mime, faculdades, restaurantes e salões de beleza)<br /> Remuneração variável<br /> Plano de Carreira: Avaliações semestrais com plano de carreira claro para você crescer com a maior do mundo.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/300franchising/65/analista-de-trafego-e-performance?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[64698944]]></companyId>
+    <city><![CDATA[Joinville]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[5ecf5b6c-9181-4bf8-9f7a-945a0be96e0d]]></partnerJobId>
     <partnerRequisitionId><![CDATA[5ecf5b6c-9181-4bf8-9f7a-945a0be96e0d]]></partnerRequisitionId>
     <company><![CDATA[300 Franchising]]></company>
@@ -89243,26 +89301,6 @@ Experiência com Central Finance.</li>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[dc1bbd11-1c89-4f42-9c63-58661ea1f28e]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[dc1bbd11-1c89-4f42-9c63-58661ea1f28e]]></partnerRequisitionId>
-    <company><![CDATA[Lab2dev Soluções em Tecnologia Ltda]]></company>
-    <title><![CDATA[Gerente de projetos Senior]]></title>
-    <posterEmail><![CDATA[vanessa.gomez@lab2dev.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><strong>Buscamos um(a) Gerente de Projetos Sênior com sólida experiência em programas de implementação SAP S/4HANA</strong>, que tenha bagagem na condução de projetos complexos, capacidade de articulação com diferentes áreas e segurança para atuar em ambientes corporativos de grande porte.<br />Modelo de trabalho<ul><li><strong>Modelo presencial 4x1</strong>, com quatro dias presenciais e um dia de trabalho remoto por semana.</li></ul><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Principais responsabilidades<ul><li>Gerenciar programas e projetos de implementação SAP S/4HANA, acompanhando todas as etapas do ciclo de vida do projeto.</li><li>Planejar e controlar escopo, cronograma, orçamento, recursos, riscos e dependências.</li><li>Coordenar equipes multidisciplinares, incluindo áreas funcionais, técnicas e de negócio.</li><li>Conduzir reuniões executivas e de acompanhamento, garantindo alinhamento entre stakeholders e tomada de decisão.</li><li>Monitorar indicadores, identificar desvios e propor planos de ação para garantir o andamento das entregas.</li><li>Atuar na gestão de riscos, mudanças de escopo, comunicação e governança do projeto.</li><li>Garantir a qualidade das entregas e o cumprimento dos objetivos acordados.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Requisitos<ul><li>Experiência sólida como Gerente de Projetos Sênior em programas de implementação SAP S/4HANA.</li><li>Vivência na gestão de projetos complexos, com múltiplas frentes de trabalho e diferentes stakeholders.</li><li>Experiência em planejamento, governança, gestão de riscos, cronogramas, orçamento e equipes.</li><li>Boa comunicação, organização, autonomia e capacidade de negociação.</li><li>Perfil experiente, com visão estratégica e habilidade para conduzir situações críticas e apoiar a tomada de decisão.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/lab2dev/47/gerente-de-projetos-senior?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[12589212]]></companyId>
-    <city><![CDATA[Osasco]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[eff95038-14a5-4eb4-a832-2dff02c57ed1]]></partnerJobId>
