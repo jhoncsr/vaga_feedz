@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 20 Oct 2026 11:18:40 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 12:22:21 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[4161]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4160]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerRequisitionId>
@@ -3246,6 +3246,26 @@ geração de novas demandas.  <br /><br /><br /><b>Requisitos e qualificações<
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11189/vendas-gerente-de-contas-junior-hunter?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[73d0a412-d35b-41f4-b027-607c686678c5]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[73d0a412-d35b-41f4-b027-607c686678c5]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Tech Lead em Engenharia de Software Backend - Go | Cloud]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Tech Lead de Desenvolvimento para liderar tecnicamente a célula de desenvolvimento da Engenharia de Virtualização. <br />Sua missão central será a liderança técnica do backend de integrações em Go que conecta nossa plataforma de nuvem privada VMware às camadas de orquestração, automação e ao portal de autoatendimento, atuando lado a lado com a operação de infraestrutura dentro de um único time fim a fim.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li><b>Liderança Técnica:</b> orientar tecnicamente o time de desenvolvimento (atualmente 3 pessoas, com expansão para 4), definindo padrões de código, arquitetura e boas práticas em Go.</li><li><b>Desenvolvimento de APIs e Integrações: </b>projetar, codificar e manter os serviços em Go responsáveis pela integração entre o portal de autoatendimento e os componentes de infraestrutura VMware </li><li><b>Automação de Infraestrutura (IaC): </b>apoiar a evolução de scripts e workflows de automação para o provisionamento de recursos de cloud privada on-prem, reduzindo o tempo de entrega.</li><li><b>Qualidade de Código: </b>garantir cobertura de testes automatizados, revisão de código e gestão de débito técnico de toda a stack desenvolvida pela célula.</li><li><b>Interface com a Operação:</b> atuar como ponte técnica entre a célula de desenvolvimento e os demais pilares da Engenharia de Virtualização, participando do fórum semanal de tech leads.</li><li><b>Sustentação e Evolução: </b>realizar troubleshooting de segundo/terceiro nível em incidentes relacionados a integrações e apoiar a triagem de tickets que envolvam código</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li><b>Go em Produção:</b> domínio avançado de Go, incluindo concorrência (goroutines, channels), tratamento de erros idiomático e testes automatizados — requisito não negociável para a posição.</li><li><b>APIs e Integrações: </b>experiência sólida na criação e manutenção de APIs RESTful/gRPC e integração de sistemas complexos.</li><li><b>Liderança Técnica: </b>experiência orientando ou mentorando outros desenvolvedores (revisão de código, definição de padrões técnicos); não é exigida experiência formal de gestão de pessoas.</li><li><b>Automação e CI/CD: </b>vivência com esteiras de CI/CD (GitLab CI, GitHub Actions ou Jenkins) e Git Flow.</li><li><b>Banco de Dados: </b>conhecimento em bancos relacionais e não relacionais, com capacidade de definir o mais adequado para cada cenário.</li><li><b>Formação Acadêmica:</b> superior completo em Ciência da Computação, Engenharia ou áreas correlatas, ou experiência prática equivalente comprovada.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12820/tech-tech-lead-em-engenharia-de-software-backend-go-cloud?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -10339,47 +10359,6 @@ as atividades realizadas por escritório terceirizado.</li></ul><br /><br /><b>R
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[741feb67-435b-465f-ad31-eb8c7c88d6bd]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[741feb67-435b-465f-ad31-eb8c7c88d6bd]]></partnerRequisitionId>
-    <company><![CDATA[Mutual Engenharia]]></company>
-    <title><![CDATA[Analista de Suprimentos]]></title>
-    <posterEmail><![CDATA[bruno.meneghello@mutual.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Aqui, valorizamos profissionais que buscam não apenas um emprego, mas uma jornada de crescimento e desenvolvimento pessoal e profissional. Oferecemos um ambiente inspirador, onde a colaboração e a troca de ideias são fundamentais para o sucesso coletivo. Estamos ansiosos para conhecer suas experiências e como você pode se integrar ao nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Realizar cadastro de fornecedores, insumos e
-condições de pagamento no sistema ERP da empresa, assegurando que as mesmas
-estejam corretas;<br />
-• Realizar compras e follow-up de materiais
-produtivos e improdutivos com base em especificações da obra, executando
-cotações e negociações das melhores condições de preço, prazo, qualidade e
-capacidade produtiva de fornecedores existentes e/ou desenvolvidos;<br />
-• Prospectar novos fornecedores, buscando
-conhecê-los e avaliando-os qualitativamente.<br />
-• Acompanhar e/ou realizar cotações e negociações
-de materiais e serviços para orçamentos de projetos, considerando quantitativos
-e competitividade da proposta;<br />
-• Analisar alternativas para contratação de
-serviços de logística<br />
-• Acompanhar o planejamento da necessidade de
-materiais das obras junto ao Gerente de Contrato e/ou Engenheiro de
-Planejamento da obra através do planejamento realizado.<br />
-• Avaliar os fornecedores de acordo com os
-medidores de desempenho.<br /><br /><b>Requisitos e qualificações</b><br /><br />• Ensino superior em
-Administração, Engenharia Civil e/ou áreas afins • Conhecimentos em Pacote
-Office; <br />• Conhecimento de técnicas de
-negociação e planejamento estratégico;<br />• Conhecimento comercial <br />• Conhecimento avançado em excel.<br /><br /><br /><b>Benefícios</b><br /><br />De acordo com o mercado]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mutualengenharia/113/analista-de-suprimentos?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[1366310]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[f8be1563-1f70-46fc-be17-a4a1f2b33708]]></partnerJobId>
     <partnerRequisitionId><![CDATA[f8be1563-1f70-46fc-be17-a4a1f2b33708]]></partnerRequisitionId>
     <company><![CDATA[Mutual Engenharia]]></company>
@@ -10811,53 +10790,6 @@ variar de acordo com a função exercida.</i>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fribal/668/padeiro-imperatriz?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[24503298]]></companyId>
     <city><![CDATA[Imperatriz]]></city>
-    <state><![CDATA[Maranhão]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1957c3f1-f875-412c-9c25-c3ea8bf981a4]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[1957c3f1-f875-412c-9c25-c3ea8bf981a4]]></partnerRequisitionId>
-    <company><![CDATA[Fribal - Especialistas em Carne]]></company>
-    <title><![CDATA[Mecânico de Manutenção de Máquinas-ComCarne STI]]></title>
-    <posterEmail><![CDATA[grazielly.moreira@fribal.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Realiza manutenção mecânica em componentes, equipamentos e máquinas utilizadas em atividades industriais diversificadas. Planeja atividades de manutenção.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar os mecânicos dos níveis A e B nas intervenções de manutenções preventivas, corretivas, lubrificação e organização do setor de manutenção;</li><li>Preenchimento de OS’s;</li><li>Auxiliar na desmontagem e montagem de equipamentos;</li><li>Cumprir rotinas de inspeção sob supervisão;</li><li>Participar de treinamentos técnicos e práticos;</li><li>Cumprir normas de segurança do trabalho;</li><li>Zelar pela organização e conservação de ferramentas e equipamentos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo ou Curso técnico de Manutenção Industrial</li><li>Lubrificação industrial;</li><li>Metrologia</li><li>Desenho técnico</li><li>Leitura e interação de peças pneumática, hidráulica;</li><li>Interesse em aprender e desenvolver habilidades técnicas;</li><li>Elementos de fixação;</li><li>NR 12.</li></ul><br /><br /><b>Benefícios</b><br /><br />Na FRIBAL estamos comprometidos com o bem-estar e o
-crescimento pessoal dos nossos colaboradores:
-
-<ul>
- <li><b>Proteção
-     e Segurança Financeira: </b>Pensando no seu amanhã! Nosso seguro de
-     vida proporciona tranquilidade e segurança para você e seus entes queridos
-     em momentos desafiadores.<br />
-     <br />
-     </li>
-</ul>
-
-<ul>
- <li><b>Clube
-     de Descontos:</b> Através de um programa de parceiras com
-     estabelecimentos e instituições diversas você terá acesso a descontos
-     exclusivos em produtos e serviços!<br />
-     <br />
-     <br />
-     </li>
-<li>   <b>Vale Refeição</b> (VR) </li></ul>
-
-
-
- 
-
-  <i>Os benefícios oferecidos podem variar de
-acordo com a função exercida.</i>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fribal/759/mecanico-de-manutencao-de-maquinas-comcarne-sti?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[24503298]]></companyId>
-    <city><![CDATA[Santa Inês]]></city>
     <state><![CDATA[Maranhão]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -19271,36 +19203,6 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para voc�
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6da59dbc-4934-4af1-ba54-47df3da92342]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[6da59dbc-4934-4af1-ba54-47df3da92342]]></partnerRequisitionId>
-    <company><![CDATA[Unimarka Distribuidora]]></company>
-    <title><![CDATA[Consultor de Vendas]]></title>
-    <posterEmail><![CDATA[rh@unimarka.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é apaixonado por vendas,
-gosta de desenvolver novos negócios, habilidoso com a execução e sonha em
-trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para você!</b><b><br /></b><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Cumpre o planejamento de visitas diário, atendendo os clientes de sua base;</li><li>Faz a verificação da loja quanto a necessidade de produtos, de acordo com o sortimento recomendado para cada ambiente de varejo;</li><li>Apresenta proposta de venda para o cliente com base na verificação, fazendo o fechamento do pedido e acompanhando sua entrega conforme combinado.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Desejável ensino médio completo.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário compatível com o mercado;</li><li>Educação Corporativa;</li><li>Bônus e Comissão sobre as vendas;</li><li>Participação em campanhas da Indústria;</li><li>Participação nos Resultados;</li><li>Vale alimentação;</li><li>Ajuda de custo;</li><li>Plano de saúde; </li><li>Celular cedido pela empresa;</li><li>Material escolar para filhos entre 5 e 10 anos.</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/1303/consultor-de-vendas?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[65466539]]></companyId>
-    <city><![CDATA[Wanderley]]></city>
-    <state><![CDATA[Bahia]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[5000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[e417f1a9-aa0c-45a9-af03-5125e280a870]]></partnerJobId>
     <partnerRequisitionId><![CDATA[e417f1a9-aa0c-45a9-af03-5125e280a870]]></partnerRequisitionId>
     <company><![CDATA[Unimarka Distribuidora]]></company>
@@ -19893,26 +19795,6 @@ profissional, envie o seu currículo e venha crescer conosco.<br /><br /><b>Resp
     <posterEmail><![CDATA[isabele.teixeira@hubnexxo.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Junte-se à nossa equipe dinâmica e colaborativa como parte essencial do nosso time! Estamos em busca de uma pessoa comprometida, organizada e proativa para atuar como analista fiscal em nossa empresa. Aqui, você terá a oportunidade de desenvolver suas habilidades, aprender com profissionais experientes e contribuir para o crescimento do nosso negócio. Se você tem interesse em fazer parte de um ambiente desafiador e estimulante, venha fazer parte do nosso time e crescer conosco. Estamos ansiosos para conhecer você e juntos alcançarmos voos cada vez mais altos!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apurar impostos municipais, estaduais e federais conforme legislação vigente;</li><li>Realizar conciliação fiscal (entradas e saídas) e processar a emissão das Guias de Recolhimento para pagamento ou compensação dos tributos;</li><li>Elaborar obrigações acessórias estaduais e federais, pertinentes a atividade da empresa e legislação vigente;</li><li> Experiência em apuração de impostos diretos e indiretos. </li><li>Atendimento ao cliente;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em ciências contábeis</li><li>Conhecimento avançado em legislação fiscal.<br /></li><li>Experiência de 2 anos na area fiscal.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Cartão Multibeneficio swile (beneficio flexível para você usar como quiser)<br /></li><li>Auxilio cesta básica</li><li>Plano de saúde<br />PL( participação de lucro)</li><li>Totalpass</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hubnexxo/64/analista-fiscal?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[79898105]]></companyId>
-    <city><![CDATA[Salvador]]></city>
-    <state><![CDATA[Bahia]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e8f4736a-e14f-4e08-bfec-40707d9058ef]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[e8f4736a-e14f-4e08-bfec-40707d9058ef]]></partnerRequisitionId>
-    <company><![CDATA[Hubnexxo Soluções Empresariais]]></company>
-    <title><![CDATA[Consultor Tributário]]></title>
-    <posterEmail><![CDATA[isabele.teixeira@hubnexxo.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos buscando um Consultor Tributário para atuar com consultoria e planejamento tributário, apoiando clientes na tomada de decisões estratégicas e na adaptação à Reforma Tributária.<br /> Se você se identifica com a área fiscal e quer fazer a diferença no dia a dia das pessoas, essa é a sua chance! Junte-se a nós e ajude a construir um ambiente de trabalho ainda mais acolhedor e valorizando o potencial de cada colaborador.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar consultorias tributárias para clientes;</li><li>Desenvolver planejamentos tributários;</li><li>Comparar regimes tributários (Simples Nacional, Lucro Presumido e Lucro Real);</li><li>Elaborar análises de impacto da Reforma Tributária;</li><li>Identificar oportunidades de economia tributária dentro da legislação;</li><li>Apresentar estudos e orientações aos clientes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Ciências Contábeis, Direito ou áreas correlatas;</li><li>Conhecimento em legislação e planejamento tributário;</li><li>Perfil analítico, consultivo e boa comunicação.</li></ul><br /><br /><b>Benefícios</b><br /><br /><li>Cartão multibenefício Swile – você pode usar como quiser</li><li>Auxílio cesta básica</li><li>Plano de saúde</li><li>TotalPass</li><li>PL (Participação nos Lucros)</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hubnexxo/62/consultor-tributario?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[79898105]]></companyId>
     <city><![CDATA[Salvador]]></city>
     <state><![CDATA[Bahia]]></state>
@@ -28724,6 +28606,26 @@ correlatas a função.<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/595/agente-comercial-cob-negociacao-motociclista-grajau-ma?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[9250455]]></companyId>
     <city><![CDATA[Grajaú]]></city>
+    <state><![CDATA[Maranhão]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[5fdc5ded-5dd4-4ea8-a0e9-9b535cb5c820]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[5fdc5ded-5dd4-4ea8-a0e9-9b535cb5c820]]></partnerRequisitionId>
+    <company><![CDATA[Ceneged]]></company>
+    <title><![CDATA[Assistente Comercial II - IMPERATRIZ - MA]]></title>
+    <posterEmail><![CDATA[josinetepereira@ceneged.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Esse cargo é responsável por garantir o bom funcionamento das operações da área, por meio da execução eficiente das atividades, assegurando organização, qualidade e cumprimento de prazos. Atua diretamente nas rotinas administrativas, mantendo o controle de informações e a atualização de dados em planilhas eletrônicas, contribuindo para a tomada de decisões mais assertivas. Além disso, realiza a monitoria da equipe em campo, oferecendo suporte, direcionamento e garantindo a aderência aos processos e metas estabelecidas. Trata-se de uma função dinâmica, que exige proatividade e organização, além de estar aberta à execução de outras atividades correlatas que contribuam para o alcance dos resultados da área.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Planejamento e execução das atividades da área; Rotinas administrativas; Prestar suporte as demandas do setor; Alimentar e controlar dados em planilha eletrônica; Executar demais atividades correlatas ao cargo.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo; Habilidade com informática (Pacote Office e sistemas); Desejável experiência na área.<br /><br /><b>Benefícios</b><br /><br />Salário compatível com o mercado; • Vale Alimentação; <br />• Plano de saúde 100% custeado pela empresa; <br />• Parceria de descontos em farmácias e faculdades;<br /> • Programa de apoio psicológico; <br />• Seguro de vida; <br />• Bulla Saúde - plataforma para cuidar da saúde física e mental (telemedicina 24 horas para colaboradores e dependentes).<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/718/assistente-comercial-ii-imperatriz-ma?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[9250455]]></companyId>
+    <city><![CDATA[Imperatriz]]></city>
     <state><![CDATA[Maranhão]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -41799,33 +41701,13 @@ correlatas.<br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração Compe
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[b82be40b-ea8f-4567-bd2c-106896d92cd1]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[b82be40b-ea8f-4567-bd2c-106896d92cd1]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS Leste]]></company>
-    <title><![CDATA[Agente de Prospecção de Negocios (SDR)]]></title>
-    <posterEmail><![CDATA[bruna.paula@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><li>Prospectar e desenvolver novas oportunidades de negócios, ampliando a base de potenciais clientes;</li><li>Qualificar leads, identificando aderência ao perfil ideal de cliente e potencial de conversão;</li><li>Realizar abordagens consultivas por telefone, e-mail, LinkedIn e demais canais de prospecção;</li><li>Agendar reuniões estratégicas entre leads qualificados e o time comercial;</li><li>Registrar, atualizar e acompanhar informações e interações no CRM, garantindo a qualidade dos dados;</li><li>Conduzir ações de follow-up para avançar os leads nas etapas do funil de vendas;</li><li>Apoiar o time comercial com informações relevantes sobre o perfil, desafios e necessidades dos clientes;</li><li>Colaborar na identificação e geração de novas oportunidades de negócio e parcerias estratégicas;</li><li>Dar suporte em eventos, feiras e ações de geração de demanda, contribuindo para a captação e relacionamento com potenciais clientes</li><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Responsável pela identificação e qualificação de leads, geração de oportunidades de negócio, agendamento de reuniões para o time Comercial e apoio às iniciativas e eventos de geração de demanda, contribuindo para o crescimento do pipeline de vendas.<br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino superior cursando ou concluído em Marketing, Administração, Gestão Comercial, Publicidade e Propaganda ou áreas correlatas;</li><li>Experiência mínima de 1 ano com prospecção, pré-vendas, vendas ou geração de demanda;</li><li>Excelente comunicação verbal e escrita;</li><li>Conhecimento em técnicas de prospecção, qualificação de leads e negociação;</li><li>Organização, planejamento e boa gestão do tempo;</li><li>Familiaridade com ferramentas de CRM e plataformas de prospecção;</li><li>Capacidade de trabalhar de forma colaborativa e orientada a resultados;</li><li>Perfil proativo, dinâmico e com iniciativa para identificar oportunidades de negócio</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitas;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição ou alimentação (Cartão Swile);</li><li>Vale transporte;</li><li>Seguro de vida;</li><li>Chip Corporativo;</li><li>Subsídio Acadêmico (Conforme política);</li><li>Parceria com a TotalPass.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/totvsleste/61/agente-de-prospeccao-de-negocios-sdr?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[80034046]]></companyId>
-    <city><![CDATA[Vitória da Conquista]]></city>
-    <state><![CDATA[Bahia]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[db6ad0f7-a2b1-4e0a-b15b-db89ea0bd2ed]]></partnerJobId>
     <partnerRequisitionId><![CDATA[db6ad0f7-a2b1-4e0a-b15b-db89ea0bd2ed]]></partnerRequisitionId>
     <company><![CDATA[TOTVS Leste]]></company>
-    <title><![CDATA[Agente de Prospecção de Negócios (SDR)]]></title>
+    <title><![CDATA[Pré-Vendas ( SDR)]]></title>
     <posterEmail><![CDATA[bruna.paula@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br /><li>Prospectar e desenvolver novas oportunidades de negócios, ampliando a base de potenciais clientes;</li><li>Qualificar leads, identificando aderência ao perfil ideal de cliente e potencial de conversão;</li><li>Realizar abordagens consultivas por telefone, e-mail, LinkedIn e demais canais de prospecção;</li><li>Agendar reuniões estratégicas entre leads qualificados e o time comercial;</li><li>Registrar, atualizar e acompanhar informações e interações no CRM, garantindo a qualidade dos dados;</li><li>Conduzir ações de follow-up para avançar os leads nas etapas do funil de vendas;</li><li>Apoiar o time comercial com informações relevantes sobre o perfil, desafios e necessidades dos clientes;</li><li>Colaborar na identificação e geração de novas oportunidades de negócio e parcerias estratégicas;</li><li>Dar suporte em eventos, feiras e ações de geração de demanda, contribuindo para a captação e relacionamento com potenciais clientes</li><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Responsável pela identificação e qualificação de leads, geração de oportunidades de negócio, agendamento de reuniões para o time Comercial e apoio às iniciativas e eventos de geração de demanda, contribuindo para o crescimento do pipeline de vendas.<br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino superior cursando ou concluído em Marketing, Administração, Gestão Comercial, Publicidade e Propaganda ou áreas correlatas;</li><li>Experiência mínima de 1 ano com prospecção, pré-vendas, vendas ou geração de demanda;</li><li>Excelente comunicação verbal e escrita;</li><li>Conhecimento em técnicas de prospecção, qualificação de leads e negociação;</li><li>Organização, planejamento e boa gestão do tempo;</li><li>Familiaridade com ferramentas de CRM e plataformas de prospecção;</li><li>Capacidade de trabalhar de forma colaborativa e orientada a resultados;</li><li>Perfil proativo, dinâmico e com iniciativa para identificar oportunidades de negócio</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitas;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição ou alimentação (Cartão Swile);</li><li>Vale transporte;</li><li>Seguro de vida;</li><li>Chip Corporativo;</li><li>Subsídio Acadêmico (Conforme política);</li><li>Parceria com a TotalPass.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/totvsleste/58/agente-de-prospeccao-de-negocios-sdr?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/totvsleste/58/pre-vendas-sdr?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[80034046]]></companyId>
     <city><![CDATA[Vila Velha]]></city>
     <state><![CDATA[Espírito Santo]]></state>
@@ -47326,6 +47208,66 @@ Disponibilidade de horário.</li><br /><br /><b>Benefícios</b><br /><br /><br /
     <companyId><![CDATA[2189233]]></companyId>
     <city><![CDATA[Nossa Senhora do Socorro]]></city>
     <state><![CDATA[Sergipe]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[baff3953-4c31-43bd-b1cb-a404ee9f339b]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[baff3953-4c31-43bd-b1cb-a404ee9f339b]]></partnerRequisitionId>
+    <company><![CDATA[Cerradão]]></company>
+    <title><![CDATA[Cozedor Açúcar]]></title>
+    <posterEmail><![CDATA[julia.borges@cerradao.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Executar e supervisionar operações de alta complexidade no processo de cozimento de Massa-A e Massa-B e granagem, atuando como referência técnica para a equipe e garantindo o cumprimento das metas de produção, padrões de qualidade e segurança. Controlar e ajustar parâmetros críticos, identificar e solucionar problemas operacionais e liderar melhorias no processo. Trabalhar em estreita colaboração com equipes de manutenção e qualidade, assegurando a continuidade das operações e a otimização dos recursos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />•	Supervisionar a operação de equipamentos de cozimento, coordenando a equipe para assegurar a eficiência operacional;<br />•	Monitorar e ajustar variáveis operacionais críticas, como temperatura, pressão e vazão, esgotamento, granulometria e cor do açúcar final para garantir a estabilidade e parâmetros do processo;<br />•	Identificar falhas nos equipamentos e processos, implementando soluções imediatas ou acionando a manutenção;<br />•	Analisar resultados laboratoriais e realizar ajustes nos parâmetros para atender às especificações de qualidade do produto;<br />•	Realizar o checklist operacional acompanhando os parâmetros de processo e identificando possíveis desvios contribuindo na elaboração do plano de ação e execução das atividades;<br />•	Monitorar e controlar o uso de insumos, planejando e garantindo sua reposição em tempo hábil;<br />•	Fornecer treinamento e suporte técnico aos operadores, promovendo o desenvolvimento contínuo da equipe;<br />•	Colaborar com as equipes de engenharia e manutenção para implementar melhorias no processo de cozimento;<br />•	Supervisionar a configuração e ajuste de equipamentos críticos para maximizar o desempenho operacional;<br />•	Gerenciar registros operacionais detalhados, documentando indicadores de desempenho e ações corretivas;<br />•	Realizar inspeções avançadas nos equipamentos para garantir o funcionamento contínuo com segurança, eficiência e disponibilidade.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Técnico completo em Química, Processos Industriais ou áreas correlatas.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Ticket Alimentação;</li><li>Plano de saúde;</li><li>Plano Odontológico;</li><li>Auxilio farmácia;</li><li>Seguro de vida;</li><li>Transporte Fretado;</li><li>Programa e Apoio e Orientações: Jurídico, psicológico, social e financeiro;</li><li>PPR - Programa de Participação de Resultados;</li><li>Wellhub (antigo Gympass).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cerradaovagas/643/cozedor-acucar?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3364231]]></companyId>
+    <city><![CDATA[Frutal]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[164ca07d-93f0-4ff1-aab3-c02cccd50dc2]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[164ca07d-93f0-4ff1-aab3-c02cccd50dc2]]></partnerRequisitionId>
+    <company><![CDATA[Cerradão]]></company>
+    <title><![CDATA[Operador de evaporador III]]></title>
+    <posterEmail><![CDATA[euripedes.galego@cerradao.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Operar e otimizar o processo de evaporação na usina, garantindo a máxima eficiência na concentração dos líquidos e na recuperação de energia. Controlar parâmetros críticos, diagnosticar falhas operacionais, coordenar a equipe do setor e assegurar a qualidade dos produtos intermediários. Implementar melhorias no processo, orientar operadores de níveis inferiores e garantir o cumprimento das normas de segurança e ambientais, contribuindo para a excelência operacional da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar as atividades operacionais da evaporação, distribuindo tarefas e orientando a equipe;</li><li>Operar e ajustar os sistemas de evaporação para garantir a eficiência energética e produtiva;</li><li>Monitorar continuamente os parâmetros críticos do processo, identificando desvios e tomando ações corretivas;</li><li>Analisar dados operacionais e propor ajustes para otimização do rendimento dos evaporadores;</li><li>Supervisionar a limpeza e manutenção dos evaporadores, garantindo a conformidade com os padrões técnicos;</li><li>Registrar e reportar ocorrências operacionais, sugerindo melhorias para redução de perdas e desperdícios;</li><li>Apoiar a equipe de manutenção na identificação e solução de problemas mecânicos e elétricos nos equipamentos;</li><li>Treinar e orientar operadores de níveis inferiores, promovendo o desenvolvimento técnico da equipe.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Curso técnico em Química, Açúcar e Álcool, Processos Industriais ou áreas correlatas.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Ticket Alimentação;</li><li>Plano de saúde;</li><li>Plano Odontológico;</li><li>Auxilio farmácia;</li><li>Seguro de vida;</li><li>Transporte Fretado;</li><li>Programa e Apoio e Orientações: Jurídico, psicológico, social e financeiro;</li><li>PPR - Programa de Participação de Resultados;</li><li>Wellhub (antigo Gympass).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cerradaovagas/609/operador-de-evaporador-iii?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3364231]]></companyId>
+    <city><![CDATA[Frutal]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0c959387-5287-48a1-abcf-6ef37e2c7f3d]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[0c959387-5287-48a1-abcf-6ef37e2c7f3d]]></partnerRequisitionId>
+    <company><![CDATA[Cerradão]]></company>
+    <title><![CDATA[MOTORISTA III]]></title>
+    <posterEmail><![CDATA[carlos.conceicao@cerradao.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Drigir caminhão comboio e outros específicos para operações agrícolas. Transportar produtos, matérias-primas e insumos, garantindo a eficiência, segurança e conformidade com os procedimentos da empresa. Realizar manutenções básicas, inspeções diárias e cumprir as normas de trânsito e segurança do trabalho, promovendo o bom funcionamento das operações.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /> Conduzir caminhões de grande porte, como combustíveis.<br />• Transportar insumos e produtos entre a área agrícola e a usina, seguindo as diretrizes de logística.<br />• Verificar diariamente as condições dos veículos, como freios, pneus, óleo e combustível, assegurando sua operação segura e eficiente.<br />• Zelar pela limpeza interna e externa dos caminhões, cumprindo as normas ambientais.<br />• Reportar falhas e necessidades de manutenção preventiva ou corretiva ao setor responsável.<br />• Preencher boletins diários de serviços, detalhando atividades realizadas e condições dos equipamentos.<br />• Registrar o consumo de diesel e lubrificantes, promovendo o controle eficiente dos recursos.<br />• Cumprir as normas de trânsito e segurança, respeitando os limites de velocidade e as orientações da empresa para cada operação.<br />• Participar de treinamentos obrigatórios, como direção defensiva e MOPP (Movimentação e Operação de Produtos Perigosos).<br />• Realizar operações de abastecimento de combustível em campo, atendendo aos requisitos das operações agrícolas.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino fundamental completo;</li><li>De 3 a 4 anos de experiência na condução de veículos pesados e em operações agrícolas ou industriais​;</li><li>Direção Defensiva.</li><li>Manutenção Básica de Veículos.</li><li>CNH Categoria E (obrigatória).</li><li> NR-6 (Equipamentos de Proteção Individual).</li><li>NR-7 (Programa de Controle Médico de Saúde Ocupacional).</li><li>MOPP (Movimentação e Operação de Produtos Perigosos).</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Ticket Alimentação;</li><li> Plano de saúde;</li><li> Plano Odontológico;</li><li> Auxilio farmácia;</li><li> Seguro de vida;</li><li> Transporte Fretado; </li><li> Programa e Apoio e Orientações: Jurídico, psicológico, social e financeiro;</li><li> PPR - Programa de Participação de Resultados;</li><li>Wellhub (antigo Gympass).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cerradaovagas/528/motorista-iii?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3364231]]></companyId>
+    <city><![CDATA[Frutal]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -59226,10 +59168,10 @@ No dia a dia, suas principais atividades serão:<br /><br />
     <partnerJobId><![CDATA[4981b6d0-050c-4e88-8ba9-53a994aceb08]]></partnerJobId>
     <partnerRequisitionId><![CDATA[4981b6d0-050c-4e88-8ba9-53a994aceb08]]></partnerRequisitionId>
     <company><![CDATA[Grupo PMZ]]></company>
-    <title><![CDATA[PA03 | PROMOTOR DE TRADE MARKETING]]></title>
+    <title><![CDATA[AM02 | PROMOTOR DE TRADE MARKETING]]></title>
     <posterEmail><![CDATA[danielle.lima@grupopmz.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por dar visibilidade à marca e aos seus produtos nos expositores dos pontos de vendas (PDV) que estão sob sua responsabilidade. Para isso, o profissional deve pensar em estratégias e definir ações para engajar o time de vendas. Sua principal função é abordar e orientar os clientes para motivar a compra, de acordo com as suas necessidades.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar ações diárias nas lojas, através do Merchandising com o objetivo de atrair mais clientes;</li><li>Realizar a o conhecimento do produto e fornecer informações aos clientes de maneira envolvente;</li><li>Realizar a fiscalização do Merchandising, verificando as exposições dos stands nas lojas, a fim de garantir a padronização nas lojas;</li><li>Visitar os PDVs para cuidar da ordem, limpeza e visibilidade dos produtos nos expositores e área de exposição. Observar as datas de vencimento (quando couber) dos itens expostos, providenciando sua substituição, se necessário;</li><li>Acompanhar a organização do estoque de produtos nos PDVs, bem como manter abastecido e bem exposto;</li><li>Acompanhar a atuação da concorrência no local de venda e apresentar sugestões ao superior quanto a preços, ofertas, promoções e outras providencias para intensificar a comercialização dos produtos da empresa, pesquisar periodicamente os preços e condições praticados pelos concorrentes, para apreciação e decisão dos superiores;</li><li>Acolher opiniões dos clientes sobre o atendimento oferecido, características dos produtos, etc. para conhecimento dos superiores;</li><li>Assegurar a excelência no atendimento aos clientes internos em geral;</li><li>Realizar divulgação das campanhas através de e-mail e whatsApp a fim de garantir informações nas lojas;</li><li>Eventualmente pode realizar palestras e treinamentos para clientes finais e balconistas das lojas a respeito dos produtos da empresa, suas aplicações, melhor aproveitamento, etc. visando impactar as vendas.</li></ul><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Informática básica: Pacote Office (Power Point, Excel e Word).</li><li>Experiência exposição de produtos em showroom</li><li>Vivência com times de vendas;</li><li>Conhecimento de mercado para melhor posicionamento da marca PMZ</li><li><b>CNH Categoria B definitiva. (EAR)</b></li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale refeição</li><li>Trilha de Carreira</li><li>Gratificação por Produtividade</li><li>Desconto Drogaria</li><li>Desconto Universidade</li><li>Desconto Sesc</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/471/pa03-promotor-de-trade-marketing?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/471/am02-promotor-de-trade-marketing?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[22287656]]></companyId>
     <city><![CDATA[Manaus]]></city>
     <state><![CDATA[Amazonas]]></state>
@@ -62426,6 +62368,26 @@ de fabricação;</li><li>Língua Inglesa em nível intermediário (leitura);</li
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/wrengenharia/63/encarregado-de-instalacoes?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[24773223]]></companyId>
     <city><![CDATA[Fortaleza]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[92c003af-3eda-40f6-8297-e2dce5db08b0]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[92c003af-3eda-40f6-8297-e2dce5db08b0]]></partnerRequisitionId>
+    <company><![CDATA[WR Engenharia]]></company>
+    <title><![CDATA[ENGENHEIRO GESTOR DE OBRAS]]></title>
+    <posterEmail><![CDATA[bianca.cruz@wrengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável pelo planejamento, coordenação e gestão das atividades de execução da obra, garantindo o cumprimento dos prazos, custos, qualidade e requisitos de segurança. Atua na liderança das equipes próprias e terceirizadas, acompanhando o desempenho operacional, controlando recursos e promovendo soluções que assegurem a eficiência dos processos construtivos.É responsável por supervisionar todas as etapas da obra, realizar o controle físico-financeiro, acompanhar indicadores de desempenho, elaborar relatórios gerenciais e garantir a correta execução dos projetos de engenharia. Também atua na gestão de pessoas, promovendo o desenvolvimento das equipes, o alinhamento aos objetivos da empresa e o cumprimento das normas de qualidade e segurança do trabalho.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Liderar, desenvolver e acompanhar a equipe de obra, promovendo alinhamento, feedbacks e resolução de conflitos;<br />• Supervisionar todas as etapas de execução da obra, garantindo qualidade, prazo e produtividade;<br />• Planejar e controlar o cronograma físico-financeiro da obra;<br />• Gerenciar custos, recursos, materiais e serviços necessários para a execução dos trabalhos;<br />• Coordenar os setores de apoio da obra (sala técnica, RH, almoxarifado, segurança, entre outros);<br />• Acompanhar indicadores de desempenho e garantir o cumprimento das metas estabelecidas;<br />• Realizar medições dos serviços executados e elaborar relatórios gerenciais de acompanhamento;<br />• Garantir o cumprimento das normas de segurança do trabalho e dos procedimentos da qualidade;<br />• Coordenar equipes próprias e terceirizadas, assegurando a correta execução dos projetos;<br />• Identificar oportunidades de melhoria nos processos construtivos e implementar soluções para otimização da obra.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em alto padrão começo ao fim do projeto.</li><li>Vivência com planejamento e controle de obras;</li><li>Conhecimento em leitura e compatibilização de projetos;</li><li>Boa comunicação, organização e capacidade de liderança.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Short Day de aniversario</li><li>Salario a combinar</li><li>Wellhub (Gympass)</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/wrengenharia/79/engenheiro-gestor-de-obras?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[24773223]]></companyId>
+    <city><![CDATA[Juazeiro do Norte]]></city>
     <state><![CDATA[Ceará]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -66065,26 +66027,6 @@ Participação em eventos e treinamentos.</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[6c6db155-b0ac-426a-a479-db3b85dba598]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[6c6db155-b0ac-426a-a479-db3b85dba598]]></partnerRequisitionId>
-    <company><![CDATA[Línea Logistics]]></company>
-    <title><![CDATA[Business Development]]></title>
-    <posterEmail><![CDATA[tatiane.oliveira@linealogistics.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Quer desbravar o mercado do Paraná com a gente?Venha fazer parte de um time em crescimento e construir, junto com a gente, uma jornada de conexões e sucesso.<br />Estamos buscando um profissional para o cargo de Business Development para impulsionar nossa expansão regional. Prospecção e desenvolvimento de novos negócios Construção de relacionamentos estratégicos<br /> Local: Curitiba - PR<br />✨ Conhece alguém com esse perfil? Encaminhe essa vaga! Indicações são sempre muito bem-vindas.<br />Together, We Take You Further. ✈️<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O Business Development, ou Vendedor Externo é responsável por estabelecer e manter relacionamentos comerciais com clientes através de visitas comerciais e participação em eventos setoriais, feiras, dentre outros. Responsável por elaborar budget junto time de Produto, Coordenação e Diretoria, bem como responsável pelas ações necessárias para o atingimento das metas estabelecidas.<br /><br /><b>Requisitos e qualificações</b><br /><br />· Obrigatório: Superior completo ou cursando em Comércio Exterior, Administração ou áreas afins.<br />· Obrigatório: experiência na aérea de agenciamento de cargas, mínimo 2 anos<br />· Desejável: capacitação em técnicas de vendas<br />· Obrigatório: Inglês intermediário/avançado.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/linealogistics/16/business-development?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[67887376]]></companyId>
-    <city><![CDATA[Curitiba]]></city>
-    <state><![CDATA[Paraná]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[ead149e9-7a20-47e1-b703-5455d3aff971]]></partnerJobId>
     <partnerRequisitionId><![CDATA[ead149e9-7a20-47e1-b703-5455d3aff971]]></partnerRequisitionId>
     <company><![CDATA[Línea Logistics]]></company>
@@ -66120,42 +66062,6 @@ de cada cliente.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><
     <companyId><![CDATA[67887376]]></companyId>
     <city><![CDATA[Porto Alegre]]></city>
     <state><![CDATA[Rio Grande do Sul]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[11b93a78-5cba-4755-9573-1fe17c22792c]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[11b93a78-5cba-4755-9573-1fe17c22792c]]></partnerRequisitionId>
-    <company><![CDATA[Línea Logistics]]></company>
-    <title><![CDATA[Import Customer Service Operations Analyst]]></title>
-    <posterEmail><![CDATA[millene.manthey@linealogistics.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O(a) Import Customer Service Operations Analyst será responsável por coordenar operações de importação marítima do início ao fim, garantindo o fluxo eficiente e organizado de todas as etapas do processo. Atuará como principal ponto de contato entre clientes, fornecedores, agentes de carga, despachantes e áreas internas, mantendo todos os envolvidos constantemente atualizados por e-mail, sistema e telefone sobre o andamento das operações.
-Também será responsável por assegurar que toda a documentação e os procedimentos operacionais estejam em conformidade com os requisitos aduaneiros, logísticos e internos, acompanhando prazos, embarques e liberações de carga de forma proativa. Espera-se um perfil analítico, organizado e com forte orientação ao cliente, capaz de antecipar problemas, propor soluções e garantir uma operação de importação segura, eficiente e bem-sucedida.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Coordenar a operação de importação
-marítima do início ao fim do processo, mantendo todos os envolvidos atualizados
-via e-mail, sistema ou telefone e se certificando que todos os documentos e
-procedimentos foram cumpridos de acordo para uma operação de sucesso.<br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Desejável: </b>Superior cursando e
-ou completo em Comércio Exterior, Administração ou áreas afins.
-
-<br /><b>Obrigatório:</b> experiência na
-aérea de agenciamento de cargas<br /><b>Obrigatório: </b>Inglês intermediário
-<br /><br />Habilidades de comunicação
-verbal e escrita são necessárias para interagir de maneira eficaz com clientes e
-colegas de trabalho.<br /><br />Capacidade de gerenciar
-múltiplas tarefas e manter registros precisos é fundamental.
-
-Habilidades de Resolução de
-Problemas: Ser capaz de resolver problemas de forma eficaz e tomar decisões
-rápidas quando necessário.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/linealogistics/22/import-customer-service-operations-analyst?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[67887376]]></companyId>
-    <city><![CDATA[Itajaí]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -79290,26 +79196,6 @@ Conhecimento básico de programação CNC.</li><li>Experiencia em comando FANUC 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[1ca3889d-585d-4193-812d-c27bd118976f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[1ca3889d-585d-4193-812d-c27bd118976f]]></partnerRequisitionId>
-    <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
-    <title><![CDATA[PROGRAMADOR DE COMPUTADOR JR]]></title>
-    <posterEmail><![CDATA[bruna.viriato@foxconn.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto para dar um passo significativo em sua carreira? Estamos em busca de profissionais que desejam se destacar em um ambiente dinâmico e inovador. <br />Oferecemos a oportunidade de integrar uma equipe colaborativa, onde o desenvolvimento contínuo e o aprendizado são valorizados, aqui, você terá a chance de contribuir com suas ideias e se envolver em projetos desafiadores que impactam diretamente os resultados da empresa. <br />Se você é alguém que se motiva pelo trabalho em equipe, aprecia a busca por soluções eficientes e acredita no poder da análise cuidadosa, queremos conhecê-lo! <br /><br /><br /><b>Horário: </b>De segunda a sexta das 07h20 às 17h20.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver novos sistemas, aplicar melhorias em sistemas já existentes.</li><li>Testar, validar e implementar os sistemas.</li><li>Corrigir erros que possam ocorrer após implementação do sistema.</li><li>Garantir a integridade, segurança e confidencialidade dos sistemas, através da aplicação dos padrões e métodos de segurança pertinentes.</li><li>Prestar o treinamento necessário aos usuários-chave na operacionalização dos sistemas.</li><li>Elaborar e manter a atualização de toda a documentação técnica.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em Ciências da Computação, Análise de Sistemas, Tecnologia da Informação.</li><li>Desejável Inglês Intermediário.</li><li>Base de dados (Oracle); Ferramentas de desenvolvimento (Delphi, Java, PL-SQL, JSP); Sistema operacional windows; Lógica de programação e desenvolvimento de sistemas; Processo dos negócios; Sistema Integrado; Microinformática como usuário.</li></ul><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Transporte fretado</li><li>Refeitório no local</li><li>Convênio médico</li><li>Convênio odontológico</li><li>Seguro de vida</li><li>Cartão alimentação</li><li>PPR (Programa de Participação nos Resultados)</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasbandeirantes/62/programador-de-computador-jr?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[83475091]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[7cf2cf3b-9b72-44b4-826b-29242dd247f1]]></partnerJobId>
     <partnerRequisitionId><![CDATA[7cf2cf3b-9b72-44b4-826b-29242dd247f1]]></partnerRequisitionId>
     <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
@@ -82381,6 +82267,26 @@ BIM da empresa.<br />
     <companyId><![CDATA[33236465]]></companyId>
     <city><![CDATA[Brasília]]></city>
     <state><![CDATA[Distrito Federal]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[fd428fdc-024a-4864-8a3f-6123914c031f]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[fd428fdc-024a-4864-8a3f-6123914c031f]]></partnerRequisitionId>
+    <company><![CDATA[Real Distribuidora e Logística Ltda]]></company>
+    <title><![CDATA[Assistente de Recursos Humanos]]></title>
+    <posterEmail><![CDATA[selecao@realdec.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de um ambiente colaborativo, onde o aprendizado e o crescimento são valorizados, esta é a sua chance.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Conduzir processos de recrutamento e seleção de alto volume, com foco no preenchimento de vagas operacionais;</li><li>Realizar a coleta, conferência e organização da documentação dos candidatos, garantindo a conformidade com os procedimentos internos;</li><li>Acompanhar e atualizar o status das vagas em aberto, mantendo o controle das etapas dos processos seletivos;</li><br /><br /><b>Requisitos e qualificações</b><br /><br />Experiência de 6 mês com R&amp;S.<br />Ensino médio completo ou cursando o superior.<br /><br /><b>Benefícios</b><br /><br />Salário + Plano de saúde + plano odontológico + pagamento das horas extras mensais.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasrealdistibuidora/52/assistente-de-recursos-humanos?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[33236465]]></companyId>
+    <city><![CDATA[Aparecida de Goiânia]]></city>
+    <state><![CDATA[Goiás]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
