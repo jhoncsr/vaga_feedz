@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 23 Oct 2026 19:35:14 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 20:23:31 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[4235]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4229]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerRequisitionId>
@@ -933,6 +933,26 @@ Salário + Produtividade;</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12732/tech-pessoa-desenvolvedora-senior-c-net?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São José dos Campos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[00c8c1ba-5769-4e1e-9b3e-c2b5b7c39004]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[00c8c1ba-5769-4e1e-9b3e-c2b5b7c39004]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Especialista de Desenvolvimento - Java]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você fará parte do time responsável pela evolução de uma plataforma de software de alta complexidade, atuando desde a definição da arquitetura até a entrega de funcionalidades que impactam milhares de usuários.Como Engenheiro(a) de Software Especialista II, esperamos que você seja uma referência técnica para o time, contribuindo na construção de soluções escaláveis, resilientes e de alta qualidade, além de apoiar a evolução contínua da engenharia de software.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver funcionalidades e soluções técnicas de alta complexidade, garantindo qualidade, performance e segurança;</li><li>Sugerir e evoluir arquiteturas baseadas em microsserviços, APIs REST e aplicações cloud native;</li><li>Participar da definição de soluções técnicas, apoiando decisões arquiteturais e a evolução tecnológica do produto;</li><li>Atuar na investigação e resolução de incidentes críticos, realizando análise de causa raiz e implementando melhorias permanentes;</li><li>Desenvolver componentes reutilizáveis, frameworks e padrões técnicos que aceleram o desenvolvimento dos times;</li><li>Garantir a aplicação de boas práticas de engenharia de software, incluindo testes automatizados, integração contínua, code review, versionamento e observabilidade;</li><li>Trabalhar em conjunto com Produto, Arquitetura e demais áreas na definição e implementação de soluções de negócio;</li><li>Atuar como referência técnica para o time, apoiando desenvolvedores por meio de mentorias, revisões de código e compartilhamento de conhecimento;</li><li>Participar de provas de conceito (PoCs), avaliação de novas tecnologias e iniciativas de inovação;</li><li>Contribuir para a evolução contínua da plataforma, buscando maior confiabilidade, escalabilidade e eficiência operacional.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Sênior em desenvolvimento de software;</li><li>Ensino superior completo em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas;</li><li>Sólidos conhecimentos em Java, Spring Boot, Spring Cloud e Hibernate (ou ORM equivalente);</li><li>Sólidos conhecimentos no desenvolvimento de APIs REST e integração entre sistemas;</li><li>Sólidos conhecimentos com arquitetura de software, microsserviços, sistemas distribuídos, escalabilidade e resiliência;</li><li>Experiência com bancos de dados relacionais (PostgreSQL ou equivalente), NoSQL (MongoDB, Elasticsearch ou similares) e soluções de cache (Redis ou outros);</li><li>Vivência com práticas modernas de engenharia de software, incluindo Clean Code, Design Patterns, API First, testes automatizados e integração contínua;</li><li>Experiência com Docker, Git, GitFlow e pipelines de CI/CD;</li><li>Experiência em mensageria (RabbitMQ, Pub/Sub, Kafka ou equivalente);</li><li>Experiência com observabilidade e troubleshooting de aplicações em produção (logs estruturados, métricas e traces);</li><li>Experiência com provedores de nuvem (Google Cloud Platform (GCP), AWS ou Azure);</li><li>Experiência em segurança no desenvolvimento (DevSecOps);</li><li>Experiência em Kubernetes e Terraform;</li><li>Experiência com processamento distribuído (Spark, Hadoop, Apache Beam, Dataflow, Airflow ou equivalente);</li><li>Experiência com processamento assíncrono (Temporal IO, Celery ou similares);</li><li>Experiência em estratégias de Feature Flags e deploy progressivo;</li><li>Vivência com GitHub Copilot, Codex, Claude Code ou outras ferramentas de IA aplicadas ao desenvolvimento (Agentes de IA, LLM, MCP, etc.).</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12882/tech-especialista-de-desenvolvimento-java?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -2194,6 +2214,26 @@ Telefone, Whatsapp e Portal Zendesk.</li></ul><br /><br /><b>Requisitos e qualif
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Atuar na geração, desenvolvimento e fechamento de novos negócios (New Name e expansão) em soluções de software B2G, conduzindo vendas consultivas de ciclo completo, com foco em metas de receita recorrente, implantação e rentabilidade, garantindo previsibilidade de pipeline e crescimento sustentável da carteira.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Mapear possíveis leads no mercado e estreitar o relacionamento de forma a gerar oportunidades;</li><li>Desenvolver estratégias detalhadas de prospecção e gestão de pipeline, garantindo a qualificação contínua de oportunidades;</li><li>Conduzir o processo comercial de vendas de forma consultiva; </li><li>Elaborar questionamentos a fim de levantar oportunidades de trabalho dentro do prospect e gerir a carteira de cliente a ser construído;</li><li>Prospecção ativa e qualificada (Outbound estruturado);</li><li>Gestão de pipeline com cobertura mínima de 4x a 5x a meta mensal;</li><li>Condução de reuniões executivas com C-Level, diretores e proprietários;</li><li>Diagnóstico consultivo (mapeamento de dores, ROI, payback e TCO)</li><li>Construção e apresentação de propostas comerciais complexas (Capex + Opex);</li><li>Condução de negociações estruturadas e complexas (BATNA, concessões estratégicas);</li><li>Gestão do ciclo completo: prospecção → diagnóstico → proposta → fechamento → handover;</li><li>Atualização rigorosa de CRM (forecast, probabilidade, etapas, próximos passos);</li><li>Entrega de metas de: Receita Recorrente, Receita de Implantação, Novos Logos (New Names);</li><li>Participação ativa em eventos, ações regionais e geração de demanda;</li><li>Assertividade na gestão de forecast; </li><li>Estudar as atualizações de produtos TOTVS e ter curiosidade na busca de aprendizado constante; </li><li>Estudar as tendências de mercado e estratégia da companhia de forma a apoiar nas estratégias de prospecção. </li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior Completo; </li><li><b><i>Conhecimento e vivência no segmento de Setor Público</i></b>; </li><li>Vivência com vendas complexas e consultivas B2G de software de tecnologia e ERP;</li><li>Conhecer os setores de uma empresa e ter conhecimento de negócio: Financeiro, RH, Contábil, Fiscal, Estoque e Backoffice; </li><li>Habilidade de negociação, comunicação e gestão de relacionamento com decisores;</li><li>Perfil organizado, proativo, resiliente e orientado a resultados;</li><li>Alta autonomia, disciplina e senso de responsabilidade para gerenciar carteira, pipeline e agenda;</li><li>Disponibilidade para viagens e atuação em modelo híbrido.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração variável com potencial de ganho atrativa;</li><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada colaborador(a);</li><li>Programa +Saudáveis, que cuida de cada colaborador(a) com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para TOTVERS;</li><li>Programa + Cuidado, programa de apoio pessoal para colaboradores e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12149/vendas-gerente-de-contas-senior-hunter-setor-publico?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[ed17f3da-e9c5-4d67-a542-6b5b856f3e31]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[ed17f3da-e9c5-4d67-a542-6b5b856f3e31]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Pré-vendas] Assistente de Prospecção Comercial - BDR]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional que ficará responsável por prospectar e identificar novas oportunidades de negócios. Sua principal responsabilidade será prospectar e qualificar leads de acordo com o perfil de cliente ideal da TOTVS, garantindo que aqueles que se encaixam perfeitamente com as nossas soluções sejam identificados e abordados de maneira eficaz.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Prospecção de novas contas, conforme orientações recebidas, por meio de ligações, páginas de perfil profissional, WhatsApp e outras ferramentas;</li><li>Realizar qualificação de leads através de critérios de qualificação (BANT);</li><li>Qualificar e acompanhar o lead do início até a reunião realizada, conforme orientações recebidas, acionando profissionais e/ou áreas responsáveis quando necessário.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino médio completo ou cursando ensino superior;</li><li>Vivência com vendas outbound B2B de software/SaaS;</li><li>Disponibilidade para atuar no modelo híbrido, com 3 dias presenciais e 2 dias em home office.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12792/pre-vendas-assistente-de-prospeccao-comercial-bdr?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
@@ -3609,26 +3649,6 @@ ou MBA completos. <br />Conhecimentos específicos: <br />● Pacote Office – 
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Atuar na implantação, parametrização, sustentação inicial e evolução de soluções TOTVS WMS Protheus, com foco em processos logísticos e de backoffice, garantindo a aderência às regras de negócio do cliente, qualidade técnica da entrega, estabilidade operacional e alto nível de satisfação do usuário final.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Implantação e Projetos - Executar projetos de implantação do Protheus em ambientes de backoffice e logística; Levantar requisitos junto às áreas de negócio; Mapear processos (AS IS / TO BE); Parametrizar módulos do sistema conforme necessidades do cliente; Realizar testes integrados e testes de aceite (UAT); Apoiar o go-live e estabilização do ambiente.</li><li>WMS - Configurar estruturas de armazém, endereçamento, picking, packing, separação e conferência; Parametrizar regras de movimentação, inventário e rastreabilidade; Integrar WMS com módulos de estoque, faturamento e TMS.</li><li>TMS - Parametrizar regras de transporte, frete, tabelas, contratos e transportadoras; Configurar processos de expedição, romaneio e entrega; Integração com WMS, faturamento e financeiro.</li><li>Qualidade - Configuração de planos de inspeção; Controle de não conformidades; Rastreabilidade de lotes e inspeções; Integração com processos de estoque e produção.</li><li>TOTVS Pesagem - Implantação e configuração de fluxos de pesagem; Integração com faturamento, logística e estoque; Automatização de entradas e saídas.</li><li>TOTVS Roteirização - Parametrização de regras de roteirização; Otimização de rotas; Integração com TMS e WMS; Apoio à definição de malhas logísticas.</li><li>Documentação e Suporte - Elaborar documentação funcional e técnica; Criar manuais e procedimentos operacionais; Treinar usuários finais e equipes internas; Prestar suporte pós-implantação.</li><li>Obrigatórios - Experiência comprovada com TOTVS Protheus; Conhecimento sólido em Backoffice; Vivência em projetos de implantação; Conhecimento em processos logísticos; Parametrização de módulos Protheus; Integrações entre módulos; Conhecimento funcional de WMS e TMS.<br />Desejáveis - Conhecimento em ADVPL, Conhecimento em SQL; Experiência com APIs e integrações; Experiência com TOTVS Pesagem; Experiência com TOTVS Roteirização; Experiência com módulo Qualidade; </li><li>Disponibilidade para atuar híbrido (3x ou mais presencial). </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Perfil analítico, Organização e gestão de prioridades, Comunicação clara e didática, Capacidade de tradução técnica, Proatividade, Visão sistêmica, Foco em solução, Trabalho em equipe, Relacionamento com cliente, Autonomia com responsabilidade, Gestão de prazos e entregas.<br /></li><li>Graduação em: Administração, Logística, Sistemas de Informação, Engenharia de Produção, Economia, Tecnologia da Informação ou áreas correlatas.<br /></li><li>Atuar com autonomia técnica, Conduzir implantações sem supervisão, Participa de decisões de arquitetura funcional, Apoia analistas juniores, Interface direta com gestores do cliente, Participação ativa no desenho de soluções.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada colaborador(a) com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11183/servicos-analista-de-implantacao-senior-wms-protheus?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[ed17f3da-e9c5-4d67-a542-6b5b856f3e31]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[ed17f3da-e9c5-4d67-a542-6b5b856f3e31]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Pré-vendas] Assistente de Prospecção Comercial - BDR]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional que ficará responsável por prospectar e identificar novas oportunidades de negócios. Sua principal responsabilidade será prospectar e qualificar leads de acordo com o perfil de cliente ideal da TOTVS, garantindo que aqueles que se encaixam perfeitamente com as nossas soluções sejam identificados e abordados de maneira eficaz.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Prospecção de novas contas, conforme orientações recebidas, por meio de ligações, páginas de perfil profissional, WhatsApp e outras ferramentas;</li><li>Realizar qualificação de leads através de critérios de qualificação (BANT);</li><li>Qualificar e acompanhar o lead do início até a reunião realizada, conforme orientações recebidas, acionando profissionais e/ou áreas responsáveis quando necessário.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino médio completo ou cursando ensino superior;</li><li>Vivência com vendas outbound B2B de software/SaaS;</li><li>Disponibilidade para atuar no modelo híbrido, com 3 dias presenciais e 2 dias em home office.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12792/pre-vendas-assistente-de-prospeccao-comercial-bdr?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -5775,26 +5795,6 @@ A posição está inserida na Gerência Executiva de Planejamento e Negócios, q
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[63985043-a4fd-4913-81c0-8694837ec87f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[63985043-a4fd-4913-81c0-8694837ec87f]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Suporte] Especialista em Pricing, Estratégia de Ofertas e Rentabilidade]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Liderar a estruturação técnica da vaga de Pricing, Cost-to-Serve e Melhoria de Custos, garantindo que cada produto, ofertas ou contrato de suporte esteja rigorosamente ancorado em margem de contribuição positiva. Atuar como o elo estratégico para criar a Calculadora de Ofertas, definir regras de bundling, parametrizar Part Numbers sob medida, conduzir a governança de alçadas/descontos e suportar business cases de M&amp;A com análises profundas de rentabilidade por segmento.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Precificação de Ofertas: Desenvolver e manter a Calculadora de Precificação Inteligente das ofertas e projetos, simulando impactos diretos de volume, impostos, custos operacionais e margem de contribuição.</li><li>Modelo de Cost-to-Serve e Precificação Dinâmica por Faixa: Mapear o custo real por ticket e por perfil de uso. Substituir a tarifa plana (flat) por tabelas dinâmicas escalonadas por faixas de consumo, alinhando o preço ao real esforço logístico/técnico exigido.</li><li>Governança de Alçadas, Limites e Descontos Comerciais: Definir e operacionalizar a política rígida de alçadas financeiras para aprovação de descontos no CRM, travando concessões soltas que corroam a rentabilidade da diretoria.</li><li>Análise de Viabilidade, BPs de Integração e Parcerias: Atuar diretamente na avaliação financeira e construção do Business Plan (BP) para integração com parceiros estratégicos, calculando viabilidade, custo unitário, ticket médio e projeção de ROI.</li><li>Inteligência de Bundling e Estruturação de Torres Comerciais: Desenvolver estratégias de empacotamento (bundles) e auxiliar no desenho das faixas de oferta da Torre Prime, ajustando produtos e serviços por perfil, valor e complexidade de cliente.</li><li>Análise de Rentabilidade por Segmento e Repricing: Gerar diagnósticos recorrentes de margem por segmento, vertical e porte de cliente, identificando contas/contratos deficitários para proposição de renegociações estratégicas (repricing).</li><li>Business Cases e Tracking Pós-Integração de M&amp;A: Padronizar a metodologia de business case para novas aquisições, mapear sobreposição de custos (captura de sinergias) e realizar o tracking de ROI pós-integração de subsidiárias.</li><li>Workshops de Precificação e Alinhamento com Stakeholders: Articular com BIZDEV, CS e Operações para promover alinhamentos comerciais e workshops de precificação, capacitando os times no entendimento financeiro das ofertas.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação Acadêmica: Graduação completa em Administração, Economia, Engenharia, Ciências Contábeis ou áreas correlatas. Pós-graduação/MBA em Finanças, Pricing ou Gestão de Negócios é um diferencial.</li><li>Experiência Prática: Sólida vivência prévia em Pricing, Engenharia Financeira de Produtos, Melhoria de Custos ou Modelagem de Negócios B2B (preferencialmente no segmento de Tecnologia / SaaS / Serviços Recorrentes).</li><li>Modelagem Financeira Avançada: Domínio completo de construção de simuladores, calculadoras de preços, análise de margem de contribuição, DRE por produto/serviço e projeção de ROI/Payback.</li><li>Sinergia Comercial e Negociação: Capacidade demonstrada para transitar entre a rigorosidade técnica de finanças e o discurso comercial de BIZDEV, articulando acordos viáveis com lideranças sem perder a margem de vista.</li><li>Competências Comportamentais: Pensamento crítico-analítico avançado, autonomia para atuar em cenários de alta ambiguidade, visão sistêmica do negócio, forte capacidade de persuasão baseada em dados e orientação para resultados.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11090/suporte-especialista-em-pricing-estrategia-de-ofertas-e-rentabilidade?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[6970a89f-335a-4aa9-a049-60a57cd5acc7]]></partnerJobId>
     <partnerRequisitionId><![CDATA[6970a89f-335a-4aa9-a049-60a57cd5acc7]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -6497,6 +6497,26 @@ Aqui acreditamos na inovação colaborativa, na excelência com integridade e no
     <companyId><![CDATA[65319208]]></companyId>
     <city><![CDATA[Goiânia]]></city>
     <state><![CDATA[Goiás]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[017ad773-6e31-4424-acef-e41e99340aa4]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[017ad773-6e31-4424-acef-e41e99340aa4]]></partnerRequisitionId>
+    <company><![CDATA[Dream Team]]></company>
+    <title><![CDATA[Analista de CS]]></title>
+    <posterEmail><![CDATA[gabriel.furtado@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade que permita fazer a diferença e contribuir para a experiência do cliente? Venha fazer parte de uma equipe dinâmica e inovadora, onde cada ideia e iniciativa têm valor. Aqui, você terá a chance de trabalhar em um ambiente colaborativo, focado em soluções que agregam valor aos nossos clientes. Valorizamos a criatividade, a empatia e a busca contínua por resultados excelência. Juntos, iremos construir relacionamentos duradouros e criar experiências memoráveis. Se você é apaixonado(a) por clientes e deseja crescer profissionalmente, essa é a sua oportunidade. Não perca a chance de se juntar a nós e transformar desafios em oportunidades, contribuindo para o sucesso de todos. Estamos ansiosos para conhecer você e as suas ideias!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Atuar como ponto de contato principal para clientes, garantindo uma comunicação efetiva e o entendimento de suas necessidades.<br /> - Monitorar e analisar métricas de satisfação do cliente, buscando oportunidades de melhoria no serviço prestado.<br /> - Elaborar e implementar estratégias para retenção de clientes, aumentando a lealdade e o engajamento.<br /> - Treinar e capacitar clientes sobre o uso dos produtos e serviços oferecidos, promovendo a adoção e o sucesso do cliente.<br /> - Identificar riscos de churn e desenvolver planos de ação para mitigá-los.<br /> - Colaborar com as equipes de produto e vendas para trazer feedback dos clientes e influenciar melhorias.<br /> - Realizar check-ins regulares com clientes para assegurar que suas expectativas estejam sendo atendidas.<br /> - Documentar e acompanhar casos de suporte, garantindo que as soluções sejam entregues de forma eficaz e em tempo hábil.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior completa em áreas relacionadas, como Administração, Gestão da Informação ou áreas afins.<br /> - Experiência prévia em atendimento ao cliente ou suporte ao cliente.<br /> - Habilidade em comunicação verbal e escrita.<br /> - Capacidade de resolução de problemas e tomada de decisão.<br /> - Conhecimento em ferramentas de CRM e gestão de relacionamento.<br /> - Familiaridade com métricas de satisfação e performance do cliente.<br /> - Habilidade em trabalhar em equipe e colaborar com diferentes áreas da empresa.<br /> - Proatividade e orientação para resultados.<br /><br /><br /><b>Benefícios</b><br /><br />Benefícios 1 2 3]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/crescendonodt/1281/analista-de-cs?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[250617]]></companyId>
+    <city><![CDATA[Anori]]></city>
+    <state><![CDATA[Amazonas]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -8256,26 +8276,6 @@ para otimizar estratégias;<br /><br /><b>Responsabilidades e atribuições</b><
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[d5944427-42ac-49bf-a040-9a286f26782f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[d5944427-42ac-49bf-a040-9a286f26782f]]></partnerRequisitionId>
-    <company><![CDATA[Agência Fato Relevante]]></company>
-    <title><![CDATA[Atendimento Sênior]]></title>
-    <posterEmail><![CDATA[ana.biagi@nexcomgrupo.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <b>Atendimento Sênior</b> para atuar com assessoria de imprensa e comunicação corporativa para empresas dos setores de <b>mobilidade, logística e serviços</b>, incluindo companhias de capital aberto.<br />Procuramos uma pessoa com experiência em comunicação corporativa, relacionamento com clientes, porta-vozes e jornalistas, além de familiaridade com temas como mobilidade urbana, transportes, logística, infraestrutura, tecnologia e serviços.<br />É necessário residir em <b>São Paulo ou região metropolitana</b>.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar e executar estratégias de assessoria de imprensa e comunicação corporativa;</li><li>Conduzir o atendimento e relacionamento diário com clientes e porta-vozes;</li><li>Produzir e revisar releases, notas, Q&amp;As, posicionamentos, mensagens-chave e materiais executivos;</li><li>Desenvolver sugestões de pauta e identificar oportunidades estratégicas de exposição na mídia;</li><li>Manter relacionamento ativo com jornalistas de negócios, economia, mobilidade, logística, infraestrutura, tecnologia e veículos da grande imprensa;</li><li>Apoiar a preparação de executivos e porta-vozes para entrevistas e interações com a imprensa;</li><li>Acompanhar temas sensíveis e apoiar a construção de posicionamentos e respostas;</li><li>Gerenciar múltiplas demandas, entregas e prazos simultaneamente;</li><li>Monitorar o cenário de mídia e temas relevantes para os clientes, antecipando oportunidades e possíveis riscos reputacionais;</li><li>Acompanhar discussões relacionadas a mobilidade urbana, transportes, logística, infraestrutura, inovação, regulação e qualidade dos serviços;</li><li>Atuar de forma integrada com a equipe, contribuindo para a qualidade e agilidade das entregas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Jornalismo ou Relações Públicas;</li><li>Experiência sólida em assessoria de imprensa e comunicação corporativa;</li><li>Experiência no atendimento a empresas dos setores de mobilidade, logística e serviços;</li><li>Desejável experiência no atendimento a empresas de capital aberto;</li><li>Experiência no relacionamento com jornalistas de negócios, economia, infraestrutura, transportes, tecnologia e grande imprensa;</li><li>Excelente comunicação escrita e verbal;</li><li>Excelente redação e capacidade de produção de releases, notas, Q&amp;As, posicionamentos e materiais executivos;</li><li>Segurança no relacionamento com clientes, executivos e porta-vozes;</li><li>Capacidade de atuar com temas sensíveis e de alta relevância reputacional;</li><li>Organização, proatividade, agilidade e capacidade de gerenciar diferentes demandas e prazos simultaneamente;</li><li>Residir em São Paulo ou região metropolitana.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Modelo de trabalho híbrido;</li><li>Atuação em projetos estratégicos de comunicação corporativa e reputação;</li><li>Ambiente colaborativo, criativo e acolhedor;</li><li>Oportunidade de aprendizado e desenvolvimento contínuo;</li><li>Horários flexíveis;</li><li>Day Off de Aniversário;</li><li>Gift Card de Aniversário.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/gruponexcom/45/atendimento-senior?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[1]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[65991087-64b6-4fcb-b7a2-25c94ae6833c]]></partnerJobId>
     <partnerRequisitionId><![CDATA[65991087-64b6-4fcb-b7a2-25c94ae6833c]]></partnerRequisitionId>
     <company><![CDATA[TOTVS NORDESTE]]></company>
@@ -9349,6 +9349,26 @@ Ensino superior completo ou em andamento em Administração, Marketing, Gestão 
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[91f907aa-fa8a-432e-855b-7a47e694fe0d]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[91f907aa-fa8a-432e-855b-7a47e694fe0d]]></partnerRequisitionId>
+    <company><![CDATA[Sicoob Unicidades]]></company>
+    <title><![CDATA[Estagiário Comercial - PA 03]]></title>
+    <posterEmail><![CDATA[camilad.sousa@sicoob.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um estagiário com perfil comercial que deseje aplicar na prática os conhecimentos técnicos que estão sendo adquiridos na faculdade, realizando atendimento aos cooperados e auxiliando no negócio.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento aos cooperados na agência;</li><li>Identificar e atender às necessidades dos cooperados e da cooperativa;</li><li>Suporte aos Assistente de Negócios nas demais demandas comerciais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar Cursando Ensino Superior em Administração, Ciências Contábeis, Ciências Econômicas, Gestão Comercial, ou áreas afins;</li><li>Conhecimento básico do Pacote Office;</li><li>Residir em Jataí - GO.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Alimentação R$577,14;</li><li>Vale Transporte R$90,00;</li><li>Universidade Corporativa Sicoob;</li><li>Seguro de Vida em Grupo;</li><li>Plano de Carreira;</li><li>Wellhub.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sicoobunicidades/235/estagiario-comercial-pa-03?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[74199914]]></companyId>
+    <city><![CDATA[Jataí]]></city>
+    <state><![CDATA[Goiás]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[a9eb85c3-e7bb-4fb4-9fc5-e01fe643b221]]></partnerJobId>
     <partnerRequisitionId><![CDATA[a9eb85c3-e7bb-4fb4-9fc5-e01fe643b221]]></partnerRequisitionId>
     <company><![CDATA[Sicoob Unicidades]]></company>
@@ -9526,26 +9546,6 @@ Atuar conforme <strong>normas, políticas e procedimentos internos</strong>.</li
     <posterEmail><![CDATA[camilad.sousa@sicoob.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Jovem Aprendiz para apoiar as atividades e demandas administrativas, como organização de arquivos e controle de planilhas. Uma oportunidade para desenvolver habilidades, adquirir experiência profissional e contribuir com a rotina da área.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento telefônico;</li><li>Preenchimento de planilhas de controles diversos;</li><li>Executar tarefas relacionadas com a elaboração e manutenção do arquivo, arquivando e classificando documentos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo ou em andamento;</li><li>Necessário ter entre 14 e 24 anos;</li><li>Pacote Office Básico;</li><li>Organização, boa comunicação e proatividade.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de Carreira;</li><li>Universidade Corporativa Sicoob.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sicoobunicidades/226/jovem-aprendiz-pa-88?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[74199914]]></companyId>
-    <city><![CDATA[Rio Verde]]></city>
-    <state><![CDATA[Goiás]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[dca0096e-1650-45b3-9e9f-857c3db83b88]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[dca0096e-1650-45b3-9e9f-857c3db83b88]]></partnerRequisitionId>
-    <company><![CDATA[Sicoob Unicidades]]></company>
-    <title><![CDATA[Estagiário Comercial - PA 97]]></title>
-    <posterEmail><![CDATA[camilad.sousa@sicoob.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos estagiário com perfil comercial, disposto a aplicar na prática os conhecimentos técnicos adquiridos na faculdade. As atividades incluem atualização cadastral, abertura de contas, recepção de cooperados e apoio às demandas da gerência.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atendimento aos cooperados na agência;</li><li>Acompanhamento dos Produtos e Serviços comercializados pela cooperativa;</li><li>Suporte aos Assistente de Negócios nas demais demandas comerciais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Estar cursando Ensino Superior em Administração, Ciências Contábeis, Ciências Econômicas, Gestão Comercial, ou áreas afins;</li><li>Conhecimento básico do Pacote Office;</li><li>Residir em Rio Verde - GO.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Alimentação R$577,14;</li><li>Vale Transporte R$90,00;</li><li>Universidade Corporativa Sicoob;</li><li>Seguro de Vida em Grupo;</li><li>Plano de Carreira;</li><li>Wellhub.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sicoobunicidades/220/estagiario-comercial-pa-97?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[74199914]]></companyId>
     <city><![CDATA[Rio Verde]]></city>
     <state><![CDATA[Goiás]]></state>
@@ -13742,17 +13742,9 @@ acompanhamento de SLA.</li></ul><br /><br /><b>Benefícios</b><br /><br /> Vale 
     <partnerJobId><![CDATA[64c39be5-03c1-4e90-aaf3-4464ee86ad84]]></partnerJobId>
     <partnerRequisitionId><![CDATA[64c39be5-03c1-4e90-aaf3-4464ee86ad84]]></partnerRequisitionId>
     <company><![CDATA[Faculdade IPGS]]></company>
-    <title><![CDATA[Assistente de negociação e prevenção]]></title>
+    <title><![CDATA[Assistente de Negociação e Prevenção]]></title>
     <posterEmail><![CDATA[rh@ipgs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Já imaginou fazer <b>parte do time de Relacionamento da IPGS,</b> que é uma empresa que proporciona o ensino em saúde em todo o Brasil, de forma exclusiva, focado na área de Nutrição?<br /><br />Você é apaixonado por educação e tem talento para processos eficientes? Esta é a sua oportunidade de fazer parte de uma empresa inovadora no setor educacional, ajudando a transformar vidas por meio do conhecimento!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atendimento aos alunos sobre questões financeiras e negociação
-Conduzir o processo e o controle de cobrança e a prevenção de inadimplência
-Controlar contas a receber e identificar oportunidades
-Sugerir e executar ações de recuperação de valores e de prevenção
-Acompanhar metas e indicadores de inadimplência<br /><br /><b>Requisitos e qualificações</b><br /><br />Nível superior completo ou em andamento 
-Boa comunicação escrita e habilidade de relacionamento
-Perfil negociador e consultivo
-Desejável experiência com cobrança
-<br /><br /><br /><b>Benefícios</b><br /><br />✨ Trabalhamos em horário comercial, de segunda a sexta, das 08h às 18h.<br />✨ <b>PPR Semestral</b> vinculado ao atingimento de metas.<br />✨ <b>Vale alimentação</b> (Cartão Flash Visa) para usar como quiser: refeição, mobilidade, saúde, cultura, educação e muito mais!<br />✨ <b>Vale transporte</b> ou <b>estacionamento</b> gratuito no local.<br />✨ <b>Plano de Saúde Unimed</b> (com inclusão de dependentes e coparticipação).<br />✨ <b>Plano Odontológico Unimed</b>.<br />✨ <b>Apoio à saúde mental</b> com desconto em consultas no IEPP e Clude.<br />✨ <b>Parceria com TotalPass</b>, para você manter a rotina fitness em dia.<br />✨ <b>Auxílio-creche</b> para filhos de até 6 anos.<br />✨ E mais: aqui trabalhamos <b>home office todas as segundas</b> e <b>quartas-feiras</b> — porque acreditamos em começar a semana leve e equilibrar produtividade com qualidade de vida!]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Já imaginou fazer <b>parte do time de Relacionamento da IPGS,</b> que é uma empresa que proporciona o ensino em saúde em todo o Brasil, de forma exclusiva, focado na área de Nutrição?<br /><br />Você é apaixonado por educação e tem talento para processos eficientes? Esta é a sua oportunidade de fazer parte de uma empresa inovadora no setor educacional, ajudando a transformar vidas por meio do conhecimento!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atendimento aos alunos sobre questões financeiras e negociação;<br />Conduzir o processo e o controle de cobrança e a prevenção de inadimplência;<br />Controlar contas a receber e identificar oportunidades;<br />Sugerir e executar ações de recuperação de valores e de prevenção; <br />Acompanhar metas e indicadores de inadimplência;<br /><br /><b>Requisitos e qualificações</b><br /><br />Nível superior completo ou em andamento;  <br />Boa comunicação escrita e habilidade de relacionamento; <br />Perfil negociador e consultivo; <br />Desejável experiência com cobrança;<br /><br /><br /><b>Benefícios</b><br /><br />✨ Trabalhamos em horário comercial, de segunda a sexta, das 08h às 18h.<br />✨ <b>PPR Semestral</b> vinculado ao atingimento de metas.<br />✨ <b>Vale alimentação</b> (Cartão Flash Visa) para usar como quiser: refeição, mobilidade, saúde, cultura, educação e muito mais!<br />✨ <b>Vale transporte</b> ou <b>estacionamento</b> gratuito no local.<br />✨ <b>Plano de Saúde Unimed</b> (com inclusão de dependentes e coparticipação).<br />✨ <b>Plano Odontológico Unimed</b>.<br />✨ <b>Apoio à saúde mental</b> com desconto em consultas no IEPP e Clude.<br />✨ <b>Parceria com TotalPass</b>, para você manter a rotina fitness em dia.<br />✨ <b>Auxílio-creche</b> para filhos de até 6 anos.<br />✨ E mais: aqui trabalhamos <b>home office todas as segundas</b> e <b>quartas-feiras</b> — porque acreditamos em começar a semana leve e equilibrar produtividade com qualidade de vida!]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ipgscarreiras/55/assistente-de-negociacao-e-prevencao?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[3737470]]></companyId>
     <city><![CDATA[Porto Alegre]]></city>
@@ -14563,64 +14555,6 @@ das entregas.<br /><br /><b>Benefícios</b><br /><br />Vamos além da carreira, 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[c83c74b8-8633-453b-8b38-7cc8ef28a85e]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[c83c74b8-8633-453b-8b38-7cc8ef28a85e]]></partnerRequisitionId>
-    <company><![CDATA[MA Coneglian Engenharia e Instalações Elétricas]]></company>
-    <title><![CDATA[VENDEDOR TÉCNICO-COMERCIAL]]></title>
-    <posterEmail><![CDATA[larissa@maconeglian.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O vendedor técnico-comercial terá como função principal a
-prospecção e o desenvolvimento de novos clientes e projetos nos segmentos de
-montagens elétricas e sistemas de combate a incêndio. Atua na identificação de
-oportunidades no mercado, visitação a clientes, levantamento técnico em campo,
-elaboração de propostas comerciais e acompanhamento das negociações até o
-fechamento, mantendo o relacionamento com a carteira e garantindo o cumprimento
-das metas de vendas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Prospecção
-     ativa de novos clientes e projetos (construtoras, indústrias e
-     empreendimentos comerciais);</li>
- <li>Visitas
-     técnicas e comerciais a clientes e obras;</li>
- <li>Levantamento
-     de necessidades em campo e apoio na definição da solução técnica;</li>
- <li>Elaboração,
-     apresentação e negociação de propostas e orçamentos;</li>
- <li>Interpretação
-     de projetos, memoriais descritivos e listas de materiais para composição
-     de custos;</li>
- <li>Acompanhamento
-     do funil de vendas, follow-up de propostas e fechamento de contratos;</li>
- <li>Manutenção
-     e desenvolvimento da carteira de clientes ativos;</li>
- <li>Registro
-     de visitas, propostas e informações de clientes em relatórios/CRM;</li>
- <li>Acompanhamento
-     pós-venda em conjunto com a equipe técnica e de obras.</li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Ensino
-     técnico ou superior completo;</li>
- <li>CNH
-     categoria B ativa e disponibilidade para dirigir e viajar com frequência;</li>
- <li>Experiência
-     comprovada em vendas externas (B2B);</li>
- <li>Leitura
-     e interpretação de projetos;</li>
- <li>Conhecimento
-     do pacote Office.</li>
-</ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário compatível com o cargo;</li><li>Veículo da empresa para viagens;</li><li>Ticket alimentação;</li><li>Seguro de vida;</li><li>Prêmio assiduidade;</li><li>Treinamentos e oportunidade de crescimento.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmaconeglian/29/vendedor-tecnico-comercial?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[3735144]]></companyId>
-    <city><![CDATA[Campo Grande]]></city>
-    <state><![CDATA[Mato Grosso do Sul]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[0d80a200-5a93-4ee9-ae0b-f67b7815d2a6]]></partnerJobId>
     <partnerRequisitionId><![CDATA[0d80a200-5a93-4ee9-ae0b-f67b7815d2a6]]></partnerRequisitionId>
     <company><![CDATA[MA Coneglian Engenharia e Instalações Elétricas]]></company>
@@ -14628,58 +14562,6 @@ das metas de vendas.<br /><br /><b>Responsabilidades e atribuições</b><br /><b
     <posterEmail><![CDATA[larissa@maconeglian.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />O Auxiliar de Eletricista tem como função principal dar apoio nas atividades de montagem e instalação de infraestruturas elétricas, lançamento de cabos, ligação de equipamentos e instalação de iluminação. Além disso, apoia as equipes nas manutenções de equipamentos e painéis elétricos, bem como adequação de infraestruturas elétricas conforme necessário.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Montagem de infraestruturas elétricas básicas;</li><li>Apoio na montagem e ligação de painéis elétricos;</li><li>Manuseio e lançamento de cabos elétricos;</li><li>Apoio em ligação de equipamentos;</li><li>Manuseio de ferramentas e instrumentos elétricos;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>18 anos completos;</li><li>Formação em elétrica, eletrônica ou automação;</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário compatível com a função;</li><li>Transporte pela empresa;</li><li>Refeição no local;</li><li>Ticket alimentação;</li><li>Prêmio por assiduidade;</li><li>Seguro de vida;</li><li>Plano de saúde;</li><li>Bolsa de estudos SENAI;</li><li>Ajuda de custo viagem.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmaconeglian/33/auxiliar-de-eletricista?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[3735144]]></companyId>
-    <city><![CDATA[Lençóis Paulista]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[8d4ae0f4-f3fd-4d8a-85ee-3f01cb81dcfb]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[8d4ae0f4-f3fd-4d8a-85ee-3f01cb81dcfb]]></partnerRequisitionId>
-    <company><![CDATA[MA Coneglian Engenharia e Instalações Elétricas]]></company>
-    <title><![CDATA[Assistente Financeiro (Vaga Temporária)]]></title>
-    <posterEmail><![CDATA[larissa@maconeglian.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos à procura de um(a) profissional para se juntar à nossa equipe na área financeira. O candidato ideal será proativo, demonstrará um forte desejo de aprender e crescer, e será motivado por desafios diários. Se você é apaixonado por finanças, possui habilidades organizacionais excepcionais e está pronto para contribuir para o sucesso de nossa equipe, gostaríamos de te conhecer.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conciliação bancária;</li><li>Emissão de notas fiscais (serviço, materiais e remessas);</li><li>Classificação de notas fiscais;</li><li>Classificação em centro de custos;</li><li>Lançamento de notas fiscais em sistema;</li><li>Lançamento de impostos;</li><li>Controles e organização de documentos.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação técnica e/ou superior em Administração / Contabilidade ou áreas correlatas;</li><li>Boa comunicação verbal e escrita;</li><li>Conhecimento em Pacote Office 365 (básico);</li><li>Residir em Lençóis Paulista ou região.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário compatível com a função;</li><li>Vale alimentação</li><li>Auxílio combustível; </li><li>Seguro de vida em grupo;</li><li>Plano de saúde;</li><li>Prêmio por assiduidade.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmaconeglian/28/assistente-financeiro-vaga-temporaria?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[3735144]]></companyId>
-    <city><![CDATA[Lençóis Paulista]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b236f32a-30ba-4436-8ace-82ed35c53041]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[b236f32a-30ba-4436-8ace-82ed35c53041]]></partnerRequisitionId>
-    <company><![CDATA[MA Coneglian Engenharia e Instalações Elétricas]]></company>
-    <title><![CDATA[Estagiário(a) de Projetos]]></title>
-    <posterEmail><![CDATA[larissa@maconeglian.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais para integrar nossa equipe de Engenharia e Projetos, que desejem se desenvolver e contribuir nas etapas de desenvolvimento, planejamento e entrega de projetos aos nossos clientes. Se você possui esse perfil e busca atuar em um ambiente dinâmico e desafiador, esta é a oportunidade ideal para você.<br />
-Venha fazer a diferença conosco. Junte-se à nossa equipe e faça parte dessa missão!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoio no desenvolvimento de projetos elétricos industriais e comerciais, sob supervisão técnica;
-</li>
-<li>
-Auxílio na elaboração de memoriais técnicos de instalações elétricas e listas de materiais;
-</li>
-<li>
-Apoio na comunicação e interface com as lideranças envolvidas na execução dos projetos;</li>
-<li>
-Organização e controle da documentação de projetos, bem como auxílio na elaboração de relatórios semanais e mensais de acompanhamento;
-</li>
-<li>
-Participação em reuniões técnicas com clientes e fornecedores, com foco em aprendizado e suporte às demandas da equipe.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Técnico ou superior em Engenharia Elétrica, Eletrônica ou Automação (em andamento);</li><li>Boa comunicação verbal e escrita; </li><li>Pacote office 365 (intermediário); </li><li>Residir em Lençóis Paulista ou região.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário compatível com o cargo;</li><li>Auxílio Transporte;</li><li>Ticket alimentação;</li><li>Seguro de vida;</li><li>Treinamentos e oportunidades de crescimento.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmaconeglian/25/estagiario-a-de-projetos?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[3735144]]></companyId>
     <city><![CDATA[Lençóis Paulista]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -14722,79 +14604,6 @@ elétricas conforme necessário.<br /><br /><b>Responsabilidades e atribuições
      e interpretação de projetos.</li>
 </ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário compatível com o cargo;</li><li>Transporte pela empresa;</li><li>Refeição no local;</li><li>Ticket alimentação;</li><li>Prêmio por assiduidade;</li><li>Seguro de vida;</li><li>Plano de saúde;</li><li>Bolsa de estudos;</li><li>Treinamentos e oportunidades de crescimento.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmaconeglian/21/auxiliar-de-eletroeletronica?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[3735144]]></companyId>
-    <city><![CDATA[Lençóis Paulista]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6751b97f-fc4c-4b97-8ec9-6b6119fbcd95]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[6751b97f-fc4c-4b97-8ec9-6b6119fbcd95]]></partnerRequisitionId>
-    <company><![CDATA[MA Coneglian Engenharia e Instalações Elétricas]]></company>
-    <title><![CDATA[Técnico em Eletrônica – Sistemas de Detecção e Alarme de Incêndio]]></title>
-    <posterEmail><![CDATA[larissa@maconeglian.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos à procura de um(a) profissional para se juntar à nossa equipe
-Técnica em Eletrônica – Sistemas de Detecção e Alarme de Incêndio.<br />
-O candidato ideal será comprometido, proativo e terá interesse genuíno em atuar
-com tecnologias voltadas à segurança e prevenção. Se você possui conhecimentos
-em eletrônica, é detalhista, tem facilidade para interpretar esquemas técnicos
-e está pronto para atuar com instalação, manutenção e inspeção de sistemas de
-detecção e alarme de incêndio, gostaríamos muito de te conhecer.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
- <li>Realizar manutenção
-     corretiva e preventiva em equipamentos eletrônicos dos sistemas
-     de deteção e alarme de incêndio (painéis, módulos, detectores,
-     acionadores, sirenes, etc.);</li>
- <li>Efetuar
-     diagnóstico e reparo de falhas de hardware (componentes
-     eletrônicos) e software (configurações e programação de
-     sistemas);</li>
- <li>Atualizar
-     e restaurar firmwares e parametrizações dos sistemas conforme
-     padrões do fabricante;</li>
- <li>Prestar
-     suporte técnico para equipe de campo e orientar clientes quanto ao uso e
-     operação correta dos equipamentos;</li>
- <li>Trabalhar
-     em conjunto com equipes de projetos para garantir a eficiência e
-     confiabilidade dos sistemas instalados;</li>
- <li>Preencher
-     relatórios técnicos de manutenção;</li>
- <li>Seguir
-     rigorosamente as normas técnicas e de segurança aplicáveis (NRs, ITs,
-     ABNT/NBR, etc.).</li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Curso
-     técnico completo e em
-     andamento em Eletrônica, Eletroeletrônica ou áreas
-     correlatas;</li>
- <li>Experiência
-     prévia com manutenção de sistemas eletrônicos embarcados;</li>
- <li>Conhecimento
-     em diagnóstico de falhas em placas eletrônicas e em uso de
-     instrumentos como multímetro).</li>
- <li>Familiaridade
-     com configuração de sistemas de detecção e alarme de
-     incêndio será um diferencial (preferencialmente
-     Deltafire); mover para tópico abaixo;</li>
- <li>Leitura
-     e interpretação de esquemas elétricos, manuais técnicos e diagramas
-     lógicos;</li>
-</ul>
-
-·       Disponibilidade de viagem;
-
-<ul>
- <li>CNH
-     B ativa.</li>
-</ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário compatível com o cargo;</li><li>Transporte pela empresa;</li><li>Refeição no local;</li><li>Ticket alimentação;</li><li>Prêmio por assiduidade;</li><li>Seguro de vida;</li><li>Plano de saúde;</li><li>Bolsa de estudos;</li><li>Treinamentos e oportunidades de crescimento.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmaconeglian/22/tecnico-em-eletronica-sistemas-de-deteccao-e-alarme-de-incendio?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[3735144]]></companyId>
     <city><![CDATA[Lençóis Paulista]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -27533,6 +27342,26 @@ trabalho efetivos)</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[0544360e-f3c7-4f26-9a4f-6d655cd4827e]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[0544360e-f3c7-4f26-9a4f-6d655cd4827e]]></partnerRequisitionId>
+    <company><![CDATA[iBen Engenharia]]></company>
+    <title><![CDATA[Engenheiro de Segurança do Trabalho]]></title>
+    <posterEmail><![CDATA[aline.santos@iben.eng.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Engenheiro(a) de Segurança do Trabalho para atuar em apoio direto aos canteiros de obra, com foco em prevenção de riscos, tratativas em campo e resolução ágil de não conformidades, evitando acidentes, autuações e embargos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar acompanhamento in loco nos canteiros de obra, identificando situações de risco e não conformidades operacionais</li><li>Conduzir análises de risco em atividades críticas (trabalho em altura, espaço confinado, movimentação de cargas, escavações, entre outras)</li><li>Elaborar e conduzir Planos de Ação para tratativa de desvios identificados, com prazos e responsáveis definidos</li><li>Atuar preventivamente na mitigação de riscos que possam gerar acidentes de trabalho, autuações ou embargos</li><li>Apoiar a atualização e aplicação de PGR, PCMSO, PAE e demais documentos técnicos de SST</li><li>Garantir aderência às NRs aplicáveis (NR-18, NR-35, NR-01, NR-06, NR-12, entre outras) e às normas ISO 45001</li><li>Investigar acidentes e quase-acidentes, propondo ações corretivas e de melhoria contínua</li><li>Treinar e orientar equipes de obra e técnicos de segurança quanto a procedimentos e boas práticas</li><li>Interagir com órgãos fiscalizadores (Ministério do Trabalho, CREA, Corpo de Bombeiros) em vistorias e fiscalizações</li><li>Reportar indicadores de segurança e status de planos de ação à coordenação de SGI</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo em Engenheira e pós ou especialização em segurança do trabalho.</li><li>Experiência no segmento de construção civil.</li><li>Conhecimento aprofundado das NRs aplicáveis à construção civil (NR-18, NR-35, NR-06, NR-12, NR-01, entre outras)</li><li>Disponibilidade para deslocamento frequente e atuação temporária em diferentes canteiros</li><li>Vivência com rotinas de SGI (ISO 45001) é um diferencial</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ibenvagas/65/engenheiro-de-seguranca-do-trabalho?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3042725]]></companyId>
+    <city><![CDATA[Indaiatuba]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[6019ebbb-b7cb-4d84-9a18-a107fa7c9946]]></partnerJobId>
     <partnerRequisitionId><![CDATA[6019ebbb-b7cb-4d84-9a18-a107fa7c9946]]></partnerRequisitionId>
     <company><![CDATA[iBen Engenharia]]></company>
@@ -30460,6 +30289,26 @@ Seguro de vida;]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/762/agente-comercial-motoqueiro?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[9250455]]></companyId>
     <city><![CDATA[Macaé]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[31855c03-791a-4f02-96f8-45bd30246e19]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[31855c03-791a-4f02-96f8-45bd30246e19]]></partnerRequisitionId>
+    <company><![CDATA[Ceneged]]></company>
+    <title><![CDATA[ASSISTENTE DE DP]]></title>
+    <posterEmail><![CDATA[lucianadantas@ceneged.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é uma pessoa dinâmica, proativa e focada em resultados, esta pode ser a oportunidade que você estava esperando! Estamos em busca de um profissional para integrar nosso time de Leitura. Aqui, valorizamos o trabalho em equipe, o comprometimento e a vontade de aprender. Se você se identifica com essas características e busca crescimento profissional, venha fazer parte do nosso time!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>      Controlar as matrículas de empregados, inclusões e exclusões no sistema;</li><li>     Apoiar nas integrações; </li><li>     Controle de benefícios</li><li>     Controle de faltas/suspensão;</li><li>     Auxiliar no relatório de ponto</li><li>     Auxiliar nas obrigações trabalhistas;</li><li>      Atendimento e suporte aos colaboradores</li><li>     Solicitação de benefícios (Vale alimentação / Vale transporte); </li><li>     Cadastro e exclusão do portal do Plano de Saúde e Odonto;</li><li>     Alimentar e consultar dados no sistema Protheus</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo;<br />Conhecimento no pacote office;<br />Vivencia em rotina de Departamento Pessoal.  <br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário compatível com o mercado;</li><li>Plano de saúde e odontológico 100%;</li><li>Bulla Saúde plataforma para cuidar da saúde física e mental (Telemedicina 24h para colaboradores/dependentes e muito mais benefícios);</li><li>Seguro de vida;</li><li>Programa de Apoio Psicológico;</li><li>Wellhub;</li><li>Vale Alimentação – Alelo;</li><li> Kit maternidade - Baby Ceneged;</li><li> Vale transporte.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/773/assistente-de-dp?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[9250455]]></companyId>
+    <city><![CDATA[Rio das Ostras]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -44112,6 +43961,26 @@ Manter o bom convívio no ambiente de trabalho e evitar confrontos desnecessári
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[fbde3416-6f2e-41ed-9b40-d4da0c6231ed]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[fbde3416-6f2e-41ed-9b40-d4da0c6231ed]]></partnerRequisitionId>
+    <company><![CDATA[PERFORMA_IT]]></company>
+    <title><![CDATA[Desenvolvedor .net Senior]]></title>
+    <posterEmail><![CDATA[ivana.freitas@performait.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Desenvolvedor(a) Backend Sênior</strong>, com sólida experiência em .NET e conhecimentos em Angular, para atuar no desenvolvimento e na evolução de soluções tecnológicas, contribuindo com a construção de aplicações robustas, escaláveis e de alta qualidade.Buscamos uma pessoa com forte capacidade analítica, autonomia, visão de arquitetura e interesse em compartilhar conhecimentos, colaborar com o time e propor melhorias contínuas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver, manter e evoluir aplicações backend utilizando .NET e C#.</li><li>Construir e integrar APIs RESTful e serviços para comunicação entre sistemas.</li><li>Atuar na integração entre backend e frontend, utilizando Angular.</li><li>Participar de decisões técnicas e contribuir para a definição de soluções de arquitetura de software.</li><li>Garantir a qualidade, a segurança, o desempenho e a escalabilidade das aplicações.</li><li>Desenvolver testes automatizados e realizar revisões de código (code reviews).</li><li>Identificar problemas técnicos, propor melhorias e atuar na otimização de aplicações existentes.</li><li>Colaborar com profissionais de diferentes áreas, participando de discussões técnicas e decisões de produto.</li><li>Contribuir para a melhoria contínua dos processos, práticas de desenvolvimento e qualidade das entregas.</li><li>Apoiar tecnicamente outros desenvolvedores, compartilhando conhecimentos e boas práticas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida em desenvolvimento de software utilizando <strong>.NET e C#</strong>.</li><li>Experiência no desenvolvimento e consumo de APIs RESTful.</li><li>Conhecimentos em Angular, TypeScript, HTML e CSS.</li><li>Experiência com bancos de dados relacionais e desenvolvimento de consultas SQL.</li><li>Conhecimento de princípios de arquitetura de software, padrões de projeto e boas práticas de programação.</li><li>Experiência com controle de versão utilizando Git.</li><li>Conhecimento em testes automatizados e práticas de qualidade de código.</li><li>Familiaridade com metodologias ágeis, como Scrum ou Kanban.</li><li>Capacidade de analisar problemas complexos e propor soluções técnicas eficientes.</li><li>Boa comunicação, autonomia, colaboração e senso de responsabilidade pelas entregas.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li> Jornada de Trabalho: 40h semanais</li><li> Convênio Médico</li><li> Convênio Odontológico</li><li>️‍♀️ WellHub</li><li>❤️ Seguro Vida</li><li> Auxilio Alimentação/Refeição</li><li> Parceria com escolas de Inglês e espanhol</li><li> Day Off de Aniversário</li><li> / Subsídio da máquina (notebook, computador)</li><li>️ Descanso Remunerado</li><li> Bônus Anual</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/performait/187/desenvolvedor-net-senior?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[548725]]></companyId>
+    <city><![CDATA[Campinas]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[3474c7d2-b6e6-4bc9-857a-94ba91cd3db8]]></partnerJobId>
     <partnerRequisitionId><![CDATA[3474c7d2-b6e6-4bc9-857a-94ba91cd3db8]]></partnerRequisitionId>
     <company><![CDATA[PERFORMA_IT]]></company>
@@ -45621,6 +45490,52 @@ informática básica</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[77d741ce-5466-44b6-b2c9-a078aec10dfb]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[77d741ce-5466-44b6-b2c9-a078aec10dfb]]></partnerRequisitionId>
+    <company><![CDATA[Cardeal Distribuidora]]></company>
+    <title><![CDATA[PROMOTOR DE VENDAS- TIMBAÚBA]]></title>
+    <posterEmail><![CDATA[rodrigo.queiroz@cardealdistribuidora.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é comunicativo(a), proativo(a) e está em busca de
+crescimento profissional, essa é a sua chance de se unir a uma equipe inovadora
+e em constante evolução.   Aguardamos sua candidatura!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
+ <li>Realizar
+     abordagem a clientes em potencial para promover produtos e serviços.</li>
+ <li>Apresentar
+     e demonstrar produtos de maneira atraente e informativa.</li>
+ <li>Participar
+     de eventos para divulgação da marca e produtos.</li>
+ <li>Colaborar
+     com a equipe de vendas para atingir metas estabelecidas.</li>
+ <li>Levantar
+     as necessidades de abastecimento;</li>
+ <li>Realizar
+     o rodizio do estoque;</li>
+ <li>Fazer
+     o abastecimento das gôndolas.</li>
+ <li>Garantir
+     a correta exposição dos produtos.</li>
+ <li>Garantir
+     que todos os itens expostos no PDV estejam precificados corretamente;</li>
+ <li>Fazer
+     a manutenção dos materiais de merchandising.</li>
+</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo</li><li>Experiência prévia com atendimento
+ao cliente e reposição de mercadoria Residir na região </li><li>Disponibilidade para
+trabalhar de segunda a sábado</li><li>Disponibilidade para viagens </li><li>Conhecimento em
+informática básica</li><li>CNH/ Transporte próprio</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Ajuda de custo    </li><li>Clube de desconto</li><li>Totalpass</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cardealdistribuidoravagas/687/promotor-de-vendas-timbauba?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11322443]]></companyId>
+    <city><![CDATA[Timbaúba]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[48ee1432-2833-45ef-83ef-dbcc244c0adb]]></partnerJobId>
     <partnerRequisitionId><![CDATA[48ee1432-2833-45ef-83ef-dbcc244c0adb]]></partnerRequisitionId>
     <company><![CDATA[Grupo EP]]></company>
@@ -47023,34 +46938,6 @@ Disponibilidade para atuar de forma presencial, com visitas externas a clientes 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[4de51cb4-33c4-4747-b877-beee531df68d]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[4de51cb4-33c4-4747-b877-beee531df68d]]></partnerRequisitionId>
-    <company><![CDATA[Bianchini]]></company>
-    <title><![CDATA[Técnico de produção JR]]></title>
-    <posterEmail><![CDATA[recrutamento@bianchinisa.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Técnico de Produção Júnior altamente atento a parâmetros industriais para atuar diretamente no coração da nossa operação de processamento, no setor de Preparação de Soja. Este profissional será responsável por garantir a excelência operacional das nossas máquinas, mantendo o controle rigoroso de qualidade, temperatura e fluxo dos grãos. Se você busca desenvolvimento no setor industrial do agronegócio e possui disponibilidade de horários, venha fazer parte da nossa produção.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Controlar o fluxo de soja para a produção, monitorando a quantidade de produto na saída do silo pulmão e na balança de fluxo.</li><li>Operar os equipamentos do processo de preparação com segurança e eficiência.</li><li>Controlar os transportadores de soja, o processo de formação de lâminas e a massa expandida.</li><li>Monitorar e ajustar a granulometria da soja quebrada de acordo com os padrões exigidos.</li><li>Controlar rigorosamente a espessura da lâmina de soja durante a produção.</li><li>Acompanhar e controlar a temperatura da soja quebrada e laminada para garantir a qualidade da extração.</li><li>Operar os sistemas de transporte industrial integrados ao setor.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino Médio completo (Requisito Obrigatório).</li><li>Disponibilidade total para atuar em turnos (Requisito Obrigatório).</li><li>Vivência prévia em chão de fábrica, operação de máquinas ou rotinas industriais.</li><br /><br /><b>Benefícios</b><br /><br /><li>Vale-alimentação</li><li>Restaurante na empresa</li><li>Vale-transporte</li><li>Assistência médica</li><li>Assistência odontológica</li><li>Bonificação de final de ano</li><li>Auxílio-educação</li><li>Universidade corporativa</li><li>Ginástica laboral</li><li>Plano de carreira</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bianchinivagas/276/tecnico-de-producao-jr?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[1352906]]></companyId>
-    <city><![CDATA[Canoas]]></city>
-    <state><![CDATA[Rio Grande do Sul]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[3000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2400.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[0b8e19a7-e6d2-4cca-b78b-b6f75f0917d5]]></partnerJobId>
     <partnerRequisitionId><![CDATA[0b8e19a7-e6d2-4cca-b78b-b6f75f0917d5]]></partnerRequisitionId>
     <company><![CDATA[Bianchini]]></company>
@@ -47070,48 +46957,6 @@ Disponibilidade para atuar de forma presencial, com visitas externas a clientes 
         </highEnd>
         <lowEnd>
           <amount><![CDATA[2400.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a08e0d01-2be4-47c9-ac06-6ed8cfe29838]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[a08e0d01-2be4-47c9-ac06-6ed8cfe29838]]></partnerRequisitionId>
-    <company><![CDATA[Bianchini]]></company>
-    <title><![CDATA[Caldeireiro JR]]></title>
-    <posterEmail><![CDATA[recrutamento@bianchinisa.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um Caldeireiro Júnior para atuar de segunda a sexta-feira, das 07:30 às 17:33. A função exige habilidade prática e disposição para trabalhos manuais, além de atenção à segurança e aos detalhes técnicos. É uma excelente oportunidade para profissionais que desejam crescer em um ambiente industrial desafiador e estruturado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar serviços de caldeiraria como cortes, dobras, montagem e soldagem de peças metálicas<br />
-Executar manutenção e fabricação de estruturas metálicas, dutos, suportes, chapas e componentes industriais<br />
-Utilizar ferramentas manuais e máquinas operatrizes de caldeiraria conforme as normas técnicas e de segurança<br />
-Interpretar desenhos técnicos e especificações para execução das atividades<br />
-Colaborar com a equipe de manutenção e seguir os procedimentos internos de segurança e qualidade<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo<br />
-Curso de caldeireiro ou áreas correlatas<br />
-Conhecimento em leitura e interpretação de desenhos técnicos<br />
-Disponibilidade para trabalhar de segunda a sexta-feira, das 07:30 às 17:33<br />
-Responsabilidade, proatividade e bom relacionamento interpessoal<br /><br /><b>Benefícios</b><br /><br />Assistência médica<br />
-Assistência odontológica<br />
-Vale-alimentação<br />
-Restaurante no local<br />
-Vale-transporte<br />
-Cartão farmácia<br />
-Abono de final de ano]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bianchinivagas/271/caldeireiro-jr?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[1352906]]></companyId>
-    <city><![CDATA[Canoas]]></city>
-    <state><![CDATA[Rio Grande do Sul]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[3800.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[2800.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
@@ -54167,26 +54012,6 @@ Aplicada ou correlatas. </li><li> Python </li><li>SQL </li><li>Machine Learning 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[1a0dedde-55b6-4a0c-9979-2c3ed1d347ad]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[1a0dedde-55b6-4a0c-9979-2c3ed1d347ad]]></partnerRequisitionId>
-    <company><![CDATA[GS Inima Brasil]]></company>
-    <title><![CDATA[Operador(a) Volante]]></title>
-    <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />❇️ Este cargo é responsável por executar atividades operacionais em diferentes áreas da planta, conforme demanda e escala de trabalho. Atua de forma itinerante, deslocando-se entre unidades para prestar suporte operacional em equipamentos, monitoramento de processos e movimentação de materiais. Contribui para a continuidade das rotinas produtivas, respeitando os padrões de segurança, qualidade e eficiência definidos pela organização. Realiza suas atividades conforme procedimentos internos e requisitos legais aplicáveis.<br /><br />⏱️ <b>Horário: </b><b>ESCALA 2X2 - 06:00 ÀS 18:00 COM 1:00 REFEIÇÃO</b><br /><br />️ Vale Alimentação / Refeição – apoio para suas refeições diárias;<br /> Cesta de Natal – um carinho especial no fim do ano;<br /> Plano de Saúde – cuidado completo para você;<br /> Plano Odontológico – saúde bucal sempre em dia;<br />️ Seguro de Vida sem custo – proteção para você e sua família;<br /> Vale Transporte – facilidade no deslocamento diário;<br /> Auxílio Medicamento – suporte financeiro para tratamentos e prescrições;<br />️ Wellhub – acesso a academias e atividades físicas;<br /> Pluxee Cuida – apoio psicológico, social, nutricional e consultorias.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Realizar atividades operacionais em diferentes setores conforme escala e necessidade da área;<br />• Operar equipamentos e sistemas produtivos de acordo com os procedimentos técnicos/operacionais estabelecidos;<br />• Monitorar o funcionamento de máquinas e instalações, identificando desvios e reportando ocorrências;<br />• Controlar o fluxo de materiais e insumos durante os processos produtivos;<br />• Executar tarefas de limpeza, organização e conservação das áreas operacionais;<br />• Registrar dados operacionais em sistemas e formulários específicos;<br />• Cumprir normas de segurança, meio ambiente e saúde ocupacional durante todas as atividades;<br />• Apoiar na movimentação de cargas e materiais, utilizando equipamentos apropriados;<br />• Realizar inspeções visuais e verificações básicas conforme padrões de qualidade;<br />• Conduzir veículo da empresa para deslocamento entre unidades e execução das atividades.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b></b><b>Formação: </b>Ensino Médio Completo<br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Alimentação/ Vale Refeição</li><li>Cesta de Natal</li><li>Plano de Saúde</li><li>Plano Odontológico</li><li>Seguro de Vida</li><li>Vale Transporte</li><li>Auxílio medicamento</li></ul><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/631/operador-a-volante?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[36870042]]></companyId>
-    <city><![CDATA[Aracruz]]></city>
-    <state><![CDATA[Espírito Santo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[374db729-6352-4026-8f20-79a0942f8df5]]></partnerJobId>
     <partnerRequisitionId><![CDATA[374db729-6352-4026-8f20-79a0942f8df5]]></partnerRequisitionId>
     <company><![CDATA[GS Inima Brasil]]></company>
@@ -54194,26 +54019,6 @@ Aplicada ou correlatas. </li><li> Python </li><li>SQL </li><li>Machine Learning 
     <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />❇️Responsável por manutenção elétrica preventiva e corretiva, testes e ajustes em sistemas, pequenos reparos, análise de ordens de serviço, emissão de pareceres técnicos e implementação de melhorias, seguindo normas de segurança e registrando atividades realizadas.<br /><br />⏱️ <b>Horário:</b><br />• ESCALA 2X2 - 07:00 ÀS 19:00 COM 1:00 REFEIÇÃO<br /><br /><br /><br />️ <b>Vale Alimentação / Refeição</b> – apoio para suas refeições diárias;<br /><b> Cesta de Natal</b> – um carinho especial no fim do ano;<br /><b> Plano de Saúde</b> – cuidado completo para você;<br /> <b>Plano Odontológico</b> – saúde bucal sempre em dia;<br />️ <b>Seguro de Vida sem custo</b> – proteção para você e sua família;<br /> <b>Vale Transporte</b> – facilidade no deslocamento diário;<br /> <b>Auxílio Medicamento</b> – suporte financeiro para tratamentos e prescrições;<br />️<b> Wellhub</b> – acesso a academias e atividades físicas;<br /><b> Pluxee Cuida</b> – apoio psicológico, social, nutricional e consultorias.<b></b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Executar manutenção preventiva e corretiva em motores e painéis elétricos;<br />• Conduzir testes e ajustes para resolver problemas em sistemas e equipamentos;<br />• Realizar pequenos reparos de oxicorte e solda, conforme necessidade;<br />• Identificar e corrigir defeitos e anormalidades elétricas;<br />• Substituir partes e peças elétricas conforme diretrizes e acompanhar atividades correlatas;<br />• Cumprir normas de segurança e participar de treinamentos, utilizando EPIs adequadamente;<br />• Documentar serviços realizados e coordenar materiais necessários para execução;<br />• Analisar Ordens de Serviço e, em conjunto com a gestão, priorizar serviços elétricos;<br />• Emitir pareceres sobre propostas de equipamentos e sistemas elétricos;<br />• Avaliar e implementar melhorias operacionais para aumentar eficiência e reduzir custos.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b></b><b>Formação: </b> Ensino Técnico Completo<br /> <b>Áreas:</b> Eletrotécnica, Automação, Eletricista Industrial, Eletromecânica.<br /><br /><br />*️⃣ CNH válida (categoria B ou superior).<br /><br /><br /><b>Benefícios</b><br /><br /> Vale Alimentação / Refeição;<br /> Cesta de Natal;<br /> Plano de Saúde;<br /> Plano Odontológico;<br /> Seguro de Vida sem custo;<br /> Vale Transporte;<br /> Auxílio Medicamento;<br /> Wellhub;<br /> Pluxee Cuida.<br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/619/eletricista-de-manutencao-jr?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[36870042]]></companyId>
-    <city><![CDATA[Bom Jesus do Norte]]></city>
-    <state><![CDATA[Espírito Santo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3d15dac7-604f-4544-b8d6-316698be0346]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[3d15dac7-604f-4544-b8d6-316698be0346]]></partnerRequisitionId>
-    <company><![CDATA[GS Inima Brasil]]></company>
-    <title><![CDATA[Mecânico de Manutenção Jr]]></title>
-    <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />❇️ Este cargo é responsável por executar serviços de manutenção mecânica corretiva e preventiva em equipamentos operacionais, conforme padrões técnicos estabelecidos. Atua na montagem, inspeção e verificação funcional de bombas, motores, redutores, válvulas e sistemas auxiliares. Realiza testes, registros técnicos e análises de funcionamento, contribuindo para a redução de falhas e continuidade dos processos. Apoia na identificação de melhorias operacionais e na solicitação de materiais conforme demanda técnica.<br /><br /><br />⏱️ <b>Horário:</b><br />• ESCALA 2X2 - 07:00 ÀS 19:00 COM 1:00 REFEIÇÃO<br /><br /><br />️ Vale Alimentação / Refeição – apoio para suas refeições diárias;<br /> Cesta de Natal – um carinho especial no fim do ano;<br /> Plano de Saúde – cuidado completo para você;<br /> Plano Odontológico – saúde bucal sempre em dia;<br />️ Seguro de Vida sem custo – proteção para você e sua família;<br /> Vale Transporte – facilidade no deslocamento diário;<br /> Auxílio Medicamento – suporte financeiro para tratamentos e prescrições;<br />️ Wellhub – acesso a academias e atividades físicas;<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Executar serviços de manutenção mecânica corretiva e preventiva em equipamentos;<br />• Realizar montagem, desmontagem, alinhamento e regulagem de bombas, motores e redutores;<br />• Efetuar lubrificação, troca de peças e ajustes conforme plano de manutenção;<br />• Participar de testes operacionais, consolidando dados e observações técnicas;<br />• Registrar informações nas Ordens de Serviço, incluindo materiais utilizados e horários de execução;<br />• Identificar e solicitar materiais e insumos necessários para execução das atividades;<br />• Avaliar condições de funcionamento e propor melhorias técnicas junto à equipe de manutenção;<br />• Realizar inspeções planejadas em equipamentos, instrumentos de medição e sistemas auxiliares;<br />• Executar serviços de conservação, como pintura, limpeza e organização de áreas técnicas;<br />• Cumprir normas de segurança, qualidade e meio ambiente, utilizando EPIs e procedimentos operacionais.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b></b><b>Formação:</b> Ensino Técnico.<br /> <b>Áreas:</b>  Técnico em Mecânica, Técnico em Manutenção Industrial ou áreas correlatas.<br /><br /><br /><br /><b>Benefícios</b><br /><br /> Vale Alimentação / Refeição;<br /> Cesta de Natal;<br /> Plano de Saúde;<br /> Plano Odontológico;<br /> Seguro de Vida sem custo;<br /> Vale Transporte;<br /> Auxílio Medicamento;<br /> Wellhub;<br /><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/618/mecanico-de-manutencao-jr?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[36870042]]></companyId>
     <city><![CDATA[Bom Jesus do Norte]]></city>
     <state><![CDATA[Espírito Santo]]></state>
@@ -54567,26 +54372,6 @@ negócio.
     <posterEmail><![CDATA[ricardo.jovenato@gsinima.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />❇️ Responsável por executar processos de compras e gestão contratual de médio porte e complexidade, assegurando conformidade com a política de suprimentos e diretrizes corporativas. Atua na aquisição de materiais, equipamentos e serviços (CAPEX e OPEX), administração contratual, controle de almoxarifado e suporte às rotinas de estoque. Realiza análises técnicas e econômicas, negociações, follow-up e emissão de relatórios, garantindo qualidade, prazo e custo, além de utilizar o sistema SAP para gestão dos processos.<br /><br />⏱️ <b>Horário: </b>07h00 às 17h00 com 1h00 de Intervalo / Refeição | Às sextas-feiras a Saída é às 16h00.<br />️ <b>Vale Alimentação / Refeição</b> – apoio para suas refeições diárias;<br /> <b>Cesta de Natal</b> – um carinho especial no fim do ano;<br /> <b>Plano de Saúde</b> – cuidado completo para você;<br /> <b>Plano Odontológico</b> – saúde bucal sempre em dia;<br />️ <b>Seguro de Vida sem custo</b> – proteção para você e sua família;<br /> <b>Vale Transporte</b> – facilidade no deslocamento diário;<br /><b> Auxílio Medicamento</b> – suporte financeiro para tratamentos e prescrições;<br />️ <b>Wellhub</b> – acesso a academias e atividades físicas.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Executar processos de compras de médio porte e complexidade, envolvendo cotação, negociação e contratação;<br />• Garantir conformidade com a política de suprimentos, normas internas e diretrizes corporativas;<br />• Realizar administração contratual, incluindo elaboração de termos, aditivos e acompanhamento de prazos;<br />• Apoiar na avaliação técnica e econômica de contratos e fornecedores;<br />• Efetuar follow-up dos processos e monitorar prazos de entrega;<br />• Elaborar relatórios técnicos, gerenciais e indicadores de desempenho;<br />• Utilizar o sistema SAP para gestão de requisições, cotações, pedidos e contratos;<br />• Colaborar na gestão do almoxarifado e controle de estoque, incluindo inventários e movimentações;<br />• Apoiar processos de importação e logística, quando necessário;<br />• Participar do desenvolvimento e homologação de fornecedores, garantindo qualidade e <i>Compliance</i>;<br />• Contribuir para manutenção das certificações ISO e atendimento aos requisitos do SGI.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b></b><b>Formação:</b> Superior Completo.<br /> <b>Áreas de formação:</b> Administração, Ciências Contábeis, Economia, Engenharia de Produção ou áreas correlatas.<br /><br /><br /><br /><b>Benefícios</b><br /><br /> Vale Alimentação / Refeição;<br /> Cesta de Natal;<br /> Plano de Saúde;<br /> Plano Odontológico;<br /> Seguro de Vida sem custo;<br /> Vale Transporte;<br /> Auxílio Medicamento;<br /> Wellhub.<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/607/analista-de-suprimentos?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[36870042]]></companyId>
-    <city><![CDATA[Vitória]]></city>
-    <state><![CDATA[Espírito Santo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1bb38c33-c5f2-4b47-97fe-1c269b7ed09a]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[1bb38c33-c5f2-4b47-97fe-1c269b7ed09a]]></partnerRequisitionId>
-    <company><![CDATA[GS Inima Brasil]]></company>
-    <title><![CDATA[Mecânico de Manutenção]]></title>
-    <posterEmail><![CDATA[fernanda.lins@gsinima.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />❇️ Este cargo é responsável por executar serviços de manutenção mecânica corretiva e preventiva em equipamentos operacionais, conforme padrões técnicos estabelecidos. Atua na montagem, inspeção e verificação funcional de bombas, motores, redutores, válvulas e sistemas auxiliares. Realiza testes, registros técnicos e análises de funcionamento, contribuindo para a redução de falhas e continuidade dos processos. Apoia na identificação de melhorias operacionais e na solicitação de materiais conforme demanda técnica.<br /><br /><br />⏱️ <b>Horário: </b>Disponibilidade para trabalhar em escala.<br /><br /><br /><br /><br />️ Vale Alimentação / Refeição – apoio para suas refeições diárias;<br /> Cesta de Natal – um carinho especial no fim do ano;<br /> Plano de Saúde – cuidado completo para você;<br /> Plano Odontológico – saúde bucal sempre em dia;<br />️ Seguro de Vida sem custo – proteção para você e sua família;<br /> Vale Transporte – facilidade no deslocamento diário;<br /> Auxílio Medicamento – suporte financeiro para tratamentos e prescrições;<br />️ Wellhub – acesso a academias e atividades físicas;<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Executar serviços de manutenção mecânica corretiva e preventiva em equipamentos;<br />• Realizar montagem, desmontagem, alinhamento e regulagem de bombas, motores e redutores;<br />• Efetuar lubrificação, troca de peças e ajustes conforme plano de manutenção;<br />• Participar de testes operacionais, consolidando dados e observações técnicas;<br />• Registrar informações nas Ordens de Serviço, incluindo materiais utilizados e horários de execução;<br />• Identificar e solicitar materiais e insumos necessários para execução das atividades;<br />• Avaliar condições de funcionamento e propor melhorias técnicas junto à equipe de manutenção;<br />• Realizar inspeções planejadas em equipamentos, instrumentos de medição e sistemas auxiliares;<br />• Executar serviços de conservação, como pintura, limpeza e organização de áreas técnicas;<br />• Cumprir normas de segurança, qualidade e meio ambiente, utilizando EPIs e procedimentos operacionais.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b></b><b>Formação:</b> Ensino Técnico.<br /> <b>Áreas:</b>  Técnico em Mecânica, Técnico em Manutenção Industrial ou áreas correlatas.<br /><br /><br /><br /><b>Benefícios</b><br /><br /> Vale Alimentação / Refeição;<br /> Cesta de Natal;<br /> Plano de Saúde;<br /> Plano Odontológico;<br /> Seguro de Vida sem custo;<br /> Vale Transporte;<br /> Auxílio Medicamento;<br /> Wellhub;<br /><br /><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgsinima/605/mecanico-de-manutencao?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[36870042]]></companyId>
     <city><![CDATA[Vitória]]></city>
     <state><![CDATA[Espírito Santo]]></state>
@@ -56664,26 +56449,6 @@ Capacidade de aprendizado e interesse em acompanhar tendências de Marketing e r
     <posterEmail><![CDATA[luis.henrique@ppa.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto(a) para fazer parte de uma equipe dinâmica e inovadora? Temos uma oportunidade imperdível para pessoas que buscam crescimento profissional em um ambiente desafiador e colaborativo. Aqui, valorizamos a dedicação e a habilidade de transformar ideias em realidades concretas, proporcionando um espaço onde cada contribuição é reconhecida e celebrada. Ao ingressar em nossa equipe, você terá a chance de desenvolver suas capacidades, aprender com profissionais experientes e ainda participar de projetos que estão na vanguarda do setor. Se você está em busca de um novo desafio e deseja se juntar a uma empresa que prioriza o desenvolvimento de seus colaboradores e a excelência em suas operações, nós queremos conhecer você. Venha fazer parte da nossa história e construir o futuro ao nosso lado!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Montar e montar estruturas, equipamentos e componentes de acordo com as especificações técnicas e desenhos fornecidos.<br /> - Realizar a verificação de peças e ferramentas necessárias para o trabalho de montagem.<br /> - Assegurar a qualidade da montagem, realizando testes e inspeções durante o processo.<br /> - Manter a organização e limpeza da área de trabalho.<br /> - Cumprir prazos estabelecidos para a finalização das tarefas.<br /> - Colaborar com a equipe para resolver problemas e melhorar processos de montagem.<br /> - Reportar anomalias e solicitar materiais ou ferramentas adicionais quando necessário.<br /> - Seguir normas de segurança e procedimentos da empresa durante a execução das atividades.<br /> - Participar de treinamentos e capacitações conforme orientação da empresa.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental completo<br /> - Experiência prévia em montagem de produtos<br /> - Conhecimento em leitura e interpretação de manuais e desenhos técnicos<br /> - Habilidade com ferramentas manuais e elétricas<br /> - Capacidade de trabalhar em equipe<br /> - Boa coordenação motora<br /> - Comprometimento com prazos e qualidade do trabalho<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasppa/151/montador?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[71223568]]></companyId>
-    <city><![CDATA[Garça]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[cf247f86-b2e4-4924-aee0-cb3e5012da1d]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[cf247f86-b2e4-4924-aee0-cb3e5012da1d]]></partnerRequisitionId>
-    <company><![CDATA[PPA]]></company>
-    <title><![CDATA[Montador]]></title>
-    <posterEmail><![CDATA[luis.henrique@ppa.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto(a) para fazer parte de uma equipe dinâmica e inovadora? Temos uma oportunidade imperdível para pessoas que buscam crescimento profissional em um ambiente desafiador e colaborativo. Aqui, valorizamos a dedicação e a habilidade de transformar ideias em realidades concretas, proporcionando um espaço onde cada contribuição é reconhecida e celebrada. Ao ingressar em nossa equipe, você terá a chance de desenvolver suas capacidades, aprender com profissionais experientes e ainda participar de projetos que estão na vanguarda do setor. Se você está em busca de um novo desafio e deseja se juntar a uma empresa que prioriza o desenvolvimento de seus colaboradores e a excelência em suas operações, nós queremos conhecer você. Venha fazer parte da nossa história e construir o futuro ao nosso lado!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Montar e montar estruturas, equipamentos e componentes de acordo com as especificações técnicas e desenhos fornecidos.<br /> - Realizar a verificação de peças e ferramentas necessárias para o trabalho de montagem.<br /> - Assegurar a qualidade da montagem, realizando testes e inspeções durante o processo.<br /> - Manter a organização e limpeza da área de trabalho.<br /> - Cumprir prazos estabelecidos para a finalização das tarefas.<br /> - Colaborar com a equipe para resolver problemas e melhorar processos de montagem.<br /> - Reportar anomalias e solicitar materiais ou ferramentas adicionais quando necessário.<br /> - Seguir normas de segurança e procedimentos da empresa durante a execução das atividades.<br /> - Participar de treinamentos e capacitações conforme orientação da empresa.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental completo<br /> - Experiência prévia em montagem de produtos<br /> - Conhecimento em leitura e interpretação de manuais e desenhos técnicos<br /> - Habilidade com ferramentas manuais e elétricas<br /> - Capacidade de trabalhar em equipe<br /> - Boa coordenação motora<br /> - Comprometimento com prazos e qualidade do trabalho<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasppa/152/montador?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[71223568]]></companyId>
     <city><![CDATA[Garça]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -102237,6 +102002,26 @@ Disponibilidade para trabalho em turnos.</li><br /><br /><br /><br /><br /><b>Be
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[3399d196-4447-4118-b40c-0ea00c8edf87]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[3399d196-4447-4118-b40c-0ea00c8edf87]]></partnerRequisitionId>
+    <company><![CDATA[Monfredini Transportes]]></company>
+    <title><![CDATA[Ajudante Geral]]></title>
+    <posterEmail><![CDATA[valeria.mendonca@monfredinitransportes.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar no Patio de Cajamar - Buscamos um profissional para atuar no suporte às atividades elétricas da frota e estrutura da transportadora, auxiliando a equipe de manutenção em serviços preventivos e corretivos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na lavagem e limpeza dos caminhões;</li><li>Auxiliar na descarga dos caminhões quando necessário;</li><li>Ajudar na organização e conservação do pátio;</li><li>Realizar pequenos serviços de manutenção no pátio, quando necessário;</li><li>Apoiar nas demais atividades operacionais do dia a dia.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio (desejável)</li><li>Experiencia na função será um diferencial. </li><li>Proatividade, organização e trabalho em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /> PLR duas vezes ao ano Plano de saúde e odontológico<br /> TotalPass<br /> Vale-refeição<br /> Vale-transporte<br /> Seguro de vida<br /> Plano de encarreiramento<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasmonfredini/34/ajudante-geral?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[97839514]]></companyId>
+    <city><![CDATA[Cajamar]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[36d0457f-f43d-434e-83f9-2a74d83b99d8]]></partnerJobId>
     <partnerRequisitionId><![CDATA[36d0457f-f43d-434e-83f9-2a74d83b99d8]]></partnerRequisitionId>
     <company><![CDATA[Monfredini Transportes]]></company>
@@ -112917,6 +112702,34 @@ como integração (Onbording) de novos clientes e colaboradores.
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[7d2d8ed3-fa6a-40a2-b88e-5b078c3782b4]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[7d2d8ed3-fa6a-40a2-b88e-5b078c3782b4]]></partnerRequisitionId>
+    <company><![CDATA[Avep Brasil]]></company>
+    <title><![CDATA[CONSULTO DE VENDAS EXTERNO -  GOIÂNIA]]></title>
+    <posterEmail><![CDATA[rh2@avepbrasil.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Consultor de Vendas Externo será responsável por prospectar novos associados, realizar visitas comerciais, apresentar os serviços de proteção veicular da AVEP Brasil e negociar propostas, buscando o fechamento de novas adesões e o crescimento da carteira de associados.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prospectar novos clientes e realizar visitas externas.</li><li>Apresentar os benefícios e diferenciais da proteção veicular.</li><li>Identificar as necessidades dos clientes e oferecer soluções adequadas.</li><li>Elaborar propostas comerciais e negociar novas adesões.</li><li>Participar de ações externas, eventos e campanhas comerciais.</li><li>Manter relacionamento com clientes e parceiros.</li><li>Acompanhar o processo de adesão até sua conclusão.</li><li>Atualizar o CRM e acompanhar metas e resultados.</li><li>Buscar novas oportunidades de vendas por meio de indicações e parcerias.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo.</li><li>Experiência com vendas externas ou prospecção de clientes.</li><li>Boa comunicação e habilidade de negociação.</li><li>Perfil proativo, organizado e focado em resultados.</li><li>Facilidade para criar relacionamentos comerciais.</li><li>Disponibilidade para trabalho externo.</li><li>CNH categoria B válida.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale-refeição; Vale transporte <br /></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/avepbrasil/13/consulto-de-vendas-externo-goiania?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[10885841]]></companyId>
+    <city><![CDATA[Goiânia]]></city>
+    <state><![CDATA[Goiás]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1800.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[ad68543d-cce3-4d8e-8dff-b66726e3bee8]]></partnerJobId>
     <partnerRequisitionId><![CDATA[ad68543d-cce3-4d8e-8dff-b66726e3bee8]]></partnerRequisitionId>
     <company><![CDATA[Avep Brasil]]></company>
@@ -115632,26 +115445,6 @@ secondee;</li><li>Contato com matérias
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[e158efa1-bfac-47f3-ac87-26a2d0e25631]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[e158efa1-bfac-47f3-ac87-26a2d0e25631]]></partnerRequisitionId>
-    <company><![CDATA[De Vivo, Castro, Cunha e Whitaker Advogados]]></company>
-    <title><![CDATA[Advogado(a) Pleno - Contencioso Cível]]></title>
-    <posterEmail><![CDATA[jsantana@devivocastro.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de Advogado(a) Pleno para integrar nossa equipe de Contencioso Cível. Procuramos um profissional com experiência sólida na área, domínio técnico e capacidade para atuar com autonomia na condução de demandas jurídicas. <br /><br />Buscamos um profissional com perfil analítico, organizado e proativo, que tenha senso de responsabilidade, atenção aos detalhes e capacidade de conduzir suas atividades com autonomia. É uma oportunidade para quem deseja continuar desenvolvendo sua trajetória no Contencioso Cível, em um ambiente dinâmico, colaborativo e de elevada exigência técnica.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Condução e acompanhamento de demandas judiciais e administrativas;</li><li>Elaboração e revisão de peças e documentos jurídicos;</li><li>Análise de casos e definição de estratégias;</li><li>Acompanhamento de prazos e atos processuais;</li><li>Pesquisa e análise de questões jurídicas;</li><li>Interação com clientes e atuação em equipe;</li><li>Orientação e apoio técnico a advogados(as) juniores e estagiários(as), contribuindo para o desenvolvimento da equipe.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação completa em Direito e OAB ativa;</li><li><b>Experiência mínima de 5 anos na área;</b></li><li><b>Resiliência: </b>Capacidade de trabalhar sob pressão, com prazos apertados e alta demanda processual;</li><li><b>Pensamento estratégico: </b>Habilidade para propor soluções criativas e não apenas operacionais; visão de negócio além do puro aspecto jurídico;</li><li><b>Comunicação: </b>Clareza na oralidade e na escrita; capacidade de traduzir linguagem jurídica para clientes não juristas</li><li><b>Trabalho em equipe: </b>Facilidade para trabalhar de forma colaborativa em equipes amplas, contribuindo para um ambiente integrado e produtivo.</li><li><b>Proatividade: </b>Autonomia para conduzir processos, antecipar riscos e sugerir melhorias de rotina.</li><li><b>Atenção aos detalhes: </b>Rigidez com prazos processuais, minucia nas peças e consistência nos argumentos.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de saúde;</li><li>Plano odontológico;</li><li>Seguro de vida;</li><li>Vale transporte ou estacionamento;</li><li>Bônus;</li><li>Wellhub.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/devivocastrocarreiras/9/advogado-a-pleno-contencioso-civel?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[552696]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[e0e6ed60-5bc9-4c4e-8895-63f77cd654ef]]></partnerJobId>
     <partnerRequisitionId><![CDATA[e0e6ed60-5bc9-4c4e-8895-63f77cd654ef]]></partnerRequisitionId>
     <company><![CDATA[De Vivo, Castro, Cunha e Whitaker Advogados]]></company>
@@ -117780,7 +117573,7 @@ balconista de medicamentos; </li><li> Facilidade de acesso à unidade de trabalh
     <company><![CDATA[Pagina do candidato _ Grupo Eldorado Veículos]]></company>
     <title><![CDATA[Social Media]]></title>
     <posterEmail><![CDATA[yasmin.lopes@eldoradobelem.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Um social media é responsável por planejar, criar, gerenciar e analisar conteúdos e estratégias nas redes sociais para fortalecer a presença digital de marcas e engajar o público-alvo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Domínio estratégico da plataforma;</li><li>Copywriting e roteirização para conversão;</li><li>Alinhamento com performance curadoria visual;</li><li>Habilidade para conceituar narrativas criativas, narrativas e temáticas;</li><li>Noções de captação de imagem e vídeo pelo celular e showroom para conteúdos de oportunidades;</li><li>Experiência prévia comprovada no seguimento automotivo;</li><li>Agilidade de varejo;</li><li>Trabalho em equipe.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Superior completo ou em andamento em Marketing, Publicidade e  Propaganda Jornalismo ou afins.Visão analítica;<br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de Saúde;</li><li>Plano Odontológico;</li><li>Vale Alimentação;</li><li>Vale transporte;</li></ul><br /><br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Um social media é responsável por planejar, criar, gerenciar e analisar conteúdos e estratégias nas redes sociais para fortalecer a presença digital de marcas e engajar o público-alvo.<br />Favor enviar portfólio<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Domínio estratégico da plataforma;</li><li>Copywriting e roteirização para conversão;</li><li>Alinhamento com performance curadoria visual;</li><li>Habilidade para conceituar narrativas criativas, narrativas e temáticas;</li><li>Noções de captação de imagem e vídeo pelo celular e showroom para conteúdos de oportunidades;</li><li>Experiência prévia comprovada no seguimento automotivo;</li><li>Agilidade de varejo;</li><li>Trabalho em equipe.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Superior completo ou em andamento em Marketing, Publicidade e  Propaganda Jornalismo ou afins.Visão analítica;<br />Envio de portfolio <br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de Saúde;</li><li>Plano Odontológico;</li><li>Vale Alimentação;</li><li>Vale transporte;</li></ul><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/eldoradocarreiras/4/social-media?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[93657492]]></companyId>
     <city><![CDATA[Belém]]></city>
@@ -119250,26 +119043,6 @@ farmácia.</li></ul>]]></description>
     <companyId><![CDATA[1145701]]></companyId>
     <city><![CDATA[Petrolina]]></city>
     <state><![CDATA[Pernambuco]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[cdb09d28-16d0-4408-8937-66b70cdc410b]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[cdb09d28-16d0-4408-8937-66b70cdc410b]]></partnerRequisitionId>
-    <company><![CDATA[JOTANUNES CONSTRUTORA LTDA]]></company>
-    <title><![CDATA[Técnico de Segurança do Trabalho]]></title>
-    <posterEmail><![CDATA[livia.prado@jotanunes.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar na orientação de colaboradores e prestadores de serviços quanto aos procedimentos de segurança, realizando o acompanhamento das atividades e contribuindo para a prevenção de acidentes e a promoção de um ambiente de trabalho seguro.<br /><br />Acreditamos na diversidade e na igualdade de oportunidades. Esta vaga também é destinada a pessoas com deficiência (PCDs).<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar inspeções de segurança, identificando riscos e condições inadequadas de trabalho;</li><li>Orientar colaboradores e terceiros quanto às normas e procedimentos de segurança;</li><li>Controlar a entrega e utilização de EPIs e EPCs;</li><li>Elaborar e acompanhar treinamentos, campanhas e ações de conscientização em segurança do trabalho;</li><li>Realizar análises e investigações de acidentes, bem como elaborar documentos relacionados;</li><li>Acompanhar a CIPA, SIPAT e demais programas de segurança e saúde ocupacional;</li><li>Realizar inspeções em máquinas, equipamentos, instalações e alojamentos;</li><li>Elaborar e controlar checklists, ordens de serviço, registros e demais documentos de segurança;</li><li>Acompanhar e atualizar os registros de riscos nos sistemas da empresa;</li><li>Apoiar a implementação de medidas preventivas e o cumprimento da legislação e dos procedimentos internos de segurança.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Curso Técnico em Segurança do Trabalho;</li><li>Registro profissional ativo, conforme legislação vigente;</li><li>Experiência desejável de 3 anos na área, preferencialmente no segmento da construção civil;</li><li>Conhecimento das Normas Regulamentadoras (NRs), CLT, normas ABNT e legislação previdenciária;</li><li>Conhecimento das atividades e métodos construtivos da construção civil;</li><li>Boa comunicação verbal e escrita;</li><li>Organização, atenção e senso de responsabilidade;</li><li>Boa capacidade de relacionamento interpessoal e trabalho em equipe.</li><br /><br /><b>Benefícios</b><br /><br />Vale alimentação<br />Vale refeição<br />Plano de saúdePlano odontológico<br />Total Pass<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/jotanunescarreiras/6/tecnico-de-seguranca-do-trabalho?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[1145701]]></companyId>
-    <city><![CDATA[Aracaju]]></city>
-    <state><![CDATA[Sergipe]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
