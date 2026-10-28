@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 28 Oct 2026 13:22:15 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 14:27:29 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[4236]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4228]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerRequisitionId>
@@ -1775,6 +1775,26 @@ ou MBA completos. Conhecimentos específicos: <br />● Pacote Office – Excel 
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Goiânia]]></city>
     <state><![CDATA[Goiás]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4b2fe1e7-b54d-40f6-9d05-34da6f2d4ff0]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[4b2fe1e7-b54d-40f6-9d05-34da6f2d4ff0]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de Software Backend Sênior - .NET]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Desenvolvedor(a) Backend Sênior (.NET) para atuar em um produto SaaS de alta escala, com foco em performance, resiliência e evolução contínua da plataforma. A atuação será em uma equipe que trabalha diretamente com regras de negócio fiscal, desenvolvendo soluções que lidam com cenários complexos da legislação tributária. Por isso, é importante ter interesse (ou experiência) em compreender regras fiscais e garantir que as implementações estejam corretas, consistentes e aderentes às necessidades do domínio.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver e evoluir serviços backend utilizando .NET com foco em performance e escalabilidade;</li><li>Atuar na construção e manutenção de arquiteturas baseadas em microsserviços;</li><li>Projetar e implementar APIs REST seguras, performáticas e bem documentadas;</li><li>Trabalhar com bancos NoSQL (MongoDB) garantindo modelagem eficiente e escalável;</li><li>Atuar com mensageria (ex.: RabbitMQ) para processamento assíncrono e desacoplamento de serviços;</li><li>Participar de decisões arquiteturais e definição de padrões técnicos do time;</li><li>Garantir qualidade de código através de testes automatizados, code reviews e boas práticas;</li><li>Atuar na observabilidade da aplicação (logs, métricas e monitoramento);</li><li>Trabalhar em conjunto com times de frontend, produto e SRE/DevOps;</li><li>Apoiar e mentorar desenvolvedores menos experientes;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em regras de negócio fiscal/tributário;</li></ul><ul><li>Experiência sólida com .NET (C#) e desenvolvimento backend;</li><li>Experiência com arquitetura de microsserviços;</li><li>Experiência com bancos NoSQL, especialmente MongoDB;</li><li>Experiência na construção de APIs REST;</li><li>Conhecimento em mensageria (RabbitMQ ou similares);</li><li>Experiência com versionamento de código (Git);</li><li>Experiência com testes automatizados (unitários e integração);</li><li>Conhecimento em princípios de design de software (SOLID, Clean Code);</li><li>Conhecimento em padrões de arquitetura (ex.: DDD, CQRS);</li><li>Experiência com ambientes cloud;</li><li>Boa comunicação e capacidade de atuar em times ágeis;</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12952/tech-engenharia-de-software-backend-senior-net?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -15990,26 +16010,6 @@ capacidade de transformar análises em insights e oportunidades de melhoria.</li
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[eb88995a-4823-4f06-a420-be14b2ce7d1f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[eb88995a-4823-4f06-a420-be14b2ce7d1f]]></partnerRequisitionId>
-    <company><![CDATA[Opy Health]]></company>
-    <title><![CDATA[Agente de Limpeza]]></title>
-    <posterEmail><![CDATA[thamara.seixas@opyhealth.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais comprometidos e dedicados para se juntar à nossa equipe em um ambiente de trabalho acolhedor e motivador. Se você valoriza a importância de um espaço limpo e organizado, essa é a sua chance de contribuir para a manutenção de um ambiente saudável e agradável. Trabalhar conosco significa fazer parte de uma organização que reconhece e valoriza cada membro da equipe, promovendo um clima de respeito e colaboração. Oferecemos uma oportunidade de crescimento e aprendizado, onde a sua contribuição fará a diferença no dia a dia da empresa. Venha fazer parte do nosso time, onde o seu trabalho será reconhecido e onde você poderá se desenvolver profissionalmente em um espaço que preza pela excelência. Se você está pronto(a) para essa jornada, não deixe de se candidatar. Estamos ansiosos para conhecê-lo(a)!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar a limpeza e conservação de ambientes internos e externos, como escritórios, salas de reuniões, áreas comuns e banheiros.<br /> - Coletar e descartar corretamente os resíduos, seguindo normas de conscientização ambiental.<br /> - Zerar e manter a organização dos espaços, incluindo a reposição de materiais como papel toalha e sabonete.<br /> - Utilizar adequadamente os produtos de limpeza e equipamentos, garantindo a segurança e a saúde no ambiente de trabalho.<br /> - Cumprir cronograma de limpeza e reportar necessidades de manutenção ou reparo.<br /> - Colaborar com a equipe para assegurar a manutenção da ordem e da higiene em todas as áreas da empresa.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino Médio completo.<br /> - Capacidade de trabalhar em equipe.<br /> - Boa comunicação.<br /> - Pontualidade e assiduidade.<br /> - Comprometimento e responsabilidade.<br />- Atenção aos detalhes.<br />- Proatividade e iniciativa.<br /><br /><br /><br /><b>Benefícios</b><br /><br />Plano de saúde;Plano odontológico;<br />Seguro de vida;<br />Vale alimentação;<br />PPR (Participação de resultados);<br />Folga de aniversário (verificar requisitos)<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaopyhealth/143/agente-de-limpeza?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[64770780]]></companyId>
-    <city><![CDATA[Manaus]]></city>
-    <state><![CDATA[Amazonas]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[41d88031-fcd9-4af5-a553-012c6bd3118c]]></partnerJobId>
     <partnerRequisitionId><![CDATA[41d88031-fcd9-4af5-a553-012c6bd3118c]]></partnerRequisitionId>
     <company><![CDATA[Opy Health]]></company>
@@ -16129,6 +16129,33 @@ e orientação para resultados.</li></ul>]]></description>
     <companyId><![CDATA[64770780]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
     <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[90748872-0ecf-4477-afc0-5ba96d0b7318]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[90748872-0ecf-4477-afc0-5ba96d0b7318]]></partnerRequisitionId>
+    <company><![CDATA[Opy]]></company>
+    <title><![CDATA[Auxiliar de lavanderia]]></title>
+    <posterEmail><![CDATA[thamara.seixas@opyhealth.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade que valorize seu trabalho e ofereça um ambiente dinâmico e acolhedor? Temos uma chance especial para você contribuir com uma equipe dedicada à excelência. Aqui, valorizamos o esforço e a dedicação de cada integrante, e estamos em busca de profissionais que desejam crescer e se desenvolver junto conosco. Se você aprecia um ambiente onde a colaboração e o apoio mútuo são fundamentais, essa é sua oportunidade de fazer parte de uma empresa que valoriza o seu talento. Venha somar suas habilidades e entusiasmo a uma equipe que preza pela qualidade do serviço e pelo bem-estar de todos. Estamos prontos para te receber e construir um futuro de sucesso! Enviei seu currículo e venha fazer a diferença!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar a classificação e separação das roupas e tecidos de acordo com as instruções específicas de lavagem.<br />- Operar máquinas de lavagem e secagem, respeitando os procedimentos de segurança e operação.<br />- Dobrar, passar e organizar as roupas após a secagem.<br />- Controlar e registrar a entrada e saída de peças e materiais no setor.<br />- Auxiliar na manutenção da organização e limpeza do ambiente de trabalho.<br />- Colaborar com a equipe para atender às demandas e prazos estabelecidos.<br />- Seguir as normas de higiene e segurança do trabalho.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino Médio completo<br />- Habilidade para seguir instruções e procedimentos<br />- Capacidade de trabalhar em equipe<br />- Boa comunicação<br />- Organização e atenção aos detalhes<br />- Disponibilidade de horário<br /><br /><br /><b>Benefícios</b><br /><br /> Treinamentos internos
+️ Vale alimentação
+ Day Off aniversário*
+ Plano de saúde*
+ Plano odontológico*
+ Vale transporte
+ WellHub
+ PPR]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenaopy/147/auxiliar-de-lavanderia?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[64770780]]></companyId>
+    <city><![CDATA[Manaus]]></city>
+    <state><![CDATA[Amazonas]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -19039,26 +19066,6 @@ auditoria externa; </li><li>Proficiência avançada em Microsoft Excel; </li><li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[d2c0e76e-aeff-4c12-acdd-130cec1a78b1]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[d2c0e76e-aeff-4c12-acdd-130cec1a78b1]]></partnerRequisitionId>
-    <company><![CDATA[UniStart | Unimarka]]></company>
-    <title><![CDATA[Estágio de Ensino Superior]]></title>
-    <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Essa vaga é para você que quer crescer profissionalmente e fazer carreira em uma empresa que está entre as 10 maiores do Brasil no segmento atacadista.<br /><b>Venha e participe da nossa seleção!</b><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar na realização de atividades diversas de arquivo e levanta informações; </li><li>Elaborar e confere relatórios;</li><li>Realizar atendimento, cadastros e lançamentos no sistema.<br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando ensino superior em Administração, Logística, Ciências Contábeis, Engenharia de produção ou áreas afins.</li></ul><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Bolsa financeira de R$ 1.648,00;</li><li>Plano de Carreira;</li><li>Vale transporte;</li><li>Seguro de Vida;</li><li>Café da manhã ou da tarde;</li><li>Educação corporativa.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unistart/1151/estagio-de-ensino-superior?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[65466539]]></companyId>
-    <city><![CDATA[Feira de Santana]]></city>
-    <state><![CDATA[Bahia]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[8667f0cb-bceb-48d6-b08f-3018cc05c34e]]></partnerJobId>
     <partnerRequisitionId><![CDATA[8667f0cb-bceb-48d6-b08f-3018cc05c34e]]></partnerRequisitionId>
     <company><![CDATA[UniStart | Unimarka]]></company>
@@ -19329,13 +19336,13 @@ trabalhar com produtos conhecidos globalmente? <b>Então essa vaga é para você
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[e417f1a9-aa0c-45a9-af03-5125e280a870]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[e417f1a9-aa0c-45a9-af03-5125e280a870]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[a1325a09-1470-4aaf-859f-d2fdcb4d32fa]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[a1325a09-1470-4aaf-859f-d2fdcb4d32fa]]></partnerRequisitionId>
     <company><![CDATA[Unimarka Distribuidora]]></company>
     <title><![CDATA[Operador de Logística]]></title>
     <posterEmail><![CDATA[rh@unimarka.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa ativa, gosta de estar sempre em movimento e tem vontade de atuar na área de separação e expedição da Logística? <b>Então essa vaga é para você!</b><br /><br /><b><br /></b><br />Vaga destinada também a PCD<b>.</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar no processo logístico de movimentação das mercadorias;</li><li>Realizar a organização, armazenagem e separação dos pedidos;</li><li>Organizar a avaliar o acondicionamento das mercadorias nos veículos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Atenção concentrada a detalhes; </li><li>Foco em resultados;</li><li>Iniciativa; </li><li>Responsabilidade e compromisso.</li></ul><br /><br /><b>Benefícios</b><br /><br />Salário compatível com o mercado;<br />Produtividade sobre o desempenho;<br />Ticket alimentação; <br />Participação nos resultados;<br />Plano de saúde e odontológico;<br />️Seguro de vida;<br />Transporte gratuito Colatina e Marilândia;<br />Compra de produtos da empresa com desconto;<br />Educação corporativa;<br />Biblioteca na empresa;<br />☕Café da manhã e da tarde;<br />Material escolar para filhos entre 5 e 10 anos;<br />Kit baby;<br />‍♀️Convênio com o Sesc.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/1296/operador-de-logistica?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unimarka/1321/operador-de-logistica?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[65466539]]></companyId>
     <city><![CDATA[Colatina]]></city>
     <state><![CDATA[Espírito Santo]]></state>
@@ -22037,26 +22044,6 @@ Disponibilidade para viagens curtas conforme necessidade da rota.</li></ul><br /
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasguaraves/196/aux-carga-e-descarga?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[6994713]]></companyId>
     <city><![CDATA[Macaíba]]></city>
-    <state><![CDATA[Rio Grande do Norte]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[fb327346-07ea-48dc-af26-19ad14c44b0c]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[fb327346-07ea-48dc-af26-19ad14c44b0c]]></partnerRequisitionId>
-    <company><![CDATA[Grupo Guaraves]]></company>
-    <title><![CDATA[Jovem Aprendiz Administrativo]]></title>
-    <posterEmail><![CDATA[anderson.oliveira@guaraves.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Aprendiz Assistente Administrativo</strong> para atuar em nossa equipe e desenvolver habilidades práticas na área administrativa. Essa oportunidade é ideal para jovens que desejam iniciar sua trajetória profissional em um ambiente dinâmico e que valoriza o aprendizado e o desenvolvimento pessoal.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Auxiliar na organização e arquivamento de documentos.</li><li>Realizar lançamentos e atualizações em planilhas e sistemas administrativos.</li><li>Apoiar no controle de materiais e insumos do setor.</li><li>Realizar atendimento telefônico e presencial, encaminhando solicitações para os responsáveis.</li><li>Dar suporte às demandas administrativas de diferentes setores, conforme orientação.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Idade entre 18 e 21 anos.</li><li>Ensino médio concluído.</li><li>Boa comunicação e vontade de aprender.</li>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasguaraves/436/jovem-aprendiz-administrativo?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[6994713]]></companyId>
-    <city><![CDATA[Mossoró]]></city>
     <state><![CDATA[Rio Grande do Norte]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -30668,26 +30655,6 @@ Atendimento ao cliente; </li><li>Envio de declaração com movimento; </li><li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[005d1aa0-0a72-4099-888e-7a8a253ee693]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[005d1aa0-0a72-4099-888e-7a8a253ee693]]></partnerRequisitionId>
-    <company><![CDATA[Bright Bee / Bright School]]></company>
-    <title><![CDATA[PROFESSOR(A) DE EDUCAÇÃO FÍSICA]]></title>
-    <posterEmail><![CDATA[nathaliamiranda@brightbee.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><strong>Você está pronto para fazer a diferença em um ambiente educacional dinâmico e inspirador? </strong>Estamos em busca de um(a) profissional <strong>licenciado(a) em Educação Física</strong>, dedicado(a) e motivado(a), para integrar nossa equipe em um ambiente escolar dinâmico e acolhedor. Se você é apaixonado(a) por contribuir para o desenvolvimento educacional e deseja fazer a diferença na vida das crianças, <strong>essa é a oportunidade ideal para você!</strong><strong>Vem ser Bright! ✨</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar e executar atividades físicas e esportivas, respeitando as orientações pedagógicas e o desenvolvimento dos alunos;</li><li>Elaborar e aplicar planos de aula que promovam a educação física como ferramenta de desenvolvimento integral;</li><li>Avaliar o desempenho dos alunos em atividades e competições, fornecendo feedback construtivo;</li><li>Organizar eventos esportivos e participar de competições, promovendo a integração entre os alunos;</li><li>Colaborar com outros profissionais da instituição em projetos interdisciplinares relacionados à saúde e à educação;</li><li>Manter-se atualizado sobre as tendências e inovações no campo da educação física;</li><li>Garantir a segurança e a integridade dos alunos durante a prática de atividades físicas;</li><li>Promover um ambiente inclusivo e acolhedor que favoreça a participação de todos os alunos.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa no curso de Licenciatura em Educação Física; </li><li>Boa comunicação verbal e escrita; </li><br /><li>Proatividade, responsabilidade e organização; </li><br /><li>Facilidade para trabalhar em equipe;</li><br /><li>Interesse em desenvolvimento profissional contínuo. </li><br /></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Auxilio combustível ou Transporte. </li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/brightbee/65/professor-a-de-educacao-fisica?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[42390397]]></companyId>
-    <city><![CDATA[Teresina]]></city>
-    <state><![CDATA[Piauí]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[99d0d896-d1c7-41d9-8f4a-0872662d45a1]]></partnerJobId>
     <partnerRequisitionId><![CDATA[99d0d896-d1c7-41d9-8f4a-0872662d45a1]]></partnerRequisitionId>
     <company><![CDATA[Bright Bee / Bright School]]></company>
@@ -34307,26 +34274,6 @@ PRODUTIVIDADE  </li><li>SUPORTE A LIDERANÇA E APOIO A EQUIPE</li></ul><br />
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[deac2c50-c528-4d7d-9f72-b84c77066044]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[deac2c50-c528-4d7d-9f72-b84c77066044]]></partnerRequisitionId>
-    <company><![CDATA[Grupo Canopus]]></company>
-    <title><![CDATA[VENDEDOR EXTERNO]]></title>
-    <posterEmail><![CDATA[tainara.abreu@grupocanopus.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Realizar venda de motocicletas e produtos agregados;Realizar prospecção e atendimentos externos, fora da loja, de modo a alcançar novos potenciais clientes;Vendas de motocicletas de 3 formas: Financiamento, consórcio e à vista.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar venda de motocicletas e produtos agregados;Realizar prospecção e atendimentos externos, fora da loja, de modo a alcançar novos potenciais clientes;Vendas de motocicletas de 3 formas: Financiamento, consórcio e à vista.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo;Será um diferencial ter CNH A;Será um diferencial ter conhecimento no Pacote Office.TODAS AS VAGAS ESTÃO DISPONIVEIS PARA PCD<br /><br /><b>Benefícios</b><br /><br />O que temos: Plano de Saúde, Plano odontológico, Vale Transporte (de acordo com a região), Seguro de vida e Vale Alimentação.Nosso Diferencial: Homenagem por tempo de empresa e Vantagens Canopus (programa de parceria de descontos)]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/899/vendedor-externo?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2073549]]></companyId>
-    <city><![CDATA[Cuiabá]]></city>
-    <state><![CDATA[Mato Grosso]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[aeb438f3-4b0b-4715-92fe-d466fc9afb12]]></partnerJobId>
     <partnerRequisitionId><![CDATA[aeb438f3-4b0b-4715-92fe-d466fc9afb12]]></partnerRequisitionId>
     <company><![CDATA[Grupo Canopus]]></company>
@@ -34676,26 +34623,6 @@ PRODUTIVIDADE  </li><li>SUPORTE A LIDERANÇA E APOIO A EQUIPE</li></ul><br />
     <posterEmail><![CDATA[alessandra.barros@grupocanopus.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />- Encaminhar os veículos ao local indicado, conforme ordem de serviço para organização dos veículos;<br />- Lavar, secar, encerar, polir e higienizar a parte interna e externa dos veículos;<br />- Auxiliar o box expresso e a equipe de mecânicos/montagem na preparação de peças e veículos;<br />- Retirar as ordens de serviços na posição do quadro aguardando lavagem, para aguardando preparação de entrega.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Encaminhar os veículos ao local indicado, conforme ordem de serviço para organização dos veículos;<br />- Lavar, secar, encerar, polir e higienizar a parte interna e externa dos veículos;<br />- Auxiliar o box expresso e a equipe de mecânicos/montagem na preparação de peças e veículos;<br />- Retirar as ordens de serviços na posição do quadro aguardando lavagem, para aguardando preparação de entrega.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo<br />CNH B<br />TODAS AS VAGAS TAMBÉM PARA PCD<br /><br /><b>Benefícios</b><br /><br />O que temos: Plano de Saúde, Plano odontológico, Vale Transporte (de acordo com a região), Seguro de vida e Vale Alimentação.<br />Nosso Diferencial: Homenagem por tempo de empresa e Vantagens Canopus (programa de parceria de descontos)]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/3344/lavador-de-veiculos?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2073549]]></companyId>
-    <city><![CDATA[Juína]]></city>
-    <state><![CDATA[Mato Grosso]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[158d71de-5118-4e8d-96e7-5cb89d6b5eea]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[158d71de-5118-4e8d-96e7-5cb89d6b5eea]]></partnerRequisitionId>
-    <company><![CDATA[Grupo Canopus]]></company>
-    <title><![CDATA[VENDEDOR EXTERNO]]></title>
-    <posterEmail><![CDATA[yohana.jesus@grupocanopus.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais apaixonados por vendas e com forte desejo de se desenvolver em um ambiente dinâmico e desafiador. Se você é uma pessoa motivada, que aprecia o contato direto com clientes e acredita na construção de relacionamentos duradouros, queremos conhecê-lo(a)! Aqui, você encontrará uma oportunidade de crescimento, onde suas ideias e iniciativas serão valorizadas. Nossa equipe está pronta para proporcionar todo o suporte necessário para que você alcance seus objetivos e conquiste resultados expressivos. Junte-se a nós e faça parte de um time engajado, que valoriza a colaboração e a inovação. Se você deseja trilhar um caminho de sucesso, onde suas habilidades e potencial serão reconhecidos, não perca tempo! Venha trazer sua energia e paixão para transformar desafios em oportunidades. Esperamos por você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar visitas a clientes potenciais e existentes para promover produtos ou serviços.<br /> - Apresentar e demonstrar produtos, destacando características e benefícios.<br /> - Negociar condições de venda, como preços e prazos de entrega.<br /> - Elaborar e acompanhar propostas comerciais.<br /> - Construir e manter relacionamentos sólidos com os clientes.<br /> - Identificar e prospectar novas oportunidades de negócios.<br /> - Acompanhar o mercado e a concorrência, coletando informações relevantes.<br /> - Reportar resultados de vendas e atividades ao superior hierárquico.<br /> - Cumprir metas de vendas estabelecidas pela empresa.<br /> - Participar de treinamentos e capacitações para aprimorar conhecimentos sobre produtos e técnicas de vendas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Experiência comprovada em vendas externas.<br /> - Habilidade de negociação e persuasão.<br /> - Capacidade de comunicação eficaz.<br /> - Conhecimento sobre o mercado e os produtos da empresa.<br /> - Proatividade na prospecção de novos clientes.<br /> - Facilidade para trabalhar em equipe.<br /> - Disponibilidade para viagens.<br /> - Ensino médio completo, preferencialmente com formação superior.<br /> - Domínio de ferramentas de informática e sistemas de gerenciamento de vendas.<br /><br /><br /><b>Benefícios</b><br /><br />Plano de Saúde, Plano odontológico, Vale Transporte (de acordo com a região), Seguro de vida e Vale Alimentação.Nosso Diferencial: Homenagem por tempo de empresa e Vantagens Canopus (programa de parceria de descontos)]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/1073/vendedor-externo?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[2073549]]></companyId>
     <city><![CDATA[Juína]]></city>
     <state><![CDATA[Mato Grosso]]></state>
@@ -36043,26 +35970,6 @@ Básico ou Avançado (preferencialmente)Oratória - Boa fluência verbal; CNH B<
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/276/executivo-a-de-vendas?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[2073549]]></companyId>
     <city><![CDATA[Porto Velho]]></city>
-    <state><![CDATA[Rondônia]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[471d37fa-e95f-4146-91b2-ce5863fe6492]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[471d37fa-e95f-4146-91b2-ce5863fe6492]]></partnerRequisitionId>
-    <company><![CDATA[Grupo Canopus]]></company>
-    <title><![CDATA[VENDEDOR EXTERNO]]></title>
-    <posterEmail><![CDATA[alessandra.barros@grupocanopus.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Realizar venda de motocicletas e produtos agregados;Realizar prospecção e atendimentos externos, fora da loja, de modo a alcançar novos potenciais clientes;Vendas de motocicletas de 3 formas: Financiamento, consórcio e à vista.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar venda de motocicletas e produtos agregados;Realizar prospecção e atendimentos externos, fora da loja, de modo a alcançar novos potenciais clientes;Vendas de motocicletas de 3 formas: Financiamento, consórcio e à vista.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo;Será um diferencial ter CNH A;Será um diferencial ter conhecimento no Pacote Office.<br />Desejável vivência na área de Vendas;<br /><br />TODAS AS VAGAS ESTÃO DISPONIVEIS PARA PCD<br /><br /><b>Benefícios</b><br /><br />O que temos: Plano de Saúde, Plano odontológico, Vale Transporte (de acordo com a região), Seguro de vida e Vale Alimentação.Nosso Diferencial: Homenagem por tempo de empresa e Vantagens Canopus (programa de parceria de descontos)]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/906/vendedor-externo?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2073549]]></companyId>
-    <city><![CDATA[Vilhena]]></city>
     <state><![CDATA[Rondônia]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -40827,6 +40734,46 @@ alta performance, esta vaga é para você! Vamos conversar? <br /><br /><b>Resp
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/1341/banco-de-talentos-agua-comprida?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[2796119]]></companyId>
     <city><![CDATA[Conceição das Alagoas]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f1946fd7-4755-4fd3-972f-83298e8195f4]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[f1946fd7-4755-4fd3-972f-83298e8195f4]]></partnerRequisitionId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Almoxarife]]></title>
+    <posterEmail><![CDATA[kauany.cardoso@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar o controle e a gestão do estoque, garantindo a acuracidade das informações;</li><li>Atender às solicitações de materiais e realizar as respectivas baixas de reservas no sistema;</li><li>Apoiar o recebimento, a conferência, a armazenagem e a movimentação de materiais;</li><li>Manter a organização, conservação e identificação dos materiais e do ambiente de trabalho;</li><li>Apoiar a realização de inventários e a identificação de possíveis divergências de estoque;</li><li>Executar as rotinas operacionais e administrativas do almoxarifado, conforme os procedimentos internos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Conhecimento em controle e gestão de estoque;</li><li>Conhecimento em recebimento, armazenagem e movimentação de materiais;</li><li>Conhecimento básico em informática e sistemas de controle de estoque;</li><li>Disponibilidade para trabalhar em turnos.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração Competitiva</li><li>Vale Alimentação</li><li>Plano de Saúde </li><li>Plano Odontológico</li><li>Refeitório</li><li>Transporte Fretado</li><li>Convênio com farmácias, universidades e clubes</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/2126/almoxarife?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Delta]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[6fbdc398-9f13-4e3f-ade2-d128b8e5f520]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[6fbdc398-9f13-4e3f-ade2-d128b8e5f520]]></partnerRequisitionId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Borracheiro I]]></title>
+    <posterEmail><![CDATA[kauany.cardoso@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar inspeção, montagem, desmontagem, calibragem e reparo de pneus de veículos leves e pesados.</li><li>Executar o alinhamento e balanceamento dos pneus, quando necessário.</li><li>Verificar desgaste e condições dos pneus, sugerindo substituições conforme necessidade.</li><li>Efetuar consertos e recauchutagem de pneus, utilizando os materiais e técnicas adequadas.</li><li>Controlar o estoque de pneus, solicitando reposições conforme demanda.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Conhecimento em manutenção e reparo de pneus de veículos leves e pesados.</li><li>Habilidade no manuseio de ferramentas e equipamentos de borracharia.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração Competitiva</li><li>Vale Alimentação</li><li>Plano de Saúde </li><li>Plano Odontológico</li><li>Refeitório</li><li>Transporte Fretado</li><li>Convênio com farmácias, universidades e clubes</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/2125/borracheiro-i?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Delta]]></city>
     <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -47494,6 +47441,26 @@ Disponibilidade de horário.</li><br /><br /><b>Benefícios</b><br /><br /><br /
     <companyId><![CDATA[2189233]]></companyId>
     <city><![CDATA[Nossa Senhora do Socorro]]></city>
     <state><![CDATA[Sergipe]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[953979a2-6bed-4c61-aed2-4494c5c21f9d]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[953979a2-6bed-4c61-aed2-4494c5c21f9d]]></partnerRequisitionId>
+    <company><![CDATA[Cerradão]]></company>
+    <title><![CDATA[Operador Hilo II]]></title>
+    <posterEmail><![CDATA[richard.silva@cerradao.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Operar e monitorar o sistema de Hilo, garantindo o descarregamento de cana de açúcar para o processo de moagem conforme os padrões estabelecidos. Acompanhar os parâmetros operacionais e realizar ajustes em equipamentos para manter a eficiência e segurança do processo. Colaborar na manutenção preventiva dos equipamentos, assegurando o pleno funcionamento do sistema e a continuidade das operações.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Controlar o fluxo de entrada de cana de açúcar, operando o equipamento de forma segura e eficiente;</li><li>Realizar inspeções periódicas nos equipamentos de Hilo, identificando possíveis falhas e reportando à equipe de manutenção;</li><li>Atualizar relatórios operacionais com informações sobre a produção e possíveis ocorrências durante o turno;</li><li>Cumprir rigorosamente as normas de segurança e higiene no ambiente de trabalho;</li><li>Verificar diariamente as condições do equipamento antes do início das operações, assegurando o funcionamento adequado;</li><li>Ajustar a velocidade e fluxo do sistema de Hilo para atender às demandas operacionais;</li><li>Realizar a limpeza periódica do equipamento, prevenindo acúmulos que possam comprometer a eficiência;</li><li>Identificar visualmente anomalias nos itens de içamentos dos caminhões e reportar ao condutor do veículo e ao seu líder imediato.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Ticket Alimentação;</li><li>Plano de saúde;</li><li>Plano Odontológico;</li><li>Auxilio farmácia;</li><li>Seguro de vida;</li><li>Transporte Fretado;</li><li>Programa e Apoio e Orientações: Jurídico, psicológico, social e financeiro;</li><li>PPR - Programa de Participação de Resultados;</li><li>WellHub (antigo Gympass).</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cerradaovagas/649/operador-hilo-ii?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3364231]]></companyId>
+    <city><![CDATA[Frutal]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -57378,6 +57345,26 @@ na embalagem de todos os produtos conforme destinado.</li></ul><br /><br /><b>Re
     <companyId><![CDATA[90796031]]></companyId>
     <city><![CDATA[Oliveira]]></city>
     <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b7e31c63-4b65-4f27-930d-5d42c49f17ab]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[b7e31c63-4b65-4f27-930d-5d42c49f17ab]]></partnerRequisitionId>
+    <company><![CDATA[OSS Hospital do Tricentenário]]></company>
+    <title><![CDATA[COORDENADOR DE NUTRIÇÃO - HOSPITAL REGIONAL RUY DE BARROS CORREIA - ARCOVERDE/PE]]></title>
+    <posterEmail><![CDATA[rh@hrrbc.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li><b>Período de inscrição: </b>de <b>28/10/2026 a 03/11/2026, até às 9h.</b></li></ul><b><br /></b><br />Tipo de Contrato: <b>Por prazo indeterminado</b><br />Regime/Jornada de Trabalho: <b>Diarista - 40h semanais</b><br /><b>Salário: Compatível praticado na instituição.</b><br /><br /><b><br /></b><br /><b>01 vaga imediata e cadastro reserva (validade de 6 meses)</b><br /><b><br /></b><br />Vaga extensiva a Pessoas com Deficiência (PCD).<br />Para participação como PCD, é necessário anexar o laudo médico no campo do currículo.<br /><br /><br /><br /><strong><br /><br /></strong><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Supervisionar as rotinas operacionais quanto ao recebimento, armazenamento, manipulação, distribuição de alimentos e conferência do quantitativo de refeições ofertadas a pacientes, acompanhantes e colaboradores.</li><li>Garantir a continuidade dos processos de qualidade das áreas de produção e distribuição de alimentos, manipulação e distribuição de dietas enterais e estrutura de funcionamento do lactário;</li><li>Coordenar diariamente os processos de assistência nutricional a pacientes, realizados por Nutricionistas e Serviço de copa (copeiras);</li><li>Acompanhar todas as atividades de ordem administrativa (consumo x compras), quanto à reposição de estoque do lactário, garantindo o abastecimento e consequente oferta dos produtos, conforme demanda.</li><li>Coordenar atividades de ordem administrativa dos colaboradores quanto à programação de férias, justificativas de controle de ponto (faltas, atestados, atrasos) e avaliação de desempenho, diariamente;</li><li>Acompanhar os processos de seleção e contratação de novos colaboradores, sempre que houver seleção em curso, bem como treinamento operacional dos mesmos, a cada semestre.</li><li>Garantir e/ou realizar anualmente treinamentos, conforme legislação vigente, dos colaboradores com atuação no serviço de alimentação.</li><li>Elaborar e/ou validar documentos normativos conforme as legislações aplicadas às áreas do Serviço de Nutrição, sempre que necessário.</li><li>Elaborar relatórios mensais de acompanhamento dos indicadores de custo e qualidade do serviço de nutrição.</li><li>Participar ativamente nas comissões de Terapia Nutricional (Processo de credenciamento da NE/SUS), CCIH, Segurança do Paciente e Humanização, diariamente e participar das reuniões das mesmas uma vez por mês em cada comissão.</li><li>Supervisionar estagiários e residentes, acompanhando suas atividades práticas e teóricas, com o objetivo de garantir o aprendizado adequado e a segurança nos atendimentos, sem periculosidade.</li><li>Executar outras tarefas correlatas ao cargo ou função, a critério do seu superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em nutrição;</li><li>Registro ativo no Conselho Regional de Nutrição;</li><li>Curso de Manual de Boas Práticas de Manipulação de Alimentos;</li><li>Possuir experiência mínima de 6 meses na função e comprovar experiência com liderança de pessoas</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Refeitório;</li><li>Seguro de vida;</li><li>Assistência médica Hapvida (opcional);</li><li>Assistência Odontológica (opcional);</li><li>Credenciamento com o SESC;</li><li>Cartão Bulla.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashtri/319/coordenador-de-nutricao-hospital-regional-ruy-de-barros-correia-arcoverde-pe?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[75944743]]></companyId>
+    <city><![CDATA[Arcoverde]]></city>
+    <state><![CDATA[Pernambuco]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -78938,41 +78925,6 @@ Pacote Office (nível básico) e/ou sistemas de gestão.</li></ul><br /><br /><b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[f392988f-be59-4cfd-8c6c-78e3baddf170]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[f392988f-be59-4cfd-8c6c-78e3baddf170]]></partnerRequisitionId>
-    <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
-    <title><![CDATA[GERENTE DE PROGRAMAS]]></title>
-    <posterEmail><![CDATA[bruna.viriato@foxconn.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto para dar um passo significativo em sua carreira? Estamos em busca de profissionais que desejam se destacar em um ambiente dinâmico e inovador. <br />Oferecemos a oportunidade de integrar uma equipe colaborativa, onde o desenvolvimento contínuo e o aprendizado são valorizados, aqui, você terá a chance de contribuir com suas ideias e se envolver em projetos desafiadores que impactam diretamente os resultados da empresa. <br />Se você é alguém que se motiva pelo trabalho em equipe, aprecia a busca por soluções eficientes e acredita no poder da análise cuidadosa, queremos conhecê-lo! <br /><br /><br /><b>Horário: </b>De segunda a sexta das 07h20 às 17h20.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Garantir o controle
-e progressso dos projetos gerenciando o processo de diversas áreas afim de
-assegurar as expectativas do cliente e da Foxconn.</li><li>Analisar as
-oportunidades de novos negócios.</li><li>Coordenar pessoas e
-recursos designados aos projetos de acordo com a necessidade da operação,
-analisando metas e os planos estabelecidos.</li><li>Negociar com o
-cliente termos e condições comerciais relacionados aos projetos.</li><li>Facilitar e
-coordenar o contato com clientes, fornecedores, departamentos e pessoal do
-projeto.</li><li>Elaborar cotações
-para diferentes produtos eletronicos e serviços conforme critérios fornecidos
-pelo cliente.</li><li>Participar do
-planejamento estratégico dos negócios do cliente.</li><li>Auxiliar nas
-negociações junto ao OEM, ODM e CM.</li><li>Auxiliar no
-desenvolvimento do projeto interno envolvendo as áreas de Supply Chain,
-Financeiro, Manufatura, Técnico/Engenharia, jurídico entre outras.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior em Engenharia,
-Comércio Exterior ou Administração.</li><li>Inglês Avançado</li><li>Experiência sólida na área.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Transporte fretado</li><li>Refeitório no local</li><li>Convênio médico</li><li>Convênio odontológico</li><li>Seguro de vida</li><li>Cartão alimentação</li><li>PPR (Programa de Participação nos Resultados)</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasbandeirantes/54/gerente-de-programas?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[83475091]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[7cf2cf3b-9b72-44b4-826b-29242dd247f1]]></partnerJobId>
     <partnerRequisitionId><![CDATA[7cf2cf3b-9b72-44b4-826b-29242dd247f1]]></partnerRequisitionId>
     <company><![CDATA[FOXCONN - BANDEIRANTES]]></company>
@@ -79584,46 +79536,6 @@ para a melhoria contínua dos processos e sistemas de qualidade.<br /><br /><b>R
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[b1a86442-34d4-42a1-aba5-ecbbe7b67d48]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[b1a86442-34d4-42a1-aba5-ecbbe7b67d48]]></partnerRequisitionId>
-    <company><![CDATA[Monvizo Ar Condicionado]]></company>
-    <title><![CDATA[Funileiro]]></title>
-    <posterEmail><![CDATA[rh.monvizo@gmail.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Executar atividades de fabricação, montagem, instalação e manutenção de peças, estruturas e dutos metálicos destinados a sistemas de climatização, ventilação e exaustão, garantindo a qualidade dos serviços e o cumprimento das normas de segurança.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Cortar, dobrar, modelar e montar chapas metálicas de aço, ferro galvanizado, cobre, alumínio, latão, zinco e outros materiais.<br />- Fabricar peças, conexões e acessórios para sistemas de ventilação e ar-condicionado<br />- Instalar dutos de climatização, ventilação e exaustão em obras comerciais, industriais e residenciais.<br />- Realizar medições, marcações e ajustes necessários para montagem e instalação.<br />- Zelar pela conservação dos equipamentos, ferramentas e materiais utilizados.<br />- Cumprir as normas de segurança do trabalho<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental completo;<br />- Conhecimento no uso de ferramentas de medição e corte<br />- Noções básicas no uso de ferramentas;<br />- Disponibilidade para trabalho em obras e deslocamentos quando necessário<br /><br /><br /><b>Benefícios</b><br /><br />- Vale alimentação: R$ 813,20/mês;<br />- Vale refeição: R$ 28,72/dia trabalhado;<br />- Plano odontológico;<br />- Plano de saúde;<br />- Assistência médica;<br />- Seguro de vida- Vale Transporte<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdemonvizoarcondicionadoclimatizacaoevendas/21/funileiro?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[11750439]]></companyId>
-    <city><![CDATA[Cascavel]]></city>
-    <state><![CDATA[Paraná]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a7856348-8f76-4af5-8e48-a6141a20f01a]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[a7856348-8f76-4af5-8e48-a6141a20f01a]]></partnerRequisitionId>
-    <company><![CDATA[Monvizo Ar Condicionado]]></company>
-    <title><![CDATA[Mecânico de Refrigeração]]></title>
-    <posterEmail><![CDATA[rh.monvizo@gmail.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Executar serviços de instalação, manutenção preventiva e corretiva em sistemas e equipamentos de refrigeração, climatização, ventilação e ar-condicionado, assegurando o funcionamento adequado dos equipamentos, a qualidade dos serviços prestados e o cumprimento das normas de segurança.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar manutenção preventiva e corretiva em equipamentos de refrigeração, climatização, ventilação e ar-condicionado;<br />- Efetuar lubrificação, regulagem e ajustes mecânicos, elétricos e eletrônicos básicos dos sistemas;<br />- Identificar falhas e diagnosticar problemas em equipamentos e instalações;<br />- Instalar aparelhos e sistemas de refrigeração e climatização conforme projetos e especificações técnicas;<br />- Prestar assistência técnica aos clientes e usuários dos equipamentos;<br />- Cumprir normas de segurança do trabalho<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo;<br />- Conhecimento em sistemas de refrigeração, ventilação e ar-condicionado;<br />- Conhecimento básico de elétrica aplicada à refrigeração;<br />- Curso Técnico ou profissionalizante em Refrigeração, Climatização, Mecânica ou áreas correlatas<br /><br /><br /><b>Benefícios</b><br /><br />- Vale alimentação: R$ 813,20/mês;<br />- Vale refeição: R$ 28,72/dia trabalhado;<br />- Plano odontológico;<br />- Plano de saúde;<br />- Assistência médica;<br />- Seguro de vida- Vale Transporte<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdemonvizoarcondicionadoclimatizacaoevendas/20/mecanico-de-refrigeracao?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[11750439]]></companyId>
-    <city><![CDATA[Cascavel]]></city>
-    <state><![CDATA[Paraná]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[c0889b58-5944-41ba-808b-78e1a2cd4228]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c0889b58-5944-41ba-808b-78e1a2cd4228]]></partnerRequisitionId>
     <company><![CDATA[Monvizo Ar Condicionado]]></company>
@@ -79677,26 +79589,6 @@ alcance das metas estabelecidas.<br /><br /><b>Responsabilidades e atribuições
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdemonvizoarcondicionadoclimatizacaoevendas/32/vendedor-externo-curitiba-pr?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[11750439]]></companyId>
     <city><![CDATA[Curitiba]]></city>
-    <state><![CDATA[Paraná]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3cdb3fca-3ad8-42ef-b522-f9e6f97c6f19]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[3cdb3fca-3ad8-42ef-b522-f9e6f97c6f19]]></partnerRequisitionId>
-    <company><![CDATA[Monvizo Ar Condicionado]]></company>
-    <title><![CDATA[Vendedor Externo (Foz do Iguaçu - PR)]]></title>
-    <posterEmail><![CDATA[rh.cascavel@monvizo.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Realizar a prospecção, atendimento e negociação com clientes, promovendo a venda de equipamentos de climatização e serviços de infraestrutura, acompanhando todo o ciclo de vendas até o fechamento, assegurando a satisfação do cliente e o alcance das metas estabelecidas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Prospectar novos clientes e atender demandas comerciais, promovendo a venda de equipamentos de ar-condicionado e serviços de infraestrutura;<br />- Realizar negociações comerciais, acompanhando todo o ciclo de vendas, desde a prospecção até o fechamento do contrato;<br />- Agendar e realizar visitas comerciais e técnicas, identificando as necessidades dos clientes e propondo soluções personalizadas;<br />- Participar de reuniões com clientes e áreas internas para alinhamento de projetos e propostas comerciais;<br />- Identificar oportunidades de novos negócios, atuando de forma estratégica para expansão da carteira de clientes;<br />- Elaborar e acompanhar propostas comerciais, garantindo retorno e follow-up contínuo junto aos clientes;<br />- Trabalhar com metas e indicadores de desempenho, buscando resultados consistentes e crescimento nas vendas;<br />- Manter o CRM atualizado com informações de clientes, visitas, negociações e status das oportunidades;<br />- Atuar em parceria com as áreas internas (engenharia, logística, faturamento e pós-vendas), garantindo qualidade na entrega das soluções.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo;<br />- Experiência com vendas internas, televendas ou vendas externas;<br />- Conhecimento em sistemas de CRM e pacote Office.<br /><br /><br /><b>Benefícios</b><br /><br />- Vale alimentação: R$ 813,20/mês;<br />- Vale refeição: R$ 28,72/dia trabalhado;<br />- Vale café: R$4,00/dia trabalhado;<br />- Plano odontológico;<br />- Plano de saúde;<br />- Vale transporte;<br />- Seguro de vida;<br />- Comissão.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdemonvizoarcondicionadoclimatizacaoevendas/27/vendedor-externo-foz-do-iguacu-pr?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[11750439]]></companyId>
-    <city><![CDATA[Foz do Iguaçu]]></city>
     <state><![CDATA[Paraná]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -98679,31 +98571,6 @@ Facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[ac35dc76-d6fc-4d23-beec-3dcd824334d9]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[ac35dc76-d6fc-4d23-beec-3dcd824334d9]]></partnerRequisitionId>
-    <company><![CDATA[Growth Supplements Carreiras]]></company>
-    <title><![CDATA[TÉCNICO DE SEGURANÇA DO TRABALHO]]></title>
-    <posterEmail><![CDATA[dienifer.marques@grwt.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <b>Técnico de Segurança do trabalho </b> para integrar no nosso time. Se você tem paixão por excelência, domínio técnico na sua área e busca um ambiente onde o sucesso coletivo é prioridade, essa oportunidade é para você. Aqui, você terá o espaço para atuar nos programas e procedimentos de Segurança do Trabalho e Higiene Ocupacional, visando a prevenção de acidentes 
-e doenças ocupacionais e o cumprimento integral da legislação (NRs); Conduzir inspeções, treinamentos, investigações de 
-incidentes e participar da elaboração e atualização de laudos (PPRA/PGR, LTCAT) e documentos técnicos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar inspeções diárias de housekeeping, desvios e condições inseguras, preenchendo checklists padronizados; </li><li>Auxiliar na especificação, distribuição, controle de estoque e registros de entrega de EPIs; </li><li>Manter atualizado o arquivo físico e digital de ordens de serviço, treinamentos, checklists e registros de incidentes de 
-baixo risco; </li><li>Realizar integração de novos colaboradores, apresentando e orientando sobre a segurança no trabalho;
-Orientações aos colaboradores aplicando DDS para seguimento das normas e regulamentações da organização; </li><li>Planejar e ministrar treinamentos obrigatórios (Integração, NR-35, NR-33, CIPA, entre outros); </li><li>Elaborar e revisar Análises Preliminares de Risco (APR)  e Permissões de Trabalho (PT); 
-Conduzir a investigação de acidentes/incidentes, determinando causas imediatas e propondo planos de ação corretiva; </li><li>Apoiar o Gerente na atualização e elaboração de laudos (PPRA/PGR, LTCAT); </li><li>Realizar outras atividades pertinentes à função, conforme a necessidade da área e/ou orientação do superior imediato;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso Técnico Segurança do Trabalho; </li><li>Registro Profissional ativo;</li><li>Experiência de 2 anos;</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Convênio Farmácia</li><li>Vale alimentação R$1.100,00</li><li>Seguro de Vida</li><li>Plano Odontológico</li><li>Abono Aniversário</li><li>Campanha de vacinação e ações de saúde ao longo do ano</li><li>Desconto Exclusivo para compra de produtos Growth</li><li>R$300,00 em cupom para compras no site no mês de aniversário</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/growthtalentos/82/tecnico-de-seguranca-do-trabalho?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[112227475]]></companyId>
-    <city><![CDATA[Extrema]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[94e037bc-ca9c-44f7-811b-697d53304edf]]></partnerJobId>
     <partnerRequisitionId><![CDATA[94e037bc-ca9c-44f7-811b-697d53304edf]]></partnerRequisitionId>
     <company><![CDATA[Growth Supplements Carreiras]]></company>
@@ -108082,13 +107949,57 @@ materiais<br /><br /><br /><b>Benefícios</b><br /><br />Alimentação na empres
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[f23d64a2-7bf9-4a08-914d-177e5d26350b]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[f23d64a2-7bf9-4a08-914d-177e5d26350b]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[ee76945e-d703-46ea-9ed0-2f46b499ac58]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[ee76945e-d703-46ea-9ed0-2f46b499ac58]]></partnerRequisitionId>
     <company><![CDATA[ONISTT ENGENHARIA]]></company>
-    <title><![CDATA[OFICIAL DE MANUTENÇÃO PREDIAL | GUARULHOS]]></title>
+    <title><![CDATA[OFICIAL INSTALADOR GUARULHOS]]></title>
     <posterEmail><![CDATA[rh2@onistt.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade na sua carreira? Temos uma proposta empolgante que pode ser o próximo passo na sua trajetória profissional! Em um ambiente dinâmico e inovador, buscamos pessoas apaixonadas pelo que fazem e dispostas a aprender e se desenvolver constantemente. <br /><br />Aqui, você fará parte de uma equipe comprometida e colaborativa, onde o seu talento será reconhecido e valorizado. Oferecemos um espaço que inspira a criatividade e a solução de desafios técnicos. Se você está pronto(a) para aprimorar suas habilidades e contribuir para a excelência dos nossos serviços, queremos conhecer você. <br /><br /><br />Não perca a chance de integrar um time de sucesso, onde seu empenho fará a diferença. Venha construir o seu futuro conosco!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Instalação e manutenção predial preventiva e corretiva em ambiente industrial/logístico;</li><li>Apoio em serviços de elétrica básica, hidráulica, alvenaria, pintura e reparos gerais;</li><li>Inspeções de rotina em instalações e equipamentos prediais;</li><li>Apoio na troca de lâmpadas, tomadas, torneiras, válvulas e pequenos reparos;</li><li>Auxílio na conservação da infraestrutura predial e áreas operacionais;</li><li>Organização de ferramentas, materiais e ambiente de trabalho;</li><li>Apoio no preenchimento de ordens de serviço e registros de manutenção;</li><li> Acompanhamento de prestadores e fornecedores em atividades internas quando necessário;</li><li>Cumprimento de normas de segurança e utilização correta de EPIs.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência prévia com manutenção predial;</li><li>Conhecimento básico em elétrica, hidráulica e manutenção civil;</li><li>Vivência com manutenção preventiva e corretiva predial;</li><li>Conhecimento básico em ferramentas e equipamentos de manutenção;</li><li>NR-10 e NR-35 (desejável);</li><li>Disponibilidade para atuação em ambiente industrial/logístico;</li><li>Facilidade para trabalho em equipe e execução operacional.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Refeição;</li><li>Vale Alimentação pós-experiência;</li><li>Vale Transporte;</li><li>Vale Combustível;</li><li>Seguro de vida;</li><li>Convênio médico pós-experiência;</li><li>TotalPass;</li><li>MediQuo (Terapias e telemedicina online);</li><li>Day-off ou Vale-presente.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/onistt/9/oficial-de-manutencao-predial-guarulhos?applicationSource=0]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade na sua carreira? Temos uma proposta empolgante que pode ser o próximo passo na sua trajetória profissional! Em um ambiente dinâmico e inovador, buscamos pessoas apaixonadas pelo que fazem e dispostas a aprender e se desenvolver constantemente. <br /><br />Aqui, você fará parte de uma equipe comprometida e colaborativa, onde o seu talento será reconhecido e valorizado. Oferecemos um espaço que inspira a criatividade e a solução de desafios técnicos. Se você está pronto(a) para aprimorar suas habilidades e contribuir para a excelência dos nossos serviços, queremos conhecer você. <br /><br /><br />Não perca a chance de integrar um time de sucesso, onde seu empenho fará a diferença. Venha construir o seu futuro conosco!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar instalações de infraestrutura elétrica de baixa tensão, incluindo eletrodutos, eletrocalhas, perfilados, caixas de passagem e suportações metálicas;
+</li>
+<li>
+Realizar passagem, organização, identificação e terminação de cabos elétricos, de rede, dados e comando;
+</li>
+<li>
+Instalar e fixar dispositivos de CFTV, Controle de Acesso, sensores, leitoras, botoeiras, fechaduras eletromagnéticas e demais equipamentos de segurança eletrônica;
+</li>
+<li>
+Executar testes básicos de continuidade, polaridade, alimentação elétrica e funcionamento físico dos dispositivos instalados;
+</li>
+<li>
+Interpretar projetos, plantas e diagramas para execução das atividades em campo;
+</li>
+<li>
+Garantir a organização, identificação e rastreabilidade das instalações realizadas;
+</li>
+<li>
+Apoiar o comissionamento e a entrega técnica dos sistemas instalados;
+</li>
+<li>
+Cumprir rigorosamente os procedimentos de segurança do trabalho e utilização de EPIs e EPCs;
+</li>
+<li>
+Zelar pela qualidade, acabamento e conformidade técnica das instalações.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo;
+</li>
+<li>
+Experiência com instalações elétricas de baixa tensão, infraestrutura elétrica ou cabeamento estruturado;</li>
+<li>
+Conhecimento em montagem de infraestrutura utilizando eletrodutos, eletrocalhas e perfilados;
+</li>
+<li>
+Capacidade de leitura e interpretação básica de projetos elétricos e diagramas;
+</li>
+<li>
+Conhecimento no uso de ferramentas elétricas e manuais;
+</li>
+<li>
+NR-10 válida;
+</li>
+<li>
+Disponibilidade para atuação em campo;
+</li>
+<li>
+Comprometimento com segurança, qualidade e organização.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Refeição;</li><li>Vale Alimentação pós-experiência;</li><li>Vale Transporte;</li><li>Vale Combustível;</li><li>Seguro de vida;</li><li>Convênio médico pós-experiência;</li><li>TotalPass;</li><li>MediQuo (Terapias e telemedicina online);</li><li>Day-off ou Vale-presente.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/onistt/19/oficial-instalador-guarulhos?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[9437638]]></companyId>
     <city><![CDATA[Guarulhos]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -108102,103 +108013,19 @@ materiais<br /><br /><br /><b>Benefícios</b><br /><br />Alimentação na empres
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[22a4b169-21eb-495c-a68a-51cfa5ed75b4]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[22a4b169-21eb-495c-a68a-51cfa5ed75b4]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[c4b6c54f-93ca-437e-bbd3-1b7a18dcd315]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[c4b6c54f-93ca-437e-bbd3-1b7a18dcd315]]></partnerRequisitionId>
     <company><![CDATA[ONISTT ENGENHARIA]]></company>
-    <title><![CDATA[TÉCNICO DE SISTEMAS | CABEAMENTO ESTRUTURADO]]></title>
+    <title><![CDATA[OFICIAL DE MANUTENÇÃO]]></title>
     <posterEmail><![CDATA[rh2@onistt.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Técnico(a) de Cabeamento Estruturado</strong> para atuar em obras e projetos de infraestrutura de redes, sendo responsável pela execução, organização, identificação, certificação e manutenção de cabeamentos estruturados e fibra óptica.O profissional atuará diretamente em campo, realizando a instalação de infraestrutura de cabeamento, montagem e organização de racks, conectorização, fusão de fibras ópticas, identificação de pontos e realização de testes, garantindo que os serviços sejam executados de acordo com os projetos, padrões técnicos e procedimentos da empresa.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Executar instalações de cabeamento estruturado em obras e ambientes corporativos;</li><li>Realizar lançamento, passagem, acomodação e organização de cabos de rede;</li><li>Realizar conectorização de cabos de cobre e montagem de pontos de rede;</li><li>Executar montagem, organização e identificação de racks, patch panels, DIOs e demais componentes da infraestrutura;</li><li>Realizar fusão, conectorização e organização de fibras ópticas;</li><li>Executar testes e certificações de cabeamento de cobre e fibra óptica, conforme os equipamentos e procedimentos disponíveis;</li><li>Identificar e etiquetar cabos, pontos, patch panels, DIOs e demais elementos da infraestrutura;</li><li>Interpretar plantas, diagramas, projetos e listas de pontos para execução dos serviços;</li><li>Realizar a organização física dos cabos dentro de racks, eletrocalhas, leitos, eletrodutos e demais caminhos de infraestrutura;</li><li>Verificar a qualidade e conformidade das instalações executadas;</li><li>Identificar falhas, perdas, problemas de conexão e outras não conformidades no cabeamento;</li><li>Realizar correções e ajustes necessários na infraestrutura;</li><li>Apoiar a equipe na identificação de materiais e recursos necessários para execução das atividades;</li><li>Registrar informações de campo, testes e serviços executados;</li><li>Manter ferramentas, materiais e ambiente de trabalho organizados e seguros.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência anterior com <strong>cabeamento estruturado e infraestrutura de redes</strong>;</li><li>Conhecimento em instalação e organização de racks;</li><li>Experiência com conectorização de cabos de rede;</li><li>Conhecimento em montagem e organização de patch panels e DIOs;</li><li>Conhecimento em <strong>fibra óptica e processos de fusão</strong>;</li><li>Capacidade de interpretar plantas, projetos e listas de pontos;</li><li>Conhecimento de infraestrutura para passagem de cabos, como eletrocalhas, eletrodutos, leitos e demais sistemas de encaminhamento;</li><li>Conhecimento em testes de continuidade, identificação e validação de pontos;</li><li>NR-10 e NR-35 atualizadas;</li><li>Disponibilidade para atuação em obras e campo (Viagens);</li><li>CNH B.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Refeição;</li><li>Vale Alimentação pós-experiência;</li><li>Vale Transporte;</li><li>Vale Combustível;</li><li>Seguro de vida;</li><li>Convênio médico pós-experiência;</li><li>TotalPass;</li><li>Claude (Terapias e telemedicina online);</li><li>Day-off ou Vale-presente.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/onistt/14/tecnico-de-sistemas-cabeamento-estruturado?applicationSource=0]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade na sua carreira? Temos uma proposta empolgante que pode ser o próximo passo na sua trajetória profissional! Em um ambiente dinâmico e inovador, buscamos pessoas apaixonadas pelo que fazem e dispostas a aprender e se desenvolver constantemente. <br /><br />Aqui, você fará parte de uma equipe comprometida e colaborativa, onde o seu talento será reconhecido e valorizado. Oferecemos um espaço que inspira a criatividade e a solução de desafios técnicos. Se você está pronto(a) para aprimorar suas habilidades e contribuir para a excelência dos nossos serviços, queremos conhecer você. <br /><br /><br />Não perca a chance de integrar um time de sucesso, onde seu empenho fará a diferença. Venha construir o seu futuro conosco!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Instalação e manutenção predial preventiva e corretiva em ambiente industrial/logístico;</li><li>Apoio em serviços de elétrica básica, hidráulica, alvenaria, pintura e reparos gerais;</li><li>Inspeções de rotina em instalações e equipamentos prediais;</li><li>Apoio na troca de lâmpadas, tomadas, torneiras, válvulas e pequenos reparos;</li><li>Auxílio na conservação da infraestrutura predial e áreas operacionais;</li><li>Organização de ferramentas, materiais e ambiente de trabalho;</li><li>Apoio no preenchimento de ordens de serviço e registros de manutenção;</li><li> Acompanhamento de prestadores e fornecedores em atividades internas quando necessário;</li><li>Cumprimento de normas de segurança e utilização correta de EPIs.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência prévia com manutenção predial;</li><li>Conhecimento básico em elétrica, hidráulica e manutenção civil;</li><li>Vivência com manutenção preventiva e corretiva predial;</li><li>Conhecimento básico em ferramentas e equipamentos de manutenção;</li><li>NR-10 e NR-35 (desejável);</li><li>Disponibilidade para atuação em ambiente industrial/logístico;</li><li>Facilidade para trabalho em equipe e execução operacional.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Refeição;</li><li>Vale Alimentação pós-experiência;</li><li>Vale Transporte;</li><li>Vale Combustível;</li><li>Seguro de vida;</li><li>Convênio médico pós-experiência;</li><li>TotalPass;</li><li>MediQuo (Terapias e telemedicina online);</li><li>Day-off ou Vale-presente.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/onistt/18/oficial-de-manutencao?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[9437638]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
+    <city><![CDATA[Guarulhos]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
-        <highEnd>
-          <amount><![CDATA[3600.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[3000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[bff5e74f-0591-4b28-abab-7875bac7e9c6]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[bff5e74f-0591-4b28-abab-7875bac7e9c6]]></partnerRequisitionId>
-    <company><![CDATA[ONISTT ENGENHARIA]]></company>
-    <title><![CDATA[TÉCNICO DE SEGURANÇA DO TRABALHO | RESIDENTE]]></title>
-    <posterEmail><![CDATA[rh2@onistt.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Técnico(a) de Segurança do Trabalho para atuação residente em obra, acompanhando diariamente as atividades realizadas no canteiro e contribuindo para a prevenção de acidentes, promoção da segurança das equipes e cumprimento dos procedimentos e normas aplicáveis.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Acompanhar e fiscalizar as condições de segurança no canteiro de obras;</li><li>Realizar inspeções de segurança e identificar condições e comportamentos de risco;</li><li>Orientar colaboradores, equipes próprias e terceiros quanto aos procedimentos de segurança;</li><li>Realizar DDS e treinamentos relacionados à Segurança do Trabalho;</li><li>Acompanhar a utilização correta dos EPIs e EPCs;</li><li>Apoiar a implementação e o cumprimento do PGR e demais documentos de Segurança do Trabalho;</li><li>Acompanhar atividades críticas, incluindo trabalhos em altura, atividades com eletricidade, movimentação de cargas, uso de máquinas e equipamentos e demais atividades de risco;</li><li>Apoiar a liberação e o acompanhamento de atividades conforme os procedimentos de segurança da obra;</li><li>Registrar desvios, não conformidades e ocorrências, acompanhando a implementação das respectivas medidas corretivas;</li><li>Controlar e acompanhar a documentação de segurança dos colaboradores e empresas terceirizadas;</li><li>Participar de reuniões de segurança com as equipes de obra, liderança e cliente;</li><li>Apoiar a investigação e análise de incidentes e acidentes de trabalho;</li><li>Elaborar relatórios e registros relacionados às atividades de Segurança do Trabalho;</li><li>Atuar em conjunto com a liderança da obra para promover uma cultura de prevenção e segurança.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso Técnico em Segurança do Trabalho completo;</li><li>Registro profissional ativo no Ministério do Trabalho;</li><li>Experiência anterior como Técnico de Segurança do Trabalho em obras;</li><li>Conhecimento das principais Normas Regulamentadoras aplicáveis à construção civil e atividades de campo, especialmente NR-01, NR-06, NR-10, NR-12, NR-18, NR-33 e NR-35;</li><li>Experiência com inspeções de campo, DDS, controle de EPI/EPC e documentação de Segurança do Trabalho;</li><li>Boa comunicação e capacidade de orientar e cobrar equipes quanto ao cumprimento dos procedimentos de segurança;</li><li>Disponibilidade para atuação residente na obra.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Refeição;</li><li>Vale Alimentação pós-experiência;</li><li>Vale Transporte;</li><li>Vale Combustível;</li><li>Seguro de vida;</li><li>Convênio médico pós-experiência;</li><li>TotalPass;</li><li>Claude (Terapias e telemedicina online);</li><li>Day-off ou Vale-presente.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/onistt/13/tecnico-de-seguranca-do-trabalho-residente?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[9437638]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[3300.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[3000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[214ac716-a65e-4d13-843c-d79a15e5d998]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[214ac716-a65e-4d13-843c-d79a15e5d998]]></partnerRequisitionId>
-    <company><![CDATA[ONISTT ENGENHARIA]]></company>
-    <title><![CDATA[ENGENHEIRO DE CONTROLE E AUTOMAÇÃO | RESIDENTE]]></title>
-    <posterEmail><![CDATA[rh2@onistt.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Engenheiro Residente para atuar na implantação de uma nova planta industrial de grande porte, sendo responsável pelo gerenciamento técnico da obra, coordenação das equipes de campo, planejamento executivo, acompanhamento físico das atividades, interface com cliente, fiscalização dos serviços, gestão de fornecedores e suporte às atividades de comissionamento e start-up dos sistemas.O profissional será o principal representante da engenharia no canteiro, garantindo o cumprimento do cronograma, qualidade, segurança e conformidade técnica do empreendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Coordenar diariamente as equipes de instalação e montagem em campo;</li><li>Planejar e controlar cronograma executivo das atividades;</li><li>Acompanhar avanço físico da obra;</li><li>Gerenciar frentes de trabalho multidisciplinares;</li><li>Realizar interface técnica com cliente, fiscalização e demais contratadas;</li><li>Validar projetos executivos e identificar interferências entre disciplinas;</li><li>Coordenar liberações de áreas e planejamento das atividades;</li><li>Acompanhar inspeções, testes, comissionamento e start-up dos sistemas;</li><li>Controlar materiais, equipamentos e produtividade das equipes;</li><li>Participar das reuniões de obra e emitir relatórios gerenciais;</li><li>Garantir atendimento aos requisitos de qualidade, segurança e documentação técnica;</li><li>Coordenar elaboração de As Built, Data Book e documentação final do empreendimento.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa em Engenharia de Automação e Controle, Engenharia Elétrica, Engenharia Mecânica ou Engenharia Civil;</li><li>CREA ativo;</li><li>Experiência comprovada como Engenheiro Residente, Engenheiro de Campo ou Coordenador de Implantação;</li><li>Vivência em obras industriais de médio ou grande porte;</li><li>Experiência em gerenciamento de implantação de sistemas de automação, telecomunicações e sistemas especiais;</li><li>Conhecimento em planejamento de obras, controle de cronograma e gestão de equipes;</li><li>Experiência com comissionamento e entrega técnica de sistemas;</li><li>Leitura e interpretação de projetos multidisciplinares.</li></ul><br /><br /><b>Benefícios</b><br /><br />Os benefícios variam de acordo com a modalidade de contratação.<br /><ul><li>Vale Refeição;</li><li>Vale Alimentação pós-experiência;</li><li>Vale Transporte;</li><li>Vale Combustível;</li><li>Seguro de vida;</li><li>Convênio médico pós-experiência;</li><li>TotalPass;</li><li>Claude (Terapias e telemedicina online);</li><li>Day-off ou Vale-presente.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/onistt/12/engenheiro-de-controle-e-automacao-residente?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[9437638]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[2054ec1c-20b3-4bf3-ae05-cc60a021fe67]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[2054ec1c-20b3-4bf3-ae05-cc60a021fe67]]></partnerRequisitionId>
-    <company><![CDATA[ONISTT ENGENHARIA]]></company>
-    <title><![CDATA[ENCARREGADO DE OBRAS | ELÉTRICA]]></title>
-    <posterEmail><![CDATA[rh2@onistt.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A ONISTT está em busca de <strong>Encarregado de Obras</strong> para atuar na condução de equipes e frentes de trabalho relacionadas a projetos de <strong>engenharia de controle, automação e sistemas prediais</strong>, garantindo a execução das atividades dentro dos padrões técnicos, de qualidade, segurança e prazo estabelecidos.Buscamos um profissional com forte experiência prática em campo, conhecimento em <strong>instalações elétricas, infraestrutura, automação e sistemas de controle</strong>, que tenha capacidade de liderar equipes, interpretar projetos e tomar decisões diante das situações encontradas na obra.O profissional deverá possuir perfil <strong>mão na massa</strong>, sendo capaz de apoiar tecnicamente a equipe e executar atividades quando necessário, principalmente em situações que exijam maior conhecimento técnico ou resolução de problemas em campo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Coordenar e acompanhar equipes de Oficiais, Técnicos e demais profissionais de campo;</li><li>Distribuir as atividades da equipe de acordo com o planejamento da obra e a capacidade técnica de cada profissional;</li><li>Acompanhar diariamente o andamento das frentes de trabalho, garantindo produtividade, qualidade e cumprimento dos prazos;</li><li>Interpretar projetos, plantas, diagramas elétricos, diagramas de controle e demais documentos técnicos;</li><li>Acompanhar a execução de instalações elétricas, infraestrutura, cabeamento, automação e sistemas de controle;</li><li>Orientar tecnicamente a equipe durante a execução das atividades;</li><li>Inspecionar os serviços realizados, verificando acabamento, posicionamento, identificação, organização e conformidade com o projeto;</li><li>Identificar divergências entre projeto e condições encontradas em campo, buscando soluções e reportando situações que necessitem de decisão superior;</li><li>Apoiar tecnicamente a equipe na solução de problemas de instalação, interligação e funcionamento dos sistemas;</li><li>Colocar a mão na massa quando necessário, auxiliando diretamente na execução de instalações e correções de maior complexidade;</li><li>Acompanhar a montagem de infraestrutura elétrica, incluindo eletrocalhas, eletrodutos, perfilados, leitos, caixas e suportações;</li><li>Acompanhar a passagem, identificação e terminação de cabos de força, comando, controle, rede e dados;</li><li>Acompanhar a instalação e interligação de dispositivos e equipamentos de automação e controle;</li><li>Apoiar atividades relacionadas a painéis elétricos, comandos, sensores, atuadores, instrumentos e dispositivos de campo;</li><li>Acompanhar testes físicos e elétricos das instalações e apoiar a preparação das frentes para comissionamento;</li><li>Controlar o consumo e a necessidade de materiais, ferramentas e equipamentos da frente de trabalho;</li><li>Realizar levantamentos de materiais e informar necessidades de reposição com antecedência;</li><li>Garantir a organização, limpeza e segurança da frente de trabalho;</li><li>Acompanhar o cumprimento dos procedimentos de segurança e utilização correta dos EPIs e EPCs;</li><li>Realizar reportes sobre andamento, produtividade, pendências, necessidades de materiais e desvios técnicos da obra.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo;</li><li>Formação técnica em Eletrotécnica, Eletrônica, Automação, Eletromecânica, Mecatrônica ou áreas correlatas — desejável/fortemente recomendado;</li><li>Experiência mínima de 5 anos em obras, instalações elétricas, automação ou infraestrutura;</li><li>Experiência comprovada na liderança de equipes de campo;</li><li>Vivência em obras de engenharia, automação, instalações elétricas ou sistemas prediais;</li><li>Experiência com leitura e interpretação de projetos;</li><li>Conhecimento prático de instalações elétricas e infraestrutura;</li><li>NR-10 válida;</li><li>NR-35 válida;</li><li>CNH categoria B;</li><li>Disponibilidade para atuação em obras a nível nacional.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Refeição;</li><li>Vale Alimentação pós-experiência;</li><li>Vale Transporte;</li><li>Vale Combustível;</li><li>Seguro de vida;</li><li>Convênio médico pós-experiência;</li><li>TotalPass;</li><li>Clude (Terapias e telemedicina online);</li><li>Day-off ou Vale-presente.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/onistt/16/encarregado-de-obras-eletrica?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[9437638]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[5000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[4000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -116083,6 +115910,26 @@ plataformas de RH/SSO.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><l
     <companyId><![CDATA[28348245]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[21218b09-e1e1-4991-8b93-aec66d53ff49]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[21218b09-e1e1-4991-8b93-aec66d53ff49]]></partnerRequisitionId>
+    <company><![CDATA[Univille]]></company>
+    <title><![CDATA[BIBLIOTECARIO(A)]]></title>
+    <posterEmail><![CDATA[maite.nascimento@univille.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />•Formação em Biblioteconomia, CRB Ativo;•Desejável experiência com SoftwarePergamum, portal da Capes e outras base dedados, conhecimento MARC21, AACR2;•Desejável experiência com capacitação etreinamentos;•Marketing em Biblioteca, conferência debibliografia, elaboração de relatórios,atender visitas técnicas, fichas catalográficase catalogar materiais bibliográficos.•Elaboração de relatórios e atendimento a visitas técnicas (MEC) .<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Atuação estratégica na gestão da informação e no suporte ao cumprimento das exigências regulatórias do Ministério da Educação (MEC) para cursos de graduação e pós-graduação. Responsável por garantir que a infraestrutura, o acervo e os serviços da biblioteca estejam alinhados aos instrumentos de avaliação do MEC (autorização, reconhecimento e renovação de reconhecimento de cursos).<br /><br /><b>Requisitos e qualificações</b><br /><br />•Formação em Biblioteconomia, CRB Ativo;•Desejável experiência com SoftwarePergamum, portal da Capes e outras base dedados, conhecimento MARC21, AACR2;•Desejável experiência com capacitação etreinamentos;•Marketing em Biblioteca, conferência debibliografia, elaboração de relatórios,atender visitas técnicas, fichas catalográficase catalogar materiais bibliográficos.•Elaboração de relatórios e atendimento a visitas técnicas (MEC) .]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenauniville/27/bibliotecario-a?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[15093238]]></companyId>
+    <city><![CDATA[Joinville]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
