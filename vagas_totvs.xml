@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 04 Nov 2026 12:15:28 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 13:17:04 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
   <expectedJobCount><![CDATA[4130]]></expectedJobCount>
@@ -5205,96 +5205,6 @@ Certificações: </li><li>Certificação: Cursos sobre o tema UX; </li><li>Certi
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[59dadddb-bb05-4961-9409-dbaf21418285]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[59dadddb-bb05-4961-9409-dbaf21418285]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[CLOUD] ESPECIALISTA DE PRODUTO]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Product Owner com foco estratégico em Cloud Billing &amp; Pricing</strong> para integrar o time responsável pela nova plataforma de <strong>IaaS (Infrastructure as a Service) da TOTVS Cloud</strong>.
-O profissional será o grande responsável pela evolução dos produtos e capacidades de monetização, atuando tanto na estratégia comercial quanto na operação técnica da definição de modelos de tarifação e precificação para ambientes de nuvem <strong>privada, híbrida e pública</strong>.<br />
-Você atuará como o elo central entre <strong>Produto, Tecnologia, Cloud, Finanças, Controladoria, Comercial, Fiscal e Operações</strong>.
-Sua missão será traduzir necessidades de negócio densas em requisitos, regras funcionais e capacidades sistêmicas, garantindo uma experiência de cobrança escalável, transparente e 100% aderente aos modernos modelos de consumo de Cloud.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Estratégia e Modelos de Precificação</strong>
-<ul>
-<li>
-Definir e evoluir a estratégia de Billing e Pricing da plataforma IaaS.
-</li>
-<li>
-Estruturar modelos de tarifação (AWS, Azure, OCI, etc.) considerando diversas métricas (por hora, minuto, VM, vCPU, RAM, IOPS, tráfego, backup, SLA) e formatos (pay-as-you-go, mensalidade, reserva, compromisso de consumo, franquia).
-</li>
-</ul>
-<strong>Engenharia Financeira do Produto</strong>
-<ul>
-<li>
-Definir listas de preços, regras de markup, margem, descontos, campanhas promocionais e exceções.
-</li>
-<li>
-Estruturar modelos de comissão e remuneração comercial, definindo com clareza as regras para composição do preço final (custo provedor + custos internos + impostos + margem + markup + comissão).
-</li>
-</ul>
-<strong>Gestão de Regras de Negócio de Cobrança</strong>
-<ul>
-<li>
-Estruturar o rateio e alocação de custos entre clientes, tenants e ambientes.
-</li>
-<li>
-Definir regras vitais de prorrata, arredondamento, períodos de faturamento, tolerâncias, créditos, tratamento de câmbio e variações de custo.
-</li>
-</ul>
-<strong>Rastreabilidade e Integração</strong>
-<ul>
-<li>
-Mapear regras para transformar o billing bruto dos provedores Cloud em uma cobrança comercial TOTVS, garantindo rastreabilidade fim a fim (consumo → custo → preço → contrato → faturamento → receita).
-</li>
-<li>
-Definir requisitos de APIs e integrações entre Cloud Providers, motor de Billing, CRM, ERP, catálogo e sistemas fiscais.
-</li>
-</ul>
-<strong>Discovery e Gestão de Backlog</strong>
-<ul>
-<li>
-Conduzir discovery com áreas de negócio para novos modelos de monetização.
-</li>
-<li>
-Priorizar o backlog da squad de Billing, elaborando épicos, histórias de usuário e critérios de aceite detalhados, garantindo que novos recursos IaaS nasçam monetizáveis (Monetização by design).
-</li>
-</ul>
-<strong>FinOps e Governança de Indicadores</strong>
-<ul>
-<li>
-Validar precificação através de simulações e cenários de rentabilidade.
-</li>
-<li>
-Monitorar KPIs como receita, margem, custo Cloud, ARPU, MRR, churn e inadimplência.
-</li>
-<li>
-Trabalhar junto aos hyperscalers para entender contratos e atuar na evolução constante do Cloud Economics. </li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência com Cloud Economics: Domínio de conceitos de Cloud Billing, FinOps, Cost Management e modelos de cobrança (Pay-as-you-go, Reserved/Committed Consumption, Subscription, Usage Based Pricing).
-</li>
-<li>
-Arquitetura de Precificação: Amplo conhecimento na precificação de infraestrutura de nuvem (Compute, vCPU, memória, storage, network, bancos de dados, load balancers, etc.) para ecossistemas AWS, Microsoft Azure ou Oracle Cloud Infrastructure (OCI).
-</li>
-<li>
-Gestão de Produtos Financeiros/B2B: Forte vivência com produtos B2B e modelos de negócio recorrentes. Domínio em dinâmicas de markup, margem, custo, preço de venda, desconto e gestão complexa de catálogos e contratos.
-</li>
-<li>
-Integração e Sistemas: Conhecimento prático das lógicas de integrações sistêmicas (APIs) envolvendo CRM, ERP, marketplaces e sistemas de faturamento.
-</li>
-<li>
-Metodologia de Produto: Sólida experiência em metodologias ágeis, Product Discovery e tradução de regras de negócio em um backlog executável.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12537/cloud-especialista-de-produto?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[778744c5-e14b-4beb-99dd-93585b8d143c]]></partnerJobId>
     <partnerRequisitionId><![CDATA[778744c5-e14b-4beb-99dd-93585b8d143c]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -9636,6 +9546,26 @@ engajamento cotidiano;<br />- Dia da Fruta Ship;<br />- Wellhub (Gympass);<br />
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[fd69c112-7205-4dad-8242-f9ef707db14a]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[fd69c112-7205-4dad-8242-f9ef707db14a]]></partnerRequisitionId>
+    <company><![CDATA[Fundação MT]]></company>
+    <title><![CDATA[Assistente Pesquisa - Vaga disponível também para PCD's]]></title>
+    <posterEmail><![CDATA[luanalima@fundacaomt.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />O profissional selecionado fará parte da equipe de laboratório, sendo responsável por apoiar a execução de atividades e experimentos de pesquisa, preparar amostras, organizar materiais e realizar controles e registros das atividades. Também atuará no suporte às rotinas administrativas, controle de estoque, elaboração de planilhas e relatórios, além de prestar atendimento ao público interno e externo, contribuindo para a organização e melhoria dos processos do setor.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Apoiar a execução de atividades e experimentos de pesquisa em laboratório e casa de vegetação;<br />- Auxiliar no preparo de amostras, organização de materiais e condução de experimentos de pesquisa;<br />- Elaborar e atualizar planilhas de controle, registros de atividades e relatórios;<br />- Apoiar o controle de estoque, materiais, insumos e registros de vendas;<br />- Realizar atendimento ao público interno e externo, prestando informações e suporte às demandas do setor;<br />- Contribuir para a organização dos processos e identificação de oportunidades de melhoria nas rotinas do laboratório.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino Superior Cursando em Ciências Agrárias ou áreas correlatas;<br /><br />- Conhecimento em Pacote Office (especialmente Excel e Word);<br />- Conhecimento básico em Fitopatologia, Entomologia e Nematologia (vivência em atividades laboratoriais é um diferencial);<br />- Conhecimento em controles administrativos, estoque e elaboração de relatórios.<br /><br /><br /><b>Benefícios</b><br /><br />- Seguro de Vida;- Plano de Saúde;<br />- Plano Odontológico;<br />- Previdência Privada;<br />- Vale Alimentação;<br /><br />- Gympass;<br />- Sesc;<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscofundacaomt/168/assistente-pesquisa-vaga-disponivel-tambem-para-pcd-s?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[9363486]]></companyId>
+    <city><![CDATA[Rondonópolis]]></city>
+    <state><![CDATA[Mato Grosso]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[e8a40700-b024-449a-a137-7ab4be79de20]]></partnerJobId>
@@ -19254,6 +19184,74 @@ dos veículos.<br /><br /><i><b>Todas as nossas vagas são elegíveis para PCD (
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[bb576433-f7da-481a-a5d6-9359f178e9b0]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[bb576433-f7da-481a-a5d6-9359f178e9b0]]></partnerRequisitionId>
+    <company><![CDATA[Transmartins]]></company>
+    <title><![CDATA[Ajudante de carga e descarga]]></title>
+    <posterEmail><![CDATA[financeirocrf@transmartins.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Abordar o cliente para coleta e entrega da mercadoria,
+recebendo e conferindo documentações fiscais e armazenando as cargas no
+caminhão.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />1.
+Efetuar carregamento e descarregamento dos veículos de transferências e de
+coletas e entregas.<br />
+<br />
+2. Apresentar-se aos clientes, sempre com
+educação e boa apresentação, identificando-se corretamente e anunciando o
+serviço.<br />
+<br />
+3. Conferir mercadorias e documentação de
+coleta/entrega.<br />
+<br />
+4. Solicitar recebimento e documentação das
+mercadorias entregues e/ou coletadas.<br />
+<br />
+5. Auxiliar atendendo ao telefone celular do
+motorista para informações gerais.<br />
+<br />
+6. Conservar o ambiente (interno) de trabalho
+mantendo-o organizado e limpo.<br />
+<br />
+7. Atualizar junto ao motorista o itinerário,
+sempre que receber chamado de novos serviços.<br />
+<br />
+8. Fazer a marcação da mercadoria de acordo com
+o documento fiscal no ato da coleta.<br />
+<br />
+9. Entrar em contato com a empresa em caso de
+dúvidas ou não conformidades.<br />
+<br />
+10. Auxiliar o motorista em manobras no geral.<br />
+<br />
+11. Realizar arrumação, amarração e enlonamento.<br />
+<br />
+12. Atuar no apoio ao gestor imediato nos
+processos inerentes à sua de atuação usufruindo da experiência para o
+autodesenvolvimento.
+
+<br />
+13. Executar a implantação de planos de trabalho e procedimentos do setor,
+efetivando e acompanhando as ações técnicas necessárias, a fim de alcançar os
+objetivos e metas estabelecidas.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino fundamental Incompleto <br />- Habilidade para
+trabalhar em equipe <br />- Boa comunicação
+<br /> - Proatividade
+<br /> - Organização e
+atenção aos detalhes
+<br /> - Disponibilidade
+para trabalho em turnos ou horário flexível.<br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de saúde;</li><li>Seguro de vida;</li><li>Plano odontológico;</li><li>Vale alimentação ou Vale refeição;</li><li>Participação nos resultados;</li><li>Universidade corporativa;</li><li>Day off;</li><li>Parcerias com faculdades;</li><li>Bônus nas férias</li><li>Desconto em farmácia;</li><li>E muito mais!</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/transmartins/187/ajudante-de-carga-e-descarga?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[65902004]]></companyId>
+    <city><![CDATA[Coronel Fabriciano]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[2f34e145-8bc0-48b5-9663-0a8cd2ffe0e5]]></partnerJobId>
     <partnerRequisitionId><![CDATA[2f34e145-8bc0-48b5-9663-0a8cd2ffe0e5]]></partnerRequisitionId>
     <company><![CDATA[Transmartins]]></company>
@@ -21719,6 +21717,38 @@ ensino SESI, SEST/SENAT.</li></ul>]]></description>
     <companyId><![CDATA[24487865]]></companyId>
     <city><![CDATA[Cornélio Procópio]]></city>
     <state><![CDATA[Paraná]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[2a4c95ce-c117-4740-bf96-9c42a252c6f7]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[2a4c95ce-c117-4740-bf96-9c42a252c6f7]]></partnerRequisitionId>
+    <company><![CDATA[Coopermota Cooperativa Agroindustrial]]></company>
+    <title><![CDATA[CLASSIFICADOR]]></title>
+    <posterEmail><![CDATA[raquel.andrade@coopermota.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade que permita utilizar suas habilidades, crescer profissionalmente e fazer parte de um ambiente dinâmico e desafiador? Temos uma vaga em aberto que pode ser a chance que você esperava! Procuramos pessoas dedicadas, organizadas, com facilidade para trabalhar em contato direto com clientes.  Que tenha vontade de aprender e contribuir ativamente para o sucesso de nossa equipe. Na nossa organização, valorizamos o potencial de cada colaborador e oferecemos um espaço de desenvolvimento, onde o trabalho em equipe e a inovação são incentivados diariamente. Se você deseja fazer parte de uma equipe engajada que busca sempre a excelência e a melhoria contínua, não perca a oportunidade de se candidatar. Estamos ansiosos para receber sua inscrição e descobrir como sua contribuição pode ser valiosa para nós! Venha construir o futuro junto conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Analisar os materiais coletados (grãos) para identificação e categorização adequada.<br /> - Realizar a classificação de produtos conforme normas e procedimentos estabelecidos.<br /> - Manter registros organizados e atualizados das classificações realizadas.<br /> - Colaborar com a equipe para garantir a precisão e a conformidade dos dados.<br /> - Participar de treinamentos e capacitações relacionados à área de classificação.<br /> - Sugerir melhorias nos processos de classificação e organização.<br /> - Auxiliar na elaboração de relatórios sobre as atividades de classificação.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br /> - Conhecimento em ferramentas de análise e classificação de grãos<br /> - Habilidade em realizar triagem e organização de informações<br /> - Experiência anterior na função ou em áreas afins<br /> - Capacidade de trabalhar em equipe e prestar apoio a outros setores<br /> - Atenção aos detalhes e precisão na execução de tarefas<br /> - Boa comunicação e habilidades interpessoais<br /> - Conhecimento em informática e pacote Office<br /> - Disponibilidade para trabalhar em turnos, se necessário<br /><br /><br /><b>Benefícios</b><br /><br />- Vale alimentação
+
+- Plano de Saúde Unimed com coparticipação 
+
+- Plano odontológico
+
+- Seguro de vida em grupo
+
+- Programa de Participação nos Resultados (PPR)
+
+- Bolsa de estudos;
+
+- Bônus por tempo de serviço;]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalhenacoopermota/71/classificador?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[24487865]]></companyId>
+    <city><![CDATA[Palmital]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -26621,34 +26651,6 @@ materiais;</li><li>Boa comunicação e facilidade para trabalhar em equipe;</li>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[f161ed1d-6c3a-441a-b33e-5a5dd7eb4ff9]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[f161ed1d-6c3a-441a-b33e-5a5dd7eb4ff9]]></partnerRequisitionId>
-    <company><![CDATA[Goop]]></company>
-    <title><![CDATA[Operador de Logística - Guarulhos]]></title>
-    <posterEmail><![CDATA[pedro.romani@goop.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Goop busca um(a) Operador(a) Logístico(a) para atuar nas rotinas de recebimento, movimentação, armazenagem, separação e expedição de materiais. Esse profissional será responsável por contribuir para a organização do estoque e para o cumprimento dos processos e prazos da operação, garantindo agilidade, atenção e qualidade nas atividades do dia a dia. Buscamos alguém organizado, comprometido, responsável e que tenha facilidade para trabalhar em equipe e seguir os procedimentos da operação.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar o recebimento e a conferência de notas fiscais,
-verificando quantidades, condições e especificações dos produtos;</li><li>Apoiar a realização dos inventários mensais e anuais, contribuindo para a conferência e acuracidade do estoque;</li><li>Apoiar o processo de expedição, bem como o atendimento a fornecedores e clientes para retirada de produtos;</li><li>Apoiar os processos de garantia e devolução de produtos, seguindo os procedimentos estabelecidos;</li><li>Organizar e armazenar os materiais, garantindo a correta
-identificação e organização do estoque;</li><li>Realizar, eventualmente, a abertura e o fechamento da
-filial, conforme necessidade da operação.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo;</li><li>Perfil responsável, proativo e comprometido com os processos
-e prazos da operação;</li><li>Experiência anterior em atividades de logística, estoque,
-recebimento ou expedição;</li><li>Organização e atenção aos detalhes para conferência de
-produtos e documentos;</li><li>Conhecimento básico em informática e sistemas de controle de
-estoque;</li><li>Conhecimento básico em conferência e movimentação de
-materiais;</li><li>Boa comunicação e facilidade para trabalhar em equipe;</li><li>Disponibilidade para atuar presencialmente em Guarulhos.</li></ul><br /><br /><b>Benefícios</b><br /><br /> <b>Nossos Benefícios</b><b><br /></b><b>Alimentação e Bem-Estar:</b><br />️Vale Refeição | Flexível – R$ 37,50/dia (inclusive nas férias );<br /> Frutas frescas todos os dias;<br />☕ Café da manhã;<br /> Lanche da tarde; <b> </b> <br /><br /><br /><b>Saúde e Qualidade de Vida:</b><br /> Assistência Médica (Porto) – com coparticipação;<br /> Assistência Odontológica (Porto);<br /> Seguro de Vida;<br />‍♂️ Total Pass;<br /> Desconto em Farmácias;<br /> Consultoria de Saúde | SEMEAR;<br /> Consultoria de Bem-estar | SEMEAR;<br /><b><br /></b><br /><b>Mobilidade:</b><br /> Vale Transporte ou Auxílio Combustível;<br /><b><br /></b><br /><b>Desenvolvimento e Educação:</b><br /> Bolsa de Estudos após 1 ano de empresa (mediante elegibilidade);<br /><b><br /></b><br /><b>Cuidado e Reconhecimento:</b><br /> Day off de aniversário;<br /> Convênio com SESC;<br /> PLR (atrelado ao batimento de metas).<br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsergoop/102/operador-de-logistica-guarulhos?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[10903946]]></companyId>
-    <city><![CDATA[Guarulhos]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[87993438-3464-43d3-a05c-dbe2b1a73c56]]></partnerJobId>
     <partnerRequisitionId><![CDATA[87993438-3464-43d3-a05c-dbe2b1a73c56]]></partnerRequisitionId>
     <company><![CDATA[Goop]]></company>
@@ -27505,26 +27507,6 @@ correlatas a função.<br /><br /><b>Requisitos e qualificações</b><br /><br /
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[c829fc40-9607-4678-9eb4-002cde4a0818]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[c829fc40-9607-4678-9eb4-002cde4a0818]]></partnerRequisitionId>
-    <company><![CDATA[Ceneged]]></company>
-    <title><![CDATA[AGENTE COMERCIAL]]></title>
-    <posterEmail><![CDATA[ggcaruaru@ceneged.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A CENEGED está em busca de profissionais para atuar como Agente Comercial. O colaborador será responsável por realizar a leitura de medidores e a entrega de faturas de energia, garantindo agilidade, precisão e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li> Leitura de medidores de energia.</li><li>Entrega de faturas de energia.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>CNH AB;</li><li>Ensino fundamental completo;<br /></li><li>Noções básicas de informática.</li></ul><br /><br /><b>Benefícios</b><br /><br />• Vale alimentação;<br />• Plano de saúde;<br />• Plano odontológico;<br />• Seguro de vida;<br />• Bulla beneficios;<br />• Wellhub;<br />• Totalpass.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/746/agente-comercial?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[9250455]]></companyId>
-    <city><![CDATA[Arcoverde]]></city>
-    <state><![CDATA[Pernambuco]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[c1f5bc7a-bb7a-4616-ab85-8d1632ae8095]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c1f5bc7a-bb7a-4616-ab85-8d1632ae8095]]></partnerRequisitionId>
     <company><![CDATA[Ceneged]]></company>
@@ -27532,26 +27514,6 @@ correlatas a função.<br /><br /><b>Requisitos e qualificações</b><br /><br /
     <posterEmail><![CDATA[ggcaruaru@ceneged.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca da sua primeira oportunidade na área administrativa? Temos uma excelente chance para você!<br /><br />Estamos selecionando candidatos dedicados, proativos e com vontade de aprender para a vaga de <strong>Jovem Aprendiz</strong>. Se você deseja crescer profissionalmente, adquirir novos conhecimentos e desenvolver habilidades essenciais para o mercado de trabalho, essa vaga é ideal. Venha fazer parte de uma equipe que valoriza o seu potencial e oferece um ambiente dinâmico, acolhedor e cheio de desafios.<br /><br />Não perca essa oportunidade, candidate-se agora mesmo! Estamos ansiosos para conhecer você e contribuir com o início da sua trajetória profissional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar em rotinas administrativas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo ou em andamento; </li><li>Conhecimento em informática;</li><li>Não possuir nenhum vínculo trabalhista anterior;</li><li>Disponibilidade para atuar no período da manhã ou tarde.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Parceria com instituições de ensino;</li><li>Seguro de Vida;</li><li>Vale transporte;</li><li>Plano Odontológico.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/658/jovem-aprendiz?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[9250455]]></companyId>
-    <city><![CDATA[Arcoverde]]></city>
-    <state><![CDATA[Pernambuco]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e7bcc9f1-4d7e-472b-8ab6-56def9afcb6e]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[e7bcc9f1-4d7e-472b-8ab6-56def9afcb6e]]></partnerRequisitionId>
-    <company><![CDATA[Ceneged]]></company>
-    <title><![CDATA[AGENTE COMERCIAL]]></title>
-    <posterEmail><![CDATA[ggcaruaru@ceneged.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A CENEGED está em busca de profissionais para atuar como Agente Comercial. O colaborador será responsável por realizar a leitura de medidores e a entrega de faturas de energia, garantindo agilidade, precisão e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Leitura de medidores de energia.</li><li>Entrega de faturas de energia.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Noções básicas de informática;</li><li>CNH B.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale alimentação;</li><li> Plano de saúde;</li><li>Plano odontológico;</li><li>Seguro de vida</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/592/agente-comercial?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[9250455]]></companyId>
     <city><![CDATA[Arcoverde]]></city>
     <state><![CDATA[Pernambuco]]></state>
@@ -27692,26 +27654,6 @@ correlatas a função.<br /><br /><b>Requisitos e qualificações</b><br /><br /
     <posterEmail><![CDATA[ggcaruaru@ceneged.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca da sua primeira oportunidade na área administrativa? Temos uma excelente chance para você!<br /><br />Estamos selecionando candidatos dedicados, proativos e com vontade de aprender para a vaga de <strong>Jovem Aprendiz</strong>. Se você deseja crescer profissionalmente, adquirir novos conhecimentos e desenvolver habilidades essenciais para o mercado de trabalho, essa vaga é ideal. Venha fazer parte de uma equipe que valoriza o seu potencial e oferece um ambiente dinâmico, acolhedor e cheio de desafios.<br /><br />Não perca essa oportunidade, candidate-se agora mesmo! Estamos ansiosos para conhecer você e contribuir com o início da sua trajetória profissional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar em rotinas administrativas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo ou em andamento;</li><li>Conhecimento em informática;</li><li>Não possuir nenhum vínculo trabalhista anterior;</li><li>Disponibilidade para atuar no período da manhã ou tarde.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Parceria com instituições de ensino;</li><li>Seguro de Vida;</li><li>Vale transporte;</li><li>Plano Odontológico.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/665/jovem-aprendiz?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[9250455]]></companyId>
-    <city><![CDATA[Garanhuns]]></city>
-    <state><![CDATA[Pernambuco]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[0b757097-7f0c-4daf-9548-e6fee88365e0]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[0b757097-7f0c-4daf-9548-e6fee88365e0]]></partnerRequisitionId>
-    <company><![CDATA[Ceneged]]></company>
-    <title><![CDATA[AGENTE COMERCIAL]]></title>
-    <posterEmail><![CDATA[ggcaruaru@ceneged.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A CENEGED está em busca de profissionais para atuar como Agente Comercial. O colaborador será responsável por realizar a leitura de medidores e a entrega de faturas de energia, garantindo agilidade, precisão e qualidade no atendimento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li> Leitura de medidores de energia.</li><li>Entrega de faturas de energia.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>CNH B;</li><li>Ensino médio completo;</li><li>Cartão do SUS;</li><li>Noções básicas de informática.</li></ul><br /><br /><b>Benefícios</b><br /><br />• Vale alimentação;<br />• Plano de saúde;<br />• Plano odontológico;<br />• Seguro de vida<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/520/agente-comercial?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[9250455]]></companyId>
     <city><![CDATA[Garanhuns]]></city>
     <state><![CDATA[Pernambuco]]></state>
@@ -33120,26 +33062,6 @@ Autoescolas;</li><br /> - Apresentação e demonstração de produtos ou serviç
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/2723/consultor-de-vendas?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[2073549]]></companyId>
     <city><![CDATA[Belém]]></city>
-    <state><![CDATA[Pará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[fed44291-6ee1-4e17-8888-ca9420212331]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[fed44291-6ee1-4e17-8888-ca9420212331]]></partnerRequisitionId>
-    <company><![CDATA[Grupo Canopus]]></company>
-    <title><![CDATA[AUXILIAR DE MECANICO]]></title>
-    <posterEmail><![CDATA[alessandra.barros@grupocanopus.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />- Realizar revisões, reparos básicos e recall conforme descrito na ordem de serviço;<br />- Auxiliar os técnicos mecânicos em revisões, reparos e/ou diagnósticos;<br />- Auxiliar os Mecânicos nas demandas do setor.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar revisões, reparos básicos e recall conforme descrito na ordem de serviço;<br />- Auxiliar os técnicos mecânicos em revisões, reparos e/ou diagnósticos;<br />- Auxiliar os Mecânicos nas demandas do setor.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo; <br />Conhecimento básicos de mecânica automotiva.<br />CNH B;<br /><br />TODAS AS VAGAS ESTÃO DISPONIVEIS PARA PCD<br /><br /><b>Benefícios</b><br /><br />Plano de Saúde, <br />Plano odontológico,<br />Vale Transporte (de acordo com a região),<br />Seguro de vida <br />Vale Alimentação.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscogrupocanopus/3356/auxiliar-de-mecanico?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2073549]]></companyId>
-    <city><![CDATA[Marabá]]></city>
     <state><![CDATA[Pará]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -41977,26 +41899,6 @@ Disponibilidade para atuação em São Paulo/SP ( Avenida Paulista) </li></ul><b
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um Auxiliar de Extrusão para nossa unidade de Pomerode. Este profissional será responsável por processar o granulado (peças de PVC de descarte). Preparar e misturar produtos para a produção de PVC.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Pesar produtos; Preparar mistura;<br />Moer perfis de
 descarte; <br />Ensacar granulados;<br />Apoiar demais rotinas do setor.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio; Desejável experiência na função.<br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário compatível com o mercado e pacote de benefícios atrativo.</li><li>Oportunidade de desenvolvimento profissional e progressão na carreira para se tornar um Operador de Produção.</li><li>Treinamento contínuo e suporte para aprimoramento das habilidades.</li><li>Ambiente de trabalho seguro, colaborativo e acolhedor.</li></ul><br /><br />Se você deseja iniciar sua carreira em uma empresa inovadora e sustentável, e está disposto a aprender e crescer conosco, a Weiku do Brasil é o lugar certo! <br /><br />Envie seu currículo e venha fazer parte da nossa equipe de produção em Pomerode.<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupoweiku/167/auxiliar-de-extrusao?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[3772730]]></companyId>
-    <city><![CDATA[Pomerode]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a252556b-bc97-48ca-8908-e6c7c030c1f9]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[a252556b-bc97-48ca-8908-e6c7c030c1f9]]></partnerRequisitionId>
-    <company><![CDATA[Grupo Weiku]]></company>
-    <title><![CDATA[Auxiliar de Expedição]]></title>
-    <posterEmail><![CDATA[rh06@weiku.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um Auxiliar de Expedição para nossa unidade de Pomerode. Este profissional terá a oportunidade de aprender e desenvolver suas habilidades, com o objetivo de crescer junto com a Weiku.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Separar produtos para envio;</li><li>Conferir mercadorias;</li><li>Embalar e identificar produtos;</li><li>Organizar estoque e área de expedição;</li><li>Auxiliar no carregamento e descarregamento;</li><li>Auxiliar na organização de documentos e pedidos.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência na área de expedição, logística ou estoque;</li><li>Experiência com conferência de pedidos e mercadorias;</li></ul><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário compatível com o mercado e pacote de benefícios atrativo.</li><li>Oportunidade de desenvolvimento profissional e progressão na carreira para se tornar um Operador de Produção.</li><li>Treinamento contínuo e suporte para aprimoramento das habilidades.</li><li>Ambiente de trabalho seguro, colaborativo e acolhedor.</li></ul><br /><br />Se você deseja iniciar sua carreira em uma empresa inovadora e sustentável, e está disposto a aprender e crescer conosco, a Weiku do Brasil é o lugar certo!<br /><br />Envie seu currículo e venha fazer parte da nossa equipe de produção em Pomerode.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupoweiku/166/auxiliar-de-expedicao?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[3772730]]></companyId>
     <city><![CDATA[Pomerode]]></city>
     <state><![CDATA[Santa Catarina]]></state>
@@ -52708,13 +52610,73 @@ Orientação para resultado e confiabilidade operacional das soluções implanta
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[232a78bf-0110-42fa-a783-7e0104a339e5]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[232a78bf-0110-42fa-a783-7e0104a339e5]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[0db86eba-b5de-49a9-aead-c95d91494eca]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[0db86eba-b5de-49a9-aead-c95d91494eca]]></partnerRequisitionId>
     <company><![CDATA[Brasil Dealer Group - BDG]]></company>
-    <title><![CDATA[Banco de Talentos - Estoquista]]></title>
-    <posterEmail><![CDATA[aline.paiva@bdg.net.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Estoquista </strong>para integrar nosso time de Pós-Vendas!<br />Você será responsável por receber, conferir e armazenar peças e acessórios, controlar entrada e saída de mercadorias, realizar a separação e distribuição de peças para a oficina, realizar inventários periódicos. Se você tem conhecimento em controle de estoque, atenção aos detalhes e compromisso com a satisfação dos clientes, <strong>venha fazer parte do Grupo BDG!</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Responsabilidades e atribuições</strong><ul><li>Receber e conferir peças conforme notas fiscais e pedidos de compra.</li><li>Armazenar e identificar corretamente peças e acessórios.</li><li>Efetuar lançamentos de entrada e saída no sistema de gestão.</li><li>Separar peças para ordens de serviço da oficina e solicitações do setor de pós-vendas.</li><li>Realizar inventários periódicos e contagens cíclicas.</li><li>Identificar e comunicar divergências, avarias e itens em falta.</li><li>Apoiar o controle de devoluções e garantias de peças, conforme os procedimentos internos.</li><li>Zelar pela organização, limpeza e segurança do estoque.</li><li>Cumprir os procedimentos e padrões estabelecidos pela concessionária.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><br /><ul><li>Ensino médio completo.</li><li>Experiência em controle de estoque.</li><li>Conhecimentos em pacote office.</li><li>Organização, atenção aos detalhes, comprometimento e responsabilidade.</li><li>Facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br />Remuneração compatível com o mercadoPlano de Saúde<br />Plano Odontológico<br />Parceria com Cineart<br />Welhub<br />Parceria com Universidades<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bdg/9/banco-de-talentos-estoquista?applicationSource=0]]></applyUrl>
+    <title><![CDATA[# Banco de Talentos - Consultor de Vendas]]></title>
+    <posterEmail><![CDATA[cristiane.martins@bdg.net.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Consultor(a) de Vendas para integrar nosso time comercial!<br />Você será responsável por identificar oportunidades de negócio, compreender as necessidades dos clientes e oferecer soluções alinhadas às suas expectativas, impulsionando as vendas e construindo relacionamentos duradouros.<br />Se você tem perfil comercial, foco em resultados e gosta de se conectar com pessoas, <strong>venha fazer parte do Grupo BDG!</strong><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimento e prospecção de clientes;</li><li>Identificar as necessidades dos clientes e apresentar produtos e serviços adequados;</li><li>Conduzir negociações e acompanhar o processo de vendas;</li><li>Elaborar propostas comerciais e realizar follow-up;</li><li>Manter relacionamento com clientes, buscando fidelização e novas oportunidades;</li><li>Acompanhar metas e indicadores de vendas;</li><li>Registrar e atualizar informações no sistema/CRM;</li><li>Atuar na resolução de dúvidas e demandas dos clientes;</li><li>Participar de ações comerciais e campanhas da empresa;</li><li>Contribuir com ideias e estratégias para melhoria dos resultados comerciais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior na área comercial ou atendimento ao cliente;</li><li>Boa comunicação verbal e escrita;</li><li>Habilidade de negociação e persuasão;</li><li>Organização e capacidade de acompanhamento de oportunidades;</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração compatível com o Mercado</li><li>Convênio Médico</li><li>Convênio Odontológico</li><li>Wellhub</li><li>Parceria com instituições de ensino</li><li>Parceria com Cineart</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bdg/6/banco-de-talentos-consultor-de-vendas?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[579755]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[0b772038-5208-4b47-b6a4-bbf00589497f]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[0b772038-5208-4b47-b6a4-bbf00589497f]]></partnerRequisitionId>
+    <company><![CDATA[Brasil Dealer Group - BDG]]></company>
+    <title><![CDATA[# Banco de Talentos - Consultor de Vendas]]></title>
+    <posterEmail><![CDATA[cristiane.martins@bdg.net.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Consultor(a) de Vendas para integrar nosso time comercial!<br />Você será responsável por identificar oportunidades de negócio, compreender as necessidades dos clientes e oferecer soluções alinhadas às suas expectativas, impulsionando as vendas e construindo relacionamentos duradouros.<br />Se você tem perfil comercial, foco em resultados e gosta de se conectar com pessoas, <strong>venha fazer parte do Grupo BDG!</strong><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimento e prospecção de clientes;</li><li>Identificar as necessidades dos clientes e apresentar produtos e serviços adequados;</li><li>Conduzir negociações e acompanhar o processo de vendas;</li><li>Elaborar propostas comerciais e realizar follow-up;</li><li>Manter relacionamento com clientes, buscando fidelização e novas oportunidades;</li><li>Acompanhar metas e indicadores de vendas;</li><li>Registrar e atualizar informações no sistema/CRM;</li><li>Atuar na resolução de dúvidas e demandas dos clientes;</li><li>Participar de ações comerciais e campanhas da empresa;</li><li>Contribuir com ideias e estratégias para melhoria dos resultados comerciais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior na área comercial ou atendimento ao cliente;</li><li>Boa comunicação verbal e escrita;</li><li>Habilidade de negociação e persuasão;</li><li>Organização e capacidade de acompanhamento de oportunidades;</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração compatível com o Mercado</li><li>Convênio Médico</li><li>Convênio Odontológico</li><li>Wellhub</li><li>Parceria com instituições de ensino</li><li>Parceria com Cineart</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bdg/5/banco-de-talentos-consultor-de-vendas?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[579755]]></companyId>
+    <city><![CDATA[Niterói]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[8d0006ed-e46a-4cc9-a3be-75589c7410ac]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[8d0006ed-e46a-4cc9-a3be-75589c7410ac]]></partnerRequisitionId>
+    <company><![CDATA[Brasil Dealer Group - BDG]]></company>
+    <title><![CDATA[# Banco de Talentos - Consultor de Vendas]]></title>
+    <posterEmail><![CDATA[cristiane.martins@bdg.net.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Consultor(a) de Vendas</strong> para integrar nosso time comercial!Você será responsável por identificar oportunidades de negócio, compreender as necessidades dos clientes e oferecer soluções alinhadas às suas expectativas, impulsionando as vendas e construindo relacionamentos duradouros.Se você tem perfil comercial, foco em resultados e gosta de se conectar com pessoas, <strong>venha fazer parte do Grupo BDG!</strong><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimento e prospecção de clientes;</li><li>Identificar as necessidades dos clientes e apresentar produtos e serviços adequados;</li><li>Conduzir negociações e acompanhar o processo de vendas;</li><li>Elaborar propostas comerciais e realizar follow-up;</li><li>Manter relacionamento com clientes, buscando fidelização e novas oportunidades;</li><li>Acompanhar metas e indicadores de vendas;</li><li>Registrar e atualizar informações no sistema/CRM;</li><li>Atuar na resolução de dúvidas e demandas dos clientes;</li><li>Participar de ações comerciais e campanhas da empresa;</li><li>Contribuir com ideias e estratégias para melhoria dos resultados comerciais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior na área comercial ou atendimento ao cliente;</li><li>Boa comunicação verbal e escrita;</li><li>Habilidade de negociação e persuasão;</li><li>Organização e capacidade de acompanhamento de oportunidades;</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração compatível com o Mercado</li><li>Convênio Médico</li><li>Convênio Odontológico</li><li>Wellhub</li><li>Parceria com instituições de ensino</li><li>Parceria com Cineart</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bdg/2/banco-de-talentos-consultor-de-vendas?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[579755]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[040c6ae3-bc47-4fa6-bf6a-031df109e4df]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[040c6ae3-bc47-4fa6-bf6a-031df109e4df]]></partnerRequisitionId>
+    <company><![CDATA[Brasil Dealer Group - BDG]]></company>
+    <title><![CDATA[# Banco de Talentos - Mecânico]]></title>
+    <posterEmail><![CDATA[cristiane.martins@bdg.net.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Mecânico(a) Automotivo(a)</strong> para integrar nosso time de Pós-Vendas!<br />Você será responsável por realizar diagnósticos, manutenções preventivas e corretivas e reparos em veículos, seguindo os padrões técnicos da montadora e garantindo a qualidade e a segurança dos serviços realizados.<br />Se você tem conhecimento em mecânica automotiva, atenção aos detalhes e compromisso com a satisfação dos clientes, <strong>venha fazer parte do Grupo BDG!</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar diagnósticos de falhas mecânicas, elétricas e eletrônicas em veículos.</li><li>Executar manutenções preventivas e corretivas conforme os procedimentos da montadora.</li><li>Realizar revisões, ajustes e substituições de peças e componentes.</li><li>Utilizar ferramentas e equipamentos de diagnóstico adequados a cada serviço.</li><li>Registrar na ordem de serviço os diagnósticos, reparos realizados e necessidades identificadas.</li><li>Informar ao consultor técnico a necessidade de serviços adicionais para avaliação e autorização do cliente.</li><li>Verificar o funcionamento do veículo após os reparos, garantindo a qualidade dos serviços.</li><li>Cumprir os prazos acordados e as normas de segurança, mantendo ferramentas e ambiente de trabalho organizados.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.</li><li>Experiência em manutenção preventiva e corretiva de veículos.</li><li>Conhecimentos em mecânica, elétrica e eletrônica automotiva.</li><li>Habilidade no uso de ferramentas e equipamentos de diagnóstico.</li><li>Capacidade de interpretar ordens de serviço e orientações técnicas.</li><li>Organização, atenção aos detalhes e comprometimento com a qualidade e a segurança.</li><li>Facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br />Remuneração compatível com o mercadoPlano de Saúde<br />Plano Odontológico<br />Parceria com Cineart<br />Welhub<br />Parceria com Universidades<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bdg/4/banco-de-talentos-mecanico?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[579755]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
     <state><![CDATA[Minas Gerais]]></state>
@@ -52766,76 +52728,16 @@ Orientação para resultado e confiabilidade operacional das soluções implanta
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[040c6ae3-bc47-4fa6-bf6a-031df109e4df]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[040c6ae3-bc47-4fa6-bf6a-031df109e4df]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[232a78bf-0110-42fa-a783-7e0104a339e5]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[232a78bf-0110-42fa-a783-7e0104a339e5]]></partnerRequisitionId>
     <company><![CDATA[Brasil Dealer Group - BDG]]></company>
-    <title><![CDATA[# Banco de Talentos - Mecânico]]></title>
-    <posterEmail><![CDATA[cristiane.martins@bdg.net.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Mecânico(a) Automotivo(a)</strong> para integrar nosso time de Pós-Vendas!<br />Você será responsável por realizar diagnósticos, manutenções preventivas e corretivas e reparos em veículos, seguindo os padrões técnicos da montadora e garantindo a qualidade e a segurança dos serviços realizados.<br />Se você tem conhecimento em mecânica automotiva, atenção aos detalhes e compromisso com a satisfação dos clientes, <strong>venha fazer parte do Grupo BDG!</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar diagnósticos de falhas mecânicas, elétricas e eletrônicas em veículos.</li><li>Executar manutenções preventivas e corretivas conforme os procedimentos da montadora.</li><li>Realizar revisões, ajustes e substituições de peças e componentes.</li><li>Utilizar ferramentas e equipamentos de diagnóstico adequados a cada serviço.</li><li>Registrar na ordem de serviço os diagnósticos, reparos realizados e necessidades identificadas.</li><li>Informar ao consultor técnico a necessidade de serviços adicionais para avaliação e autorização do cliente.</li><li>Verificar o funcionamento do veículo após os reparos, garantindo a qualidade dos serviços.</li><li>Cumprir os prazos acordados e as normas de segurança, mantendo ferramentas e ambiente de trabalho organizados.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.</li><li>Experiência em manutenção preventiva e corretiva de veículos.</li><li>Conhecimentos em mecânica, elétrica e eletrônica automotiva.</li><li>Habilidade no uso de ferramentas e equipamentos de diagnóstico.</li><li>Capacidade de interpretar ordens de serviço e orientações técnicas.</li><li>Organização, atenção aos detalhes e comprometimento com a qualidade e a segurança.</li><li>Facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br />Remuneração compatível com o mercadoPlano de Saúde<br />Plano Odontológico<br />Parceria com Cineart<br />Welhub<br />Parceria com Universidades<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bdg/4/banco-de-talentos-mecanico?applicationSource=0]]></applyUrl>
+    <title><![CDATA[Banco de Talentos - Estoquista]]></title>
+    <posterEmail><![CDATA[aline.paiva@bdg.net.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Estoquista </strong>para integrar nosso time de Pós-Vendas!<br />Você será responsável por receber, conferir e armazenar peças e acessórios, controlar entrada e saída de mercadorias, realizar a separação e distribuição de peças para a oficina, realizar inventários periódicos. Se você tem conhecimento em controle de estoque, atenção aos detalhes e compromisso com a satisfação dos clientes, <strong>venha fazer parte do Grupo BDG!</strong><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>Responsabilidades e atribuições</strong><ul><li>Receber e conferir peças conforme notas fiscais e pedidos de compra.</li><li>Armazenar e identificar corretamente peças e acessórios.</li><li>Efetuar lançamentos de entrada e saída no sistema de gestão.</li><li>Separar peças para ordens de serviço da oficina e solicitações do setor de pós-vendas.</li><li>Realizar inventários periódicos e contagens cíclicas.</li><li>Identificar e comunicar divergências, avarias e itens em falta.</li><li>Apoiar o controle de devoluções e garantias de peças, conforme os procedimentos internos.</li><li>Zelar pela organização, limpeza e segurança do estoque.</li><li>Cumprir os procedimentos e padrões estabelecidos pela concessionária.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><br /><ul><li>Ensino médio completo.</li><li>Experiência em controle de estoque.</li><li>Conhecimentos em pacote office.</li><li>Organização, atenção aos detalhes, comprometimento e responsabilidade.</li><li>Facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br />Remuneração compatível com o mercadoPlano de Saúde<br />Plano Odontológico<br />Parceria com Cineart<br />Welhub<br />Parceria com Universidades<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bdg/9/banco-de-talentos-estoquista?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[579755]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
     <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[8d0006ed-e46a-4cc9-a3be-75589c7410ac]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[8d0006ed-e46a-4cc9-a3be-75589c7410ac]]></partnerRequisitionId>
-    <company><![CDATA[Brasil Dealer Group - BDG]]></company>
-    <title><![CDATA[# Banco de Talentos - Consultor de Vendas]]></title>
-    <posterEmail><![CDATA[cristiane.martins@bdg.net.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Consultor(a) de Vendas</strong> para integrar nosso time comercial!Você será responsável por identificar oportunidades de negócio, compreender as necessidades dos clientes e oferecer soluções alinhadas às suas expectativas, impulsionando as vendas e construindo relacionamentos duradouros.Se você tem perfil comercial, foco em resultados e gosta de se conectar com pessoas, <strong>venha fazer parte do Grupo BDG!</strong><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimento e prospecção de clientes;</li><li>Identificar as necessidades dos clientes e apresentar produtos e serviços adequados;</li><li>Conduzir negociações e acompanhar o processo de vendas;</li><li>Elaborar propostas comerciais e realizar follow-up;</li><li>Manter relacionamento com clientes, buscando fidelização e novas oportunidades;</li><li>Acompanhar metas e indicadores de vendas;</li><li>Registrar e atualizar informações no sistema/CRM;</li><li>Atuar na resolução de dúvidas e demandas dos clientes;</li><li>Participar de ações comerciais e campanhas da empresa;</li><li>Contribuir com ideias e estratégias para melhoria dos resultados comerciais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior na área comercial ou atendimento ao cliente;</li><li>Boa comunicação verbal e escrita;</li><li>Habilidade de negociação e persuasão;</li><li>Organização e capacidade de acompanhamento de oportunidades;</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração compatível com o Mercado</li><li>Convênio Médico</li><li>Convênio Odontológico</li><li>Wellhub</li><li>Parceria com instituições de ensino</li><li>Parceria com Cineart</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bdg/2/banco-de-talentos-consultor-de-vendas?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[579755]]></companyId>
-    <city><![CDATA[Belo Horizonte]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[0b772038-5208-4b47-b6a4-bbf00589497f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[0b772038-5208-4b47-b6a4-bbf00589497f]]></partnerRequisitionId>
-    <company><![CDATA[Brasil Dealer Group - BDG]]></company>
-    <title><![CDATA[# Banco de Talentos - Consultor de Vendas]]></title>
-    <posterEmail><![CDATA[cristiane.martins@bdg.net.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Consultor(a) de Vendas para integrar nosso time comercial!<br />Você será responsável por identificar oportunidades de negócio, compreender as necessidades dos clientes e oferecer soluções alinhadas às suas expectativas, impulsionando as vendas e construindo relacionamentos duradouros.<br />Se você tem perfil comercial, foco em resultados e gosta de se conectar com pessoas, <strong>venha fazer parte do Grupo BDG!</strong><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimento e prospecção de clientes;</li><li>Identificar as necessidades dos clientes e apresentar produtos e serviços adequados;</li><li>Conduzir negociações e acompanhar o processo de vendas;</li><li>Elaborar propostas comerciais e realizar follow-up;</li><li>Manter relacionamento com clientes, buscando fidelização e novas oportunidades;</li><li>Acompanhar metas e indicadores de vendas;</li><li>Registrar e atualizar informações no sistema/CRM;</li><li>Atuar na resolução de dúvidas e demandas dos clientes;</li><li>Participar de ações comerciais e campanhas da empresa;</li><li>Contribuir com ideias e estratégias para melhoria dos resultados comerciais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior na área comercial ou atendimento ao cliente;</li><li>Boa comunicação verbal e escrita;</li><li>Habilidade de negociação e persuasão;</li><li>Organização e capacidade de acompanhamento de oportunidades;</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração compatível com o Mercado</li><li>Convênio Médico</li><li>Convênio Odontológico</li><li>Wellhub</li><li>Parceria com instituições de ensino</li><li>Parceria com Cineart</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bdg/5/banco-de-talentos-consultor-de-vendas?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[579755]]></companyId>
-    <city><![CDATA[Niterói]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[0db86eba-b5de-49a9-aead-c95d91494eca]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[0db86eba-b5de-49a9-aead-c95d91494eca]]></partnerRequisitionId>
-    <company><![CDATA[Brasil Dealer Group - BDG]]></company>
-    <title><![CDATA[# Banco de Talentos - Consultor de Vendas]]></title>
-    <posterEmail><![CDATA[cristiane.martins@bdg.net.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Consultor(a) de Vendas para integrar nosso time comercial!<br />Você será responsável por identificar oportunidades de negócio, compreender as necessidades dos clientes e oferecer soluções alinhadas às suas expectativas, impulsionando as vendas e construindo relacionamentos duradouros.<br />Se você tem perfil comercial, foco em resultados e gosta de se conectar com pessoas, <strong>venha fazer parte do Grupo BDG!</strong><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimento e prospecção de clientes;</li><li>Identificar as necessidades dos clientes e apresentar produtos e serviços adequados;</li><li>Conduzir negociações e acompanhar o processo de vendas;</li><li>Elaborar propostas comerciais e realizar follow-up;</li><li>Manter relacionamento com clientes, buscando fidelização e novas oportunidades;</li><li>Acompanhar metas e indicadores de vendas;</li><li>Registrar e atualizar informações no sistema/CRM;</li><li>Atuar na resolução de dúvidas e demandas dos clientes;</li><li>Participar de ações comerciais e campanhas da empresa;</li><li>Contribuir com ideias e estratégias para melhoria dos resultados comerciais.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo;</li><li>Experiência anterior na área comercial ou atendimento ao cliente;</li><li>Boa comunicação verbal e escrita;</li><li>Habilidade de negociação e persuasão;</li><li>Organização e capacidade de acompanhamento de oportunidades;</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração compatível com o Mercado</li><li>Convênio Médico</li><li>Convênio Odontológico</li><li>Wellhub</li><li>Parceria com instituições de ensino</li><li>Parceria com Cineart</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bdg/6/banco-de-talentos-consultor-de-vendas?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[579755]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -59877,36 +59779,6 @@ Garantia do cumprimento da legislação trabalhista e previdenciária.</li><br /
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[ff3c3ecb-9678-489d-bdc8-6d343a46318f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[ff3c3ecb-9678-489d-bdc8-6d343a46318f]]></partnerRequisitionId>
-    <company><![CDATA[NSA Contabilidade]]></company>
-    <title><![CDATA[Estagiário de Atendimento]]></title>
-    <posterEmail><![CDATA[thamis.rds@gmail.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas motivadas e curiosas para se juntarem à nossa equipe como estagiários. Esta é uma oportunidade única para quem deseja aprender e se desenvolver em um ambiente dinâmico e inovador. Oferecemos um espaço onde a criatividade é valorizada e as ideias têm a chance de brilhar. Aqui, você terá a chance de trabalhar ao lado de profissionais experientes que estão dispostos a compartilhar conhecimento e orientar seu crescimento profissional. Acreditamos que a diversidade de experiências enriquece nosso ambiente e promove um aprendizado significativo. Se você busca um lugar onde possa explorar suas potencialidades, contribuir para projetos empolgantes e fazer parte de uma equipe colaborativa, venha nos conhecer! Estamos ansiosos para descobrir o seu talento e potencial.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Você vai apoiar o time de atendimento em:
-<ul>
-<li>Realizar atendimento presencial e telefônico;</li><li>Recepcionar e direcionar clientes e visitantes;</li><li>Prestar informações e esclarecer dúvidas básicas;</li><li>Auxiliar na organização da recepção;</li><li>Apoiar no recebimento e controle de documentos e correspondências;</li><li>Realizar agendamentos e prestar suporte às demandas administrativas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Cursando graduação em Administração de Empresas, Recursos Humanos, Ciências Contábeis ou áreas correlatas, previsão de conclusão: 12/2028 em diante;<br />- Residir em Barra do Piraí;<br /> - Conhecimento básico em ferramentas de informática;<br /> - Habilidade para trabalhar em equipe;<br /> - Boa comunicação oral e escrita;<br /> - Proatividade e disposição para aprender;<br /> - Disponibilidade para estagiar em horários compatíveis com a jornada acadêmica;<br /> - Comprometimento com prazos e qualidade do trabalho.<br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Bolsa auxílio</li><li>Assistência médica (Avus)<br /></li><li>Wellhub</li><li>Assistência Odontológica</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nsacontabilidade/55/estagiario-de-atendimento?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[77616499]]></companyId>
-    <city><![CDATA[Barra do Piraí]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1200.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1000.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[ff7d4027-a0e6-4c5a-8118-53ecd4bd5c30]]></partnerJobId>
@@ -75305,6 +75177,26 @@ testes de equipamentos enviados ou recebidos da manutenção.</li></ul><br /><br
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[48bcb997-e199-4697-940e-7fe06951d4e7]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[48bcb997-e199-4697-940e-7fe06951d4e7]]></partnerRequisitionId>
+    <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
+    <title><![CDATA[MOTORISTA DE CAMINHÃO]]></title>
+    <posterEmail><![CDATA[izabelly.pontes@ctaengenharia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Aqui na nossa empresa, acreditamos que respeito, diversidade e inclusão fazem parte do dia a dia. Não fazemos distinção entre pessoas e valorizamos cada profissional por sua capacidade, talento e dedicação. Todas as nossas vagas são abertas para todos os perfis, incluindo Pessoas com Deficiência (PcD) e pessoas LGBTQIA+, sempre com igualdade de oportunidades e respeito às diferenças.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir o veículo seguindo as leis de trânsito e normas de segurança da empresa;</li><li>Realizar a conferência de cargas e documentos de transporte;</li><li>Zelar pela manutenção básica e limpeza do veículo (nível de óleo, combustível, pneus);</li><li>Planejar rotas para otimizar o tempo de entrega e reduzir custos operacionais;</li><li>Reportar qualquer ocorrência ou necessidade de manutenção corretiva.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>CNH ativa (Categoria D e Resolução 789/2020).</li><li>Experiência comprovada na função.</li><li>Ensino Médio completo.</li><li>Conhecimento de rotas regionais e uso de aplicativos de GPS.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br />Plano de Saúde e Odontológico | Seguro de Vida em Grupo | Vale Refeição ou alimentação | Vale transporte | Parceria com instituição de ensino e idioma]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasctaengenharia/412/motorista-de-caminhao?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[14023532]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[e97d9e89-49df-4485-91e8-a546b5618200]]></partnerJobId>
     <partnerRequisitionId><![CDATA[e97d9e89-49df-4485-91e8-a546b5618200]]></partnerRequisitionId>
     <company><![CDATA[CTA Engenharia Ambiental Ltda]]></company>
@@ -82480,6 +82372,56 @@ Apoiar as demais atividades administrativas do setor, conforme necessidade.</li>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[c195267d-c03e-44c9-b85e-e33507addc8e]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[c195267d-c03e-44c9-b85e-e33507addc8e]]></partnerRequisitionId>
+    <company><![CDATA[Hiperideal]]></company>
+    <title><![CDATA[Padeiro]]></title>
+    <posterEmail><![CDATA[samay.almeida@hiperideal.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma nova oportunidade para se destacar no mercado de trabalho, temos um convite especial para você! Junte-se a uma equipe vibrante e dinâmica, onde a colaboração e o entusiasmo são fundamentais para o nosso sucesso. Aqui, valorizamos cada contribuição e acreditamos que cada pessoa pode fazer a diferença. Ao fazer parte do nosso time, você terá a chance de trabalhar em um ambiente que promove o crescimento profissional e o desenvolvimento de habilidades essenciais. Se você é pró-ativo(a), gosta de desafios e deseja fazer parte de um local que reconhece o talento e a dedicação, venha descobrir como podemos construir um futuro promissor juntos. Sua jornada profissional pode começar aqui, e estamos ansiosos para conhecer você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Preparar massas de pães, bolos e produtos de panificação em geral.
+</li>
+<li>
+Modelar, fermentar e assar os produtos conforme padrões da empresa.
+</li>
+<li>
+Seguir receitas, fichas técnicas e cronogramas de produção.
+</li>
+<li>
+Controlar tempo de preparo, temperatura e qualidade dos produtos.
+</li>
+<li>
+Manter a organização, limpeza e higiene do ambiente de trabalho.
+</li>
+<li>
+Controlar estoque de insumos e solicitar reposição quando necessário.
+</li>
+<li>
+Cumprir normas de segurança alimentar e boas práticas de fabricação.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência como padeiro(a).
+</li>
+<li>
+Conhecimento em panificação tradicional e/ou artesanal.
+</li>
+<li>
+Noções de higiene e manipulação de alimentos.
+</li>
+<li>
+Agilidade, atenção e comprometimento.
+</li>
+<li>
+Disponibilidade de horário 6x1.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte.</li><li>Refeitório na unidade.</li><li>Assistência médica.</li><li>Assistência odontológica.</li><li>Alelo Multibenefícios.</li><li>TotalPass.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hiperidealvagas/59/padeiro?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[79745353]]></companyId>
+    <city><![CDATA[Salvador]]></city>
+    <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[3512f328-3cc7-4128-ae2d-6bfa6d08f2b8]]></partnerJobId>
     <partnerRequisitionId><![CDATA[3512f328-3cc7-4128-ae2d-6bfa6d08f2b8]]></partnerRequisitionId>
     <company><![CDATA[Hiperideal]]></company>
@@ -82710,56 +82652,6 @@ Experiência na função será um diferencial
 <li>
 Proatividade, organização e responsabilidade</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte.</li><li>Refeitório na unidade.</li><li>Assistência médica.</li><li>Assistência odontológica.</li><li>Alelo Multibenefícios.</li><li>TotalPass.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hiperidealvagas/53/auxiliar-de-servicos-gerais?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[79745353]]></companyId>
-    <city><![CDATA[Salvador]]></city>
-    <state><![CDATA[Bahia]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[470f7421-ab6a-49ee-bdd0-400487b71188]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[470f7421-ab6a-49ee-bdd0-400487b71188]]></partnerRequisitionId>
-    <company><![CDATA[Hiperideal]]></company>
-    <title><![CDATA[Padeiro]]></title>
-    <posterEmail><![CDATA[samay.almeida@hiperideal.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma nova oportunidade para se destacar no mercado de trabalho, temos um convite especial para você! Junte-se a uma equipe vibrante e dinâmica, onde a colaboração e o entusiasmo são fundamentais para o nosso sucesso. Aqui, valorizamos cada contribuição e acreditamos que cada pessoa pode fazer a diferença. Ao fazer parte do nosso time, você terá a chance de trabalhar em um ambiente que promove o crescimento profissional e o desenvolvimento de habilidades essenciais. Se você é pró-ativo(a), gosta de desafios e deseja fazer parte de um local que reconhece o talento e a dedicação, venha descobrir como podemos construir um futuro promissor juntos. Sua jornada profissional pode começar aqui, e estamos ansiosos para conhecer você!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Preparar massas de pães, bolos e produtos de panificação em geral.
-</li>
-<li>
-Modelar, fermentar e assar os produtos conforme padrões da empresa.
-</li>
-<li>
-Seguir receitas, fichas técnicas e cronogramas de produção.
-</li>
-<li>
-Controlar tempo de preparo, temperatura e qualidade dos produtos.
-</li>
-<li>
-Manter a organização, limpeza e higiene do ambiente de trabalho.
-</li>
-<li>
-Controlar estoque de insumos e solicitar reposição quando necessário.
-</li>
-<li>
-Cumprir normas de segurança alimentar e boas práticas de fabricação.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência como padeiro(a).
-</li>
-<li>
-Conhecimento em panificação tradicional e/ou artesanal.
-</li>
-<li>
-Noções de higiene e manipulação de alimentos.
-</li>
-<li>
-Agilidade, atenção e comprometimento.
-</li>
-<li>
-Disponibilidade de horário 6x1.</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte.</li><li>Refeitório na unidade.</li><li>Assistência médica.</li><li>Assistência odontológica.</li><li>Alelo Multibenefícios.</li><li>TotalPass.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hiperidealvagas/49/padeiro?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[79745353]]></companyId>
     <city><![CDATA[Salvador]]></city>
     <state><![CDATA[Bahia]]></state>
@@ -84286,6 +84178,34 @@ Disponibilidade para atuar presencialmente.</li>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[b2ece606-6920-47a0-a864-b58e3b451cf9]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[b2ece606-6920-47a0-a864-b58e3b451cf9]]></partnerRequisitionId>
+    <company><![CDATA[Escola Beit Yaacov]]></company>
+    <title><![CDATA[ASSISTENTE DE ENSINO - ENSINO MÉDIO (LETRAS) - 40 Horas]]></title>
+    <posterEmail><![CDATA[ana.grandizoli@beityaacov.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Apoiar o professor titular no desenvolvimento das atividades pedagógicas do Ensino Médio, contribuindo para a aprendizagem dos alunos e para a organização do ambiente escolar.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar o professor na condução das aulas e atividades pedagógicas;Acompanhar e orientar alunos individualmente ou em grupos;<br />Auxiliar na aplicação e organização de avaliações, trabalhos e projetos;<br />Preparar e organizar materiais didáticos e recursos utilizados em sala;<br />Participar de reuniões pedagógicas, formações e alinhamentos com a equipe docente;​<br />Auxiliar nas demandas do segmento.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação completa ou cursando Letras – Português;Domínio das tecnologias e ferramentas Google;<br />Inglês intermediário será considerado um diferencial;<br />Experiência com correção de textos.<br /><br /><br /><b>Benefícios</b><br /><br />Café da manhã e almoço na escola<br />Seguro saúde e odontológico – SulAmérica<br />Vale Transporte ou vaga de estacionamento<br />Vale Alimentação <br />Parcerias com Academias<br />Descontos em ingressos do Teatro Safra e do Cinemark<br />Parceria com a Petlove<br />Parceria com o Sesc<br />TotalPass]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasescolabeityaacov/126/assistente-de-ensino-ensino-medio-letras-40-horas?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[1336374]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[5373.64]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[3826.90]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[aa2c8720-ccfe-497b-90b4-2dc380af2c76]]></partnerJobId>
@@ -86658,6 +86578,43 @@ Seguir normas de segurança e utilizar EPIs adequadamente.</li><br /><br /><b>Re
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[ce432543-d5e7-4d8c-8cb6-899044a13176]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[ce432543-d5e7-4d8c-8cb6-899044a13176]]></partnerRequisitionId>
+    <company><![CDATA[FCCSA]]></company>
+    <title><![CDATA[Analista de Governança Sênior]]></title>
+    <posterEmail><![CDATA[joiceribeiro@fccsa.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Ser
+responsável por implementar e aprimorar continuamente o sistema de Governança
+Corporativa da companhia, assegurando o adequado funcionamento de suas
+instâncias de governança, o cumprimento das diretrizes societárias e dos
+instrumentos de gestão, a efetividade dos processos decisórios e a
+transparência na relação entre acionistas, Conselho de Administração, Diretoria
+e corpo gerencial.
+
+Atuar
+como referência técnica na aplicação e disseminação das melhores práticas de
+Governança Corporativa, de modo a fortalecer a prestação de contas (Accountability),
+a integridade institucional, a conformidade, a sustentabilidade do negócio e a
+geração de valor para os acionistas.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Aprimorar o modelo de Governança Corporativa, assegurando sua aderência às melhores práticas de mercado, às disposições legais e societárias, ao Estatuto Social, ao Acordo de Acionistas e às diretrizes estabelecidas pelos acionistas e órgãos de administração.</li><li>Ser responsável pelo suporte técnico e administrativo às instâncias de governança, especialmente Assembleias Gerais, Conselho de Administração e reuniões de Diretoria, garantindo organização, formalização, documentação, rastreabilidade e acompanhamento das decisões e deliberações.</li><li>Atuar como ponto focal operacional da Secretaria de Governança, assegurando que os processos decisórios ocorram de forma estruturada e tempestiva, em conformidade com as disposições legais, estatutárias e societárias.</li><li>Monitorar a adequação e a atualização dos instrumentos societários e dos documentos que disciplinam a estrutura de governança da companhia, assegurando o atendimento tempestivo das obrigações legais, regulatórias e societárias.</li><li>Realizar o processo corporativo de elaboração, revisão, aprovação, divulgação e monitoramento das políticas, normas e instrumentos de governança, assegurando padronização, coerência, integração entre as áreas e alinhamento às diretrizes estratégicas e aos requisitos legais e normativos aplicáveis.</li><li>Administrar e monitorar a Matriz de Alçadas e Competências da companhia, assegurando a clareza dos limites de autoridade, responsabilidade e aprovação nas decisões corporativas, bem como sua aderência ao Estatuto Social, ao Acordo de Acionistas, às políticas internas e às diretrizes estabelecidas pelos órgãos de administração.</li><li>Estruturar e administrar o sistema de indicadores de desempenho da área de Governança, consolidando informações, elaborando relatórios gerenciais e executivos e fornecendo subsídios à tomada de decisão pela Gerência, Diretoria e Conselho de Administração.</li><li>Monitorar tendências, práticas e referenciais de mercado relacionados à Governança Corporativa, identificando oportunidades de aprimoramento e propondo iniciativas que contribuam para a evolução do modelo de governança da companhia, considerando sua estrutura societária, seu porte, seu segmento de atuação e as expectativas dos acionistas.  </li></ul><br /><b></b><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação: Superior completo preferencialmente
+em Direito, podendo ser Administração de Empresas, Economia ou áreas correlatas; </li><li> MBA em Governança Corporativa, Gestão
+Empresarial, Gestão de Riscos, Direito Empresarial ou áreas afins. </li><li> Certificação na área de Governança
+Corporativa – IBGC; </li><li> Inglês Fluente (mandatório); </li><li> Desejável Espanhol. </li><li> Experiência mínima de 5 anos em
+atividades relacionadas à Governança Corporativa, Administração, Gestão
+Empresarial, Planejamento, Compliance, Gestão de Riscos ou áreas correlatas.</li></ul><br /><br /><b>Benefícios</b><br /><br />Assistência Médica e OdontológicaTransporte Fretado e Vale Transporte<br />Previdência Privada<br />Remuneração Variável (Bônus)<br />Participação nos resultados<br />Wellhub / Gympass<br />Refeição no local<br />Seguro de Vida<br />Convênio farmácia<br />Cesta Natal<br />Vale presente mês aniversário<br /><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasfccsa/14/analista-de-governanca-senior?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[56464614]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[01b8b835-230d-4b84-9a22-69ebe293c955]]></partnerJobId>
     <partnerRequisitionId><![CDATA[01b8b835-230d-4b84-9a22-69ebe293c955]]></partnerRequisitionId>
     <company><![CDATA[NACIONAL CRED]]></company>
@@ -88784,6 +88741,46 @@ Compreender a importância de suas atividades para o atendimento de metas da ár
           <amount><![CDATA[1100.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[62f1c483-f8c8-438f-acf1-e70e12e4ae7c]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[62f1c483-f8c8-438f-acf1-e70e12e4ae7c]]></partnerRequisitionId>
+    <company><![CDATA[Sintex]]></company>
+    <title><![CDATA[Líder de Produção]]></title>
+    <posterEmail><![CDATA[rh03@sintex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma oportunidade para crescer profissionalmente em um ambiente organizado, dinâmico e colaborativo, a Sintex tem uma excelente oportunidade para você!<br /><br /><br />Estamos em busca de um(a) Líder de Produção comprometido(a), atento(a) aos detalhes e com vontade de aprender. Aqui, você fará parte de um time que valoriza a qualidade, o trabalho em equipe e o desenvolvimento contínuo.<br /><br /><br />Início previsto: 04/01/2027<br />Horário: 1º turno: Segunda à Sexta das 05h00 às 14h18<br />               2º turno: Segunda à Sexta das 14h18 às 23h24<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Liderar e orientar a equipe de montagem.</li><li>Distribuir e acompanhar as atividades diárias do setor.</li><li>Atuar diretamente na produção, executando montagens quando necessário.</li><li>Garantir o cumprimento das metas de produção, qualidade e prazos.</li><li>Treinar e apoiar os colaboradores nos processos de trabalho.</li><li>Monitorar a produtividade e solucionar problemas operacionais.</li><li>Assegurar o cumprimento das normas de segurança, qualidade e organização.</li><li>Realizar apontamentos e acompanhar indicadores de desempenho.</li><li>Controlar perdas, retrabalhos e promover melhorias nos processos.</li><li>Manter a comunicação entre a produção e os demais setores da empresa.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio completo.</li><li>Experiência em liderança de equipes de produção.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br />✔ Plano de saúde<br />✔ Convênio com farmácias<br />✔ Prêmio de assiduidade<br />✔ Alimentação na empresa<br />✔ Vale-transporte<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sintexvagas/35/lider-de-producao?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3652217]]></companyId>
+    <city><![CDATA[Joinville]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d1846fea-c401-4c48-b04b-a5fe68d7e245]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[d1846fea-c401-4c48-b04b-a5fe68d7e245]]></partnerRequisitionId>
+    <company><![CDATA[Sintex]]></company>
+    <title><![CDATA[Ajudante de Produção]]></title>
+    <posterEmail><![CDATA[rh03@sintex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você busca uma oportunidade para crescer profissionalmente em um ambiente organizado, dinâmico e colaborativo, a Sintex tem uma excelente oportunidade para você!<br /><br /><br />Estamos em busca de um(a) Ajudante de Produção comprometido(a), atento(a) aos detalhes e com vontade de aprender. Aqui, você fará parte de um time que valoriza a qualidade, o trabalho em equipe e o desenvolvimento contínuo.<br /><br /><br />Horário de Trabalho:<br /><br /><br />1º turno: 05:00 às 14:18<br />2º turno: 14:18 às 23:24<br />3º turno: 22:00 às 05:00<br /><br /><br /><b>Para quem utiliza transporte público, recomenda-se verificar os horários de ônibus pois a empresa não trabalha com transporte fretado.</b><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O que você irá fazer:<br /><br /><li>Realizar a montagem, embalagem e inspeção visual de produtos;</li><li>Operar dispositivos e equipamentos das linhas de produção;</li><li>Abastecer as linhas com componentes e materiais;</li><li>Realizar apontamentos de produção e registros de qualidade;</li><li>Identificar e comunicar possíveis falhas ou anomalias no processo;</li><li>Manter o ambiente de trabalho, máquinas e equipamentos limpos e organizados;</li><li>Seguir os padrões de qualidade, segurança e procedimentos internos da empresa.</li><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Fundamental completo.<br /><br /><b>Benefícios</b><br /><br />✔ Plano de saúde<br />✔ Convênio com farmácias<br />✔ Prêmio de assiduidade<br />✔ Alimentação na empresa<br />✔ Vale-transporte<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sintexvagas/34/ajudante-de-producao?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3652217]]></companyId>
+    <city><![CDATA[Joinville]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -96728,6 +96725,26 @@ Residir em São Paulo.</li><br /><br /><b>Benefícios</b><br /><br />Oferecemos 
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[a7c47d0e-1767-4d2b-b164-f185d2480c21]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[a7c47d0e-1767-4d2b-b164-f185d2480c21]]></partnerRequisitionId>
+    <company><![CDATA[Grupo Dasart]]></company>
+    <title><![CDATA[AUDITOR DE LOJA TEMPORÁRIO | GRAND SHOPPING]]></title>
+    <posterEmail><![CDATA[rh@terrazoshopping.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><strong>Principais atividades – Auditor Temporário</strong><ul><li>Realizar a coleta e conferência dos dados de vendas junto aos caixas das lojas do shopping;</li><li>Registrar as informações coletadas de forma precisa e organizada;</li><li>Verificar a consistência dos dados, identificando possíveis divergências;</li><li>Manter contato com os lojistas, garantindo uma abordagem cordial e profissional;</li><li>Cumprir os procedimentos e prazos estabelecidos para a coleta das informações;</li><li>Assegurar a confidencialidade e a confiabilidade dos dados coletados.</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><strong>Principais atividades – Auditor Temporário</strong><ul><li>Realizar a coleta e conferência dos dados de vendas junto aos caixas das lojas do shopping;</li><li>Registrar as informações coletadas de forma precisa e organizada;</li><li>Verificar a consistência dos dados, identificando possíveis divergências;</li><li>Manter contato com os lojistas, garantindo uma abordagem cordial e profissional;</li><li>Cumprir os procedimentos e prazos estabelecidos para a coleta das informações;</li><li>Assegurar a confidencialidade e a confiabilidade dos dados coletados.</li></ul></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte ou estacionamento;</li><li>Vale alimentação/refeição;</li><li>Contrato de 30 dias.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupodasartvagas/32/auditor-de-loja-temporario-grand-shopping?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[10275967]]></companyId>
+    <city><![CDATA[Fortaleza]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[70edcbeb-8bcd-4566-8891-38145b0e31ad]]></partnerJobId>
@@ -111941,30 +111958,6 @@ Facilidade para trabalhar com sistemas jurídicos e ferramentas digitais.</li><b
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[4cb7939a-b12a-4eed-869c-451543a8f572]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[4cb7939a-b12a-4eed-869c-451543a8f572]]></partnerRequisitionId>
-    <company><![CDATA[De Vivo, Castro, Cunha e Whitaker Advogados]]></company>
-    <title><![CDATA[Advogado(a) Júnior - Contratos]]></title>
-    <posterEmail><![CDATA[jsantana@devivocastro.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos com uma oportunidade para <strong>Advogado(a) Júnior</strong>, com atuação em regime de <strong>Secondment</strong>, alocado(a) diretamente em empresa de grande porte.<br /><br /><br />Buscamos um profissional para atuar na área de Contratos/Consultivo, prestando suporte jurídico às demandas corporativas, com foco na análise e elaboração de contratos e no atendimento consultivo às áreas de negócio.<br /><br />Procuramos alguém com iniciativa, comprometimento, boa comunicação e capacidade de organização, que tenha facilidade para trabalhar em equipe e interesse em ampliar sua experiência jurídica em um contexto dinâmico e desafiador.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Elaboração, revisão e análise de contratos;</li><li>Atendimento a consultas jurídicas relacionadas às atividades e operações da empresa;</li><li>Apoio na análise de matérias societárias;</li><li>Elaboração e análise de documentos jurídicos;</li><li>Suporte às áreas internas em demandas consultivas, buscando soluções jurídicas alinhadas às necessidades do negócio.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação completa em Direito e OAB ativa;</li><li>Experiência na área de Contratos;</li><li>Experiência
-<b>obrigatória </b>em jurídico corporativo de empresa, seja como interno(a) ou como
-secondee;</li><li>Contato com matérias
-     societárias, ainda que de menor complexidade.</li>
-<li>Boa capacidade de redação e análise;</li><li>Organização, autonomia e atenção aos detalhes;</li><li>Bom relacionamento interpessoal e trabalho em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de saúde;</li><li>Plano odontológico;</li><li>Seguro de vida;</li><li>Vale transporte ou estacionamento;</li><li>Bônus;</li><li>Wellhub.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/devivocastrocarreiras/11/advogado-a-junior-contratos?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[552696]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[b8d9b5dc-c2ac-485a-b7ba-9e0c6eb47d59]]></partnerJobId>
     <partnerRequisitionId><![CDATA[b8d9b5dc-c2ac-485a-b7ba-9e0c6eb47d59]]></partnerRequisitionId>
     <company><![CDATA[De Vivo, Castro, Cunha e Whitaker Advogados]]></company>
@@ -112698,7 +112691,7 @@ função correlata <br />• Vivência com prospecção ativa, especialmente col
     <company><![CDATA[Grupo Pulsa]]></company>
     <title><![CDATA[Recepcionista]]></title>
     <posterEmail><![CDATA[barbara.camisassa@grupopulsa.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O Grupo Pulsa está contratando Recepcionista! Venha fazer parte de um time que é essencial para a vida.Somos o maior Grupo de Hemoterapia da América Latina e estamos prontos para ir além!No Grupo Pulsa, somos um só time que pulsa o mesmo propósito: entregar segurança de ponta a ponta, acolher com humanidade e gerar resultados que realmente transformam vidas. Aqui, cada colaborador tem um papel fundamental na nossa missão e queremos pessoas que compartilhem desse mesmo ritmo.Se você é comprometido, busca evolução contínua e quer fazer parte de uma organização que carrega a responsabilidade de ser essencial para a vida, seu lugar pode ser aqui.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Organizar as atividades diárias de reposição de materiais e insumos e manter a área de trabalho limpa e organizada;</li><li>Realizar cadastro dos clientes de acordo com documento apresentado, identificar doador, paciente e acompanhante com segurança;</li><li>Participar na captação de doadores;</li><li>Auxiliar no contato com doador para comparecimento na unidade;</li><li>Atender chamadas telefônicas;</li><li>Marcar e controlar a agenda do ambulatório;</li><li>Organizar fila de doadores e preferência dos mesmos;</li><li>Registrar as visitas e os telefonemas recebidos. Auxiliar em pequenas tarefas de apoio administrativo;</li><li>Utilizar recursos de informática;</li><li>Executar outras tarefas de mesma natureza e nível de complexidade associadas ao ambiente organizacional;</li><li>Auxiliar em tarefas simples relativas às atividades de administração, para atender solicitações e necessidades da unidade;</li><li>Realizar solicitação de material para rotina, controlar a entrada e saída de pessoas nos locais de trabalho, receber, transmitir mensagens telefônicas e fax, receber, coletar e distribuir correspondência, documentos, mensagens, encomendas, volumes e outros, interna e externamente.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo;</li><li>Ter atuado como recepcionista no contexto hospitalar.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário: R$1.707,00 + R$324,20 (insalubridade)</li><li>Horário de trabalho: Segunda a Sexta 07h30 às 17h30.</li><li>Benefícios: Vale Alimentação/Vale Refeição, Vale transporte, Plano de saúde, Plano Odontológico, Programa Pulsa Saúde – Telemedicina.</li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />O Grupo Pulsa está contratando Recepcionista! Venha fazer parte de um time que é essencial para a vida.Somos o maior Grupo de Hemoterapia da América Latina e estamos prontos para ir além!No Grupo Pulsa, somos um só time que pulsa o mesmo propósito: entregar segurança de ponta a ponta, acolher com humanidade e gerar resultados que realmente transformam vidas. Aqui, cada colaborador tem um papel fundamental na nossa missão e queremos pessoas que compartilhem desse mesmo ritmo.Se você é comprometido, busca evolução contínua e quer fazer parte de uma organização que carrega a responsabilidade de ser essencial para a vida, seu lugar pode ser aqui.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Organizar as atividades diárias de reposição de materiais e insumos e manter a área de trabalho limpa e organizada;</li><li>Realizar cadastro dos clientes de acordo com documento apresentado, identificar doador, paciente e acompanhante com segurança;</li><li>Participar na captação de doadores;</li><li>Auxiliar no contato com doador para comparecimento na unidade;</li><li>Atender chamadas telefônicas;</li><li>Marcar e controlar a agenda do ambulatório;</li><li>Organizar fila de doadores e preferência dos mesmos;</li><li>Registrar as visitas e os telefonemas recebidos. Auxiliar em pequenas tarefas de apoio administrativo;</li><li>Utilizar recursos de informática;</li><li>Executar outras tarefas de mesma natureza e nível de complexidade associadas ao ambiente organizacional;</li><li>Auxiliar em tarefas simples relativas às atividades de administração, para atender solicitações e necessidades da unidade;</li><li>Realizar solicitação de material para rotina, controlar a entrada e saída de pessoas nos locais de trabalho, receber, transmitir mensagens telefônicas e fax, receber, coletar e distribuir correspondência, documentos, mensagens, encomendas, volumes e outros, interna e externamente.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo;</li><li>Ter atuado como recepcionista no contexto hospitalar.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário: R$1.707,00</li><li>Horário de trabalho: Segunda a Sexta 07h30 às 17h30.</li><li>Benefícios: Vale Alimentação/Vale Refeição, Vale transporte, Plano de saúde, Plano Odontológico, Programa Pulsa Saúde – Telemedicina.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupopulsacarreiras/14/recepcionista?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[54295074]]></companyId>
     <city><![CDATA[Vitória]]></city>
