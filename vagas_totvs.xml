@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 04 Nov 2026 16:22:17 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 17:28:41 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[4137]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4139]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1fa7930a-744d-4fe3-8b53-fc94f93c0ee0]]></partnerRequisitionId>
@@ -4954,26 +4954,6 @@ tecnologias de desenvolvimento modernas, preferencialmente <b>React e Node.js</b
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[c0a9c223-b10d-4bef-961b-4f7be0aa604f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[c0a9c223-b10d-4bef-961b-4f7be0aa604f]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Especialista em Engenharia de Software Fullstack - Go/Angular | Cloud (Remoto)]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Venha construir a plataforma de orquestração multicloud do IaaS da TOTVS Cloud (T-Cloud): um sistema que provisiona e reconcilia infraestrutura (compartimentos, redes, instâncias, storage) em nuvem pública a partir de um contrato neutro, com mensageria confiável e observabilidade ponta a ponta. Não é "mais um CRUD" — é engenharia de plataforma: máquina de estados de provisionamento, entrega garantida de mensagens e reconciliação de estado.<br /><br /><br />Trata-se de um monólito modular Go-first em arquitetura hexagonal por capability, com front-end em Angular que consome um SDK TypeScript gerado a partir do OpenAPI e um Design System próprio.<br /><br /><br />Como Especialista , você atuará de ponta a ponta (backend Go + front-end Angular) em tarefas e fatias bem definidas, com o apoio de pessoas mais seniores nas decisões de desenho. O foco é entregar com qualidade dentro dos trilhos que a casa já estabeleceu — e evoluir para conduzir fatias verticais inteiras.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Implementar funcionalidades fullstack a partir de specs e planos já desenhados (endpoint no backend, regra no domínio, tela no portal).</li><li>Escrever testes seguindo TDD e garantir make verify verde antes de abrir PR.</li><li>Consumir o contrato OpenAPI e o SDK gerado, respeitando a separação domínio × adapters e os princípios da casa (monorepo modular, hexagonal, YAGNI/KISS).</li><li>Participar das revisões (dando e recebendo feedback) e aplicar os ajustes necessários.</li><li>Trabalhar com o harness IA-First usando as skills internas e revisando criticamente o que a IA gera antes de realizar o commit.</li><li>Manter a documentação e o FAQ da tela ou fluxo que alterou.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Experiência sólida em pelo menos uma ponta (Go ou Angular/TypeScript) e disposição para atuar em contexto fullstack.</b></li><li><b>Fundamentos firmes: HTTP/REST, SQL, Git e testes automatizados.</b></li><li><b>Conforto com linha de comando, Docker e análise de logs</b></li><li><b>Experiência com OCI (Oracle Cloud Infrastructure) — ou outra nuvem pública, com disposição para aprender OCI.</b></li><li><b>Mentalidade IA-First: utilizar ferramentas de IA no desenvolvimento com senso crítico e discernimento.</b></li><li><b>Boa comunicação escrita e prática contínua de code review.</b></li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12535/tech-especialista-em-engenharia-de-software-fullstack-go-angular-cloud-remoto?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[70b052a7-7715-4f30-8a38-b887275c4999]]></partnerJobId>
     <partnerRequisitionId><![CDATA[70b052a7-7715-4f30-8a38-b887275c4999]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -6402,12 +6382,32 @@ A posição está inserida na Gerência Executiva de Planejamento e Negócios, q
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[5a8c9750-c57a-4ecf-bfa4-0002b8fc0903]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[5a8c9750-c57a-4ecf-bfa4-0002b8fc0903]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de IA Sênior - Agentes & GenAI | IA (Remoto)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Desenvolver e sustentar soluções de engenharia de software e inteligência artificial voltadas à automação de jornadas de autosserviço e processos de atendimento, integrando sistemas corporativos a ecossistemas de IA para maximizar a resolução autônoma, elevar a eficiência operacional e aprimorar a experiência do cliente.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver e evoluir jornadas de autosserviço, com foco em melhorar a experiência do cliente e ampliar a resolução sem necessidade de atendimento humano;</li></ul><ul><li>Desenvolver automações internas para apoiar os times de atendimento e suporte, reduzindo atividades manuais e aumentando a eficiência operacional;</li></ul><ul><li>Construir e manter integrações entre sistemas, APIs e agentes de Inteligência Artificial;</li></ul><ul><li>Desenvolver serviços e componentes para permitir que agentes de IA consultem informações, executem ações em sistemas corporativos e apoiem a resolução de atendimentos;</li></ul><ul><li>Apoiar a implementação e evolução de agentes e copilotos de IA aplicados ao atendimento, triagem, análise de chamados e suporte aos analistas;</li></ul><ul><li>Desenvolver e manter integrações por meio de APIs REST, Webhooks e serviços internos e externos;</li></ul><ul><li>Trabalhar em conjunto com especialistas de negócio na identificação de oportunidades e na transformação de necessidades operacionais em soluções tecnológicas;</li></ul><ul><li>Garantir boas práticas de desenvolvimento, segurança, documentação, monitoramento e manutenção das soluções desenvolvidas;</li><li>Participar das rotinas do time, contribuindo para a evolução contínua das soluções e compartilhamento de conhecimento.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com desenvolvimento de software e integração de sistemas;</li></ul><ul><li>Conhecimento em linguagens de programação backend, preferencialmente C#/.NET, Node.js, Python ou Java;</li></ul><ul><li>Experiência com desenvolvimento, integração e consumo de APIs REST e Webhooks;</li></ul><ul><li>Conhecimento de bancos de dados relacionais e/ou NoSQL;</li></ul><ul><li>Conhecimento de Git e práticas de versionamento de código;</li></ul><ul><li>Conhecimentos em Inteligência Artificial Generativa, LLMs e agentes de IA;</li></ul><ul><li>Conhecimento de conceitos e arquiteturas como RAG, embeddings, busca semântica e bancos/buscadores vetoriais;</li></ul><ul><li>Experiência com serviços em nuvem, preferencialmente Microsoft Azure, incluindo soluções como Azure AI Foundry;</li></ul><ul><li>Conhecimento de arquitetura de integrações, microsserviços e processamento assíncrono;</li></ul><ul><li>Experiência com plataformas de atendimento como Zendesk, Salesforce ou similares será considerada um diferencial;</li></ul><ul><li>Conhecimento de observabilidade, logs, monitoramento e acompanhamento de integrações e APIs será considerado um diferencial.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/13062/tech-engenharia-de-ia-senior-agentes-genai-ia-remoto?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[c1721e58-1ba4-4eaa-b88e-d438acd38249]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c1721e58-1ba4-4eaa-b88e-d438acd38249]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
     <title><![CDATA[[Produto] Especialista de Portfólio | Produto (PM)]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos uma pessoa para atuar como Especialista de Portfólio (Product Manager), responsável por liderar a visão e a evolução do produto em linha com a estratégia da TOTVS. Nesse papel, você fará a gestão e priorização do roadmap, conectando clientes, parceiros de desenvolvimento e objetivos de negócio para garantir a rentabilidade e o impacto da nossa solução no mercado.<br /><br /><br />Aqui você terá o desafio de liderar a expansão internacional do produto, atuando diretamente em projetos de localização fiscal/funcional, estabilização de pós-go-live e novos rollouts na América Latina.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Criar a visão do produto por meio de pesquisa, desenvolvimento e apresentação de conteúdo de visão.</li><li>Acompanhar as entregas das squads e em caso de desvios, sinalizar a necessidade de adequações nom planejamento a fim de atingir os objetivos.</li><li>Garantir que as necessidades dos clientes (internos e externos) e mercado, são incorporadas ao produto ou novos negócios, por meio de estudo, pesquisa e revisão periódica da aderência do cliente as novas funcionalidades liberadas.</li><li>Disseminar a cultura TOTVS e Ágil, sendo um exemplo dos valores éticos, influenciando o mindset colaborativo.</li><li>Contribuir com a tomada de decisão relacionada a estratégia de Produto junto ao tribe de Segmento/Plataforma por meio de insumos obtidos pelos clientes externos.</li><li>Acompanhamento de situações estratégicas junto aos clientes/canais. (Exemplo: Implantações; situações críticas do dia a dia).</li><li>Apoio a Tribes, POs e Team Leads/Agile Master, na tomada de decisão na formação das equipes de desenvolvimento.</li><li>Acompanhamento do ciclo de vida do produto de seu segmento.</li><li>Acompanhar a estratégia de capacitação para os consultores avaliando o momento dos produtos em questão.</li><li>Indicar e aprovar novas parcerias, por meio da análise das necessidades e estratégia do produto.</li><li>Monitorar as parcerias existentes, juntamente com o time de Atendimento, por meio do acompanhamento da evolução do produto parceiro, tickets abertos e métricas vigentes na TOTVS, como</li><li>SLA, por exemplo.</li><li>Juntamente com o time de Parcerias e Ofertas é responsável pela desativação de uma parceria já existente, reunindo argumentos que embasam a decisão e alinhando o entendimento entre as partes envolvidas no processo de parceria TOTVS.</li><li>Aprovar o Business Plan avaliando o material desenvolvido pelo time de Ofertas e fazendo as ponderações necessárias para que fique de acordo com os objetivos estratégicos do produto.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida como Product Manager (PM) ou Gestor de Portfólio em produtos de software corporativo (ERP, DMS ou soluções correlatas);</li><li>Conhecimento em ciclo de desenvolvimento de Software;</li><li>Vivência em condução de contas corporativas de grande porte (Enterprise / B2B complexo);</li><li>Metodologia Ágil;</li><li>UX;</li><li>Lean Inception;</li><li>Liderança;</li><li>Espanhol fluente ou avançado (imprescindível para interlocução frequente com times e clientes América Latina);</li><li>Disponibilidade para viagens ou deslocamentos pontuais para a matriz em São Paulo.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos uma pessoa para atuar como Especialista de Portfólio (Product Manager), responsável por liderar a visão e a evolução do produto em linha com a estratégia da TOTVS. Nesse papel, você fará a gestão e priorização do roadmap, conectando clientes, parceiros de desenvolvimento e objetivos de negócio para garantir a rentabilidade e o impacto da nossa solução no mercado.<br /><br /><br />Aqui você terá o desafio de liderar a expansão internacional do produto, atuando diretamente em projetos de localização fiscal/funcional, estabilização de pós-go-live e novos rollouts na América Latina.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Criar a visão do produto por meio de pesquisa, desenvolvimento e apresentação de conteúdo de visão.</li><li>Acompanhar as entregas das squads e em caso de desvios, sinalizar a necessidade de adequações nom planejamento a fim de atingir os objetivos.</li><li>Garantir que as necessidades dos clientes (internos e externos) e mercado, são incorporadas ao produto ou novos negócios, por meio de estudo, pesquisa e revisão periódica da aderência do cliente as novas funcionalidades liberadas.</li><li>Disseminar a cultura TOTVS e Ágil, sendo um exemplo dos valores éticos, influenciando o mindset colaborativo.</li><li>Contribuir com a tomada de decisão relacionada a estratégia de Produto junto ao tribe de Segmento/Plataforma por meio de insumos obtidos pelos clientes externos.</li><li>Acompanhamento de situações estratégicas junto aos clientes/canais. (Exemplo: Implantações; situações críticas do dia a dia).</li><li>Apoio a Tribes, POs e Team Leads/Agile Master, na tomada de decisão na formação das equipes de desenvolvimento.</li><li>Acompanhamento do ciclo de vida do produto de seu segmento.</li><li>Acompanhar a estratégia de capacitação para os consultores avaliando o momento dos produtos em questão.</li><li>Indicar e aprovar novas parcerias, por meio da análise das necessidades e estratégia do produto.</li><li>Monitorar as parcerias existentes, juntamente com o time de Atendimento, por meio do acompanhamento da evolução do produto parceiro, tickets abertos e métricas vigentes na TOTVS, como SLA, por exemplo.</li><li>Juntamente com o time de Parcerias e Ofertas é responsável pela desativação de uma parceria já existente, reunindo argumentos que embasam a decisão e alinhando o entendimento entre as partes envolvidas no processo de parceria TOTVS.</li><li>Aprovar o Business Plan avaliando o material desenvolvido pelo time de Ofertas e fazendo as ponderações necessárias para que fique de acordo com os objetivos estratégicos do produto.<br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência sólida como Product Manager (PM) ou Gestor de Portfólio em produtos de software corporativo (ERP, DMS ou soluções correlatas);</li><li>Conhecimento em ciclo de desenvolvimento de Software;</li><li>Vivência em condução de contas corporativas de grande porte (Enterprise / B2B complexo);</li><li>Metodologia Ágil;</li><li>UX;</li><li>Lean Inception;</li><li>Liderança;</li><li>Espanhol fluente ou avançado (imprescindível para interlocução frequente com times e clientes América Latina);</li><li>Disponibilidade para viagens ou deslocamentos pontuais para a matriz em São Paulo.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12809/produto-especialista-de-portfolio-produto-pm?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
@@ -18350,6 +18350,112 @@ Transporte e Vale Refeição, <b>não são descontados </b>em folha de pagamento
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[bb5478e5-f0da-45e6-afa5-60270c6f6c75]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[bb5478e5-f0da-45e6-afa5-60270c6f6c75]]></partnerRequisitionId>
+    <company><![CDATA[Mind Group]]></company>
+    <title><![CDATA[Analista Contábil Fiscal Sênior]]></title>
+    <posterEmail><![CDATA[julia.santos@taxationmind.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Analista Contábil e Fiscal Sênior com ensino superior em Ciências Contábeis, sólida vivência no setor e domínio avançado de ERPs e Excel para liderar rotinas contábeis, fiscais e de custos. O(a) profissional será responsável por conduzir conciliações e análises fiscais complexas, apoiar o fechamento contábil e a formação de custos, acompanhar controles de estoque, conferir documentos fiscais e garantir a integridade e rastreabilidade dos dados através de relatórios atualizados. Além disso, atuará na investigação de inconsistências, na preparação de documentações para auditorias ou contabilidade externa e na proposição contínua de melhorias para os processos e controles internos da empresa.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />
+
+
+ 
+  
+  Realizar análises e controles fiscais e contábeis.
+  Executar e acompanhar conciliações, identificando e tratando
+  divergências.
+  Apoiar os processos de fechamento contábil e fiscal.
+  Acompanhar movimentações e controles de estoque, verificando a
+  consistência das informações.
+  Apoiar a formação, apuração e análise de custos.
+  Conferir documentos fiscais e contábeis, verificando sua integridade
+  e consistência.
+  Organizar e preparar informações e documentos para envio à
+  contabilidade.
+  Investigar inconsistências, identificar suas possíveis causas e
+  propor soluções.
+  Manter controles e relatórios atualizados, assegurando a
+  rastreabilidade das informações.
+  Contribuir para a melhoria dos processos, procedimentos e controles
+  internos.
+  
+ 
+
+
+<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />
+
+
+ 
+  
+  Experiência prévia em rotinas fiscais e contábeis, compatível com o
+  nível pleno.
+  Vivência com conciliações contábeis e fiscais.
+  Experiência com conferência e análise de documentos fiscais e
+  contábeis.
+  Conhecimento dos processos de fechamento contábil e fiscal.
+  Experiência com controles e acompanhamento de estoque.
+  Conhecimento em formação, apuração e análise de custos.
+  Experiência na identificação, análise e tratamento de divergências e
+  inconsistências.
+  Vivência com organização de informações e preparação de documentos
+  para processos contábeis e fiscais.
+  
+ 
+
+
+<br /><br /><br /><b>Benefícios</b><br /><br />Cliente: LGMG
+
+Remuneração: Compatível
+com o mercado
+
+ Regime: TEMPORÁRIO.
+
+ Localização: Indaituba/SP.
+
+ Vale Refeição: R$40,00
+por dia.
+
+ Assistência médica e
+odontológica Bradesco (com coparticipação).
+
+Auxílio Creche
+de R$ 495,00.
+
+⏰ Horário: Das 8:30 às 17:30. (<b>100% PRESENCIAL</b>).
+
+Cesta
+maternidade/paternidade.
+
+ Clube de Vantagens (Via
+Swile). 
+
+ TotalPass.
+
+SESC.
+
+ TotalPass
+
+ Day Off no seu
+aniversário.
+
+ Oportunidade de
+crescimento profissional. 
+
+<b>PLUS: </b>Vale Transporte e Vale Refeição, <b>não são
+descontados </b>em folha de pagamento.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/mindgroupvagas/70/analista-contabil-fiscal-senior?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[76119207]]></companyId>
+    <city><![CDATA[Indaiatuba]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[d0b8f52c-8ebe-4d36-8541-4d229829b85c]]></partnerJobId>
     <partnerRequisitionId><![CDATA[d0b8f52c-8ebe-4d36-8541-4d229829b85c]]></partnerRequisitionId>
     <company><![CDATA[Mind Group]]></company>
@@ -20235,6 +20341,26 @@ suas expectativas e a se preparar melhor para futuras conversas.<br /><br /><br 
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[84d26ddf-f8fc-4689-a188-a89ea3e969fd]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[84d26ddf-f8fc-4689-a188-a89ea3e969fd]]></partnerRequisitionId>
+    <company><![CDATA[WEAI]]></company>
+    <title><![CDATA[Analista de Gestão de Ativos]]></title>
+    <posterEmail><![CDATA[ricardo.peixe@weai.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Realizar o levantamento, registro e controle do inventário de ativos de TI, como hardware, software e licenças. Monitorar prazos de garantia, manutenção e ciclo de vida dos equipamentos e sistemas. Coordenar o fluxo de entrada e saída de ativos, garantindo sua rastreabilidade e documentação. Gerar relatórios periódicos com indicadores de gestão, como utilização, custo e performance dos ativos. Apoiar a implementação de processos de gestão de ativos alinhados às boas práticas do ITIL. Trabalhar em parceria com fornecedores para negociação e acompanhamento de contratos. Implementar e monitorar ferramentas de gestão de ativos e sistemas ITSM. Identificar oportunidades de automação e otimização dos processos de gestão de ativos. Fornecer suporte na elaboração de orçamentos e previsões relacionadas aos ativos de TI. Garantir conformidade com políticas internas de TI e boas práticas de segurança da informação.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Organização: Capacidade de manter processos e informações bem estruturadas.</li><li>Atenção aos Detalhes: Precisão no controle e gerenciamento de ativos.</li><li>Comunicação Eficiente: Clareza na troca de informações com equipes e fornecedores.</li><li>Resolução de Problemas: Identificação e solução de inconsistências no gerenciamento de ativos.</li><li>Proatividade: Antecipação de demandas e identificação de melhorias nos processos.</li><li>Pensamento Analítico: Habilidade de interpretar dados para tomada de decisões estratégicas.</li><li>Gestão de Tempo: Priorização e cumprimento de prazos em atividades críticas.</li><li>Adaptabilidade: Flexibilidade para lidar com mudanças e novos desafios.</li><li>Trabalho em Equipe: Colaboração com diferentes áreas para garantir eficiência operacional.</li><li>Foco em Resultados: Compromisso com o alcance de metas e melhoria contínua.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Gestão de Ativos de TI: Experiência em monitoramento e controle de ativos tecnológicos.</li><li>Inventário e Controle de Equipamentos: Habilidade em manter registros precisos de hardware e software.</li><li>Administração de Ferramentas ITSM: Conhecimento em plataformas como Freshservice, ServiceNow ou similares.</li><li>Planejamento de Ciclo de Vida: Gestão do ciclo de vida de ativos, desde a aquisição até o descarte.</li><li>Monitoramento de Garantias: Controle e acompanhamento de contratos de garantia e suporte.</li><li>Controle de Licenças: Gerenciamento de licenças de software e compliance com contratos.</li><li>Análise de Dados: Capacidade de interpretar e criar relatórios detalhados com KPIs relevantes.</li><li>Automação de Processos: Conhecimento em ferramentas para automação de inventário e relatórios.</li><li>Ferramentas de Colaboração: Uso de soluções como Microsoft Excel, SharePoint e Power BI.</li><li>Planejamento Financeiro: Controle de custos relacionados a ativos e otimização de recursos.</li><li>Noções de Infraestrutura: Conhecimento básico em hardware, redes e suporte técnico.</li><li>Gestão de Chamados: Experiência com sistemas de tickets para controle de manutenção e suporte.</li><li>Compliance e Auditoria: Noções de normas e auditorias relacionadas a ativos de TI.</li><li>Negociação com Fornecedores: Habilidade para lidar com contratos de aquisição e manutenção.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Oportunidade de atuação em novos projetos e desafios internos</li><li>Acesso a novas tecnologias e desenvolvimento profissional</li><li>Alura – Acesso á todo conteúdo da plataforma, sem custo</li><li>Wellhub – Acesso para o colaborador e até 4 dependentes</li><li>Clube Ifood – Cupons de desconto, entregas gratuitas, desconto em parceiros</li><li>Starbem – Aplicativo de assistência à Saúde (Com inclusão de dependentes)</li><li>Avus - Soluções de Saúde e Bem-estar (Com inclusão de dependentes)</li><li>Dasa +Saúde – Exames, acompanhamentos médicos e descontos</li><li>Optum – Apoio na gestão de saúde, como ajuda psicológica, orientação jurídica e financeira</li><li>Convênio Amil – 70% pago pelo colaborador – 30% pago pela empresa</li></ul><br /><br /><br /><br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasweai/92/analista-de-gestao-de-ativos?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[79426150]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[04fe4d0d-2f34-4199-9bad-dc9ad931fc86]]></partnerJobId>
@@ -35623,6 +35749,35 @@ Diferencial: experiência em empresas de médio/grande porte.</li><br /><br /><b
           <amount><![CDATA[2354.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[31f9c15d-30c0-4999-a79c-809073f9aee0]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[31f9c15d-30c0-4999-a79c-809073f9aee0]]></partnerRequisitionId>
+    <company><![CDATA[Integral Agroindustrial]]></company>
+    <title><![CDATA[Supervisor de Logística l Fortaleza-Ce]]></title>
+    <posterEmail><![CDATA[wiliana.cavalcante@integralagro.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de <b>Supervisor de Logística </b>que queira crescer com a gente!<br /><br />Se você é uma pessoa engajada e que tem como valores a <strong>competência, confiança, fé em Deus, humildade, criatividade e sinceridade</strong>, então a Integral Agroindustrial é o lugar certo para você!<br /><br />Se identificou? Então venha fazer parte do <strong>nosso time!</strong> <br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Garantir a expedição dos produtos da empresa, através da contratação de 
+transporte, podendo ser ele distribuído entre frota própria, agregados e fretados;</li><li>Atuar na melhor eficiência produtiva da frota própria; </li><li>Atuar junto a equipe de contratação de frete, buscando melhores eficiências por 
+rota, custos;</li><li>Supervisionar e monitorar rotas de entrega, acompanhar a telemetria, gerenciar 
+contratos com transportadoras, agregados e fretados;</li><li>Assegurar as corretas manutenções dos veículos da frota;</li><li>Liderar a equipe operacional, distribuir tarefas, acompanhar jornadas, realizar 
+feedbacks, avaliar desempenho e promover treinamentos;</li><li>Elaborar relatórios de desempenho (KPIs), acompanhar orçamentos, controlar 
+despesas (como horas extras e fretes) e propor melhorias para redução de custos;</li><li>Garantir o cumprimento das normas de segurança do trabalho (EPIs), legislações 
+fiscais e controle de documentos (notas fiscais, trocas e devoluções).</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Superior completo em Logística, Administração, 
+Engenharia de Produção ou áreas correlatas;</li><li>Experiência anterior na área da logística de Distribuição (Transportes);</li><li>Conhecimentos Técnicos: Pacote Office, BI, Sistemas de gestão integrada (ERP),  
+sistemas de gestão de transportes (TMS);</li><li>Necessário conhecimento de emissão de documentos fiscais, rotinas de transporte, legislação piso 
+mínimo de frete, cálculos de custos de transportes e frete.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Acesso à universidade corporativa;</li><li>Convênio com instituições de ensino/SENAI/CNA;</li><li>Convênio com Farmácias e ótica;</li><li>Plano Odontológico - Opcional;</li><li>Plano de Saúde Unimed – Opcional; (empresa paga 50%);</li><li>Plano de Saúde Hapvida - Opcional; </li><li>Alimentação na empresa (café da manhã, almoço e jantar);</li><li>Rota de ônibus;</li><li>PassCard ônibus; </li><li>Cartão premiação por assiduidade;</li><li>Seguro de vida;</li><li>Gympass/Wellhub - Descontos em academias;</li><li>Cuidando do nosso time: Massoterapia, Atendimento nutricional e Psicológico;</li><li>Desconto nos nossos produtos.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemserintegral/1325/supervisor-de-logistica-l-fortaleza-ce?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[18442355]]></companyId>
+    <city><![CDATA[Fortaleza]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -56845,33 +57000,6 @@ João da Barra<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><u
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[82600d8d-7829-4fb0-9f17-6bf2c6373c45]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[82600d8d-7829-4fb0-9f17-6bf2c6373c45]]></partnerRequisitionId>
-    <company><![CDATA[Edan]]></company>
-    <title><![CDATA[ASSISTENTE DE LOGÍSTICA]]></title>
-    <posterEmail><![CDATA[jhoseffy.oliveira@edantex.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Ei, você! <br />
-Quer trabalhar numa empresa que valoriza as pessoas e é uma das maiores importadoras de itens de decoração do Brasil? Cargo: Assistente de Logística Localização: Cambuí - MG⏳ Tipo de contratação: CLT Horários:1º turno: segunda a quinta das 08h00 às 18h00 e sexta das 08h00 às 17h00 (com intervalo de 1h de refeição)<br /><br /><b>Responsabilidades e atribuições</b><br /><br />✅ Realizar o recebimento, conferência de conformidade e o armazenamento estratégico dos itens.✅ Executar a separação, embalagem e etiquetagem, assegurando a precisão dos envios.✅ Gerenciar devoluções, cortes de pedidos e participar de inventários periódicos para controle de acuracidade.✅ Organizar o embarque de mercadorias, identificando pallets e volumes para transporte.✅Realizar o recebimento, conferência de conformidade e o armazenamento estratégico dos itens.✅Demais atividades correlatas.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio CompletoTer mínima de 6 meses no cargo de auxiliarAbsenteísmo máximo de 3% no anoSem sanções disciplinaresConhecimentos das operações logísticas.<br /><br /><b>Benefícios</b><br /><br /> Aqui a gente cuida de quem faz parte da nossa históriaNa Edan, a gente acredita que trabalhar bem começa com se sentir bem. Por isso, cuidamos das pessoas e do que é importante para elas, dentro e fora do trabalho. Olha só alguns dos benefícios que oferecemos para nosso time:• <strong>Plano de Saúde Unimed (regional) Coparticipação</strong><br />
- ✔️ Titular: sem desconto<br />
-✔️ Dependentes: por adesão opcional<br />
-✔️ Coparticipação por utilização, desconto máximo de 100,00.• <strong>Plano Odontológico PrimaVida</strong><br />
- ✔️ Titular: sem desconto ✔️ Dependentes: por adesão opcional• <strong>Refeição no local</strong><br />
-✔️ Café da manhã e almoço no nosso restaurante interno: sem desconto• <strong>Transporte</strong> ✔️ Fretado: Sem desconto<strong>• Total Pass</strong><br />
-✔️ Para o titular e até 3 dependentes]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/edan/253/assistente-de-logistica?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[64614668]]></companyId>
-    <city><![CDATA[Cambuí]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[7b8f60cd-af4a-4737-b4ea-96420e0b0b22]]></partnerJobId>
     <partnerRequisitionId><![CDATA[7b8f60cd-af4a-4737-b4ea-96420e0b0b22]]></partnerRequisitionId>
     <company><![CDATA[Edan]]></company>
@@ -59594,26 +59722,6 @@ em Fonoaudiologia.<br /><br /><b>Benefícios</b><br /><br /><ul><li>Totalpass <
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[ac016b5e-7123-45fd-92ca-219e3d5dc784]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[ac016b5e-7123-45fd-92ca-219e3d5dc784]]></partnerRequisitionId>
-    <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
-    <title><![CDATA[ESTAGIÁRIO DE DESIGNER | CSC]]></title>
-    <posterEmail><![CDATA[julio.silva@labcmi.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Oportunidade para atuar como Estagiário(a) de Designer de Comunicação no setor de Comunicação Institucional, na Central de Serviços Compartilhados (CSC) da Liga Álvaro Bahia.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Apoiar na criação e edição de peças gráficas para materiais institucionais, campanhas e comunicações internas. Auxiliar na produção de artes para redes sociais, apresentações, banners, cartazes e materiais digitais e impressos. Realizar ajustes em layouts, imagens, tipografia, cores e elementos visuais conforme as orientações recebidas.<br /><br /><br />Apoiar na diagramação e padronização de documentos e materiais institucionais. Contribuir para a criação de identidade visual de campanhas e projetos internos. Apoiar na organização, atualização e arquivamento de arquivos e materiais gráficos. Auxiliar na adaptação de materiais gráficos para diferentes formatos e canais de comunicação. <br />Prestar suporte operacional às rotinas da Comunicação Interna.<br /><br /><b>Requisitos e qualificações</b><br /><br />Superior em andamento no curso de Designer Gráfico ou Publicidade e Propaganda, a partir do 4° semestre. Disponibilidade para estagiar das 11h às 17h, de segunda a sexta-feira, presencial.<br /><br /><b>Benefícios</b><br /><br />Total Pass; Day Off no aniversário; Desconto em redes de farmácias; Desconto em cursos de graduação e pós-graduação na Anhanguera e Estácio.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmicarreira/4694/estagiario-de-designer-csc?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[24910672]]></companyId>
-    <city><![CDATA[Salvador]]></city>
-    <state><![CDATA[Bahia]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[c3ff7cb2-357c-4cc8-9e3b-3fbbef7b8163]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c3ff7cb2-357c-4cc8-9e3b-3fbbef7b8163]]></partnerRequisitionId>
     <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
@@ -59662,26 +59770,6 @@ em Fonoaudiologia.<br /><br /><b>Benefícios</b><br /><br /><ul><li>Totalpass <
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais de Enfermagem para compor nosso <strong>Banco de Talentos</strong> e atuar em oportunidades futuras na <strong>UTI Pediátrica</strong>.
 <br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar leitura diária das ocorrências de enfermagem, analisando criticamente as informações, garantindo continuidade do cuidado e adequada distribuição de pacientes conforme complexidade assistencial.</li><li>Assegurar a prontidão dos recursos assistenciais críticos, incluindo controle de lacres do carro de emergência e maleta, teste de equipamentos (laringoscópio), verificação de cilindros de oxigênio e controle de temperatura de equipamentos, acionando plano de contingência quando necessário.</li><li>Prestar assistência direta ao paciente crítico de forma segura, ética e humanizada, livre de imperícia, negligência e imprudência, com foco na qualidade e segurança do cuidado.</li><li>Garantir o gerenciamento seguro de medicamentos na unidade, incluindo controle de reconstituição, validade, armazenamento e rastreabilidade, conforme protocolos institucionais.</li><li>Organizar e validar leitos para admissão, por meio de checklist estruturado e testagem de equipamentos, assegurando condições adequadas para recebimento seguro do paciente.</li><li>.Aplicar e garantir adesão aos protocolos institucionais, bundles assistenciais, POPs e rotinas, incluindo a execução de atividades privativas do enfermeiro conforme legislação vigente.</li><li>Supervisionar o fluxo de materiais, incluindo reposição de itens processados e encaminhamento adequado de materiais à CME, assegurando conformidade com normas de segurança e controle de infecção.</li><li>Avaliar criticamente prescrições médicas e de enfermagem, assegurando sua execução segura por meio de dupla checagem (diluição, aprazamento, vazão e possíveis inconsistências), garantindo registro adequado e rastreabilidade.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino superior completo em Enfermagem; possuir registro ativo e regular no Coren.<br /><br /><b>Benefícios</b><br /><br />Plano de saúde e odontológico (sem coparticipação da instituição); Refeitório na unidade; Total Pass; Day Off no aniversário; Desconto em redes de farmácias; Desconto em cursos de graduação e pós-graduação na Anhanguera e Estácio.]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmicarreira/4640/enfermeiro-cadastro-reserva-hmg?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[24910672]]></companyId>
-    <city><![CDATA[Salvador]]></city>
-    <state><![CDATA[Bahia]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[4bc8f314-c4f2-4485-90a1-7a4be302f75e]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[4bc8f314-c4f2-4485-90a1-7a4be302f75e]]></partnerRequisitionId>
-    <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
-    <title><![CDATA[ANALISTA DE CAPTAÇÃO | CRESCER]]></title>
-    <posterEmail><![CDATA[julio.silva@labcmi.org.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Oportunidade para atuar como Analista de Captação, na Crescer, unidade estratégica responsável por fortalecer a sustentabilidade das ações filantrópicas com o propósito de ampliar o impacto da LABCMI na saúde materno-infantil, articulando diferentes frentes de mobilização, relacionamento e comunicação com a sociedade.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Mapeamento, prospecção e negociação com empresas parceiras, apoiadores e doadores para captação de recursos financeiros para iniciativas regulares e/ou patrocínio de eventos e campanhas da instituição. Elaborar e acompanhar propostas, projetos e documentações para captação de recursos. Acompanhar processos administrativos relacionados às parcerias e doações. Auxiliar na identificação de editais, oportunidades e fontes de financiamento. Realizar interface com demais setores para execução das ações e projetos. Realizar controle e acompanhamento de indicadores e resultados de captação.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino superior em Administração, Marketing, Relações Públicas, Comunicação ou áreas correlatas<br /><br /><b>Benefícios</b><br /><br />Plano de saúde e odontológico (sem coparticipação da instituição); Ticket Alimentação/Refeição; Total Pass; Day Off no aniversário; Desconto em redes de farmácias; Desconto em cursos de  graduação e pós-graduação na Anhanguera e Estácio]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmicarreira/4589/analista-de-captacao-crescer?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[24910672]]></companyId>
     <city><![CDATA[Salvador]]></city>
     <state><![CDATA[Bahia]]></state>
@@ -97020,6 +97108,68 @@ Pacote Office em geral (Word, Power Point, etc.);</li></ul><br /><br /><b>Benef�
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[06e9e0b3-7051-411c-b277-1b845bf23bcd]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[06e9e0b3-7051-411c-b277-1b845bf23bcd]]></partnerRequisitionId>
+    <company><![CDATA[eureciclo]]></company>
+    <title><![CDATA[Analista de Homologação de Fornecedores]]></title>
+    <posterEmail><![CDATA[beatriz.mello@nhecotech.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos uma pessoa para atuar como <strong>referência técnica nos processos de homologação e auditoria de fornecedores</strong>, conduzindo com autonomia as avaliações, gestão de riscos e relacionamento com auditores terceiros. Terá papel estratégico na resolução de não conformidades e na evolução dos processos, representando a eureciclo perante parceiros e auditores externos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Conduzir auditorias e avaliações de fornecedores, garantindo aderência aos requisitos da empresa e normas aplicáveis;
+</li>
+<li>
+Gerenciar riscos relacionados aos fornecedores e propor ações de mitigação;
+</li>
+<li>
+Antecipar problemas e conduzir a resolução de não conformidades com as áreas envolvidas;
+</li>
+<li>
+Analisar documentos, dados e processos, mantendo os registros atualizados e íntegros;
+</li>
+<li>
+Conduzir o relacionamento com auditores terceiros e fornecedores;
+</li>
+<li>
+Identificar oportunidades de melhoria, segmentação e automação dos processos;
+</li>
+<li>
+Atuar como referência técnica para o time, contribuindo para a evolução das boas práticas;
+</li>
+<li>
+Acompanhar prazos e orçamento dos processos de homologação e auditoria;
+</li>
+<li>
+Elaborar relatórios e apresentações sobre homologações, auditorias e principais riscos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino superior completo em Administração, Engenharia Ambiental, Biologia ou áreas relacionadas;
+</li>
+<li>
+Vivência sólida em homologação, auditoria de fornecedores, qualidade ou gestão de fornecedores;
+</li>
+<li>
+Capacidade analítica para avaliação de documentos, dados e processos;
+</li>
+<li>
+Conhecimento em gestão de riscos e resolução de não conformidades;
+</li>
+<li>
+Comunicação clara e assertiva;
+</li>
+<li>
+Autonomia para condução de processos e tomada de decisão;
+</li>
+<li>
+Organização para gestão de múltiplas demandas e prazos.</li><br /><br /><b>Benefícios</b><br /><br />Oferecemos um pacote de benefícios que contempla plano de saúde e odontológico, vale refeição e/ou alimentação, vale transporte, modelo de trabalho híbrido, day off no aniversário, Programa de Participação nos Resultados (PPR), acesso ao Zenklub para bem-estar emocional, TotalPass para atividades físicas e convênios com instituições de ensino e parceiros.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/eureciclo/28/analista-de-homologacao-de-fornecedores?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11025460]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[1d68cefe-e016-4554-af85-aa313c6aca42]]></partnerJobId>
     <partnerRequisitionId><![CDATA[1d68cefe-e016-4554-af85-aa313c6aca42]]></partnerRequisitionId>
     <company><![CDATA[eureciclo]]></company>
@@ -102272,6 +102422,26 @@ Participação nos Lucros</li><li>Day Off de Aniversário</li>]]></description>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d1b86dea-dd7d-4ea7-93db-fb68e89bf1e2]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[d1b86dea-dd7d-4ea7-93db-fb68e89bf1e2]]></partnerRequisitionId>
+    <company><![CDATA[Grupo Bravante]]></company>
+    <title><![CDATA[[Corporativo] Analista de Faturamento Sr. - São Gonçalo/RJ]]></title>
+    <posterEmail><![CDATA[cintia.fernandes@bravante.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional com experiência sólida em Faturamento e Contas a Receber, que tenha visão de processo e consiga atuar de ponta a ponta no ciclo de faturamento.Nesta posição, você será responsável por atividades que vão desde a análise e conferência de documentação, faturamento e emissão de NF/Faturas, passando pelo envio e acompanhamento do aceite dos clientes, até baixa, conciliação, cobrança, negociação e acompanhamento de indicadores. Buscamos alguém com:• Experiência em Faturamento e Contas a Receber;• Vivência com análise e tratamento de divergências;• Experiência com emissão e conferência de documentos fiscais;• Conhecimento em baixa e conciliação de recebimentos;• Experiência com cobrança e acompanhamento de inadimplência;• Excel intermediário/avançado;• Vivência com ERP, preferencialmente TOTVS Protheus;• Perfil analítico, organizado, proativo e atento aos detalhes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Emitir e conferir notas fiscais de produtos e serviços.<br /> - Realizar o controle e a atualização de dados cadastrais de clientes.<br /> - Processar e registrar informações de faturamento no sistema.<br /> - Analisar e solucionar divergências nas faturas.<br /> - Elaborar relatórios de faturamento e indicadores financeiros.<br /> - Manter a organização e a arquivação de documentos fiscais.<br /> - Colaborar com a equipe de vendas para garantir o correto atendimento ao cliente.<br /> - Efetuar o acompanhamento de pagamentos e recebimentos.<br /> - Assegurar a conformidade com a legislação tributária vigente.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Escolaridade: Superior Completo </li><li>Área: Ciências Contábeis, Administração, Economia ou Finanças </li></ul><ul><li>Conhecimento em sistema ERP Protheus</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência Médica</li><li>Assistência Odontológica</li><li>Seguro de vida</li><li>Vale refeição</li><li>Vale alimentação</li><li>Parceria com universidades e curso de idiomas</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/bravantevagas/27/corporativo-analista-de-faturamento-sr-sao-goncalo-rj?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3479635]]></companyId>
+    <city><![CDATA[São Gonçalo]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[dec362c4-abad-4331-aea3-86914b4c99bf]]></partnerJobId>
