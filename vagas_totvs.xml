@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Tue, 10 Nov 2026 18:15:01 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 19:20:49 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[4163]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4174]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c92bacd9-7fb5-4943-b2f3-6a27e5001ae8]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c92bacd9-7fb5-4943-b2f3-6a27e5001ae8]]></partnerRequisitionId>
@@ -1100,26 +1100,6 @@ Salário + Produtividade;</li></ul>]]></description>
     <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[73d0a412-d35b-41f4-b027-607c686678c5]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[73d0a412-d35b-41f4-b027-607c686678c5]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Tech Lead em Engenharia de Software Backend - Go | Cloud]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um Tech Lead de Desenvolvimento para liderar tecnicamente a célula de desenvolvimento da Engenharia de Virtualização. <br />Sua missão central será a liderança técnica do backend de integrações em Go que conecta nossa plataforma de nuvem privada VMware às camadas de orquestração, automação e ao portal de autoatendimento, atuando lado a lado com a operação de infraestrutura dentro de um único time fim a fim.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li><b>Liderança Técnica:</b> orientar tecnicamente o time de desenvolvimento (atualmente 3 pessoas, com expansão para 4), definindo padrões de código, arquitetura e boas práticas em Go.</li><li><b>Desenvolvimento de APIs e Integrações: </b>projetar, codificar e manter os serviços em Go responsáveis pela integração entre o portal de autoatendimento e os componentes de infraestrutura VMware </li><li><b>Automação de Infraestrutura (IaC): </b>apoiar a evolução de scripts e workflows de automação para o provisionamento de recursos de cloud privada on-prem, reduzindo o tempo de entrega.</li><li><b>Qualidade de Código: </b>garantir cobertura de testes automatizados, revisão de código e gestão de débito técnico de toda a stack desenvolvida pela célula.</li><li><b>Interface com a Operação:</b> atuar como ponte técnica entre a célula de desenvolvimento e os demais pilares da Engenharia de Virtualização, participando do fórum semanal de tech leads.</li><li><b>Sustentação e Evolução: </b>realizar troubleshooting de segundo/terceiro nível em incidentes relacionados a integrações e apoiar a triagem de tickets que envolvam código</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li><b>Go em Produção:</b> domínio avançado de Go, incluindo concorrência (goroutines, channels), tratamento de erros idiomático e testes automatizados — requisito não negociável para a posição.</li><li><b>APIs e Integrações: </b>experiência sólida na criação e manutenção de APIs RESTful/gRPC e integração de sistemas complexos.</li><li><b>Liderança Técnica: </b>experiência orientando ou mentorando outros desenvolvedores (revisão de código, definição de padrões técnicos); não é exigida experiência formal de gestão de pessoas.</li><li><b>Automação e CI/CD: </b>vivência com esteiras de CI/CD (GitLab CI, GitHub Actions ou Jenkins) e Git Flow.</li><li><b>Banco de Dados: </b>conhecimento em bancos relacionais e não relacionais, com capacidade de definir o mais adequado para cada cenário.</li><li><b>Formação Acadêmica:</b> superior completo em Ciência da Computação, Engenharia ou áreas correlatas, ou experiência prática equivalente comprovada.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12820/tech-tech-lead-em-engenharia-de-software-backend-go-cloud?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[a12f8526-581c-4a70-ab3b-12373ae9bfa9]]></partnerJobId>
     <partnerRequisitionId><![CDATA[a12f8526-581c-4a70-ab3b-12373ae9bfa9]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -1723,6 +1703,26 @@ ou MBA completos. Conhecimentos específicos: <br />● Pacote Office – Excel 
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Goiânia]]></city>
     <state><![CDATA[Goiás]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[c56472f3-532d-41e1-8afc-88a533be0cbd]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[c56472f3-532d-41e1-8afc-88a533be0cbd]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[CS] Analista de Customer Success Sênior - Onboarding | Pay]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional com perfil analítico, executor e com forte capacidade de liderança técnica para estruturar, implementar e escalar os processos de Onboarding e KYC (Know Your Customer) do TOTVS Pay.<br />O foco deste desafio é atuar de forma transversal com clientes de todo o ecossistema de soluções da TOTVS, garantindo uma experiência de ativação de excelência independentemente da linha de ERP que o cliente utilize (Protheus, RM, Datasul, Logix, etc.).<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:</b>Esta posição possui uma jornada de evolução clara:<ul><li><b>Fase Inicial (Mão na Massa): </b>Você será o(a) responsável direto(a) por desenhar e documentar toda a esteira de Onboarding/KYC e realizar as implementações técnicas e operacionais nos primeiros novos clientes.</li><li><b>Fase de Escala (Liderança Técnica):</b> Com o crescimento do volume de adesões, você assumirá a liderança técnica de uma equipe de apoio, orientando tecnicamente os analistas, garantindo a qualidade das entregas, a padronização dos processos e a eficiência operacional da área.</li><li>Principais Responsabilidades</li><li><b>Mapeamento e Documentação: </b>Mapear, documentar e manter atualizados os fluxos operacionais e técnicos de Onboarding e validação de KYC do TOTVS Pay.</li><li><b>Implementação Técnica e Operacional (Hands-on):</b> Conduzir diretamente o processo de setup de clientes nos primeiros meses, garantindo que os fluxos de credenciamento, validação de documentos, regras de risco/KYC e integrações com o ERP TOTVS funcionem perfeitamente.</li><li><b>Apoio no Desenho e Validação de Produto:</b> Apoiar a liderança na validação do desenho e no desenvolvimento dos requisitos de Onboarding e KYC junto aos times de desenvolvimento de produto da TOTVS. O objetivo é atuar em prol da melhor experiência do cliente, garantindo o máximo de fluidez e o mínimo de atrito na jornada de ativação do TOTVS Pay.</li><li><b>Compatibilidade no Ecossistema TOTVS:</b> Garantir que a jornada de Onboarding/KYC seja fluida, escalável e padronizada para todos os clientes, independentemente de qual solução ou ERP TOTVS o cliente utilize.</li><li><b>Liderança Técnica e Capacitação: </b>Orientar e treinar a equipe de apoio técnica à medida que a área crescer; atuar como ponto focal técnico para dúvidas complexas e casos de exceção de KYC/Compliance.</li><li><b>Melhoria Contínua:</b> Analisar gargalos na esteira de Onboarding, sugerindo automações operacionais para reduzir o tempo de ativação (Time-to-Value) dos clientes sem comprometer as regras de compliance e prevenção à fraude.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Para ter sucesso nesta função, o profissional deve combinar visão de processos, conhecimento prático do setor financeiro e capacidade de gestão e influência técnica:</li><li><b>Hard Skills (Conhecimentos Técnicos e Domínio do Negócio)</b></li><li><b>Domínio de KYC e Onboarding Financeiro: </b>Entendimento profundo de processos de Know Your Customer, prevenção à lavagem de dinheiro (PLD), análise documental, consulta de dados cadastrais e regras regulatórias para instituições de pagamento.</li><li><b>Conhecimento do Ecossistema TOTVS: </b>Compreensão de como as soluções da TOTVS se estruturam e se conectam a meios de pagamento. Não é necessário ser desenvolvedor, mas precisa entender a arquitetura básica de integração para orientar clientes, times técnicos e times de produto.</li><li><b>Visão de Produto e UX: </b>Habilidade para traduzir dores operacionais e requisitos de compliance em melhorias de produto, focando em uma jornada sem atrito para o usuário final.</li><li><b>Documentação de Processos:</b> Habilidade em BPMN, criação de guias técnicos, manuais de implementação e fluxogramas operacionais claros.</li></ul><ul><li><b>Perfil Hands-on com Visão de Escala: </b>Vontade e resiliência para executar as rotinas operacionais no início, usando essa experiência direta para projetar e cobrar soluções sistêmicas escaláveis.</li><li><b>Visão Colaborativa:</b> Capacidade de dialogar e negociar com times de Desenvolvimento de Produto, atuando como um parceiro construtivo em busca da melhor solução técnica e de negócios.</li><li><b>Liderança Orientadora: </b>Facilidade para transmitir conhecimento técnico, orientar analistas em treinamento, dar diretrizes e revisar a qualidade do trabalho da equipe.</li><li><b>Organização e Gestão de Prioridades:</b> Habilidade para gerenciar múltiplos setups de implementação simultâneos enquanto atua em projetos paralelos de melhoria de produto.</li></ul><br /><br /><ul><li>Experiência prévia em implementação de produtos de pagamento, subadquirência, fintechs ou serviços financeiros.</li><li>Experiência prática na estruturação e/ou execução de esteiras de Onboarding e regras de KYC/Compliance.</li><li>Vivência na validação de requisitos de negócio e apoio a times de desenvolvimento de produto/tecnologia.</li><li>Experiência com documentação técnica e mapeamento de processos operacionais.</li><li>Vivência prévia no ecossistema de soluções e ERPs TOTVS, com entendimento básico de suas integrações.</li><li>Aptidão e senioridade para atuar como Líder Técnico (<i>Tech Lead</i> ou <i>Líder de Operações</i>), com histórico de orientação de pares ou times de apoio.</li></ul><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12624/cs-analista-de-customer-success-senior-onboarding-pay?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -3633,6 +3633,26 @@ das atividades junto ao time.</li></ul><br /><br /><b>Benefícios</b><br /><br /
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11189/vendas-gerente-de-contas-junior-hunter?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Carlos]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[fecd75f5-95ea-42a8-b9ac-ad12d72c13f0]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[fecd75f5-95ea-42a8-b9ac-ad12d72c13f0]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Negócios] Analista de Negócios Pleno| Supermercado]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por contribuir para a maximização do valor dos produtos em seu segmento de atuação, propondo novas soluções e avaliando alternativas para sua implementação e evolução, visando à satisfação de clientes e à melhoria contínua dos produtos.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />O QUE VOCÊ VAI FAZER:<ul><li>Administrar e acompanhar as atividades da Squad, contribuindo para a organização e o andamento das entregas;</li><li>Desenvolver e validar documentações de negócio;</li><li>Prestar suporte no esclarecimento de dúvidas e na resolução de problemas relacionados à área de negócio de atuação;</li><li>Realizar testes para validar as soluções desenvolvidas, garantindo a aderência aos requisitos definidos;</li><li>Acompanhar as atividades e elaborar apresentações de Status Report para clientes, mantendo a comunicação sobre o andamento das entregas.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><ul><li>Banco de dados Oracle – nível intermediário, preferencialmente na linha Consinco;</li><li>Regras de negócio da área Comercial da linha Consinco (Recebimentos, Pedidos, Compras, Vendas, Precificação, Verbas, Acordos e Análises Gerenciais) – nível avançado.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12860/negocios-analista-de-negocios-pleno-supermercado?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -12746,6 +12766,109 @@ Com foco em qualidade de código, colaboração e inovação. Buscamos alguém c
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[26fc85a0-bcf1-4d95-9795-f45c140f042a]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[26fc85a0-bcf1-4d95-9795-f45c140f042a]]></partnerRequisitionId>
+    <company><![CDATA[Companhia Dorel Brasil]]></company>
+    <title><![CDATA[VAGA PARA SÃO PAULO - SP - DESIGNER DE PRODUTOS]]></title>
+    <posterEmail><![CDATA[vitoria.souza@dorel.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa com experiência em <b>criação de produtos</b> e quer contribuir com a nossa empresa? Então essa oportunidade é para você! Estamos em busca
+de <b>Designer de Produtos </b> para fazer parte do
+nosso time de <b>Design de Produtos</b>, contribuindo com criatividade para inovar. ⭐✨<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b> Suas principais responsabilidades serão:</b><ul><li><b>Desenvolver novos produtos a partir de briefings, considerando viabilidade, qualidade, segurança e conforto.</b></li><li><b>Criação: Criar estudos de cores, materiais, tecidos, logos e novas coleções.</b></li><li><b>Pesquisa de Tendências: Pesquisar tendências e benchmarking de mercado.</b></li><li><b>Elaborar fichas de desenvolvimento e acompanhar fornecedores e amostras.</b></li><li><b>Analisar custos, qualidade e propor melhorias nos produtos.</b></li><li><b>Acompanhar cronogramas, lançamentos e organização dos materiais de desenvolvimento.</b></li><li><b>Comunicação Interdepartamental: Colaborar com gestores de produto para assegurar que os projetos atendam às expectativas e requisitos necessários.</b></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />✅<b> O que buscamos:<br /></b><br /><ul><li><b>Graduação completa em áreas como : Design de Produto, Design Gráfico ou Moda.<br /></b></li><li><b>Inglês intermediário a avançado.</b></li></ul><br /><br /><b>Benefícios</b><br /><br /><b>O que oferecemos:</b><br /><b>
+<br />
+</b>
+
+<b>Saúde e Bem-Estar Integral</b>️
+
+<ul>
+ <li><b>Assistência
+     Médica e Odontológica  </b></li>
+</ul>
+
+<b><br />
+<br />
+</b>
+
+<ul>
+ <li><b>Wellbub
+     – Gympass:</b> Acesso a academias, estúdios e atividades de bem-estar
+     para cuidar do corpo e da mente.</li>
+</ul>
+
+<b><br />
+<br />
+</b>
+
+<b>Apoio Financeiro e Qualidade de Vida</b>
+
+<ul>
+ <li><b>Vale
+     Alimentação/Refeição:</b> Para garantir sua alimentação com
+     flexibilidade.</li>
+</ul>
+
+<b><br />
+<br />
+</b>
+
+<ul>
+ <li><b>Cesta
+     de Natal:</b> Um presente especial no fim do ano para celebrar com a
+     família</li>
+</ul>
+
+<b><br />
+<br />
+</b>
+
+<b>Reconhecimento e Participação no Sucesso</b>
+
+<b> </b>
+
+<ul>
+ <li><b>PLR
+     (Participação nos Lucros e Resultados):</b> Aqui, o seu desempenho
+     contribui diretamente para os resultados da empresa — e você participa
+     disso!</li>
+</ul>
+
+<b><br />
+<br />
+</b>
+
+<b>Família e Bem-Estar Pessoal<i> </i></b><b>‍‍ </b><b></b>
+
+<br />
+<br />
+
+
+<ul>
+ <li><b>Baby
+     Dorel:</b> Benefício exclusivo que permite a retirada de produtos da
+     empresa para apoiar colaboradores durante o período de gestação.</li>
+</ul>
+
+<b><br />
+<br />
+</b>
+
+<b>Inovação e Protagonismo</b>
+
+<b>Programa Boa Ideia:</b> Um espaço para você sugerir melhorias e
+inovações. Suas ideias podem se transformar em grandes conquistas!]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/dorelbrasil/80/vaga-para-sao-paulo-sp-designer-de-produtos?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[80482708]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[e8578968-900d-43fc-9d17-d933bc7542b4]]></partnerJobId>
     <partnerRequisitionId><![CDATA[e8578968-900d-43fc-9d17-d933bc7542b4]]></partnerRequisitionId>
     <company><![CDATA[Companhia Dorel Brasil]]></company>
@@ -18300,6 +18423,71 @@ profissional, envie o seu currículo e venha crescer conosco.<br /><br /><b>Resp
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[e387a854-7d3f-48df-84c5-f63aa419e813]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[e387a854-7d3f-48df-84c5-f63aa419e813]]></partnerRequisitionId>
+    <company><![CDATA[Hubnexxo Soluções Empresariais]]></company>
+    <title><![CDATA[Consultor Tributário]]></title>
+    <posterEmail><![CDATA[isabele.teixeira@hubnexxo.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos buscando um Consultor Tributário para atuar com consultoria e planejamento tributário, apoiando clientes na tomada de decisões estratégicas e na adaptação à Reforma Tributária.<br /> Se você se identifica com a área fiscal e quer fazer a diferença no dia a dia das pessoas, essa é a sua chance! Junte-se a nós e ajude a construir um ambiente de trabalho ainda mais acolhedor e valorizando o potencial de cada colaborador.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar consultorias tributárias para clientes;</li><li>Desenvolver planejamentos tributários;</li><li>Comparar regimes tributários (Simples Nacional, Lucro Presumido e Lucro Real);</li><li>Elaborar análises de impacto da Reforma Tributária;</li><li>Identificar oportunidades de economia tributária dentro da legislação;</li><li>Apresentar estudos e orientações aos clientes.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Ciências Contábeis, Direito ou áreas correlatas;</li><li>Conhecimento em legislação e planejamento tributário;</li><li>Perfil analítico, consultivo e boa comunicação.</li></ul><br /><br /><b>Benefícios</b><br /><br /><li>Cartão multibenefício Swile – você pode usar como quiser</li><li>Auxílio cesta básica</li><li>Plano de saúde</li><li>TotalPass</li><li>PL (Participação nos Lucros)</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hubnexxo/77/consultor-tributario?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[79898105]]></companyId>
+    <city><![CDATA[Salvador]]></city>
+    <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[2857310b-4d1a-4c77-b975-71beed31b4cb]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[2857310b-4d1a-4c77-b975-71beed31b4cb]]></partnerRequisitionId>
+    <company><![CDATA[Hubnexxo Soluções Empresariais]]></company>
+    <title><![CDATA[Analista Financeiro]]></title>
+    <posterEmail><![CDATA[maria.souza@hubnexxo.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas que queiram se desenvolver pessoal e profissionalmente num ambiente de energia, aprendizado, melhoria continua, responsabilidade e comprometimento.<br />Se você tem sangue no olho e vontade de aprender, temos uma OPORTUNIDADE para VOCÊ!!<br />O que esperamos de você: Agilidade, flexibilidade, responsabilidade com entregas e prazos, foco em resultado, dinamismo e senso colaborativo.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Gestão do fluxo de caixa e movimentações financeiras;
+</li>
+<li>
+Controle de contas a pagar e a receber;
+</li>
+<li>
+Realização de conciliações bancárias;
+</li>
+<li>
+Acompanhamento de faturamento, cobranças e inadimplência;
+</li>
+<li>
+Elaboração e análise de relatórios e indicadores financeiros;
+</li>
+<li>
+Apoio no planejamento e orçamento financeiro;</li>
+<li>
+Organização e controle de documentos e processos financeiros.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa em Ciências Contábeis, Administração e Gestão Financeira;</li><li>Experiência mínima de 2 anos na área financeira.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Cartão Multibeneficio Swile (você pode usar como quiser);<br /></li><li>Auxilio cesta básica</li><li>Plano de saúde</li><li>Totalpass</li><li>PL</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/hubnexxo/71/analista-financeiro?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[79898105]]></companyId>
+    <city><![CDATA[Salvador]]></city>
+    <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[3175.98]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2948.64]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[95f4d4d5-f86e-4065-9f4f-e674f7b3bbe8]]></partnerJobId>
     <partnerRequisitionId><![CDATA[95f4d4d5-f86e-4065-9f4f-e674f7b3bbe8]]></partnerRequisitionId>
     <company><![CDATA[Hubnexxo Soluções Empresariais]]></company>
@@ -22102,6 +22290,26 @@ Atender e acompanhar <strong>chamados e incidentes</strong>, cumprindo SLAs e pr
     <posterEmail><![CDATA[e_mstorres@stefanini.com]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Fazemos parte da <b>Inteligência Industrial da Stefanini Manufacturing</b>, um time multidisciplinar de engenheiros e cientistas de dados focados na melhoria contínua dos processos industriais.<br />Nesse contexto, acreditamos que as disciplinas de <b>controle e otimização</b> são ferramentas poderosas para alavancar os resultados de nossos clientes.<br />Queremos sempre entregar valor de forma ágil para a indústria e trabalhar de maneira eficiente, mantendo o mais alto nível de qualidade técnica.<br />É um desafio e tanto! Se você é um profissional motivado, gosta de aprender constantemente e tem interesse em trabalhar em projetos para a indústria, então encontrou a oportunidade certa!<br /><br /><br /><b>Local da vaga: </b>Itabira – MG, com possibilidade de residir em outras localidades, desde que haja disponibilidade para viagens.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />Você trabalhará em um projeto na área de mineração, com soluções baseadas em c<b>ontrole regulatório, controle avançado, simulação, soft sensors, estatística multivariada, monitoramento e identificação de gargalos on-line</b>, com foco na integração dos pontos ótimos de operação de cada etapa, aplicando, quando possível, a otimização em tempo real (RTO – <i>Real-Time Optimization</i>).<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação em Engenharia de Controle e Automação, Engenharia Elétrica ou áreas afins;</li><li>Experiência consolidada em programação de PLCs – Schneider (M580);</li><li>Alteração de lógicas utilizando a Plataforma Control Expert;</li><li>Experiência em gestão de malhas de controle e indicadores;</li><li>Experiência em identificação dinâmica on-line de processos em operação;</li><li>Experiência em atividades de automação que suportem a implantação de técnicas de controle de processos;</li><li>Experiência com Python para desenvolvimento de algoritmos, análises e ferramentas de apoio à otimização;</li><li>Conhecimento aprofundado de técnicas de análise de dados, estatística aplicada e avaliação de desempenho de processos;</li><li>Elevada capacidade analítica e visão sistêmica dos processos industriais;</li><li>Autonomia para tomar decisões técnicas e resolver problemas complexos;</li><li>Comunicação clara com diferentes níveis técnicos e gerenciais;</li><li>Visão de negócio e orientação para resultados mensuráveis;</li><li>Capacidade de negociação e relacionamento com clientes;</li><li>Proatividade na proposição de soluções e inovação tecnológica.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br />‍ Desconto em cursos, universidades e instituições de idiomas;<br /> LinkedIn Learning - cursos online, gratuitos, atualizados e com certificado;<br /> Mentoring;<br /> Telemedicina gratuita para consultas com mais de 30 especialidades médicas, psicólogos e nutricionistas;<br /> Clube de vantagens e descontos nos melhores estabelecimentos;<br /> Clube de viagens;<br /> Convênio para Pet;<br />e muito mais...<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ihmstefanini/182/especialista-em-automacao-industrial-senior-foco-em-controle-de-processos-itabira?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[1306131]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[2df47639-5dae-45c5-a2ac-cce524f65d09]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[2df47639-5dae-45c5-a2ac-cce524f65d09]]></partnerRequisitionId>
+    <company><![CDATA[Stefanini Manufacturing]]></company>
+    <title><![CDATA[Cientista de Dados (Foco em Pesquisa Operacional)]]></title>
+    <posterEmail><![CDATA[smfriedrich@ihm.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) Cientista de Dados com foco em Pesquisa Operacional para atuar no desenvolvimento de soluções analíticas avançadas voltadas à otimização de processos e suporte à tomada de decisão. O profissional terá papel fundamental na construção de modelos matemáticos, algoritmos de otimização, ferramentas de simulação e análises de dados, além de apoiar a evolução de iniciativas de Ciência de Dados e Inteligência Artificial.<br />A área atua no desenvolvimento de soluções orientadas por dados para resolução de problemas complexos de negócio, combinando técnicas de Pesquisa Operacional, Analytics e Ciência de Dados. Nosso objetivo é transformar dados e conhecimento técnico em decisões inteligentes que gerem impacto real nos resultados da organização.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Desenvolver ferramentas de suporte à tomada de decisão utilizando técnicas de Pesquisa Operacional;</li><li>Construir modelos de otimização utilizando programação matemática, heurísticas e metaheurísticas;</li><li>Desenvolver e evoluir soluções de simulação de eventos discretos;</li><li>Trabalhar com grandes volumes de dados provenientes de diferentes fontes;</li><li>Realizar análises exploratórias e identificar oportunidades de melhoria de processos;</li><li>Desenvolver modelos analíticos e apoiar iniciativas de Ciência de Dados e Machine Learning;</li><li>Definir e acompanhar métricas de desempenho alinhadas aos objetivos do negócio;</li><li>Documentar metodologias, modelos e resultados;</li><li>Seguir boas práticas de desenvolvimento e versionamento de código;</li><li>Comunicar resultados técnicos para diferentes públicos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Graduação completa em Engenharia, Matemática, Estatística, Ciência da Computação ou áreas correlatas;</li><li>Conhecimento em Pesquisa Operacional;</li><li>Programação Matemática;</li><li>Técnicas de otimização;</li><li>Heurísticas e Metaheurísticas;</li><li>Python;</li><li>Simulação de Eventos Discretos;<br /></li><li>Git e versionamento de código;</li><li>Inglês avançado;</li><li>Boa comunicação e perfil analítico.</li></ul><br /><br /><b>Benefícios</b><br /><br />‍ Desconto em cursos, universidades e instituições de idiomas;<br /> LinkedIn Learning - cursos online, gratuitos, atualizados e com certificado;<br /> Mentoring;<br /> Telemedicina gratuita para consultas com mais de 30 especialidades médicas, psicólogos e nutricionistas;<br /> Clube de vantagens e descontos nos melhores estabelecimentos;<br /> Clube de viagens;<br /> Convênio para Pet;<br />e muito mais...<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ihmstefanini/153/cientista-de-dados-foco-em-pesquisa-operacional?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[1306131]]></companyId>
     <city><![CDATA[Belo Horizonte]]></city>
     <state><![CDATA[Minas Gerais]]></state>
@@ -28027,6 +28235,39 @@ cidade sinalizada;<br />
     <companyId><![CDATA[9250455]]></companyId>
     <city><![CDATA[Águas Belas]]></city>
     <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[eeb7d6b3-0585-4d1b-9226-6ea756286bfc]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[eeb7d6b3-0585-4d1b-9226-6ea756286bfc]]></partnerRequisitionId>
+    <company><![CDATA[Ceneged]]></company>
+    <title><![CDATA[SUPERVISOR COMERCIAL - PICOS - PI (COBRANÇA)]]></title>
+    <posterEmail><![CDATA[mairakaroline@ceneged.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Junte-se à nossa equipe como Supervisor Comercial e faça parte de uma empresa inovadora e em constante crescimento! Se você é uma pessoa comunicativa, proativa, esta é a oportunidade perfeita para você mostrar todo o seu potencial. Buscamos profissionais dinâmicos, que gostem de desafios e estejam sempre em busca de resultados extraordinários. Venha fazer a diferença conosco, desenvolvendo suas habilidades e crescendo em uma empresa que valoriza a diversidade e o talento de cada integrante. Se você se identifica com esse perfil, não perca tempo e se candidate agora mesmo. Estamos ansiosos para tê-lo em nosso time e juntos alcançarmos o sucesso!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Planejamento de rota e distribuição de serviço,
+supervisionar equipe, preparo e emissão de relatórios, acompanhamento de campo
+e controle de indicadores.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Médio Completo;
+
+Habilidade intermediária com
+Pacote Office;
+
+Experiência mínima com atividades
+em campo e gestão de pessoas;
+
+Possuir CNH “A” e Moto a partir
+de 150 cilindradas;
+
+Disponibilidade para viajar.<br /><br /><b>Benefícios</b><br /><br />Seguro de vida;<br />Agregação da moto.<br />Salário compatível com o mercado;<br />Vale alimentação;<br />Plano de saúde;<br />Plano odontológico.<br />• 30% de Periculosidade<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/784/supervisor-comercial-picos-pi-cobranca?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[9250455]]></companyId>
+    <city><![CDATA[Picos]]></city>
+    <state><![CDATA[Piauí]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -36855,6 +37096,28 @@ Se você é uma pessoa proativa, responsável, organizada e disposta a aprender 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[29f8d907-4a6b-4bef-8ccc-5102e2303be7]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[29f8d907-4a6b-4bef-8ccc-5102e2303be7]]></partnerRequisitionId>
+    <company><![CDATA[Grupo EPO]]></company>
+    <title><![CDATA[Auxiliar de Almoxarifado | Obra: Reserva da Mata (Betim)]]></title>
+    <posterEmail><![CDATA[chayene.rodrigues@epo.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Construtora EPO, referência no mercado, está em busca de um(a) <strong>Auxiliar de Almoxarifado</strong> para integrar sua equipe.<br /><br />
+O objetivo principal da função é auxiliar no controle, recebimento, armazenamento e distribuição de materiais, garantindo a organização do almoxarifado, o cumprimento dos prazos e os padrões de qualidade e segurança da empresa. A posição exige atenção aos detalhes, organização, responsabilidade e trabalho em equipe, atuando em apoio às áreas de produção e obras.
+<br />Se você é uma pessoa organizada, proativa, responsável e comprometida com o bom funcionamento dos processos, essa vaga é para você!<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar a recepção, conferência e armazenamento de materiais e produtos.<br /> - Controlar o estoque, registrando entradas e saídas de mercadorias.<br /> - Organizar e manter a limpeza do almoxarifado.<br /> - Auxiliar na elaboração de Inventários e relatórios relacionados ao estoque.<br /> - Atender solicitações de materiais de diversas áreas da empresa.<br /> - Realizar verificações periódicas da validade e condições dos materiais armazenados.<br /> - Colaborar com a equipe na otimização dos processos de armazenamento e distribuição.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio incompleto.<br /> - Experiência anterior em atividades de almoxarifado ou áreas relacionadas.<br /> - Conhecimento básico em informática, especialmente em programas de planilhas.<br /> - Habilidade para organização e controle de estoques.<br /> - Capacidade de trabalho em equipe e boa comunicação.<br /> - Atenção aos detalhes e proatividade.<br /><br /><br /><b>Benefícios</b><br /><br />Cesta Básica.Clube SESI.<br />Vale Alimentação.<br />Vale Transporte.<br />Assistência Médica.<br />Rede de Descontos.<br /><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupoepo/92/auxiliar-de-almoxarifado-obra-reserva-da-mata-betim?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[2352450]]></companyId>
+    <city><![CDATA[Betim]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[7140de68-f2eb-4a79-a0a1-e065d6c34e03]]></partnerJobId>
     <partnerRequisitionId><![CDATA[7140de68-f2eb-4a79-a0a1-e065d6c34e03]]></partnerRequisitionId>
     <company><![CDATA[Grupo EPO]]></company>
@@ -36884,6 +37147,26 @@ Se você é uma pessoa proativa, responsável, organizada e disposta a aprender 
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupoepo/55/operador-de-rocadeira-loteamento-reserva-da-mata-betim?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[2352450]]></companyId>
     <city><![CDATA[Betim]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[fae3f295-7ec7-4faf-9b11-1168b4bca9fb]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[fae3f295-7ec7-4faf-9b11-1168b4bca9fb]]></partnerRequisitionId>
+    <company><![CDATA[Grupo EPO]]></company>
+    <title><![CDATA[Auxiliar de Serviços Gerais | Obra: Torre Catharina (Vila da Serra)]]></title>
+    <posterEmail><![CDATA[chayene.rodrigues@epo.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas comprometidas que queiram contribuir para o sucesso de nossas obras. Se você possui disposição, vontade de aprender e está em busca de crescimento profissional, venha fazer parte da nossa equipe como Auxiliar de Serviços Gerais. Aqui você terá a oportunidade de desenvolver suas habilidades e crescer junto conosco. Não perca a chance de se juntar a nós e construir um futuro promissor.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar limpeza dos pisos, das mesas, cadeiras e vidros.<br />- Realizar a limpeza e conservação de ambientes.<br />- Executar serviços de copa, como servir café e água, repor recipientes.<br />- Auxiliar na organização de materiais e utensílios.<br />- Coletar e descartar o lixo corretamente.<br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Experiência nos serviços de limpeza em escritórios e canteiros de obra.<br />- Experiência com atividades de limpeza e conservação.<br />- Agilidade e organização na execução das tarefas.<br />- Capacidade de trabalhar em equipe e seguir orientações.<br />- Comprometimento com a qualidade do trabalho.<br /><br /><br /><b>Benefícios</b><br /><br />- Cesta Básica;<br />- Vale Transporte;<br />- Seguro de Vida; <br />- Assistência Médica; <br />- Day Off Aniversário;<br />- Clube Sesi Betim.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupoepo/93/auxiliar-de-servicos-gerais-obra-torre-catharina-vila-da-serra?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[2352450]]></companyId>
+    <city><![CDATA[Nova Lima]]></city>
     <state><![CDATA[Minas Gerais]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -37987,6 +38270,48 @@ alta performance, esta vaga é para você! Vamos conversar? <br /><br /><b>Resp
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[18b6de4c-2234-4243-a68d-7873ea6ce4f8]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[18b6de4c-2234-4243-a68d-7873ea6ce4f8]]></partnerRequisitionId>
+    <company><![CDATA[Delta Sucroenergia]]></company>
+    <title><![CDATA[Almoxarife Jr]]></title>
+    <posterEmail><![CDATA[samuel.loureiro@deltasucroenergia.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia
+está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe!
+Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um
+ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal
+para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>
+ <li>Apoiar na gestão de estoque;</li><li>Atender e realizar baixas de reservas solicitadas;</li><li>Organização e conservação do setor;</li><li>Apoiar as rotinas operacionais do almoxarifado.</li><li>Apoiar nas conferências de materiais.</li></ul><ul>
+</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo.</li>
+ <li>Disponibilidade para trabalhar em turnos.</li><li>Residir em Conceição das Alagoas.</li>
+</ul><br /><br /><b>Benefícios</b><br /><br /><ul>
+ <li>Remuneração
+     Compatível.</li>
+ <li>Vale
+     Alimentação.</li>
+ <li>Plano de
+     Saúde.</li>
+ <li>Plano
+     Odontológico.</li>
+ <li>Refeitório.</li>
+ <li>Transporte
+     Fretado.</li>
+ <li>Convênio com
+     farmácias, universidades e clubes. </li>
+</ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/2157/almoxarife-jr?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[2796119]]></companyId>
+    <city><![CDATA[Conceição das Alagoas]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[8f57a2b3-1b03-4515-a292-bbfc5ec74d9b]]></partnerJobId>
     <partnerRequisitionId><![CDATA[8f57a2b3-1b03-4515-a292-bbfc5ec74d9b]]></partnerRequisitionId>
     <company><![CDATA[Delta Sucroenergia]]></company>
@@ -38250,7 +38575,7 @@ alta performance, esta vaga é para você! Vamos conversar? <br /><br /><b>Resp
     <partnerJobId><![CDATA[fabc1cdd-73e1-489f-9456-41acf4aba407]]></partnerJobId>
     <partnerRequisitionId><![CDATA[fabc1cdd-73e1-489f-9456-41acf4aba407]]></partnerRequisitionId>
     <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Banco de Talentos -Centro de Inteligência Agrícola - CIA]]></title>
+    <title><![CDATA[Banco de Talentos - Centro de Inteligência Agrícola - CIA]]></title>
     <posterEmail><![CDATA[livia.martins@deltasucroenergia.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar o tráfego de caminhões canavieiros e manter contato direto com lideranças e motoristas, via rádio e outros meios digitais. </li><li>Realizar acompanhamento via Solinftec das frentes</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Pacote Office (básico). </li><li>Disponibilidade para regime de turno. </li></ul>Residir em Uberaba, Delta, Igarapava, ou Aramina <ul><li>Ensino Médio Completo. <br /><br /></li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração Competitiva</li><li>Vale Alimentação</li><li>Plano de Saúde </li><li>Plano Odontológico</li><li>Refeitório</li><li>Transporte Fretado</li><li>Convênio com farmácias, universidades e clubes</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/2153/banco-de-talentos-centro-de-inteligencia-agricola-cia?applicationSource=0]]></applyUrl>
@@ -38891,26 +39216,6 @@ alta performance, esta vaga é para você! Vamos conversar? <br /><br /><b>Resp
     <posterEmail><![CDATA[fmramos@melhoramentos.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você está pronto(a) para iniciar sua jornada profissional em um ambiente dinâmico e inspirador? Temos uma oportunidade incrível para você! Se você busca um espaço onde possa desenvolver suas habilidades, adquirir conhecimentos práticos e fazer a diferença, este Estágio é a chance que você esperava. Aqui, valorizamos a inovação e a criatividade, proporcionando um ambiente colaborativo que estimula o aprendizado contínuo. Junte-se a uma equipe apaixonada, onde suas ideias serão ouvidas e seu crescimento será apoiado. <strong>Valorizamos a diversidade e incentivamos a candidatura de Pessoas com Deficiência (PCD).</strong> Se você está pronto(a) para abraçar novos desafios e crescer profissionalmente em um ambiente colaborativo, não perca a chance de se juntar a nós.Venha construir um futuro promissor ao nosso lado!<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Criação de Identidade Visual para peças online e impressas de comunicação interna e externa (artes e layouts de campanhas, cartazes, banners, cards, email marketing etc.)</li><li>Produção e edição de pequenos vídeos</li><li>Apoio na organização de eventos e ações de comunicação</li><li>Proposição de novas ideias de campanhas e ações de comunicação</li><li>Participação em reuniões de brainstorming</li><li>Apoio na criação de textos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando graduação em Comunicação Social, Design Gráfico, Artes Visuais ou correlatas</li><li>Experiência com softwares de edição de imagens e composições gráficas, como Adobe Creative Cloud (Photoshop, Illustrator, InDesign) e Canva</li><li>Disponibilidade para realizar estágio das 09h às 16h (01h de almoço)</li></ul><br /><br /><b>Benefícios</b><br /><br /><strong>Confira os nossos benefícios e vantagens:</strong> <strong>Plano de Saúde</strong><br /> <strong>Plano Odontológico</strong><br />️ <strong>Vale Refeição </strong><br /> <strong>Vale Alimentação</strong><br /> <strong>Day Off de Aniversário</strong><br />️ <strong>Seguro de Vida</strong><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscomelhoramentos/105/estagio-de-comunicacao-institucional?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[1918186]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[7be85b56-6710-434e-b3a0-bcee30e0d6bd]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[7be85b56-6710-434e-b3a0-bcee30e0d6bd]]></partnerRequisitionId>
-    <company><![CDATA[Melhoramentos]]></company>
-    <title><![CDATA[Analista Contábil Pl.]]></title>
-    <posterEmail><![CDATA[fmramos@melhoramentos.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você é apaixonado(a) por números, possui experiência em rotinas contábeis e busca novos desafios em uma empresa sólida e em constante evolução? Essa oportunidade pode ser para você!<br /><strong>Valorizamos a diversidade e incentivamos a candidatura de Pessoas com Deficiência (PCD).</strong> Se você está pronto(a) para abraçar novos desafios e crescer profissionalmente em um ambiente colaborativo, não perca a chance de se juntar a nós.Venha construir um futuro promissor ao nosso lado!<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar nos processos da área Contábil, apoiando a contabilização mensal de despesas e receitas;</li><li>Auxiliar na atualização monetária e contabilização de impostos;</li><li>Realizar conciliações periódicas de saldos contábeis;</li><li>Apoiar a conciliação, compensação e análise de contas contábeis relacionadas à folha de pagamento;</li><li>Dar suporte às atividades necessárias para o fechamento contábil mensal;</li><li>Revisar, corrigir e aprovar contabilizações Off Linne;</li><li>Contribuir para a qualidade das informações contábeis, garantindo conformidade e confiabilidade dos registros;</li><li>Executar demais atividades correlatas à função.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência em rotinas contábeis e fechamento mensal;</li><li>Conhecimento em conciliações contábeis e análise de contas;</li><li>Vivência com contabilização de impostos e processos relacionados à folha de pagamento;</li><li>Ensino Superior completo ou cursando em Ciências Contábeis ou Administração.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><strong>Confira os nossos benefícios e vantagens:</strong> <strong>Plano de Saúde</strong><br /> <strong>Plano Odontológico</strong><br />️ <strong>Vale Refeição</strong><br /> <strong>Vale Alimentação</strong><br /> <strong>Day Off de Aniversário</strong><br />️ <strong>Seguro de Vida</strong><br /> <strong>Cooperativa de Crédito</strong><br /> <strong>PLR – Participação nos Lucros e Resultados</strong><br /> <strong>Wellhub</strong><br /> <strong>Carteirinha Plena do SESC</strong><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscomelhoramentos/102/analista-contabil-pl?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[1918186]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -43941,26 +44246,6 @@ Interesse em aprender e desenvolver-se na área industrial.</li><br /><br /><b>B
     <companyId><![CDATA[1352906]]></companyId>
     <city><![CDATA[Rio Grande]]></city>
     <state><![CDATA[Rio Grande do Sul]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1801f36a-be3e-4b8a-82ac-8b6682bc06b4]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[1801f36a-be3e-4b8a-82ac-8b6682bc06b4]]></partnerRequisitionId>
-    <company><![CDATA[MUSASHI DA AMAZÔNIA]]></company>
-    <title><![CDATA[Líder de Produção JR]]></title>
-    <posterEmail><![CDATA[keila.freitas@musashi.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Profissional com experiência em liderança de equipes de produção no segmento de usinagem, atuando no acompanhamento das operações, gestão de pessoas, monitoramento de indicadores de desempenho, qualidade e produtividade, garantindo o cumprimento dos padrões de segurança e processos estabelecidos pela organização.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Liderar e orientar equipes de produção, promovendo o desenvolvimento técnico e comportamental dos colaboradores.</li><li>Garantir o atendimento ao plano de produção dentro dos padrões de qualidade, custo e prazo.</li><li>Acompanhar e otimizar processos produtivos de usinagem CNC.</li><li>Analisar desenhos técnicos, especificações e requisitos dimensionais.</li><li>Assegurar a correta utilização de instrumentos de medição e controle de qualidade.</li><li>Monitorar indicadores de produtividade, eficiência e qualidade, propondo ações de melhoria contínua.</li><li>Garantir o cumprimento das normas de segurança, qualidade e procedimentos internos.</li><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Formação Técnica em Mecânica, Eletromecânica ou Usinagem.</li><li>Sólida vivência em processos de usinagem CNC (Torno CNC e Centro de Usinagem).</li><li>Conhecimento avançado em leitura e interpretação de desenho técnico mecânico.</li><li>Conhecimento avançado em metrologia dimensional.</li><li>Domínio dos conceitos e aplicação de GD&amp;T (Geometric Dimensioning and Tolerancing).</li><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência Médica - HAPVIDA</li><li>Assistência Odontológica - UNIODONTO</li><li>Cesta de alimentos</li><li>Alimentação na empresa</li><li>Transporte</li><li>Cursos/Capacitações</li><li>Conveniências dentro da Empresa</li><li>Grêmio com área de Descanso e Jogos</li><li>Salas de Descompressão</li><li>PLR</li></ul><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/musashidaamazoniavagas/44/lider-de-producao-jr?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[30744386]]></companyId>
-    <city><![CDATA[Manaus]]></city>
-    <state><![CDATA[Amazonas]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -53936,26 +54221,6 @@ Capacidade de aprendizado e interesse em acompanhar tendências de Marketing e r
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[a4f700ce-168d-4bbb-b0ea-281bd6bf1b32]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[a4f700ce-168d-4bbb-b0ea-281bd6bf1b32]]></partnerRequisitionId>
-    <company><![CDATA[P. B. LOPES & CIA LTDA]]></company>
-    <title><![CDATA[Auxiliar mecanico]]></title>
-    <posterEmail><![CDATA[valeska.celestino@pblopes.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade em um ambiente dinâmico e desafiador? Temos o prazer de convidar você a explorar uma vaga em nossa equipe, onde valorizamos o talento e a dedicação. Aqui, você terá a chance de desenvolver suas habilidades em um setor em constante evolução, contribuindo para projetos inovadores que fazem a diferença. Oferecemos um ambiente colaborativo, onde a troca de conhecimento é incentivada e a formação contínua é uma prioridade. Se você é uma pessoa proativa, que busca crescimento e deseja fazer parte de uma equipe que valoriza cada contribuição, não perca a chance de se candidatar e dar um passo importante na sua carreira. Entre em contato e venha descobrir como seu potencial pode brilhar em nossa empresa!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Auxiliar Montagem e instalação do motor no veículo e na execução de pequenos reparos de serviços (revisões, trocas de óleo), auxiliará os mecânicos.Organizar setor e box. <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Requisitos:<br />-Ensino médio completo;<br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência médica</li><li>Assistência odontológica</li><li>Vale-alimentação</li><li>Vale-transporte</li><li>estacionamento</li><li>bolsa de estudos, conforme política da empresa</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspblopes/43/auxiliar-mecanico?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2377800]]></companyId>
-    <city><![CDATA[Três Lagoas]]></city>
-    <state><![CDATA[Mato Grosso do Sul]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[14bc5e95-649c-4136-a74b-b6502cc615cc]]></partnerJobId>
     <partnerRequisitionId><![CDATA[14bc5e95-649c-4136-a74b-b6502cc615cc]]></partnerRequisitionId>
     <company><![CDATA[P. B. LOPES & CIA LTDA]]></company>
@@ -54043,26 +54308,6 @@ Capacidade de aprendizado e interesse em acompanhar tendências de Marketing e r
     <posterEmail><![CDATA[valeska.celestino@pblopes.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />O Técnico em Segurança do Trabalho será responsável por planejar, coordenar e supervisionar atividades relacionadas à segurança e saúde ocupacional, garantindo o cumprimento das normas e regulamentos de segurança no ambiente de trabalho. Atuará como técnico, desenvolvendo e implementando políticas de prevenção de acidentes, promovendo treinamentos, e realizando auditorias, com foco na mitigação de riscos e melhoria contínua dos processos de segurança.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a análise de riscos no ambiente de trabalho e elaborar planos de ação para mitigação de acidentes.</li><li>Desenvolver e implementar programas de prevenção de acidentes, promovendo a saúde e segurança dos colaboradores.</li><li>Coordenar e realizar auditorias de segurança e inspeções periódicas, identificando áreas de risco e propondo melhorias.</li><li>Supervisionar a implementação de normas de segurança e saúde ocupacional conforme a legislação vigente (NRs).</li><li>Elaborar relatórios técnicos, laudos e pareceres, com foco na prevenção e controle de acidentes de trabalho.</li><li>Conduzir investigações de acidentes, identificando causas e propondo ações corretivas e preventivas.</li><li>Promover campanhas educativas, treinamentos e programas de conscientização de segurança para os colaboradores.</li><li>Supervisionar o cumprimento das normas de segurança durante a execução de tarefas críticas e de alto risco.</li><li>Gerenciar a utilização e o controle de EPIs (Equipamentos de Proteção Individual) e EPCs (Equipamentos de Proteção Coletiva), assegurando que todos os colaboradores estejam adequadamente equipados.</li><li>Assessorar a liderança da empresa em questões de segurança, propondo melhorias nos processos operacionais.</li><li>Coordenar a CIPA (Comissão Interna de Prevenção de Acidentes) e organizar as SIPATs (Semanas Internas de Prevenção de Acidentes de Trabalho).</li></ul>Atenderá as unidades do Paraná, São Paulo e Mato Grosso do Sul.<br /><br /><b>Requisitos e qualificações</b><br /><br />Formação técnica completa em Segurança do Trabalho.· Desejável: Cursos de especialização e atualização na área de segurança do trabalho e saúde ocupacional.Conhecimento no sistema Protheus, será diferencial.Competências Comportamentais: Liderança, proatividade, comunicação eficaz, resolução de problemas, trabalho em equipe, foco em resultados.Disponibilidade para viagens é imprescindível, atenderá unidades do PR ,SP e MS.<br /><br /><b>Benefícios</b><br /><br />Vale alimentaçãoTotalPass<br />Plano odontológico<br />Plano de saúde<br />Bolsa de estudos<br />Auxílio natalidade<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspblopes/51/tecnico-de-seguranca-do-trabalho?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2377800]]></companyId>
-    <city><![CDATA[Londrina]]></city>
-    <state><![CDATA[Paraná]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[7838d62b-3c25-4cb8-b3b5-433807acc5af]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[7838d62b-3c25-4cb8-b3b5-433807acc5af]]></partnerRequisitionId>
-    <company><![CDATA[P. B. LOPES & CIA LTDA]]></company>
-    <title><![CDATA[Assistente de RH/DP]]></title>
-    <posterEmail><![CDATA[valeska.celestino@pblopes.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />O Assistente de Departamento Pessoal é o profissional responsável por executar e dar suporte às rotinas administrativas de pessoal, garantindo que a empresa cumpra a legislação trabalhista.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Puxar e tratar informações em ponto eletronico, da matriz e filiais;</li><li>manusear e checar ponto diariamente;</li><li>Apurar banco de horas e enviar aos gestores;</li><li>Conferir e lançar em sistema, documentação para processos de admissão;</li><li>Conferir dados cadastrais e contratuais;</li><li>Realizar cadastro de informações em sistemas internos;</li><li>Apoiar o processamento e conferência da folha de pagamento;</li><li>Organizar e arquivar documentos;</li><li>Prestar suporte aos colaboradores em caso de dúvidas;</li><li>Garantir o cumprimento de normas, políticas internas e legislações vigentes</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Cursando ou formado em ciencias contábeis, administração, RH ou áreas correlatas.<br /><br /><b>Benefícios</b><br /><br />Benefícios: <br />•	Vale Alimentação de R$ 400,00<br />•	Plano de Saúde Participativo – UNIMED<br />•	Plano Odontológico BRADESDO<br />•	Total Pass<br />•	Estacionamento na empresa <br />•	Vale Transporte <br />•	Bolsa Educação (após 1 ano de empresa - mediante avaliação)<br />•	Auxílio Natalidade<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspblopes/44/assistente-de-rh-dp?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[2377800]]></companyId>
     <city><![CDATA[Londrina]]></city>
     <state><![CDATA[Paraná]]></state>
@@ -54271,26 +54516,6 @@ Capacidade de aprendizado e interesse em acompanhar tendências de Marketing e r
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspblopes/25/auxiliar-mecanico?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[2377800]]></companyId>
     <city><![CDATA[Paraguaçu Paulista]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[88d0338a-0f47-4f7a-b0db-9f89e6821fab]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[88d0338a-0f47-4f7a-b0db-9f89e6821fab]]></partnerRequisitionId>
-    <company><![CDATA[P. B. LOPES & CIA LTDA]]></company>
-    <title><![CDATA[Consultor técnico de serviços]]></title>
-    <posterEmail><![CDATA[valeska.celestino@pblopes.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais dedicados e apaixonados pela área de serviços, que desejam fazer parte de uma equipe dinâmica e inovadora. Se você é uma pessoa comprometida com a excelência e tem interesse em contribuir para a satisfação dos nossos clientes, temos uma oportunidade especial para você.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Agendar serviços ou reparos para clientes internos e externos;- Prospectar novos clientes;- Vender mão de obra e peças;- Gerir processos de cotação, incluindo a avaliação de crédito do cliente;- Vender pacote de reparos, campanhas e ofertas especiais;- Manter uma comunicação aberta entre o cliente e a oficina para que o mecânico tenha a informação correta para diagnosticar os problemas;- Construir e desenvolver uma relação com o cliente e entregar-lhe um excelente serviço, mantendo-o atualizado quanto ao andamento do serviço, explicando o conteúdo da fatura e conduzindo a entrega do veículo ao seu término;- Promover soluções adequadas usando o portfólio de produtos e de pacotes promocionais Scania;- Recepcionar o condutor do veículo ao Box, colhendo as informações sobre os dados do veículo (placa, chassis, Km, manual de garantia, documentos pessoais) e verificar quais os serviços a serem realizados;- Abrir a OS (ordem de serviço);- Elaborar o orçamento;- Acompanhar o serviço que está sendo realizado no caminhão, para poder informar ao cliente;- Analisar as OS que estão abertas, encerradas e faturadas para que não haja pendências;- Fazer o controle do arquivo das OS;- Receber caminhão novo, verificando e conferindo se os itens estão conforme o check list;- Executar outras atividades correlatas;- Informar as pesquisas de satisfação;<br /><br /><b>Requisitos e qualificações</b><br /><br />Ter experiência como Consultor Técnico de Serviços;Ensino médio completo;Perfil comercial.<br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência médica</li><li>Assistência odontológica</li><li>Estacionamento gratuito</li><li>Vale-alimentação</li><li>Vale-transporte</li><li>TotalPass</li><li>Bolsa de estudos, conforme política da empresa</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspblopes/48/consultor-tecnico-de-servicos?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2377800]]></companyId>
-    <city><![CDATA[Regente Feijó]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -58411,6 +58636,26 @@ Desconto Universidade</li></ul>]]></description>
           <amount><![CDATA[1621.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[00f890b6-377c-4122-aefb-721be59ead52]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[00f890b6-377c-4122-aefb-721be59ead52]]></partnerRequisitionId>
+    <company><![CDATA[Grupo PMZ]]></company>
+    <title><![CDATA[RR| OPERADOR(A) DE CAIXA]]></title>
+    <posterEmail><![CDATA[tuany.souza@grupopmz.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por assegurar o atendimento ao público com pagamentos, recebimento de valores, fechamento de caixa e emissão de notas fiscais.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Recebe valores de vendas de peças e acessórios/serviços;</li><li>Realizar constantemente os depósitos no cofre, à medida que forem recebendo os pagamentos efetuados pelos clientes, só podendo ser deixado no caixa, apenas o valor referente ao kit troco;</li><li>Conferir se está correto a peça/produto de acordo com a Nota Fiscal;</li><li>Dar informações sobre as peças/produtos, tais como: garantia, troca e etc.;</li><li>Verificar se o cliente foi bem atendido;</li><li>Encantar o cliente na finalização da compra, atendendo o cliente de forma cortez e agradecer pela compra;</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior;</li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade;</li><li>Executar o atendimento aos clientes de acordo com os procedimentos da função.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino Médio completo<br />- Conhecimento básico de informática<br />- Boa comunicação<br />- Atendimento ao cliente<br />- Agilidade e organização<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/427/rr-operador-a-de-caixa?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[22287656]]></companyId>
+    <city><![CDATA[Boa Vista]]></city>
+    <state><![CDATA[Roraima]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -76007,6 +76252,26 @@ ou áreas afins. </li></ul><br /><b>Requisitos:</b><br /><ul><li><b>Power BI <
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[c132722a-a1d9-4c22-aa42-619582e816d6]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[c132722a-a1d9-4c22-aa42-619582e816d6]]></partnerRequisitionId>
+    <company><![CDATA[Nutriport Comercial LTDA]]></company>
+    <title><![CDATA[Analista de Licitações Jr]]></title>
+    <posterEmail><![CDATA[geovana.marini@nutriport.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Você gosta de analisar oportunidades, tem atenção aos detalhes e quer desenvolver sua carreira em licitações?</b><br />Buscamos uma pessoa organizada e colaborativa para atuar nos processos eletrônicos, desde a análise dos editais até a homologação. Aqui, você poderá aplicar seus conhecimentos, ampliar sua experiência e contribuir para os resultados da equipe!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /> <strong>Como será o seu dia a dia</strong><strong><br /></strong><ul><li><strong>Analisar editais e documentos</strong>, identificando exigências, prazos e pontos importantes para a participação da empresa;</li><li><strong>Preparar propostas e organizar a documentação</strong>, conferindo as informações e atendendo aos requisitos de cada processo;</li><li><strong>Participar de licitações eletrônicas</strong>, acompanhando as etapas e as solicitações nas plataformas;</li><li><strong>Elaborar pedidos de esclarecimento e impugnações</strong>, conforme as necessidades identificadas nos editais;</li><li><strong>Acompanhar os processos até a homologação</strong>, atendendo às demandas dentro dos prazos estabelecidos;</li><li><strong>Gerenciar demandas simultâneas</strong>, mantendo os controles atualizados e alinhando prioridades e pendências com a equipe.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /> <strong>O que buscamos em você</strong><br /><b><br /></b><ul><li>Ensino superior ;</li><li>Experiência de <strong>1 a 2 anos na área de licitações</strong>;</li><li>Habilidade para operar plataformas eletrônicas de licitações, como <strong>Compras.gov.br, BLL Compras, Licitanet, BNC Compras, Pregão Banrisul, Compras BR e Licitações-e</strong>;</li><li>Conhecimento e aplicação da <strong>Lei nº 14.133/2021</strong> nas rotinas da área;</li><li>Facilidade para interpretar editais e conferir propostas e documentos;</li><li>Organização e atenção aos detalhes para acompanhar diferentes processos e prazos;</li><li>Boa comunicação, colaboração e iniciativa para sinalizar dificuldades e buscar apoio quando necessário.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /> <strong>O que você vai encontrar por aqui</strong><strong><br /></strong><ul><li><strong>Benefícios alinhados ao mercado</strong>, para apoiar seu dia a dia;</li><li><strong>Um ambiente colaborativo e acolhedor</strong>, com troca de experiências e aprendizado em equipe;</li><li><strong>Oportunidades de desenvolvimento profissional</strong>, para ampliar seus conhecimentos na área;</li><li><strong>A experiência de fazer parte de uma empresa sólida</strong>, que trabalha com marcas relevantes no mercado.</li></ul><br /> <strong>Venha contribuir com a nossa equipe e construir os próximos passos da sua carreira na Nutriport!</strong><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/nutriportvagas/81/analista-de-licitacoes-jr?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[16245336]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[0da339bd-9750-4115-8d09-b1b067d819b5]]></partnerJobId>
     <partnerRequisitionId><![CDATA[0da339bd-9750-4115-8d09-b1b067d819b5]]></partnerRequisitionId>
     <company><![CDATA[Nutriport Comercial LTDA]]></company>
@@ -90499,6 +90764,52 @@ Elaborar e preencher propostas, planilhas e documentações técnicas e comercia
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[ddb0cfd1-74b4-49e1-b93a-b61ec93f2578]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[ddb0cfd1-74b4-49e1-b93a-b61ec93f2578]]></partnerRequisitionId>
+    <company><![CDATA[Santa Casa Ruy Barbosa]]></company>
+    <title><![CDATA[Instrumentador Cirúrgico | Hospital Estadual do Litoral Norte]]></title>
+    <posterEmail><![CDATA[suporte.rh@scrb.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Garantir o suporte técnico durante os procedimentos cirúrgicos, assegurando a organização, disponibilidade e esterilidade dos instrumentos e materiais, contribuindo para a segurança do paciente e eficiência do ato cirúrgico.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar a separação, conferência e organização dos instrumentos cirúrgicos conforme o tipo de procedimento;</li><li>Montar a mesa cirúrgica de forma organizada e funcional, de acordo com a técnica adequada;</li><li>Verificar a integridade e esterilidade dos materiais e instrumentais antes dos procedimentos;</li><li>Auxiliar na preparação da sala cirúrgica, garantindo que todos os materiais estejam disponíveis;</li><li>Conferir o funcionamento dos equipamentos utilizados durante o procedimento;</li><li>Prestar suporte direto à equipe médica durante o ato cirúrgico, antecipando necessidades;</li><li>Manter a organização e controle dos materiais utilizados durante e após os procedimentos.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação completa em instrumentação cirúrgica;</li><li>Experiência na função. </li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Refeitório na unidade </li><li>Vale transporte </li><li>Plano de saúde </li><li>Plano odontológico </li><li>Seguro de vida </li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscosantacasa/222/instrumentador-cirurgico-hospital-estadual-do-litoral-norte?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[97350692]]></companyId>
+    <city><![CDATA[Alagoinhas]]></city>
+    <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e15af699-7841-4c41-b3d4-d18dccf5afbe]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[e15af699-7841-4c41-b3d4-d18dccf5afbe]]></partnerRequisitionId>
+    <company><![CDATA[Santa Casa Ruy Barbosa]]></company>
+    <title><![CDATA[Maqueiro | Hospital Estadual do Litoral Norte]]></title>
+    <posterEmail><![CDATA[suporte.rh@scrb.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar no transporte seguro e humanizado de pacientes entre os setores assistenciais da unidade hospitalar, apoiando a equipe multiprofissional e contribuindo para a continuidade e segurança do cuidado.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar o transporte de pacientes entre os setores assistenciais (internações, exames, centro cirúrgico, entre outros), de forma segura e conforme protocolos institucionais;
+</li>
+<li>
+Auxiliar na movimentação, posicionamento e acomodação do paciente em macas, cadeiras de rodas ou leitos;
+</li>
+<li>
+Garantir a integridade física e o conforto do paciente durante todo o deslocamento. </li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo. </li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Refeitório na unidade; </li><li>Vale transporte;</li><li>Plano Odontológico; </li><li>Plano de Saúde; </li><li>Seguro de vida.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/trabalheconoscosantacasa/221/maqueiro-hospital-estadual-do-litoral-norte?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[97350692]]></companyId>
+    <city><![CDATA[Alagoinhas]]></city>
+    <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[6c13660d-22fe-4e64-ba11-99f7f8720e13]]></partnerJobId>
     <partnerRequisitionId><![CDATA[6c13660d-22fe-4e64-ba11-99f7f8720e13]]></partnerRequisitionId>
     <company><![CDATA[Santa Casa Ruy Barbosa]]></company>
@@ -103379,6 +103690,37 @@ CNH categoria B.</li><br /><br /><b>Benefícios</b><br /><br />Ticket Alimentaç
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[eeaa8ba3-909d-4b83-b7c4-6f8af9246e96]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[eeaa8ba3-909d-4b83-b7c4-6f8af9246e96]]></partnerRequisitionId>
+    <company><![CDATA[GRUPO ORLETTI]]></company>
+    <title><![CDATA[Auxiliar de Instalador de Acessórios]]></title>
+    <posterEmail><![CDATA[rithielly.santos@grupoorletti.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por realizar a instalação de acessórios automotivos, prestando atendimento ao cliente, identificando suas necessidades, instalando acessórios, negociando condições comerciais, acompanhando pedidos e garantindo um atendimento de excelência.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Auxiliar na instalação de acessórios automotivos;<br /></li><li>Preparar ferramentas e materiais para os serviços;<br /></li><li>Apoiar na montagem e desmontagem de componentes;<br /></li><li>Zelar pela organização e limpeza do ambiente de trabalho;<br /></li><li>Garantir o cuidado e a conservação dos veículos durante os serviços.<br /></li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino Médio completo;</li>
+<li>
+Boa comunicação e relacionamento interpessoal;
+</li>
+<li>
+Organização e atenção aos detalhes;
+</li>
+<li>
+Facilidade para atendimento ao cliente;
+</li>
+<li>
+Proatividade e disposição para aprender.</li><br /><br /><b>Benefícios</b><br /><br />Ticket Alimentação ou Refeição;Plano de Saúde coparticipativo;<br />‍Plano Odontologico;<br />⛑️Seguro de Vida;<br />️Convênio com o Sesc.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/orletti/53/auxiliar-de-instalador-de-acessorios?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[106603631]]></companyId>
+    <city><![CDATA[Ipatinga]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[229e931f-5692-48d2-91a8-096ddb607f07]]></partnerJobId>
     <partnerRequisitionId><![CDATA[229e931f-5692-48d2-91a8-096ddb607f07]]></partnerRequisitionId>
     <company><![CDATA[GRUPO ORLETTI]]></company>
@@ -109936,6 +110278,150 @@ facilitar o atendimento ao cliente. </b><b></b><br /><br /><b>Requisitos e quali
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[21d8c2c2-0d47-4e0f-b22b-923d7217d9a6]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[21d8c2c2-0d47-4e0f-b22b-923d7217d9a6]]></partnerRequisitionId>
+    <company><![CDATA[Associação Comercial de São Paulo]]></company>
+    <title><![CDATA[Consultor de negocios (Volante Leste)]]></title>
+    <posterEmail><![CDATA[vinicius.szajda@acsp.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Descrição Sumária</b>
+
+Prospectar clientes e associados, divulgar produtos
+e serviços, conduzir o ciclo de negócios desde a identificação de oportunidades
+até o fechamento de contratos e realizar ações de pós-venda, visando à
+captação, à fidelização e ao desenvolvimento do relacionamento com os clientes.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Descrição Detalhada</b>
+
+Prospectar novos clientes e
+associados, identificando oportunidades de negócios e apresentando produtos e
+serviços da instituição.
+
+Conduzir o ciclo de negócios,
+realizando contatos, agendamentos, apresentações, demonstrações, visitas,
+negociações e fechamento de contratos.
+
+Divulgar produtos e serviços,
+destacando seus diferenciais e benefícios, com foco na concretização de
+negócios.
+
+Intermediar os processos de
+avaliação dos perfis das empresas, articulando-se com as áreas internas
+envolvidas para viabilizar a contratação dos produtos e serviços.
+
+Realizar visitas e ações de
+pós-venda, acompanhando as necessidades dos clientes, fortalecendo o
+relacionamento e identificando oportunidades de renovação, ampliação ou
+contratação de novos serviços.
+
+Acompanhar as demandas dos
+clientes e as tendências do mercado de atuação, contribuindo com informações e
+sugestões para o aprimoramento dos produtos e serviços.
+
+Participar de eventos
+institucionais e de negócios, promovendo produtos e serviços e identificando oportunidades
+comerciais.
+
+Apoiar a integração e a
+capacitação de novos colaboradores quanto às características, aos diferenciais
+e às formas de apresentação dos produtos e serviços.
+
+Executar outras atividades correlatas à área de
+atuação.<br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação Acadêmica</b>
+
+Desejável Superior Completo ou Cursando, preferencialmente
+em Administração, Gestão Comercial e áreas afins.<br /><b>Requisitos Específicos</b>Disponibilidade para participação em eventos presenciais, inclusive no período noturno.<br /><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br />Benefícios<br /><br />* Vale-transporte;<br />* Vale-refeição (VR flex) no valor de R$ 52,50 por dia;<br />* Assistência médica e odontológica Bradesco (com coparticipação);<br />* Seguro de vida;<br />* Refeitório e café da manhã;<br />* TotalPass;<br />* Day off no mês do aniversário;<br />* Descontos com a FAC (Faculdade do Comércio);<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/acsp/16/consultor-de-negocios-volante-leste?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[50838]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[3100.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[3000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[39dde8f1-da54-48d5-883b-e82e18ecb94e]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[39dde8f1-da54-48d5-883b-e82e18ecb94e]]></partnerRequisitionId>
+    <company><![CDATA[Associação Comercial de São Paulo]]></company>
+    <title><![CDATA[Consultor de negocios (Distrital Sul)]]></title>
+    <posterEmail><![CDATA[vinicius.szajda@acsp.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><b>Descrição Sumária</b>
+
+Prospectar clientes e associados, divulgar produtos
+e serviços, conduzir o ciclo de negócios desde a identificação de oportunidades
+até o fechamento de contratos e realizar ações de pós-venda, visando à
+captação, à fidelização e ao desenvolvimento do relacionamento com os clientes.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Descrição Detalhada</b>
+
+Prospectar novos clientes e
+associados, identificando oportunidades de negócios e apresentando produtos e
+serviços da instituição.
+
+Conduzir o ciclo de negócios,
+realizando contatos, agendamentos, apresentações, demonstrações, visitas,
+negociações e fechamento de contratos.
+
+Divulgar produtos e serviços,
+destacando seus diferenciais e benefícios, com foco na concretização de
+negócios.
+
+Intermediar os processos de
+avaliação dos perfis das empresas, articulando-se com as áreas internas
+envolvidas para viabilizar a contratação dos produtos e serviços.
+
+Realizar visitas e ações de
+pós-venda, acompanhando as necessidades dos clientes, fortalecendo o
+relacionamento e identificando oportunidades de renovação, ampliação ou
+contratação de novos serviços.
+
+Acompanhar as demandas dos
+clientes e as tendências do mercado de atuação, contribuindo com informações e
+sugestões para o aprimoramento dos produtos e serviços.
+
+Participar de eventos
+institucionais e de negócios, promovendo produtos e serviços e identificando oportunidades
+comerciais.
+
+Apoiar a integração e a
+capacitação de novos colaboradores quanto às características, aos diferenciais
+e às formas de apresentação dos produtos e serviços.
+
+Executar outras atividades correlatas à área de
+atuação.<br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação Acadêmica</b>
+
+Desejável Superior Completo ou Cursando, preferencialmente
+em Administração, Gestão Comercial e áreas afins.<br /><b>Requisitos Específicos</b>Disponibilidade para participação em eventos presenciais, inclusive no período noturno.<br /><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br />Benefícios<br /><br />* Vale-transporte;<br />* Vale-refeição (VR flex) no valor de R$ 52,50 por dia;<br />* Assistência médica e odontológica Bradesco (com coparticipação);<br />* Seguro de vida;<br />* Refeitório e café da manhã;<br />* TotalPass;<br />* Day off no mês do aniversário;<br />* Descontos com a FAC (Faculdade do Comércio);<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/acsp/15/consultor-de-negocios-distrital-sul?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[50838]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[3100.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[3000.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[2884c021-da68-48de-b44b-785b58aea48b]]></partnerJobId>
     <partnerRequisitionId><![CDATA[2884c021-da68-48de-b44b-785b58aea48b]]></partnerRequisitionId>
     <company><![CDATA[Associação Comercial de São Paulo]]></company>
@@ -110885,36 +111371,6 @@ superior imediato.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sgsgeosol/21/auxiliar-de-campo?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[11304660]]></companyId>
     <city><![CDATA[Canaã dos Carajás]]></city>
-    <state><![CDATA[Pará]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[ee62971a-56dc-41ad-ac32-e992722db6df]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[ee62971a-56dc-41ad-ac32-e992722db6df]]></partnerRequisitionId>
-    <company><![CDATA[SGS GEOSOL LABORATÓRIOS S/A]]></company>
-    <title><![CDATA[AUXILIAR DE LABORATÓRIO DE PREPARAÇÃO FÍSICA - PARAUAPEBAS]]></title>
-    <posterEmail><![CDATA[rubia.souza@sgsgeosol.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por executar as etapas de preparação de amostras conforme fluxograma definido e através de suas instruções de trabalho do laboratório.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Executar atividades de preparação de amostras, utilizando os processos de secagem, britagem, quarteamento, peneiramento e pulverização, cumprindo com suas instruções de trabalho. </li>
-<li>Realizar o arquivamento e o descarte das amostras conforme procedimentos internos.          </li>
-<li>Cumprir e fazer cumprir o Código de Ética, zelando pelo atendimento às cláusulas sobre os  deveres éticos e comuns aos colaboradores.</li>
-<li>Reportar a liderança imediata assuntos inerentes à sua área de atuação, apresentando e discutindo problemas e irregularidades e propondo soluções, a fim de subsidiar a definição de procedimentos e ações a serem adotadas.                                                  </li>
-<li>Executar atividades de acordo com procedimentos operacionais, bem como manter-se atualizado quanto aos procedimentos e processos da área, visando a melhoria contínua.             </li>
-<li>Orientar os novos colaboradores diante das atividades inerentes à área, acompanhando-os e facilitando o conhecimento dos equipamentos.</li>
-<li>Preservar limpo e organizado o local de trabalho, equipamentos e materiais, a fim de manter boas condições de uso e preservar os aspectos de saúde ocupacional e meio ambiente, além de zelar pela conservação dos bens patrimoniais, solicitando manutenção, reparo e/ou reposição, sempre que necessário.</li>
-<li>Participar de treinamentos quando convocado, dedicando-se para se obter o rendimento desejado dos trabalhos.</li>
-<li>Executar atividades correlatas conforme orientação do superior imediato.  </li><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Fundamental completo.<br /><br /><b>Benefícios</b><br /><br />
-                                        <ul><li>Vale-alimentação</li><li>Vale-refeição</li><li>Vale-transporte</li><li>Plano de saúde</li><li>Plano odontológico</li><li>Programa de saúde mental</li><li>Gympass</li><li>Auxílio material escolar</li><li>Empréstimos bancários</li><li>Participação nos Lucros e Resultados (PLR)</li><li>Seguro de vida</li><li>Cesta de Natal</li></ul>
-                                    <br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sgsgeosol/34/auxiliar-de-laboratorio-de-preparacao-fisica-parauapebas?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[11304660]]></companyId>
-    <city><![CDATA[Parauapebas]]></city>
     <state><![CDATA[Pará]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -112498,6 +112954,26 @@ função correlata <br />• Vivência com prospecção ativa, especialmente col
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[18097ae7-0e42-417e-94d8-3e7325c45336]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[18097ae7-0e42-417e-94d8-3e7325c45336]]></partnerRequisitionId>
+    <company><![CDATA[Grupo Pulsa]]></company>
+    <title><![CDATA[Coordenador Fiscal]]></title>
+    <posterEmail><![CDATA[barbara.camisassa@grupopulsa.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Coordenar as rotinas fiscais e tributárias do grupo, controlando as obrigações legais e garantindo sua entrega no prazo e com informações corretas, bem como a correta apuração dos tributos perante a legislação vigente. Organizar, melhorar e padronizar os processos da área, parametrizando o sistema com o intuito de reduzir trabalhos manuais. Contribuir para a redução do custo tributário e para a melhoria do fluxo de caixa por meio do aproveitamento de créditos tributários, conduzindo a adequação da área à Reforma Tributária.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />1. Gerenciar, orientar e dar apoio à equipe fiscal, distribuindo as atividades e acompanhando prazos e entregas;<br />2. Revisar as atividades e entregas do time, garantindo a confiabilidade dos números apresentados;<br />3. Controlar o calendário de obrigações fiscais principais e acessórias (SPED EFD ICMS/IPI, EFD-Contribuições, EFD-Reinf, DCTFWeb, ECF, entre outras), garantindo a entrega no prazo e com informações corretas;<br />4. Revisar e validar as apurações de impostos diretos (IRPJ e CSLL) e indiretos (PIS, COFINS, ICMS e ISS), além das retenções na fonte, garantindo a conformidade com a legislação;<br />5. Conduzir a adequação dos processos e do sistema à Reforma Tributária (IBS, CBS e Imposto Seletivo), avaliando os impactos para o grupo durante o período de transição;<br />6. Mapear, organizar, melhorar e padronizar os processos fiscais, formalizando procedimentos e fluxos da área;<br />7. Parametrizar o sistema (ERP) junto às áreas de TI e consultorias, com o intuito de reduzir trabalhos manuais e riscos de erro;<br />8. Identificar oportunidades de redução do custo tributário, dentro da legalidade;<br />9. Gerir o levantamento, a recuperação e a compensação de créditos tributários, contribuindo para a melhoria do fluxo de caixa;<br />10. Garantir as entregas internas (fechamento contábil, provisões e relatórios) e externas (fisco e órgãos reguladores) dentro do prazo;<br />11. Atender auditorias, fiscalizações e demais solicitações relacionadas à área tributária;<br />12. Acompanhar as alterações da legislação tributária e repassar as atualizações à equipe e às áreas impactadas.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />1. Superior completo em Ciências Contábeis;<br />2. Experiência de 1 ano com Gestão de Pessoas;<br />3. Domínio das apurações de impostos diretos (IRPJ e CSLL) e indiretos (PIS, COFINS, ICMS e ISS);<br />4. Conhecimento avançado na Reforma Tributária (EC 132/2023 e LC 214/2025 – IBS, CBS e Imposto Seletivo);<br />5. Domínio das obrigações acessórias federais, estaduais e municipais (SPED Fiscal, EFD-Contribuições, EFD-Reinf, DCTFWeb e ECF);<br />6. Conhecimento em recuperação e compensação de créditos tributários e em planejamento tributário;<br />7. Conhecimento em parametrização fiscal de sistemas ERP;<br />8. Conhecimento em contabilidade.<br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Refeição/ Alimentação;</li><li>Vale Transporte ou Combustível;</li><li>Plano de Saúde;</li><li>Plano odontológico;</li><li>Seguro de Vida;</li><li>Total Pass;</li><li>Day off - Aniversário;</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/grupopulsacarreiras/33/coordenador-fiscal?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[54295074]]></companyId>
+    <city><![CDATA[Belo Horizonte]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[83090eba-03f5-47fc-81dc-6df9e8273197]]></partnerJobId>
