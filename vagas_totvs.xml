@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 11 Nov 2026 18:18:17 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 19:22:13 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[4215]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4214]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c92bacd9-7fb5-4943-b2f3-6a27e5001ae8]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c92bacd9-7fb5-4943-b2f3-6a27e5001ae8]]></partnerRequisitionId>
@@ -1070,6 +1070,26 @@ Salário + Produtividade;</li></ul>]]></description>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[54681258-03d0-41ed-b748-6f7bfe1acd91]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[54681258-03d0-41ed-b748-6f7bfe1acd91]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de Software Backend Sênior - Go | Inteligência Artificial (Remoto)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar como AI Engineer no time Smart Harness, desenvolvendo soluções de engenharia de software baseadas em Inteligência Artificial que ampliem a produtividade dos desenvolvedores. O profissional atuará na evolução de agentes, integrações com modelos de linguagem, ferramentas e mecanismos de contexto, transformando necessidades de produto em recursos confiáveis e utilizáveis na plataforma.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Desenvolver e evoluir serviços, APIs, CLIs e ferramentas em Go para a plataforma Smart Harness.</li><li>Implementar integrações com LLMs, agentes de IA, MCP Servers, tools e skills.</li><li>Desenvolver mecanismos de recuperação e contextualização de informações, incluindo RAG quando aplicável ao caso de uso.</li><li>Implementar fluxos de tool calling, function calling e execução segura de ações por agentes.</li><li>Criar mecanismos para fornecer contexto de código, documentação e conhecimento técnico aos modelos.</li><li>Explorar e aplicar técnicas de prompt engineering, gerenciamento de contexto e memória de agentes.</li><li>Desenvolver e manter testes automatizados, avaliações e observabilidade para medir a qualidade, confiabilidade e segurança das respostas e ações dos agentes.</li><li>Investigar falhas de integração e comportamento dos agentes, propondo correções sustentáveis.</li><li>Participar das decisões de arquitetura e da evolução técnica dos serviços do Smart Harness.</li><li>Documentar decisões, integrações e padrões técnicos do produto.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Superior completo em tecnologia e afins (desejável).</li><li>Experiência com desenvolvimento de software backend e conhecimento em Go.</li><li>Conhecimento de arquitetura de software, APIs HTTP, Git, containers e testes automatizados.</li><li>Experiência prática ou forte interesse em desenvolvimento assistido por IA, agentes ou coding agents.</li><li>Conhecimento de LLMs, prompt engineering, tool calling, MCP, RAG, embeddings e integração com modelos de linguagem.</li><li>Capacidade de analisar código, investigar comportamentos complexos e realizar troubleshooting de integrações distribuídas.</li><li>Boa compreensão de segurança, observabilidade e confiabilidade de serviços backend.</li><li>Experiência com CLIs, SDKs, plugins, parsers, AST ou Language Servers será considerada um diferencial.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/13152/tech-engenharia-de-software-backend-senior-go-inteligencia-artificial-remoto?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -3652,13 +3672,33 @@ das atividades junto ao time.</li></ul><br /><br /><b>Benefícios</b><br /><br /
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[54681258-03d0-41ed-b748-6f7bfe1acd91]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[54681258-03d0-41ed-b748-6f7bfe1acd91]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[64d8b925-8ad0-45bd-8529-967cce0e2ab6]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[64d8b925-8ad0-45bd-8529-967cce0e2ab6]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Engenharia de Software Backend Sênior - Go | Inteligência Artificial (Remoto)]]></title>
+    <title><![CDATA[[CX] Especialista de Customer Experience | Cloud]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Atuar como AI Engineer no time Smart Harness, desenvolvendo soluções de engenharia de software baseadas em Inteligência Artificial que ampliem a produtividade dos desenvolvedores. O profissional atuará na evolução de agentes, integrações com modelos de linguagem, ferramentas e mecanismos de contexto, transformando necessidades de produto em recursos confiáveis e utilizáveis na plataforma.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Desenvolver e evoluir serviços, APIs, CLIs e ferramentas em Go para a plataforma Smart Harness.</li><li>Implementar integrações com LLMs, agentes de IA, MCP Servers, tools e skills.</li><li>Desenvolver mecanismos de recuperação e contextualização de informações, incluindo RAG quando aplicável ao caso de uso.</li><li>Implementar fluxos de tool calling, function calling e execução segura de ações por agentes.</li><li>Criar mecanismos para fornecer contexto de código, documentação e conhecimento técnico aos modelos.</li><li>Explorar e aplicar técnicas de prompt engineering, gerenciamento de contexto e memória de agentes.</li><li>Desenvolver e manter testes automatizados, avaliações e observabilidade para medir a qualidade, confiabilidade e segurança das respostas e ações dos agentes.</li><li>Investigar falhas de integração e comportamento dos agentes, propondo correções sustentáveis.</li><li>Participar das decisões de arquitetura e da evolução técnica dos serviços do Smart Harness.</li><li>Documentar decisões, integrações e padrões técnicos do produto.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Superior completo em tecnologia e afins (desejável).</li><li>Experiência com desenvolvimento de software backend e conhecimento em Go.</li><li>Conhecimento de arquitetura de software, APIs HTTP, Git, containers e testes automatizados.</li><li>Experiência prática ou forte interesse em desenvolvimento assistido por IA, agentes ou coding agents.</li><li>Conhecimento de LLMs, prompt engineering, tool calling, MCP, RAG, embeddings e integração com modelos de linguagem.</li><li>Capacidade de analisar código, investigar comportamentos complexos e realizar troubleshooting de integrações distribuídas.</li><li>Boa compreensão de segurança, observabilidade e confiabilidade de serviços backend.</li><li>Experiência com CLIs, SDKs, plugins, parsers, AST ou Language Servers será considerada um diferencial.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/13152/tech-engenharia-de-software-backend-senior-go-inteligencia-artificial-remoto?applicationSource=0]]></applyUrl>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Formação: Graduação nas áreas de Tecnologia da Informação ou afins;</li><li>Desejável Pós-Graduação ou especialização na área de atuação;</li><li>Conhecimentos específicos:</li><li>Administração de ambientes relacionados ao produto TOTVS – nível Avançado;</li><li>Implantação Funcional e desenvolvimento do produto TOTVS – nível Básico;</li><li>Infraestrutura e Datacenter – nível Avançado;</li><li>Infraestrutura de Nuvens públicas – nível Intermediário;</li><li>Ferramentas de automação – nível Avançado;</li><li>Certificações:</li><li>ITIL Foundation - Information Technology Infrastructure Library;</li><li>Sistemas operacionais ou Banco de dados;</li></ul><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Disseminar o conhecimento, garantindo evolução e qualidade ao atendimento, por meio de desenvolvimento de treinamentos e materiais técnicos de consulta;</li><li>Garantir a evolução do time, apoiando e eventualmente assumindo o atendimento aos clientes;</li><li>Mobilizar os times de Cloud para atuação em casos de alta complexidade, garantindo os tempos de atendimento definidos no processo e sendo referência técnica nas discussões em prol da solução;</li><li>Fornecer status das demandas em evolução (quando solicitado pelo cliente e/ou equipes internas), por meio de canais de atendimento (telefônico, por e-mail, sistema);</li><li>Posicionar a coordenação sobre as solicitações ou incidentes que não forem evoluídos (após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área), por meio de registro de tickets contendo a descrição das ações realizadas e seus resultados;</li><li>Apoiar no desenvolvimento do time por meio da multiplicação de conhecimento;</li><li>Ser referência ética e comportamental, promovendo o bom relacionamento dentro da equipe e entre equipes;</li><li>Definir e executar mudanças nos ambientes, tendo ampla visão dos riscos e impactos, avaliando infraestrutura, padrões de Cloud e necessidades, conforme melhores práticas;</li><li>Garantir conformidade dos ambientes perante as diretrizes de seguranças, bem como assegurar a acuracidade do CMDB, por meio do acompanhamento da ferramenta de monitoramento;</li><li>Atuar ativamente nos processos de Gestão de Incidentes, Gestão de Problemas e Gestão de Capacidade, acompanhando as demandas diárias e propondo soluções definitivas;</li><li>Estudar, desenvolver e implementar melhorias (tendo em vista as melhores práticas dos Produtos TOTVS), de forma alinhada às diretrizes de Governança e Segurança, por meio de treinamentos formais;</li><li>Sugerir, acompanhar e implantar automações para os processos e produtos Cloud, por meio de acompanhamento de indicadores de eficiência e demanda da área;</li><li>Atuar em análises e operações avançadas em situações de crises, identificando inconsistências e propondo soluções de contorno e definitivas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação: Graduação nas áreas de Tecnologia da Informação ou afins;</li><li>Desejável Pós-Graduação ou especialização na área de atuação;</li><li>Conhecimentos específicos:</li><li>Administração de ambientes relacionados ao produto TOTVS – nível Avançado;</li><li>Implantação Funcional e desenvolvimento do produto TOTVS – nível Básico;</li><li>Infraestrutura e Datacenter – nível Avançado;</li><li>Infraestrutura de Nuvens públicas – nível Intermediário;</li><li>Ferramentas de automação – nível Avançado;</li><li>Certificações:</li><li>ITIL Foundation - Information Technology Infrastructure Library;</li><li>Sistemas operacionais ou Banco de dados.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/13154/cx-especialista-de-customer-experience-cloud?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[09d3c041-1f7b-4d26-9518-855a1fd626cb]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[09d3c041-1f7b-4d26-9518-855a1fd626cb]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Especialista em Engenharia de Software - SRE | Powershell]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Ser uma referência técnica na concepção, desenvolvimento e implementação de soluções de engenharia aplicadas à infraestrutura Cloud, integrando conhecimentos avançados de sistemas operacionais, desenvolvimento de software, automação e Inteligência Artificial;</li><li>Atuar na construção de soluções escaláveis que simplifiquem a gestão dos ambientes, automatizem atividades operacionais, reduzam intervenções manuais e aumentem a eficiência, estabilidade e confiabilidade dos serviços;</li><li>Aplicar conceitos de engenharia de software e inteligência artificial para multiplicar a capacidade de entrega, promovendo inovação e evolução contínua dos processos de gestão da infraestrutura.</li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Projetar, desenvolver e implementar ferramentas, aplicações, scripts e soluções de automação para otimizar a administração e gestão dos ambientes Cloud;</li><li>Desenvolver soluções que permitam escalar a execução de atividades operacionais e a gestão de grandes volumes de servidores Windows e Linux;</li><li>Liderar tecnicamente iniciativas de automação, identificando oportunidades de melhoria e propondo soluções para desafios complexos de infraestrutura;</li><li>Desenvolver frameworks, componentes e bibliotecas reutilizáveis, promovendo padronização e eficiência operacional;</li><li>Implementar e evoluir pipelines de automação e integração contínua, utilizando ferramentas como Jenkins e outras soluções de CI/CD;</li><li>Desenvolver automações para provisionamento, configuração, manutenção, atualização e administração de sistemas operacionais;</li><li>Implementar integrações entre plataformas e ferramentas de infraestrutura por meio de APIs e serviços;</li><li>Aplicar boas práticas de desenvolvimento de software, incluindo versionamento de código, testes automatizados, documentação e qualidade das soluções;</li><li>Definir padrões técnicos e boas práticas para desenvolvimento e execução de automações em larga escala;</li><li>Avaliar novas tecnologias, ferramentas e arquiteturas que contribuam para a evolução da gestão e automação dos ambientes;</li><li>Aplicar Inteligência Artificial no ciclo de desenvolvimento de software e automação, utilizando ferramentas de IA para acelerar a construção de soluções e ampliar a produtividade;</li><li>Utilizar abordagens de Vibe Coding e desenvolvimento assistido por IA para prototipação, criação de scripts, automações, aplicações e ferramentas internas;</li><li>Explorar e desenvolver soluções baseadas em IA, incluindo agentes, skills, assistentes e integrações que contribuam para automatizar atividades e ampliar a capacidade operacional dos times;</li><li>Identificar oportunidades de aplicação de IA nos processos de infraestrutura e operações, promovendo ganhos de escala, eficiência e redução de atividades manuais;</li><li>Garantir a qualidade, segurança e confiabilidade das soluções desenvolvidas com auxílio de IA, aplicando processos de revisão, validação e testes;</li><li>Atuar em conjunto com equipes de Infraestrutura, SRE, Desenvolvimento e Operações, promovendo a disseminação de conhecimento e a evolução tecnológica.</li></ul><br /><br /><br />  <br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Ciência da Computação, Engenharia da Computação, Sistemas de Informação ou áreas correlatas;</li><li>Experiência sólida em desenvolvimento de software e automação aplicados a ambientes de infraestrutura;</li><li>Experiência avançada com administração e troubleshooting de sistemas operacionais Windows Server e Linux;</li><li>Experiência no desenvolvimento de soluções e automações utilizando Python e PowerShell;</li><li>Experiência com ferramentas de automação, orquestração e gerenciamento de configurações;</li><li>Vivência com desenvolvimento e manutenção de pipelines de CI/CD;</li><li>Experiência na integração de plataformas e serviços por meio de APIs;</li><li>Vivência com ambientes Cloud e infraestrutura de médio ou grande porte;</li><li>Capacidade de projetar soluções escaláveis, reutilizáveis e resilientes;</li><li>Experiência prática na utilização de ferramentas de Inteligência Artificial como apoio ao desenvolvimento de software e automações;</li><li>Sistemas operacionais e infraestrutura</li><li>Windows Server e Linux, incluindo administração avançada, troubleshooting, análise de desempenho e gerenciamento de recursos;</li><li>Arquitetura de infraestrutura, virtualização e ambientes Cloud;</li><li>Desenvolvimento e scripting</li><li>Python e PowerShell;</li><li>Desenvolvimento de aplicações, APIs, integrações e bibliotecas reutilizáveis;</li><li>Boas práticas de engenharia de software, testes automatizados e versionamento de código com Git;</li><li>Automação, orquestração e CI/CD</li><li>Jenkins: construção e manutenção de pipelines de automação e integração contínua;</li><li>Ansible e AWX: automação de configuração, provisionamento e administração de ambientes;</li><li>Terraform: infraestrutura como código (IaC) e provisionamento automatizado;</li><li>Git: versionamento, colaboração e gestão do ciclo de desenvolvimento;</li><li>Experiência com ferramentas de orquestração e execução de rotinas automatizadas;</li><li>Inteligência Artificial aplicada ao desenvolvimento</li><li>Utilização prática de ferramentas de IA para desenvolvimento de software, scripts e automações;</li><li>Conhecimento de abordagens de Vibe Coding e desenvolvimento assistido por IA;</li><li>Utilização de IA para geração, análise, refatoração e otimização de código, documentação e testes;</li><li>Capacidade de desenvolver e utilizar agentes, skills e assistentes inteligentes;</li><li>Conhecimento de integração de ferramentas e serviços com modelos de IA;</li><li>Arquitetura e confiabilidade</li><li>Conceitos e práticas de SRE, DevOps e Engenharia de Confiabilidade;</li><li>Observabilidade, monitoramento e automação de respostas operacionais;</li><li>Arquitetura de soluções escaláveis, resilientes e de alta disponibilidade;</li><li>Integração entre sistemas e plataformas por meio de APIs REST.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/13155/tech-especialista-em-engenharia-de-software-sre-powershell?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -10164,26 +10204,6 @@ Idioma/Suporte de Idioma (inglês/coreano).
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[5619b895-860a-44b6-b5bc-803961013302]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[5619b895-860a-44b6-b5bc-803961013302]]></partnerRequisitionId>
-    <company><![CDATA[MOTOMCO]]></company>
-    <title><![CDATA[Vendedor / Closer]]></title>
-    <posterEmail><![CDATA[bruno.martins@motomco.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Salario fixo + Comissão;</li><li>Contrato CLT;</li><li>Seg à Sex - carga horária de 44 hrs.</li></ul><br /><br />Estamos em busca de profissionais dinâmicos que desejam fazer parte de uma equipe comprometida em proporcionar experiências memoráveis aos nossos clientes enquanto impulsionam as vendas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prospectar novos clientes visando a venda dos produtos da empresa;</li><li>Gerar a proposta e encaminhar ao cliente, assim como manter contato para fechamento da venda.</li><li>Negociar prazos e condições, conforme orientações da gestão;</li><li>Acompanhar a entrega dos pedidos dentro dos prazos negociados com o cliente.</li><li>Manter o relacionamento comercial ativo com os clientes em potencial e aos fidelizados;</li><li>Acompanhamento de carteira de clientes ativos.</li><li>Cadastro de pedidos, para controle e faturamento, quando necessário;</li><li>Contato com clientes, via e-mail, DigiSac ou telefone;</li><li>Manter-se atualizada sobre mudanças de mercado;</li><li>Realizar viagens a clientes ou feiras conforme necessidade.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Superior completo em Gestão Comercial, Vendas ou áreas correlatas.</li><li>Excel Intermediário.</li><li>Experiência prévia em atendimento ao cliente e vendas.</li><li>Experiência com a venda consultiva e remota, sistema CRM e vendas B2B e B2C.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de Saúde Unimed – cuidado com a saúde, foco em prevenção e qualidade de vida.</li><li>Vale Refeição – R$ 60,00 por dia, com desconto 1%.</li><li>Vale Transporte (VT) – desconto reduzido de 3% em folha.</li><li>Auxílio Medicamento – R$ 180,00 mensais para apoio com despesas farmacêuticas.</li><li>Plataforma de Saúde Mental – apoio ao bem-estar emocional e psicológico.</li><li>TotalPass – acesso a academias e atividades físicas.</li><li>Day Off no aniversário – um dia de folga para celebrar sua data.</li><li>Clube de Descontos (Clube Gazeta) – descontos em diversos parceiros.</li><li>Licença parental estendida – +15 dias para mães e +5 dias para pais.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/timemotomco/102/vendedor-closer?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[10046699]]></companyId>
-    <city><![CDATA[Curitiba]]></city>
-    <state><![CDATA[Paraná]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[a6d11ad0-fbfb-4250-833c-777dfe19ff3e]]></partnerJobId>
@@ -19206,6 +19226,26 @@ propostas, para aperfeiçoar o sistema existente.</li></ul><br /><br /><b>Requis
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[d776cead-a948-41c0-9ee6-fab0136493bf]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[d776cead-a948-41c0-9ee6-fab0136493bf]]></partnerRequisitionId>
+    <company><![CDATA[Engetel Automação e Segurança]]></company>
+    <title><![CDATA[Montador de Painéis - Blumenau]]></title>
+    <posterEmail><![CDATA[rh@grupoengetel.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você possui experiência em montagem de painéis elétricos e busca uma oportunidade para crescer em uma empresa sólida no segmento de automação e segurança? Essa vaga pode ser para você!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />✔ Montagem e fiação de painéis de automação, escadas pressurizadas e iluminação de emergência;<br />✔ Leitura e interpretação de diagramas elétricos;<br />✔ Realização de testes de funcionamento e checklist de qualidade;<br />✔ Identificação e correção de possíveis falhas de montagem;<br />✔ Apoio técnico à equipe de instalação durante comissionamentos.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação técnica em Eletrônica, Eletromecânica ou áreas correlatas.<br /> <br /><br /><br /><br /><b>Benefícios</b><br /><br />Cartão-alimentação/refeição, vale-transporte, estacionamento, seguro de vida, convênio Sesc, Wellhub, Conexa, plano de saúde básico, uniforme, plano de cargos e salários. Após um ano: 50% da graduação (em áreas relacionadas ao segmento da empresa).<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/paginadecarreirasengetel/37/montador-de-paineis-blumenau?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[1068014]]></companyId>
+    <city><![CDATA[Blumenau]]></city>
+    <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[59bd0696-81ca-497a-90a5-969c6bc3234c]]></partnerJobId>
     <partnerRequisitionId><![CDATA[59bd0696-81ca-497a-90a5-969c6bc3234c]]></partnerRequisitionId>
     <company><![CDATA[Engetel Automação e Segurança]]></company>
@@ -22592,6 +22632,26 @@ Se você quer dar o primeiro passo na área industrial e aprender na prática, e
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[98500ec8-7659-42c5-a281-f4be27b529f2]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[98500ec8-7659-42c5-a281-f4be27b529f2]]></partnerRequisitionId>
+    <company><![CDATA[CHINA GATE]]></company>
+    <title><![CDATA[CONSUTOR COMERCIAL]]></title>
+    <posterEmail><![CDATA[rh1@chinagate.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Quer GANHAR DINHEIRO e construir uma carreira de sucesso? A gente tem o mapa do tesouro!<br />A China Gate está crescendo aceleradamente e buscamos profissionais apaixonados por metas, comunicativos e com sede de resultado para fazer parte desse time!<br />Se você tem atitude, dinamismo e vontade de fazer acontecer, o seu lugar é aqui. Quem vende, ganha. Quem ganha, realiza sonhos!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />O que você vai fazer?<br />- Qualificar leads e direcionar as melhores soluções para cada cliente.<br />- Realizar atendimento multicanal (WhatsApp, E-mail, Redes Sociais, Chat, Telefone e Vídeochamadas).<br />- Vender serviços e soluções: Consultorias, Pesquisas, Importação Digital e Cursos.<br />- Agendar e conduzir reuniões comerciais, apresentando propostas e esclarecendo dúvidas sobre processos de importação.<br />- Fazer o acompanhamento (follow-up) ativo de propostas para fechamento de negócios.<br />- Enviar dados para o setor Financeiro (emissão de NFs e controle de comissão).<br />- Direcionar clientes pós-venda para o suporte interno.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Experiência prévia na área Comercial / Vendas.<br />- Domínio de Técnicas de Vendas e negociação.<br />Excelente comunicação interpessoal e poder de persuasão.<br />- Organização e proatividade para gerir suas rotinas.<br /><br /><br /><b>Benefícios</b><br /><br />VALE ALIMENTAÇÃO / REFEIÇÃO VALUU - R$ 27,05 por dia trabalhado. Desconto de 20% sobre o<br />valor creditado no cartão. Casos em que há perda do Vale Alimentação: Faltas e Férias;<br />• VALE TRANSPORTE - Valor creditado no cartão do ônibus. Desconto de 6% do salário fixo;<br />• PLANO ODONTOLÓGICO- R$ 22,94 por mês e por pessoa. Adesão: R$ 10,00 (taxa única). É<br />possível a inclusão de pessoas da família;<br />• Acesso à assinatura GYMPASS - Descontos em academias (aulas de dança, luta e etc).;<br />• DAY OFF pelo seu aniversário e NO DRESS CODE. sinta-se confortável para utilizar suas roupas;<br />• CONVÊNIO COM FACULDADES E ESCOLA DE INGLÊS - Descontos para cursos de Graduação e Pós Graduação. Faculdades: Unicesumar, Unifamma, Influx (presencial), Open English (online);<br />• FOLGA NO DIA DO EXAME ANUAL (GINICOLOGISTA e UROLOGISTA) - Folga integral no dia do<br />exame de coleta;<br />• CONVÊNVIO DESCONTO COMBUSTÍVEL- DESCONTOS em diversos postos cadastrados DE R$ 0,10<br />por litro abastecido;<br />• DESCONTOS EM FARMÁCIAS - DESCONTOS DE ATÉ 60% em diversas redes de farmácias;<br />• CONVÊNVIO REDE CROSS - DESCONTO DE ATÉ 60% em consultas e exames;<br />• PLANO DE SAÚDE UNIMED - Plano: Unipro II, Abrangência: Regional / Grupo de Municípios,<br />Coparticipação:30% em Consultas e Exames (CLTs) e 50% (PJs), Cobertura para Urgência e<br />Emergência em todo território nacional.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/chinagate/95/consutor-comercial?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3624146]]></companyId>
+    <city><![CDATA[Maringá]]></city>
+    <state><![CDATA[Paraná]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[76d3924a-53ee-42cb-af00-723de813da4b]]></partnerJobId>
@@ -38944,41 +39004,6 @@ para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[d72c7ca2-17b7-4b56-8586-80eb8398bd09]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[d72c7ca2-17b7-4b56-8586-80eb8398bd09]]></partnerRequisitionId>
-    <company><![CDATA[Delta Sucroenergia]]></company>
-    <title><![CDATA[Analista Administrativo PL - PCMA]]></title>
-    <posterEmail><![CDATA[samuel.loureiro@deltasucroenergia.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A Delta Sucroenergia está em busca de um(a) profissional engajado(a) para se juntar à nossa equipe! Se você é apaixonado(a) pelo agronegócio, tem experiência na função e busca um ambiente de trabalho dinâmico e desafiador, essa pode ser a oportunidade ideal para você. Vem ser Delta!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Monitorar o ciclo de
-     vida dos pneus, desde o cadastro até sua eliminação;</li>
- <li>Monitorar testes,
-     reformas e garantias, assegurando o melhor desempenho e custo-benefício
-     dos ativos;</li>
- <li>Desenvolver relatórios
-     gerenciais e indicadores de desempenho (KPIs) para suporte à tomada de
-     decisão;</li>
- <li>Validar orçamentos e
-     controlar custos relacionados à gestão de pneus;</li>
- <li>Realizar auditorias e
-     inspeções operacionais, garantindo a aderência aos procedimentos e a
-     confiabilidade das informações;</li>
- <li>Controlar inventários e estoque de pneus, assegurando a rastreabilidade e a
-     acuracidade dos registros.</li>
-</ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Curso superior em andamento em Engenharia Mecânica ou áreas afins;</li><li>CNH B;</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração Competitiva</li><li>Vale Alimentação</li><li>Plano de Saúde </li><li>Plano Odontológico</li><li>Refeitório</li><li>Transporte Fretado</li><li>Convênio com farmácias, universidades e clubes</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdelta/2062/analista-administrativo-pl-pcma?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2796119]]></companyId>
-    <city><![CDATA[Delta]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[ca9296c3-713b-4c84-8a54-47a68988bb5b]]></partnerJobId>
     <partnerRequisitionId><![CDATA[ca9296c3-713b-4c84-8a54-47a68988bb5b]]></partnerRequisitionId>
     <company><![CDATA[Delta Sucroenergia]]></company>
@@ -40542,46 +40567,6 @@ Você também vai atuar na implantação de novos clientes, entre eles algumas d
 Buscamos alguém com base sólida de redes e autonomia para levar cada caso do começo ao fim da implantação técnica.<br /><br />
 Grande parte do trabalho é conversa direta com a equipe de TI do cliente. Saber explicar o problema e orientar o que precisa ser feito pesa tanto quanto o conhecimento técnico.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Diagnosticar falhas no Captive Portal: integração com controladoras e APs, RADIUS, redirecionamento, walled garden, DNS;</li><li>Atuar na implantação de novos clientes: configuração de equipamento e integração com a rede do cliente;</li><li>Dar suporte técnico ao Wi-Fi Pass: apoiar na configuração da rede do cliente para se comunicar com a plataforma (criação do SSID, conexão com RADIUS, VLAN dinâmica) e diagnosticar falhas de conexão dos dispositivos;</li><li>Conversar com a equipe de TI do cliente na implantação e no atendimento: alinhar o que precisa ser feito, orientar a configuração e explicar o diagnóstico;</li><li>Assumir os chamados escalados pelo N1 e pela IA de atendimento no Intercom;</li><li>Identificar problemas recorrentes e propor melhoria de produto e de processo.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>3 anos ou mais em redes (NOC, operação, suporte ou implantação);</li><li>Domínio de TCP/IP, DHCP, DNS, NAT e VLAN;</li><li>Vivência com Wi-Fi corporativo, firewall e controladora de APs;</li><li>Diagnóstico com ferramenta: ping, traceroute, nslookup/dig, Wireshark ou tcpdump;</li><li>Boa comunicação com cliente, escrita e verbal: explicar um problema técnico com clareza, inclusive para quem não é da área;</li><li>Autonomia para conduzir o caso até o fim e manter o time informado do andamento.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Remuneração competitiva;</li><li>Variável por resultados;</li><li>Trabalho 100% remoto;</li><li>Apoio para cursos, certificações e desenvolvimento profissional;</li><li>Benefícios flexíveis de saúde e bem-estar (academia, farmácia e consultas);</li><li>Day off no aniversário;</li><li>Encontro anual em Floripa.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaswifeed/32/analista-de-redes-suporte-e-implantacao?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[25066575]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1d108484-9de1-4e69-aa8f-43ad2921678f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[1d108484-9de1-4e69-aa8f-43ad2921678f]]></partnerRequisitionId>
-    <company><![CDATA[WiFeed]]></company>
-    <title><![CDATA[Tech Product Owner]]></title>
-    <posterEmail><![CDATA[contato@wifeed.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Essa é uma vaga para quem gosta de entender como produtos tecnológicos complexos funcionam de verdade: investigar fluxos, conversar com especialistas, conectar informações e transformar conhecimento técnico em algo claro, organizado e útil para outras pessoas.O WiFeed está na interseção entre software, redes Wi-Fi corporativas, autenticação, segurança e integrações com equipamentos de diferentes fabricantes. Nosso produto se conecta à infraestrutura de cada cliente, então lida com uma variedade grande de cenários técnicos — por isso, essa pessoa precisa ter alguma vivência prática em redes corporativas, não só facilidade para aprender.Sua missão inicial: aprofundar-se na plataforma, entender fluxos e integrações, e transformar esse conhecimento em documentação clara. Conforme se tornar referência técnica sobre o produto, você passa a atuar mais ativamente em Produto, investigando problemas, priorizando, participando de refinamentos e acompanhando entregas.Você fará parte da área de Produto, em contato constante com a Líder de Produto, CTO, Tech Lead, desenvolvedores e os times de Suporte e Implantação.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Aprofundar-se nos fluxos, integrações e regras de negócio da plataforma.</li><li>Mapear gaps de documentação e conhecimento junto com Produto, Dev e Suporte.</li><li>Capturar conhecimento técnico não registrado, via conversas com CTO, dev e suporte.</li><li>Criar e manter documentação técnica (configurações, integrações, comportamentos, limitações) em formatos didáticos, como manuais, guias, FAQs, checklists.</li><li>Participar de refinamentos e acompanhar homologações/lançamentos, garantindo que Suporte e Implantação estejam preparados.</li><li>Validar materiais com quem lida com o problema no dia a dia.</li><li>Estruturar processos para manter a documentação viva e não um projeto único.</li><li>Evoluir gradualmente para responsabilidades mais amplas de Produto.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prática com redes corporativas: Wi-Fi, autenticação de rede (802.1X, RADIUS) ou suporte técnico avançado a infraestrutura de TI </li><li>Experiência técnica prévia em produtos de tecnologia, com integrações, APIs, logs e configurações.</li><li>Ótima comunicação escrita e didática; facilidade para conversar com pessoas técnicas e organizar informação dispersa.</li><li>Capacidade de diferenciar sintoma de causa.</li><li>Autonomia, curiosidade e senso de ownership.</li><li>Capacidade de contextualizar problemas, diferenciar sintomas de causas e sintetizar informações técnicas.</li><li>Organização e disciplina para manter materiais atualizados.</li><li>Curiosidade, autonomia, senso de ownership e vontade de se tornar uma referência técnica sobre o produto.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Trabalho 100% remoto</li><li>Colab+: </li><ul><li>Wellhub/Gympass</li><li>Starbem</li><li>Avus</li><li>Dasa</li><li>Clube iFood</li></ul><li>Verba de apoio para capacitação e desenvolvimento profissional</li><li>Day off no aniversário</li><li>Encontro anual em Floripa</li><li>Cultura de autonomia, verdade, foco em execução e ambição real de construir algo grande</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaswifeed/31/tech-product-owner?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[25066575]]></companyId>
-    <city><![CDATA[Florianópolis]]></city>
-    <state><![CDATA[Santa Catarina]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[195b8eb7-3dd5-4521-b03d-dd093ad2e872]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[195b8eb7-3dd5-4521-b03d-dd093ad2e872]]></partnerRequisitionId>
-    <company><![CDATA[WiFeed]]></company>
-    <title><![CDATA[Analista Financeiro e Administrativo (Pleno)]]></title>
-    <posterEmail><![CDATA[contato@wifeed.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Essa é uma vaga para quem gosta de rotina financeira bem-feita, organização e números que fecham.<br /><br />Hoje nossa área financeira é enxuta: uma gestora e um BPO financeiro cuidando de mais de 800 clientes e dando suporte a um time de 36 pessoas. Buscamos alguém para atuar como braço direito da nossa gestora financeira, com forte atuação nas rotinas de tesouraria, contas a receber, fechamento e atividades administrativas.<br /><br />Na prática, você será uma das pessoas responsáveis por fazer o mês fechar: <b>emissão de boletos e segundas vias, cobrança, lançamento e atualização de contratos no ERP, conferência das entregas do BPO, notas fiscais, conciliações, controles financeiros e apoio às rotinas administrativas da empresa.</b><br /><br />Mas não é só execução. Você também vai ajudar a produzir e manter os dados utilizados na gestão do negócio, como composição de MRR, churn, downsell, upsell, forecast e fluxo de caixa realizado e previsto. Essas informações fazem parte das nossas reuniões mensais de fechamento e são utilizadas diretamente pelo CEO e pela liderança na tomada de decisão.<br /><br />Procuramos alguém organizado, cuidadoso e que tenha prazer em ver as coisas fechando. Uma pessoa que perceba quando um número não bate, investigue antes de alguém pedir e não deixe uma pendência simplesmente passar para o próximo mês.<br /><br />Ao mesmo tempo, nosso financeiro se relaciona diretamente com clientes, fornecedores, BPO, contabilidade e diferentes áreas da empresa. Por isso, buscamos alguém cordial, prático, com senso de responsabilidade e que goste de resolver problemas.<br /><br /><b>A posição é predominantemente remota, mas buscamos alguém que resida na Grande Florianópolis/SC, </b>pois existem atividades presenciais pontuais, como ida ao escritório, recebimento e envio de materiais, apoio com fornecedores e suporte à organização dos encontros presenciais do time.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Conduzir o contas a receber, incluindo emissão de boletos e segundas vias, acompanhamento da régua de cobrança, tratativa de inadimplência e apoio em renegociações;</li><li>Lançar e manter contratos atualizados no ERP, incluindo novos clientes, reajustes, upsells, downsells e encerramentos;</li><li>Acompanhar o calendário financeiro e conferir as rotinas de contas a pagar executadas pelo BPO;</li><li>Conferir conciliações bancárias, cartões, movimentações financeiras e posição de caixa;</li><li>Emitir e conferir notas fiscais, incluindo operações com retenções;</li><li>Conferir e validar as entregas do BPO financeiro, como pagamentos do período, conciliações e informações utilizadas no fechamento;</li><li>Apoiar a gestora financeira na rotina de fechamento mensal;</li><li>Manter atualizados os controles de fluxo de caixa realizado e previsto, inadimplência e composição de MRR;</li><li>Apoiar a consolidação de informações como churn, upsell, downsell e forecast;</li><li>Apoiar rotinas administrativas da empresa, como compra e envio de equipamentos, passagens, fornecedores e documentos;</li><li>Dar suporte operacional aos encontros presenciais do time e demais demandas pontuais relacionadas ao escritório em Florianópolis.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Residir na Grande Florianópolis/SC e ter disponibilidade para atividades presenciais pontuais;</li><li>Experiência consistente com rotinas financeiras e participação em fechamentos mensais;</li><li>Vivência sólida em contas a receber, cobrança e relacionamento direto com clientes;</li><li>Experiência com ERP financeiro e emissão de notas fiscais;</li><li>Excel ou Google Sheets em nível intermediário/avançado;</li><li>Organização e capacidade de controlar múltiplos prazos e rotinas encadeadas;</li><li>Rigor de conferência e atenção aos detalhes;</li><li>Autonomia para executar atividades sem necessidade de acompanhamento constante;</li><li>Comunicação clara e cordial: cobrança aqui também é relacionamento com o cliente;</li><li>Perfil prático, responsável e com disposição para colocar a mão na massa</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Trabalho 100% remoto</li><li>Colab+:</li><ul><li>Wellhub/Gympass</li><li>Starbem</li><li>Avus</li><li>Dasa</li><li>Clube iFood</li></ul><li>Verba de apoio para capacitação e desenvolvimento profissional</li><li>Day off no aniversário</li><li>Encontro anual em Floripa</li><li>Cultura de autonomia, verdade, foco em execução e ambição real de construir algo grande</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaswifeed/30/analista-financeiro-e-administrativo-pleno?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[25066575]]></companyId>
     <city><![CDATA[Florianópolis]]></city>
     <state><![CDATA[Santa Catarina]]></state>
@@ -48757,34 +48742,6 @@ Organização e atenção aos detalhes;</li><br /><br /><b>Benefícios</b><br />
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1d2dfe0e-2795-42eb-a8c5-0b1da0eca2b9]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[1d2dfe0e-2795-42eb-a8c5-0b1da0eca2b9]]></partnerRequisitionId>
-    <company><![CDATA[PROS Agência de Comunicação]]></company>
-    <title><![CDATA[Estágio em Business Intelligence (BI)]]></title>
-    <posterEmail><![CDATA[stela.sanches@pros.com.vc]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Somos uma agência de comunicação e relações públicas movida por estratégia, criatividade e dados. Acreditamos que decisões melhores são tomadas quando transformamos informações em insights relevantes para nossos clientes e para o negócio. Se você está querendo entrar na agência que põe na rua o PR mais criativo do mercado, com pessoa incríveis que realmente amam seu trabalho, essa é sua chance! Se liga nessa oportunidade: <br /><br /><br />Estamos em busca de uma pessoa curiosa, analítica e apaixonada por dados para integrar nosso time de Business Intelligence. Aqui, você terá a oportunidade de trabalhar com indicadores de comunicação, performance de campanhas, social listening, monitoramento de mídia e construção de dashboards que apoiam decisões estratégicas. <br /><br /><br /><b>O que você vai aprender na PROS:</b><br /><br /><br /><ul><li>Como medir o impacto de estratégias de comunicação e PR;</li><li>Construção de dashboards para clientes nacionais e globais;</li><li>Análise de reputação e presença de marca;</li><li>Social listening e monitoramento de tendências;</li><li>Transformação de dados em recomendações para negócios e comunicação.</li></ul><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar a coleta, organização e análise de dados de campanhas de comunicação e relações públicas;</li><li>Apoiar o desenvolvimento e atualização de dashboards e relatórios em ferramentas de Business Intelligence;</li><li>Auxiliar na consolidação de informações provenientes de diferentes fontes, como plataformas de monitoramento de mídia, redes sociais e pesquisas;</li><li>Apoiar o acompanhamento de KPIs e métricas de performance de clientes e projetos;</li><li>Participar da identificação de tendências, padrões e oportunidades a partir da análise de dados;</li><li>Auxiliar na construção de apresentações executivas com insights e recomendações;</li><li>Contribuir para a automatização de relatórios e aprimoramento de processos analíticos;</li><li>Trabalhar em parceria com equipes de Atendimento, Planejamento, Conteúdo e Digital.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Cursando graduação em:</b><b><br /></b><ul><li>Administração</li><li>Marketing</li><li>Estatística</li><li>Economia</li><li>Engenharia</li><li>Ciência de Dados</li><li>Sistemas de Informação</li><li>Publicidade e Propaganda</li><li>Relações Públicas ou áreas correlatas.</li></ul><br /><br /><br /><b>Serão considerados diferenciais:</b><br /><br /><br /><ul><li>Conhecimento em Excel;</li><li>Capacidade analítica e interpretação de dados;</li><li>Boa organização e atenção aos detalhes;</li><li>Inglês intermediário;</li><li>Conhecimento básico em Power BI;</li><li>Conhecimento básico de SQL;</li><li>Experiência com Google Analytics (GA4);</li><li>Familiaridade com métricas de redes sociais e marketing digital;</li><li>Conhecimento de ferramentas de monitoramento e social listening, como Brandwatch, Talkwalker, Stilingue, Buzzmonitor ou similares;</li><li>Conhecimento básico de automação e tratamento de dados.</li></ul><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Refeição (R$ 50,00 por dia útil)</li><li>Vale Transporte - Sem desconto</li><li>Estacionamento na PROS - Sem desconto</li><li>Seguro de Vida - CIEE</li><li>Plano Odontológico SulAmérica - Sem desconto</li><li>TotalPass</li><li>Starbem - Plataforma de Saúde Mental</li><li>Convênio com Parque da Mônica e Hello Park</li><li>Day off no dia do aniversário</li><li>Day off de Saúde Mental</li><li>Desconto de 10% em cursos da Miami Ad School</li><li>Desconto em MBA da USP/ESALQ</li><li>Desconto em curso de inglês - Open English</li><li>Desconto em cursos - EBAC (Escola Britânica de Artes Criativas)</li><li>Desconto em curso de graduação e pós-graduação - FECAP</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaspros/60/estagio-em-business-intelligence-bi?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[1275512]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[1621.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[1621.00]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[336581ce-4037-471d-bf6e-fad3840d3c48]]></partnerJobId>
@@ -59655,6 +59612,26 @@ em Fonoaudiologia.<br /><br /><b>Benefícios</b><br /><br /><ul><li>Totalpass </
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmicarreira/3501/fonoaudiologo-hec?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[24910672]]></companyId>
     <city><![CDATA[Feira de Santana]]></city>
+    <state><![CDATA[Bahia]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[4ec5e286-a725-44f8-8f2b-4e29acb10dc7]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[4ec5e286-a725-44f8-8f2b-4e29acb10dc7]]></partnerRequisitionId>
+    <company><![CDATA[Liga Álvaro Bahia Contra a Mortalidade Infantil - LABCMI]]></company>
+    <title><![CDATA[TECNICO DE ENFERMAGEM | HMG]]></title>
+    <posterEmail><![CDATA[lais.sena@labcmi.org.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Oportunidade para atuar como Técnico de Enfermagem na UTD (Unidade de Treinamento para Desospitalização), no Hospital Martagão Gesteira.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Prestar assistência direta ao paciente de forma segura, humanizada e contínua, livre de imperícia, negligência e imprudência, sob supervisão do enfermeiro.</li><li>Realizar leitura diária das ocorrências de enfermagem, garantindo continuidade do cuidado e registro das informações pertinentes aos processos assistenciais.</li><li>Conferir, assinar e executar a distribuição de pacientes, assegurando organização do cuidado e apoio às demandas assistenciais da unidade.</li><li>Executar procedimentos de admissão, transferência, alta e óbito conforme protocolos e POP institucionais, garantindo padronização e rastreabilidade das ações.</li><li>Realizar procedimentos de enfermagem não privativos do enfermeiro, conforme protocolos institucionais e boas práticas assistenciais.</li><li>Cumprir prescrições médicas e de enfermagem com atenção crítica, assegurando correta execução e registro oportuno das intervenções realizadas.</li><li>Preparar e administrar medicamentos conforme prescrição e orientação da equipe, respeitando limites de atuação e diretrizes institucionais, exceto aqueles de alta complexidade conforme normativas vigentes.</li><li>Monitorar sinais vitais e parâmetros clínicos, comunicando prontamente alterações e contribuindo para identificação precoce de riscos e deterioração clínica.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Curso Técnico em Enfermagem. Possui registro ativo no COREN.<br /><br /><b>Benefícios</b><br /><br />* Plano de saúde e odontológico; <br />* Refeitório na unidade;<br />* Total Pass; <br />* Day Off no aniversário; <br />* Desconto em redes de farmácias;<br />* Desconto em cursos de graduação e pós-graduação.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/labcmicarreira/4794/tecnico-de-enfermagem-hmg?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[24910672]]></companyId>
+    <city><![CDATA[Salvador]]></city>
     <state><![CDATA[Bahia]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -79223,6 +79200,26 @@ Alimentação na empresa.</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[b385322a-d0d4-4010-ab9e-e4fca7e2253d]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[b385322a-d0d4-4010-ab9e-e4fca7e2253d]]></partnerRequisitionId>
+    <company><![CDATA[Jeito Caseiro]]></company>
+    <title><![CDATA[Estágio em Engenharia de Processos]]></title>
+    <posterEmail><![CDATA[marcela.ribeiro@jeitocaseiro.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um estudante de Engenharia para apoiar a análise e a melhoria dos processos produtivos, contribuindo para o aumento da produtividade, a redução de desperdícios e a otimização dos recursos industriais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Coletar e analisar tempos de ciclo, mapear fluxos e apoiar o balanceamento das etapas de fabricação.</li><li>Acompanhar indicadores de desempenho, identificar perdas e apoiar planos de ação para melhoria da produtividade e redução de custos.</li><li>Atualizar procedimentos, roteiros de fabricação e relatórios técnicos, apoiando testes e validações de produtos, processos e equipamentos.</li><li>Participar de auditorias e programas de Segurança de Alimentos, dando suporte à Produção, Qualidade, P&amp;D e Manutenção.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursar Engenharia de Produção, Engenharia Mecânica ou áreas afins, com vínculo acadêmico ativo e disponibilidade presencial de segunda a sexta-feira.</li><li>Ter Excel intermediário, com domínio de fórmulas, tabelas dinâmicas e gráficos, e Power BI intermediário para tratamento de dados e elaboração de painéis.</li><li>Possuir noções de processos produtivos, indicadores de desempenho, análise de tempos e métodos e interpretação de fluxogramas.</li><li>Demonstrar capacidade analítica, atenção aos detalhes, organização de registros, clareza na comunicação e facilidade para trabalhar com diferentes áreas.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de Saúde</li><li>Plano odontológico</li><li>Vale Alimentação</li><li>Seguro de Vida</li><li>Transporte Fretado</li><li>Vale transporte </li><li>Pão do dia</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/jeitocaseiro/124/estagio-em-engenharia-de-processos?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11249464]]></companyId>
+    <city><![CDATA[Lavras]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[007d41ab-c7a4-4eb0-9c2f-f23fcacc8a95]]></partnerJobId>
     <partnerRequisitionId><![CDATA[007d41ab-c7a4-4eb0-9c2f-f23fcacc8a95]]></partnerRequisitionId>
     <company><![CDATA[Jeito Caseiro]]></company>
@@ -80894,26 +80891,6 @@ BIM da empresa.<br />
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[396bc912-1c6b-4d16-86bd-2fffd3220718]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[396bc912-1c6b-4d16-86bd-2fffd3220718]]></partnerRequisitionId>
-    <company><![CDATA[Real Distribuidora e Logística Ltda]]></company>
-    <title><![CDATA[MANUTENÇÃO PREDIAL]]></title>
-    <posterEmail><![CDATA[rh.selecao1@realdec.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Limpeza com vassouras e com maquina no pátio interno e externo ( real e real broker ) <br />poda arvores, jardins e gramas  ( real e real broker )<br />auxiliar nas funções de serviços gerais quando necessário<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Ser responsável por manter a limpeza, conservação e organização de ambientes internos.( real e real broker )<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino Fundamental.<br /><br /><b>Benefícios</b><br /><br />SalárioPrêmio Assiduidade<br />Alimentação na empresa<br />Plano de saúde <br />Plano odontologico <br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasrealdistibuidora/57/manutencao-predial?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[33236465]]></companyId>
-    <city><![CDATA[Aparecida de Goiânia]]></city>
-    <state><![CDATA[Goiás]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[ef343064-d175-4751-afe0-42592521319a]]></partnerJobId>
@@ -84136,26 +84113,6 @@ Comprometimento e responsabilidade.</li><br /><br /><b>Benefícios</b><br /><br 
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[7ce6fad9-256a-4ed7-9723-6774cddcc0ae]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[7ce6fad9-256a-4ed7-9723-6774cddcc0ae]]></partnerRequisitionId>
-    <company><![CDATA[IGREJA BATISTA ATITUDE]]></company>
-    <title><![CDATA[SECRETÁRIA ESCOLAR]]></title>
-    <posterEmail><![CDATA[tarsila.gomes@ibatitude.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Responsável por executar atividades administrativas e de atendimento da secretaria escolar, garantindo a organização, atualização e controle da documentação dos alunos, professores e demais registros acadêmicos, em conformidade com as normas e procedimentos da instituição de ensino.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimento presencial, telefônico e por e-mail a pais, responsáveis, alunos e colaboradores.</li><li>Efetuar matrículas, transferências e cancelamentos.</li><li>Organizar, atualizar e arquivar documentos e prontuários dos alunos.</li><li>Emitir declarações, históricos escolares, certificados e demais documentos acadêmicos.</li><li>Realizar lançamentos e atualizações de informações no sistema escolar.</li><li>Controlar e acompanhar a documentação dos alunos.</li><li>Apoiar a equipe pedagógica e a direção nas demandas administrativas.</li><li>Elaborar relatórios e planilhas de controle.</li><li>Zelar pela organização e pelo bom funcionamento da secretaria escolar.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo (desejável ensino superior em andamento).</li><li>Conhecimento em Pacote Office.<br /></li><li>Boa comunicação verbal e escrita.</li><li>Organização, atenção aos detalhes e proatividade.</li><li>Facilidade com sistemas e rotinas administrativas.</li><li>Experiência em secretaria escolar será um diferencial.<br />Conhecimento em Totvs Educacional. </li></ul><br /><br /><b>Benefícios</b><br /><br />Vale transporte<br />Seguro de Vida.<br />Vale Alimentação.<br />Plano Dental.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/carreirasiba/56/secretaria-escolar?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[13985838]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[cf13b331-87ea-4e4f-bbe2-caeb70a365ac]]></partnerJobId>
@@ -106639,6 +106596,31 @@ Manter-se atualizado(a) quanto à legislação tributária vigente.</li></ul><br
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[9bd8cebd-936d-4b61-ae64-1db5d67ba68f]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[9bd8cebd-936d-4b61-ae64-1db5d67ba68f]]></partnerRequisitionId>
+    <company><![CDATA[Escola Americana de Vitória]]></company>
+    <title><![CDATA[Estágio de Marketing]]></title>
+    <posterEmail><![CDATA[naara.molaes@escolaamericana.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Join the EAV Team!<br />---<br />Procuramos um(a) Estagiário(a) de Marketing para apoiar a comunicação e a presença digital da nossa escola, auxiliando no planejamento e nas postagens das redes sociais, na criação de conteúdo em português e inglês, no acompanhamento de métricas e na organização de campanhas e eventos, para fortalecer a imagem da instituição e o relacionamento com alunos, famílias e comunidade escolar.
+Local de trabalho: Presencial | Campus Aeroporto<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li><b>Comunicação, Redes Sociais e Produção de Conteúdo:  </b>Planejamento e publicação de conteúdos bilíngues (PT/EN) para redes sociais, site e canais internos, englobando a resposta a usuários, gestão do calendário editorial, tradução de materiais, cobertura fotográfica de eventos e organização do acervo de mídia.</li><li><b>Inteligência de Mercado, Métricas e Campanhas:  </b>Acompanhamento do desempenho digital (Meta Business Suite e Google Analytics) com emissão de relatórios, monitoramento da reputação da marca e da concorrência, além de suporte na execução de campanhas de matrícula, e-mail marketing e anúncios pagos (Meta/Google Ads).</li><li><b>Operação de Eventos, Suporte Administrativo e Processos:  </b>Apoio logístico em eventos institucionais, coleta de depoimentos para <i>employer branding</i>, cotação e negociação de materiais com fornecedores e organização do fluxo diário de tarefas via quadro Kanban no ClickUp.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Formação e Conhecimentos Técnicos:  </b>Matrícula ativa em graduação na área de Comunicação (Marketing, Publicidade, Design ou afins), com domínio das principais dinâmicas do Instagram, conhecimento básico em ferramentas de edição (Canva, CapCut ou similares) e boa comunicação oral e escrita em português.</li><li><b>Perfil Comportamental e Organizacional:  </b>Organização, atenção aos detalhes, responsabilidade no cumprimento de rotinas, proatividade para propor ideias, facilidade para trabalhar em equipe e abertura para aprender e receber orientações.</li><li><b>Fit Cultural e Requisitos Operacionais:  </b>Interesse autêntico pelo setor educacional, cuidado e empatia no contato com a comunidade escolar, e disponibilidade para atuação 100% presencial no horário estabelecido.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Transporte</li><li>Alimentação no local </li><li>Seguro de Vida</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/escolaamericanavagas/33/estagio-de-marketing?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11209252]]></companyId>
+    <city><![CDATA[Vitória]]></city>
+    <state><![CDATA[Espírito Santo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1300.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[87c97162-59e8-44f8-bd85-3814691bbb31]]></partnerJobId>
     <partnerRequisitionId><![CDATA[87c97162-59e8-44f8-bd85-3814691bbb31]]></partnerRequisitionId>
     <company><![CDATA[Escola Americana de Vitória]]></company>
@@ -118421,26 +118403,6 @@ Procuramos alguém com iniciativa para prospectar sem esperar direcionamento, qu
     <companyId><![CDATA[14819286]]></companyId>
     <city><![CDATA[Campinas]]></city>
     <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1161f852-03ee-4bb5-a4b4-d8266fcb8a9f]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[1161f852-03ee-4bb5-a4b4-d8266fcb8a9f]]></partnerRequisitionId>
-    <company><![CDATA[Connect Contabilidade]]></company>
-    <title><![CDATA[Auxiliar Fiscal/Contábil - Palmas / TO]]></title>
-    <posterEmail><![CDATA[phabliciacosta@souconnect.com]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma nova oportunidade e deseja fazer parte de um ambiente dinâmico e acolhedor? Temos uma excelente oportunidade para você se juntar à nossa equipe em uma função que promove o desenvolvimento profissional e o aprendizado constante. Aqui, valorizamos a colaboração, a criatividade e o engajamento, proporcionando um espaço onde as ideias são ouvidas e os talentos são reconhecidos. Ser parte de nossa equipe significa trabalhar em um ambiente que incentiva o crescimento e a inovação, contribuindo para a construção de um futuro sólido e promissor. Se você é uma pessoa proativa, que busca desafios e deseja se destacar em sua carreira, convidamos você a se candidatar e descobrir como é fazer parte de uma organização que valoriza suas aspirações. Venha transformar sua trajetória profissional conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>✓ Organizar documentos e efetuar sua classificação contábil;</li><li>✓ Gerar lançamentos contábeis;</li><li>✓ Auxiliar na apuração dos impostos;</li><li>✓ Conciliar contas e preenchimento de guias de recolhimento e de solicitações, junto a órgãos</li><li>do governo;</li><li>✓ Editar arquivo de aproveitamento de crédito;</li><li>✓ Enviar documentos para clientes, com controle;</li><li>✓ Elaborar demonstrações financeiras;</li><li>✓ Lançar despesa de fornecedores;</li><li>✓ Lançar extratos bancários;</li><li>✓ Auxiliar na conciliação bancária;</li><li>✓ Emitir notas de venda e de transferência;</li><li>✓ Executar rotinas de faturamento;</li><li>✓ Gerar os dados para preenchimento das guias;</li><li>✓ Entregar a declaração de imposto de renda pessoa jurídica;</li><li>✓ Analisar relatórios;</li><li>✓ Auxiliar em demandas gerais da área;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>✓ Formação desejável em Ciências Contábeis ou cursando; </li><li>✓ Simples Nacional; Sped Fiscal; Bloco H; ISSQN; DEFIS; EFD contribuições; Obrigações Estaduais;</li><li>✓ Cálculo ST – MVA e Pauta; Antecipação de ICMS; Diferencial de alíquota.</li><li>✓ Software DOMÍNIO;</li><li>✓ Software Tron;</li><li>✓ Office básico.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Alimentação</li><li>Vale Transporte</li><li>Assiduidade</li><li>Day Off</li><li>Auxílio Academia</li><li>Starbem - Telemedicina</li><li>Avus - Desconto em farmácia</li><li>Plano de Saúde e Odontológico</li><li>Premiação por produtividade</li><li>Parceria com universidade</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasconnect/4/auxiliar-fiscal-contabil-palmas-to?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[86336636]]></companyId>
-    <city><![CDATA[Palmas]]></city>
-    <state><![CDATA[Tocantins]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
