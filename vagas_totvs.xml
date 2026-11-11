@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Wed, 11 Nov 2026 17:22:13 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 18:18:17 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[4205]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4215]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c92bacd9-7fb5-4943-b2f3-6a27e5001ae8]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c92bacd9-7fb5-4943-b2f3-6a27e5001ae8]]></partnerRequisitionId>
@@ -1070,6 +1070,26 @@ Salário + Produtividade;</li></ul>]]></description>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Joinville]]></city>
     <state><![CDATA[Santa Catarina]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[08e2fc54-ebbb-4d45-89ca-acc0c844807a]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[08e2fc54-ebbb-4d45-89ca-acc0c844807a]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de Software Backend Sênior - Go | Inteligência Artificial (Remoto)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar como AI Engineer no time Smart Harness, desenvolvendo soluções de engenharia de software baseadas em Inteligência Artificial que ampliem a produtividade dos desenvolvedores. O profissional atuará na evolução de agentes, integrações com modelos de linguagem, ferramentas e mecanismos de contexto, transformando necessidades de produto em recursos confiáveis e utilizáveis na plataforma.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Desenvolver e evoluir serviços, APIs, CLIs e ferramentas em Go para a plataforma Smart Harness.</li><li>Implementar integrações com LLMs, agentes de IA, MCP Servers, tools e skills.</li><li>Desenvolver mecanismos de recuperação e contextualização de informações, incluindo RAG quando aplicável ao caso de uso.</li><li>Implementar fluxos de tool calling, function calling e execução segura de ações por agentes.</li><li>Criar mecanismos para fornecer contexto de código, documentação e conhecimento técnico aos modelos.</li><li>Explorar e aplicar técnicas de prompt engineering, gerenciamento de contexto e memória de agentes.</li><li>Desenvolver e manter testes automatizados, avaliações e observabilidade para medir a qualidade, confiabilidade e segurança das respostas e ações dos agentes.</li><li>Investigar falhas de integração e comportamento dos agentes, propondo correções sustentáveis.</li><li>Participar das decisões de arquitetura e da evolução técnica dos serviços do Smart Harness.</li><li>Documentar decisões, integrações e padrões técnicos do produto.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Superior completo em tecnologia e afins (desejável).</li><li>Experiência com desenvolvimento de software backend e conhecimento em Go.</li><li>Conhecimento de arquitetura de software, APIs HTTP, Git, containers e testes automatizados.</li><li>Experiência prática ou forte interesse em desenvolvimento assistido por IA, agentes ou coding agents.</li><li>Conhecimento de LLMs, prompt engineering, tool calling, MCP, RAG, embeddings e integração com modelos de linguagem.</li><li>Capacidade de analisar código, investigar comportamentos complexos e realizar troubleshooting de integrações distribuídas.</li><li>Boa compreensão de segurança, observabilidade e confiabilidade de serviços backend.</li><li>Experiência com CLIs, SDKs, plugins, parsers, AST ou Language Servers será considerada um diferencial.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/13151/tech-engenharia-de-software-backend-senior-go-inteligencia-artificial-remoto?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -3632,6 +3652,26 @@ das atividades junto ao time.</li></ul><br /><br /><b>Benefícios</b><br /><br /
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[54681258-03d0-41ed-b748-6f7bfe1acd91]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[54681258-03d0-41ed-b748-6f7bfe1acd91]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de Software Backend Sênior - Go | Inteligência Artificial (Remoto)]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Atuar como AI Engineer no time Smart Harness, desenvolvendo soluções de engenharia de software baseadas em Inteligência Artificial que ampliem a produtividade dos desenvolvedores. O profissional atuará na evolução de agentes, integrações com modelos de linguagem, ferramentas e mecanismos de contexto, transformando necessidades de produto em recursos confiáveis e utilizáveis na plataforma.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Desenvolver e evoluir serviços, APIs, CLIs e ferramentas em Go para a plataforma Smart Harness.</li><li>Implementar integrações com LLMs, agentes de IA, MCP Servers, tools e skills.</li><li>Desenvolver mecanismos de recuperação e contextualização de informações, incluindo RAG quando aplicável ao caso de uso.</li><li>Implementar fluxos de tool calling, function calling e execução segura de ações por agentes.</li><li>Criar mecanismos para fornecer contexto de código, documentação e conhecimento técnico aos modelos.</li><li>Explorar e aplicar técnicas de prompt engineering, gerenciamento de contexto e memória de agentes.</li><li>Desenvolver e manter testes automatizados, avaliações e observabilidade para medir a qualidade, confiabilidade e segurança das respostas e ações dos agentes.</li><li>Investigar falhas de integração e comportamento dos agentes, propondo correções sustentáveis.</li><li>Participar das decisões de arquitetura e da evolução técnica dos serviços do Smart Harness.</li><li>Documentar decisões, integrações e padrões técnicos do produto.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Superior completo em tecnologia e afins (desejável).</li><li>Experiência com desenvolvimento de software backend e conhecimento em Go.</li><li>Conhecimento de arquitetura de software, APIs HTTP, Git, containers e testes automatizados.</li><li>Experiência prática ou forte interesse em desenvolvimento assistido por IA, agentes ou coding agents.</li><li>Conhecimento de LLMs, prompt engineering, tool calling, MCP, RAG, embeddings e integração com modelos de linguagem.</li><li>Capacidade de analisar código, investigar comportamentos complexos e realizar troubleshooting de integrações distribuídas.</li><li>Boa compreensão de segurança, observabilidade e confiabilidade de serviços backend.</li><li>Experiência com CLIs, SDKs, plugins, parsers, AST ou Language Servers será considerada um diferencial.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/13152/tech-engenharia-de-software-backend-senior-go-inteligencia-artificial-remoto?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[4491bacb-6446-4d53-b1e6-82a94414f6c7]]></partnerJobId>
     <partnerRequisitionId><![CDATA[4491bacb-6446-4d53-b1e6-82a94414f6c7]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -4603,26 +4643,6 @@ e procedimentos de gestão de gente.
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[a5bb1ee8-828a-46aa-94cb-5c863e1ef086]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[a5bb1ee8-828a-46aa-94cb-5c863e1ef086]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Negócios] Analista de Negócios Júnior | Eventos]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Prestar suporte operacional e administrativo à estratégia de eventos, treinamentos e comunidades virtuais, assegurando a gestão eficiente das ferramentas da área e a produção de conteúdos digitais que capacitem o time comercial e fortaleçam o relacionamento com clientes e prospects.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Responsável pelo apoio operacional da estratégia de eventos e treinamentos, Comunidades virtuais e comunicações digitais com clientes internos e externos.</li><li>Apoiar e acompanhar a gestão de eventos e treinamentos;</li><li>Gerir e alimentar ferramentas de gestão de eventos e treinamentos;</li><li>Produzir conteúdos para comunicação interna e externa em relação à eventos e treinamentos;</li><li>Apoiar na criação de conteúdo, webinar, podcasts, tutoriais sobre o negócio e oferta do segmento, disseminando conhecimento para a área comercial de forma a encantar os clientes e prospects;</li><li>Apoiar na estratégia de jornada de venda digital;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Conhecimento/vivência em eventos;</li><li>Organização e gestão de atividades;</li><li>Conhecimento em software de gestão de projetos;</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12824/negocios-analista-de-negocios-junior-eventos?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[7c4665a4-1682-4b82-9919-bafe332de7f1]]></partnerJobId>
     <partnerRequisitionId><![CDATA[7c4665a4-1682-4b82-9919-bafe332de7f1]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -4902,26 +4922,6 @@ em conformidade com as normas contábeis vigentes.
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um profissional que ficará responsável por prospectar e identificar novas oportunidades de negócios. Sua principal responsabilidade será prospectar e qualificar leads de acordo com o perfil de cliente ideal da TOTVS, garantindo que aqueles que se encaixam perfeitamente com as nossas soluções sejam identificados e abordados de maneira eficaz.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><b>O QUE VOCÊ VAI FAZER:<br /></b><li>Apoiar a prospecção de novas contas, conforme orientações recebidas, por meio de ligações, páginas de perfil profissional, WhatsApp e outras ferramentas;</li><li>Qualificar e acompanhar o lead do início até a reunião realizada, conforme orientações recebidas, acionando profissionais e/ou áreas responsáveis quando necessário;</li><li>Qualificar leads, conforme orientações recebidas, através de pesquisas na internet, páginas de perfil profissional, contatos telefônicos ou via WhatsApp;</li><li>Prospectar novas contas, conforme orientações recebidas, por meio de contatos telefônicos, e-mail, WhatsApp e agendamento de visitas/demonstrações presenciais ou online.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><b><br /></b><ul><li>Ensino médio completo;</li><li>Vivência com vendas outbound B2B de software/SaaS;</li><li>Disponibilidade para atuar no modelo híbrido, com 3 dias presenciais e 2 dias em home office.</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12678/pre-vendas-auxiliar-de-prospeccao-comercial-bdr?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[9f6d425f-2b69-41a9-8d1d-25e5dec67413]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[9f6d425f-2b69-41a9-8d1d-25e5dec67413]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Suporte]  Analista de Suporte Técnico PL - Protheus | Modulo BackOffice]]></title>
-    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>O principal objetivo dessa posição é apoiar os clientes em projetos que vão desde a implementação e otimização dos módulos do sistema Protheus, garantindo que as soluções entregues não apenas atendam, mas superem as expectativas de negócio.</li><li>Nesta posição, você terá um papel fundamental na entrega de valor e na satisfação do cliente. Você será responsável por entender profundamente os processos de negócio, mapear os requisitos e configurar os módulos do Protheus de acordo com o escopo de cada projeto.</li></ul><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuação em Implantação e Melhoria Contínua: Configuração e setup de módulos do Protheus desde o levantamento inicial até a homologação final, além da otimização de rotinas existentes, criação de escopos personalizados e automação de processos.</li><li>Consultoria Estratégica e Negócios: Participação em reuniões com clientes e parceiros para mapear demandas, traduzir a complexidade de negócios em soluções técnicas no Protheus e apresentar propostas.</li><li>Apoio à Gestão de Projetos: Suporte à gerência de projetos de grande escala e alta complexidade, atuando no planejamento, definição de escopo, gestão de riscos e garantia do cumprimento de prazos e orçamentos.</li><li>Resolução de Crises e Tomada de Decisão: Solução de problemas críticos de alto nível de complexidade e tomada de decisões sob pressão em cenários desafiadores.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação superior em ciências da computação, análise de sistemas, engenharia da computação, gestão de Projetos, administração de sistemas ou áreas correlatas de tecnologia.</li><li>Experiência prática comprovada no sistema Protheus (módulos técnicos).</li><li>Experiência no Protheus em um dos modulos: Financeiro, Contábil e Tributário - Backoffice,</li><li>Conhecimento nos modulos do Protheus: fiscal ( configurador de tributos),</li><li>Vivência em projetos técnicos de implantação e otimização do Protheus.</li><li>Desejável certificações relacionadas a projetos, Protheus e atendimento ao cliente</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12300/suporte-analista-de-suporte-tecnico-pl-protheus-modulo-backoffice?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -7820,6 +7820,90 @@ Manter o posto de trabalho limpo e organizado.</li></ul><br /><br /><b>Requisito
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[c66e2e69-5f31-40a7-bcc6-f4a36a1ab32c]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[c66e2e69-5f31-40a7-bcc6-f4a36a1ab32c]]></partnerRequisitionId>
+    <company><![CDATA[SENAC]]></company>
+    <title><![CDATA[01/2026 - Professor Ensino Médio - Floriano/Pi]]></title>
+    <posterEmail><![CDATA[patriciasouza@pi.senac.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Professor de Ensino Médio<br /> Período de inscrição: 11/11/2026 a 16/11/2026<br /> 1ª Fase: Cadastro do Currículo / Inscrição na vaga (eliminatória);  <br /> 2ª Fase: Análise Curricular e Documental (eliminatória);  <br /> 3ª Fase: Avaliação Didática Pedagógica (eliminatória e classificatória);  <br /> 4ª Fase: Entrevista Individual por Competências (eliminatória e classificatória). <br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Atribuições do cargo:</b>   <br /><ul><li>Planejar e ministrar aulas, cumprindo a especificação do curso, procedimentos e proposta pedagógica, além de legislação pertinente quando aplicável;  </li><li>Desenvolver o programa de ensino de sua área específica de acordo com os critérios estabelecidos, dando sugestões para aperfeiçoá-lo;  </li><li>Preparar material didático de sua especialidade;  </li><li>Encaminhar nos prazos estipulados, para Secretaria do Centro de Formação Profissional - CEP e Supervisão Pedagógica, a documentação pertinente ao curso;  </li><li>Acompanhar e promover o desempenho adequado de cada aluno;  </li><li>Comprometer-se com a busca constante de seu alto desenvolvimento;  </li><li>Contribuir para elevação da qualidade do ensino e demais ações de educação profissional;  </li><li>Garantir a segurança, higiene e proteção ambiental nas situações de ensino-aprendizagem;  </li><li>Realizar procedimentos específicos à sua área de atuação, em consonância com as necessidades da empresa.  </li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação e experiência profissional  </b><br /><b>Escolaridade comprovada</b>: Formação superior completa em Licenciatura Plena na área de atuação. (Obrigatório anexar documentação comprobatória no cadastro do currículo na plataforma – Certificado, Diploma ou Certidão de conclusão e respectivo Histórico Escolar). <br /><b>Experiência profissional comprovada</b>: Experiência comprovada na área de atuação de, no mínimo, 6 (seis) meses. Serão aceitos os seguintes documentos: Cópia da CTPS, Declaração de vínculo, Contracheque.<br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>CLT</li><li>DSR + Adicional Horário Pedagógico</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivopisenac/357/01-2026-professor-ensino-medio-floriano-pi?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[30120764]]></companyId>
+    <city><![CDATA[Floriano]]></city>
+    <state><![CDATA[Piauí]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[38.58]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[38.58]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[45764d34-3414-4d90-9c87-d460c5f4b6d1]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[45764d34-3414-4d90-9c87-d460c5f4b6d1]]></partnerRequisitionId>
+    <company><![CDATA[SENAC]]></company>
+    <title><![CDATA[01/2026 - Professor Ensino Médio - Parnaiba/Pi]]></title>
+    <posterEmail><![CDATA[patriciasouza@pi.senac.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Professor de Ensino Médio<br /> Período de inscrição: 11/11/2026 a 16/11/2026<br /> 1ª Fase: Cadastro do Currículo / Inscrição na vaga (eliminatória);  <br /> 2ª Fase: Análise Curricular e Documental (eliminatória);  <br /> 3ª Fase: Avaliação Didática Pedagógica (eliminatória e classificatória);  <br /> 4ª Fase: Entrevista Individual por Competências (eliminatória e classificatória). <br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Atribuições do cargo:</b>   <br /><ul><li>Planejar e ministrar aulas, cumprindo a especificação do curso, procedimentos e proposta pedagógica, além de legislação pertinente quando aplicável;  </li><li>Desenvolver o programa de ensino de sua área específica de acordo com os critérios estabelecidos, dando sugestões para aperfeiçoá-lo;  </li><li>Preparar material didático de sua especialidade;  </li><li>Encaminhar nos prazos estipulados, para Secretaria do Centro de Formação Profissional - CEP e Supervisão Pedagógica, a documentação pertinente ao curso;  </li><li>Acompanhar e promover o desempenho adequado de cada aluno;  </li><li>Comprometer-se com a busca constante de seu alto desenvolvimento;  </li><li>Contribuir para elevação da qualidade do ensino e demais ações de educação profissional;  </li><li>Garantir a segurança, higiene e proteção ambiental nas situações de ensino-aprendizagem;  </li><li>Realizar procedimentos específicos à sua área de atuação, em consonância com as necessidades da empresa.  </li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação e experiência profissional  </b><br /><b>Escolaridade comprovada</b>: Formação superior completa em Licenciatura Plena na área de atuação. (Obrigatório anexar documentação comprobatória no cadastro do currículo na plataforma – Certificado, Diploma ou Certidão de conclusão e respectivo Histórico Escolar). <br /><b>Experiência profissional comprovada</b>: Experiência comprovada na área de atuação de, no mínimo, 6 (seis) meses. Serão aceitos os seguintes documentos: Cópia da CTPS, Declaração de vínculo, Contracheque.<br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>CLT</li><li>DSR + Adicional Horário Pedagógico</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivopisenac/358/01-2026-professor-ensino-medio-parnaiba-pi?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[30120764]]></companyId>
+    <city><![CDATA[Parnaíba]]></city>
+    <state><![CDATA[Piauí]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[38.58]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[38.58]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[956fc3ac-7b69-4096-b09e-c1b4bc07c311]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[956fc3ac-7b69-4096-b09e-c1b4bc07c311]]></partnerRequisitionId>
+    <company><![CDATA[SENAC]]></company>
+    <title><![CDATA[01/2026 - Professor Ensino Médio - Teresina/Pi]]></title>
+    <posterEmail><![CDATA[patriciasouza@pi.senac.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Professor de Ensino Médio<br /> Período de inscrição: 11/11/2026 a 16/11/2026<br /> 1ª Fase: Cadastro do Currículo / Inscrição na vaga (eliminatória);  <br /> 2ª Fase: Análise Curricular e Documental (eliminatória);  <br /> 3ª Fase: Avaliação Didática Pedagógica (eliminatória e classificatória);  <br /> 4ª Fase: Entrevista Individual por Competências (eliminatória e classificatória). <br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Atribuições do cargo:</b>   <br /><ul><li>Planejar e ministrar aulas, cumprindo a especificação do curso, procedimentos e proposta pedagógica, além de legislação pertinente quando aplicável;  </li><li>Desenvolver o programa de ensino de sua área específica de acordo com os critérios estabelecidos, dando sugestões para aperfeiçoá-lo;  </li><li>Preparar material didático de sua especialidade;  </li><li>Encaminhar nos prazos estipulados, para Secretaria do Centro de Formação Profissional - CEP e Supervisão Pedagógica, a documentação pertinente ao curso;  </li><li>Acompanhar e promover o desempenho adequado de cada aluno;  </li><li>Comprometer-se com a busca constante de seu alto desenvolvimento;  </li><li>Contribuir para elevação da qualidade do ensino e demais ações de educação profissional;  </li><li>Garantir a segurança, higiene e proteção ambiental nas situações de ensino-aprendizagem;  </li><li>Realizar procedimentos específicos à sua área de atuação, em consonância com as necessidades da empresa.  </li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Formação e experiência profissional  </b><br /><b>Escolaridade comprovada</b>: Formação superior completa em Licenciatura Plena na área de atuação. (Obrigatório anexar documentação comprobatória no cadastro do currículo na plataforma – Certificado, Diploma ou Certidão de conclusão e respectivo Histórico Escolar). <br /><b>Experiência profissional comprovada</b>: Experiência comprovada na área de atuação de, no mínimo, 6 (seis) meses. Serão aceitos os seguintes documentos: Cópia da CTPS, Declaração de vínculo, Contracheque.<br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>CLT</li><li>DSR + Adicional Horário Pedagógico</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/seletivopisenac/356/01-2026-professor-ensino-medio-teresina-pi?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[30120764]]></companyId>
+    <city><![CDATA[Teresina]]></city>
+    <state><![CDATA[Piauí]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[38.58]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[38.58]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -17533,6 +17617,26 @@ Transporte e Vale Refeição, <b>não são descontados </b>em folha de pagamento
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[1eaecc9b-787d-4c6c-bc6c-0f1bec68e5fe]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[1eaecc9b-787d-4c6c-bc6c-0f1bec68e5fe]]></partnerRequisitionId>
+    <company><![CDATA[Dana Cosméticos]]></company>
+    <title><![CDATA[Analista Contábil Sênior]]></title>
+    <posterEmail><![CDATA[thayna.pinheiro@danacosmeticos.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />No Grupo Dana, o(a) Analista Contábil Sênior é responsável por assegurar a integridade, precisão e conformidade das informações contábeis da companhia, conduzindo os processos de fechamento contábil, apoiando a elaboração das demonstrações financeiras e o atendimento às auditorias, além de contribuir para a melhoria contínua dos processos, garantindo o cumprimento das normas contábeis e das exigências legais.<br /><br />Reporte a Coordenação Contábil.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir e revisar os processos de fechamento contábil mensal e anual, garantindo a precisão e integridade das informações financeiras.</li><li>Apoiar a elaboração das Demonstrações Financeiras e Notas Explicativas, assegurando a conformidade com as normas contábeis CPC/IFRS.</li><li>Executar e validar provisões contábeis, incluindo cut-off, contingências e demais estimativas contábeis.</li><li>Preparar e revisar as obrigações acessórias contábeis, especialmente ECD e ECF, garantindo o cumprimento dos prazos e exigências legais.</li><li>Atuar como ponto focal nas auditorias internas e externas, preparando documentações, suportes e esclarecimentos necessários.</li><li>Analisar e apoiar contabilizações de operações complexas, assegurando o correto tratamento contábil dos eventos econômicos.</li><li>Compreender os processos operacionais e fluxos transacionais da companhia, garantindo sua adequada contabilização e apresentação nas demonstrações financeiras.</li><li>Atuar como key-user em projetos de implementação de sistemas, melhoria de processos e automatização das rotinas contábeis.</li><li>Acompanhar os processos relacionados ao ativo imobilizado, incluindo inventários físicos, conciliações contábeis e patrimoniais, depreciações, baixas e testes de recuperabilidade.</li><li>Monitorar os impactos da Reforma Tributária na contabilidade, garantindo a conformidade com as novas diretrizes legais, além de apoiar demandas correlatas da área conforme orientação da liderança.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em Ciências Contábeis;</li><li>Pós-graduação completa ou em andamento em Contabilidade, Controladoria, Finanças ou áreas correlatas;</li><li>Experiência obrigatória com o sistema SAP, preferencialmente no módulo FI (Financial Accounting);</li><li>Conhecimento sólido das normas contábeis CPC/IFRS;</li><li>Experiência com fechamento contábil, demonstrações financeiras e obrigações acessórias ECD e ECF;</li><li>Conhecimento em provisões, conciliações contábeis e gestão de ativo imobilizado;</li><li>Experiência no atendimento a auditorias internas e externas;</li><li>Conhecimento dos impactos contábeis da Reforma Tributária;</li><li>Desejavel CRC ativo</li><li>Vivência em projetos de melhoria de processos e automatização de rotinas contábeis.<br /><br /><b>Benefícios<br /><br /></b></li><li>Vale refeição.</li><li>Vale alimentação.</li><li>Vale transporte (opcional).</li><li>Estacionamento no local.</li><li>Convênio médico Porto Seguro.</li><li>Programa Saúde Emocional - Orienteme.</li><li>Seguro de Vida.</li><li>PLR anual (de acordo com política interna da Empresa).</li><li>TotalPass.</li><li>Desconto de 30% nas compras em nosso E-commerce.</li><li>Auxílio Educacional.</li><li>Auxílio Inglês.</li><li>Ambiente de descompressão.</li><br /></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale refeição.</li><li>Vale alimentação.</li><li>Vale transporte (opcional).</li><li>Estacionamento no local.</li><li>Convênio médico Porto Seguro.</li><li>Programa Saúde Emocional - Orienteme.</li><li>Seguro de Vida.</li><li>PLR anual (de acordo com política interna da Empresa).</li><li>TotalPass.</li><li>Desconto de 30% nas compras em nosso E-commerce.</li><li>Auxílio Educacional.</li><li>Auxílio Inglês.</li><li>Ambiente de descompressão.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vemsertimedana/141/analista-contabil-senior?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[1097927]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[99ae59d2-ceb7-4cc2-94d5-4a48e89cab21]]></partnerJobId>
     <partnerRequisitionId><![CDATA[99ae59d2-ceb7-4cc2-94d5-4a48e89cab21]]></partnerRequisitionId>
     <company><![CDATA[Dana Cosméticos]]></company>
@@ -25871,6 +25975,26 @@ trabalho efetivos)</li></ul>]]></description>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[6ce45230-86c0-4437-bf5d-cd9fb9ed959b]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[6ce45230-86c0-4437-bf5d-cd9fb9ed959b]]></partnerRequisitionId>
+    <company><![CDATA[iBen Engenharia]]></company>
+    <title><![CDATA[ESTAGIO ENGENHARIA CIVIL]]></title>
+    <posterEmail><![CDATA[volnei@iben.eng.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é apaixonado por construir o futuro e deseja fazer a diferença na área de Engenharia Civil? Temos uma oportunidade incrível que pode ser o seu próximo grande passo na carreira! Venha fazer parte de um ambiente dinâmico, onde a inovação e a criatividade são valorizadas e estimuladas. Aqui, você terá a chance de trabalhar em projetos desafiadores, aprender com profissionais experientes e desenvolver suas habilidades técnicas e interpessoais. Estamos em busca de pessoas motivadas e com vontade de aprender, que queiram mergulhar no universo da engenharia e se aperfeiçoar a cada dia. Se você busca um estágio que vai além de simples funções, essa é a sua chance de crescer e deixar sua marca. Junte-se a nós e construa um futuro promissor!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Assistir na elaboração de projetos de engenharia civil, realizando cálculos e simulações.<br /> - Participar da fiscalização e acompanhamento de obras, garantindo o cumprimento das normas técnicas.<br /> - Colaborar na elaboração de relatórios técnicos e documentação necessária para os projetos.<br /> - Ajudar na análise de materiais e fornecedores, contribuindo na seleção adequada para as obras.<br /> - Apoiar a equipe na execução de medições e controle de prazos e custos das atividades.<br /> - Participar de reuniões de progresso, comunicando o andamento das tarefas e eventuais ajustes necessários.<br /> - Realizar pesquisas e estudos de viabilidade técnica para novos projetos.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Cursando Engenharia Civil, preferencialmente a partir do 4º semestre.<br /> - Conhecimento básico em softwares de desenho técnico (AutoCAD, Revit ou similares).<br /> - Noções de normas técnicas e de segurança na construção civil.<br /> - Habilidade em trabalho em equipe e boa comunicação.<br /> - Disponibilidade para estagiar em horário compatível com a grade acadêmica.<br /> - Proatividade e disposição para aprender.<br /> - Conhecimento em Pacote Office.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/ibenvagas/108/estagio-engenharia-civil?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[3042725]]></companyId>
+    <city><![CDATA[Indaiatuba]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[6b5efb8f-b8ac-4dfb-b118-901459746898]]></partnerJobId>
     <partnerRequisitionId><![CDATA[6b5efb8f-b8ac-4dfb-b118-901459746898]]></partnerRequisitionId>
     <company><![CDATA[iBen Engenharia]]></company>
@@ -26927,6 +27051,26 @@ de 2016).<br /><br /><b>Benefícios</b><br /><br />• Vale Alimentação;
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/547/agente-comercial-leiturista-motociclista-grajau-ma?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[9250455]]></companyId>
     <city><![CDATA[Grajaú]]></city>
+    <state><![CDATA[Maranhão]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[2be79b7c-6d50-40ee-ae42-d88c3464a105]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[2be79b7c-6d50-40ee-ae42-d88c3464a105]]></partnerRequisitionId>
+    <company><![CDATA[Ceneged]]></company>
+    <title><![CDATA[JOVEM APRENDIZ - Imperatriz]]></title>
+    <posterEmail><![CDATA[josinetepereira@ceneged.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você está em busca de uma oportunidade para iniciar sua carreira na área administrativa? Temos uma excelente oportunidade para você! Estamos em busca de candidatos dedicados, proativos e com vontade de aprender para se juntarem ao nosso time como Auxiliar Administrativo (Aprendiz). Se você possui vontade de crescer, adquirir novos conhecimentos e desenvolver habilidades essenciais para o mercado de trabalho, essa vaga é para você! Venha fazer parte de uma equipe que valoriza o seu potencial e oferece um ambiente de trabalho dinâmico e desafiador. Não perca essa chance e candidate-se agora mesmo! Estamos ansiosos para conhecer você e ajudá-lo a trilhar um caminho de sucesso em sua carreira profissional.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Organizar arquivos;<br />Entregar e arquivar documentos;<br />Preencher planilhas;<br />Dar suporte às demandas do setor, sob orientação do superior imediato.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino  médio  em  andamento  ou  completo;<br />Idade entre 16 e 21 anos;<br />Não  possuir  experiência  de  carteira  assinada; <br />Habilidade com Informática (Pacote Office);<br /><br /><br /><br /><br /><b>Benefícios</b><br /><br />Salário compatível com o mercado;<br />Vale Transporte;<br />Plano de Saúde;<br />Plano Odontológico;<br />Seguro de Vida.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/737/jovem-aprendiz-imperatriz?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[9250455]]></companyId>
+    <city><![CDATA[Imperatriz]]></city>
     <state><![CDATA[Maranhão]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -29704,6 +29848,26 @@ inovadores. Com atuação presencial em Alagoas.<br /><br /><b>Responsabilidades
     <companyId><![CDATA[11714440]]></companyId>
     <city><![CDATA[Pilar]]></city>
     <state><![CDATA[Alagoas]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[f6ca45f3-d484-4db0-a4ce-87eee81776a7]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[f6ca45f3-d484-4db0-a4ce-87eee81776a7]]></partnerRequisitionId>
+    <company><![CDATA[Grupo Tribuna]]></company>
+    <title><![CDATA[Agente de Vendas e Atendimento]]></title>
+    <posterEmail><![CDATA[gabrielly.assis@grupo-tribuna.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas dinâmicas e motivadas que desejam fazer parte de uma equipe apaixonada por resultados e pela construção de relacionamentos sólidos. Se você é alguém que valoriza a oportunidade de crescimento pessoal e profissional, esta é a sua chance de se juntar a um ambiente colaborativo e inovador. Acreditamos no potencial de cada um e proporcionamos um espaço onde suas ideias e contribuições são bem-vindas. Aqui, você terá a chance de se desenvolver continuamente, aprender com os melhores e alcançar seus objetivos. Se você está pronto(a) para um novo desafio e quer fazer a diferença com suas habilidades de comunicação e persuasão, não perca essa oportunidade única. Venha conhecer mais sobre a nossa equipe e descubra como você pode brilhar em sua carreira conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar a prospecção de potenciais clientes e atendimento ao cliente com excelência;  Realizar vendas direta com agenda de ex assinantes e leads.  Utilizar os canais de atendimento da empresa para comunicação e venda (telefone ativo, WhatsApp, E-mail) com potencial cliente.  Responder e-mail de clientes ou prospecção. Participar de eventos externos com foco em vendas de assinaturas. Negociar os preços de assinatura, os prazos, as condições de pagamento e os descontos da venda.  Orientar o cliente sobre as especificações dos produtos e/ou serviços. Participar de reuniões de vendas. Controlar as demandas dos pedidos em pré-venda e venda realizada. Cumprir as metas de vendas.  Acompanhar as primeiras entregas do produto ofertado  Responder às solicitações dos clientes nos canais da empresa com foco em solucionar e sanar dúvidas;  Realizar cobrança quando necessário com negociação junto aos assinantes da carteira.  Orientar e acompanha as falhas de entrega do jornal impresso; Orientar e acompanha os acessos online do jornal online e Clube;  Atender o cliente presencialmente quando necessário na empresa. Divulgar e/ou comunica sobre ações do Clube, além de orientar sobre as ações.  Atualizar os cadastros do cliente sempre que em contato com ele.  Realizar pós-venda, diariamente, após os processos de reposição.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo Habilidades de negociação <br />Técnicas de vendas<br />Boa capacidade de comunicação<br />Boa comunicação oral e escrita <br />Bom relacionamento interpessoal <br />Facilidade para lidar com público<br />Disponibilidade de horário para trabalhar finais de semana <br /><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br />VAVR<br />Auxílio Creche<br />Totalpass<br />Sesc<br />Plano de Saúde com COPART Unimed<br />Plano odontológico <br />Clube de vantagens <br />Parceria com universidades e escolas de idiomas <br />Seguro de vida em grupo<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupotribuna/15/agente-de-vendas-e-atendimento?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[74987803]]></companyId>
+    <city><![CDATA[Santos]]></city>
+    <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
@@ -37222,66 +37386,6 @@ O principal objetivo da função é supervisionar e acompanhar as atividades de 
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[020593f4-6fd9-4711-8f3d-beb85c8e355a]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[020593f4-6fd9-4711-8f3d-beb85c8e355a]]></partnerRequisitionId>
-    <company><![CDATA[Grupo EPO]]></company>
-    <title><![CDATA[Assistente de Produção (Meio Oficial de Obras) | Obra: Torre Catharina | Vila da Serra]]></title>
-    <posterEmail><![CDATA[chayene.rodrigues@epo.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas comprometidas que queiram contribuir para o sucesso de nossas obras. Se você possui disposição, vontade de aprender e está em busca de crescimento profissional, venha fazer parte da nossa equipe como Servente de Obras. Aqui você terá a oportunidade de desenvolver suas habilidades e crescer junto conosco. Não perca a chance de se juntar a nós e construir um futuro promissor.<br /><br />Caso tenha interesse em participar do nosso processo seletivo, gentileza comparecer <strong>diretamente à obra</strong> para entrevista, <strong>portando a Carteira de Trabalho física ou digital</strong>.<br /><br /><b>Endereço:</b> Av. Alameda Oscar Niemeyer, 202 - Vila da Serra<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar na organização do canteiro de obras e na movimentação de materiais.- Apoiar o preparo de argamassa, reboco e concreto.<br />- Auxiliar em serviços de alvenaria, como assentamento de tijolos, blocos e revestimentos.<br />- Apoiar a construção de alicerces, paredes e demais estruturas.<br />- Auxiliar em atividades de reboco e acabamento.<br />- Apoiar a montagem e desmontagem de andaimes e escoramentos.<br />- Realizar carga e descarga de materiais e entulhos.- Manter a limpeza e organização do local de trabalho.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Habilidade para trabalhar em equipe.<br />- Disponibilidade para horários flexíveis.<br />- Comprometimento com prazos e metas.<br />- Capacidade de seguir instruções e orientações do encarregado.<br /><br /><br /><b>Benefícios</b><br /><br />- Cesta Básica.<br />- Vale Transporte.<br />- Day Off Aniversário.<br />- Rede de Descontos.<br />- Seguro de Vida em Grupo.<br />- Assistência Médica e Odontológica; <br />- Clube Sesi Betim e Vespasiano.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupoepo/56/assistente-de-producao-meio-oficial-de-obras-obra-torre-catharina-vila-da-serra?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2352450]]></companyId>
-    <city><![CDATA[Nova Lima]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[d3676004-f2e7-42af-9123-cb22ce8c40ae]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[d3676004-f2e7-42af-9123-cb22ce8c40ae]]></partnerRequisitionId>
-    <company><![CDATA[Grupo EPO]]></company>
-    <title><![CDATA[Bombeiro Hidráulico | Obra: Torre Catharina (Vila da Serra)]]></title>
-    <posterEmail><![CDATA[chayene.rodrigues@epo.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />A <strong>Construtora EPO</strong>, referência no mercado, está em busca de um(a) <strong>Bombeiro(a) Hidráulico(a)</strong> para integrar sua equipe.<br /><br />O objetivo principal da função é executar a instalação, manutenção e reparo de sistemas hidráulicos, garantindo o correto funcionamento das redes de água, esgoto, drenagem e demais sistemas, sempre em conformidade com os projetos, normas técnicas e padrões de qualidade e segurança da empresa. <br /><br />Caso tenha interesse em participar do nosso processo seletivo, gentileza comparecer <strong>diretamente à obra</strong> para entrevista, <strong>portando a Carteira de Trabalho física ou digital</strong>.<br /><br /><b>Endereço:</b> Alameda Oscar Niemeyer, 202 - Vila da Serra.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar na instalação e manutenção de sistemas hidráulicos (água, esgoto, drenagem e combate a incêndio, quando aplicável).- Realizar o corte, preparo e montagem de tubulações e conexões conforme orientação.<br />- Auxiliar na instalação de louças, metais, caixas d'água, bombas e demais componentes hidráulicos.<br />- Preparar o local de trabalho para execução dos serviços, incluindo abertura de rasgos e valas.<br />- Apoiar na realização de testes para verificação do funcionamento e identificação de vazamentos.<br />- Executar pequenos reparos e auxiliar nas manutenções preventivas e corretivas.<br />- Utilizar e conservar corretamente as ferramentas e equipamentos da atividade.<br />- Organizar o ambiente de trabalho, realizando a limpeza e o descarte adequado de resíduos.<br />- Transportar e organizar materiais, equipamentos e insumos necessários aos serviços.<br />- Auxiliar na leitura de projetos hidráulicos simples e no levantamento de materiais.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação técnica em Hidráulica ou áreas correlatas.<br />- Conhecimento em sistemas hidráulicos e pneumáticos.<br />- Habilidade em leitura e interpretação de plantas hidráulicas.<br />- Experiência prévia na área de instalação e manutenção de sistemas hidráulicos.<br />- Noções de segurança do trabalho e normas regulamentadoras.<br />- Capacidade de trabalho em equipe e resolução de problemas.<br /><br /><br /><b>Benefícios</b><br /><br />- Cesta Básica.- Vale Transporte.<br />- Assistência Médica e Odontológica.<br />- Rede de Descontos.<br />- Day Off de Aniversário.<br />- Clube SESI (Betim e Vespasiano).<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupoepo/44/bombeiro-hidraulico-obra-torre-catharina-vila-da-serra?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2352450]]></companyId>
-    <city><![CDATA[Nova Lima]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[ef3901f2-66d5-43c5-b53c-0df8223391b3]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[ef3901f2-66d5-43c5-b53c-0df8223391b3]]></partnerRequisitionId>
-    <company><![CDATA[Grupo EPO]]></company>
-    <title><![CDATA[Auxiliar de Produção (Servente de Obras) | Obra: Torre Catharina (Vila da Serra)]]></title>
-    <posterEmail><![CDATA[chayene.rodrigues@epo.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas comprometidas que queiram contribuir para o sucesso de nossas obras. Se você possui disposição, vontade de aprender e está em busca de crescimento profissional, venha fazer parte da nossa equipe como Servente de Obras. Aqui você terá a oportunidade de desenvolver suas habilidades e crescer junto conosco. Não perca a chance de se juntar a nós e construir um futuro promissor.<br /><br />Caso tenha interesse em participar do nosso processo seletivo, gentileza comparecer <strong>diretamente à obra</strong> para entrevista, <strong>portando a Carteira de Trabalho física ou digital</strong>.<br /><br /><b>Endereço:</b> Av. Alameda Oscar Niemeyer, 202 - Vila da Serra<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar limpeza e organização da obra;<br />- Auxiliar na carga e descarga de materiais de construção;<br />- Preparar argamassa e concreto conforme orientações;<br />- Colaborar com a equipe de trabalho em atividades gerais da obra;<br />- Zelar pela segurança no ambiente de trabalho;<br />- Executar tarefas de acordo com as orientações recebidas pelos responsáveis;<br />- Manter o local de trabalho limpo e seguro.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Habilidade para trabalhar em equipe;<br />- Disponibilidade para horários flexíveis;<br />- Comprometimento com prazos e metas;<br />- Capacidade de seguir instruções e orientações do encarregado.<br /><br /><br /><b>Benefícios</b><br /><br />- Cesta Básica;<br />- Vale Transporte;<br />- Seguro de Vida; <br />- Assistência Médica; <br />- Day Off Aniversário;<br />- Clube Sesi Betim.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupoepo/26/auxiliar-de-producao-servente-de-obras-obra-torre-catharina-vila-da-serra?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2352450]]></companyId>
-    <city><![CDATA[Nova Lima]]></city>
-    <state><![CDATA[Minas Gerais]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[4227d9e8-37b1-49d4-9db1-5eb10c03711d]]></partnerJobId>
     <partnerRequisitionId><![CDATA[4227d9e8-37b1-49d4-9db1-5eb10c03711d]]></partnerRequisitionId>
     <company><![CDATA[PP&C]]></company>
@@ -39733,6 +39837,34 @@ Executar atividades correlatas conforme as necessidades da área.</li><br /><br 
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[e9ae220b-7d81-4896-8418-8ef5b0c34cb4]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[e9ae220b-7d81-4896-8418-8ef5b0c34cb4]]></partnerRequisitionId>
+    <company><![CDATA[Shineray do Brasil]]></company>
+    <title><![CDATA[Consultor Técnico]]></title>
+    <posterEmail><![CDATA[carolinacosta@grupobci.rec.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais apaixonados por motocicletas e manutenção para integrar nossa equipe como Consultor Técnico I. Se você tem experiência na área e gosta de desafios, esta é a oportunidade perfeita para crescer profissionalmente e se destacar em um ambiente dinâmico e colaborativo. Venha fazer parte de um time que valoriza o aprendizado contínuo, o trabalho em equipe e a busca por soluções inovadoras. Sua expertise será fundamental para contribuir com o sucesso de nossos projetos e impactar positivamente o nosso negócio. Junte-se a nós e faça a diferença!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar o pós-venda da empresa através do atendimento ao cliente; <br />- Dar suporte técnico aos showrooms de vendas; <br />- Prestar suporte técnico a rede de assistência técnica credenciadas; <br />- Realizar visita presencial ao cliente; <br />- Realizar análise e emissão de relatórios das falhas recorrentes nos produtos e peças; <br />- Emitir relatórios dos atendimentos aos clientes; <br />- Captar e cadastrar novas oficinas para prestação de serviços; <br />- Cumprir com as normas de segurança utilizando os EPIs apropriados, bem como zelar organização e conservação das estações de trabalho; <br />- Zelar pela qualidade dos produtos operacionalizados de acordo com os padrões de controle, bem como pelos equipamentos à sua disposição; <br />- Executar outras atividades correlatas em seu campo de atuação.<br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino técnico completo ou cursando; <br />- Conhecimento técnico na área de motocicletas, incluindo produtos e peças; <br />- Habilidades de comunicação sólidas, empatia e inteligência emocional para lidar com os clientes, flexibilidade e adaptabilidade para atender a diferente situações.<br /><br /><b>Benefícios</b><br /><br />- Plano de Saúde; <br />- Plano Odontológico; <br />- Vale Refeição; <br />- Seguro de Vida; <br />- Vale Transporte; <br />- Auxílio Combustível.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagashineraydobrasil/215/consultor-tecnico?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[82658351]]></companyId>
+    <city><![CDATA[Recife]]></city>
+    <state><![CDATA[Pernambuco]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[2500.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[2200.00]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -46255,26 +46387,6 @@ Comportamentais<br /><ul><li>Raciocínio analítico: levanta hipóteses, cruza i
           <amount><![CDATA[1400.00]]></amount>
           <currencyCode>BRL</currencyCode>
         </lowEnd>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[e7390093-26ed-4476-8c31-411fded46316]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[e7390093-26ed-4476-8c31-411fded46316]]></partnerRequisitionId>
-    <company><![CDATA[Conversion]]></company>
-    <title><![CDATA[Account Manager Pleno]]></title>
-    <posterEmail><![CDATA[carla.prates@conversion.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Nossos clientes precisam de um profissional profundamente preocupado com a sua experiência e o sucesso da sua jornada na Conversion.<br /><br />Buscamos uma pessoa que tenha um conjunto de competências que promova uma comunicação fluída entre o problema/necessidade do cliente e as propostas de soluções para o alcance do objetivo.<br /><br />Portanto, estamos falando de muita empatia, análise de contextos, curiosidade para mergulhar fundo no negócio do cliente, comunicação assertiva, cuidadosa e positiva.<br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Este profissional será o principal ponto de contato do cliente e terá as seguintes responsabilidades:</b><br /><ul><li>Construir um relacionamento próximo com o cliente</li><li>Estar atento e aberto às constantes mudanças do cenário do cliente</li><li>Levantar, propor, gerir e acompanhar as demandas do projeto do cliente</li><li>Garantir a entrega do que é acordado e esperado pelo cliente</li><li>Organizar e priorizar as demandas do cliente em parceria com ele e equipe interna</li><li>Estar conectada à equipe interna, apoiando com informações e significado</li><li>Atuar com visão de Customer Success e colher feedbacks do cliente</li><li>Conduzir reuniões e apresentações de resultados</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Requisitos Principais</b><ul><li>Experiência prática em projetos de Marketing Digital, repertório de SEO e domínio de metodologias ágeis.</li><li>Histórico de atendimento a grandes contas, demonstrando senioridade no gerenciamento de stakeholders e expectativas.</li><li>Conhecimento das rotinas, métricas e práticas de CS para garantir a retenção, satisfação e construção de relacionamentos de confiança.</li><li>Domínio de plataformas de acompanhamento como Jira, Asana ou Trello.</li></ul><br /><br /><b>Perfil e Atitudes Esperadas</b><ul><li>Interesse genuíno em compreender as dores do cliente e propor soluções eficazes.</li><li>Capacidade de engajar equipes multidisciplinares e gerar tração no andamento dos projetos.</li><li>Abertura a mudanças, facilidade em gerenciar conflitos e cultura de feedback contínuo.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li><b>100% Remoto (CLT)</b></li><li><b>Flexibilidade de Horário</b></li><li><b>Equipamentos da Empresa</b></li><li><b>Voucher de Infraestrutura</b></li><li><b>Auxílio Home Office</b></li><li><b>Cartão Alimentação/ Refeição</b></li><li><b>Bônus Semestral (PLR)</b></li><li><b>Plano de Saúde AMIL</b></li><li><b>Plano Odontológico AMIL</b></li><li><b>TotalPass</b></li><li><b>Apoio à Saúde Mental</b></li><li><b>Day-Off Semestral</b></li><li><b>Auxílio-Creche</b></li><li><b>Incentivo a Cursos</b></li><li><b>Mimo de Aniversário</b></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasconversion/62/account-manager-pleno?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2487728]]></companyId>
-    <city><![CDATA[São Caetano do Sul]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -64365,6 +64477,40 @@ Será responsável por identificar oportunidades de negócios, fortalecer o rela
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[e6efe919-061f-41ee-ae93-76eaa921539d]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[e6efe919-061f-41ee-ae93-76eaa921539d]]></partnerRequisitionId>
+    <company><![CDATA[Dancor Indústria Mecânica]]></company>
+    <title><![CDATA[ANALISTA DE SISTEMAS PLENO]]></title>
+    <posterEmail><![CDATA[evelyn.andrade@dancor.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é proativo, gosta de novos desafios e busca uma oportunidade para desenvolver suas habilidades em um ambiente dinâmico, essa oportunidade é para você!
+Aqui na Dancor, valorizamos profissionais comprometidos, colaborativos e que acreditam no aprendizado contínuo e no trabalho em equipe.
+Buscamos um(a) Analista de TI Pleno para atuar no desenvolvimento, implantação e sustentação dos sistemas de informação da empresa, garantindo o bom funcionamento das soluções tecnológicas e apoiando as áreas de negócio com eficiência e segurança.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />•	Monitorar o bom funcionamento e segurança da rede e dos softwares, inclusive ERP; mapeando processos e executando procedimentos para melhoria de desempenho de sistema.<br />•	Implantar e administrar sistemas e bancos de dados e rotinas de segurança;<br />•	Preparar informações para a operação de sistemas, participando ativamente dos processos planejados no calendário anual da empresa, como o inventário; <br />•	Efetuar a manutenção do cadastro de usuários no sistema ERP;<br />•	Coletar informações e estudar a viabilidade dos serviços de processamento de dados requisitados pelas diversas áreas, estruturando e extraindo relatórios do ERP conforme demanda;<br />•	Analisar a utilização dos softwares nas diversas áreas da Dancor, identificando as necessidades de aprimoramento e customização a fim de atender às necessidades do negócio;<br />•	Acompanhar a confecção e controle dos manuais e de toda a documentação de sistemas e programas, conforme os padrões e metodologias usuais na área de TI, visando a segurança e eficiência na utilização dos sistemas implantados;<br />•	Realizar a administração dos chamados do Sistema ERP e prestar suporte técnico, orientando os usuários de sistemas;<br />•	Treinar usuários em novos sistemas implantados, acompanhando todo o processo e avaliando os resultados do treinamento e a adequada utilização dos sistemas pelos usuários;<br />•	Elaborar e analisar relatórios de gestão de indicadores da área;<br />•	Manter-se atualizado com as tendências e desenvolvimentos tecnológicos, auxiliando na pesquisa novas soluções de informática no mercado, adequando-as às necessidades da Dancor.<br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior completo em cursos da área de Tecnologia da Informação, como: Análise e Desenvolvimento de Sistemas, Sistemas de Informação, Ciência da Computação, Engenharia de Software, Banco de Dados ou Gestão da Tecnologia da Informação;
+</li><li>
+Experiência profissional entre 3 e 4 anos na área;
+</li><li>
+Experiência comprovada com implantação, manutenção e suporte do ERP Protheus;
+</li></ul>
+
+
+<ul><li>
+Sólido conhecimento e domínio do ERP Protheus, incluindo atividades de manutenção, parametrização, treinamento e suporte aos usuários.</li><li>Disponibilidade para atuar presencialmente em Campo Grande/RJ.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de Saúde;         </li><li>Plano Odontológico;          </li><li>Refeição no local ;</li><li>Vale
+Alimentação; </li><li>Participação nos Lucros e Resultados (PLR);  </li><li>Vale-transporte conforme legislação vigente;         </li><li>Estacionamento no local;          </li><li>Convênio com instituições de ensino,
+autoescola, academias e outros parceiros;</li><li> Seguro de Vida em grupo e assistência
+funeral.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdancor/21/analista-de-sistemas-pleno?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[1255967]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[e97fe16b-0b9f-4d3c-a0a1-17a112b31aa7]]></partnerJobId>
     <partnerRequisitionId><![CDATA[e97fe16b-0b9f-4d3c-a0a1-17a112b31aa7]]></partnerRequisitionId>
     <company><![CDATA[Dancor Indústria Mecânica]]></company>
@@ -64387,6 +64533,28 @@ Realizar outras tarefas de apoio pertinentes ao setor.</li></ul><br /><br /><b>R
 </li><li>
 Ensino Médio em curso ou concluído;</li><li>Disponibilidade para atuar presencialmente em Campo Grande/RJ.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Plano de Saúde;</li><li>Plano Odontológico;</li><li>Refeição no local e Vale Alimentação;</li><li>Estacionamento;</li><li>Convênios com insitutuições de ensino, autoescola, academias e outros;</li><li>Seguro de Vida em grupo e assistência funeral.</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdancor/16/jovem-aprendiz?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[1255967]]></companyId>
+    <city><![CDATA[Rio de Janeiro]]></city>
+    <state><![CDATA[Rio de Janeiro]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[3c309468-a93b-46c2-818d-96867bf824d5]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[3c309468-a93b-46c2-818d-96867bf824d5]]></partnerRequisitionId>
+    <company><![CDATA[Dancor Indústria Mecânica]]></company>
+    <title><![CDATA[ESTAGIÁRIO DE PROCESSOS]]></title>
+    <posterEmail><![CDATA[gisele.souza@dancor.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é organizado, analítico e tem interesse em aprender sobre processos industriais, essa oportunidade é para você! A Dancor busca um Estagiário de Processos proativo, com vontade de se desenvolver em um ambiente dinâmico, apoiando na análise, melhoria e monitoramento das rotinas de manufatura.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar no mapeamento e análise de processos industriais para identificar melhorias e redução de custos;</li><li>Realizar estudos de tempos e métodos em atividades produtivas;</li><li>Auxiliar no desenvolvimento de relatórios técnicos e indicadores de desempenho (KPIs);</li><li>Acompanhar testes e implementações de novas soluções ou tecnologias no chão de fábrica;</li><li>Colaborar na atualização e criação de documentação técnica (manuais de operação e instruções de trabalho);</li><li>Apoiar nas rotinas administrativas do setor;</li><li>Contribuir para a identificação de problemas e proposição de soluções criativas.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando Engenharia de Produção, Engenharia Mecânica, Engenharia Elétrica, Engenharia de Materiais, Engenharia Metalúrgica, Engenharia de Automação e Controle / Mecatrônica , entre o<b> 5º e 7º período</b>;
+</li><li>
+Conhecimento intermediário em Pacote Office (Excel, Word, PowerPoint).</li><li>Disponibilidade para atuar presencialmente em Campo Grande/RJ.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Refeição no local;</li><li>Vale transporte e Estacionamento;</li><li>Convênio com instutuições de ensino, autoescola, academias e outros;</li><li>Seguro de Vida em grupo e assistência funeral.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasdancor/10/estagiario-de-processos?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[1255967]]></companyId>
     <city><![CDATA[Rio de Janeiro]]></city>
     <state><![CDATA[Rio de Janeiro]]></state>
@@ -66970,6 +67138,26 @@ Contato direto com medicamentos de alta complexidade e rotina farmacêutica espe
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[7fd59282-cc06-438d-9dc1-a55ebd62a7f5]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[7fd59282-cc06-438d-9dc1-a55ebd62a7f5]]></partnerRequisitionId>
+    <company><![CDATA[EvcomX]]></company>
+    <title><![CDATA[Product Owner Pl]]></title>
+    <posterEmail><![CDATA[mariane.regina@evcomx.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Na EvcomX, unimos ciência de dados e inovação para transformar a Indústria 4.0 no Brasil. Atuamos lado a lado com grandes indústrias de todo o Brasil para entregar soluções que impulsionam resultados e redesenham o futuro. Como Product Owner, você terá a oportunidade de enfrentar desafios reais, participando de projetos que combinam tecnologia de ponta e impacto direto no setor industrial. Você trabalhará em conjunto com times de Data Science e Engenharia de Dados em projetos que envolvem Inteligência Artificial, big data e pesquisa operacional. Além disso, colaborará com equipes de desenvolvimento, levantando requisitos e participando do processo de tomada de decisões estratégicas. Se busca um ambiente onde o conhecimento e a inovação estão no centro de tudo, aqui é o lugar. Venha viver grandes indústrias com a gente! <br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar junto aos clientes como principal ponto de contato, entendendo a fundo seus processos, dores e objetivos de negócio. </li><li>Prototipar soluções, explorar dados e testar hipóteses com o cliente antes de envolver o time. </li><li>Transformar problemas do cliente em requisitos claros para Data Science, Engenharia de Dados e Desenvolvimento, encurtando o caminho entre a conversa e a entrega. </li><li>Decidir com autonomia o que priorizar e atividades de valor para o cliente, garantindo a viabilidade técnica. </li><li>Conduzir ciclos curtos de entrega, validando cedo com o cliente e ajustando rápido. </li><li>Ser dono do resultado de ponta a ponta, acompanhando o impacto real das soluções na operação do cliente. </li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Comunicação clara com times técnicos e usuários/operadores do chão de fábrica. </li><li>Autonomia para decidir e assumir a responsabilidade pelas escolhas. </li><li>Perfil analítico, orientado a dados e com curiosidade por problemas complexos. </li><li>Visão de negócio para transformar entregas em resultados visíveis para o cliente, mostrando o valor gerado e identificando novas oportunidades de parceria com a EvcomX. </li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/evcomx/17/product-owner-pl?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[64634070]]></companyId>
+    <city><![CDATA[Porto Alegre]]></city>
+    <state><![CDATA[Rio Grande do Sul]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[685f6fd4-67e8-421b-bd70-e6faf3818f9a]]></partnerJobId>
@@ -74660,6 +74848,34 @@ sempre limpos e bem expostos nas gôndolas do cliente, dentre outras.<br /><br /
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[c644f579-26cc-44e5-abff-da46381c4258]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[c644f579-26cc-44e5-abff-da46381c4258]]></partnerRequisitionId>
+    <company><![CDATA[DONIZETE DISTRIBUIDORA S/A]]></company>
+    <title><![CDATA[CONSULTOR DE VENDAS INTERNAS]]></title>
+    <posterEmail><![CDATA[jadson.maia@donizete.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Se você é apaixonado por construir relacionamentos, promover soluções e conquistar resultados, temos uma oportunidade incrível para você! Imagine fazer parte de uma equipe dinâmica, onde a sua habilidade de conectar-se com pessoas e entender suas necessidades será valorizada e transformada em grandes conquistas. Aqui, você poderá desenvolver sua carreira em um ambiente desafiador e inspirador, cercado(a) por profissionais motivados e dispostos a compartilhar conhecimento. Se está em busca de um espaço onde seu talento e dedicação serão reconhecidos e recompensados, não perca a chance de se juntar a nós. Venha trazer sua energia e criatividade para uma jornada onde suas contribuições farão a diferença. Estamos ansiosos para conhecer sua história e como você pode ser parte do nosso sucesso!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><br /><ul><li>Realizar atendimento presencial e remoto aos clientes, por telefone, WhatsApp e showroom;</li><li>Prospectar clientes e identificar oportunidades de vendas;</li><li>Apresentar produtos, elaborar orçamentos e negociar condições comerciais;</li><li>Efetuar vendas, registrar pedidos e acompanhar entregas;</li><li>Gerenciar carteira de clientes, buscando fidelização e novas oportunidades;</li><li>Realizar pós-venda e prestar suporte aos clientes;</li><li>Acompanhar metas e indicadores comerciais;</li><li>Manter cadastros e informações comerciais atualizados;</li><li>Atuar em conjunto com os setores de logística, financeiro e estoque.</li></ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><br /><ul><li>Ensino médio completo;</li><li>Conhecimento no Pacote Office;</li><li>Familiaridade com os sistemas Máxima e Sales Chat será considerada um diferencial.</li></ul><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br />Vale Alimentação;<br />Vale Transporte; ( por adesão)<br />Plano de saúde; ( por adesão)<br />Plano odontológico; ( por adesão)<br />WellHub (Gympass); ( por adesão) <br />Convênio com faculdades.<br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/donizetevagas/217/consultor-de-vendas-internas?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[22184004]]></companyId>
+    <city><![CDATA[Itaitinga]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1739.08]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1739.08]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -82852,7 +83068,7 @@ Apoiar as demais atividades administrativas do setor, conforme necessidade.</li>
     <company><![CDATA[Colégio GGE]]></company>
     <title><![CDATA[ESTÁGIO PEDAGOGIA]]></title>
     <posterEmail><![CDATA[coordselecaorh@ggeweb.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Garantir um ambiente favorável para o aprendizado junto aos alunos, professores e familiares, acompanhando e orientando o desempenho acadêmico dos alunos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>Auxiliar a coordenação com as demandas administrativas, informações no sistema, acompanhar a chegada dos alunos, os intervalos, os corredores. </ul><ul>Suporte as professores, suporte aos eventos, demais ativdades da função.</ul><ul>Suporte as professoras em sala de aula infantil, acompanhar a recreação, as refeições e demais atividades da sala.</ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Cursando ensino superior em Pedagogia. Letras ou em áreas relacionadas ao cargo<br /> - Boa comunicação verbal e escrita<br /> - Conhecimento básico em informática (Pacote Office)<br /> - Disponibilidade  minimo 1 ano de estágio.<br />- Disponibilidade para vagas Manhã ou Tarde<br />]]></description>
+    <description><![CDATA[<b>Descrição</b><br /><br />Garantir um ambiente favorável para o aprendizado junto aos alunos, professores e familiares, acompanhando e orientando o desempenho acadêmico dos alunos.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul>Auxiliar a coordenação com as demandas administrativas, informações no sistema, acompanhar a chegada dos alunos, os intervalos, os corredores. </ul><ul>Suporte as professores, suporte aos eventos, demais ativdades da função.</ul><ul>Suporte as professoras em sala de aula infantil, acompanhar a recreação, as refeições e demais atividades da sala.</ul><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Cursando ensino superior em Pedagogia. Letras ou em áreas relacionadas ao cargo<br /> - Boa comunicação verbal e escrita<br /> - Conhecimento básico em informática (Pacote Office)<br /> - Disponibilidade  minimo 1 ano de estágio.<br />- Disponibilidade para vagas Manhã ou Tarde<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgge/206/estagio-pedagogia?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[84804947]]></companyId>
     <city><![CDATA[Recife]]></city>
@@ -103609,6 +103825,28 @@ CNH categoria B.</li><br /><br /><b>Benefícios</b><br /><br />Ticket Alimentaç
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[b0756b55-aff8-4838-838a-bcc6ab2122fc]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[b0756b55-aff8-4838-838a-bcc6ab2122fc]]></partnerRequisitionId>
+    <company><![CDATA[GRUPO ORLETTI]]></company>
+    <title><![CDATA[Consultor de Vendas Diretas]]></title>
+    <posterEmail><![CDATA[rithielly.santos@grupoorletti.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um <strong>Consultor de Vendas Diretas</strong> para atuar na prospecção de clientes, negociação e comercialização de veículos, garantindo um atendimento de excelência e contribuindo para o alcance dos resultados comerciais da empresa. Procuramos um profissional comunicativo, proativo, orientado a resultados e com habilidade para construir relacionamentos, identificar oportunidades de negócio e oferecer as melhores soluções aos clientes.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Realizar atendimento e prospecção de empresas interessadas na compra de veículos;</li><li>Identificar necessidades dos clientes e apresentar as melhores soluções comerciais;</li><li>Realizar vendas diretas, conduzindo negociações e acompanhando todo o processo comercial;</li><li>Elaborar propostas comerciais e acompanhar o fechamento dos negócios;</li><li>Manter relacionamento com clientes, realizando follow-up e buscando novas oportunidades de vendas;</li><li>Acompanhar metas e indicadores de desempenho comercial;</li><li>Registrar informações e atualizar dados de clientes no sistema da empresa;</li><li>Participar de ações comerciais, eventos e campanhas de vendas;</li><li>Garantir um atendimento de excelência, seguindo os padrões de qualidade da empresa.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Ensino médio completo;</li><li>Experiência anterior na área comercial, preferencialmente com vendas de veículos ou vendas diretas;</li><li>Conhecimento em técnicas de negociação e atendimento ao cliente;</li><li>Habilidade de comunicação, relacionamento interpessoal e argumentação comercial;</li><li>Orientação para resultados e cumprimento de metas;</li><li>Organização, proatividade e comprometimento;</li><li>Facilidade para trabalhar com sistemas e ferramentas de gestão comercial;</li><li>Disponibilidade para atuar com atendimento presencial e prospecção de clientes;</li>
+<li>
+CNH categoria B.</li><br /><br /><b>Benefícios</b><br /><br />Ticket Alimentação ou Refeição<br />Plano de Saúde coparticipativo<br />‍Plano Odontologico<br />⛑️Seguro de Vida<br />️Convênio com o Sesc.]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/orletti/55/consultor-de-vendas-diretas?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[106603631]]></companyId>
+    <city><![CDATA[Ipatinga]]></city>
+    <state><![CDATA[Minas Gerais]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[c04b4258-ff0e-4f3c-9de7-e42ae29fea67]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c04b4258-ff0e-4f3c-9de7-e42ae29fea67]]></partnerRequisitionId>
     <company><![CDATA[GRUPO ORLETTI]]></company>
@@ -105615,6 +105853,27 @@ Totalpass]]></description>
     <posterEmail><![CDATA[tyara.silva@sangatiberga.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />A Sangati Berga está em busca de um Operador de Viradeira para executar processos de dobra e conformação de chapas metálicas, realizando a preparação e operação da máquina conforme desenhos e especificações técnicas. O profissional será responsável por garantir a precisão, qualidade e acabamento das peças produzidas, contribuindo para a continuidade do processo produtivo e o cumprimento dos prazos de fabricação.<br /><br />Tipo de contrato: CLT<br /><br /><br />Horário: a definir.  Podendo ser de segunda a quinta-feira, das 07h às 17h, e sexta-feira, das 07h às 16h, segunda a sábado, das 06h às 14h ou segunda a sábado, das 14h às 22h.<br /><br /><br />Modalidade: 100% presencial<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>Principais Atividades:</b><br /><br />Interpretar desenhos das peças a serem dobradas;  <br />Realizar o processo de dobra de peças para abastecimento dos setores produtivos, conforme especificações técnicas;  <br />Realizar o setup, regulagens e parâmetros operacionais da máquina conforme necessidade;  <br />Programar comandos básicos da máquina CNC para execução das atividades; <br />Apoiar o atendimento das demandas produtivas conforme prioridades definidas pela liderança;  <br />Contribuir na identificação e comunicação de divergências de materiais e não conformidades do processo;  <br />Apoiar a organização do fluxo operacional do setor de viradeira; <br />Acompanhar prioridades produtivas junto à liderança, contribuindo para o cumprimento dos prazos de produção;  <br />Monitorar o fluxo operacional do setor de viradeira, identificando necessidades de abastecimento e movimentação de materiais;  <br />Identificar e comunicar divergências de desenhos, materiais ou programação de viradeira às áreas responsáveis;  <br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>Competências Técnicas:</b><b><br /></b><ul><li>Ensino médio completo;</li><li>Operação de máquina viradeira; </li><li>Leitura e interpretação de desenho técnico; </li><li>Metrologia dimensional e utilização de instrumentos de medição; </li><li>Conhecimento em Setup de máquinas; </li></ul><br /><br /><br /><b>Competências Comportamentais:<br /></b><br /><ul><li>Atenção;  </li><li>Foco em resultados;  </li><li>Organização;  </li><li>Proatividade;  </li><li>Agilidade. </li></ul><br /><br /><br /><br /><b>Benefícios</b><br /><br />Alimentação na empresa (café da manhã e almoço) ou vale-refeição R$ 25,00 por dia útil (de acordo com turno de trabalho)Assistência odontológica por adesão<br />Auxílio afastamento<br />Cesta básica no mês do aniversário<br />Cesta básica por assiduidade<br />Convênios e descontos comerciais<br />Elevação de escolaridade (fundamental e médio)<br />Incentivo educacional (técnico e superior)<br />Kit BB e casamento<br />Plano de saúde LIV por R$10,62<br />Plano de saúde Pet por adesão<br />PLR semestral (sindical)<br />Premiação anual por assiduidade (R$ 500,00 - R$ 2.500,00) Premiação por melhoria sugerida e aprovada<br />Seguro de vida em grupo<br />TotalPass<br />Vale-transporte ou estacionamento coberto<br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sangatiberga/15/operador-de-viradeira?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[12660560]]></companyId>
+    <city><![CDATA[Fortaleza]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[24fa275f-3a36-4ed0-877c-ba793bf6b44e]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[24fa275f-3a36-4ed0-877c-ba793bf6b44e]]></partnerRequisitionId>
+    <company><![CDATA[Sangati Berga]]></company>
+    <title><![CDATA[Assistente de Departamento Pessoal]]></title>
+    <posterEmail><![CDATA[tyara.silva@sangatiberga.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />A Sangati Berga está em busca de profissional para atuar no suporte às rotinas de Departamento Pessoal da Sangati Berga, garantindo a organização e a qualidade das informações relacionadas aos colaboradores, com foco no controle de ponto eletrônico, benefícios, admissões, movimentações cadastrais e atendimento interno, mantendo interface contínua com o escritório de contabilidade para o correto processamento das obrigações trabalhistas.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Controle de ponto eletrônico: acompanhar registros, faltas, atrasos, horas extras, inconsistências e ajustes, garantindo o fechamento correto das informações.</li><li>Gestão de benefícios: realizar inclusões, exclusões, conferências e controles de benefícios, prestando suporte aos colaboradores.</li><li>Admissões, demissões e movimentações: apoiar admissões, demissões, alterações cadastrais, mudanças de função, benefícios e demais movimentações dos colaboradores.</li><li>Interface com a contabilidade: organizar e enviar informações, acompanhar prazos e demandas e conferir os retornos do escritório de contabilidade.</li><li>Suporte às rotinas de DP: atender colaboradores, organizar documentos e apoiar controles de férias, afastamentos e desligamentos, sem realizar cálculos de folha, férias ou rescisões.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino superior em andamento: Administração, Recursos Humanos, Contabilidade ou áreas correlatas.</li><li>
+Conhecimento nas rotinas de departamento pessoal.</li><li>Experiência com ponto eletrônico.</li><li>Conhecimento da legislação trabalhista.</li><li>Conhecimento de Excel intermediário.</li><li>Organização, proatividade, atenção aos detalhes e capacidade de cumprir prazos.</li><li>Boa comunicação e facilidade para atendimento aos colaboradores.</li></ul><br /><br /><b>Benefícios</b><br /><br />Alimentação na empresa (café da manhã e almoço)Assistência odontológica por adesão<br />Auxílio afastamento<br />Cesta básica no mês do aniversário<br />Cesta básica por assiduidade<br />Convênios e descontos comerciais<br />Elevação de escolaridade (fundamental e médio)<br />Incentivo educacional (técnico e superior)<br />Kit BB e casamento<br />Plano de saúde LIV por R$10,62<br />Plano de saúde Pet por adesão <br />PLR semestral (sindical)<br />Premiação anual por assiduidade (R$ 500,00 - R$ 2.500,00) Premiação por melhoria sugerida e aprovada<br />Seguro de vida em grupo<br />TotalPass<br />Vale-transporte ou estacionamento coberto<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/sangatiberga/24/assistente-de-departamento-pessoal?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[12660560]]></companyId>
     <city><![CDATA[Fortaleza]]></city>
     <state><![CDATA[Ceará]]></state>
