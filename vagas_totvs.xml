@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Thu, 12 Nov 2026 14:15:07 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 15:19:33 GMT</lastBuildDate>
   <publisherUrl>https://www.totvs.com/</publisherUrl>
   <publisher>TOTVS</publisher>
-  <expectedJobCount><![CDATA[4220]]></expectedJobCount>
+  <expectedJobCount><![CDATA[4210]]></expectedJobCount>
   <job>
     <partnerJobId><![CDATA[c92bacd9-7fb5-4943-b2f3-6a27e5001ae8]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c92bacd9-7fb5-4943-b2f3-6a27e5001ae8]]></partnerRequisitionId>
@@ -130,6 +130,34 @@
           <amount><![CDATA[1814.72]]></amount>
           <currencyCode>BRL</currencyCode>
         </highEnd>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[5c750aa0-2773-48ea-a3df-a924a77f0ff7]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[5c750aa0-2773-48ea-a3df-a924a77f0ff7]]></partnerRequisitionId>
+    <company><![CDATA[Credi Shop]]></company>
+    <title><![CDATA[PROMOTOR DE VENDAS - BARRA DO CORDA]]></title>
+    <posterEmail><![CDATA[liviaaguiar@credishop.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br /><ul><li>Atendimento ao publico;</li><li>Vendas externas, ofertas de produtos e serviços da Credi-Shop;</li><li>Cadastramento de propostas;</li><li>Organização do ponto de atendimento;<br /><br /></li></ul><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar a abordagem e atendimento ao cliente em pontos de venda.</li><li>Promover os produtos, destacando suas qualidades e vantagens.</li><li>Informar sobre promoções e campanhas em curso.</li><li>Registrar vendas e reportar resultados.</li><li>Participar de ações externas.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><br /><br /><ul><li> Boa comunicação;</li><li> Habilidade de negociação;</li><li> Capacidade de trabalho em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale Refeição;</li><li>Seguro de Vida;</li><li>Wellhub (Gympass);</li><li>Programa de Treinamentos;</li><li>Programa de Qualidade de Vida no Trabalho;</li><li>​Plano Odontológico;</li><li>Produtividade.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/credishop/297/promotor-de-vendas-barra-do-corda?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[1089858]]></companyId>
+    <city><![CDATA[Barra do Corda]]></city>
+    <state><![CDATA[Maranhão]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount><![CDATA[1814.72]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount><![CDATA[1814.72]]></amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -1143,10 +1171,10 @@ Salário + Produtividade;</li></ul>]]></description>
     <partnerJobId><![CDATA[959975bd-b85b-48f6-968b-650dfd6f280d]]></partnerJobId>
     <partnerRequisitionId><![CDATA[959975bd-b85b-48f6-968b-650dfd6f280d]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Engenharia Especialista de Dados e IA]]></title>
+    <title><![CDATA[[Dados] Especialista  em Engenharia de Dados e IA | Plataforma de Dados]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você fará parte da área de Inteligência de Dados e IA (IDeIA), responsável pelas plataformas de dados utilizadas pelos times de produto da TOTVS.<br /><br /><br />Todos os dias, terabytes de dados de ERP passam por essas plataformas e sustentam projetos de dezenas de times internos. Do agronegócio ao varejo, da construção à saúde, esses dados apoiam a operação e a tomada de decisão de milhares de empresas brasileiras.<br /><br /><br />Nesta posição, você atuará em parceria com os times que desenvolvem nossos produtos, ajudando a transformar necessidades de negócio em soluções de dados seguras, eficientes e escaláveis. Suas responsabilidades incluirão o desenho técnico das soluções, a revisão de arquiteturas, o apoio na resolução de questões técnicas e a identificação de oportunidades de evolução das plataformas.<br /><br /><br />A atuação é principalmente consultiva. Os times de produtos internos conduzem a implementação, enquanto você orienta as decisões arquiteturais, compartilha boas práticas e contribui para ampliar o uso de dados e IA nas soluções TOTVS.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir o onboarding de novos times nas plataformas de dados;</li><li>Elaborar desenhos técnicos em conjunto com os times e revisar a arquitetura dos projetos;</li><li>Orientar engenheiros na resolução de dúvidas por chat, chamados e videochamadas;</li><li>Acompanhar soluções, considerando custo, desempenho, confiabilidade e experiência de uso;</li><li>Criar automações e agentes de apoio que ampliem a autonomia dos usuários das plataformas;</li><li>Disseminar boas práticas de arquitetura, engenharia de dados e uso responsável de IA;</li><li>Propor evoluções e melhorias para as plataformas com base nos aprendizados da operação;</li><li>Construir e sustentar pipelines de dados batch e streaming em produção;</li><li>Atuar com orquestração de cargas, tratamento de falhas, monitoramento e rastreabilidade;</li><li>Integrar dados por meio de APIs e sistemas de mensageria, considerando a consistência dos dados;</li><li>Definir estratégias de cargas completas e incrementais;</li><li>Apoiar a definição da camada de consumo considerando volume, latência e custo;</li><li>Disponibilizar dados por APIs REST, MCP ou ferramentas de BI;</li><li>Atuar na gestão e otimização de custos em nuvem, incluindo análise de billing e utilização de recursos;</li><li>Apoiar a aplicação de boas práticas de segurança, autenticação, autorização e controle de acesso;</li><li>Atuar com segurança e isolamento de dados entre clientes em ambientes multi-tenant.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência com serviços de nuvem para ingestão, processamento e consumo de dados;</li><li>Experiência com modelagem dimensional e arquiteturas de dados em camadas;</li><li>Conhecimento de data warehouses, bancos de dados de baixa latência e mecanismos de cache;</li><li>Experiência com pipelines batch e streaming em produção;</li><li>Conhecimento de APIs REST, sistemas de mensageria e integração de dados;</li><li>Conhecimento de autenticação, autorização e controle de acesso;</li><li>Capacidade para analisar diferentes cenários e orientar decisões arquiteturais;</li><li>Capacidade para discutir arquitetura com engenheiros e sustentar recomendações técnicas;</li><li>Comunicação escrita clara, estruturada e adequada a diferentes públicos;</li><li>Autonomia para investigar problemas e propor soluções;</li><li>Pensamento crítico para identificar oportunidades de automação e aprimorar a experiência de uso;</li><li>Inglês para leitura e compreensão de documentação técnica;</li><li>Conhecimentos em GCP, especialmente BigQuery, Cloud Storage, Cloud Run, Cloud SQL, AlloyDB, Pub/Sub e Dataflow;</li><li>Conhecimentos em SQL, Python e JavaScript (Node.js);</li><li>Conhecimentos em APIs REST, MCP e DuckDB;</li><li>Conhecimentos em Looker Studio ou ferramentas de BI e visualização;</li><li>Conhecimentos em Jenkins e GitHub Actions;</li><li>Conhecimentos em Terraform e Git;</li><li>Conhecimentos em Jira e Zendesk;</li><li>Conhecimentos ou experiência com Gemini e OpenAI (Codex).</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12079/tech-engenharia-especialista-de-dados-e-ia?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12079/dados-especialista-em-engenharia-de-dados-e-ia-plataforma-de-dados?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -2225,7 +2253,7 @@ que propiciem a percepção de valor pelo cliente/prospect sobre os produtos e s
     <partnerJobId><![CDATA[c1593860-6dd8-490a-8271-359dff7e1e37]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c1593860-6dd8-490a-8271-359dff7e1e37]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Suporte] Técnico de Suporte - TOTVS Moda]]></title>
+    <title><![CDATA[[Suporte] Auxiliar de Suporte Técnico | Moda]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Atuar no suporte técnico de Totvs Moda, no
 módulo Financeiro os clientes, ajudando nas validações de erros e dúvidas
@@ -2233,7 +2261,7 @@ operacionais, atendendo nas frentes na plataforma de atendimento Whatsapp,
 Telefone e Portal Zendesk<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>    Análise das mensagens de erros no sistema, como realizar testes e
 simulações em base de treinos, reproduzindo o mesmo cenário;</li><li>Criação de FAQ para indicação de passo a passo ao cliente;</li><li>Atendimento ao cliente por
 Telefone, Whatsapp e Portal Zendesk.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Desejável formação em alguma graduação;</li><li>Desejável experiência na área financeira;</li><li>Facilidade com a tecnologia na área de informativa.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11065/suporte-tecnico-de-suporte-totvs-moda?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11065/suporte-auxiliar-de-suporte-tecnico-moda?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[Maringá]]></city>
     <state><![CDATA[Paraná]]></state>
@@ -3632,6 +3660,26 @@ das atividades junto ao time.</li></ul><br /><br /><b>Benefícios</b><br /><br /
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[46253bd5-fc15-4f6d-97a9-0feb0fbaff23]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[46253bd5-fc15-4f6d-97a9-0feb0fbaff23]]></partnerRequisitionId>
+    <company><![CDATA[TOTVS]]></company>
+    <title><![CDATA[[Tech] Engenharia de Software Sênior | .NET]]></title>
+    <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos uma pessoa Analista III de Desenvolvimento de Software – Backend (.NET) para atuar na evolução, sustentação e modernização de nossas soluções. Se você possui sólida experiência no ecossistema .NET, boas práticas de engenharia de software e interesse/experiência em Inteligência Artificial para otimizar processos de desenvolvimento, esta oportunidade é para você.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Projetar, desenvolver, testar e manter APIs e microsserviços de alta performance e disponibilidade em .NET (.NET Core / .NET 6+).</li><li>Garantir a qualidade do código por meio de testes unitários, de integração e revisões de código (Code Review).</li><li>Atuar na modelagem, otimização e consulta em bancos de dados relacionais e/ou não relacionais.</li><li>Colaborar com a equipe de arquitetura e produto na definição de soluções técnicas eficientes e escaláveis.</li><li>Identificar gargalos de performance, propor melhorias contínuas e aplicar refatoração técnica de forma segura.</li><li>Utilizar ferramentas de Inteligência Artificial para acelerar o desenvolvimento, automação e resolução de problemas complexos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Sólida experiência no desenvolvimento Backend utilizando C# e plataforma .NET (.NET Core / .NET 6+).</li><li>Domínio no desenvolvimento e consumo de APIs RESTful e arquitetura orientada a serviços / microsserviços.</li><li>Experiência com ORMs (Entity Framework, Dapper ou similares).</li><li>Conhecimento avançado em Bancos de Dados SQL (ex: SQL Server, PostgreSQL) e práticas de otimização de queries.</li><li>Aplicação de boas práticas de desenvolvimento: Clean Code, SOLID, Design Patterns e testes automatizados.</li><li>Experiência com controle de versão (Git) e integração contínua / entrega contínua (CI/CD).</li><li>Ensino Superior completo ou em andamento em Ciências da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas (ou experiência equivalente no mercado).</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/13117/tech-engenharia-de-software-senior-net?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[228296]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[5bcf3631-0c7a-4adf-95ad-9946736799c6]]></partnerJobId>
     <partnerRequisitionId><![CDATA[5bcf3631-0c7a-4adf-95ad-9946736799c6]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
@@ -3911,10 +3959,10 @@ em Excel e Powerpoint<br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; B
     <partnerJobId><![CDATA[0951821a-29ec-48c0-bb93-4484886d09b0]]></partnerJobId>
     <partnerRequisitionId><![CDATA[0951821a-29ec-48c0-bb93-4484886d09b0]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Design] Especialista em Product Designer - UX/UI]]></title>
+    <title><![CDATA[[Design] Especialista em Product Designer - UX/UI | Corporativo]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Atuar como Especialista Product Designer no time de Design Ops,, com foco em eficiência, consistência e escalabilidade das soluções de design. Ser responsável por arquitetar, evoluir e governar o Design System, garantindo sua adoção e evolução contínua. Atuar como ponte estratégica entre as necessidades de design e os times de engenharia de software, promovendo alinhamento entre experiência do usuário e viabilidade técnica. <br /><br /><br />Transformar cenários complexos e heterogêneos em uma fundação sólida, escalável e bem documentada para os produtos da organização. Contribuir para a padronização de componentes, processos, diretrizes e boas práticas, promovendo consistência entre diferentes produtos e equipes. Impulsionar a maturidade do Design System, assegurando governança, eficiência operacional e escalabilidade para suportar o crescimento do ecossistema de produtos<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar na manutenção, evolução e arquitetura das bibliotecas globais do Design System, garantindo sua escalabilidade e governança</li><li>Construir e documentar componentes complexos no Figma, assegurando flexibilidade, performance e facilidade de utilização pelos times de design</li><li>Estruturar e gerenciar a taxonomia de Design Tokens e Variáveis, incluindo temas claro e escuro, densidades e marcas, garantindo consistência semântica em todo o ecossistema de produtos</li><li>Trabalhar em estreita colaboração com os times de Engenharia Front-end para garantir que as implementações reflitam fielmente os padrões definidos no Figma, utilizando ferramentas como Storybook e similares</li><li>Disseminar as boas práticas do Design System por meio de workshops, mentorias e documentações claras, contribuindo para a adoção da cultura de Design Ops na organização</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Domínio avançado do Figma, incluindo recursos como Auto Layout, Component Properties, Variants, Nested Components e bibliotecas compartilhadas.</li><li>Vivência prática na estruturação e aplicação de Design Tokens e Variáveis, utilizando recursos nativos do Figma.</li><li>Conhecimento sólido em acessibilidade digital, com domínio das diretrizes WCAG e capacidade de aplicar critérios relacionados a contraste, navegação por teclado e estados de interação na construção de componentes.</li><li>Capacidade de elaborar documentações claras e completas para componentes, contemplando anatomia, estados, comportamento responsivo e regras de negócio</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/13131/design-especialista-em-product-designer-ux-ui?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/13131/design-especialista-em-product-designer-ux-ui-corporativo?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -5266,10 +5314,10 @@ tecnologias de desenvolvimento modernas, preferencialmente <b>React e Node.js</b
     <partnerJobId><![CDATA[f99e56fa-96d1-4bcb-9efc-2521b853e2e8]]></partnerJobId>
     <partnerRequisitionId><![CDATA[f99e56fa-96d1-4bcb-9efc-2521b853e2e8]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Engenharia Especialista de Dados e IA]]></title>
+    <title><![CDATA[[Dados] Especialista  em Engenharia de Dados e IA | Plataforma de Dados]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você fará parte da área de Inteligência de Dados e IA (IDeIA), responsável pelas plataformas de dados utilizadas pelos times de produto da TOTVS.<br /><br /><br />Todos os dias, terabytes de dados de ERP passam por essas plataformas e sustentam projetos de dezenas de times internos. Do agronegócio ao varejo, da construção à saúde, esses dados apoiam a operação e a tomada de decisão de milhares de empresas brasileiras.<br /><br /><br />Nesta posição, você atuará em parceria com os times que desenvolvem nossos produtos, ajudando a transformar necessidades de negócio em soluções de dados seguras, eficientes e escaláveis. Suas responsabilidades incluirão o desenho técnico das soluções, a revisão de arquiteturas, o apoio na resolução de questões técnicas e a identificação de oportunidades de evolução das plataformas.<br /><br /><br />A atuação é principalmente consultiva. Os times de produtos internos conduzem a implementação, enquanto você orienta as decisões arquiteturais, compartilha boas práticas e contribui para ampliar o uso de dados e IA nas soluções TOTVS.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir o onboarding de novos times nas plataformas de dados;</li><li>Elaborar desenhos técnicos em conjunto com os times e revisar a arquitetura dos projetos;</li><li>Orientar engenheiros na resolução de dúvidas por chat, chamados e videochamadas;</li><li>Acompanhar soluções, considerando custo, desempenho, confiabilidade e experiência de uso;</li><li>Criar automações e agentes de apoio que ampliem a autonomia dos usuários das plataformas;</li><li>Disseminar boas práticas de arquitetura, engenharia de dados e uso responsável de IA;</li><li>Propor evoluções e melhorias para as plataformas com base nos aprendizados da operação;</li><li>Construir e sustentar pipelines de dados batch e streaming em produção;</li><li>Atuar com orquestração de cargas, tratamento de falhas, monitoramento e rastreabilidade;</li><li>Integrar dados por meio de APIs e sistemas de mensageria, considerando a consistência dos dados;</li><li>Definir estratégias de cargas completas e incrementais;</li><li>Apoiar a definição da camada de consumo considerando volume, latência e custo;</li><li>Disponibilizar dados por APIs REST, MCP ou ferramentas de BI;</li><li>Atuar na gestão e otimização de custos em nuvem, incluindo análise de billing e utilização de recursos;</li><li>Apoiar a aplicação de boas práticas de segurança, autenticação, autorização e controle de acesso;</li><li>Atuar com segurança e isolamento de dados entre clientes em ambientes multi-tenant;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Experiência com serviços de nuvem para ingestão, processamento e consumo de dados;</b></li><li><b>Experiência com modelagem dimensional e arquiteturas de dados em camadas;</b></li><li><b>Conhecimento de data warehouses, bancos de dados de baixa latência e mecanismos de cache;</b></li><li><b>Experiência com pipelines batch e streaming em produção;</b></li><li><b>Conhecimento de APIs REST, sistemas de mensageria e integração de dados;</b></li><li><b>Conhecimento de autenticação, autorização e controle de acesso;</b></li><li><b>Capacidade para analisar diferentes cenários e orientar decisões arquiteturais;</b></li><li><b>Capacidade para discutir arquitetura com engenheiros e sustentar recomendações técnicas;</b></li><li><b>Comunicação escrita clara, estruturada e adequada a diferentes públicos;</b></li><li><b>Autonomia para investigar problemas e propor soluções;</b></li><li><b>Pensamento crítico para identificar oportunidades de automação e aprimorar a experiência de uso;</b></li><li><b>Inglês para leitura e compreensão de documentação técnica;</b></li><li><b>Conhecimentos em GCP, especialmente BigQuery, Cloud Storage, Cloud Run, Cloud SQL, AlloyDB, Pub/Sub e Dataflow;</b></li><li><b>Conhecimentos em SQL, Python e JavaScript (Node.js);</b></li><li><b>Conhecimentos em APIs REST, MCP e DuckDB;</b></li><li><b>Conhecimentos em Looker Studio ou ferramentas de BI e visualização;</b></li><li><b>Conhecimentos em Jenkins e GitHub Actions;</b></li><li><b>Conhecimentos em Terraform e Git;</b></li><li><b>Conhecimentos em Jira e Zendesk;</b></li><li><b>Conhecimentos ou experiência com Gemini e OpenAI (Codex).</b></li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12083/tech-engenharia-especialista-de-dados-e-ia?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12083/dados-especialista-em-engenharia-de-dados-e-ia-plataforma-de-dados?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -5286,10 +5334,10 @@ tecnologias de desenvolvimento modernas, preferencialmente <b>React e Node.js</b
     <partnerJobId><![CDATA[c13696aa-5e37-47c5-b09a-43d94ac4598f]]></partnerJobId>
     <partnerRequisitionId><![CDATA[c13696aa-5e37-47c5-b09a-43d94ac4598f]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Projetos] Especialista em Gestão de Projetos - PMO]]></title>
+    <title><![CDATA[[Projetos] Especialista em Gestão de Projetos - PMO | IA]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Atuar no acompanhamento e na condução tática de projetos relacionados ao LYNN, conectando áreas técnicas e de negócio para alinhar necessidades, viabilizar a implantação e promover a adoção da solução. Facilitar a integração entre as equipes, acompanhando a execução dos projetos e contribuindo para entregas de valor e para a evolução do LYNN.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Promover a adoção do LYNN pelas áreas da companhia, identificando oportunidades de aplicação da solução às necessidades do negócio.</li><li>Atuar de forma tática e participativa nos projetos de implantação e expansão do uso do LYNN, apoiando o planejamento das etapas, o alinhamento de dependências e o uso adequado das funcionalidades disponíveis.</li><li>Orientar as áreas da TOTVS quanto aos requisitos, etapas e boas práticas para implementação de iniciativas com o LYNN, acompanhando sua execução de forma estruturada e contínua.</li><li>Facilitar a comunicação e o fluxo de demandas entre áreas de negócio, equipes responsáveis pelo LYNN e demais stakeholders, alinhando prioridades, responsabilidades e expectativas de entrega.</li><li>Atuar como elo entre áreas de negócio e equipes técnicas, traduzindo necessidades em requisitos e apoiando a definição do escopo e dos critérios de aceite dos projetos.</li><li>Direcionar demandas aos especialistas responsáveis e articular a resolução de impedimentos, sinalizando riscos e dependências que possam impactar a execução dos projetos.</li><li>Apoiar análises iniciais e demandas operacionais relacionadas ao LYNN, conectando as áreas usuárias às equipes de produto, desenvolvimento e suporte quando necessário.</li><li>Atuar como usuário-chave do LYNN, apoiando a validação de funcionalidades e fornecendo feedback estruturado ao time de produto para evolução da solução.</li><li>Monitorar o andamento dos projetos sob sua atuação, mantendo o pipeline atualizado no Jira (OPAC), com informações sobre oportunidades, escopo, etapas, prazos, evolução e cancelamentos.</li><li>Acompanhar a adoção e os resultados das implementações do LYNN, identificando dificuldades de uso e oportunidades de melhoria em conjunto com as áreas envolvidas.</li><li>Elaborar e apresentar relatórios sobre o status e os resultados dos projetos, dando visibilidade às entregas, aos riscos e aos próximos passos.</li><li>Multiplicar conhecimentos sobre o LYNN junto ao time e às demais áreas, por meio de documentação, reuniões, demonstrações e treinamentos.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><strong>Formação acadêmica:</strong>Superior completo, preferencialmente em Engenharia, Tecnologia ou áreas correlatas.<strong><br /></strong><strong>Conhecimentos específicos:</strong><ul><li>Experiência mínima de 2 anos atuando com projetos de tecnologia, implantação ou suporte a soluções, com vivência em ferramentas e no ecossistema TOTVS. Desejável experiência com o LYNN ou soluções de inteligência artificial.</li><li>Planejamento e acompanhamento de projetos de tecnologia;</li><li>Levantamento de requisitos e alinhamento entre áreas técnicas e de negócio;</li><li>Funcionalidades, aplicações e boas práticas de uso do LYNN;</li><li>Fundamentos de inteligência artificial, agentes de IA e modelos de linguagem;</li><li>Noções de integração entre sistemas e fontes de dados;</li><li>Ecossistema TOTVS;</li><li>Métodos ágeis e ferramentas de acompanhamento de demandas e projetos, como Jira;</li><li>Boas práticas de segurança e privacidade no uso de dados e soluções de IA;</li><li>Ferramentas de Analytics/BI (opcional).</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Saúde &amp; Bem-Estar:</b><br /><ul><li>Plano médico e odontológico;<br /></li><li>Atendimento médico online 24/7;<br /></li><li>1 dia off por ano (Reset Day);<br /></li><li>Parceria com academias e apps de saúde (Wellhub);<br /></li><li>Programa de apoio psicológico, financeiro e jurídico.<br /></li></ul><b>Alimentação e Mobilidade:</b><br /><ul><li>Vale-refeição e alimentação;<br /></li><li>Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda);<br /></li><li>Bicicletário e vestiário no escritório de SP.<br /></li></ul><b>Desenvolvimento e capacitação contínua:</b><br /><ul><li>Programas e trilhas internas de aprendizagem;<br /></li><li>Universidade Corporativa;<br /></li><li>Ciclos de avaliação de desenvolvimento e performance.<br /></li></ul><b>Família:</b><br /><ul><li>Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub);<br /></li><li>Parceria com plano de saúde pet;<br /></li><li>Licença parental expandida;<br /></li><li>Auxílio creche mensal;<br /></li><li>Programa interno de orientação e grupos de apoio;<br /></li><li>Seguro de vida e apoio à família.<br /></li></ul><b>Finanças:</b><br /><ul><li>Participação nos Lucros e Resultados (PLR);<br /></li><li>Previdência privada TOTVS;<br /></li><li>Taxas diferenciadas em empréstimo e financiamento (Itaú);<br /></li><li>Descontos exclusivos em empresas parceiras.<br /></li></ul><br /><ul><li><i>Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade.</i></li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12552/projetos-especialista-em-gestao-de-projetos-pmo?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12552/projetos-especialista-em-gestao-de-projetos-pmo-ia?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -5326,7 +5374,7 @@ tecnologias de desenvolvimento modernas, preferencialmente <b>React e Node.js</b
     <partnerJobId><![CDATA[6b975642-6fa2-4fc1-866a-5d2d05d1c52e]]></partnerJobId>
     <partnerRequisitionId><![CDATA[6b975642-6fa2-4fc1-866a-5d2d05d1c52e]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Designer] Especialista em UX Product Designer pleno]]></title>
+    <title><![CDATA[[Design] Especialista Pleno em Product Design - UX/UI | Corporativo]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Preservar a governança de premissas e boas práticas de usabilidade, user interface e Design Thinking, por meio da otimização de ferramentas e conteúdo que auxiliem os
 designers na prototipação em média e alta fidelidade de soluções corporativas com o objetivo de maximizar a promoção e manutenção da consistência visual e experiência do
@@ -5340,7 +5388,7 @@ experientes; </li><li>Maximizar a comunicação e experiência digital entre as 
 ux design; </li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br />Formação: Superior completo (design, publicidade, comunicação, tecnologia ou outras); Conhecimentos específicos: <br /><ul><li>Conhecimento avançado com operação em Design System e delivery de conteúdo e ferramentas de ux design; </li><li>Conhecimento avançado nas atividades de arquitetura de informação, wireframe, usabilidade, interação, protótipo navegável,
 layout, validações, teste de usabilidade e workshop de ideação; </li><li>Conhecimento avançado de times, workshops, entrevistas, validações, testes e criação de vídeos sobre ux design; </li><li>Conhecimento avançado de trabalho em equipe em projetos de alta complexidade com abordagem de Design Thinking; </li><li>Conhecimento avançado com projetos a respeito de processos, serviços e produtos digitais; </li><li>Conhecimento avançado das Heurísticas de Nielsen </li><li>Conhecimento avançado em entendimento e construção de propostas de projetos e cronogramas de UX </li><li>Conhecimento avançado Figma e Axure ou outro software de prototipação de média e alta fidelidade; </li><li>Conhecimento avançado Design Sprint; </li><li>Conhecimento avançado Design Thinking; </li><li>Conhecimento avançado pesquisa, teste de usabilidade e handoff de componentes; </li><li>Conhecimento avançado gerenciamento de library e assets; </li><li>Conhecimento intermediário em metodologias ágeis;
 Certificações: </li><li>Certificação: Cursos sobre o tema UX; </li><li>Certified Professional for Usability and User Experience (CPUX) </li><li>User Experience Professionals Association (UXPA) Certification </li><li>Interaction Design Foundation (IDF) Certification </li><li>Certified Information Design (CID) </li><li>UX Certification UX Certification - NN/g</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12553/designer-especialista-em-ux-product-designer-pleno?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/12553/design-especialista-pleno-em-product-design-ux-ui-corporativo?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -5876,10 +5924,10 @@ Pós-graduação na área de Marketing, Negócios ou similares;</li><li>Habilida
     <partnerJobId><![CDATA[638cdb18-b872-4810-9cfe-b2b9b12e171a]]></partnerJobId>
     <partnerRequisitionId><![CDATA[638cdb18-b872-4810-9cfe-b2b9b12e171a]]></partnerRequisitionId>
     <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[[Tech] Engenharia Especialista de Dados e IA]]></title>
+    <title><![CDATA[[Dados] Especialista em Engenharia de Dados e IA | Plataforma de Dados]]></title>
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Você fará parte da área de Inteligência de Dados e IA (IDeIA), responsável pelas plataformas de dados utilizadas pelos times de produto da TOTVS.<br /><br /><br />Todos os dias, terabytes de dados de ERP passam por essas plataformas e sustentam projetos de dezenas de times internos. Do agronegócio ao varejo, da construção à saúde, esses dados apoiam a operação e a tomada de decisão de milhares de empresas brasileiras.<br /><br /><br />Nesta posição, você atuará em parceria com os times que desenvolvem nossos produtos, ajudando a transformar necessidades de negócio em soluções de dados seguras, eficientes e escaláveis. Suas responsabilidades incluirão o desenho técnico das soluções, a revisão de arquiteturas, o apoio na resolução de questões técnicas e a identificação de oportunidades de evolução das plataformas.<br /><br /><br />A atuação é principalmente consultiva. Os times de produtos internos conduzem a implementação, enquanto você orienta as decisões arquiteturais, compartilha boas práticas e contribui para ampliar o uso de dados e IA nas soluções TOTVS.<br /><br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Conduzir o onboarding de novos times nas plataformas de dados;</li><li>Elaborar desenhos técnicos em conjunto com os times e revisar a arquitetura dos projetos;</li><li>Orientar engenheiros na resolução de dúvidas por chat, chamados e videochamadas;</li><li>Acompanhar soluções, considerando custo, desempenho, confiabilidade e experiência de uso;</li><li>Criar automações e agentes de apoio que ampliem a autonomia dos usuários das plataformas;</li><li>Disseminar boas práticas de arquitetura, engenharia de dados e uso responsável de IA;</li><li>Propor evoluções e melhorias para as plataformas com base nos aprendizados da operação;</li><li>Construir e sustentar pipelines de dados batch e streaming em produção;</li><li>Atuar com orquestração de cargas, tratamento de falhas, monitoramento e rastreabilidade;</li><li>Integrar dados por meio de APIs e sistemas de mensageria, considerando a consistência dos dados;</li><li>Definir estratégias de cargas completas e incrementais;</li><li>Apoiar a definição da camada de consumo considerando volume, latência e custo;</li><li>Disponibilizar dados por APIs REST, MCP ou ferramentas de BI;</li><li>Atuar na gestão e otimização de custos em nuvem, incluindo análise de billing e utilização de recursos;</li><li>Apoiar a aplicação de boas práticas de segurança, autenticação, autorização e controle de acesso;</li><li>Atuar com segurança e isolamento de dados entre clientes em ambientes multi-tenant;</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><b>Experiência com serviços de nuvem para ingestão, processamento e consumo de dados;</b></li><li><b>Experiência com modelagem dimensional e arquiteturas de dados em camadas;</b></li><li><b>Conhecimento de data warehouses, bancos de dados de baixa latência e mecanismos de cache;</b></li><li><b>Experiência com pipelines batch e streaming em produção;</b></li><li><b>Conhecimento de APIs REST, sistemas de mensageria e integração de dados;</b></li><li><b>Conhecimento de autenticação, autorização e controle de acesso;</b></li><li><b>Capacidade para analisar diferentes cenários e orientar decisões arquiteturais;</b></li><li><b>Capacidade para discutir arquitetura com engenheiros e sustentar recomendações técnicas;</b></li><li><b>Comunicação escrita clara, estruturada e adequada a diferentes públicos;</b></li><li><b>Autonomia para investigar problemas e propor soluções;</b></li><li><b>Pensamento crítico para identificar oportunidades de automação e aprimorar a experiência de uso;</b></li><li><b>Inglês para leitura e compreensão de documentação técnica;</b></li><li><b>Conhecimentos em GCP, especialmente BigQuery, Cloud Storage, Cloud Run, Cloud SQL, AlloyDB, Pub/Sub e Dataflow;</b></li><li><b>Conhecimentos em SQL, Python e JavaScript (Node.js);</b></li><li><b>Conhecimentos em APIs REST, MCP e DuckDB;</b></li><li><b>Conhecimentos em Looker Studio ou ferramentas de BI e visualização;</b></li><li><b>Conhecimentos em Jenkins e GitHub Actions;</b></li><li><b>Conhecimentos em Terraform e Git;</b></li><li><b>Conhecimentos em Jira e Zendesk;</b></li><li><b>Conhecimentos ou experiência com Gemini e OpenAI (Codex).</b></li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11861/tech-engenharia-especialista-de-dados-e-ia?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/11861/dados-especialista-em-engenharia-de-dados-e-ia-plataforma-de-dados?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -6260,26 +6308,6 @@ A posição está inserida na Gerência Executiva de Planejamento e Negócios, q
     <posterEmail><![CDATA[renata.cardozo@totvs.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) Analista Protheus com experiência em implantação, migração e suporte funcional/técnico para atuar nos principais módulos do sistema TOTVS Protheus. Essa pessoa será responsável por garantir a estabilidade, performance e aderência do sistema às necessidades das áreas de negócio, contribuindo diretamente para a eficiência dos processos corporativos.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><b>O QUE VOCÊ VAI FAZER:<br /></b><ul><li>Realizar implantação, migração e suporte das versões recentes do Protheus TOTVS, assegurando o funcionamento adequado dos módulos e integrações;</li><li>Atuar tecnicamente junto aos usuários e equipes internas, prestando suporte remoto e presencial;</li><li>Efetuar o levantamento e desenho de requisitos de negócio relacionados à área de Controladoria;</li><li>Analisar e resolver incidentes de forma ágil e crítica, garantindo a continuidade dos processos operacionais;</li><li>Criar e ajustar sintaxes em ADVPL para Lançamentos Padronizados e CNABs;</li><li>Garantir o alinhamento entre as demandas funcionais e as configurações técnicas do sistema.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><b>O QUE ESPERAMOS DE VOCÊ:</b><br /><ul><li>Formação superior completa ou em andamento em Tecnologia da Informação, Administração, Contabilidade ou áreas correlatas;</li><li>Experiência comprovada com implantação, migração e suporte do Protheus TOTVS nos módulos de Gestão Fiscal, Financeiro, Contabilidade e Ativo Fixo;</li><li>Conhecimento em parametrizações, rotinas, integrações e funcionalidades dos módulos citados;</li><li>Experiência em ADVPL.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/7143/servicos-analista-de-implantacao-pleno-protheus?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[228296]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6cb269fe-b787-4a11-ba57-7eb0ab20a42a]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[6cb269fe-b787-4a11-ba57-7eb0ab20a42a]]></partnerRequisitionId>
-    <company><![CDATA[TOTVS]]></company>
-    <title><![CDATA[Analista Sênior de Infraestrutura (PROTHEUS)]]></title>
-    <posterEmail><![CDATA[rodrigo.gguimaraes@totvs.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Realizar o atendimento de suporte à infraestrutura dos ambientes dos clientes, contribuindo com a satisfação dos clientes atendidos pela operação Cloud.<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar o atendimento e/ou diagnóstico dos ambientes dos clientes por meio dos canais TOTVS, resolvendo assuntos de alta complexidade referentes à infraestrutura;</li><li>Redigir relatórios técnicos e procedimentos operacionais direcionados ao acompanhamento dos ambientes, avaliando o ambiente e comparando com os padrões estabelecidos por Cloud de melhores práticas;</li><li>Fornecer status das demandas em evolução (quando solicitado pelo cliente e/ou equipes internas), por meio de canais de atendimento (telefônico, por e-mail, sistema);</li><li>Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e/outros) quanto para o resultado/metas da área, por meio da realização das demandas de acordo com os procedimentos padrões definidos em Cloud;</li><li>Alertar a coordenação e liderança e atuar em potenciais riscos ou crises em clientes, registrando ticket conforme procedimento interno descrito pela área;</li><li>Manter atualizados FAQs/banco de conhecimento com as soluções definidas e repassadas aos clientes, descrevendo soluções KCS de nível 1, conforme demandas recorrentes atendidas no dia a dia;</li><li>Conduzir de forma efetiva os processos de melhorias, identificando problemas e questões relevantes, detectando novas soluções e praticando ações de melhoria;</li><li>Apoiar no desenvolvimento dos analistas mais juniores, por meio da multiplicação de conhecimento;</li><li>Instalar e suportar tecnologias TOTVS e/ou de mercado, utilizando soluções de alta disponibilidade, seguindo os procedimentos preestabelecidos por Cloud e descritos no manual de melhores práticas e padrões da área;</li><li>Definir e executar mudanças nos ambientes, tendo ampla visão dos riscos e impactos, avaliando infraestrutura, padrões de Cloud e necessidades, conforme melhores práticas;</li><li>Sugerir e implementar a automação de processos repetitivos com objetivo de uma melhora sustentável, por meio de acompanhamento de indicadores de eficiência e demanda da área;</li><li>Garantir a plena funcionalidade dos ambientes Cloud, por meio da realização de parametrizações, configurações e migrações de ambientes.</li></ul><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Formação: Graduação nas áreas de Tecnologia da Informação ou afins.</li><li>Conhecimentos específicos:</li><li>Administração de ambientes relacionados ao produto TOTVS – nível Avançado;</li><li>Infraestrutura e Datacenter – nível Intermediário;</li><li>Infraestrutura de Nuvens públicas –nível Intermediário;</li><li>Ferramentas de automação –nível Intermediário.</li><li>Certificações:</li><li>ITIL Foundation -Information Technology Infrastructure Library;</li><li>Sistemas operacionais ou Banco de dados.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora;</li><li>Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;</li><li>Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras;</li><li>Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...</li><li>Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;</li><li>Plano de saúde e odontológico;</li><li>Vale refeição e / ou alimentação;</li><li>Vale transporte e fretados em algumas estações do metrô;</li><li>Licença maternidade e paternidade estendida;</li><li>Espaço de lactário;</li><li>Bicicletário;</li><li>Vestiário;</li><li>Seguro de vida;</li><li>Auxílio creche;</li><li>Previdência privada;</li><li>Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;</li><li>Gympass.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vempratotvs/6571/analista-senior-de-infraestrutura-protheus?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[228296]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -17923,6 +17951,26 @@ auditoria externa; </li><li>Proficiência avançada em Microsoft Excel; </li><li
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[669ed0a5-3aa8-4447-9e6b-bf6b14607ba7]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[669ed0a5-3aa8-4447-9e6b-bf6b14607ba7]]></partnerRequisitionId>
+    <company><![CDATA[UniStart | Unimarka]]></company>
+    <title><![CDATA[Jovem Aprendiz - Cadastro de reserva]]></title>
+    <posterEmail><![CDATA[rhviana@unimarka.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você é uma pessoa ativa, gosta de aprender e deseja iniciar sua carreira profissional em uma empresa com oportunidade de crescimento?<br /><b>Então essa vaga é para você!</b><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realiza atendimentos presenciais ou telefônicos e recepciona públicos diversos;</li><li>Classifica, organiza, controla e arquiva documentos;</li><li>Faz cadastros, lançamentos e atualizações nos sistemas;</li><li>Executa outras atividades correlatas solicitadas pelo gestor.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ter idade entre 15 e 17 anos;</li><li>Ensino médio cursando;</li><li>Ser a primeira oportunidade de carteira assinada.</li></ul><br /><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Salário conforme legislação;</li><li>Vale transporte;</li><li>Educação corporativa;</li><li>Desafios para seu desenvolvimento profissional.</li></ul><br /><br /><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/unistart/1352/jovem-aprendiz-cadastro-de-reserva?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[65466539]]></companyId>
+    <city><![CDATA[Viana]]></city>
+    <state><![CDATA[Espírito Santo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[62984935-193d-46ed-94a5-b9d016d80e12]]></partnerJobId>
     <partnerRequisitionId><![CDATA[62984935-193d-46ed-94a5-b9d016d80e12]]></partnerRequisitionId>
     <company><![CDATA[UniStart | Unimarka]]></company>
@@ -20593,6 +20641,26 @@ Participar de treinamentos e reuniões comerciais sempre que solicitado.</li></u
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasguaraves/196/aux-carga-e-descarga?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[6994713]]></companyId>
     <city><![CDATA[Macaíba]]></city>
+    <state><![CDATA[Rio Grande do Norte]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[fb327346-07ea-48dc-af26-19ad14c44b0c]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[fb327346-07ea-48dc-af26-19ad14c44b0c]]></partnerRequisitionId>
+    <company><![CDATA[Grupo Guaraves]]></company>
+    <title><![CDATA[Jovem Aprendiz Administrativo]]></title>
+    <posterEmail><![CDATA[anderson.oliveira@guaraves.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) <strong>Aprendiz Assistente Administrativo</strong> para atuar em nossa equipe e desenvolver habilidades práticas na área administrativa. Essa oportunidade é ideal para jovens que desejam iniciar sua trajetória profissional em um ambiente dinâmico e que valoriza o aprendizado e o desenvolvimento pessoal.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Auxiliar na organização e arquivamento de documentos.</li><li>Realizar lançamentos e atualizações em planilhas e sistemas administrativos.</li><li>Apoiar no controle de materiais e insumos do setor.</li><li>Realizar atendimento telefônico e presencial, encaminhando solicitações para os responsáveis.</li><li>Dar suporte às demandas administrativas de diferentes setores, conforme orientação.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Idade entre 18 e 21 anos.</li><li>Ensino médio concluído.</li><li>Boa comunicação e vontade de aprender.</li>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasguaraves/436/jovem-aprendiz-administrativo?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[6994713]]></companyId>
+    <city><![CDATA[Mossoró]]></city>
     <state><![CDATA[Rio Grande do Norte]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
@@ -27117,26 +27185,6 @@ Desejável experiência na área<br /><br /><b>Benefícios</b><br /><br />Salár
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[1b7959e7-5a43-4039-af9b-530eebc3d3ba]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[1b7959e7-5a43-4039-af9b-530eebc3d3ba]]></partnerRequisitionId>
-    <company><![CDATA[Ceneged]]></company>
-    <title><![CDATA[Agente Comercial Leiturista a pé - Lago da Pedra]]></title>
-    <posterEmail><![CDATA[ivananunes@ceneged.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) profissional para atuar como Agente Comercial de Campo, responsável por realizar atividades comerciais conforme procedimentos e normas estabelecidas pela empresa, garantindo o cumprimento das rotinas operacionais com qualidade e eficiência. Entre as principais atribuições, estão a entrega de notificações aos clientes, a coleta de leitura do consumo de energia elétrica nos locais designados e a execução de demais atividades correlatas à função, conforme demanda. Procuramos alguém com ensino médio completo, boa comunicação, organização e senso de responsabilidade, que tenha disponibilidade para atividades externas e se identifique com rotinas em campo. Experiência prévia com atendimento ao cliente ou atividades similares será considerada um diferencial.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Realizar atividades comerciais conforme procedimentos e normas;• Entrega de notificação ao cliente;<br />• Colher leitura do consumo de energia;<br />• Executar demais atividades correlatas a função<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />• Ensino médio completo;<br /><br /><br /><br /><b>Benefícios</b><br /><br />• Vale Alimentação;• Plano de saúde 100% custeado pela empresa;<br />• Plano odontológico;<br />• Cartão BULLA<br /> • Seguro de vida.<br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/cenegedvagas/442/agente-comercial-leiturista-a-pe-lago-da-pedra?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[9250455]]></companyId>
-    <city><![CDATA[Lago da Pedra]]></city>
-    <state><![CDATA[Maranhão]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[422a887e-2924-4909-8933-c94d52565d2d]]></partnerJobId>
     <partnerRequisitionId><![CDATA[422a887e-2924-4909-8933-c94d52565d2d]]></partnerRequisitionId>
     <company><![CDATA[Ceneged]]></company>
@@ -29824,7 +29872,7 @@ inovadores. Com atuação presencial em Alagoas.<br /><br /><b>Responsabilidades
     <partnerJobId><![CDATA[f6ca45f3-d484-4db0-a4ce-87eee81776a7]]></partnerJobId>
     <partnerRequisitionId><![CDATA[f6ca45f3-d484-4db0-a4ce-87eee81776a7]]></partnerRequisitionId>
     <company><![CDATA[Grupo Tribuna]]></company>
-    <title><![CDATA[Agente de Vendas e Atendimento]]></title>
+    <title><![CDATA[AGENTE DE VENDAS E ATENDIMENTO]]></title>
     <posterEmail><![CDATA[gabrielly.assis@grupo-tribuna.com]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de pessoas dinâmicas e motivadas que desejam fazer parte de uma equipe apaixonada por resultados e pela construção de relacionamentos sólidos. Se você é alguém que valoriza a oportunidade de crescimento pessoal e profissional, esta é a sua chance de se juntar a um ambiente colaborativo e inovador. Acreditamos no potencial de cada um e proporcionamos um espaço onde suas ideias e contribuições são bem-vindas. Aqui, você terá a chance de se desenvolver continuamente, aprender com os melhores e alcançar seus objetivos. Se você está pronto(a) para um novo desafio e quer fazer a diferença com suas habilidades de comunicação e persuasão, não perca essa oportunidade única. Venha conhecer mais sobre a nossa equipe e descubra como você pode brilhar em sua carreira conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Realizar a prospecção de potenciais clientes e atendimento ao cliente com excelência;  Realizar vendas direta com agenda de ex assinantes e leads.  Utilizar os canais de atendimento da empresa para comunicação e venda (telefone ativo, WhatsApp, E-mail) com potencial cliente.  Responder e-mail de clientes ou prospecção. Participar de eventos externos com foco em vendas de assinaturas. Negociar os preços de assinatura, os prazos, as condições de pagamento e os descontos da venda.  Orientar o cliente sobre as especificações dos produtos e/ou serviços. Participar de reuniões de vendas. Controlar as demandas dos pedidos em pré-venda e venda realizada. Cumprir as metas de vendas.  Acompanhar as primeiras entregas do produto ofertado  Responder às solicitações dos clientes nos canais da empresa com foco em solucionar e sanar dúvidas;  Realizar cobrança quando necessário com negociação junto aos assinantes da carteira.  Orientar e acompanha as falhas de entrega do jornal impresso; Orientar e acompanha os acessos online do jornal online e Clube;  Atender o cliente presencialmente quando necessário na empresa. Divulgar e/ou comunica sobre ações do Clube, além de orientar sobre as ações.  Atualizar os cadastros do cliente sempre que em contato com ele.  Realizar pós-venda, diariamente, após os processos de reposição.<br /><br /><b>Requisitos e qualificações</b><br /><br />Ensino médio completo Habilidades de negociação <br />Técnicas de vendas<br />Boa capacidade de comunicação<br />Boa comunicação oral e escrita <br />Bom relacionamento interpessoal <br />Facilidade para lidar com público<br />Disponibilidade de horário para trabalhar finais de semana <br /><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br />VAVR<br />Auxílio Creche<br />Totalpass<br />Sesc<br />Plano de Saúde com COPART Unimed<br />Plano odontológico <br />Clube de vantagens <br />Parceria com universidades e escolas de idiomas <br />Seguro de vida em grupo<br /><br /><br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupotribuna/15/agente-de-vendas-e-atendimento?applicationSource=0]]></applyUrl>
@@ -29911,10 +29959,10 @@ também nos telejornais locais com participação ao vivo.<br /><br /><br /><br 
     <partnerJobId><![CDATA[cfd8586e-14d0-4c12-8941-5f509b588fc9]]></partnerJobId>
     <partnerRequisitionId><![CDATA[cfd8586e-14d0-4c12-8941-5f509b588fc9]]></partnerRequisitionId>
     <company><![CDATA[Grupo Tribuna]]></company>
-    <title><![CDATA[OPERADOR DE SISTEMA DE TRANSMISSÃO]]></title>
+    <title><![CDATA[OPERADOR SISTEMA DE TRANSMISSÃO]]></title>
     <posterEmail><![CDATA[gabrielly.assis@grupo-tribuna.com]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você tem um perfil ágil, é atento aos detalhes e entende de transmissão e tratamento de sinal, essa oportunidade é para você!Chegou a sua vez de trabalhar no conglomerado de comunicação da Baixada santista e vale do Ribeira. <br /><br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Operar e Controlar Equipamentos de Transmissão e Distribuição do Sinal que atendem a estação transmissora e as demais localidades/estações retransmissoras e repetidoras da área de Cobertura da emissora via Sistemas de Redes ETH.- Monitorar as infraestruturas necessárias para os Sistemas de Transmissão (Grupos Geradores de Energia , Nobreaks , Climatização dos Ambientes , Telefonia , Água , Redes ETHERNET ) E também monitorar e zelar pelas câmeras remotas a segurança patrimonial dos locais retransmissores, acionando a Policia, etc, quando necessário.- Intervir com Manobras de Sinais e Equipamentos nos casos emergenciais (Troca de Transmissores, Troca de Sinais, Partida Manual de Grupo Geradores de Energia, Manobra de Chaves, Revezamento de Aparelhos Ar Condicionados)- Atendimento por telefone ao Telespectador (SAT) visando dar suporte nas reclamações de falhas ou dificuldades na recepção dos sinais transmitidos. Elabora e Registra Relatórios Padrões dos atendimentos.- Acionar e Suportar com apoio o Grupo de Técnicos que faz toda a Manutenção de todo sistema de transmissão, assim como acionar os provedores de energia, telefonia nos casos de pane que afetem os sistemas de transmissão.- Monitorar e Acionar Parceiros ou Operadoras (Vivo, Claro, GVT, Sky) que transmitem os sinais da emissora por outros meios (ex.:Satélite ).- Operar, Controlar e Coordenar as Recepções de Sinais para as Transmissões ao Vivo de Jornalismo Local e da Rede ( Estadual e Nacional).- Analisar a Qualidade dos Sinais de Jornalismo ao Vivo e Canalizar ao Estúdio, através de recursos de comutações.- Operar e Controlar Equipamentos de Contribuição dos Sinais de Jornalismo via Sistemas de Redes ETH.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Noção Rede Internet, Rede IP, HTML, WEb Service, Switches e Routers- Operação e configuração de IRds, Encoders, Decoders, Matriz de AV e distribuidores, ASI, SDI-Tratamento de sinal DVBS/DVBS2, MPEG2/MPEG4- Ensino Técnico em Telecomunicações/Técnico em Eletrônica/Técnico em Eletrotécnica- Técnico em Radiodifusão ou áreas correlatas<br /><br /><br /><br /><br /><br /><b>Benefícios</b><br /><br />- Vale Alimentação e Refeição;- Assistência Médica e Odontológica;<br />- Seguro de Vida em Grupo;<br />- Cartão Farmácia;<br />- Clube de Vantagens A Tribuna;<br />- Plataforma de cursos Uniglobo;<br />- Parcerias com Universidades e Escolas de Idiomas;<br />- Parceria com Clínica de Psicologia.<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupotribuna/31/operador-de-sistema-de-transmissao?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupotribuna/31/operador-sistema-de-transmissao?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[74987803]]></companyId>
     <city><![CDATA[Santos]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -43108,221 +43156,6 @@ Buscamos uma pessoa especialista em UX, com profundidade em pesquisa e design sy
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[2ed6485c-4618-4dd6-9325-bec552189ecb]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[2ed6485c-4618-4dd6-9325-bec552189ecb]]></partnerRequisitionId>
-    <company><![CDATA[Confience]]></company>
-    <title><![CDATA[Analista de Dados Associado]]></title>
-    <posterEmail><![CDATA[adriana.oliveira@labsoft.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Nossa equipe está crescendo e queremos pessoas que se sintam motivadas a trabalhar em um ambiente dinâmico e inovador. Ao se juntar a nós, você terá a oportunidade de colaborar em projetos desafiadores e impactantes, onde a análise de dados desempenha um papel crucial nas tomadas de decisões estratégicas. Valorizamos a criatividade e a proatividade, e oferecemos um espaço onde suas ideias podem brilhar. Se você deseja fazer parte de uma equipe que estimula o crescimento e o desenvolvimento profissional, encorajamos você a considerar essa oportunidade. Venha compartilhar sua expertise e contribuir para um futuro promissor conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Desenvolver, manter e otimizar dashboards e relatórios no <strong>Power BI</strong>
-</li>
-<li>
-Realizar modelagem de dados garantindo performance e escalabilidade
-</li>
-<li>
-Extrair, tratar e analisar dados utilizando <strong>SQL</strong>
-</li>
-<li>
-Traduzir necessidades de negócio em soluções analíticas e visuais
-</li>
-<li>
-Apoiar áreas internas com análises que suportem a tomada de decisão
-</li>
-<li>
-Monitorar indicadores (KPIs) e propor melhorias baseadas em dados
-</li>
-<li>Integrar dados de diferentes fontes (CRM, ERP, ferramentas de projetos, etc.) </li>
-<li>
-Garantir a qualidade, consistência e governança dos dados
-</li>
-<li>
-Documentar processos, métricas e fontes de dados
-</li><li>curiosidade de aprender novas soluções e ferramentas e aplicar no dia-a-dia</li>
-<li>
-Explorar e aplicar soluções com <strong>IA e automação</strong> para ganho de eficiência</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li><strong>Inglês Avançado:</strong> Capacidade de conduzir reuniões e se comunicar de forma independente com stakeholders internacionais.</li><li>Experiência com <strong>SQL</strong> para manipulação e análise de dados</li><li>Experiência com <strong>Power BI</strong> (modelagem de dados e criação de dashboards)</li><li>Conhecimento em conceitos de <strong>Business Intelligence</strong> e análise de dados</li><li>Capacidade analítica e habilidade de transformar dados em insights acionáveis</li><li>Boa comunicação para interação com áreas de negócio</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Convênio médico</li><li>Convênio Odontológico</li><li>Participação nos lucros</li><li>Auxílio-creche</li><li>Estacionamento gratuito</li><li>Trabalho remoto</li><li>Vale-alimentação</li><li>Vale-refeição</li><li>Day Off entre outros.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslabsoft/38/analista-de-dados-associado?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2320942]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[1a6215d6-5fea-4669-8c54-3b7dc89cd22a]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[1a6215d6-5fea-4669-8c54-3b7dc89cd22a]]></partnerRequisitionId>
-    <company><![CDATA[Confience]]></company>
-    <title><![CDATA[Analista Financeiro/Contas a Pagar/Contas a Receber (Com Inglês Avançado)]]></title>
-    <posterEmail><![CDATA[adriana.oliveira@labsoft.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Nossa equipe está em busca de profissionais com grande paixão por finanças, que desejam atuar em um ambiente dinâmico e colaborativo. Aqui, você encontrará um espaço ímpar para desenvolver suas habilidades, contribuir com ideias inovadoras e fazer a diferença no desempenho financeiro da empresa. Valorizamos a dedicação e o compromisso, além de oferecer um ambiente propício ao aprendizado e ao crescimento. Venha fazer parte de uma jornada transformadora e inspiradora.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Gerenciar contas a pagar e contas a receber, garantindo precisão e processamento dentro dos prazos
-</li>
-<li>
-Monitorar recebimentos e realizar follow-up com clientes sobre valores em aberto
-</li>
-<li>
-Processar pagamentos a fornecedores
-</li>
-<li>
-Realizar conciliações financeiras e resolver divergências
-</li>
-<li>
-Manter registros financeiros organizados e atualizados</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><li>Experiência com processos de contas a pagar e contas a receber
-</li>
-<li>
-Forte organização e atenção aos detalhes
-</li>
-<li>
-Capacidade de gerenciar múltiplas tarefas e prazos</li><br /><br /><b>Benefícios</b><br /><br /><ul><li>Convênio médico</li><li>Convênio Odontológico</li><li>Participação nos lucros</li><li>Auxílio-creche</li><li>Estacionamento gratuito</li><li>Trabalho remoto</li><li>Vale-alimentação</li><li>Vale-refeição</li><li>Day Off entre outros.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslabsoft/36/analista-financeiro-contas-a-pagar-contas-a-receber-com-ingles-avancado?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2320942]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[60ac6e4f-da4b-4ef8-b4d2-520767f0b115]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[60ac6e4f-da4b-4ef8-b4d2-520767f0b115]]></partnerRequisitionId>
-    <company><![CDATA[Confience]]></company>
-    <title><![CDATA[Gestor de Projetos com Inglês Avançado - Júnior]]></title>
-    <posterEmail><![CDATA[adriana.oliveira@labsoft.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional que tenha paixão por projetos de implantação e que deseja crescer e se desenvolver nessa área. Se você se identifica com essas características e está em busca de uma oportunidade desafiadora para colocar em prática seus conhecimentos, venha fazer parte da nossa equipe como Gestor de Projetos LATAM.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Gerenciar o ciclo completo dos projetos, desde a iniciação até a entrega final;- Planejar, coordenar, executar, monitorar e avaliar as atividades dos projetos, assegurando cumprimento de prazos, custos e qualidade;<br />- Liderar equipes multidisciplinares, delegando responsabilidades e acompanhando resultados;<br />- Conduzir projetos de implantação do <strong>myLIMS</strong> e suas funcionalidades, garantindo alinhamento com escopo definido e portfólio da empresa;<br />- Identificar e mitigar riscos, propondo soluções eficazes para manter a integridade do projeto;<br />- Negociar com clientes mudanças de escopo, prazos, treinamentos e documentação;<br />- Atuar como ponto central de comunicação entre clientes, equipe técnica e centro de desenvolvimento;<br />- Produzir e apresentar relatórios executivos de status, cronograma, mapa de riscos e controles financeiros;<br />- Garantir a aprovação de marcos críticos do projeto pelos clientes;<br />- Organizar reuniões de acompanhamento e capacitação, assegurando engajamento e alinhamento dos stakeholders.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Inglês Avançado/Fluente;<br />- Formação Superior completa; - Conhecimento em metodologias ágeis, hibridas e tradicionais de gestão de projetos;<br />-Experiência na gestão de projetos de implantação ou ligados a aplicação de sistemas <br />- Excel Intermediário;<br />- Habilidade em análise de dados e elaboração de relatórios; <br />- Experiência em gestão/liderança de pessoas;<br />- Boa capacidade de comunicação e trabalho em equipe e com interfaces;<br /><br /><br /><b>Benefícios</b><br /><br />Principais Benefícios: Vale-refeição, vale-alimentação, convênio médico, plano odontológico, PLR, auxílio-creche, Gympass, horário flexível, entre outros.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslabsoft/34/gestor-de-projetos-com-ingles-avancado-junior?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2320942]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[35f153db-2761-4dad-ae2b-a8d69d6b7df2]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[35f153db-2761-4dad-ae2b-a8d69d6b7df2]]></partnerRequisitionId>
-    <company><![CDATA[Confience]]></company>
-    <title><![CDATA[Analista de Implantação (Com Inglês Avançado/Fluente)]]></title>
-    <posterEmail><![CDATA[adriana.oliveira@labsoft.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional que tenha paixão por projetos de implantação e que deseja crescer e se desenvolver nessa área. Se você se identifica com essas características e está em busca de uma oportunidade desafiadora para colocar em prática seus conhecimentos, venha fazer parte da nossa equipe como Analista de Implanta Júnior.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar no mapeamento e documentação dos processos;<br />- Parametrizar o sistema com informações técnicas fornecidas pelo cliente ou responsáveis internos;<br />- Configurar o ambiente de homologação e produção de clientes para viabilizar a utilização de recursos;<br />- Validar e disponibilizar extensões desenvolvidas no ambiente do cliente, deixando-as apta para apresentação/uso;<br />- Preparar e executar treinamentos de capacitação a clientes ou outros colaboradores da empresa;<br />- Prestar atendimento aos clientes internos e externos, disponibilizando informações e/ou orientações quanto a assuntos relacionados à área de conhecimento.<br />- Assegurar maior interatividade dos usuários com os serviços e produtos da Labsoft;<br />- Orientar clientes na identificação e compra de equipamentos e serviços de instalação da infraestrutura para atender aos sistemas fornecidos;<br />- Pesquisar, agregar, produzir e disseminar informações atualizadas aos públicos de interesse;<br />- Analisar e investigar problemas, falhas, logs sistêmicos;<br />- Identificar e propor processos/procedimentos de melhoria no processo de implantação;<br />- Interagir com os demais papeis da área de projetos e de outras áreas para garantir entendimento e alinhamentos técnicos necessários para evolução dos trabalhos;<br />- Estudar e analisar os impactos e aplicações de recursos diante das mudanças nas configurações de sistemas;<br />- Propor e elaborar ações que atendam às diretrizes estratégicas, incluindo planos de trabalho e orçamento;<br />- Cumprir com a metodologia, normas e procedimentos da área e empresa.<br />- Delegar e gerir atividades aos auxiliares/estagiários para catalisação de tarefas;<br />- Executar outras tarefas correlatas ao processo de implantação e atendimento ao cliente, a critério do seu superior imediato.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior completa em Química, Biologia e áreas relacionadas;<br />- Experiencia/vivência em rotinas laboratorios;<br />- Excel Intermediário;<br />- Inglês Avançado/Fluente;<br />- Habilidade em análise de dados e elaboração de relatórios;<br />- Boa capacidade de comunicação e trabalho em equipe;<br />- Boa didática para capacitação de usuários;<br />- Proatividade e organização;<br />- Noções ISO/IEC 17.025.<br /><br /><br /><b>Benefícios</b><br /><br />Assistência médica, participação de lucros, Vale-alimentação, Vale-Refeição, Gympass, entre outros.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslabsoft/33/analista-de-implantacao-com-ingles-avancado-fluente?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2320942]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3a6a3ae1-4611-4f5c-9f33-dc3816aaa4b1]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[3a6a3ae1-4611-4f5c-9f33-dc3816aaa4b1]]></partnerRequisitionId>
-    <company><![CDATA[Confience]]></company>
-    <title><![CDATA[Analista de Suporte Técnico]]></title>
-    <posterEmail><![CDATA[adriana.oliveira@labsoft.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Venha fazer parte do nosso time e trilhar uma carreira de sucesso conosco. Estamos ansiosos para conhecer o seu potencial e o que você tem a oferecer para a nossa equipe. Junte-se a nós e seja parte de uma empresa que valoriza o crescimento e desenvolvimento de seus colaboradores.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>O Analista de Suporte a Sistemas Junior, atende a tickets de baixa complexidade, visualiza e analisa as solicitações (remoto, via telefone, chat ou software de atendimento) dos clientes internos e externos;</li><li>Controla os chamados abertos pelos clientes até sua resolução final;</li><li>Executa procedimentos necessários para resoluções dos problemas, garantindo a correta categorização da taxonomia dos tickets;</li><li>Consulta outros times para avaliação das estratégias de negócio a fim de prover um suporte assertivo e eficiente;</li><li>Orienta clientes com envio de documentações ou bases de conhecimento adequadas para atender aos sistemas fornecidos;</li><li>Responde a questões de baixa complexidade não só técnicas, mas também relativas a orientações sobre serviços, produtos, relacionamento com clientes, garantias entre outros;</li><li>Analisa logs de erros, schedule, dentre outros;</li><li>Responsabilidade em seguir os processos/procedimentos do time de suporte técnico, conforme documentações da área;</li><li>Presta atendimento aos usuários reduzindo o número de redirecionamentos para outros níveis;</li><li>Executa outras tarefas correlatas às acima descritas, a critério do seu superior imediato.</li></ul><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prévia em suporte de sistemas.</li><li>Possuir Inglês Intermediário/Avançado</li><li>Conhecimento em sistemas operacionais.</li><li>Habilidade em identificar e resolver problemas técnicos.</li><li>Familiaridade com ferramentas de suporte remoto.</li><li>Boa comunicação verbal e escrita.</li><li>Capacidade de trabalhar em equipe.</li><li>Diploma de graduação em áreas relacionadas à Tecnologia da Informação.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Assistência médica, participação de lucros, Vale-alimentação, Vale-Refeição, Gympass, entre outros.</li></ul><br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslabsoft/28/analista-de-suporte-tecnico?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2320942]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[00b7d99a-fc66-4bf1-989b-b0d3612bf31e]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[00b7d99a-fc66-4bf1-989b-b0d3612bf31e]]></partnerRequisitionId>
-    <company><![CDATA[Confience]]></company>
-    <title><![CDATA[Gestor de Projetos LATAM]]></title>
-    <posterEmail><![CDATA[adriana.oliveira@labsoft.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional que tenha paixão por projetos de implantação e que deseja crescer e se desenvolver nessa área. Se você se identifica com essas características e está em busca de uma oportunidade desafiadora para colocar em prática seus conhecimentos, venha fazer parte da nossa equipe como Gestor de Projetos LATAM.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Gerenciar o ciclo completo dos projetos, desde a iniciação até a entrega final;- Planejar, coordenar, executar, monitorar e avaliar as atividades dos projetos, assegurando cumprimento de prazos, custos e qualidade;<br />- Liderar equipes multidisciplinares, delegando responsabilidades e acompanhando resultados;<br />- Conduzir projetos de implantação do <strong>myLIMS</strong> e suas funcionalidades, garantindo alinhamento com escopo definido e portfólio da empresa;<br />- Identificar e mitigar riscos, propondo soluções eficazes para manter a integridade do projeto;<br />- Negociar com clientes mudanças de escopo, prazos, treinamentos e documentação;<br />- Atuar como ponto central de comunicação entre clientes, equipe técnica e centro de desenvolvimento;<br />- Produzir e apresentar relatórios executivos de status, cronograma, mapa de riscos e controles financeiros;<br />- Garantir a aprovação de marcos críticos do projeto pelos clientes;<br />- Organizar reuniões de acompanhamento e capacitação, assegurando engajamento e alinhamento dos stakeholders.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Espanhol Avançado/Fluente;<br />
-- Formação Superior completa;
-
-- Conhecimento em metodologias ágeis, hibridas e
-tradicionais de gestão de projetos;<br />
--Experiência na gestão de projetos de implantação ou ligados a aplicação de
-sistemas
-
-- Excel Intermediário;<br />
-- Habilidade em análise de dados e elaboração de relatórios;
-
-- Experiência em gestão/liderança de pessoas;<br />
-- Boa capacidade de comunicação e trabalho em equipe e com interfaces;<br /><br /><br /><b>Benefícios</b><br /><br />Principais Benefícios: Vale-refeição, vale-alimentação, convênio médico, plano odontológico, PLR, auxílio-creche, Gympass, horário flexível, entre outros.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslabsoft/26/gestor-de-projetos-latam?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2320942]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[248f4beb-1b8f-4b3c-a221-96854d220faa]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[248f4beb-1b8f-4b3c-a221-96854d220faa]]></partnerRequisitionId>
-    <company><![CDATA[Confience]]></company>
-    <title><![CDATA[Estágio em Serviços]]></title>
-    <posterEmail><![CDATA[adriana.oliveira@labsoft.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um <strong>Estagiário em Análise de Requisitos</strong> para apoiar nossa equipe no levantamento e especificação de requisitos para o desenvolvimento de sistemas. Se você é proativo, gosta de tecnologia e deseja aprender sobre gestão de projetos e desenvolvimento de software, essa oportunidade é para você.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li></li><li>Apoiar o levantamento de requisitos junto aos clientes e equipe interna.</li><li>Auxiliar na documentação e especificação funcional de sistemas.</li><li>Colaborar na análise e modelagem de processos de negócio.</li><li>Participar de reuniões de alinhamento entre as áreas técnicas e de negócios.</li><li>Contribuir para a melhoria contínua dos processos de desenvolvimento.</li><br /><br /><br /><li>Ser analítico e organizado é primordial para conseguir gerir várias tarefas. · </li><li> Ser o principal responsável pelo fluxo de requisitos entre os clientes e a equipe de desenvolvimento de software, e também coletar e disseminar as informações do produto.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Cursando graduação em Engenharia de Software, Sistemas de Informação, Ciência da Computação, Engenharia Química, Química ou áreas afins.</li><li>Interesse por análise de requisitos, desenvolvimento de software e metodologias ágeis.</li><li>Boa comunicação e organização.</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale-alimentação (Caju)</li><li>Convênio odontológico</li><li>Participação nos lucros</li><li>Vale transporte</li><li>Estacionamento gratuito</li><li>Seguro de vida</li><li>Trabalho remoto</li><li>Day-off aniversário</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslabsoft/21/estagio-em-servicos?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2320942]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6ecfab7b-730f-4bed-ade3-3dd805920e1e]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[6ecfab7b-730f-4bed-ade3-3dd805920e1e]]></partnerRequisitionId>
-    <company><![CDATA[Confience]]></company>
-    <title><![CDATA[Analista de Implantação (Com Inglês Avançado/Fluente)]]></title>
-    <posterEmail><![CDATA[adriana.oliveira@labsoft.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um profissional que tenha paixão por projetos de implantação e que deseja crescer e se desenvolver nessa área. Se você se identifica com essas características e está em busca de uma oportunidade desafiadora para colocar em prática seus conhecimentos, venha fazer parte da nossa equipe como Analista de Implanta Júnior.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar no mapeamento e documentação dos processos;<br />- Parametrizar o sistema com informações técnicas fornecidas pelo cliente ou responsáveis internos;<br />- Configurar o ambiente de homologação e produção de clientes para viabilizar a utilização de recursos;<br />- Validar e disponibilizar extensões desenvolvidas no ambiente do cliente, deixando-as apta para apresentação/uso;<br />- Preparar e executar treinamentos de capacitação a clientes ou outros colaboradores da empresa;<br />- Prestar atendimento aos clientes internos e externos, disponibilizando informações e/ou orientações quanto a assuntos relacionados à área de conhecimento.<br />- Assegurar maior interatividade dos usuários com os serviços e produtos da Labsoft;<br />- Orientar clientes na identificação e compra de equipamentos e serviços de instalação da infraestrutura para atender aos sistemas fornecidos;<br />- Pesquisar, agregar, produzir e disseminar informações atualizadas aos públicos de interesse;<br />- Analisar e investigar problemas, falhas, logs sistêmicos;<br />- Identificar e propor processos/procedimentos de melhoria no processo de implantação;<br />- Interagir com os demais papeis da área de projetos e de outras áreas para garantir entendimento e alinhamentos técnicos necessários para evolução dos trabalhos;<br />- Estudar e analisar os impactos e aplicações de recursos diante das mudanças nas configurações de sistemas;<br />- Propor e elaborar ações que atendam às diretrizes estratégicas, incluindo planos de trabalho e orçamento;<br />- Cumprir com a metodologia, normas e procedimentos da área e empresa.<br />- Delegar e gerir atividades aos auxiliares/estagiários para catalisação de tarefas;<br />- Executar outras tarefas correlatas ao processo de implantação e atendimento ao cliente, a critério do seu superior imediato. <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior completa em Química, Biologia e áreas relacionadas;<br />- Experiencia/vivência em rotinas laboratorios;<br />- Excel Intermediário;<br />- Inglês Avançado/Fluente;<br />- Habilidade em análise de dados e elaboração de relatórios;<br />- Boa capacidade de comunicação e trabalho em equipe;<br />- Boa didática para capacitação de usuários;<br />- Proatividade e organização;<br />- Noções ISO/IEC 17.025;<br /><br /><br /><b>Benefícios</b><br /><br />Assistência médica, participação de lucros, Vale-alimentação, Vale-Refeição, Gympass, entre outros.]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslabsoft/20/analista-de-implantacao-com-ingles-avancado-fluente?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2320942]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[2fca6461-910b-4c3d-9625-07eddcb5b990]]></partnerJobId>
     <partnerRequisitionId><![CDATA[2fca6461-910b-4c3d-9625-07eddcb5b990]]></partnerRequisitionId>
     <company><![CDATA[Confience]]></company>
@@ -43330,86 +43163,6 @@ sistemas
     <posterEmail><![CDATA[adriana.oliveira@labsoft.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de profissionais talentosos e motivados para se juntarem à nossa equipe em uma oportunidade dinâmica e desafiadora. Ao integrar nossa empresa, você terá a chance de contribuir ativamente para o crescimento de projetos inovadores, em um ambiente colaborativo que valoriza a criatividade e o aprendizado contínuo. Aqui, você encontrará um espaço para desenvolvimento pessoal e profissional, rodeado por colegas inspiradores e dispostos a compartilhar conhecimento. Se você é proativo(a), busca novos desafios e quer fazer a diferença, esta é a sua chance de se destacar em uma organização que reconhece e valoriza o potencial de cada colaborador(a). Venha fazer parte da nossa jornada e ajude-nos a transformar ideias em soluções impactantes! Estamos ansiosos para conhecer o seu talento!<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Auxiliar no mapeamento e documentação dos processos;<br />- Parametrizar o sistema com informações técnicas fornecidas pelo cliente ou responsáveis internos;<br />- Configurar o ambiente de homologação e produção de clientes para viabilizar a utilização de recursos;<br />- Validar e disponibilizar extensões desenvolvidas no ambiente do cliente, deixando-as apta para apresentação/uso;<br />- Preparar e executar treinamentos de capacitação a clientes ou outros colaboradores da empresa;<br />- Prestar atendimento aos clientes internos e externos, disponibilizando informações e/ou orientações quanto a assuntos relacionados à área de conhecimento.<br />- Orientar clientes na identificação e compra de equipamentos e serviços de instalação da infraestrutura para atender aos sistemas fornecidos;<br />- Pesquisar, agregar, produzir e disseminar informações atualizadas aos públicos de interesse;<br />- Analisar e investigar problemas, falhas, logs sistêmicos;<br />- Identificar e propor processos/procedimentos de melhoria no processo de implantação;<br />- Interagir com os demais papeis da área de projetos e de outras áreas para garantir entendimento e alinhamentos técnicos necessários para evolução dos trabalhos;<br />- Estudar e analisar os impactos e aplicações de recursos diante das mudanças nas configurações de sistemas;<br />- Propor e elaborar ações que atendam às diretrizes estratégicas, incluindo planos de trabalho e orçamento;<br />- Cumprir com a metodologia, normas e procedimentos da área e empresa.<br />- Delegar e gerir atividades aos auxiliares/estagiários para catalisação de tarefas;<br />- Executar outras tarefas correlatas ao processo de implantação e atendimento ao cliente, a critério do seu superior imediato. <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Formação superior completa em Química, Biologia e áreas relacionadas;<br />- Experiencia/vivência em rotinas laboratórios;<br />- Excel Intermediário;<br />- Espanhol Avançado/Fluente;<br />- Habilidade em análise de dados e elaboração de relatórios;<br />- Boa capacidade de comunicação e trabalho em equipe;<br />- Boa didática para capacitação de usuários;<br />- Proatividade e organização;<br />- Noções ISO/IEC 17.025.<br /><br /><br /><b>Benefícios</b><br /><br />Assistência médica, participação de lucros, Vale-alimentação, Vale-Refeição, Gympass, entre outros.]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslabsoft/44/consultor-de-implantacao-com-espanhol?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2320942]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[cef27850-d327-4531-b13a-a35147158b82]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[cef27850-d327-4531-b13a-a35147158b82]]></partnerRequisitionId>
-    <company><![CDATA[Confience]]></company>
-    <title><![CDATA[Associate Product Manager]]></title>
-    <posterEmail><![CDATA[adriana.oliveira@labsoft.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />You bring professional experience and transferable skills that position you to succeed in product management. You are customer-focused and motivated to build expertise in translating customer needs into product outcomes and measurable value. You thrive in collaborative environments and enjoy working closely with Product Managers, Engineers, and Designers to learn how customer problems are solved through product solutions. You bring analytical thinking, communication skills, and a willingness to learn and contribute across the full product lifecycle, always keeping customer value at the center.<br /><br />As a member of the Product Management team at Confience, you will contribute to defining, delivering, and validating features within our SaaS product portfolio. You will help ensure our products address customer needs, improve workflows, and drive measurable outcomes. Your responsibilities include backlog refinement, user story creation, customer research, and sprint execution. This role emphasizes learning product management practices while contributing to value delivery, giving you the opportunity to build a strong foundation for your career. You will be expected to leverage your prior professional experience while learning Confience’s processes, tools, and customer priorities.<br /><br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Agile Delivery and Backlog Management</li><li>Write and review user stories with clear acceptance criteria that tie back to customer value.</li><li>Support backlog prioritization sessions by bringing in insights from customer feedback, support tickets, competitor analysis, and AI-driven analytics.</li><li>Collaborate with Engineering, QA, and UX to validate features and ensure solutions meet customer needs.</li><li>Assist in acceptance testing and confirm readiness of features against defined outcomes.</li><li>Track and report progress of assigned stories, escalating blockers as needed to maintain timely delivery.</li><li>Monitor post-release adoption metrics and customer feedback with the aid of AI tools to help evaluate feature success.</li><li>Participate actively in sprint ceremonies and retrospectives, focusing on how delivery impacts customer and business value.</li></ul>Customer and Market Research<br /><ul><li>Participate in customer discovery calls and feedback sessions to capture insights.</li><li>Shadow Product Managers during interviews and begin conducting portions of discovery conversations with guidance.</li><li>Synthesize customer and market insights into actionable recommendations for backlog refinement.</li><li>Analyze support tickets and customer feedback to identify recurring themes and unmet needs.</li><li>Document competitor product features to assess differentiation and identify opportunities to deliver more value.</li><li>Leverage AI tools to analyze large volumes of customer feedback and market data, turning unstructured information into actionable insights.</li></ul><br />Cross-Functional Collaboration<br /><ul><li>Prepare and maintain product roadmap artifacts that align initiatives with customer needs and business priorities.</li><li>Share clear updates and documentation with cross-functional partners to align around customer impact.</li><li>Support roadmap communication by preparing summaries, feature updates, and demo materials that highlight customer value.</li><li>Contribute to quarterly planning and alignment activities, ensuring customer perspectives are incorporated into priorities.</li></ul><br /><b>Metrics &amp; Value Tracking</b><br /><ul><li>Assist in defining simple success metrics (e.g., adoption, usage, customer satisfaction) for new features.</li><li>Monitor feature adoption and usage trends and share insights with the product team.</li><li>Support reporting efforts by compiling data from analytics and customer feedback to measure value delivered.</li><li><li>Use AI-driven reporting and dashboards to surface trends in feature adoption and customer usage.</li><br /><br /></li></ul><b>Learning and Professional Development</b><br /><ul><li><li>Actively develop product management skills through mentorship, shadowing, and hands-on contributions.</li><br /><br /><li>Learn and apply prioritization frameworks under guidance to support decision-making.</li><br /><li>Engage in internal training sessions to strengthen knowledge of the Confience product suite, customer workflows, and industry standards.</li><br /><li>Learn how AI tools are applied in backlog management, customer research, and roadmap planning to streamline decision-making.</li><br /><br /></li></ul><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Bachelor’s degree in Business, Computer Science, Engineering, or related field, or equivalent practical experience.</li><li>0–2 years of direct product management experience, or equivalent experience in a related field with exposure to product development.</li><li>Foundational understanding of Agile Scrum practices and customer-driven product development.</li><li>Strong written and verbal communication skills with the ability to represent customer needs clearly.</li><li>Demonstrated analytical and organizational skills to track outcomes and measure value.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Medical Insurance</li><li>Profit Sharing</li><li>Meal allowance</li><li>Food allowance</li><li>Gympass</li><li>And other benefits</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslabsoft/40/associate-product-manager?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2320942]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[6da911d2-52e8-4540-a76c-e203d46d9d9e]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[6da911d2-52e8-4540-a76c-e203d46d9d9e]]></partnerRequisitionId>
-    <company><![CDATA[Confience]]></company>
-    <title><![CDATA[Analista de Infraestrutura e DevOps]]></title>
-    <posterEmail><![CDATA[adriana.oliveira@labsoft.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a)  <strong>Analista de Infraestrutura e Cloud DevOps – Pleno</strong>  para atuar na administração e suporte à nossa infraestrutura em nuvem, com foco na plataforma  <strong>Microsoft Azure</strong> . O(a) profissional será responsável por garantir a estabilidade, segurança e desempenho dos serviços em nuvem, além de colaborar com outras áreas em soluções eficientes e inovadoras.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar na <strong>administração e evolução de ambientes em Microsoft Azure</strong></li><li>Trabalhar junto ao time de desenvolvimento na <strong>implementação de pipelines CI/CD (Azure DevOps)</strong></li><li>Automatizar provisionamento de infraestrutura</li><li>Monitorar ambientes</li><li>Atuar na <strong>otimização de performance e custo (FinOps)</strong> dos recursos em nuvem  </li><li>Gerenciar e otimizar ambientes <strong>SQL Server</strong></li><li>Garantir <strong>alta disponibilidade, escalabilidade e resiliência</strong> das aplicações</li><li>Implementar e manter <strong>boas práticas de segurança (IAM, RBAC, políticas, compliance)</strong></li><li>Atuar na <strong>análise e resolução de incidentes críticos</strong></li><li>Documentar arquiteturas e processos de forma clara e estruturada</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prática com <strong>Microsoft Azure (infraestrutura e serviços PaaS/IaaS)</strong></li><li>Experiência com <strong>(pipelines, releases, integração contínua)</strong></li><li>Conhecimento em<strong> Azure DevOps, monitoramento e troubleshooting em cloud</strong></li><li>Inglês Intermediário/avançado (participação em reuniões) </li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Convênio médico</li><li>Convênio Odontológico</li><li>Auxílio-creche</li><li>Estacionamento gratuito</li><li>Participação nos lucros</li><li>Trabalho remoto</li><li>Vale-alimentação</li><li>Vale-refeição</li><li>Day Off entre outros.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslabsoft/35/analista-de-infraestrutura-e-devops?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2320942]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[2a35879f-62cb-40a4-890d-22ab962bbcfa]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[2a35879f-62cb-40a4-890d-22ab962bbcfa]]></partnerRequisitionId>
-    <company><![CDATA[Confience]]></company>
-    <title><![CDATA[Desenvolvedor Pleno]]></title>
-    <posterEmail><![CDATA[diego.marcelino@labsoft.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Temos uma oportunidade imperdível para profissionais apaixonados por tecnologia e inovação. Estamos em busca de pessoas talentosas e criativas que desejam fazer parte de uma equipe dinâmica e colaborativa, onde a troca de ideias e o desenvolvimento profissional são altamente valorizados.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />Nosso propósito é tornar os produtos que consumimos melhores e mais seguros. Através do <b>myLIMS</b>, o produto oficial da <b>Confience</b>, oferecemos o melhor software para gestão do controle de qualidade, laboratórios de serviços e saneamento. Desenvolvido com base nas melhores práticas de mercado, o <b>myLIMS </b>nasce com a missão de simplificar a gestão, garantir a conformidade de produtos e impulsionar o crescimento contínuo em laboratórios e empresas de diversos segmentos.<br /><br /><b>Requisitos e qualificações</b><br /><br />Atuar como programador de sistemas Web com foco em C#, ASP.NET MVC, Javascript, ReactJS, API em .Net 7 e Microsoft SQL Server 2019. Deve realizar análises de problemas, correções de falhas, implementações de novas funcionalidades, integrações com outras plataformas e codificações de novos sistemas.<br /><br /><b>Benefícios</b><br /><br /><ul><li>Convênio médico, Convênio Odontológico, Auxílio-creche, Estacionamento gratuito, Participação nos lucros, Trabalho remoto, Vale-alimentação, Vale-refeição, Day Off entre outros.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslabsoft/19/desenvolvedor-pleno?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[2320942]]></companyId>
-    <city><![CDATA[Jundiaí]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[3c6e0166-078e-46ad-a9ff-be5385c02da3]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[3c6e0166-078e-46ad-a9ff-be5385c02da3]]></partnerRequisitionId>
-    <company><![CDATA[Confience]]></company>
-    <title><![CDATA[Analista de Infraestrutura e DevOps]]></title>
-    <posterEmail><![CDATA[adriana.oliveira@labsoft.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a)  <strong>Analista de Infraestrutura e Cloud DevOps – Pleno</strong>  para atuar na administração e suporte à nossa infraestrutura em nuvem, com foco na plataforma  <strong>Microsoft Azure</strong> . O(a) profissional será responsável por garantir a estabilidade, segurança e desempenho dos serviços em nuvem, além de colaborar com outras áreas em soluções eficientes e inovadoras.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Atuar na <strong>administração e evolução de ambientes em Microsoft Azure</strong></li><li>Trabalhar junto ao time de desenvolvimento na <strong>implementação de pipelines CI/CD (Azure DevOps)</strong></li><li>Automatizar provisionamento de infraestrutura</li><li>Monitorar ambientes</li><li>Atuar na <strong>otimização de performance e custo (FinOps)</strong> dos recursos em nuvem  </li><li>Gerenciar e otimizar ambientes <strong>SQL Server</strong></li><li>Garantir <strong>alta disponibilidade, escalabilidade e resiliência</strong> das aplicações</li><li>Implementar e manter <strong>boas práticas de segurança (IAM, RBAC, políticas, compliance)</strong></li><li>Atuar na <strong>análise e resolução de incidentes críticos</strong></li><li>Documentar arquiteturas e processos de forma clara e estruturada</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Experiência prática com <strong>Microsoft Azure (infraestrutura e serviços PaaS/IaaS)</strong></li><li>Experiência com <strong>(pipelines, releases, integração contínua)</strong></li><li>Conhecimento em<strong> Azure DevOps, monitoramento e troubleshooting em cloud</strong></li><li>Inglês avançado (participação em reuniões)</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Convênio médico</li><li>Convênio Odontológico</li><li>Auxílio-creche</li><li>Estacionamento gratuito</li><li>Participação nos lucros</li><li>Trabalho remoto</li><li>Vale-alimentação</li><li>Vale-refeição</li><li>Day Off entre outros.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagaslabsoft/37/analista-de-infraestrutura-e-devops?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[2320942]]></companyId>
     <city><![CDATA[Jundiaí]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -46918,34 +46671,6 @@ Garantir cumprimento de procedimentos internos, normas de segurança e complianc
     <country><![CDATA[Brasil]]></country>
     <salaries>
       <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[5954873a-8123-4cc7-a8b5-1be0e2b3a11a]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[5954873a-8123-4cc7-a8b5-1be0e2b3a11a]]></partnerRequisitionId>
-    <company><![CDATA[TRIUNFO LOGISTICA]]></company>
-    <title><![CDATA[Técnico de Segurança do Trabalho - SMS]]></title>
-    <posterEmail><![CDATA[priscilla.veras@triunfologistica.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Acompanhar e/ou implementar os programas de segurança, proteção e meio ambiente, seguindo ou produzindo os seguintes processos: PGR, CIPA, CAT, DDS etc., fiscalizando e acompanhando o uso dos EPI ́s, controlando a data de expiração dos equipamentos e materiais, elaborando relatórios fotográficos, além de palestras e integrações de novos funcionários.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />•Distribuir diariamente aos colaboradores, os EPI`s que serão usados, recolhendo aqueles danificados e separando-os, anotando na ficha pessoal de cada colaborador o que foi retirado e qual a data do trâmite, para fins de enviar uma notificação ao Auxiliar Administrativo para posterior compra, cumprimento da legislação e preservação da integridade física do colaborador;<br />•Fazer levantamento diário do estoque de todo o material de segurança do trabalho (entradas e saídas), anotando em planilha manual a relação dos materiais que faltam, repassando ao Administrativo, para fins de reposição de estoque;<br />•Visitar diariamente as áreas operacionais, para fins de inspecionar a segurança nas áreas;<br />•Fazer vistoria de veículos mensalmente, verificando pessoalmente os freios, faróis e etc., informando aos Terceirizados caso haja necessidade de algum reparo, lançando em planilha feita no Word os problemas relacionados ao veículo e enviando ao Gerente de Filial os problemas encontrados, para fins de manter os veículos em boas condições e segurança dos colaboradores;<br />•Fazer análise de risco baseando-se nas atividades que serão feitas pelas equipes, definindo qual será o EPI usado, qual o processo mais seguro para a realização da atividade, enumerando os possíveis riscos, para fins de preservar a integridade física dos colaboradores;<br />•Fazer diariamente a inspeção de segurança, especificando as não conformidades existentes nos locais, fazendo um relatório e encaminhando ao Gerente de Filial ou à empresa responsável, para fins de preservar a integridade física do colaborador e do Meio Ambiente;<br />•Responsável por elaborar todo trâmite relacionado à eleição da CIPA e os documentos, exigidos pelo Ministério do Trabalho e Emprego, para fins de atender a fiscalização trabalhista;<br />•Fazer cumprir as ações da CIPA em acordo com o SMS, identificar necessidades, planejar, executar e avaliar programas de treinamento de segurança industrial e meio ambiente;<br />•Controlar mensalmente o SESMT, número de acidentes ocorridos em cada setor, através de notificação do ocorrido, reunindo as CATS, análise de levantamento de acidentes, fazendo um parâmetro e calculando as horas perdidas, total de cada setor, enviando as cópias ao Gerente de Filial e a empresa CSN, para fins de controle do número de acidentes e as horas perdidas;<br />•Notificar eventualmente, através de comunicado feito em planilha Excel, uma análise do acidente ocorrido através de simulações ou depoimentos, traçando medidas corretivas, enviando ao Supervisor de área em que ocorreu o acidente, para fins de prevenir acidentes com a mesma proporção;<br />•Preencher eventualmente no site do INSS, uma CAT no prazo máximo de quarenta e oito horas após o acidente, informando a lesão ocorrida, o local e a hora, o agente causador, a situação causadora, imprimindo uma cópia e arquivando, fornecendo cópia ao colaborador, e enviando através do site do INSS, para fins de comunicar ao INSS, preservar o colaborador de possíveis dificuldades trabalhistas e a empresa de possíveis processos trabalhistas;<br />•Coordenar eventualmente a troca ou efetiva recarga de extintores, inspecionando um a um, mantendo contato direto com a empresa responsável pela manutenção dos extintores para fins da Triunfo estar preparada caso ocorra algum incêndio;<br />•Promover eventualmente a integração dos novos colaboradores, apresentando os riscos a que estão expostos, ensinando os procedimentos e análises de riscos, fazendo um treinamento total, apresentação através de Power Point, dando palestras em sala de reuniões, apresentando-os aos seus Supervisores, para fins de mostrar os riscos aos novos colaboradores, apresentar-lhes as responsabilidades e obrigações dentro da empresa;<br />•Elaborar mensalmente no Word, gerando cópias e distribuindo em locais de livre acesso aos colaboradores um jornal interno, imputando informações preventivas e atualidades, para fins de fornecer informações e gerar uma integração;<br />•Fiscalizar diariamente as Unidades, com o intuito de assegurar que o DDS (Diálogo Diário de Segurança) está sendo cumprido, arquivando e assinando o DDS, para fins de promover a conscientização e prevenção de acidentes entre os colaboradores;<br />•Preencher eventualmente uma planilha enviada pelo Porto de Itaguaí, constando a entrada e a saída de resíduos da oficina, entregando ao Chefe de Oficina, que é responsável pelo recolhimento, para fins de conformidades junto à FEEMA;<br />•Representar eventualmente, a empresa na CPATP (Comissão de Prevenção de Acidentes de Trabalhadores;<br />•Portuários), participando de reuniões ordinárias e semestrais para fins de justificar problemas e tomar as devidas providências;<br />•Planejar, coordenar, orientar tecnicamente, avaliar e realizar estudos, avaliações e inspeções das condições de trabalho, quanto aos aspectos de higiene industrial, segurança industrial e meio ambiente, em áreas, equipamentos, instalações.<br />•Elaborar documentação necessária para a abertura da Comunicação de Acidente de Trabalho e encaminhar para o Setor de Recursos Humanos para que seja emitida;<br />•Orientar os membros da CIPA para os assuntos ligados a saúde e higiene, através da participação em reuniões e da realização de palestras na semana de prevenção da empresa, visando prevenir doenças e acidentes do trabalho;<br />•Indicar e orientar a implementação de medidas preventivas de segurança em toda área industrial, administrativa e proteção ao meio ambiente;<br />•Fazer cumprir as ações da CIPA em acordo com o SMS, identificar necessidades, planejar, executar e avaliar programas de treinamento de segurança industrial e meio ambiente;<br />•Fazer plano de ação para cumprimento do Anexo SMS escopo do Contrato, apresentando evidências para PETROBRAS;<br />•Participar de programas de auditorias de SMS, segurança industrial e de meio ambiente, acompanhar as atividades operacionais nas áreas contratuais, visando à segurança do profissional envolvido, bem patrimonial e meio ambiente;<br />•Investigar a analisar acidentes e ocorrências anormais, planejando e executando Plano de Ação trazendo segurança nas operações; <br />•Elaborar planos de contingência e coordenar atividades de controle de emergências para todas as áreas contratuais, proceder de acordo com os padrões técnicos e normas operacionais;<br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo; </li><li>Curso Técnico em Segurança do Trabalho;</li><li>Registro MTE.</li><li>Atuação anterior na função de Técnico de Segurança do Trabalho.</li><li>Jornada: escala 2x2 (diurno ou noturno)</li></ul><br /><br /><b>Benefícios</b><br /><br /><b>Para sua saúde e de sua família:</b><ul><li> Assistência Médica e Odontológica (extensivo aos dependente diretos).</li><li> Alimentação no local</li><li> Vale transporte</li><li> Convênio Farmácia: desconto em medicamentos e produtos diversos para higiene pessoal</li></ul><br /><br /><b>Para sua saúde e bem-estar:</b><br /><ul><li>GymPass / Seguro de Vida.</li></ul><br /><b>Para seu desenvolvimento acadêmico:</b><br /><ul><li>Descontos em instituições de ensino parceiras.</li></ul><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/triunfologistica114719/678/tecnico-de-seguranca-do-trabalho-sms?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[3089272]]></companyId>
-    <city><![CDATA[Rio de Janeiro]]></city>
-    <state><![CDATA[Rio de Janeiro]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <highEnd>
-          <amount><![CDATA[3477.26]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </highEnd>
-        <lowEnd>
-          <amount><![CDATA[3477.26]]></amount>
-          <currencyCode>BRL</currencyCode>
-        </lowEnd>
         <period><![CDATA[MONTHLY]]></period>
         <type><![CDATA[BASE_SALARY]]></type>
       </salary>
@@ -57261,26 +56986,6 @@ No dia a dia, suas principais atividades serão:<br /><br />
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[4981b6d0-050c-4e88-8ba9-53a994aceb08]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[4981b6d0-050c-4e88-8ba9-53a994aceb08]]></partnerRequisitionId>
-    <company><![CDATA[Grupo PMZ]]></company>
-    <title><![CDATA[AM02 | PROMOTOR DE TRADE MARKETING]]></title>
-    <posterEmail><![CDATA[danielle.lima@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Profissional responsável por dar visibilidade à marca e aos seus produtos nos expositores dos pontos de vendas (PDV) que estão sob sua responsabilidade. Para isso, o profissional deve pensar em estratégias e definir ações para engajar o time de vendas. Sua principal função é abordar e orientar os clientes para motivar a compra, de acordo com as suas necessidades.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar ações diárias nas lojas, através do Merchandising com o objetivo de atrair mais clientes;</li><li>Realizar a o conhecimento do produto e fornecer informações aos clientes de maneira envolvente;</li><li>Realizar a fiscalização do Merchandising, verificando as exposições dos stands nas lojas, a fim de garantir a padronização nas lojas;</li><li>Visitar os PDVs para cuidar da ordem, limpeza e visibilidade dos produtos nos expositores e área de exposição. Observar as datas de vencimento (quando couber) dos itens expostos, providenciando sua substituição, se necessário;</li><li>Acompanhar a organização do estoque de produtos nos PDVs, bem como manter abastecido e bem exposto;</li><li>Acompanhar a atuação da concorrência no local de venda e apresentar sugestões ao superior quanto a preços, ofertas, promoções e outras providencias para intensificar a comercialização dos produtos da empresa, pesquisar periodicamente os preços e condições praticados pelos concorrentes, para apreciação e decisão dos superiores;</li><li>Acolher opiniões dos clientes sobre o atendimento oferecido, características dos produtos, etc. para conhecimento dos superiores;</li><li>Assegurar a excelência no atendimento aos clientes internos em geral;</li><li>Realizar divulgação das campanhas através de e-mail e whatsApp a fim de garantir informações nas lojas;</li><li>Eventualmente pode realizar palestras e treinamentos para clientes finais e balconistas das lojas a respeito dos produtos da empresa, suas aplicações, melhor aproveitamento, etc. visando impactar as vendas.</li></ul><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Informática básica: Pacote Office (Power Point, Excel e Word).</li><li>Experiência exposição de produtos em showroom</li><li>Vivência com times de vendas;</li><li>Conhecimento de mercado para melhor posicionamento da marca PMZ</li><li><b>CNH Categoria B definitiva. (EAR)</b></li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale refeição</li><li>Trilha de Carreira</li><li>Gratificação por Produtividade</li><li>Desconto Drogaria</li><li>Desconto Universidade</li><li>Desconto Sesc</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/471/am02-promotor-de-trade-marketing?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[22287656]]></companyId>
-    <city><![CDATA[Manaus]]></city>
-    <state><![CDATA[Amazonas]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
     <partnerJobId><![CDATA[034de62a-be4b-40fb-ac06-a626daf41bcb]]></partnerJobId>
     <partnerRequisitionId><![CDATA[034de62a-be4b-40fb-ac06-a626daf41bcb]]></partnerRequisitionId>
     <company><![CDATA[Grupo PMZ]]></company>
@@ -58084,26 +57789,6 @@ No dia a dia, suas principais atividades serão:<br /><br />
     <posterEmail><![CDATA[gabrielly.andrade@grupopmz.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Responsável pelo atendimento a clientes no balcão de peças, ou através de Vendas Corporativas Internas, buscando a venda de peças e acessórios, inteirando-se das necessidades do cliente, prestando informações, verificando estoque e informando preços e condições de pagamento.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Realizar atendimento aos clientes.</li><li>Negociar preços, prazos, condições de pagamento e descontos da venda.</li><li>Orientar quanto às especificações das peças, agregando outras peças ou produtos</li><li>Fazer contatos com clientes potenciais e existentes.</li><li>Cadastrar pedido no sistema.</li><li>Fazer captação de novos clientes via e-mail e telefone.</li><li>Executar outras tarefas relacionadas com o cargo, a critério do superior.</li><li>Realizar devoluções de mercadorias e processo de garantia</li><li>Conhecer e oferecer aos clientes produtos que estão em campanhas vigentes.</li><li>Realizar contato com clientes não visitados, clientes top 30, Clientes não positivados, clientes com limite de crédito disponível.</li><li>Atualizar-se quanto aos catálogos e novos produtos</li><li>Participar de treinamentos de atualização</li><li>Participar do desenvolvimento de auxiliares de balcão</li><li>Substituir balconistas de outras lojas quando solicitado</li><li>Manter o ambiente de trabalho organizado e limpo de acordo com o Projeto da Qualidade.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo</li><li>Experiência mínimo 6 meses</li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte</li><li>Vale refeição</li><li>Trilha de Carreira</li><li>Gratificação por Venda</li><li>Desconto Drogaria</li><li>Desconto Universidade</li><li>Desconto Sesc</li><li>Bônus Trimestral</li><li>Bônus Anual</li></ul>]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/254/mt04-vendedor-a-de-pecas-automotivas?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[22287656]]></companyId>
-    <city><![CDATA[Sinop]]></city>
-    <state><![CDATA[Mato Grosso]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[a9139208-0e35-42ad-aeae-b01dd0819c76]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[a9139208-0e35-42ad-aeae-b01dd0819c76]]></partnerRequisitionId>
-    <company><![CDATA[Grupo PMZ]]></company>
-    <title><![CDATA[MT04 | AUXILIAR DE ESTOQUE (LOJA)]]></title>
-    <posterEmail><![CDATA[tuany.souza@grupopmz.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Assegurar a correta recepção, armazenagem e expedição de peças e acessórios, mantendo a organização, limpeza e o cumprimento dos processos da área de estoque.<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Alocar corretamente as peças recebidas de rotas, transferências e devoluções nos endereços definidos, e realocar quando necessário.</li><li>Separar peças para vendas e transferências com base no controle de separação via celular.</li><li>Executar rotinas da qualidade utilizando o aplicativo, garantindo o cumprimento das normas.</li><li>Participar de inventários periódicos, confrontando o estoque físico com o sistema.</li><li>Manter o ambiente de trabalho limpo e organizado, conforme padrões do Projeto da Qualidade.</li><li>Cumprir os procedimentos internos de estoque e os horários definidos pela loja.</li><li>Atualizar-se sobre novos produtos e catálogos.</li><li>Participar de treinamentos de capacitação e atualização.</li><li>Substituir auxiliares de estoque de outras lojas, quando solicitado.</li><li>Executar outras atividades relacionadas à função, conforme orientação da liderança.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino Médio Completo;</li><li>Informática Básica;</li><li>Disponibilidade de Horario. </li></ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale transporte</li><li>Vale refeição 25 DIA</li><li>Trilha de Carreira</li><li>Bônus por Assiduidade</li><li>Gratificação por Produtividade</li><li>Desconto Drogaria</li><li>Desconto Universidade</li><li>Desconto Sesc</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasgrupopmz/154/mt04-auxiliar-de-estoque-loja?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[22287656]]></companyId>
     <city><![CDATA[Sinop]]></city>
     <state><![CDATA[Mato Grosso]]></state>
@@ -73330,37 +73015,8 @@ Estar atualizado e ser usuário ativo das principais redes sociais.</li><br /><b
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[d9c2b8b5-f0e2-4edb-98f1-8b951f38a4f5]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[d9c2b8b5-f0e2-4edb-98f1-8b951f38a4f5]]></partnerRequisitionId>
-    <company><![CDATA[eCOMEX]]></company>
-    <title><![CDATA[Estágio em Governança de Processos e Compliance]]></title>
-    <posterEmail><![CDATA[lucas.olivato@ecomex.com.br]]></posterEmail>
-    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) estagiário(a) com perfil analítico, curiosidade e organização para apoiar as iniciativas de Governança de Processos e Compliance, contribuindo para o mapeamento, a modelagem e a melhoria contínua dos processos internos da empresa.O(a) estagiário(a) terá a oportunidade de interagir com diferentes áreas do negócio, identificar oportunidades de melhoria, estruturar fluxos de trabalho e desenvolver soluções que contribuam para a eficiência operacional e a automação de atividades.<br /><strong>Modelo de trabalho:</strong> 100% remoto<br /><strong>Carga horária:</strong> 6 horas diárias<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar o mapeamento, a documentação e a modelagem de processos internos.</li><li>Interagir com diferentes áreas para compreender fluxos de trabalho, identificar necessidades e levantar oportunidades de melhoria.</li><li>Auxiliar na identificação de atividades que possam ser otimizadas ou automatizadas.</li><li>Apoiar a criação e a atualização de fluxogramas, procedimentos e documentos relacionados aos processos.</li><li>Contribuir para iniciativas de melhoria contínua, governança e organização dos processos corporativos.</li><li>Apoiar a elaboração de indicadores e relatórios para acompanhamento dos processos.</li><li>Apoiar
-a elaboração e atualização de procedimentos, instruções de trabalho, políticas
-e fluxos corporativos</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
- <li>Estar
-     cursando, a partir do 3º semestre, graduação em Gestão de Processos,
-     Gestão da Qualidade, Engenharia de Software ou áreas correlatas</li><li>Ter
-interesse em mapeamento de processos, melhoria contínua, governança e automação</li><li>Ter
-familiaridade com ferramentas de escritório e facilidade para aprender novas
-tecnologias</li>
-</ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Bolsa-auxílio compatível com o mercado.</li><li>Vale-refeição.</li><li>Auxílio home office.</li><li>Seguro de vida.</li><li>Convênio SESC.</li></ul>]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasecomex/52/estagio-em-governanca-de-processos-e-compliance?applicationSource=0]]></applyUrl>
-    <companyId><![CDATA[147154]]></companyId>
-    <city><![CDATA[São Paulo]]></city>
-    <state><![CDATA[São Paulo]]></state>
-    <country><![CDATA[Brasil]]></country>
-    <salaries>
-      <salary>
-        <period><![CDATA[MONTHLY]]></period>
-        <type><![CDATA[BASE_SALARY]]></type>
-      </salary>
-    </salaries>
-    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
-  </job>
-  <job>
-    <partnerJobId><![CDATA[b4125ed4-0681-433e-a8a9-c839fa24feef]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[b4125ed4-0681-433e-a8a9-c839fa24feef]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[7c2be35f-9ddc-4f11-82ca-dfee83348eb7]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[7c2be35f-9ddc-4f11-82ca-dfee83348eb7]]></partnerRequisitionId>
     <company><![CDATA[eCOMEX]]></company>
     <title><![CDATA[Consultor Técnico PL/SQL – Vaga Afirmativa para PCD | Banco de Talentos]]></title>
     <posterEmail><![CDATA[lucas.olivato@ecomex.com.br]]></posterEmail>
@@ -73421,7 +73077,36 @@ Facilidade para trabalhar de forma colaborativa e em modelo <strong>100% remoto<
 </li>
 <li>
 Desejável experiência em sistemas corporativos e/ou soluções voltadas para <strong>Comércio Exterior</strong>;</li><br /><br /><b>Benefícios</b><br /><br />Vale Refeição (flexível para VR e/ou VA)<br /> Auxílio home office<br /> Assistência médica com atendimento em território nacional<br /> Assistência odontológica<br /> Seguro de vida<br /><b>E mais...</b><br /> Saldo Flexível Cartão Flash (para utilizar como quiser, dentro das carteiras de refeição/alimentação, mobilidade, educação, saúde e cultura)<br /> TotalPass — para cuidar da sua saúde física e bem-estar<br /> Convênio SESC — acesso a lazer, cultura, esporte e qualidade de vida<br /> Day Off no aniversário — porque seu dia merece ser especial!<br /><br /><br />]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasecomex/46/consultor-tecnico-pl-sql-vaga-afirmativa-para-pcd-banco-de-talentos?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasecomex/55/consultor-tecnico-pl-sql-vaga-afirmativa-para-pcd-banco-de-talentos?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[147154]]></companyId>
+    <city><![CDATA[São Paulo]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d9c2b8b5-f0e2-4edb-98f1-8b951f38a4f5]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[d9c2b8b5-f0e2-4edb-98f1-8b951f38a4f5]]></partnerRequisitionId>
+    <company><![CDATA[eCOMEX]]></company>
+    <title><![CDATA[Estágio em Governança de Processos e Compliance]]></title>
+    <posterEmail><![CDATA[lucas.olivato@ecomex.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Buscamos um(a) estagiário(a) com perfil analítico, curiosidade e organização para apoiar as iniciativas de Governança de Processos e Compliance, contribuindo para o mapeamento, a modelagem e a melhoria contínua dos processos internos da empresa.O(a) estagiário(a) terá a oportunidade de interagir com diferentes áreas do negócio, identificar oportunidades de melhoria, estruturar fluxos de trabalho e desenvolver soluções que contribuam para a eficiência operacional e a automação de atividades.<br /><strong>Modelo de trabalho:</strong> 100% remoto<br /><strong>Carga horária:</strong> 6 horas diárias<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Apoiar o mapeamento, a documentação e a modelagem de processos internos.</li><li>Interagir com diferentes áreas para compreender fluxos de trabalho, identificar necessidades e levantar oportunidades de melhoria.</li><li>Auxiliar na identificação de atividades que possam ser otimizadas ou automatizadas.</li><li>Apoiar a criação e a atualização de fluxogramas, procedimentos e documentos relacionados aos processos.</li><li>Contribuir para iniciativas de melhoria contínua, governança e organização dos processos corporativos.</li><li>Apoiar a elaboração de indicadores e relatórios para acompanhamento dos processos.</li><li>Apoiar
+a elaboração e atualização de procedimentos, instruções de trabalho, políticas
+e fluxos corporativos</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul>
+ <li>Estar
+     cursando, a partir do 3º semestre, graduação em Gestão de Processos,
+     Gestão da Qualidade, Engenharia de Software ou áreas correlatas</li><li>Ter
+interesse em mapeamento de processos, melhoria contínua, governança e automação</li><li>Ter
+familiaridade com ferramentas de escritório e facilidade para aprender novas
+tecnologias</li>
+</ul><br /><br /><b>Benefícios</b><br /><br /><ul><li>Bolsa-auxílio compatível com o mercado.</li><li>Vale-refeição.</li><li>Auxílio home office.</li><li>Seguro de vida.</li><li>Convênio SESC.</li></ul>]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasecomex/52/estagio-em-governanca-de-processos-e-compliance?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[147154]]></companyId>
     <city><![CDATA[São Paulo]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -88569,6 +88254,26 @@ Boa comunicação, capacidade analítica e facilidade para relacionamento com cl
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
+    <partnerJobId><![CDATA[5f23f71c-8f3d-42e2-a716-32f4d3a91145]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[5f23f71c-8f3d-42e2-a716-32f4d3a91145]]></partnerRequisitionId>
+    <company><![CDATA[L'auto Cargo]]></company>
+    <title><![CDATA[Auxiliar de Logística]]></title>
+    <posterEmail><![CDATA[a.clara.silva@lauto.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Está pronto(a) para dar o próximo passo na sua carreira? Temos uma oportunidade em um ambiente dinâmico, colaborativo e cheio de desafios! Se você é proativo(a), gosta de aprender e quer crescer junto com a nossa equipe, essa vaga é para você. <br /><br />Envie seu currículo e venha construir sua jornada de sucesso conosco!<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><li>Apoiar no planejamento e controle das operações logísticas.</li><li>Acompanhar processos de recebimento, armazenagem e expedição de mercadorias.</li><li>Emitir e conferir documentos de transporte e notas fiscais.</li><li>Monitorar pedidos e prazos de entrega junto a transportadoras e clientes.</li><li>Atualizar sistemas de gestão logística e relatórios de acompanhamento.</li><li>Controlar indicadores operacionais (tempo de entrega, custos, avarias).</li><li>Dar suporte na negociação e relacionamento com fornecedores e prestadores de serviço.</li><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Ensino médio completo (desejável superior em andamento em Logística, Administração ou áreas correlatas).</li><li>Experiência prévia em rotinas administrativas ou logísticas.</li><li>Conhecimento em informática (Excel, sistemas de gestão).</li><li>Organização, atenção aos detalhes e responsabilidade.</li><li>Boa comunicação e capacidade de trabalho em equipe.</li></ul><br /><br /><br /><b>Benefícios</b><br /><br /><ul><li>Vale-transporte (opcional)</li><li>Vale Alimentação ou Refeição</li><li>Parceria com o SEST SENAT<br /></li><li>Parceria com farmácias, universidades e restaurantes.<br /></li><li>Possibilidade de Crescimento.</li></ul><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/oportunidadeslautocargo/292/auxiliar-de-logistica?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[11691971]]></companyId>
+    <city><![CDATA[João Pessoa]]></city>
+    <state><![CDATA[Paraíba]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
     <partnerJobId><![CDATA[fcc6d162-7725-4467-a4af-cc77ea3b0b85]]></partnerJobId>
     <partnerRequisitionId><![CDATA[fcc6d162-7725-4467-a4af-cc77ea3b0b85]]></partnerRequisitionId>
     <company><![CDATA[L'auto Cargo]]></company>
@@ -94438,13 +94143,13 @@ Conhecimento em controle de estoque, vendas e atendimento ao cliente;<br /><br /
     <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
-    <partnerJobId><![CDATA[0af3ed7e-585f-4cce-b6ac-b145899580bf]]></partnerJobId>
-    <partnerRequisitionId><![CDATA[0af3ed7e-585f-4cce-b6ac-b145899580bf]]></partnerRequisitionId>
+    <partnerJobId><![CDATA[36d72893-7f29-4629-bd69-aca8d53a2bb1]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[36d72893-7f29-4629-bd69-aca8d53a2bb1]]></partnerRequisitionId>
     <company><![CDATA[Empório Alex]]></company>
     <title><![CDATA[Auxiliar de Loja - Loja 01]]></title>
     <posterEmail><![CDATA[ea.rh@emporioalex.com.br]]></posterEmail>
     <description><![CDATA[<b>Descrição</b><br /><br />Se você está em busca de uma nova oportunidade profissional em um ambiente dinâmico e acolhedor, venha fazer parte da nossa equipe! Aqui, você encontrará um espaço para crescimento e aprendizado, onde poderá desenvolver suas habilidades e contribuir para um atendimento excepcional aos nossos clientes. Valorizamos a diversidade e acreditamos que cada colaborador tem um papel essencial em nosso sucesso coletivo. Se você busca um lugar onde suas ideias são ouvidas e onde o trabalho em equipe é fundamental, queremos conhecer você! Junte-se a nós e descubra um novo horizonte em sua carreira, onde sua dedicação será reconhecida e recompensada. Acreditamos que cada dia é uma nova chance de fazer a diferença, e sua jornada começa aqui. Venha transformar seu potencial em realizações conosco<br /><br /><b>Responsabilidades e atribuições</b><br /><br />- Realizar atendimento ao cliente, esclarecendo dúvidas e oferecendo informações sobre produtos e serviços.<br />- Organizar e manter a disposição adequada dos produtos nas prateleiras, garantindo a arrumação e a limpeza do local.<br />- Auxiliar na reposição de estoque<br />- Auxiliar no caixa, realizando a abertura, fechamento e conferência de valores, além de processar pagamentos.<br />- Auxiliar nos Provadores <br /><br /><br /><b>Requisitos e qualificações</b><br /><br />- Ensino médio completo.<br />- Habilidade para trabalhar em equipe.<br />- Boa comunicação verbal.<br />- Organização e atenção aos detalhes.<br />- Disponibilidade para trabalhar em horários flexíveis<br />- Proatividade e iniciativa.<br /><br /><br /><b>Benefícios</b><br /><br />salário<br />Vale Transporte <br />Plano de carreira]]></description>
-    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/124/auxiliar-de-loja-loja-01?applicationSource=0]]></applyUrl>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/vagasemporioalex/130/auxiliar-de-loja-loja-01?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[101451561]]></companyId>
     <city><![CDATA[Guarulhos]]></city>
     <state><![CDATA[São Paulo]]></state>
@@ -97638,6 +97343,26 @@ produtos<br /><br /><b>Responsabilidades e atribuições</b><br /><br /><strong>
       </salary>
     </salaries>
     <workplaceTypes><![CDATA[Hybrid]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[84567058-17ab-497e-883b-d93c8c640bb3]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[84567058-17ab-497e-883b-d93c8c640bb3]]></partnerRequisitionId>
+    <company><![CDATA[FitS]]></company>
+    <title><![CDATA[Analista Contábil Fiscal Júnior]]></title>
+    <posterEmail><![CDATA[larissa.freitas@fitbank.com.br]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Estamos em busca de um(a) <strong>Analista Contábil Fiscal Júnior</strong> para integrar nosso time. Você será responsável por executar e apoiar as rotinas fiscais e contábeis da instituição, contribuindo para a correta apuração dos tributos, o cumprimento das obrigações fiscais e a qualidade dos registros contábeis. Também atuará no fechamento mensal, nas conciliações e na análise de informações, colaborando para a eficiência dos processos e a confiabilidade das informações contábeis e fiscais.<br /><br /><b>Responsabilidades e atribuições</b><br /><br />• Apoiar a apuração, conferência e controle dos tributos incidentes sobre as operações da instituição.<br />• Conferir documentos fiscais de serviços tomados e prestados, quando aplicável, e apoiar o controle de retenções tributárias.<br />• Auxiliar na preparação, conferência e entrega das obrigações acessórias fiscais aplicáveis, conforme orientação da equipe.<br />• Realizar conciliações entre os registros contábeis, os controles fiscais e os documentos de suporte.<br />• Apoiar a conciliação e o controle de parcelamentos tributários, créditos e obrigações fiscais, incluindo PIS, COFINS e ISS, quando<br />aplicável.<br />• Efetuar lançamentos e conciliações contábeis relacionados a aplicações financeiras, resgates e rendimentos.<br />• Apoiar conciliações bancárias e contábeis, identificando e reportando eventuais divergências.<br />• Apoiar a contabilização e conciliação de folha de pagamento, faturamento, contas a pagar, despesas e impostos sobre faturamento.<br />• Apoiar as conciliações de saldos de clientes, moeda eletrônica (SME), APIX, SPB, BacenJud, Bin Sponsor e operações de cartão,<br />conforme aplicável à instituição.<br />• Apoiar a conciliação de depreciação e amortização (D&amp;A;) e outros saldos patrimoniais.<br />• Auxiliar na elaboração de balancetes, demonstrativos financeiros e relatórios internos.<br />• Apoiar a integração contábil das demais empresas do grupo, quando aplicável.<br />• Organizar documentos e evidências para atendimento a auditorias e solicitações de outras áreas.<br />• Contribuir para a melhoria contínua dos processos, controles e rotinas contábeis e fiscais.<br /><br /><br /><b>Requisitos e qualificações</b><br /><br />• Graduação em Ciências Contábeis em andamento ou concluída.<br />• Conhecimentos básicos de contabilidade geral e fundamentos tributários.<br />• Conhecimento de Excel e ferramentas do pacote Office.<br />• Conhecimentos em COSIF, IFRS e legislação tributária serão considerados diferenciais.<br />• Conhecimento de sistemas ERP, incluindo Oracle NetSuite, será considerado diferencial.<br />• Conhecimento de ferramentas de análise de dados será considerado diferencial.<br /><br /><br /><b>Benefícios</b><br /><br />Plano de Saúde: SulAmérica<br />Descanso remunerado (30 dias)<br />Remuneração Variável (Bonificação)<br />Plano de Carreira: após 6 meses de empresa, e de acordo com o desempenho, você já poderá estar elegível para promoção.<br />Parcerias exclusivas com a ESPM, escolas de idiomas, locadoras, restaurantes da região e muito mais.<br /><br /><br /><br /><i>Além disso, contamos com o Programa Partnership: após 1 ano de empresa, você poderá ser convidado a se tornar sócio da companhia! </i><br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/fits/70/analista-contabil-fiscal-junior?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[16164762]]></companyId>
+    <city><![CDATA[Fortaleza]]></city>
+    <state><![CDATA[Ceará]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
   </job>
   <job>
     <partnerJobId><![CDATA[5129c4fb-6843-498b-87d8-2f3415462a3e]]></partnerJobId>
@@ -111935,6 +111660,26 @@ utilizados. <br />]]></description>
     <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/engecampocarreiras/12/tecnico-de-planejamento?applicationSource=0]]></applyUrl>
     <companyId><![CDATA[3766513]]></companyId>
     <city><![CDATA[Paulínia]]></city>
+    <state><![CDATA[São Paulo]]></state>
+    <country><![CDATA[Brasil]]></country>
+    <salaries>
+      <salary>
+        <period><![CDATA[MONTHLY]]></period>
+        <type><![CDATA[BASE_SALARY]]></type>
+      </salary>
+    </salaries>
+    <workplaceTypes><![CDATA[On-Site]]></workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId><![CDATA[d6024082-c9ed-4ac7-916b-3192bf9c8103]]></partnerJobId>
+    <partnerRequisitionId><![CDATA[d6024082-c9ed-4ac7-916b-3192bf9c8103]]></partnerRequisitionId>
+    <company><![CDATA[Colégio Santa Úrsula]]></company>
+    <title><![CDATA[Professor de Xadrez]]></title>
+    <posterEmail><![CDATA[helena.francelino@ursulinebrazil.com]]></posterEmail>
+    <description><![CDATA[<b>Descrição</b><br /><br />Você acredita que o xadrez vai muito além de um jogo e pode ser uma importante ferramenta para o desenvolvimento de crianças e adolescentes? O Colégio Santa Úrsula está em busca de um(a) <strong>Professor(a) de Xadrez</strong> para planejar e conduzir as atividades do nosso Clube de Xadrez, contribuindo para o desenvolvimento de habilidades cognitivas, estratégicas e socioemocionais dos estudantes.<br />Buscamos um profissional que tenha domínio da modalidade, goste de ensinar e saiba transformar o aprendizado do xadrez em experiências educativas que estimulem o raciocínio lógico, a concentração, a criatividade, o planejamento e a tomada de decisões.<br />Além das atividades do Clube de Xadrez, o profissional também desenvolverá atividades paralelas destinadas aos estudantes matriculados no Integral Bilíngue.<br />Se você gosta de compartilhar conhecimentos, incentivar novos talentos e contribuir para a formação integral dos estudantes, essa oportunidade pode ser para você!<br /><br /><br /><b>Responsabilidades e atribuições</b><br /><br /><ul><li>Planejar e ministrar aulas e encontros regulares do Clube de Xadrez, contemplando conteúdos teóricos e atividades práticas.</li><li>Ensinar os fundamentos do xadrez, incluindo regras, movimentação das peças, estratégias, táticas e análise de partidas.</li><li>Elaborar atividades e desafios adequados aos diferentes níveis de conhecimento dos estudantes.</li><li>Desenvolver propostas que estimulem o raciocínio lógico, a concentração, o pensamento estratégico, a autonomia e a tomada de decisões.</li><li>Acompanhar o desenvolvimento dos estudantes, oferecendo orientações e devolutivas construtivas.</li><li>Desenvolver atividades complementares destinadas aos alunos do Integral Bilíngue.</li><li>Manter alinhamento e comunicação com a Coordenação Pedagógica sobre o planejamento e o desenvolvimento das atividades.</li></ul><br /><br /><b>Requisitos e qualificações</b><br /><br /><ul><li>Domínio das regras, fundamentos e estratégias do xadrez.</li><li>Experiência com ensino, treinamento ou orientação de praticantes de xadrez.</li><li>Habilidade para ensinar e conduzir atividades com crianças e adolescentes de diferentes níveis de conhecimento.</li><li>Boa comunicação, didática e capacidade de organização.</li><li>Criatividade para desenvolver atividades e estratégias de aprendizagem.</li><li>Paciência, responsabilidade, iniciativa e facilidade para trabalhar em equipe.</li></ul><br /><br /><b>Benefícios</b><br /><br />️ Vale-alimentação.<br /> Convênio médico com coparticipação.<br /> Convênio odontológico.<br /> Vale-transporte.<br /> Convênio com academias - Wellhub.️ Seguro de vida.<br /> Ambiente acolhedor, colaborativo e com oportunidades de desenvolvimento profissional.<br />]]></description>
+    <applyUrl><![CDATA[https://atracaodetalentos.totvs.app/colegiosantaursulavagas/24/professor-de-xadrez?applicationSource=0]]></applyUrl>
+    <companyId><![CDATA[19215840]]></companyId>
+    <city><![CDATA[Ribeirão Preto]]></city>
     <state><![CDATA[São Paulo]]></state>
     <country><![CDATA[Brasil]]></country>
     <salaries>
